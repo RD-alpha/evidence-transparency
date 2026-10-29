@@ -1,0 +1,53 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Rising life expectancy",
+        "claim": "Life expectancy at 65 has risen for decades and is projected to keep rising, so people spend an ever larger share of adult life drawing the State Pension unless State Pension age changes."
+      },
+      {
+        "name": "Demographic change and the pay-as-you-go burden",
+        "claim": "The baby-boomer cohort and a rising old age dependency ratio mean fewer workers support more pensioners through pay-as-you-go National Insurance, which pushes State Pension and wider age-related spending up as a share of GDP."
+      },
+      {
+        "name": "Past inaction and rapid catch-up",
+        "claim": "The UK was slow to raise State Pension age in response to longevity, which forced rapid, bunched Acts of Parliament and left some cohorts with very long retirements, showing that the old approach was unsustainable."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Link State Pension age to life expectancy",
+        "claim": "A permanent link between State Pension age and life expectancy, aiming for 'up to 32%' of adult life in receipt, is fair between generations and keeps the pension affordable, and is preferred to cutting the pension's value or raising taxes, which would increase pensioner poverty or burden workers."
+      },
+      {
+        "name": "Rise to 68 in 2037–39",
+        "claim": "Following Cridland, State Pension age should rise to 68 in 2037–39, seven years earlier than legislated, because this saves about £74bn to 2045/46, while the faster 32% timetable is rejected because it would bunch rises on the same cohorts."
+      },
+      {
+        "name": "Uncertainty and deferred decisions",
+        "claim": "Because life expectancy projections are uncertain, the Government will not formalise policy beyond 2037–39 and will hold further reviews before legislating the rise to 68, leaving later rises to future reviews."
+      },
+      {
+        "name": "Universal State Pension age",
+        "claim": "A single State Pension age for everyone should be kept because it is simple and clear for planning, and alternatives such as regional or early-access options are impractical, would leave people with inadequate pensions, and are better handled through the benefit system."
+      }
+    ],
+    "note": "The document also argues a fixed pace of one year per decade, which it rejects in favour of a flexible 32% link, so the proposal partly departs from the independent report."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Notice and communications",
+        "claim": "The Government will aim to give at least ten years' notice of changes and will communicate them through digital tools and stakeholder channels so people can plan their retirement."
+      },
+      {
+        "name": "Wider support package",
+        "claim": "Rises in State Pension age must come with support to save, work longer and protect those who cannot work, delivered through existing welfare, employment and savings policies and assessed over time."
+      }
+    ],
+    "note": "Implementation is a set of loosely specified commitments and intentions ('could', 'will assess') rather than a detailed delivery plan, and no costs are given."
+  }
+}

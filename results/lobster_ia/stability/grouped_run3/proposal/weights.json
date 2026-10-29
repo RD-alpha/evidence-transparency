@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Policy Rationale, Objectives and Legal Context",
+      "reason": "Establishes why a national ban was chosen as the response to overfishing, linking it to MSY/CFP/MSFD obligations and Biodiversity 2020 commitments; without this rationale the choice of intervention has no justification.",
+      "weight": "core"
+    },
+    {
+      "theme": "Policy Options Considered",
+      "reason": "Lays out the alternatives (voluntary v-notching, IFCA byelaws, seasonal ban, do-nothing) and explains why each was rejected in favour of a national SI ban, directly addressing why this intervention was selected over others.",
+      "weight": "core"
+    },
+    {
+      "theme": "Costs of the Policy to Business and Government",
+      "reason": "Provides the monetised cost estimates (lost revenue, familiarisation, enforcement) that are essential to the government's assessment of the proposal's net impact and trade-offs.",
+      "weight": "core"
+    },
+    {
+      "theme": "Benefits and Stock Recovery Modelling",
+      "reason": "Supplies the modelling evidence on stock biomass and landings recovery that justifies accepting near-term costs for long-term conservation and fishery viability benefits, a core support for the chosen intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Methodology, Data and Assumptions",
+      "reason": "Details the underlying data sources and simplifying assumptions used to derive the cost and benefit figures; it strengthens evidential transparency but is supporting detail rather than an independent pillar of the proposal argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Overall Net Benefit and Impact Summary",
+      "reason": "Summarises the net present value figures already derived from the costs and benefits themes; it restates rather than adds a distinct line of argument for the chosen intervention.",
+      "weight": "not core"
+    }
+  ]
+}

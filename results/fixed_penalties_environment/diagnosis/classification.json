@@ -1,0 +1,76 @@
+{
+  "themes": [
+    {
+      "name": "Outdated fixed penalty levels",
+      "ids": [
+        "S0006",
+        "S0008",
+        "S0143",
+        "S0144",
+        "S0145",
+        "S0147",
+        "S0148",
+        "S0150",
+        "S0151",
+        "S0153",
+        "S0155",
+        "S0156",
+        "S0158",
+        "S0159",
+        "S0176"
+      ]
+    },
+    {
+      "name": "Lapsed performance classification for spending receipts",
+      "ids": [
+        "S0012",
+        "S0013",
+        "S0014",
+        "S0244",
+        "S0245",
+        "S0246",
+        "S0247",
+        "S0249",
+        "S0250",
+        "S0251",
+        "S0253",
+        "S0254",
+        "S0258",
+        "S0261",
+        "S0262"
+      ]
+    },
+    {
+      "name": "Difficulty enforcing against littering from vehicles",
+      "ids": [
+        "S0016",
+        "S0017",
+        "S0323",
+        "S0324",
+        "S0326"
+      ]
+    },
+    {
+      "name": "Costs of littering and need to update regulations",
+      "ids": [
+        "S0006",
+        "S0011",
+        "S0155"
+      ]
+    },
+    {
+      "name": "Enforcement training and capacity",
+      "ids": [
+        "S0302",
+        "S0303",
+        "S0304"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": [
+        "S0304"
+      ]
+    }
+  ]
+}

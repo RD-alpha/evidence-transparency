@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Local authority enforcement",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Strengthened enforcement architecture",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant empowerment and education",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Defining permitted charges and deposit arrangements",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant support and choice in deposit alternatives",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Non-discrimination safeguards",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Data sharing and sector coordination",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Legislative framework and sector regulation",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

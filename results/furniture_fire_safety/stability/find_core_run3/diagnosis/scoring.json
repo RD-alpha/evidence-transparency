@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Outdated match test drives excess chemical use",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The mechanics of the match test, the use of illegal PU foam, and the fibre-wrap issue are explained in detail but the only citation (Reference: 4, an ONS Annual Business Survey on SIC codes) does not actually support these technical claims, so the evidence is unlinked and uncited."
+    },
+    {
+      "theme": "Health and environmental harm from flame retardants",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Specific health/environmental findings (endocrine disruption, dust contamination, landfill leaching) are given with explanation, but Reference 2 and 11 point only generically to 'Annex for sample papers/sources' rather than linking a source to each claim."
+    },
+    {
+      "theme": "Scope ambiguity and weak traceability undermine enforcement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The scatter-cushion example and the traceability gap are asserted and illustrated but not backed by any data or study; Reference 6 (test-house cost savings) does not relate to this claim at all."
+    },
+    {
+      "theme": "Existing regulations are effective and must not be weakened",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Specific, directional figures (54 lives, 800 injuries, 1,000 fires, \u00a3140m/year saved) are clearly linked to the claim and properly cited to a named, dated report (Reference: 1, Greenstreet Berman Ltd 2009 for BIS), though no uncertainties or limitations of that report are discussed."
+    }
+  ],
+  "reasoning": "The diagnosis rests on four core themes. 'Outdated match test' (level 1) explains the test mechanics and foam mismatch in detail but its only citation, Reference 4 (an ONS business survey), does not actually support the technical claims, leaving the evidence uncited. 'Health and environmental harm' (level 1) cites specific findings on endocrine disruption and dust contamination but relies on generic 'see Annex for sources' pointers (References 2 and 11), which the framework treats as staying at level 1 since readers cannot trace which source backs which claim. 'Scope ambiguity and weak traceability' (level 0) offers only an illustrative example (scatter cushions) and an assertion about missing supply-chain information, with Reference 6 (test-house cost savings) irrelevant to the claim - no real evidence is given. 'Existing regulations are effective' (level 2) is the strongest: it cites a named, dated report (Greenstreet Berman Ltd 2009, commissioned by BIS) with specific, directional figures (54 lives, 800 injuries, \u00a3140m/year) clearly tied to the claim, though the document does not assess the report's limitations, so it does not reach level 3. The mean of 1, 1, 0, 2 is 1.0, giving a section score of 1. The strongest counter-example to raising this is that even the best-evidenced theme lacks any discussion of uncertainty. To reach level 2 overall, the document would need to properly cite the technical and health claims to specific, locatable sources rather than generic Annex references, and substantiate the scope/traceability claims with actual data.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Safeguards against revenue generation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines assert policy and reasoning (e.g. 'under no circumstances should councils view...' and 'Disproportionate enforcement activity undermines legitimate messages') with no statistic or finding; Reference 23 and Link 42 only point to existing guidance, which describes current rules."
+    },
+    {
+      "theme": "Transparency of enforcement data",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The INSPIRE Regulations (Links 44, 47, Refs 25-26) are cited as the legal basis for publication, but the 'Human Health and Safety' reading is the department's own interpretation, and the claim that 'many local authorities are not aware' has no evidence behind it."
+    },
+    {
+      "theme": "Design of the civil penalty regime",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only evidence is the unreferenced statement that 'experience of other civil penalty schemes (car parking; bus lane...) has demonstrated' early-payment discounts improve payment rates, and the London precedent; the statutory limit in section 88A (Links 64-65) explains why only district and unitary councils are chosen, but the other parameters (\u00a375, 100% increase, 14/28 days) have no supporting evidence and no alternatives are weighed."
+    },
+    {
+      "theme": "Legislative delivery by amending regulations",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines state the intention to amend the Regulations and describe procedural requirements, with no evidence for why this route was chosen; Reference 14 describes existing rules for Dog Control Orders and notices rather than evidence."
+    }
+  ],
+  "reasoning": "The four core themes score 0, 1, 1 and 0, a mean of 0.5, which rounds to 1. The strongest material is in the civil penalty design theme. There, the document says that 'experience of other civil penalty schemes (car parking; bus lane; moving traffic or waste receptacle offences etc.) ... has demonstrated' that early-payment discounts improve payment rates. This is a comparable-policy claim that gives grounds for a design choice, but it carries no reference, so it stays at level 1. The statutory constraint in section 88A (Links 64-65) explains why only district and unitary councils can issue the notices. The transparency theme rests on the INSPIRE Regulations (Links 44, 47) but its claim that data on enforcement must be published is the department's own interpretation, and it offers no evidence for the assertion that many councils are unaware of the duty. The revenue safeguards theme and the legislative route theme are assertion and description only; Reference 14 and Reference 23 describe current rules rather than support the choices. The extract contains no costs, benefits, assumptions, alternatives considered or assessment of uncertainty. The strongest counter-example to level 1 would be the INSPIRE legislative citation, which could be read as a level 2 link, but it is cited for the department's contested reading, not as proof the measure will work. To reach level 2 the document would need to cite the evidence from other penalty schemes, give a reasoned basis for the \u00a375, 100% and 14/28-day parameters, and set out the alternatives and the costs and benefits.",
+  "score": 0,
+  "model_score": 1,
+  "core_mean": 0.5,
+  "score_consistent": false,
+  "missing_core": []
+}

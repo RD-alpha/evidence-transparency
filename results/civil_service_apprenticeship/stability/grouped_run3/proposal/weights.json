@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Scale and Targets for Apprenticeship Growth",
+      "reason": "Sets out the concrete intervention (30,000 apprenticeship starts by 2020) that defines the proposal itself, directly addressing why this specific scale of action was chosen as the government's response.",
+      "weight": "core"
+    },
+    {
+      "theme": "Economic and Business Case for Apprenticeships",
+      "reason": "Provides the cost-benefit rationale (productivity gains, lifetime earnings, levy investment) that justifies why apprenticeships were chosen as the intervention over alternatives, a key should-explain point.",
+      "weight": "core"
+    },
+    {
+      "theme": "Quality, Value and Measuring Success Beyond Numbers",
+      "reason": "Addresses how policymakers assessed strengths/weaknesses of a numbers-only approach, citing Ofsted and NAO evidence to justify balancing quality with scale, which shapes the design of the chosen intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Skills Development and Workforce Capability",
+      "reason": "Explains how the proposal addresses the skills shortage problem by building workforce capability, but largely elaborates on the proposal's expected effects rather than being a distinct support for why this intervention was chosen.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Diversity, Social Mobility and Inclusion",
+      "reason": "Describes an anticipated outcome tied to the stated problem of low diversity/social mobility, but functions as a benefit claim rather than a separate pillar of the choice-of-intervention argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Career Pathways, Employment Offer and Apprentice Experience",
+      "reason": "Describes desirable features of the apprentice experience and employment offer, which are supporting design details rather than core justification for the intervention itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Leading by Example and Alignment with Wider Government Agenda",
+      "reason": "Positions the Civil Service's apprenticeship work within broader government commitments and prior achievements, serving as contextual alignment rather than a core pillar of why this specific intervention was chosen.",
+      "weight": "not core"
+    }
+  ]
+}

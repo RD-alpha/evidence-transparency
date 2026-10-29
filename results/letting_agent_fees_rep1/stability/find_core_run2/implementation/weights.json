@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "theme": "Enforcement through local authorities building on existing practice",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Additional enforcement infrastructure options",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Empowering and educating tenants to drive compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Choice and design of penalties for non-compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Alternative deposit models and holding deposit protections",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Scope of charges permitted under the ban",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Tenant reference checks and passports",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Implementation coherence and legislative framework",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Recovery mechanisms for unlawful fees",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Regulatory frameworks in Scotland, Wales and Northern Ireland",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "National skills shortage and productivity gap",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that skill shortages and weak productivity justify the manifesto target rests only on the stated commitment itself, with no statistic or source given for the scale of the shortage or the productivity gap."
+    },
+    {
+      "theme": "Public sector lag behind private sector",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The figure 'an estimated three-quarters of apprentices work' in the private sector is offered as grounds for the claim that the public sector lags behind, but it carries no reference or link so cannot exceed level 1."
+    },
+    {
+      "theme": "Diversity, inclusion and social mobility deficit",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The statistic 'only 15% of people who have autism currently in full time employment' supports the claim of a specific diversity gap but is uncited, while the other lines on diversity/social mobility are unsupported assertions."
+    },
+    {
+      "theme": "Changing perceptions and equity in apprenticeships",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that traditional views of apprenticeships need changing is asserted with no evidence of how perceptions are measured or what equity gap exists."
+    }
+  ],
+  "reasoning": "The diagnosis rests on three core themes. 'National skills shortage and productivity gap' offers no evidence at all beyond restating the manifesto target, scoring 0. 'Public sector lag behind private sector' does offer a figure -- 'an estimated three-quarters of apprentices work' in the private sector -- to justify why public sector growth should be prioritised, but it is unreferenced, so it reaches only level 1. 'Diversity, inclusion and social mobility deficit' similarly offers one concrete figure, 'only 15% of people who have autism currently in full time employment,' used to illustrate a specific employment gap, but again with no citation, also capping it at level 1; the surrounding claims about the Civil Service 'struggling to get right the diversity' or needing 'more to do' are unsupported assertions. The mean of the three core levels (0, 1, 1) is 0.67, which rounds down to 1. The strongest counter-example is the 15% autism employment statistic, which does real argumentative work in grounding the diversity claim, but even this falls short of level 2 because no source is named or linked. To reach level 2, the document would need to cite the source of the three-quarters and 15% figures (and ideally data on the scale of the national skills shortage), and show clearly how each figure supports the specific claim it is attached to.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,9 @@
+S0048 1.2.1 The funding available to councils to deliver their core services for the rest of this Parliament is broadly flat, in cash terms.
+S0154 3.3.1 Since the introduction of council tax referendums in 2012/13, no referendum principles have been set for local precepting authorities such as town and parish councils (“parishes”), although the Government has made it clear that we would keep this under review and take action if necessary.
+S0156 However, the increase in the average Band D council tax level of 6.1% set by parishes in 2016/17 is notably higher than those in the previous 5 years, as shown in Table 1 below:
+S0157 Table 1: Average percentage increase in Band D council tax levels set by parishes
+S0159 There are around 8,800 precepting parishes in England, which vary widely in terms of resident population and precept charge.
+S0180 3.4.1 The next business rates revaluation takes effect from 1 April 2017.
+S0181 Revaluation is a revenue neutral exercise so the total rates bill will stay the same at the England level in real terms, after allowing for appeals.
+S0182 At the local authority level, overall bills will increase or fall depending upon whether rateable values in that area have performed above or below the average for England, after allowing for appeals.
+S0183 3.4.2 This creates change in the system outside the control of local authorities.

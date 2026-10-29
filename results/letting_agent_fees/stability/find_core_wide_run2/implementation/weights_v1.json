@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Local authority (Trading Standards) enforcement",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Strengthening enforcement infrastructure",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Penalties to deter non-compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant empowerment and education",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Defining the scope of permitted charges",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Legislative framework and complementary measures",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Tenant affordability and deposit alternatives",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

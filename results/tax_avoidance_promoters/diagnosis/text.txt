@@ -1,0 +1,8 @@
+S0001 Who is likely to be affected Promoters of avoidance schemes who seek to circumvent the Promoters of Tax Avoidance Schemes ( POTAS ) legislation through the use of associated and successor entities.
+S0005 Background to the measure Changes to the POTAS legislation were introduced in Finance Act ( FA )
+S0006 2015 to ensure promoters cannot use associated and successor entities to circumvent the legislation.
+S0146 The POTAS legislation was introduced in FA 2014 and aims to change the behaviour of a small and persistent minority of promoters of tax avoidance schemes who display certain behaviours.
+S0148 Where any one of a number of conditions are met, HMRC must consider whether to give the promoter a conduct notice lasting for up to two years.
+S0149 A conduct notice imposes conditions on how that promoter must behave.
+S0150 If the promoter breaches the conditions of the conduct notice, HMRC may apply to the Tribunal for approval to give the promoter a monitoring notice.
+S0151 Monitored promoters are subject to additional information requirements and penalties for non-compliance with those requirements.

@@ -1,0 +1,53 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "TPR's inability to identify the trigger date",
+        "claim": "The current AE duties trigger date cannot be identified by TPR using HMRC employer data, undermining its ability to support and enforce compliance."
+      },
+      {
+        "name": "Mismatch with industry understanding",
+        "claim": "The post-staging trigger date differs from the dates understood by payroll providers, accountants and pension providers, making it hard to explain to employers and advisers."
+      },
+      {
+        "name": "Administrative complexity for employers",
+        "claim": "Most new employers would need to perform complex manual calculations because payroll software does not support the post-staging trigger, increasing burden."
+      },
+      {
+        "name": "Delayed pension saving for workers",
+        "claim": "The current trigger date based on first PAYE income can delay a worker's automatic enrolment by up to a month, working against the AE reforms' aim of early pension saving."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Changing the AE duties trigger date",
+        "claim": "The government has chosen to legislate a new trigger date (the day a worker begins employment) rather than rely on non-legislative approaches, because only a legislative change gives TPR a definitive compliance date and simplifies calculations for employers and providers."
+      },
+      {
+        "name": "Extending the deferral/postponement easement",
+        "claim": "The government proposes to extend the existing three-month postponement easement, previously available only to staging employers, to new post-staging employers because evidence and past review findings show it proportionately eases administrative burdens, especially for those with short-term or seasonal workers, without unduly delaying saving."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Timing relative to the 2017 AE Review",
+        "claim": "The regulations are being implemented ahead of the outcome of the 2017 Review of AE because the changes must be in place before existing provisions start applying to new employers from April 2017."
+      },
+      {
+        "name": "Legislative amendment mechanism",
+        "claim": "The chosen method of delivery is to amend the existing 2010 Regulations via a new Statutory Instrument, requiring a new legislative power to extend the deferral easement to new employers."
+      },
+      {
+        "name": "Permissive, employer-choice design",
+        "claim": "The deferral mechanism is implemented as a permissive option, leaving it to each employer's discretion whether and how long to defer enrolment within the three-month window."
+      }
+    ],
+    "note": ""
+  }
+}

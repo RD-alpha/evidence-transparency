@@ -1,0 +1,38 @@
+<root>
+<theme sentences="3" weight="core">
+<name>Phased, competitive Discover England funding with shared learning</name>
+<claim>The Discover England fund is delivered through phased bids, with larger consortium bids aligning public and private funding streams and a condition that learning is shared so successes can be replicated.</claim>
+<text>
+<line id="S0082">In May, phase one of the fund was launched and the first winners have now been announced.</line>
+<line id="S0085">We have launched the criteria for bigger bids of over £1 million.</line>
+<line id="S0087">Winning bids will ideally align investment in tourism and culture from a range of different private and public funding streams – for example, the Local Growth Fund, the Coastal Communities Fund, the Rural Development Programme for England (including LEADER), Arts Council England and the Heritage Lottery Fund – to support the development of a world class visitor experience. ** (Reference: 5)</line>
+</text>
+<references>
+<reference number="5">LEADER funding provides smaller amounts of funding to local businesses through the 80 LEADER action groups that have been established across the country.</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="core">
+<name>Piloting and industry partnership delivery</name>
+<claim>Measures such as the apprenticeship pilot and GREAT Rail itineraries are delivered by piloting with industry partners and then drawing on the results to shape wider approaches.</claim>
+<text>
+<line id="S0092">We are delighted to be working with a range of companies - including PGL, TUI, Merlin Entertainments, Eurocamp, Monarch Airlines and Parkdean Holidays, as well as colleges across the country to take this forward.</line>
+<line id="S0127">VisitBritain and the Rail Delivery Group have today launched a competition for ten people (five lucky pairs) to road- test these itineraries.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="not core">
+<name>Parliamentary and Treasury follow-up</name>
+<text>
+<line id="S0147">HM Treasury is carefully considering the responses received to the discussion paper and will respond in due course, setting out next steps.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

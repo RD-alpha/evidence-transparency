@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "name": "Productivity and infrastructure",
+      "ids": [
+        "S0001",
+        "S0020",
+        "S0033"
+      ]
+    },
+    {
+      "name": "Local authority role and borrowing costs",
+      "ids": [
+        "S0075",
+        "S0076",
+        "S0078"
+      ]
+    },
+    {
+      "name": "Local government borrowing landscape",
+      "ids": [
+        "S0050",
+        "S0051",
+        "S0055",
+        "S0085"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": []
+    }
+  ]
+}

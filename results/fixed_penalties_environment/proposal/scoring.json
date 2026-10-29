@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Raising fixed penalty levels",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Manifesto (Ref 1), Select Committee report (Ref 12), Welsh ranges (Ref 15) and the Scottish rise to \u00a380 backed by two-thirds consultation support (Ref 16) are cited and tied to the options, with trade-offs weighed, but the inflation claim is uncited, the Scottish 'two thirds' lacks method detail, and no evidence is given that higher penalties deter."
+    },
+    {
+      "theme": "Civil penalties for littering from vehicles",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claims that one London borough issued 72 notices in 2014/15 and that the Select Committee endorsed the extension (Links 57, 58) are offered as grounds, but the 72-notice figure is uncited, the effectiveness claims (efficient, deterrent) are asserted without evidence, and the many regulation lines only describe the measure."
+    },
+    {
+      "theme": "Spending flexibility for penalty income",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The only support is the manifesto commitment on ring-fencing (Ref 24, Link 43), which is a commitment rather than evidence, and the 'permanent loss of flexibility' claim is bare argument; the regulation text just describes the measure."
+    },
+    {
+      "theme": "Removing training course approval",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only evidence is the uncited comparison with the Welsh regulations, which require 'a fixed penalty training course'; the barrier-to-competition and quality-mark claims are unsupported assertions and no references or links are given."
+    },
+    {
+      "theme": "Enforcement powers and legislative framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines mostly describe draft regulations and amendments to the 1990 and 2003 Acts, which define the current rules and the measure rather than evidencing a choice; Refs 42 and 43 are undefined."
+    }
+  ],
+  "reasoning": "The four core themes are scored separately and then averaged. Raising fixed penalty levels is the strongest (level 2). It cites the manifesto (Ref 1), the Select Committee report (Ref 12), Welsh penalty ranges (Ref 15) and the Scottish increase from \u00a350 to \u00a380, where 'two thirds of respondents' favoured a rise (Ref 16). Each is linked to the options, and the document weighs costs and flexibility against them. It stays below level 3 because the inflation restoration claim is uncited, and nothing shows that higher penalties actually deter. Civil penalties for vehicles is level 1. The line 'issued 72 penalty charge notices in 2014/15' and the Select Committee endorsement (Links 57, 58) are offered as grounds, but the 72 figure is uncited and the claims that the scheme is 'an efficient use of councils' resources' and 'will act as a deterrent' rest on no evidence. Spending flexibility is level 0 because the manifesto commitment (Ref 24) is a commitment, not evidence. Removing training approval is level 1, resting only on an uncited Welsh comparison, with competition claims asserted. The mean is (2+1+0+1)/4 = 1.0, so the section scores 1. The strongest counter-example is the penalty-levels theme, which approaches a fuller evidence-based case. To reach level 2 overall, the document would need to cite and link evidence for the civil penalty, spending and training proposals, and show how that evidence leads to each choice.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

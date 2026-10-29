@@ -1,0 +1,349 @@
+[
+  {
+    "number": "1",
+    "text": "https://www.gov.uk/government/publications/rochford-review-interim-recommendations",
+    "source_alias": "rochford_1",
+    "source_title": "Inclusive assessment for primary school pupils (source 1)",
+    "source_number": "1"
+  },
+  {
+    "number": "2",
+    "text": "https://www.gov.uk/government/publications/rochford-review-final-report",
+    "source_alias": "rochford_1",
+    "source_title": "Inclusive assessment for primary school pupils (source 1)",
+    "source_number": "2"
+  },
+  {
+    "number": "3",
+    "text": "https://www.gov.uk/government/publications/rochford-review-final-report.",
+    "source_alias": "rochford_1",
+    "source_title": "Inclusive assessment for primary school pupils (source 1)",
+    "source_number": "3"
+  },
+  {
+    "number": "4",
+    "text": "https://www.gov.uk/government/publications/send-code-of-practice-0-to-25",
+    "source_alias": "rochford_1",
+    "source_title": "Inclusive assessment for primary school pupils (source 1)",
+    "source_number": "4"
+  },
+  {
+    "number": "5",
+    "text": "http://complexld.ssatrust.org.uk/uploads/CLDD_project_report_final.pdf",
+    "source_alias": "rochford_1",
+    "source_title": "Inclusive assessment for primary school pupils (source 1)",
+    "source_number": "5"
+  },
+  {
+    "number": "6",
+    "text": "https://www.gov.uk/government/publications/send-code-of-practice-0-to-25",
+    "source_alias": "rochford_1",
+    "source_title": "Inclusive assessment for primary school pupils (source 1)",
+    "source_number": "6"
+  },
+  {
+    "number": "7",
+    "text": "Reference #STA in 'Inclusive assessment for primary school pupils (source 1)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_1",
+    "source_title": "Inclusive assessment for primary school pupils (source 1)",
+    "source_number": "STA",
+    "missing": true
+  },
+  {
+    "number": "8",
+    "text": "Reference #1 in 'Inclusive assessment for primary school pupils (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_2",
+    "source_title": "Inclusive assessment for primary school pupils (source 2)",
+    "source_number": "1",
+    "missing": true
+  },
+  {
+    "number": "9",
+    "text": "Reference #2 in 'Inclusive assessment for primary school pupils (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_2",
+    "source_title": "Inclusive assessment for primary school pupils (source 2)",
+    "source_number": "2",
+    "missing": true
+  },
+  {
+    "number": "10",
+    "text": "Reference #0 in 'Inclusive assessment for primary school pupils (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_2",
+    "source_title": "Inclusive assessment for primary school pupils (source 2)",
+    "source_number": "0",
+    "missing": true
+  },
+  {
+    "number": "11",
+    "text": "Reference #3 in 'Inclusive assessment for primary school pupils (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_2",
+    "source_title": "Inclusive assessment for primary school pupils (source 2)",
+    "source_number": "3",
+    "missing": true
+  },
+  {
+    "number": "12",
+    "text": "Reference #8 in 'Inclusive assessment for primary school pupils (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_2",
+    "source_title": "Inclusive assessment for primary school pupils (source 2)",
+    "source_number": "8",
+    "missing": true
+  },
+  {
+    "number": "13",
+    "text": "Reference #16 in 'Inclusive assessment for primary school pupils (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_2",
+    "source_title": "Inclusive assessment for primary school pupils (source 2)",
+    "source_number": "16",
+    "missing": true
+  },
+  {
+    "number": "14",
+    "text": "Reference #32 in 'Inclusive assessment for primary school pupils (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_2",
+    "source_title": "Inclusive assessment for primary school pupils (source 2)",
+    "source_number": "32",
+    "missing": true
+  },
+  {
+    "number": "15",
+    "text": "Reference #37 in 'Inclusive assessment for primary school pupils (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_2",
+    "source_title": "Inclusive assessment for primary school pupils (source 2)",
+    "source_number": "37",
+    "missing": true
+  },
+  {
+    "number": "16",
+    "text": "Reference #7 in 'Inclusive assessment for primary school pupils (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_2",
+    "source_title": "Inclusive assessment for primary school pupils (source 2)",
+    "source_number": "7",
+    "missing": true
+  },
+  {
+    "number": "17",
+    "text": "Reference #12 in 'Inclusive assessment for primary school pupils (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_2",
+    "source_title": "Inclusive assessment for primary school pupils (source 2)",
+    "source_number": "12",
+    "missing": true
+  },
+  {
+    "number": "18",
+    "text": "Reference #17 in 'Inclusive assessment for primary school pupils (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_2",
+    "source_title": "Inclusive assessment for primary school pupils (source 2)",
+    "source_number": "17",
+    "missing": true
+  },
+  {
+    "number": "19",
+    "text": "Reference #5 in 'Inclusive assessment for primary school pupils (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_2",
+    "source_title": "Inclusive assessment for primary school pupils (source 2)",
+    "source_number": "5",
+    "missing": true
+  },
+  {
+    "number": "20",
+    "text": "Reference #9 in 'Inclusive assessment for primary school pupils (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_2",
+    "source_title": "Inclusive assessment for primary school pupils (source 2)",
+    "source_number": "9",
+    "missing": true
+  },
+  {
+    "number": "21",
+    "text": "Reference #10 in 'Inclusive assessment for primary school pupils (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_2",
+    "source_title": "Inclusive assessment for primary school pupils (source 2)",
+    "source_number": "10",
+    "missing": true
+  },
+  {
+    "number": "22",
+    "text": "Reference #20 in 'Inclusive assessment for primary school pupils (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_2",
+    "source_title": "Inclusive assessment for primary school pupils (source 2)",
+    "source_number": "20",
+    "missing": true
+  },
+  {
+    "number": "23",
+    "text": "A framework of core content for initial teacher training (ITT).",
+    "source_alias": "rochford_3",
+    "source_title": "Inclusive assessment for primary school pupils (source 3)",
+    "source_number": "1"
+  },
+  {
+    "number": "24",
+    "text": "Full details of the projects are available on the EEF website.",
+    "source_alias": "rochford_3",
+    "source_title": "Inclusive assessment for primary school pupils (source 3)",
+    "source_number": "2"
+  },
+  {
+    "number": "25",
+    "text": "Details of this work are available on The Bell Foundation website.",
+    "source_alias": "rochford_3",
+    "source_title": "Inclusive assessment for primary school pupils (source 3)",
+    "source_number": "3"
+  },
+  {
+    "number": "26",
+    "text": "Reference #DFE-00252-2017 in 'Inclusive assessment for primary school pupils (source 3)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_3",
+    "source_title": "Inclusive assessment for primary school pupils (source 3)",
+    "source_number": "DFE-00252-2017",
+    "missing": true
+  },
+  {
+    "number": "27",
+    "text": "https://www.gov.uk/government/statistics/national-curriculum-assessments-key-stage-2-2016-revised.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "1"
+  },
+  {
+    "number": "28",
+    "text": "This section refers to Rochford Review recommendations 1 and 2. R1. The removal of the statutory requirement to assess pupils using P scales. R2. The interim pre-key stage standards for pupils working below the standard of national curriculum tests are made permanent and extended to include all pupils engaged in subject-specific learning.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "2"
+  },
+  {
+    "number": "29",
+    "text": "Ndaji, F and Tymms, P (2010) The P-scales: how well are they working?  British Journal of Special Education Vol. 37 No. 4 pp.198-208.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "3"
+  },
+  {
+    "number": "30",
+    "text": "The interim pre-key stage standards in writing have been reviewed to reflect changes to the mainstream teacher assessment frameworks in writing.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "4"
+  },
+  {
+    "number": "31",
+    "text": "This section refers to Rochford Review recommendations 3, 4 and 5. R3. Schools assess pupils’ development in all 4 areas of need outlined in the SEND Code of Practice, but statutory assessment for pupils who are not engaged in subject-specific learning should be limited to the area of cognition and learning. R4. There should be a statutory duty to assess pupils not engaged in subject-specific learning against the following 7 aspects of cognition and learning and report this to parents and carers: responsiveness; curiosity; discovery; anticipation; persistence; initiation; and investigation. R5. Following recommendation 4, schools should decide their own approach to making these assessments, according to the curriculum that they use and the needs of their pupils.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "5"
+  },
+  {
+    "number": "32",
+    "text": "http://complexld.ssatrust.org.uk/uploads/CLDD%20research%20project%20(Final)%20Exec%20sum.pdf.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "6"
+  },
+  {
+    "number": "33",
+    "text": "Daniels, H and Porter, J (2007) Learning needs & difficulties among children of primary school age: Definition, identification, provision and issues. Primary Review Research Survey 5/2.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "7"
+  },
+  {
+    "number": "34",
+    "text": "This section refers to Rochford Review recommendation 9. R9 - There should be no requirement to submit assessment data on the seven areas of cognition and learning to the Department for Education, but schools must be able to provide evidence to support a dialogue with parents and carers, inspectors, regional schools commissioners, local authorities, school governors and those engaged in peer review to ensure robust and effective accountability.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "8"
+  },
+  {
+    "number": "35",
+    "text": "This section refers to Rochford Review recommendations 6, 7 and 8. R6. Initial Teacher Training (ITT) and Continuing Professional Development (CPD) for staff in educational settings should reflect the need for teachers to have a greater understanding of assessing pupils working below the standard of national curriculum tests, including those pupils with SEND who are not engaged in subject-specific learning. R7. Where there is demonstrable good practice in schools, those schools should actively share their expertise and practice with others. Schools in need of support should actively seek out and create links with those that can help to support them. R8. Schools should work collaboratively to develop an understanding of good practice in assessing pupils working below the standard of national curriculum tests, particularly across different educational settings. Schools should support this by actively engaging in quality assurance, such as through school governance and peer review.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "9"
+  },
+  {
+    "number": "36",
+    "text": "A framework of core content for initial teacher training.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "10"
+  },
+  {
+    "number": "37",
+    "text": "https://www.gov.uk/government/statistics/schools-pupils-and-their-characteristics-january-2014.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "11"
+  },
+  {
+    "number": "38",
+    "text": "Strand, S., Malmberg, L., and Hall, J. (2015). English as an Additional Language (EAL) and educational achievement: An analysis of the National Pupil Database. London: Educational Endowment Foundation.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "12"
+  },
+  {
+    "number": "39",
+    "text": "R10. Further work should be done to consider the best way to support schools with assessing pupils with English as an additional language.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "13"
+  },
+  {
+    "number": "40",
+    "text": "Full details of the projects are available on the EEF website (educationendowmentfoundation.org.uk).",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "14"
+  },
+  {
+    "number": "41",
+    "text": "Details of this work are available on The Bell Foundation website (bell-foundation.org.uk).",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "15"
+  },
+  {
+    "number": "42",
+    "text": "Institute of Education (2009). English as an Additional Language (EAL) provision in schools – 10 case studies. Institute of Education report produced under contract from the Training and Development Agency for Schools.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "16"
+  },
+  {
+    "number": "43",
+    "text": "Cline, T. & Shamsi, T. (2000). Language needs or special needs? The assessment of learning difficulties in literacy among children learning English as an additional language: a literature review. London: DfEE Research Report 184.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "17"
+  },
+  {
+    "number": "44",
+    "text": "Hutchinson, J.M., Whiteley, H.E., Smith, C.D, & Connors, L. (2004). The Early Identification of Dyslexia: Children with English as an Additional Language. Dyslexia, 10, 179-195.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "18"
+  },
+  {
+    "number": "45",
+    "text": "Murphy, V. & Unthiah, A. (2015) A systematic review of intervention research examining English language and literacy development in children with English as an Additional Language (EAL). London: Educational Endowment Foundation.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "19"
+  },
+  {
+    "number": "46",
+    "text": "Cummins, J. (2012). The intersection of cognitive and sociocultural factors in the development of reading comprehension among immigrant students. Reading and Writing, 25, 1973-1990.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "20"
+  },
+  {
+    "number": "47",
+    "text": "Reference #DFE-00253-2017 in 'Inclusive assessment for primary school pupils (source 4)' was cited in the text but has no definition in that document.",
+    "source_alias": "rochford_4",
+    "source_title": "Inclusive assessment for primary school pupils (source 4)",
+    "source_number": "DFE-00253-2017",
+    "missing": true
+  }
+]

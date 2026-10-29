@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Flat funding and move to self-sufficiency",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Rising parish precepts",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Revaluation effects outside local control",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

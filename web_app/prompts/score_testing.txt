@@ -1,0 +1,20 @@
+You are applying the Evidence transparency framework (Sense about Science, the
+Institute for Government and the Alliance for Useful Evidence, revised 2017) to
+TESTING AND EVALUATION of $intervention.
+
+The question you are answering is: how will we know if the policy has worked?
+
+WHAT THE DOCUMENT SHOULD EXPLAIN
+$should_explain
+
+LEVELS (each level also requires everything below it)
+0 - No indication of success measures, testing or evaluation.
+1 - Some indication of success measures, but no plans for testing or evaluation,
+    and no explanation of why testing or evaluation would be inappropriate.
+2 - More comprehensive success measures, or the process for developing them is
+    outlined. Also provides details about the use of testing and plans for
+    evaluation, or explains why testing or evaluation would not be appropriate.
+3 - As in level 2, but explains the reasons for the use of testing and plans for
+    evaluation. It is also clear what will happen to the results of testing and
+    evaluation, including timing and plans for publication. This must be the
+    document setting these out.

@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Bespoke specialist regulator for social work",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Only the lines 'There is significant support for our ambition...' and 'Everyone we have spoken to recognises the pivotal role...' offer consultation feedback as grounds, with no account of who was spoken to, how many or how, so it stays at level 1; the rest describes the body's remit."
+    },
+    {
+      "theme": "Independence from government as an NDPB",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The shift to an NDPB rests on 'Concerns have been raised... in the House of Lords and in our conversations with a wider range of stakeholders' and 'The chief concern has been...', with the method unclear, and the reference to Devolved Administrations is uncited, so level 1."
+    },
+    {
+      "theme": "Focused regulatory remit and external oversight",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Law Commission report (Reference: 1) is cited for the shared public-protection objective, but the separation of improvement rests on uncited 'mixed views' from unspecified consultation; the Law Commission link is thin and the evidence is not assessed, so it stays at level 1."
+    },
+    {
+      "theme": "Standards set with sector input",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The amendment rests on 'the concerns we have heard' about independence and objective standards, with no detail on who was consulted or how, so it stays at level 1."
+    },
+    {
+      "theme": "Engagement and funding of the new body",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Further engagement 'with representatives from across the sector and Peers' and the \u00a310m set-up and \u00a316m running cost estimates are given without method or assumptions, and the full costs are deferred to a later impact assessment."
+    }
+  ],
+  "reasoning": "All four core themes reach level 1, giving a mean of 1.0 and a score of 1. The case for the intervention rests almost wholly on unquantified consultation feedback. 'There is significant support for our ambition' and 'Everyone we have spoken to recognises the pivotal role' do not say who was consulted, how many responded or what they were asked, so a citizen cannot check the primary evidence. The move to an NDPB cites 'Concerns... in the House of Lords and in our conversations with a wider range of stakeholders', and 'The chief concern has been...'; this does show how the evidence led to the decision, but it gives no method. The remit theme has the only citation, 'Following the Law Commission report, all current health and social care regulators have a similar objective... (Reference: 1)'. It is a followable source, but it supports only the objective wording, not the choice of a new regulator, and the document does not say what it found about regulator performance. The standards theme depends on 'concerns we have heard'. The strongest counter-example to level 1 is the Law Commission reference, which is traceable and linked to the public-protection objective, so one part of one theme could reach level 2. Nothing is assessed: no evidence of how the current regulator performed, no weighing of alternatives beyond the executive agency, and no acknowledgement of uncertainty. To reach level 2 the document would need to give consultation method and numbers, cite its sources, and link them to each design choice. For level 3 it would need to assess the evidence and its limits.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

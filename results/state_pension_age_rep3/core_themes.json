@@ -1,0 +1,53 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Rising life expectancy",
+        "claim": "Life expectancy at 65 has risen steadily and is projected to keep rising, so people spend a growing proportion of adult life in receipt of State Pension unless the State Pension age changes."
+      },
+      {
+        "name": "Demographic ageing and pay-as-you-go pressure",
+        "claim": "Baby boomers retiring and a rising old age dependency ratio mean fewer workers support more pensioners under a pay-as-you-go system, pushing State Pension spending up by about 1% of GDP by 2036/37 and raising wider age-related costs."
+      },
+      {
+        "name": "Past delay and the case for a structured framework",
+        "claim": "The UK was slow to adjust State Pension age to longevity, forcing rapid, repeated rises over the past decade and leaving a need for a coherent framework of regular reviews."
+      }
+    ],
+    "note": "Projections are acknowledged as uncertain, but the diagnosis mostly states trends and figures rather than assessing evidence strength."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Linking State Pension age to life expectancy and bringing the rise to 68 forward",
+        "claim": "The Government will raise State Pension age to 68 in 2037-39, seven years earlier than legislated, following Cridland's recommendation, because linking the age to longevity keeps the system sustainable and fair, and the alternatives of lower pensions, higher taxes or leaving the age unchanged would raise poverty or burden workers."
+      },
+      {
+        "name": "Fairness between generations",
+        "claim": "Aiming for up to 32% of adult life in receipt of State Pension in the long run gives future generations broadly the same deal as recent ones while keeping the pension affordable for future taxpayers."
+      },
+      {
+        "name": "Pace of change and a universal State Pension age",
+        "claim": "Rises should be spaced to avoid back-to-back increases for the same cohorts, and a single universal State Pension age is retained for its simplicity and clarity, with disadvantaged groups helped through the benefit system rather than varied ages."
+      },
+      {
+        "name": "Costs, savings and benefits",
+        "claim": "The 2037-39 timetable saves £74bn by 2045/46 and about 0.4% of GDP in 2039/40 compared with current legislation and should raise employment, though spending still rises."
+      }
+    ],
+    "note": "Further reviews will settle the final rise to 68 and anything beyond it, so the policy is only partly decided."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Notice and communication",
+        "claim": "The Government will give at least ten years' notice of changes and run a communications strategy using digital tools and stakeholders so people can plan for their State Pension age."
+      },
+      {
+        "name": "Wider support package for working longer and those who cannot work",
+        "claim": "Raising State Pension age must come with measures that help people save and work longer, such as Automatic Enrolment and Fuller Working Lives, and support those with disability, health conditions or caring responsibilities through the welfare system."
+      }
+    ],
+    "note": "Delivery is largely a package of separate measures and commitments to review later, with little reasoning about why these methods were chosen over others."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "National skills shortage and productivity gap",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that the manifesto target addresses skill shortages and boosts growth is asserted with no statistic, source, or data on the scale of the shortage anywhere in the extract."
+    },
+    {
+      "theme": "Public sector lagging the private sector",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The figure that 'an estimated three-quarters of apprentices work' in the private sector is used to explain why the public sector is being asked to accelerate growth, but no source or reference is given for the estimate."
+    },
+    {
+      "theme": "Diversity, inclusion and social mobility shortfall",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The statistic that 'only 15% of people who have autism [are] currently in full time employment' is offered as evidence of a diversity/employment gap and is explained in context, but it carries no citation or source."
+    },
+    {
+      "theme": "Changing perceptions of apprenticeships",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single sentence asserts a need to change perceptions with no evidence of what the 'traditional view' is or data showing its effect."
+    }
+  ],
+  "reasoning": "The three core themes vary in how much evidence underpins them. 'National skills shortage and productivity gap' offers no evidence at all\u2014just the assertion that the manifesto commitment 'is driven by an ambition to address our nation's skill shortages and stimulate economic growth'\u2014so it scores 0. 'Public sector lagging the private sector' uses a statistic ('an estimated three-quarters of apprentices work' in the private sector) to justify asking the public sector to grow faster, but this figure is uncited, keeping it at level 1. 'Diversity, inclusion and social mobility shortfall' similarly uses a specific figure\u2014'only 15% of people who have autism currently in full time employment'\u2014to substantiate the diversity/employment gap claim, again with no citation, so it also reaches level 1. The mean of 0, 1 and 1 is 0.67, which rounds down to a section score of 1. The strongest counter-example against going higher is that none of the three core claims carry a reference or link a reader could follow, despite each resting on a quantitative claim (three-quarters, 15%) that reads as though it should be sourced. To reach level 2, the document would need to cite the source of the three-quarters apprenticeship-split figure and the 15% disability employment statistic, and show clearly how each links to the specific diagnosis being made about skills shortages or diversity gaps.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

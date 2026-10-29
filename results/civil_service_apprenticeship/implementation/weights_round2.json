@@ -1,0 +1,59 @@
+{
+  "themes": [
+    {
+      "theme": "Apprenticeship Routes and Creation Methods",
+      "reason": "This theme directly lays out the three core delivery methods (converting recruitment, upskilling existing staff, enhancing schemes) by which apprenticeships will be rolled out, which is the central 'how it will be implemented' answer for this aspect.",
+      "weight": "core"
+    },
+    {
+      "theme": "Recruitment and Talent Identification",
+      "reason": "Explains necessary changes to recruitment practices to support the chosen delivery routes, a supporting mechanism rather than the central implementation method itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Pay, Rewards and Compensation",
+      "reason": "Touches on reward structure needed to support apprenticeships but is a brief, narrow supporting detail rather than a pillar of the implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Career Development and Pathways",
+      "reason": "Describes how apprenticeships will be embedded into career structures and professional pathways, forming a key part of how the intervention is operationally rolled out and sustained.",
+      "weight": "core"
+    },
+    {
+      "theme": "Diversity, Inclusion and Social Mobility",
+      "reason": "Addresses how implementation will target underrepresented groups, directly tying delivery methods to the stated problem of low diversity/social mobility, making it a core support.",
+      "weight": "core"
+    },
+    {
+      "theme": "Geographic Reach and Regional Spread",
+      "reason": "Describes extending the rollout across UK nations, an important but secondary scope detail rather than a central method of delivery.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Quality Assurance and Standards",
+      "reason": "Details standards and training provider quality assurance, which is a supporting operational detail rather than the main rationale for how implementation occurs.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Apprenticeship Targets and Policy Framework",
+      "reason": "States the quantitative target but does not explain the implementation method itself, functioning more as background policy context.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Governance and Implementation",
+      "reason": "Lays out the governance structure (Cabinet Office SRO role, departmental delivery plans) that drives and coordinates the rollout, forming a core organizational backbone of implementation.",
+      "weight": "core"
+    },
+    {
+      "theme": "Cross-Sector Collaboration",
+      "reason": "Discusses extending collaboration beyond Civil Service to wider economy, a supplementary element rather than central to how the core intervention is delivered.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Funding and Resources",
+      "reason": "Mentions levy funding mechanics briefly, a minor administrative/financial detail not central to the overall implementation argument.",
+      "weight": "not core"
+    }
+  ]
+}

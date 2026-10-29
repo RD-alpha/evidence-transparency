@@ -1,0 +1,129 @@
+{
+  "themes": [
+    {
+      "name": "Transition period design",
+      "ids": [
+        "S0521",
+        "S0522",
+        "S0523",
+        "S0525",
+        "S0526",
+        "S0527",
+        "S1336",
+        "S1337",
+        "S1338",
+        "S1339",
+        "S1340",
+        "S1341",
+        "S1342",
+        "S1343",
+        "S1344",
+        "S1345",
+        "S1346"
+      ]
+    },
+    {
+      "name": "Statutory mechanism for delivery",
+      "ids": [
+        "S0054",
+        "S0604",
+        "S1556",
+        "S1673",
+        "S1674",
+        "S1678",
+        "S1679",
+        "S1680",
+        "S1683",
+        "S2133",
+        "S2144"
+      ]
+    },
+    {
+      "name": "Technical file and labelling specification",
+      "ids": [
+        "S0471",
+        "S0472",
+        "S0473",
+        "S0474",
+        "S0475",
+        "S0476",
+        "S0477",
+        "S0478",
+        "S0479",
+        "S0485",
+        "S1254",
+        "S1255",
+        "S1256",
+        "S1257",
+        "S1258",
+        "S1259",
+        "S1260",
+        "S1261",
+        "S1267",
+        "S1352",
+        "S1353",
+        "S1354",
+        "S1387",
+        "S1398",
+        "S2140",
+        "S2338",
+        "S2339"
+      ]
+    },
+    {
+      "name": "Business guidance and support for compliance",
+      "ids": [
+        "S1518",
+        "S1519",
+        "S1520",
+        "S1521",
+        "S1522",
+        "S1537"
+      ]
+    },
+    {
+      "name": "SME support and equity considerations",
+      "ids": [
+        "S0523",
+        "S1535",
+        "S1536",
+        "S1537"
+      ]
+    },
+    {
+      "name": "Consultation and evidence-gathering approach",
+      "ids": [
+        "S0054",
+        "S1168",
+        "S1169",
+        "S1170",
+        "S1171",
+        "S1172",
+        "S1179",
+        "S1180",
+        "S1181",
+        "S1182",
+        "S1183",
+        "S1184",
+        "S1188",
+        "S1190",
+        "S1278",
+        "S1365",
+        "S1369",
+        "S1370",
+        "S1377",
+        "S1380",
+        "S1385"
+      ]
+    },
+    {
+      "name": "Enforcement timelines and authority powers",
+      "ids": [
+        "S1267",
+        "S1879",
+        "S1880",
+        "S1881"
+      ]
+    }
+  ]
+}

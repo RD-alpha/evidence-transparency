@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Ban on microbeads in cosmetics and personal care products",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claims that the ban 'protects the marine environment', 'provides a level playing field' and 'builds consumer confidence' are asserted repeatedly but no statistic, study or data point is offered to show the ban will achieve these effects."
+    },
+    {
+      "theme": "Voluntary industry action as insufficient basis",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The 72% figure (Reference 9, CTPA personal communication) is mentioned and explained, but the document does not spell out why this level of voluntary action is insufficient or link the figure explicitly to the need for legislation, and the source itself is not independently verifiable."
+    },
+    {
+      "theme": "International alignment and precedent",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Specific examples (USA Microbead-Free Waters Act, Italy's bill, France's ban) are described with some detail, but none carry a reference or link, so a reader cannot verify the sources."
+    },
+    {
+      "theme": "Limited impact but symbolic/precautionary value",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that a UK-only ban would have 'only a small impact' and that microbeads 'do not biodegrade' is pure assertion/reasoning with no data, study or citation behind it."
+    }
+  ],
+  "reasoning": "The four core themes score unevenly low. The ban-rationale theme (level 0) relies entirely on assertions such as 'this ban protects the marine environment' with no supporting data. The voluntary-action theme (level 1) does cite a figure -72% of companies ceasing sales by 2017- via Reference 9, but this is a personal communication from an industry body, not independently verifiable, and the document never explains why this falls short, leaving the step to legislation unlinked. The international precedent theme (level 1) lists concrete comparators (US Act, Italian and French bans) but attaches no reference or link to any of them, so a reader cannot check the claims. The precautionary-value theme (level 0) is pure reasoning ('would be expected to have only a small impact... do not biodegrade') with no evidence cited. Mean of (0,1,1,0) = 0.5, which rounds down to 0. The strongest counter-example is Reference 9's 72% figure, which does show some use of named evidence, but it is too thinly linked to the policy decision and not a fully traceable source to lift the section above level 0 overall. To reach level 1 consistently, the document would need to explain, for the ban's own rationale and the precautionary-value claim, what evidence (even unnamed research) grounds the expected effectiveness; to reach level 2, the international and industry-commitment evidence would need proper citations/links and explicit reasoning tying them to the UK's chosen measures.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.5,
+  "score_consistent": true,
+  "missing_core": []
+}

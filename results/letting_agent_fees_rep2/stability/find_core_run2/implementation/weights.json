@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Local authority enforcement built on existing Trading Standards role",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Need for additional enforcement support mechanisms",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant empowerment and education as an enforcement tool",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Penalty regime for non-compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Defining permitted charges and exceptions to the ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Legislative framework and implementation coherence",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "International and devolved jurisdictions: comparative regulation models",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Notice and communication of changes",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The ten-year notice commitment and communications strategy (lines such as 'We will also seek to provide a minimum of ten years\u2019 notice') are commitments and reasoning, with no statistic, finding or cited source; the references and links blocks are empty."
+    },
+    {
+      "theme": "Wider support package alongside rises",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The agreement with Cridland and the pledge to 'take account of the Government\u2019s recent consultation on health and work' name sources but give no findings or explanation of how they shape the package, and nothing is cited."
+    },
+    {
+      "theme": "Statutory review mechanism",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Pensions Act 2014 requirement for Government Actuary and Independent Reviewer reports, the 'up to one third' of adult life principle and the 2028-2064 timetables explain how the route was set, but the reports are uncited and no results or assessment are given."
+    }
+  ],
+  "reasoning": "All three themes in this extract are core, and none offers a source a reader could follow, since the references and links blocks are empty. 'Notice and communication of changes' scores 0. The pledge of 'a minimum of ten years\u2019 notice' and the digital communications strategy are commitments and reasoning. Nothing shows why ten years is enough. The only quasi-evidence is that 'There is no legislative requirement' for notice, which describes current rules. 'Wider support package alongside rises' also scores 0. It names Cridland's recommendations and the health and work consultation, but gives no finding from either and does not say how they will shape the package. Both are deferred to 'future consideration'. 'Statutory review mechanism' reaches level 1. It explains how the Pensions Act 2014 requires a Government Actuary report and an independent report, that the timetables rest on the 'up to one third' of adult life principle and cover 2028 to 2064, and that Cridland wrote the independent report. This shows the method of deciding, but the reports are not cited and their results are absent. The mean is (0+0+1)/3 = 0.33, which rounds to 0. The strongest counter-example is the statutory theme, which does explain the decision route and might be argued to deserve a higher level. Even so, it stays at 1 because nothing is cited and no findings are given. To reach level 1 across the section, the document would need to report what the Cridland report and consultation found and how those findings shaped the notice period and support package. For level 2 it would need references to those reports.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

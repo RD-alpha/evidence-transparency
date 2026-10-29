@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "High, variable and opaque tenant fees",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Multiple cited surveys (EHS, NALS, ARLA, Generation Rent, Shelter - References 3,4,5,6,10) give contrasting average-fee figures (\u00a3172 vs \u00a3223 vs \u00a3400) that are set against each other, and DCLG's own primary research is described with clear method (random sample of 50 agents, website search), together amounting to an assessment of a varied evidence base."
+    },
+    {
+      "theme": "Weak tenant market power and perverse agent incentives",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only properly cited figure is the NLA survey (Reference 11, 'a quarter of landlords... did not know whether their letting agent charged fees'), while the central incentive/competition argument and the named-but-uncited 2013 OFT study rest on reasoning rather than linked evidence."
+    },
+    {
+      "theme": "Financial detriment and barriers to mobility",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Citizens' Advice's cited finding (Reference 13: '64% of tenants experienced problems paying... 42% had to borrow money') is directly linked to the harm claim, though the EHS mobility stats (35%/34%) carry no reference marker and remain only level 1."
+    },
+    {
+      "theme": "Nature and scope of private rental sector",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The EHS-derived growth figures are stated with explanation but cited only generically (Reference 1) without being tied to a specific claim about the fees problem."
+    },
+    {
+      "theme": "Letting agent fee structures and timing",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Descriptive claims about deposits, holding fees and tenancy lengths are explained but mostly uncited beyond a single generic EHS reference (7)."
+    },
+    {
+      "theme": "Landlord fees and confusion between parties",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Citizens Advice's 60%/88% comparison (Reference 9) is cited and explained, but most other figures (commission rates, NLA credit-check costs) lack citation markers."
+    },
+    {
+      "theme": "Regulatory and transparency issues",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Shelter's 'one in four' unfair-fees finding (Reference 12) is mentioned with explanation but not linked to a specific diagnostic claim beyond assertion."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims about discrimination and Northern Ireland surveys are asserted with no supporting data or citation."
+    }
+  ],
+  "reasoning": "The diagnosis rests on three core themes. 'High, variable and opaque tenant fees' (level 3) is the best-evidenced: cited EHS, NALS, ARLA, Generation Rent and Shelter figures (References 3-6,10) are set against each other (e.g. '\u00a3172' vs '\u00a3400' average fees), and DCLG's own primary research is described with clear method (random sample of 50 agents' websites), amounting to a genuine cross-source assessment. 'Weak tenant market power and perverse agent incentives' (level 1) leans heavily on reasoning ('landlords will be motivated to find agents with the lowest landlord fees... letting agents similarly have little incentive') with only one cited data point (NLA survey, Reference 11) and an uncited OFT study. 'Financial detriment and barriers to mobility' (level 2) is anchored by the properly cited Citizens Advice finding (Reference 13: '64%... 42% had to borrow money'), though the EHS mobility statistics (35%/34%) carry no reference marker. The mean of 3, 1 and 2 is 2.0, giving a section score of 2. The strongest counter-example is the incentives theme, which could easily tip the mean down to 1 if judged more strictly, since so much of its argument is unevidenced reasoning. To reach level 3 overall, the document would need to cite the OFT study and EHS mobility figures, and explicitly discuss the reliability or limitations of the landlord-incentive claims rather than asserting them as logical inference.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.0,
+  "score_consistent": true,
+  "missing_core": []
+}

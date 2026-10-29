@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rationale for a fee ban based on market power",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that landlords' stronger market position will redirect competitive pressure is asserted repeatedly (e.g. 'The ban will recognise the stronger market position of landlords') with no statistic, study, survey or citation offered anywhere in the extract to support it."
+    },
+    {
+      "theme": "Insufficiency of existing transparency regulation",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The Generation Rent survey finding that 12% of 912 agents hid fees is properly linked (Reference 10), and the 2016 Client Money Protection consultation findings ('majority of responses welcomed... but said... not sufficient') describe who was asked and about what, though not how many responded."
+    },
+    {
+      "theme": "Scope of the ban and treatment of exceptions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The design choices (holding deposits, tenant-caused charges) are justified only by unevidenced reasoning such as 'to mitigate the risk of tenants speculating', with no data or research cited."
+    },
+    {
+      "theme": "Likely effect on rents and landlord behaviour",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The claim that excessive/double fee-charging means full pass-through is unlikely rests on an uncited 'there is evidence that...' line, but it is reinforced by the properly cited Scottish findings (Reference 16) that only 17% of agencies raised landlord fees and rent rises were partly inconclusive."
+    },
+    {
+      "theme": "Scottish precedent as supporting evidence",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "Figures (1-2% rent rise, 17% fee pass-through, 56% tenant approval) are properly cited to Reference 16, and the document itself flags uncertainty ('this is inconclusive', 'difficult to directly compare the English and Scottish markets')."
+    }
+  ],
+  "reasoning": "The five core themes vary sharply in evidential grounding. 'Rationale for a fee ban based on market power' and 'Scope of the ban and treatment of exceptions' (both level 0) rest entirely on unevidenced assertion and policy-design reasoning, e.g. 'The ban will recognise the stronger market position of landlords' and 'to mitigate the risk of tenants speculating', with no data or study cited anywhere in the extract. 'Insufficiency of existing transparency regulation' (level 2) draws on the Generation Rent survey ('12% did not publically display their fees', Reference 10, linked) and on the department's own 2016 Client Money Protection consultation, whose method is partly described. 'Likely effect on rents and landlord behaviour' (level 2) combines an uncited claim of 'excessive fees' with the properly linked Scottish findings (Reference 16) on limited fee pass-through. 'Scottish precedent' itself (level 3) is the strongest: figures are cited and linked, and the document explicitly weighs uncertainty ('this is inconclusive', 'difficult to directly compare'). The mean of 0, 2, 0, 2, 3 is 1.4, rounding to 1. The strongest counter-example is theme 5 alone, which would justify a 3, but the two zero-scoring themes central to the ban's core rationale and design pull the average down. To reach level 2 overall, the document would need to cite actual evidence (survey, data or named research) for why landlords' market power will redirect fees and for how the specific exceptions (holding deposit caps, tenant-caused charges) were decided.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.4,
+  "score_consistent": true,
+  "missing_core": []
+}

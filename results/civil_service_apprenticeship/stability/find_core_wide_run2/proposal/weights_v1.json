@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "theme": "Skills and Productivity Business Case",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Social Mobility and Diversity Business Case",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Numerical Commitment as the Chosen Scale of Action",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Quality Alongside Quantity",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Leading by Example in the Public Sector and Wider Economy",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Strategic Rationale and Workforce Planning Integration",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Civil Service Commitment and Investment",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Apprentice Experience and Engagement",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Programme Delivery and Capability",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

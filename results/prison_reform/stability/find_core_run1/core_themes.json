@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Reoffending and its costs",
+        "claim": "The document argues that prisons are currently failing because almost half of prisoners reoffend within a year, generating a revolving door of crime that costs society up to £15 billion annually."
+      },
+      {
+        "name": "Rising violence, self-harm and security threats",
+        "claim": "The document argues that prisons are under serious and worsening pressure from rising assaults, self-harm and self-inflicted deaths, fuelled by the influx of psychoactive drugs, mobile phones and drones, which block any prospect of reform."
+      },
+      {
+        "name": "Centralised, blurred and outdated accountability framework",
+        "claim": "The document argues that the prison system's accountability, purpose and oversight arrangements have grown piecemeal and remain unclear and outdated, leaving governors over-prescribed and under-empowered while commissioners and inspectors lack real teeth."
+      },
+      {
+        "name": "Outdated and poorly matched prison estate",
+        "claim": "The document argues that much of the prison estate is old, overcrowded and mismatched to the population's needs, making it expensive to run and unsuited to supporting rehabilitation."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Empowering governors as the lever for reform",
+        "claim": "The document argues that devolving greater operational and financial authority to prison governors, modelled on successful reforms in education and health and piloted in six reform prisons, is the right way to drive cultural and structural change in prisons."
+      },
+      {
+        "name": "Statutory purpose and transparent accountability",
+        "claim": "The document argues that governor autonomy must be matched by a new statutory purpose, clearer Secretary of State accountability, performance measures and published league tables so that progress and failure are transparent to Parliament and the public."
+      },
+      {
+        "name": "Safety and security as the foundation for reform",
+        "claim": "The document argues that before prisons can become places of reform they must first be made safe and secure, requiring a new frontline staffing model and a tougher response to drugs, phones, drones and criminality."
+      },
+      {
+        "name": "Investment in staff and estate to underpin reform",
+        "claim": "The document argues that reform depends on recruiting and developing more staff and on investing in modern, fit-for-purpose prison buildings to replace outdated, overcrowded facilities."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Phased rollout of governor empowerment",
+        "claim": "The document sets out a phased plan, building on the six reform-prison pilots, to devolve budgets, workforce decisions, education, health commissioning and operational policy to governors across the estate from April 2017 onward."
+      },
+      {
+        "name": "Delivering safety and security on the frontline",
+        "claim": "The document sets out how the new dedicated-officer model (around six prisoners per officer), 2,500 additional prison officers, and measures against drugs, mobile phones, drones and organised crime will be piloted at priority sites before being rolled out nationally."
+      },
+      {
+        "name": "Implementing the accountability and performance framework",
+        "claim": "The document sets out how new performance measures, performance agreements, an annual league table, and a strengthened role for HMIP and other scrutiny bodies will be introduced to hold governors and the Secretary of State to account."
+      },
+      {
+        "name": "Rebuilding the prison estate",
+        "claim": "The document sets out a programme to invest £1.3 billion in building up to 10,000 new prison places, open HMP Berwyn, create five community prisons for women, and close outdated sites such as those at Dover and Haslar."
+      }
+    ],
+    "note": "Implementation spans many distinct workstreams (staffing schemes, security technology, estate building, performance systems) presented as parallel strands of a single phased programme."
+  }
+}

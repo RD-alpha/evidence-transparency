@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Skills Shortages and Economic Growth",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Workforce Diversity and Inclusion Gap",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Disability Employment Gap",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Changing Perceptions of Apprenticeships",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

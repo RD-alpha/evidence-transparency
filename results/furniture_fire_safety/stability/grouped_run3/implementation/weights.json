@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Match Test Design and Routes to Compliance",
+      "reason": "This is the central implementation mechanism of the policy—the match test and multiple routes to compliance—explaining how the new testing regime will actually be delivered, why alternatives were chosen over the original proposal, and estimated cost/benefit splits across routes; without this the implementation case has no substance.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope of Regulations and Product Exclusions",
+      "reason": "This addresses which products are covered by the regulations, a related policy design question, but it is a secondary clarification exercise to be tested in consultation rather than the core delivery mechanism for the intervention.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Record-keeping and Traceability Requirements",
+      "reason": "This describes documentary and labelling requirements that support enforcement and traceability, an implementation detail that adds administrative obligations but is not the primary mechanism by which the testing regime reduces chemical use.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Transition Period, Stock and Associated Costs",
+      "reason": "This explains the rollout timeline (24-month transition), a key implementation choice directly responding to stakeholder concerns about costs and stock, and includes explicit cost modelling and justification for the chosen period versus alternatives, making it a core support for how the intervention will be phased in.",
+      "weight": "core"
+    },
+    {
+      "theme": "Guidance and Support for Business Implementation",
+      "reason": "This covers supplementary support measures (guidance, trade associations, test houses) to help businesses comply, which is helpful but secondary—the case for implementation does not rest on this alone.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Use of Consultation to Test and Refine Proposals",
+      "reason": "This is a set of generic statements that further consultation will refine assumptions and costs, serving as a procedural caveat rather than a substantive support for the implementation method itself.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "High-profile failures expose multi-causal system breakdowns",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Detailed findings from the Rotherham and Oxfordshire inquiries (e.g. 'approximately 1400 children were sexually exploited...1997 to 2013', 'around 60 learning points') are used to explain the diagnosis, but the theme carries no reference numbers or links, so the sources cannot be followed."
+    },
+    {
+      "theme": "Absence of a general legal duty to report or act",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that 'there is currently no general legal requirement...to report' is asserted as a legal fact with no evidence, statistic or source offered to show its effect on the problem."
+    },
+    {
+      "theme": "Abuse continues to go undetected despite rising referrals",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The central claim is backed by a properly linked external source ('only one in eight victims of sexual abuse are likely to come to the attention of the police', Reference 6, with URL), though the department's own referral/assessment figures ('over 635,000 referrals...up 5% since 2010') are given without describing how the data were produced, keeping that part at level 1."
+    },
+    {
+      "theme": "Inherent difficulty of identifying abuse and judging the right response",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "An unattributed quotation ('instead of doing things right...the system needed to be focused on doing the right thing') implies a specific review finding but names no source, and the rest of the theme is unsupported reasoning about judgement being difficult."
+    }
+  ],
+  "reasoning": "The diagnosis rests on four core themes. 'High-profile failures' draws heavily on the Rotherham Inquiry and Oxfordshire SCR, with striking figures ('approximately 1400 children...1997 to 2013', 'Police received 157 reports') and candid acknowledgement of uncertainty ('No one knows the true scale'), but none of this carries a reference or link in the extract, capping it at level 1. 'Absence of a general legal duty' is pure assertion about current law with no evidence attached, scoring 0. 'Abuse continues to go undetected' reaches level 2 because the key diagnostic statistic - 'only one in eight victims of sexual abuse are likely to come to the attention of the police' - carries Reference 6 with a working link, clearly tied to the claim that abuse goes undetected; the surrounding referral statistics, however, are the department's own data presented without explanation of method, so they stay at level 1 on their own. 'Inherent difficulty of identifying abuse' relies on an unattributed quoted finding and general reasoning, reaching only level 1. The mean of (1, 0, 2, 1) is 1.0, giving a section score of 1. The strongest counter-example against a higher score is the properly cited Children's Commissioner statistic in theme 3, which shows the document can and sometimes does meet level 2 standards. To reach level 2 across the board, the document would need to cite the Rotherham/Oxfordshire inquiry reports directly and reference or name the source behind the 'doing the right thing' quotation.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "High buy-out use in Target Period 1",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The 49% buy-out and 14% leaving figures from the CCA Biennial Progress Report carry Reference 4 and Link 12, so a reader can find the source, but the document does not link the figures to the weak-incentive claim about the \u00a312 price, and the 3,000-odd units' surplus figures are uncited."
+    },
+    {
+      "theme": "Original buy-out price rationale",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The 2012 Government Response (Link 13) is cited for the \u00a312 price and its stated objective, but this describes policy intent and history rather than evidence of a problem, and no data or assessment backs the claim of balance."
+    },
+    {
+      "theme": "Limits of the TP1 evidence",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Lines acknowledge TP1 is only one of four periods and that time-lags may inflate buy-out use, which is a caveat on the evidence, but the time-lag expectation is uncited reasoning and no other evidence is assessed."
+    }
+  ],
+  "reasoning": "The diagnosis rests on three core themes. The first, \"High buy-out use in Target Period 1\", reaches level 2. It reports that \"just under half of the target units (49%) used buy-out\" and that 227 (14%) of those missing targets left the scheme, citing the CCA Biennial Progress Report (Reference 4, Link 12), so a reader can find it. The surplus and underperformance figures (4,088 and 2,024 kilotonnes) are uncited, and the document never explains how these numbers show the \u00a312 price was a weak incentive. That chain of reasoning is incomplete, which holds it at 2 rather than higher. The second theme, \"Original buy-out price rationale\", is level 1. The 2012 Government Response (Link 13) is cited, but it only shows the price was meant to balance incentive and competitiveness. That is background on policy intent, not evidence of a problem. The third, \"Limits of the TP1 evidence\", is level 1. It honestly notes that TP1 is one of four periods and that time-lags could inflate buy-out use, but the time-lag point is uncited reasoning, and nothing is assessed beyond this. Mean is (2+1+1)/3 = 1.33, which rounds to 1. The strongest counter-example is the first theme, which is cited and could support a higher score overall. To reach level 2, the document would need to link the cited buy-out data explicitly to the weak-incentive claim, for example by comparing the \u00a312 price with abatement costs. To reach level 3 it would need to assess the evidence's strengths and weaknesses, with evidence for the time-lag caveat.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

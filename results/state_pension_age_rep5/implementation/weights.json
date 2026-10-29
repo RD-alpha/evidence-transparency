@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Notice and communication of changes",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Wider support package alongside rises",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Statutory review mechanism",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

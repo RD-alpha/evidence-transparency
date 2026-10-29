@@ -1,0 +1,62 @@
+{
+  "title": "Reporting and acting on child abuse (listed sources)",
+  "alias": "child_abuse_listed",
+  "uploaded_at": "2026-10-08T17:53:17.054754+01:00",
+  "uploaded_date": "2026-10-08",
+  "uploaded_time": "17:53:17 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "child_abuse_consultation_listed",
+      "title": "Reporting child abuse consultation (listed source)",
+      "sentence_count": 616,
+      "first_sentence": "S0001",
+      "last_sentence": "S0616",
+      "reference_count": 24,
+      "first_reference": "1",
+      "last_reference": "24",
+      "link_count": 6
+    },
+    {
+      "alias": "child_abuse_annex_listed",
+      "title": "Reporting child abuse annexes (listed source)",
+      "sentence_count": 569,
+      "first_sentence": "S0617",
+      "last_sentence": "S1185",
+      "reference_count": 85,
+      "first_reference": "25",
+      "last_reference": "109",
+      "link_count": 23
+    },
+    {
+      "alias": "child_abuse_ia_listed",
+      "title": "Reporting child abuse impact assessment (listed source)",
+      "sentence_count": 867,
+      "first_sentence": "S1186",
+      "last_sentence": "S2052",
+      "reference_count": 55,
+      "first_reference": "110",
+      "last_reference": "164",
+      "link_count": 0
+    },
+    {
+      "alias": "child_abuse_rpc_listed",
+      "title": "Reporting child abuse RPC opinion (listed source)",
+      "sentence_count": 45,
+      "first_sentence": "S2053",
+      "last_sentence": "S2097",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 0
+    }
+  ],
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "consultation_invitation",
+    "source_documents": 4,
+    "matches_2018_listed_source": "yes",
+    "basis": "Consultation + annexes + impact assessment + RPC opinion (all listed). Ingested from the files Appendix 2 links to (verified by retrieval)."
+  }
+}

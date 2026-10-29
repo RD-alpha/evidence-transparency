@@ -1,0 +1,104 @@
+{
+  "themes": [
+    {
+      "theme": "Prison Violence, Safety and Self-Harm",
+      "reason": "This theme documents the scale and trends of violence, self-harm and deaths, directly establishing one half of the stated problem (prison violence) and its severity, causes and consequences.",
+      "weight": "core"
+    },
+    {
+      "theme": "Reoffending and Recidivism",
+      "reason": "This theme establishes the scale and cost of reoffending, directly addressing the other half of the stated problem and showing why reform is needed.",
+      "weight": "core"
+    },
+    {
+      "theme": "Prison Management, Accountability and Governance",
+      "reason": "This diagnoses the blurred, piecemeal accountability structure and lack of clear statutory objectives as a root cause of poor performance, underpinning the case for reform.",
+      "weight": "core"
+    },
+    {
+      "theme": "Governor Authority and Prison Operations",
+      "reason": "This is the central diagnostic theme showing how over-centralisation and lack of governor discretion prevent effective local responses to violence and reoffending, directly supporting the policy's rationale.",
+      "weight": "core"
+    },
+    {
+      "theme": "Prison Performance Metrics and Data",
+      "reason": "This diagnoses how current box-ticking performance measures fail to capture whether prisons actually reduce reoffending, explaining a key gap the policy must address.",
+      "weight": "core"
+    },
+    {
+      "theme": "Prisoner Population and Specific Cohorts",
+      "reason": "This explains how mismatches between prison population needs and estate design undermine effective regimes, supporting the case that current structures are not fit for purpose.",
+      "weight": "core"
+    },
+    {
+      "theme": "Drug and Substance Abuse in Prisons",
+      "reason": "This identifies psychoactive substances and drug trade as major drivers of violence and reoffending, a key causal explanation for the problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Illicit Mobile Phones and Contraband",
+      "reason": "This provides specific evidence of a security threat but functions as a supporting example within the broader security threats diagnosis rather than a foundational pillar.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prison Security Threats and Organised Crime",
+      "reason": "This diagnoses organised crime, gangs and other security threats as drivers of violence and instability, forming part of the causal explanation for the core problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Prisoner Education and Skills",
+      "reason": "This notes gaps in education provision linked to reoffending but serves as supporting detail rather than a foundational diagnostic pillar.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prisoner Health and Wellbeing",
+      "reason": "This links substance misuse and mental health to offending as contributing factors, but functions as supporting evidence rather than a core structural diagnosis.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Family Relationships and Social Support",
+      "reason": "This brief theme notes family ties reduce reoffending but is a minor supporting point rather than central to the diagnosis.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Employment and Resettlement",
+      "reason": "This notes employment and accommodation links to reoffending but serves as supporting detail rather than a foundational diagnostic theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Sentence Planning and Prisoner Management",
+      "reason": "This diagnoses the failure of the remote offender-management model, directly supporting the argument that current structures fail to address reoffending.",
+      "weight": "core"
+    },
+    {
+      "theme": "Prison Estate and Physical Infrastructure",
+      "reason": "This diagnoses how outdated, inflexible and overcrowded estate conditions hamper reform efforts and increase costs and violence risk.",
+      "weight": "core"
+    },
+    {
+      "theme": "Prison Leadership and Workforce",
+      "reason": "This diagnoses constraints on leadership capability and workforce support, tying directly to the argument that governors are undermined by centralisation.",
+      "weight": "core"
+    },
+    {
+      "theme": "Drone and Security Technology",
+      "reason": "This is a specific example of an evolving security threat, largely duplicating points in the broader security threats theme rather than being foundational on its own.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prisoner Sanctions and Discipline",
+      "reason": "This describes existing procedural and legal disciplinary mechanisms, which is administrative detail rather than a core diagnostic argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Extremism in Prisons",
+      "reason": "This raises a narrow specific security concern that is not central to the main diagnosis of violence and reoffending drivers.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "These are brief general remarks that do not carry a distinct diagnostic argument.",
+      "weight": "not core"
+    }
+  ]
+}

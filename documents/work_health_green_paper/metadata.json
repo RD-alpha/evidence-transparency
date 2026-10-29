@@ -1,0 +1,13 @@
+{
+  "title": "Support for young people with a limited capability for work",
+  "alias": "work_health_green_paper",
+  "uploaded_at": "2026-10-13T15:02:43.655067+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "15:02:43 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "appendix2_date": "31 October 2016",
+  "appendix2_type": "consultation",
+  "source_file": "110_support_for_young_people_with_a_limited__1_work-and-health-green-paper-improving-lives.pdf",
+  "extraction_note": "PDF table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

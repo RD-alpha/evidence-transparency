@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Core linguistic and intercultural skill requirements",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Thematic and cultural content structure",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Language skill development mechanisms",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Literary and film work study requirements",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "A-level specific enhancements including research skills",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Grammar specification requirements",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Chinese-specific adaptations",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Foundational knowledge and skills baseline",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Use of authentic source materials",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

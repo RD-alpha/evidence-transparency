@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Scale and growth of fees",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Lack of tenant control and weak competitive pressure",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Opacity and difficulty comparing fees",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Financial and behavioural harm to tenants",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Regulatory context and agent practices",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Tenant behaviour and constraints in rental market",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Landlord fees and comparison with tenant fees",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Deposit and payment requirements",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Consultation Process and Scope",
+      "reason": "Describes the procedural stages and purpose of the consultation, setting context for how the method of delivery is being decided, which bears on the should-explain point about the method for deciding implementation.",
+      "weight": "core"
+    },
+    {
+      "theme": "Company Car Tax Band Structure",
+      "reason": "Directly addresses the structural options for how bands would be implemented (continuous vs wider bands, breakpoints), which is central to explaining how the intervention would be rolled out.",
+      "weight": "core"
+    },
+    {
+      "theme": "CO2 Emissions as Tax Basis",
+      "reason": "Addresses whether CO2 alone should underpin the new bands, a key design choice for implementation, bearing on what method is used and what alternatives exist.",
+      "weight": "core"
+    },
+    {
+      "theme": "Alternative Tax Factors and Zero Emission Miles",
+      "reason": "Explores alternative implementation factors (zero emission miles) and their band structures, directly addressing whether other methods were considered for delivering the intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Policy Implementation and Budget Process",
+      "reason": "Notes that specific tax rates will be set via the normal Budget process, which is procedural detail about timing rather than the substantive method of implementation.",
+      "weight": "not core"
+    }
+  ]
+}

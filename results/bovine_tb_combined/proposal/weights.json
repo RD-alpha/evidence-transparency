@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Compulsory interferon-gamma testing in the HRA",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Closing gaps in skin testing and movement controls",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Stronger surveillance and boundary change in the Edge Area",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Overall strategy of balanced cattle controls alongside badger control",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Biosecurity enforcement and Wales-style notices",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Low Risk Area red market restrictions",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Risk-based simplified testing regime for the HRA",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

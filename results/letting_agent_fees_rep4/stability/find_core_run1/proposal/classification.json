@@ -1,0 +1,108 @@
+{
+  "themes": [
+    {
+      "name": "Ban as the chosen remedy over continued transparency regulation",
+      "ids": [
+        "S0212",
+        "S0213",
+        "S0214",
+        "S0216",
+        "S0217",
+        "S0218",
+        "S0220",
+        "S0222"
+      ]
+    },
+    {
+      "name": "Ban exploits landlords' stronger market position",
+      "ids": [
+        "S0019",
+        "S0020",
+        "S0021",
+        "S0023",
+        "S0240",
+        "S0241",
+        "S0243",
+        "S0244",
+        "S0246",
+        "S0247"
+      ]
+    },
+    {
+      "name": "Scotland as precedent and evidence base",
+      "ids": [
+        "S0061",
+        "S0062",
+        "S0426",
+        "S0427",
+        "S0429",
+        "S0440",
+        "S0441",
+        "S0442",
+        "S0443",
+        "S0445",
+        "S0447",
+        "S0448",
+        "S0450",
+        "S0451"
+      ]
+    },
+    {
+      "name": "Assessing the risk of rent increases against tenant benefits",
+      "ids": [
+        "S0327",
+        "S0328",
+        "S0329",
+        "S0331",
+        "S0332",
+        "S0453",
+        "S0454"
+      ]
+    },
+    {
+      "name": "Scope and definition of the ban",
+      "ids": [
+        "S0285",
+        "S0287",
+        "S0288",
+        "S0299"
+      ]
+    },
+    {
+      "name": "Supporting tenants' affordability and market access",
+      "ids": [
+        "S0279",
+        "S0281",
+        "S0290",
+        "S0291",
+        "S0293",
+        "S0334",
+        "S0335",
+        "S0336"
+      ]
+    },
+    {
+      "name": "Simplicity, transparency and communication",
+      "ids": [
+        "S0298",
+        "S0326"
+      ]
+    },
+    {
+      "name": "Potential impact on tenancy duration",
+      "ids": [
+        "S0259",
+        "S0260"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": [
+        "S0018",
+        "S0283",
+        "S0325",
+        "S0532"
+      ]
+    }
+  ]
+}

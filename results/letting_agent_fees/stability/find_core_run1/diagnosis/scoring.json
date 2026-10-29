@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "High, variable and opaque tenant fees",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "DCLG's own market research of 50 agents is described with method (how it was conducted and what it found) and multiple cited statistics (refs 3,4,5,6,10) show fee variation and opacity, but the document does not critically assess the reliability or limitations of these different sources despite presenting contrasting figures (e.g. NALS \u00a3172 vs EHS \u00a3223 vs Generation Rent \u00a3400)."
+    },
+    {
+      "theme": "Tenants' lack of market power",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Citizens Advice (ref 9) and NLA survey (ref 11) data are cited and linked to the claim that tenants cannot negotiate or avoid fees, but the OFT 2013 study is named without a reference marker and no assessment of evidence quality is offered."
+    },
+    {
+      "theme": "Financial harm and rising costs to tenants",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "EHS 2014/15 figures (60% median rise, \u00a3223 mean fee) and Citizens Advice statistics (ref 13: 64% experienced problems, 42% borrowed money) are cited and clearly linked to claims of financial harm, but no uncertainty or contradiction in this evidence is acknowledged."
+    }
+  ],
+  "reasoning": "The diagnosis rests on three core themes. 'High, variable and opaque tenant fees' (level 2) draws on DCLG's own 50-agent website survey, described methodologically ('randomly chose 50 agents... searched their website'), plus cited EHS, NALS, ARLA, Generation Rent and Shelter figures (refs 3-6,10) showing fee variation (\u00a330-\u00a3780) and opacity (12% not displaying fees publicly). 'Tenants' lack of market power' (level 2) uses Citizens Advice (ref 9: 60% vs 88% charged depending on agent use) and NLA survey (ref 11) data to show landlords, not tenants, control fee negotiation, though the OFT 2013 study is mentioned without a citation marker. 'Financial harm and rising costs' (level 2) cites EHS figures (60% median fee rise) and Citizens Advice (ref 13: 64% struggled to pay, 42% borrowed) to link fees to tenant hardship. All three reach level 2: evidence is present, explained and properly cited, but none offers explicit assessment of the evidence base's strengths, weaknesses or contradictions - for instance, the sharply differing average fee figures across sources (\u00a3172 vs \u00a3223 vs \u00a3400) are juxtaposed but not reconciled or critiqued. The mean of (2,2,2) is 2, giving a section score of 2. To reach level 3, the document would need to explicitly discuss why sources diverge, note sample sizes/representativeness, or flag limitations in its own 50-agent exercise.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.0,
+  "score_consistent": true,
+  "missing_core": []
+}

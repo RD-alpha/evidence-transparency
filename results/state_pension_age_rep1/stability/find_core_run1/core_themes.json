@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Rising life expectancy and time spent in retirement",
+        "claim": "Life expectancy at 65 has risen steadily and is projected to keep rising, so without change people spend an ever larger share of adult life receiving State Pension, which earlier fixed pension ages failed to address."
+      },
+      {
+        "name": "Demographic shift and pay-as-you-go pressure",
+        "claim": "The baby boomers reaching pension age and a rising old age dependency ratio mean fewer workers support more pensioners under a pay-as-you-go system, raising individual and societal burdens."
+      },
+      {
+        "name": "Rising State Pension and age-related spending",
+        "claim": "State Pension spending is projected to rise by about 1% of GDP by 2036/37 (equivalent to £725 per household) and wider age-related spending to rise further, which is unaffordable and unfair to younger generations if left unaddressed."
+      },
+      {
+        "name": "Past delay and uncertainty in projections",
+        "claim": "The UK was slow to adjust State Pension age, forcing rapid successive increases, and life expectancy projections are uncertain and sensitive to the data used, which complicates setting future timetables."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Linking State Pension age to life expectancy for fairness between generations",
+        "claim": "State Pension age should rise with life expectancy so that people spend broadly the same proportion of adult life, aiming at up to 32%, in receipt of State Pension, which is fair and keeps the pension above the means-test level, whereas the main alternative of lower pensions would increase pensioner poverty."
+      },
+      {
+        "name": "Rise to 68 in 2037-39 as the chosen timetable",
+        "claim": "The Government will follow John Cridland's recommendation to raise State Pension age to 68 in 2037-39, seven years earlier than legislated, because it saves £74bn to 2045/46 and about 0.4% of GDP while spacing rises to avoid back-to-back increases on the same cohorts, rather than the faster 32% or 33.3% timetables."
+      },
+      {
+        "name": "Universal State Pension age",
+        "claim": "State Pension age should stay the same for everyone because a universal age is simple, clear and supports planning, variations in life expectancy cannot practicably be reflected, and disadvantaged groups are better helped through the working-age benefit system."
+      },
+      {
+        "name": "Deferring decisions beyond 68 and confirming the rise",
+        "claim": "Because projections are uncertain, the Government will not set a timetable beyond 68 now, will review again before legislating the rise to 68 using updated projections and evidence from earlier rises, and holds 'up to 32%' as its long-run aim."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Ten years' notice and communication",
+        "claim": "People need time to plan, so the Government will seek to give at least ten years' notice of changes and will communicate them through a strategy using digital tools, personalised pension information and stakeholder channels."
+      },
+      {
+        "name": "Wider package of support for saving, working and those who cannot work",
+        "claim": "State Pension age rises must be accompanied by measures that help people save, enable longer working and support those prevented from working by health, disability or caring, to be developed as evidence on Universal Credit, the new State Pension and health and work consultation emerges."
+      },
+      {
+        "name": "Review and legislative process",
+        "claim": "Changes require primary legislation and scrutiny by Parliament, and regular reviews informed by independent reports and updated projections will set the final timing of the rise to 68 while ensuring adequate notice."
+      }
+    ],
+    "note": "Implementation is mostly intentions and general commitments (communications 'could' do things, plans 'in due course') rather than a detailed delivery plan, and no costs of implementation are given."
+  }
+}

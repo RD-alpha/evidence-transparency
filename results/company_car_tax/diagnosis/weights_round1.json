@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Government Policy Goals and Long-term Vision",
+      "reason": "Provides broad long-term policy context (2040/2050 targets) but does not bear directly on why current ULEV bands fail to differentiate vehicles; background framing rather than diagnosis.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Environmental and Health Rationale for ULEV Support",
+      "reason": "Explains why ULEVs matter environmentally, motivating support generally, but not the specific diagnosis of outdated banding failing to differentiate ULEVs.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Company Car Tax Reform and Structure",
+      "reason": "Describes the current band structure and guarantees, forming essential background on what the bands are, which is necessary to understand what is being diagnosed as outdated.",
+      "weight": "core"
+    },
+    {
+      "theme": "Historical CO2-Based Tax System Development",
+      "reason": "Gives procedural/historical detail on how the tax system evolved; background rather than core to diagnosing current band inadequacy.",
+      "weight": "not core"
+    },
+    {
+      "theme": "ULEV Market Growth and Technology Advancement",
+      "reason": "Shows the scale and pace of technological change that is causing pressure on the existing bands, directly explaining the cause and scale of the differentiation problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Government Investment and Support Measures",
+      "reason": "Describes funding and support schemes, which is policy background rather than diagnosis of band inadequacy.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Current ULEV Definition and Classification Challenges",
+      "reason": "Directly explains why the current definition/classification of ULEVs is becoming problematic, which is the core of the diagnosis that bands fail to differentiate.",
+      "weight": "core"
+    },
+    {
+      "theme": "UK Environmental Performance and Emissions Targets",
+      "reason": "General UK emissions performance context, not directly tied to the specific banding differentiation problem.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Zero Emission Miles Capability",
+      "reason": "Provides specific evidence that vehicles with very different zero-emission capabilities are grouped in the same band, directly illustrating the failure to differentiate.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "themes": [
+    {
+      "name": "Tourism's economic importance and record growth",
+      "ids": [
+        "S0003",
+        "S0004",
+        "S0005",
+        "S0019",
+        "S0020",
+        "S0021",
+        "S0037",
+        "S0038",
+        "S0039",
+        "S0040",
+        "S0041",
+        "S0042",
+        "S0043",
+        "S0044",
+        "S0045",
+        "S0046",
+        "S0047",
+        "S0095"
+      ]
+    },
+    {
+      "name": "Spending concentrated in London",
+      "ids": [
+        "S0007",
+        "S0011",
+        "S0022",
+        "S0023",
+        "S0048",
+        "S0049",
+        "S0050",
+        "S0051",
+        "S0052",
+        "S0053",
+        "S0054"
+      ]
+    },
+    {
+      "name": "Barriers to exploring beyond London",
+      "ids": [
+        "S0122",
+        "S0123",
+        "S0124",
+        "S0132",
+        "S0135",
+        "S0141",
+        "S0144"
+      ]
+    },
+    {
+      "name": "Fragmented industry and structural constraints",
+      "ids": [
+        "S0055",
+        "S0056",
+        "S0100"
+      ]
+    },
+    {
+      "name": "Government coordination and policy levers",
+      "ids": [
+        "S0059",
+        "S0063"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": []
+    }
+  ]
+}

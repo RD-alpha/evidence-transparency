@@ -1,0 +1,49 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Eligibility rules that wrongly exclude applicants",
+        "claim": "Current regulations deny or reduce payments in ways that do not fit applicants' circumstances, such as treating a care-home relative on local authority funding as the responsible person and ignoring non-exclusive burial plots."
+      },
+      {
+        "name": "Deduction of third-party contributions",
+        "claim": "Current regulations deduct contributions from charities, friends and relatives from the Funeral Payment regardless of the total funeral cost."
+      },
+      {
+        "name": "Burdensome and slow claims process",
+        "claim": "The 3-month deadline with no discretion, the 22-page form and the ban on electronic evidence make claiming difficult and slow for bereaved applicants and funeral directors."
+      },
+      {
+        "name": "Prospective medical examiner fees",
+        "claim": "Proposed new medical examiner fees for all deaths would fall outside the current cover for cremation form fees, leaving a gap in what counts as necessary costs."
+      }
+    ],
+    "note": "The diagnosis is a package of separate problems, one per reform, with little evidence on scale; the document says only that some cases occur and that its reforms came from stakeholder engagement and public correspondence."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Clarifying eligibility and covered costs",
+        "claim": "Eligibility and necessary costs should be clarified so that care-home relatives on income-assessed support do not block claims, burial plots count with or without exclusive rights, and future medical examiner fees are covered, so that payments reach those intended."
+      },
+      {
+        "name": "Letting contributions top up payments",
+        "claim": "Recipients should keep contributions from charities, friends and relatives without deduction because funeral costs often exceed the payment and such help eases the shortfall."
+      },
+      {
+        "name": "Simplifying the claims process",
+        "claim": "Extending the claim window to 6 months, introducing a shorter form for children's funerals and allowing electronic evidence will ease the burden on bereaved applicants and speed up processing."
+      }
+    ],
+    "note": "The proposal is a package of seven separate reforms that are grouped into themes; no alternatives are discussed, and the no-additional-burden assumption stands in for a cost-benefit estimate."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Telephone support for claims",
+        "claim": "Applicants can keep using the telephony service, where trained advisers complete the form for them, so claims stay quick and accessible alongside the shorter child's funeral form."
+      }
+    ],
+    "note": "Almost nothing is said on implementation; the only passage is a brief mention of the existing telephony service, with no rationale, alternatives or costs."
+  }
+}

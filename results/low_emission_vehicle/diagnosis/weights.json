@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Consumer experience and interoperability gaps",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Electricity system strain and lack of smart functionality",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Gaps in strategic infrastructure provision",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "UK ULEV market leadership and government coordination",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Infrastructure challenges and consumer needs",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Bi-directional charging capabilities",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

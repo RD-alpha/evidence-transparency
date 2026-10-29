@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Outdated match test drives excess FR use",
+        "claim": "The 1988 match test no longer reflects how modern furniture is constructed, so it forces manufacturers to over-use flame retardant chemicals to pass a test that does not match real-world fire risk."
+      },
+      {
+        "name": "Health and environmental harm from flame retardants",
+        "claim": "A growing body of evidence links the brominated and other flame retardant chemicals used to meet the current test with harm to human health and the environment."
+      },
+      {
+        "name": "Scope ambiguity and weak traceability undermine enforcement",
+        "claim": "The prescriptive and ambiguous scope of the regulations and the lack of supply-chain traceability information make the regulations hard to enforce and apply consistently."
+      },
+      {
+        "name": "Existing regime's safety record must be preserved",
+        "claim": "The current regulations have been highly effective in preventing fire deaths and injuries, so any reform must maintain this level of protection even as it addresses the other problems."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Choice of updating the regulations over alternatives",
+        "claim": "Updating the regulations (Option 1) is preferred because it meets the policy objectives of safety, cost reduction and clarity, whereas doing nothing forgoes available savings and revoking the regulations would expose consumers to unacceptable fire-safety risk by relying on weaker EU standards."
+      },
+      {
+        "name": "New match test and removal of cigarette test reduce FR use and cost without compromising safety",
+        "claim": "Introducing a more realistic match test (tested over representative foam) and revoking the now-redundant cigarette test will cut flame retardant use and testing costs while maintaining fire safety standards."
+      },
+      {
+        "name": "Quantified cost-benefit case for the package",
+        "claim": "The proposal is justified by monetised estimates showing net savings to business of roughly £3m–£20m per year (central estimate £15m), built on assumptions about fabric volumes, FR reduction rates and route-to-compliance uptake."
+      },
+      {
+        "name": "Consultation feedback reshaped and moderated the proposal",
+        "claim": "Because industry consultation responses disputed the original cost-saving and environmental benefit estimates, BIS revised the test design, introduced flexible compliance routes and scaled back its benefit estimates accordingly."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Flexible routes to compliance balance cost and safety",
+        "claim": "The new regulations will offer multiple routes to compliance (interliner, match test with components testing, protective-cover route) developed with stakeholders to let industry choose the most cost-effective way to meet the same safety standard."
+      },
+      {
+        "name": "Extended transition period reduces business disruption",
+        "claim": "The transition period for manufacturers and retailers has been extended from the originally proposed 18 months to 24 months specifically to limit stock-scrapping and early re-testing costs raised by industry."
+      },
+      {
+        "name": "Enhanced traceability and labelling modelled on other product regimes",
+        "claim": "New record-keeping, labelling and extended retention requirements (10 years), modelled on practice in other product sectors such as the NLF, will be introduced to improve enforcement without imposing large new burdens."
+      },
+      {
+        "name": "Unresolved design details to be settled through further consultation",
+        "claim": "Key implementation choices—such as the test for a 'protective' cover and the exact scope exclusions for baby products and grey-area items—remain undecided and will be tested and finalised through the forthcoming consultation."
+      }
+    ],
+    "note": ""
+  }
+}

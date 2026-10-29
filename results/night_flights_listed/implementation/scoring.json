@@ -1,0 +1,70 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Use of existing legal powers under transitional EU/domestic rules",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "References 9,10,28-31 cite the Directive, SI 2003/1742 and Regulation 598/2014 Article 16, and the text links the newer Regulation's longer notice period directly to the reasoning that there is 'not sufficient time... before the regime lapses', giving a clear, cited chain from legal constraint to chosen method."
+    },
+    {
+      "theme": "Timing driven by the sunset clause, separate from Heathrow expansion",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that the regime 'expires in October 2017 and consultation... has to take place now' and is kept separate from Heathrow expansion is asserted with no reference, statistic or named source anywhere in the extract."
+    },
+    {
+      "theme": "Mechanism for resolving undecided details via consultation and future policy",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The impact assessment is named and its scope described ('assesses the impacts of a hypothetical reduction of 20% over five years'), giving some method, but the parallel claim about replacing the regime with bespoke local arrangements rests only on a future, unspecified 'upcoming consultation on airspace policy' with no evidence at all."
+    },
+    {
+      "theme": "Dispensations framework and exceptional circumstances",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Historical precedents (Volcanic Ash Crisis 2010, winter weather 2010, Queen's Jubilee, 2013 Heathrow fire) are offered as grounds for the dispensation categories, but none carry a citation or data on frequency/impact."
+    },
+    {
+      "theme": "Operational flexibility and carryover arrangements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The specific 10%/20% carryover and overrun thresholds are stated with no evidence or citation explaining why these particular figures were chosen."
+    },
+    {
+      "theme": "Environmental objectives and balanced approach framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Reference 32 is used only to define 'environmental objective' under the 2003 Regulations, not as evidence for any implementation choice."
+    },
+    {
+      "theme": "Governance and locally agreed arrangements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that bespoke arrangements could replace Government controls before 2022 is asserted with no supporting evidence, only a forward reference to a future consultation."
+    },
+    {
+      "theme": "Aircraft performance classification and exemptions",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Reference 65 names the 'SONA Analysis' behind the proposed QC/0.125 category but gives no detail of its methodology or findings beyond the resulting category."
+    },
+    {
+      "theme": "Business impact and evidence gathering",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The document explains why EANDCB cannot yet be estimated ('limitations of the available evidence base') and mentions commissioned research, but that research is unnamed and uncited."
+    },
+    {
+      "theme": "Consultation process and stakeholder input",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme only describes the consultation timetable and solicits evidence (e.g. question on familiarisation time); it presents no evidence of its own for the chosen process."
+    }
+  ],
+  "reasoning": "The three core themes score unevenly. 'Use of existing legal powers' reaches level 2: references 9, 10, 28-31 cite the Directive, SI 2003/1742 and Regulation 598/2014, and the text explicitly links the new Regulation's longer notice period to the conclusion that 'there would not be sufficient time... before the regime lapses', showing a clear chain from cited constraint to chosen method. 'Timing driven by the sunset clause' scores 0: the claim that the 2017 expiry forces this consultation now, separately from Heathrow expansion, is pure assertion with no reference anywhere in the extract. 'Mechanism for resolving undecided details' scores 1: the impact assessment is named and its scope described ('hypothetical reduction of 20% over five years'), satisfying the primary-evidence bar for naming a method, but the parallel claim that bespoke local arrangements might later replace the regime rests on nothing beyond a promise of a future 'upcoming consultation on airspace policy'. The mean of 2, 0 and 1 is 1.0, giving a section score of 1. The strongest counter-example is the legal-powers theme, which is well cited and reasoned to level 2, showing the document can do this when it chooses to. To reach level 2 overall, the document would need to cite a source for the October 2017 sunset-clause timing claim and explain, with a reference, how the planned bespoke-arrangements mechanism will be evidenced and assessed, not just promised for a later consultation.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

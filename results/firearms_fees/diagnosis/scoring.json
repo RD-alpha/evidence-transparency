@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Taxpayer subsidy of licensing costs",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The \u00a3700,000 claim is backed by cost figures (\u00a3596,000 Home Office, \u00a369,000 police, \u00a342,000 and \u00a35,000 Scotland, \u00a3712,000 total) with References 21, 22, 23 explaining the budget forecast, police cost multiplication and 7.91% Scottish uplift, plus Figure 1 subsidy percentages (100%, 92%, 93%) with References 3, 4, 11 from the Home Office database; no uncertainty is assessed, so not level 3."
+    },
+    {
+      "theme": "Higher-risk licences need Government administration",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on extra assurance, national consistency, thorough checks and police involvement (Reference 2 only clarifies Scottish reserved matters) are description and argument with no statistic, finding or source, though the statutory requirement line only describes current rules."
+    },
+    {
+      "theme": "Licence holders are identifiable beneficiaries",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Application volumes by licence type from the Home Office Firearms Licensing Database (References 3, 4, 11, years 2013-2015) show who holds licences, but the lines never link these data to the claim that these groups should bear the cost, and the full-cost-recovery claim for police fees is unsupported."
+    }
+  ],
+  "reasoning": "Three core themes were scored. The subsidy theme is the strongest (level 2). It states that the cost to the taxpayer is 'around \u00a3700,000 per year' and shows how this is built: '\u00a3596,000 in 2016-17, plus an estimated \u00a369,000' for the police, plus Scottish costs of \u00a342,000 and \u00a35,000, totalling \u00a3712,000. References 21, 22 and 23 explain the budget forecast, the police-cost multiplication and the 7.91% uplift, and Figure 1 gives subsidy shares of 100%, 92% and 93% with data sources (References 3, 4, 11). The chain from figures to the claim is clear and the method is traceable. The theme that Government administration is needed scores 0. It relies on assertion: 'extra level of assurance, national consistency', 'thorough checks'. Reference 2 only explains devolution, and no evidence is offered for why central issuing is needed. The beneficiaries theme scores 1. The licence-holder categories and application counts (Reference 11) are data, but the document does not link them to the claim that these groups should pay, and the statement about police fees reaching full cost recovery is uncited. The mean is (2+0+1)/3 = 1.0, so the score is 1. The strongest counter-example is the subsidy costings, which could argue for a higher score, but they are only one of three core themes. To reach level 2 overall, the document would need to support its claims about the need for Government administration and the identity of beneficiaries with cited evidence. It would also need to assess the uncertainty in its cost estimates for level 3.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

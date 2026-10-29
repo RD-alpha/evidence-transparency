@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Rising life expectancy and share of life in retirement",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Demographic shift and pay-as-you-go burden",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Rising State Pension and age-related spending",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Past delay and uncertain projections",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

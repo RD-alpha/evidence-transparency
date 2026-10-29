@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rising life expectancy",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Figures on life expectancy at 65 and projections carry ONS references (5, 12, 13, 19, 26) and the DWP calculation of 41% of adult life for women (Reference 21) is described by its basis, with the uncertainty caveat in the Uncertainty theme not fully assessing these figures, so it stays at level 2."
+    },
+    {
+      "theme": "Demographic shift and pay-as-you-go pressure",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The rise from 12.4m to 16.9m pensioners and the dependency ratio of 301 to 375 per 1,000 cite ONS projections (References 7, 8) and are explicitly linked to pay-as-you-go costs, while the uncertainty lines (Uncertainty theme) are about life expectancy rather than these population figures."
+    },
+    {
+      "theme": "Rising fiscal cost of ageing",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The 1% of GDP rise to 2036/37, \u00a3725 per household and OBR age-related spending figures cite the Cridland review and OBR (References 9, 30, 31) with clear links to the claim, but no assessment of the OBR projections' strengths is given."
+    },
+    {
+      "theme": "Uncertainty of projections",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The document acknowledges that projections are uncertain and gives the Government Actuary example of 2012-based versus 2014-based ONS projections bringing age 68 forward by 5 years, but this is uncited and does not reach level 3 for core claim since it is only a brief acknowledgement with no reference."
+    },
+    {
+      "theme": "Legislative timetable for State Pension age",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines describe the Acts and timetable and past policy focus with no evidence offered for a problem diagnosis, and they are descriptive of rules only."
+    },
+    {
+      "theme": "Fairness between generations and affordability",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Both lines are assertions about societal questions and fairness with no statistic, source or finding behind them."
+    }
+  ],
+  "reasoning": "Four core themes were scored. Rising life expectancy reaches level 2: figures such as 'a 65-year-old could expect to live for 18\u00bd years, or 29% of their adult life' carry ONS references (5, 6, 12, 19, 26), and the DWP calculation (Reference 21) is a departmental analysis whose basis is stated as ONS life expectancy data. Demographic shift reaches level 2: the rise from 12.4 million to 16.9 million over-SPA people and the dependency ratio from 301 to 375 per 1,000 cite ONS projections (References 7, 8) and are explained as pay-as-you-go pressure. Rising fiscal cost reaches level 2: the 1% of GDP rise and \u00a3725 per household cite the Cridland review and OBR (References 9, 30, 31) with clear reasoning. Uncertainty of projections: the document does say 'life expectancy projections are uncertain, and more so over longer projection periods' and gives the Government Actuary example of the 2012-based versus 2014-based projections shifting age 68 by 5 years. This is a real acknowledgement, but it is uncited and does not say how it affects the case, so it sits at level 2 (the claim's evidence is linked and the Actuary's report is named but not referenced; the cited level-2 evidence from other themes counts). Mean of the core themes is 2.0, so the score is 2. The strongest counter-example is that the uncertainty caveat and the Actuary's sensitivity finding could justify level 3 for the life expectancy theme. To reach level 3, the document would need to assess the strengths and weaknesses of the ONS and OBR projections themselves, and show how uncertainty and contrary scenarios affect the scale of the pressure, with the Actuary finding properly referenced.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.0,
+  "score_consistent": true,
+  "missing_core": []
+}

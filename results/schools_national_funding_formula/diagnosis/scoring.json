@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Unfair, inconsistent funding between similar schools and areas",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Specific figures (\u00a32,345 to \u00a34,993 basic rate, 676 schools with no sparsity funding, \u00a319 vs \u00a3222 per pupil, Barnsley/Hackney 50%, Cornwall/Devon \u00a31,329) are tied to the claim, and Reference 14 (with a caveat) and Reference 47 (Section 251) are cited for some, but the department's own calculations are not explained and most comparisons carry no citation, so it stops at level 2 with no real assessment of the evidence."
+    },
+    {
+      "theme": "Out-of-date and unexplained historic funding base",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Figures such as FSM falling from 27% to 18% in London, \u00a34.9 billion of grants rolled into the DSG in 2011-12 and the 2005-06 DSG basis are offered but carry no references, so no source is identifiable and the method behind the department's own data is not given."
+    },
+    {
+      "theme": "Funding and disadvantage determine opportunity",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines 'We know that the socio-economic circumstances...' and 'high quality education can help to break this link' are assertions with no statistic, source or finding behind them."
+    },
+    {
+      "theme": "Wide variation in local formula choices",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Specific ranges for IDACI (\u00a342 to \u00a34,342), Ever6 FSM, lump sums (\u00a348,480 to \u00a3175,000) and bands (49 of 122) are linked to the claim, with References 3, 4, 9, 13, 14 and 47 explaining terms and sources including an IFS paper, though how the department's data was gathered is not set out and the evidence base is not assessed beyond the Reference 14 caveat."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Mostly descriptive of the DSG system and refers to the first-stage consultation material (Reference 1) with no stated finding, so no evidence is used in support of a claim."
+    }
+  ],
+  "reasoning": "Three of the four core themes are scored on the evidence shown. 'Unfair, inconsistent funding between similar schools and areas' reaches level 2: it offers concrete comparisons, such as the basic primary rate ranging from \u00a32,345 to \u00a34,993, 676 sparsity-eligible schools receiving nothing, and spend per pupil on ongoing responsibilities from \u00a319 in Walsall to \u00a3222 in Kingston upon Thames, with References 14 and 47 (Section 251 data) cited. 'Wide variation in local formula choices' also reaches level 2: the IDACI, lump sum and banding ranges are clearly linked to the claim, and References 3, 4, 9 and 13 explain terms and cite an IFS paper. 'Out-of-date and unexplained historic funding base' stays at level 1: the figures, such as FSM falling from 27% to 18% in London and \u00a34.9 billion of grants rolled into the DSG, carry no citation. 'Funding and disadvantage determine opportunity' is level 0: it rests on 'We know that...' assertions with nothing behind them. The mean is (2+1+0+2)/4 = 1.25, which rounds to 1. The strongest counter-example is the first and fourth themes, where the cited figures and Reference 14's caveat on area cost adjustment and deprivation funding might seem to approach level 3. That caveat is a limited acknowledgement, not an assessment of the evidence, and the department does not explain how its own calculations were done. To reach level 2 overall, the document would need to cite sources for the historic-base and disadvantage claims and explain how its own data was obtained. To reach level 3 it would also have to assess the strengths and limits of that evidence.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.25,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,93 @@
+<root>
+<theme sentences="10" weight="core">
+<name>Hidden ownership enabling corruption and money laundering</name>
+<claim>The document claims that offshore and complex company structures are used to obscure the true owners of UK property, enabling corruption, money laundering, terrorist financing and tax evasion.</claim>
+<text>
+<line id="S0138">So although the use of companies is a vital and important part of the UK economy,</line>
+<line id="S0139">complex company structures can create avenues for corruption, terrorist financing and money laundering, and in some instances can enable tax evasion.</line>
+<line id="S0161">However, the government is concerned about the potential for illegal activity to take</line>
+<line id="S0162">place through overseas companies investing in the property sector.</line>
+<line id="S0163">Some properties are owned through off-shore companies in order to obscure their true owners.</line>
+<line id="S0164">This can make it difficult for regulators, legitimate businesses and the general public to know who the true owners are and can make it very difficult for law enforcement agencies to carry out effective investigations.</line>
+<line id="S0166">The use of offshore corporate vehicles to obscure the true owners of UK property has</line>
+<line id="S0167">attracted those who wish to hide illicit funds and launder the proceeds of crime.</line>
+<line id="S0168">Between 2004 - 2014, over £180m worth of property in the UK has been investigated as suspected proceeds of corruption. In January 2016 the National Crime Agency reported the conviction of a money launderer who had used offshore companies to launder £12m stolen from Commerzbank through council properties in London. ** (Reference: 3)</line>
+<line id="S0169">The secrecy that these offshore companies provided made it difficult for investigators to identify who owned the properties.</line>
+</text>
+<references>
+<reference number="3">Data from cases investigated by the Metropolitan Police Proceeds of Corruption Unit between 2004 and 2014. This was collated by the Metropolitan Police Proceeds of Corruption Unit</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="core">
+<name>Regulatory gap for overseas entities</name>
+<claim>The document claims that the existing PSC register, which successfully reveals beneficial ownership of UK companies, does not apply to companies incorporated overseas, leaving a loophole that is exploited to hide illicit ownership.</claim>
+<text>
+<line id="S0181">However, the requirements of the PSC register, as set out in Part 21A of the Companies Act 2006, do not apply to companies incorporated outside the UK.</line>
+<line id="S0938">• Overseas companies own £122bn of property in the England and Wales (FT) - such levels of investment require thorough examination.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="core">
+<name>Dysfunction in the property market from opacity</name>
+<claim>The document claims that opaque overseas ownership also harms the ordinary functioning of the property market, making it hard for tenants, neighbours and others to identify who controls a property.</claim>
+<text>
+<line id="S0174">There are many cases where tenants do not know who truly owns the property they are renting, where neighbours struggle to identify who is</line>
+<line id="S0176">responsible for work on adjoining properties that has affected them, and where it is difficult to trace the people who control vacant property.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="core">
+<name>Risk of harm from public disclosure</name>
+<claim>The document claims that making beneficial ownership information public can itself put certain individuals at risk of violence, intimidation or other harm, justifying protective safeguards.</claim>
+<text>
+<line id="S0839">There are, however, some situations where making information about an individual public would put that individual at risk of harm or would create a wider public safety risk.</line>
+<line id="S0844">However we also consider that because the new overseas register will relate to individual properties the risk of harm to an individual or others may be increased by the individual’s association with the property being known.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="9" weight="not core">
+<name>Context: UK company transparency framework</name>
+<text>
+<line id="S0127">In the UK there are a wide range of checks and balances covering the activities of</line>
+<line id="S0128">companies.</line>
+<line id="S0129">On incorporation and annually companies must provide or confirm information about their directors and their shareholders.</line>
+<line id="S0130">Most of this information is made available to the public through Companies House.</line>
+<line id="S0132">This information is very important but although the shareholders are the legal owners of</line>
+<line id="S0133">the company, they may not be the ultimate owners or controllers of the company.</line>
+<line id="S0134">Companies may be owned through a chain of companies with an ultimate controller at the top, or individuals may appoint a nominee to hold their shares for them so that they don’t appear on a shareholder register.</line>
+<line id="S0135">These people are the beneficial owners of the company.</line>
+<line id="S0136">If they have a high level of interest or control, they can materially influence the way the company is run.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="6" weight="not core">
+<name>Context: UK investment attractiveness</name>
+<text>
+<line id="S0140">A lack of transparency can also inhibit investment.</line>
+<line id="S0141">Investors generally choose to invest in less corrupt, more transparent economies. ** (Reference: 2)</line>
+<line id="S0156">The UK is the number one destination for foreign direct investment in Europe.</line>
+<line id="S0157">It is a</line>
+<line id="S0158">great strength of the economy that so many overseas companies want to invest and do business in the UK.</line>
+<line id="S0159">The overwhelming majority of companies that do so contribute productively and abide by the law.</line>
+</text>
+<references>
+<reference number="2">Shanh-Jin Wei (1997) in ‘How Reluctant are Nationals in Global Integration?’ Kennedy School of Government, Harvard University; unpublished but quoted in ‘Gauging the Investment Potential of International Real Estate Markets’ by Stephen Lee (2005); http://centaur.reading.ac.uk/20959/1/1905.pdf</reference>
+</references>
+<links>
+</links>
+</theme>
+</root>

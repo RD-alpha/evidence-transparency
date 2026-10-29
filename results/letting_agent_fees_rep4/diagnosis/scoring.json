@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "High and opaque tenant fees",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Multiple cited surveys (EHS 2014/15, NALS/ARLA Ref 3, Generation Rent/Shelter Ref 4-6,10, NLA Ref 11) are cross-compared with differing averages (\u00a3223 mean EHS vs \u00a3172 NALS vs \u00a3400 Generation Rent), and DCLG's own primary research ('randomly chose 50 agents... searched their website') explains its method and limitations, together amounting to an assessed, cited evidence base."
+    },
+    {
+      "theme": "Tenants' lack of market power",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim rests mainly on reasoning plus a named but uncited 'Office of Fair Trading... 2013 market study' finding, so it stays at level 1 for lack of a reference or link."
+    },
+    {
+      "theme": "Financial harm to tenants",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Citizens' Advice findings (64% experienced problems paying fees, 42% borrowed money, Reference 13) are clearly linked to the harm claim, though the EHS 2014-15 moving-decision statistics (35%/34%) appear in this theme without a reference marker."
+    }
+  ],
+  "reasoning": "The three core themes reach different levels. 'High and opaque tenant fees' is the strongest: it draws on EHS 2014/15, NALS/ARLA (Ref 3), Generation Rent and Shelter (Ref 4-6,10) and the NLA survey (Ref 11), and explicitly contrasts their differing fee averages (\u00a3223 EHS mean vs \u00a3172 NALS vs \u00a3400 Generation Rent), while DCLG's own primary market research of '50 agents of differing sizes and models' describes its method and finds fees hard to locate or compare -- evidence that is cited, linked and partly self-assessed, reaching level 3. 'Tenants' lack of market power' leans on argument, with only a loosely sourced nod to 'the Office of Fair Trading... 2013 market study' that carries no reference or link, so it stays at level 1. 'Financial harm to tenants' sits in between: Citizens' Advice's 64%/42% figures (Reference 13) are clearly tied to the harm claim (level 2), but the EHS moving-decision statistics in the same theme lack a reference marker. Averaging 3, 1 and 2 gives a mean of 2.0, rounding to a section score of 2. The strongest counter-example is the market-power theme, where the OFT finding is asserted without any traceable citation. To reach level 3 overall, the document would need to name and assess the OFT study's methodology and explicitly weigh the reliability of the differing fee-level surveys rather than simply juxtaposing them.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.0,
+  "score_consistent": true,
+  "missing_core": []
+}

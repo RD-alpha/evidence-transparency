@@ -1,0 +1,20 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rising life expectancy",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The 23%/29%/32% shares of adult life and the life expectancy trends are tied to ONS cohort data (refs 5, 12, 19, 26), ref 13 and the method note in ref 6, though the Box 1.1 figures and 2017 figures are uncited and the projections are treated as near-certain apart from the single generic uncertainty line (theme 4) that I counted.}, {"
+    }
+  ],
+  "reasoning": "",
+  "score": 2,
+  "model_score": 1,
+  "core_mean": 2.0,
+  "score_consistent": false,
+  "missing_core": [
+    "Demographic ageing and pay-as-you-go pressure",
+    "Past delay and rapid catch-up",
+    "Uncertainty of life expectancy projections"
+  ]
+}

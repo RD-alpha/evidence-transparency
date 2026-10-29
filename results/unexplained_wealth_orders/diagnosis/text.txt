@@ -1,0 +1,244 @@
+S0034 2.1 In April 2016, the Government published an Action Plan for anti-money laundering and counter-terrorist finance, setting out the steps we will take to address weaknesses identified in the October 2015 National Risk Assessment of Money Laundering and Terrorist Financing.
+S0035 The National Risk Assessment identified and assessed the money laundering and terrorist financing risks faced by the UK.
+S0051 2.5 The National Risk Assessment also highlighted inconsistencies in the UK’s anti- money laundering supervisory Regime.
+S0190 In practice, however, law enforcement agencies lack a flexible and effective tool to forfeit suspected proceeds of crime held in bank accounts…Therefore, the Government intends to explore whether new powers are needed to enable the quick and effective forfeiture of money held in bank accounts in cases where there is no criminal conviction against the account holder…and there is suspicion that the funds are the proceeds of crime.”
+S0198 Power to allow seizure and forfeiture of readily moveable property, such as high value jewelry 4.33 A law enforcement respondent noted that the evidence demonstrates that value is being moved both domestically and internationally through the use of gift cards, precious metals, jewellery and gambling slips.
+S0221 The SARs regime currently allows the prevention of a transaction from going ahead for a period of 31 days, known as the ‘moratorium period’, to allow law enforcement agencies to gather evidence to determine whether further action, such as restraint of the funds, should take place.
+S0222 Concerns have been raised that this period, which cannot be extended under current legislation, does not allow sufficient time to develop the evidence, particularly where such evidence may be sought from overseas through mutual legal assistance.
+S0283 5.18 The existing civil recovery powers in POCA have a £10,000 de minimus threshold and in practice, given current operational priorities, are rarely used except in high value cases.
+S0284 This leaves a significant gap which means that, at present, funds in bank accounts with a value of below £10,000 can only be confiscated if a conviction is obtained.
+S0287 Power to allow seizure and forfeiture of readily moveable property, such as high value jewellery 5.20 Law enforcement agencies have identified a gap in the current legislation that prevents them from being able to take effective action against forms of property, such as precious stones and gambling slips, that are used to launder the proceeds of crime.
+S0348 1.1 This Action Plan tackles money laundering in all its forms, but it is particularly focussed on money laundering as a critical enabler of serious and organised crime, grand corruption, and terrorism.
+S0349 The November 2015 National Security Strategy (NSS) and Strategic Defence and Security Review (SDSR) identified terrorism and serious and organised crime as Tier One and Tier Two national security threats. Terrorism poses a direct and immediate threat to our domestic security and overseas interests. ** (Reference: 1)
+S0350 Serious and organised crime costs the UK at least £24 billion annually, causes loss of life and deprives people of their security and prosperity. 1. Money laundering and terrorist financing undermine the integrity of our financial institutions and markets, enable criminals to hide, store and benefit from the proceeds of their crime, and enable terrorist groups to function, recruit and commit terrorist acts. ** (Reference: 2)
+S0351 Money laundering into and through the UK financial system is also related to grand corruption overseas – the bribery and theft of public funds.
+S0352 1.3 The UK remains the largest centre for cross-border banking, accounting for 17% of the total global value of international bank lending and 41% of global foreign exchange trading.
+S0353 The size of the UK's financial and professional services sector, our open economy, and the attractiveness of the London property market to overseas investors makes the UK unusually exposed to international money laundering risks.
+S0354 Substantial sums from crimes committed overseas are laundered through the UK. ** (Reference: 3)
+S0355 There is no definitive measure of the scale of money laundering, but the best available international estimate of amounts laundered globally would be equivalent to some 2.7% of global GDP or US$1.6 trillion in 2009. 1. ** (Reference: 4)
+S0357 Government has a duty to help them comply and is aware that the current regime does not work as well as it could and that more could be done to help businesses comply and better focus resources on serious crime.
+S0396 1.16 In October 2015, the Government published the National Risk Assessment for Money Laundering and Terrorist Financing (NRA). It provides a candid and robust assessment to better understand the UK's money laundering and terrorist finance risks, and to inform the efficient allocation of resources to the highest risks and where there will be the greatest impact. ** (Reference: 7)
+S0397 1.17 The most significant money laundering threats are:
+S0398  High-end money laundering of criminal funds into or through the UK, particularly linked to grand corruption and major fraud.
+S0400 The role of professionals in the financial, legal and accountancy and related service sectors such as Trust and Company Service Providers (TCSPs) to enable the laundering of the proceeds of UK and overseas crime into, through and out of the UK.
+S0402 The role of 'international controllers' in facilitating the laundering of proceeds of crime from the UK, or from overseas and into the UK, linked to money service businesses (MSBs).
+S0404 The proceeds of crime from major crimes including organised immigration crime and modern slavery.
+S0405 1.18 The most significant terrorist financing threats are:
+S0407 The raising of terrorist funds through the exploitation of vulnerabilities in the financial sector and the movement of funds for the financing of terrorism through MSBs and cash couriering.
+S0408  The abuse of the charitable sector, both for raising and moving funds specifically for terrorist purposes.
+S0409 1.19 The NRA identified six areas in which action is needed to strengthen the anti-money laundering and counter-terrorist finance regimes.
+S0423 The private sector collectively spends billions of pounds a year on financial crime compliance, but it is not always an effective first-line of defence against those seeking to engage in money laundering and terrorist finance, despite these efforts.
+S0425 2.1 The private sector forms the first line of defence against money laundering and terrorist financing.
+S0426 The British Bankers’ Association (BBA) estimates that its members are collectively spending at least £5 billion annually on core financial crime compliance, including enhanced systems and controls and recruitment of staff.
+S0427 Other parts of the private sector spend additional sums.
+S0428 Despite this very significant investment, money laundering and terrorist financing still occurs.
+S0429 Too much resource at present is focused on dealing with regulatory compliance, and too little is focused on tackling financial crime risk.
+S0436 The SARs regime is central to the UK’s anti-money laundering and counter-terrorist financing structures.
+S0437 The Proceeds of Crime Act 2002 (POCA) requires persons in the regulated sector to report to the NCA where there are reasonable grounds to know or suspect that another person is engaged in money laundering.
+S0438 The Terrorism Act 2000 imposes a duty of disclosure upon persons in the regulated sector and also upon any person who in the course of a trade, profession or business or in the course of their employment believes or suspects that someone has committed any of the principal terrorist financing offences in the Act.
+S0439 If a SAR is submitted and consent is gained, the reporter gains a statutory defence from a money laundering or terrorist financing prosecution.
+S0440 2.4 SARs have the potential to be a critical intelligence resource, and provide important opportunities for law enforcement agencies to intervene to disrupt money laundering and terrorist financing, and build investigations against those involved.
+S0441 Last year, over 350,000 SARs were filed with the UK Financial Intelligence Unit (UKFIU) in the NCA, which operates the SARs regime. ** (Reference: 9)
+S0442 In recent years, however, both law enforcement agencies and the private sector have expressed increasing concerns about the effectiveness of the SARs regime.
+S0443 2.5 The Home Office launched a review of the SARs regime in February 2015.
+S0444 Following a call for evidence from the ‘regulated sector’, supervisors, law enforcement agencies and non-governmental organisations, a number of areas were identified where action was needed to improve the regime. ** (Reference: 10)
+S0448 At present, too much resource in both the public and private sectors is devoted to dealing reactively with relatively low risk transactions.
+S0502 2.18 Criminals often launder the proceeds of their crimes across multiple private sector firms.
+S0503 Whilst the Data Protection Act permits the sharing of information between firms in certain circumstances, the limited nature of those permitted circumstances, in combination with case law, data protection rules, and the risk of legal challenge in the civil courts militates against firms sharing information to prevent and detect money laundering and terrorist financing.
+S0531 The speed and complexity of the global financial system, the links between money laundering, terrorist finance and a wide range of predicate crimes, often committed overseas, presents difficulties for law enforcement agencies seeking to tackle illicit finances.
+S0533 2.22 The NRA identified significant intelligence gaps, in particular in relation to ‘high-end’ money laundering.
+S0534 The intelligence picture in other areas – such as high value dealers, gambling and new payment methods – was mixed.
+S0541 Responses also highlighted that some features of digital currencies could provide opportunities for illicit use.
+S0542 HM Treasury notes this potential risk, while acknowledging that evidence from across government, law enforcement and academia suggests that there is currently a low level of illicit activity in digital currency networks.
+S0552 2.25 The NRA found that the law enforcement response to money laundering has been weak for an extended period of time.
+S0555 2.26 High-end money laundering is complex, and can involve the misuse of the accountancy service providers and legal professionals such as TCSPs to provide legitimacy and access to other regulated sectors without detection.
+S0556 Proceeds can be held in bank accounts, real estate and other investments.
+S0557 Ownership is disguised behind multiple corporate structures, often registered overseas.
+S0582 2.31 The POCA contains comprehensive money laundering offences, and provides law enforcement agencies with specialised financial investigation powers and a suite of asset recovery measures.
+S0583 But it does not go far enough in providing law enforcement agencies with the powers they need to deal with money laundering for which the predicate offence was committed overseas.
+S0584 Nor does it offer the administrative powers that other countries, notably the U.S, use effectively to disrupt money launderers.
+S0585 There are some important gaps in the asset recovery provisions which have made it more difficult than it should be for law enforcement agencies to forfeit the proceeds of crime held in bank accounts.
+S0586 Finally, the financial investigation powers in POCA, whilst powerful, could be made more flexible and effective.
+S0587 2.32 The experience of UK law enforcement agencies in investigating the proceeds of international corruption suspected to have entered the UK in recent years has demonstrated POCA’s limits.
+S0588 In cases in which offences were conducted abroad, UK law enforcement agencies are forced to rely on the cooperation of the country in which the offence took place if they are to conduct a money laundering investigation with a realistic chance of successfully securing a conviction.
+S0589 But in many cases the country in which the offences took place lacks either the will, the capability, or the human rights record that would allow effective cooperation to take place.
+S0590 This can result in assets suspected of being the proceeds of crime overseas remaining in the UK out of the reach of our law enforcement authorities.
+S0598 The UK’s large financial sector makes it vulnerable to money laundering risks from overseas.
+S0599 It is not possible to seek traditional criminal justice outcomes – prosecutions and convictions in the UK courts – against money laundering threats across the globe.
+S0605 2.35 POCA offers a variety of different tools for asset recovery.
+S0606 In practice, however, law enforcement agencies lack a flexible and effective tool to forfeit suspected proceeds of crime held in bank accounts.
+S0607 POCA enables highly effective action to be taken against criminal cash.
+S0608 No similar power applies to money held in bank accounts.
+S0629 With terrorist finance there is a greater focus on the raising and movement of smaller scale funds since terrorist attacks or travel for terrorist purposes can be funded relatively cheaply.
+S0638 As the Government is aware that the current supervisory regime is not working as well as it could, and that more could be done to help businesses comply and better focus resources on serious crime.
+S0646 2.40 The UK’s supervisory regime is unique in respect of the number and diversity of bodies that supervise businesses for AML/CTF purposes.
+S0647 These include statutory regulators and professional bodies and the number of Treasury-approved supervisors has grown over the years.
+S0648 While there are advantages in sector specialisms, the NRA found that there were inconsistencies in the supervisory regime, including in understanding and applying the risk-based approach to supervision, in the provision of guidance and in providing a credible deterrent.
+S0651 The Government is also aware of concerns about aspects of the supervisory regime that appear to businesses in the regulated sector to be unclear, unnecessarily cumbersome, conflicting or confusing.
+S0652 This also has the potential to contribute to a less effective regime.
+S0653 2.41 The Government believes that the large number of professional body supervisors in some sectors and the inconsistencies in their approach is a particular concern.
+S0654 While the majority of professionals in the regulated sector are not complicit in money laundering, those who are non-compliant or negligent have the potential to cause significant harm.
+S0655 They may, deliberately or unwittingly, assist criminals by facilitating them in hiding the source of wealth, the wealth itself and to giving that wealth a veneer of legitimacy, which is an integral aspect of money laundering.
+S0686 Money laundering and terrorist finance are global threats.
+S0687 The UK, as an open economy and a major global financial centre, is particularly exposed to risks from overseas.
+S0692 2.49 Investor visa regimes around the world, including the UK’s, have been criticised as representing a quick money laundering route for corrupt foreign individuals.
+S0716 A lack of consistency in the legal and regulatory frameworks that govern information sharing creates vulnerabilities for private sector firms.
+S0717 The sharing of information and intelligence about suspected money laundering within these firms and with UK law enforcement agencies is hampered by domestic data protection rules, and in turn creates obstacles to law enforcement investigations.
+S0722 Recent high profile international corruption cases have demonstrated that criminal funds were used to obtain real estate in the UK.
+S0742 A large number of UK based charities work in difficult environments overseas in support of humanitarian goals, often having to work in areas where terrorists operate.
+S0860 SARs play an important role in the ability of the UK to identify money laundering and the financing of terrorism.
+S0861 Part 7 of the Proceeds of Crime Act 2002 requires a person to report to the NCA where there are reasonable grounds to know or suspect that another person is engaged in money laundering.
+S0862 Although this requirement to submit SARs applies to any individual, those businesses in the "regulated sector" such as banks, money service businesses, accountants and lawyers are obliged to report.
+S0871  Definition of Purpose: The current regime fulfils the role of the UK reporting and intelligence gathering mechanism for suspected money laundering and terrorist financing activity.
+S0872 Many respondents believe that the regime is ineffective, and want to see it used in a more active manner, that will lead to clear operational outcomes, such as arrests and asset recovery.
+S0876 The reporting sector is concerned that existing legislation does not explicitly support the sharing of information within and between members of the reporting sector, and that more definite legal arrangements are required.
+S0878  Improve the quality of SARs / reduce the volume: The reporting sector has concerns regarding the phrasing of the requirement to report suspicious transactions, as set out in POCA.
+S0879 This concern, and the penalties for failure to report, drive a significant level of defensive reporting, where reports are made more because of concerns regarding a failure to comply with POCA than because of genuine suspicion.
+S0880 This places a burden on the regime, and detracts from a focus on serious and organised crime.
+S0882  Clarify the “tipping off” offence: There are concerns relating to the “tipping off’ offence in POCA.
+S0883 Reporters are concerned that any sharing of information, even to assist in preventing or detecting crime, could be an offence.
+S0884 The poor quality and large number of SARs places the regime under strain.
+S0885 The poor quality is often as a result of the lack of knowledge on the part of the reporter, and the use of an all crimes approach, with no de minimus, obliges reporters to raise SARs that are of little value.
+S0886  Upgrade the capabilities of the UK Financial Intelligence Unit (UKFIU): All sectors viewed the technical infrastructure and the resources of UKFIU that support the regime as inadequate.
+S0887 The reporting sector felt that the IT system did not allow them to report as effectively as it could, and that the UKFIU was short of the capabilities necessary to utilise the information provided in the SARs.
+S0888  Consent regime: The consent regime is seen by many in the reporting sector as problematic.
+S0889 They say it causes delays, and difficulties with customers, and some also view it as incompatible with their business.
+S0903 Most respondents felt that they had a good understanding of SARs and how they should be raised.
+S0904 Staff training was seen as vital, and is carried out by many respondents.
+S0905 However, respondents working for smaller organisations felt they had difficulties with training, as they did not know what to look for.
+S0906 The role of regulators and supervisors in assisting with training was welcomed, although others mentioned concerns, particularly outside the financial sector, with the quality of oversight, and the number of regulators in particular sectors.
+S0908 Purpose of the SARs regime: There is concern over what the regime is for, and what it is seeking to achieve, coupled with a wider concern over the lack of information on the effectiveness of the regime, and what the regulated sector needs to provide to assist law enforcement agencies.
+S0909  Information sharing on risks and threats: A lack of guidance on what to look for or to focus on leads to large numbers of SARs being raised on a guesswork basis.
+S0910 One respondent argued that it is unreasonable for governments to expect the regulated sector to know more about money laundering than law enforcement agencies do, and that information held by such agencies needed to be shared.
+S0911 The focus on an “all crimes” regime is leading to high levels of defensive SARs.
+S0915 Some respondents were unclear which of these (or both) should be done.
+S0916  Regulatory oversight of non-banking sector: The banking sector is subject to considerable regulation, and is responsible for most SARs.
+S0917 Criminals may have recognised this, and will use other avenues where there is less reporting.
+S0919  Difficulty of use: Some respondents felt that the regime itself is difficult to use because the nature of their business model does not allow them to use the SARs regime effectively.
+S0920 This particularly applies where the transactions are many and rapid.
+S0921  Duplication of reporting: Respondents were often unclear where they should report different crime types to, or felt that they needed to provide duplicate reports, such as one to Action Fraud and a SAR.
+S0924  UKFIU capabilities: The level of resources applied to work on submitted SARs and to investigate money laundering is seen by most respondents as too low.
+S0926  Willingness to restrain: Concerns were raised over the difficulty in obtaining restraint orders, particularly in cases where relatively small sums are involved.
+S0929 Many respondents are willing to share more information than they do now, but see the current legislation as restricting their ability to do so between sectors and within sectors.
+S0930 Some of this relates to the Crime and Courts Act section 7 gateway, which enables data sharing with the NCA, and some to wider issues of data protection.
+S0938  Tipping off offence: Some respondents argued that the tipping off offence at section 333A of POCA is drawn too widely, and has a detrimental effect on sharing information for the purpose of identifying or preventing crime.
+S0939 In the age of fast transactions, a customer cannot avoid noticing that their transaction has been held up, and can draw their own conclusions.
+S0952  New technical architecture: The current IT infrastructure is seen as having significant problems, and to be unable to support the workload.
+S0965 Some sectors feel that a consent regime that is focused on bank transactions does not work for the more immediate transactions that they deal with.
+S0968  Review the moratorium period: There are diverse views on whether the length of the moratorium period is right.
+S0969 Businesses generally view it as too long, or of having the effect of causing any transaction subject to it to fall through.
+S0970 Law enforcement agencies believe that the time to obtain information to make a decision on further action, particularly where the request is from overseas, is not long enough, and should be extendable through a court order.
+S0978  International information sharing: Respondents see a number of challenges to sharing information internationally, due to the different data protection laws in other jurisdictions.
+S0979 This is a problem for global institutions, who may not be able to share information on customers across different parts of the group.
+S0980 It is also a problem for law enforcement agencies, who do not receive intelligence disseminations.
+S0981  Impact of the 4th Anti-Money Laundering Directive (4AMLD): Respondents thought that the impact of 4AMLD could be significant, if it drives up the number of SARs being reported, requires additional work from the UKFIU, and prevents information sharing between or within sectors.
+S0983 The UK’s financial sector is one of the most sophisticated and open in the world.
+S0984 This brings huge advantages in terms of encouraging investment, entrepreneurship, and financial innovation – but it also makes it a target for criminals seeking to launder and move their ill-gotten gains around the world.
+S0990 In preparation for the Mutual Evaluation and the transposition of the European Union’s Fourth Money Laundering Directive, the government published the National Risk Assessment (NRA) of ML/TF risks in October 2015.
+S0991 This found that, while the UK’s response to money laundering and terrorist financing risks is well developed, more could be done to strengthen the AML and CFT regime.
+S0993 “The effectiveness of the supervisory regime in the UK is inconsistent.
+S0994 Some supervisors are highly effective in certain areas, but there is room for improvement across the board, including in understanding and applying a risk-based approach to supervision and in providing a credible deterrent.
+S0995 The large number of professional body supervisors in some sectors risks inconsistencies of approach.
+S0996 Data is not yet shared between supervisors freely or frequently enough, which exposes some supervised sectors where there are overlaps in supervision.
+S0998 Currently, the Treasury has responsibility for appointing and removing the supervisors through the Money Laundering Regulations.
+S0999 The Treasury engages with the supervisors, law enforcement and the regulated populations though fora such as the Money Laundering Advisory Committee, the Anti-Money Laundering Supervisors’ Forum and the Financial Sector Forum as well as monitoring their activities through an annual Supervisor’s Report.
+S1001 However, there is no formal and systematic mechanism for assessing performance and driving changes.
+S1009 The first step in taking a risk-based approach to combatting money laundering and terrorist financing is to have a robust methodology for identifying and assessing risks.
+S1010 Supervisors have developed their own risk assessment methodologies largely independently and these are not always directly comparable.
+S1011 Where a number of supervisors cover similar types of business, having a methodology that is significantly different may give rise to inconsistencies, for example potentially leading to two supervisors viewing the same business type as having materially different risks.
+S1012 The NRA found that some supervisors had difficulties explaining how their risk assessment translates into specific monitoring activities.
+S1013 This does not mean that supervisors are not taking a risk based approach or that their risk assessments do not inform their monitoring decisions, but it does suggest that the communication of monitoring decisions needs to be improved.
+S1014 Once risks have been identified and assessed, supervisors should allocate resources accordingly and focus on areas of highest risk.
+S1015 However, this does not mean that other areas should be neglected and it is important that ongoing monitoring enables supervisors to detect new risks or changes to existing risks that necessitate a reallocation of resources.
+S1016 The NRA found that there is a risk of the priority attached to AML/CFT supervision by supervisors varying over time as it is prioritised against assessments of compliance in other areas, although there is no evidence that individual supervisors are not sufficiently prioritising AML/CFT efforts.
+S1028 The variety of supervisory models means that government does not have the same influence over each supervisor.
+S1029 While statutory bodies (such as the FCA) are answerable to parliament, professional bodies which are granted authority to supervise by the Treasury are ultimately answerable to their members.
+S1030 While the Treasury has instigated an annual report on the activities of the supervisors, not all supervisors submit returns, and the mechanism for assessing their performance in detail, identifying weaknesses and ensuring that action is taken could be strengthened.
+S1031 While most supervisors attend the AML/CFT Supervisors’ Forum (AMLSF) and meet in the smaller affinity groups (accountancy, public sector and legal), these fora provide a means of information exchange and discussion rather than challenge, support and accountability.
+S1032 Some supervisors are also members of the Money Laundering Advisory Committee (MLAC) along with representatives from industry, law enforcement and government departments, this provides another forum for discussion and advises the government on its approach to preventing money laundering.
+S1046 Under the Money Laundering Regulations and the Fourth Anti-Money Laundering Directive (4AMLD), penalties should be “effective, proportionate and dissuasive”.
+S1047 Furthermore, article 59 of 4AMLD sets out minimum requirements for measures that should be available in cases of serious, repeated or systematic breaches.
+S1048 There is no common approach across all supervisors to using enforcement tools to incentivise AML/CFT compliance.
+S1049 Typically, if a supervised business cannot provide evidence that it is applying AML/CFT controls to a satisfactory standard, a supervisor will schedule a follow-up visit to ask for evidence of improvement, leading to a referral to an investigation department if no credible evidence is forthcoming.
+S1050 There is scope for supervisors to take differing approaches in enforcing AML/CFT compliance, and for supervisors to take differing views on whether education or sanctions are the most appropriate remedy in a given situation.
+S1051 There is also no common approach to use of sanctions or in setting the level of penalties applicable and this could give rise to inconsistencies.
+S1052 While some supervisors are not limited in the fines that they can impose, others set limits as low as £2500.
+S1053 It should be noted that having different upper limits for fines may not necessarily lead to an inconsistent approach to enforcement, provided that any penalty levied is proportionate to the breach that is being sanctioned.
+S1054 The supervised population ranges from sole traders to multi-national corporations, so an effective regime should not seek consistency in the absolute level of penalties but the approach should be proportionate – that is, there should be consistency in the way that supervisors decide on penalties and consistency in their effect.
+S1055 To this end, article 60(4) of 4AMLD sets out a non-exhaustive list of circumstances that should be taken into account when deciding on the type and level of administrative sanctions to apply.
+S1056 Some supervisors have indicated that they can “fast track” disciplinary matters once a member has been convicted of an offence.
+S1057 However, the speed of the procedure varies from a matter of weeks to 6 months after conviction, potentially allowing a convicted criminal to practice for up to 6 months even after conviction.
+S1058 Public sector supervisors (such as HMRC) can also be constrained in “naming and shaming” those subject to conviction, which could reduce their ability to incentivise compliance, although it should be noted that article 60 of 4AMLD imposes, in certain circumstances, a duty to publish decisions where a penalty is imposed.
+S1059 Furthermore, many of the supervisors currently share information on members that have been disciplined for AML/CFT related breaches with the aim of ensuring continuity should they seek to move to a new supervisor within the same sector.
+S1060 There are variations in how the discipline/enforcement committees of supervisors are constituted.
+S1061 Whilst some supervisors have disciplinary procedures that are operationally independent of the supervisor, others have no lay members, external oversight or recourse to an independent disciplinary tribunal.
+S1062 Supervisors’ disciplinary procedures should have sufficient independence to instil public confidence and there should be an adequate appeals system in place.
+S1063 Finally, different supervisors have different powers to investigate their supervised populations.
+S1064 The Money Laundering Regulations allow FCA staff and officers of HMRC the power to require information from and attendance of relevant and connected persons, including the power to require the relevant person to attend before an officer at a specified time and place and answer questions.
+S1065 The Money Laundering Regulations also give powers to HMRC and FCA to enter premises with or without a warrant, and this does not directly apply to the other supervisors.
+S1066 Furthermore, HMRC have authority to instigate proceedings for breaches of the Regulations that are prosecuted by the Crown Prosecution Service, whereas the other public sector supervisors (the FCA and the Gambling Commission) do not.
+S1067 The Gambling Commission does however have powers to take regulatory action under the Gambling Act for breaches in AML/CFT compliance, including suspension or revocation of a licence.
+S1068 Professional bodies, on the other hand, lack such direct powers to compel.
+S1078 Supervisors have a range of criteria that supervised businesses must meet.
+S1079 These can include adherence to codes of conduct, undergoing a fit and proper person test or requirements to obtain qualifications and training in order to be accepted for the purposes of supervision.
+S1080 Supervisors may also require their population to carry out continuing professional development in order to retain accreditation.
+S1081 The requirements will vary depending on the supervisor, and there may, in some cases, be no requirement to meet professional standards in order to become supervised.
+S1082 There are also barriers to supervisors informing themselves of the background of their supervised populations, making it difficult to effectively manage entry into the sector.
+S1083 Most supervisors do not have access to police databases and therefore do not know, other than through declarations, if a person has a criminal conviction.
+S1084 Not all supervisors have powers to carry out a fit and proper test of the supervised population.
+S1085 Supervisors may also lack appropriate powers to deregister those who are no longer deemed fit and proper.
+S1086 In some sectors, individuals or businesses deregistered by one supervisor may continue to practice by simply registering with an alternate supervisor.
+S1088 While most supervisors require the supervised population to complete a comprehensive annual return containing information on the firm, principals, shareholders and management; not all supervisors can compel the supervised population to do so.
+S1089 Therefore they may not have access to up-to-date information, making it difficult to carry out a risk assessment of the activity carried out by a supervised business.
+S1090 Supervisors also work with their regulated populations in a number of ways to drive up standards, including through the use of more collaborative methods such as; industry workshops, bulletins, continuous professional development etc.
+S1098 The Treasury follows best practice on better regulation by allowing professional body supervision for AML/CFT.
+S1099 The NRA found that there is a risk that conflicts of interest could compromise professional body supervision as these bodies represent and are funded by the firms they supervise.
+S1100 A report published in February 2013 into the economic and legal effectiveness of AML/CFT policy raised concerns around the role of trade bodies in supervision.
+S1101 The study, published by Utrecht University, noted that “a high number of sanctions imposed by the professional association could lead to the impression that the professionals do not maintain a high quality standard.” ** (Reference: 15)
+S1102 The evidence gathered through the consultation undertaken as part of the NRA process did not indicate that this potential conflict of interest is undermining supervision, but the perception of risk remains very real.
+S1103 In Sir David Clementi’s report of 2004, he quotes from the Council for Licensed Conveyancers: “It is difficult to understand how one body can effectively both regulate a profession and also represent and lobby for its interests without prejudice to either its regulatory or representative functions.” ** (Reference: 16)
+S1104 The report argues that issues such as changes in practice should be examined, not against the wishes of the membership, but against the test of public interest and, even where a body does place the public interest ahead of that of its members, there remains an issue of perception.
+S1116 The international AML/CFT standards set by the Financial Action Task Force (FATF) require supervisors to provide their supervised population with a clear understanding of their AML/CFT obligations and ML/TF risks.
+S1117 This can include the production of AML/CFT guidance.
+S1118 Currently, supervisors and other stakeholders produce guidance which provides assistance for firms in their sector on the practical application of the Money Laundering Regulations.
+S1119 The Treasury does not currently issue guidance on the interpretation of the Money Laundering Regulations but instead may approve the guidance produced by supervisors and industry bodies.
+S1120 Treasury approved guidance means that a court must consider whether the person followed the guidance when deciding whether they failed to comply with the Regulations (or the POCA or the Terrorism Act 2000).
+S1121 Evidence submitted to the Cutting Red Tape Review suggests that the large number of supervisors has resulted in a great deal of Treasury approved guidance.
+S1122 The current process for obtaining Treasury approval for each piece of guidance is criticised by respondents as inefficient and taking too long.
+S1123 Further, submissions to the review suggest that much of the guidance itself is too long, challenging to understand and is jargon-laden.
+S1124 Respondents complained that there is insufficient clarity around the difference between minimum legal requirements and best practice.
+S1125 The status of the FCA Financial Crime Guide is specifically mentioned as being unclear and inconsistent with the guidance produced by the Joint Money Laundering Steering Group (JMLSG), a finance, trade and banking industry consortium.
+S1126 This results in firms having to familiarise themselves with multiple sets of guidance which, it is felt, often does not provide enough specific or practical advice on how to comply, leading to businesses being unsure of what is expected of them, or going beyond expected levels of compliance in order to minimise risk of being found non-compliant.
+S1142 The publication of National Risk Assessment had the clear objective of enabling a better understanding of the UK’s money laundering and terrorist financing risks, informing the efficient allocation of resources and mitigating money laundering and terrorist financing risks.
+S1144 In a drive towards greater transparency in AML/CFT supervision, the Treasury has developed a voluntary reporting process for supervisors which is now in its fifth year.
+S1145 The Annual Supervision Report plays a key role in encouraging good practice and improving the transparency and accountability of supervision and enforcement in the UK.
+S1146 It should also be noted that 4AMLD further encourages transparency and article 60 requires the publication of details of enforcement action in certain circumstances.
+S1160 The NRA notes that supervisors collectively need to share more information with each other in order to properly mitigate the risks.
+S1163 Following of review of the Money Laundering Regulations in 2012, the Treasury amended the Regulations to provide a legal gateway to allow supervisors to disclose information to other UK supervisors relevant to their functions.
+S1164 This enables supervisors to inform each other of firms or individuals they have de-registered or have particular concerns about, in order to help prevent regulatory arbitrage and non-compliant firms from evading proper controls.
+S1165 The Financial Crime Information Network (FIN-NET) is an organisation that operates under the umbrella of the FCA and allows the sharing of information between law enforcement and regulators on specific individuals and entities.
+S1167 While some AML/CFT supervisors are full members of FIN-NET, the majority are not.
+S1168 Another inconsistency with regard to the sharing of information is that regulation 25 of the Money Laundering Regulations requires HMRC to keep registers for certain sectors that it supervises, including High Value Dealers (HVDs), Money Service Businesses (MSBs) and Trust or Company Service Providers (TCSPs).
+S1169 The FCA also keeps a list of authorised firms on its register which is easily searchable but there is no such obligation on legal and accountancy service providers to keep registers for TCSPs and the FCA is not obliged to keep a register for MSBs or TCSPs that it supervises.
+S1170 The Regulations allow for HMRC to publish these registers, but they currently do not do so.
+S1182 The UK is a global financial centre, and is home to some of the most successful international financial services firms in the world as well as being the largest centre for cross-border bank lending.
+S1183 Because of the size and complexity of the sector it is exposed to criminals who seek to use it to move and disguise the proceeds of crime and funds of terrorism.
+S1184 As the conduct supervisor for credit and many financial institutions, the Financial Conduct Authority (FCA) plays a key role in protecting the financial sector from ML/TF threats and the government is particularly motivated to ensure that the FCA is able to effectively mitigate the risks presented.
+S1185 Egregious cases of banks allowing themselves to be used for ML/TF purposes may have effects beyond simply damaging the reputation of the UK financial sector and facilitating the predicate offence(s).
+S1186 In such a situation, enforcement action against the offending bank by a regulator or law enforcement agency could potentially lead to fines or revocation of licences which lead to the failure of the bank.
+S1187 This could, depending on the size of the bank, have systemic implications.
+S1188 This makes it all the more important that the FCA is able to effectively monitor banks and ensure that their systems prevent such breaches occurring.
+S1189 The FCA seeks to apply a risk-based approach to its supervision of banks and other financial institutions.
+S1190 In 2014 it adapted its approach to AML/CFT supervision to try to target its resource more effectively and focuses on firms that present the highest money laundering risks, irrespective of their size.
+S1191 This includes carrying out deep dive assessments of major retail and investment banks as part of the Systematic Anti-Money Laundering Programme (SAMLP), regular inspections of smaller firms that are assesses as higher risk, thematic reviews and event-driven work, for example when a high risk of financial crime is identified.
+S1192 The FCA also publishes a Financial Crime Guide which gives specific guidance on anti-money laundering and countering the financing of terrorism, including examples of good practice.
+S1193 Submissions to the Cutting Red Tape review show there is a perception that the FCA’s supervision can focus on procedural requirements which are thought not be the most effective way of detecting and preventing money laundering and terrorist financing.
+S1194 This narrative contends that ‘tick-box’ approach by the FCA prevents banks from adopting truly effective approaches and leads them to ‘over-compliance’ – that is, demanding information from customers or imposing procedures that would not be required under a truly risk-based approach and are not demanded by regulations – as well as withdrawing from certain services or classes of customer in order to avoid the risk of regulatory sanctions.
+S1195 However, it should be noted that in order to assess the AML/CFT regime of an institution, there will be a need to do a certain amount of checking of procedures and policies which may, erroneously, be seen as ‘box-ticking’.
+S1196 It has been suggested that the FCA’s approach to supervising the financial sector for AML/CFT compliance leads to smaller firms not receiving the scrutiny that might be warranted under a truly risk-based approach, due to the FCA’s focus on the largest firms.
+S1204 The UK’s supervisory regime is unique in respect of the number and diversity of bodies that supervise businesses for AML/CFT purposes.
+S1205 These range from statutory regulators to professional bodies and the system has grown up organically over the years.
+S1206 There are currently 27 bodies appointed by Treasury as AML/CFT supervisors.
+S1207 This may provide advantages, allowing supervisors to leverage their specialist knowledge of their sectors in order to more effectively manage the risk of financial crime.
+S1208 However, there can be an overlap in the sectors covered by supervisors.
+S1210 However, there is an argument that it is simply the number of bodies in existence which give rise to more opportunities for inconsistency.

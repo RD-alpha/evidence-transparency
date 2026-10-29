@@ -1,0 +1,22 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Circumvention of POTAS through associated entities",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines assert that promoters seek to circumvent POTAS via associated and successor entities and that FA 2015 changes were made, but give no statistic, finding, source or primary evidence, and the references block is empty."
+    },
+    {
+      "theme": "Nature of the POTAS regime and its target",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines describing FA 2014, conduct notices and monitoring notices are a description of the current rules and the stated aim, with no evidence on the 'small and persistent minority' and no citations."
+    }
+  ],
+  "reasoning": "Both core themes are scored on what the extract shows, and neither offers evidence for the diagnosis. The first core theme, 'Circumvention of POTAS through associated entities' (level 0), says promoters 'seek to circumvent' the POTAS legislation 'through the use of associated and successor entities' and that FA 2015 changes were meant to stop this. This is assertion: there is no count of promoters doing it, no example of a reorganisation, no HMRC casework or consultation response, and no named report. The second core theme, 'Nature of the POTAS regime and its target' (level 0), describes how conduct notices and monitoring notices work and calls the target a 'small and persistent minority of promoters'. That is a description of the current rules and the policy's aim, which is not evidence, and the size of the minority is not quantified. The references and links blocks are empty throughout. The mean of the core levels is 0, so the score is 0. The strongest counter-example to this level is that the document does state a concrete mechanism of avoidance, which gives a reader a clear picture of the problem. But a plausible mechanism is reasoning, not evidence. To reach level 1 the document would need to offer some actual evidence, such as the number of promoters or schemes found to be using associated entities, HMRC casework findings, or the results of a consultation, with an explanation of what it shows. Level 2 would also need citations or a described method.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Hidden ownership enabling corruption and money laundering",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The \u00a3180m figure and the NCA conviction example are explained and backed by Reference 3, which is clearly identified as Metropolitan Police Proceeds of Corruption Unit data covering 2004-2014, giving a traceable, linked source though without any assessment of its limitations."
+    },
+    {
+      "theme": "Regulatory gap for overseas entities",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The \u00a3122bn FT figure supports the scale of the gap but is only named in prose as '(FT)' with no reference entry or link, so the source cannot be followed."
+    },
+    {
+      "theme": "Dysfunction in the property market from opacity",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claims about tenants, neighbours and vacant property are asserted with no statistic, source or data cited."
+    },
+    {
+      "theme": "Risk of harm from public disclosure",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that disclosure risks harm to individuals is pure assertion/reasoning with no evidence, data or named incidents."
+    },
+    {
+      "theme": "Context: UK company transparency framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This describes how the PSC/Companies House system works with no supporting evidence of effectiveness or problems."
+    },
+    {
+      "theme": "Context: UK investment attractiveness",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim that investors prefer transparent economies is backed by Reference 2, a named 1997 academic paper with a working link, giving a traceable citation though unassessed."
+    }
+  ],
+  "reasoning": "The diagnosis rests on four core themes. 'Hidden ownership enabling corruption and money laundering' reaches level 2: the \u00a3180m figure and the Commerzbank/NCA laundering example are tied to Reference 3, clearly described as Metropolitan Police Proceeds of Corruption Unit data, so a reader could trace it, though the document never assesses the data's representativeness or limitations (no level 3). 'Regulatory gap for overseas entities' reaches only level 1: the \u00a3122bn FT figure is named in the text but carries no reference or link, so it cannot be followed to source. 'Dysfunction in the property market from opacity' and 'Risk of harm from public disclosure' both reach level 0 - they assert problems (confused tenants, risk to individuals) with no statistic, study or named instance behind them, only plausible reasoning. The mean of 2, 1, 0, 0 is 0.75, which rounds down to 1. The strongest counter-example is the Reference 3 evidence, which is genuinely well-used and linked - but it supports only one of the four core claims, and the two weakest themes drag the average down. To reach level 2 overall, the document would need to add cited, traceable evidence for the property-market dysfunction and disclosure-risk claims (e.g. named cases, surveys or data on harm), and a proper reference for the \u00a3122bn figure.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

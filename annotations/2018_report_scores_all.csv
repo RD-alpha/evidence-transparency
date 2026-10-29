@@ -1,0 +1,95 @@
+Department,Name,Diagnosis,Proposal,Implementation,Testing
+Cabinet Office,Establishing a Public Service Ombudsman,2,2,2,1
+Cabinet Office,Civil service apprenticeships,2,1,1,3
+Cabinet Office,Combating electoral fraud,1,1,1,1
+Cabinet Office,Reforming anonymous electoral registration,1,1,1,0
+Cabinet Office,Strengthening cyber security skills,1,0,0,1
+Cabinet Office,Votes for British citizens overseas,0,1,1,0
+BEIS,Furniture and furnishings fire safety regulations,2,3,3,2
+BEIS,Ending unabated coal generation,2,3,2,2
+BEIS,Reforming the Employment Tribunal system,2,3,2,2
+BEIS,Raising domestic boiler standards,2,3,2,1
+BEIS,Executive pay reform,2,2,2,2
+BEIS,Climate Change Agreement (CCA) target buy-out price changes,3,2,1,1
+BEIS,Creating new Institutes of Technology,2,1,,
+BEIS,Overseas-owned UK property register,2,1,1,0
+DCLG,Ban on letting agent fees,2,2,2,2
+DCLG,New funding model for supported housing,3,1,1,2
+DCLG,Supporting enterprise and innovation in the Midlands,2,2,2,0
+DCLG,Supporting Affordable Private Rent housing,2,2,1,1
+DCLG,Use of public parks for running,1,2,2,0
+DCLG,Local government finance settlement,,1,2,1
+DCLG,Modifying the neighbourhood planning process,1,1,1,1
+DCLG,Homelessness prevention programme,0,0,0,1
+DCMS,Design of the broadband Universal Service Obligation,2,3,3,1
+DCMS,Creating a national 5G Innovation Network,2,2,2,2
+DCMS,Deregulation of commercial radio,3,2,1,1
+DCMS,Prohibiting third party betting on non-UK EuroMillions,2,2,2,1
+DCMS,Increasing the regional impact of Channel 4,1,2,2,1
+DCMS,Regulatory changes to boost tourism businesses,1,0,0,1
+DCMS,Digital skills training,1,1,0,0
+DCMS,Public Services Incubator for small charities,0,0,0,0
+DfE,Supporting selective schools,3,2,1,1
+DfE,Early years national funding formula,2,2,1,1
+DfE,New funding model for apprenticeships,2,1,2,1
+DfE,Postgraduate doctoral loans,2,1,1,1
+DfE,Schools national funding formula,2,1,1,1
+DfE,Inclusive assessment for primary school pupils,1,2,1,1
+DfE,Establishing Social Work England,1,1,1,0
+DfE,Modern foreign languages A and AS level content,0,0,0,0
+DEFRA,Fixed penalties for environmental offences,3,3,2,2
+DEFRA,Ban on landing egg-bearing lobsters and crawfish,3,2,2,2
+DEFRA,Tackling roadside NO2 concentrations,3,2,2,1
+DEFRA,Packaging waste recycling targets,1,3,3,0
+DEFRA,Ban on microbeads,2,2,2,1
+DEFRA,Bovine TB testing in high-risk areas,1,2,1,1
+DEFRA,Horse identification,1,1,1,1
+DEFRA,Flexibility for fisheries management,1,1,0,1
+DfT,Cutting down on noise from night flights,3,3,3,3
+DfT,Extending the date of first MOT,2,3,3,3
+DfT,Air Travel Organisers' Licencing (ATOL) reform,2,2,2,2
+DfT,MOT testing for historic vehicles,2,2,2,2
+DfT,Motor fuel GHG emission reporting regulations,2,2,2,2
+DfT,Registration and tracking of drones,2,2,2,1
+DfT,Information on rail fares and ticketing,1,1,2,2
+DfT,Electric vehicle infrastructure,1,1,1,2
+DWP,New timetable for the State Pension age change,3,3,2,2
+DWP,Support for young people with a limited capability for work,3,3,2,2
+DWP,Helping workless families,3,2,1,3
+DWP,New funding model for supported housing,3,1,1,2
+DWP,Change to Employment and Support Allowance work rules,3,1,1,1
+DWP,Technical changes to automatic enrolment,1,1,1,1
+DWP,Reforms to the Funeral Expenses Payment scheme,1,0,1,0
+DWP,Master trust pension scheme regulations,1,0,0,0
+DH,Confidentiality in healthcare safety investigations,3,3,2,1
+DH,Availability of gluten free foods on prescription,2,3,2,1
+DH,Changes to infected blood support,2,2,2,2
+DH,Sugar reduction programme,2,2,2,2
+DH,Improving maternity safety,1,2,1,2
+DH,Smoking product regulations,1,2,1,1
+DH,Pensionability of NHS sub-contracts,2,1,1,0
+DH,Keeping spare adrenaline in schools,1,1,1,1
+HMT,Private Fund Limited Partnership structure,2,3,2,1
+HMT,New formula for Welsh Government funding,2,2,2,1
+HMT,Changes to alcohol duty structures,2,1,1,1
+HMT,Museums and galleries tax relief,1,1,1,1
+HMT,New Local Infrastructure Rate,1,1,1,1
+HMT,National Insurance Contributions for the self-employed,1,1,1,0
+HMT,Further tackling the promoters of tax avoidance schemes,1,1,1,0
+HMT,Company car tax for ultra-low emission vehicles,1,1,0,0
+HO,New fees for firearms licences,2,2,3,1
+HO,Re-employment of senior fire officers,2,2,2,2
+HO,Transparency of police Taser usage,2,2,2,2
+HO,Reporting and acting on child abuse,1,2,2,1
+HO,New offences for knife possession and distribution,1,1,2,1
+HO,Unexplained wealth orders,1,1,1,0
+HO,"Shutting down mobile phone ""deal-lines""",1,1,0,0
+HO,Labour Market Enforcement code of practice,1,0,1,0
+MoJ,Criminal defence advocates pay reform,2,3,3,1
+MoJ,Changing the legal aid financial eligibility system,2,2,3,2
+MoJ,Reforming the soft tissue injury claims process,2,3,2,0
+MoJ,Establishing a Fee-Paid Judicial Pension Scheme,1,2,2,1
+MoJ,Prison governor empowerment and accountability,2,0,1,2
+MoJ,Increasing prison officer numbers,1,1,1,2
+MoJ,Assisted digital facilities in the justice system,1,1,1,1
+MoJ,New procurement model for the Housing Possession Court Duty Scheme,1,1,1,1

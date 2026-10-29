@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Flexible routes to compliance balance cost and safety",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Extended transition period reduces business disruption",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enhanced traceability and labelling modelled on other product regimes",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Unresolved design details to be settled through further consultation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope clarification for product categories",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Support and guidance for business compliance",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Enforcement and prosecution provisions",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Legislative structure and implementation",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

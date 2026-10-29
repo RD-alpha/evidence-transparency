@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Overfishing Problem and Stock Status",
+      "reason": "Directly states the problem (overfishing of lobster and crawfish) and cites stock assessments/landing trends as evidence of its scale, directly answering what is known about the issue and its causes/effects.",
+      "weight": "core"
+    },
+    {
+      "theme": "Economic Value and Employment",
+      "reason": "Provides background on the scale and economic importance of the fishery, explaining why overfishing matters, but does not itself diagnose the overfishing problem or its causes.",
+      "weight": "not core"
+    },
+    {
+      "theme": "EU Obligations and Maximum Sustainable Yield",
+      "reason": "Explains the legal/technical framework (MSY, CFP, MSFD) used to assess whether stocks are overfished, underpinning the diagnosis that current exploitation is unsustainable.",
+      "weight": "core"
+    },
+    {
+      "theme": "Conservation Policy and Biodiversity",
+      "reason": "Mostly administrative/legal background on UK BAP and Biodiversity 2020 strategy status; touches on residual stock recruitment but is largely procedural context rather than core diagnostic evidence.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Berried Lobster and Crawfish Management",
+      "reason": "Describes the specific biological and regulatory context of berried lobsters/crawfish, directly explaining the mechanism by which current practice contributes to overfishing and why protecting them matters.",
+      "weight": "core"
+    },
+    {
+      "theme": "Market Failure and Common Resource Problem",
+      "reason": "Provides the economic/theoretical explanation (common resource problem, market failure) for why overfishing occurs and why berried lobster removal is especially harmful, forming the causal backbone of the diagnosis.",
+      "weight": "core"
+    }
+  ]
+}

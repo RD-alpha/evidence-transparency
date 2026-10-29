@@ -1,0 +1,45 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "High buy-out use in Target Period 1",
+        "claim": "In TP1 just under half of target units (49%) used buy-out and 14% of those missing targets left the scheme, which suggests the £12/tCO2e price gave a weak incentive to meet targets."
+      },
+      {
+        "name": "Original buy-out price rationale",
+        "claim": "The £12/tCO2e price set in 2012 was meant to balance a strong incentive to abate against financial and competitiveness impacts on participants, with targets challenging but achievable and buy-out as an alternative route to compliance."
+      },
+      {
+        "name": "Limits of the TP1 evidence",
+        "claim": "TP1 data cover only the first of four target periods and buy-out use is expected to be higher in TP1 because of time-lags in abatement measures, so later periods may differ."
+      }
+    ],
+    "note": "The overall diagnosis of a weak incentive is largely inferred from TP1 buy-out use rather than stated outright."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Raise buy-out price in line with RPI to £14",
+        "claim": "The preferred option is to raise the buy-out price to £14/tCO2e for TP3 and TP4, which keeps it constant in real terms, matches the CRC allowance price approach, and reflects the higher CCL discount and high TP1 buy-out use."
+      },
+      {
+        "name": "Rejection of alternative price options",
+        "claim": "A rise to £17 was rejected over competitiveness impacts and a CRC link that ends in 2019, while keeping £12 was rejected because the CCL discount has grown and TP1 buy-out use was high."
+      },
+      {
+        "name": "Balance of incentive and competitiveness",
+        "claim": "A higher price gives a sharper incentive to meet targets but must be weighed against competitiveness impacts, and respondents' views (16 of 20 opposed a change, citing certainty and investment) are acknowledged while evidence is still sought."
+      }
+    ],
+    "note": "The proposal is a consultation on three price options with a stated preference; no cost-benefit estimates are given."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Decision process and timing",
+        "claim": "The Government will consider consultation responses and announce in the autumn whether the buy-out price will be revised for TP3 and TP4."
+      }
+    ],
+    "note": "Implementation is only a brief next-steps statement about how the decision will be made, with no delivery method, evidence or costs."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Local authority enforcement built on existing Trading Standards role",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that Trading Standards should enforce the ban rests only on the assertion that it 'builds on the existing work of Trading Standards... enforcing the requirement for letting and managing agents to belong to a redress scheme' with no data on how effective that existing enforcement has been."
+    },
+    {
+      "theme": "Need for additional enforcement support mechanisms",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The detailed description of NTSEAT as the lead authority in the Estate Agent sector ('The lead authority approach is used in the Estate Agent sector... is designated by the Secretary of State as the UK's lead enforcement authority') is used as a comparable-policy rationale for considering a letting-sector lead authority, but carries no reference or link."
+    },
+    {
+      "theme": "Tenant empowerment and education as an enforcement tool",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim leans on the analogous deposit protection regime ('Tenant empowerment and education has helped to improve compliance in other areas of the sector, for example, deposit protection') explained in some detail, but this is unsourced and uncited."
+    },
+    {
+      "theme": "Penalty regime for non-compliance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Existing civil penalty levels ('a maximum fine of \u00a35,000') and the Housing and Planning Act 2016's '\u00a330,000' banning-order penalty are used as explicit benchmarks for setting a new fine, but with no citation or link."
+    },
+    {
+      "theme": "Defining permitted charges and exceptions to the ban",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The rationale for holding deposits and tenant-caused service charges is pure policy reasoning (e.g. 'to ensure that there is a commitment from a tenant...') with no data, research or named evidence supporting the specific design choices."
+    },
+    {
+      "theme": "Legislative framework and implementation coherence",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "These lines simply assert that primary legislation will be introduced and will be coherent with the ban, with no supporting evidence of any kind."
+    },
+    {
+      "theme": "International and devolved jurisdictions: comparative regulation models",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Extensive factual description of Scottish, Welsh and Northern Irish regulatory regimes (registration, licensing, codes of practice) offers comparable-policy evidence, but it is presented descriptively with no explicit link back to specific design choices and no citation."
+    }
+  ],
+  "reasoning": "Across the five core themes the document mostly asserts its chosen delivery mechanisms rather than evidencing them. 'Local authority enforcement' (score 0) and 'Defining permitted charges and exceptions' (score 0) rely on bare reasoning -- e.g. holding deposits are justified only by the claim they 'mitigate the risk of tenants speculating' with no data. 'Additional enforcement support mechanisms' (1), 'Tenant empowerment' (1) and 'Penalty regime' (1) each invoke a comparable existing scheme -- NTSEAT in the estate agency sector, the deposit protection regime, and the \u00a35,000/\u00a330,000 civil penalty precedents under the Consumer Rights Act and Housing and Planning Act 2016 -- with some explanation of how these inform the new policy, but none carries a reference or link, so none reaches level 2. The mean of 0, 1, 1, 1, 0 is 0.6, which rounds to 1. The strongest counter-example to a higher score is the NTSEAT comparison, which is described in real operational detail (powers, partners, redress scheme approval) and comes closest to a genuine evidenced rationale, yet even this lacks citation. To reach level 2 the document would need to cite sources for these comparator figures and mechanisms (e.g. a reference for the \u00a35,000/\u00a330,000 penalty data, or a link for the NTSEAT description) and show more explicitly how each piece of evidence determined the specific design choice, rather than being offered as background description.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.6,
+  "score_consistent": true,
+  "missing_core": []
+}

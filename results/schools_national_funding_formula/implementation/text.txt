@@ -1,0 +1,628 @@
+S0037 So we will support all schools to become more efficient and manage their budgets well, helping them to achieve the highest standards for their pupils.
+S0042 The arrangements we put in place to help schools manage the transition to their new budgets under the national funding formula are just as important as the relative weighting of factors within that formula.
+S0043 The protection arrangements in turn affect the pace at which schools due to be funded at a higher level will be able to reach their new settlement.
+S0137 The minimum funding guarantee of minus 1.5% per-pupil in any year will continue, providing additional stability for schools • schools will receive gains of up to 3% per-pupil in 2018-19, and then up to a further 2.5% in 2019-20.
+S0138 The real terms protection on the national core schools budget means we can invest resources – over and above flat cash per-pupil – in 2018-19 and 2019-20 to increase the rate at which we can allocate gains.
+S0139 We are able to allocate around £200 million in each year above flat cash per-pupil, allowing us to combine significant protections for those facing reductions and more rapid increases for those set to gain.
+S0161 2.6 Local authorities will continue to be responsible for determining the local funding ratio in 2018-19.We would encourage local authoirites to move their formulae towards the national funding formula in preparation for the move to a hard national funding formula from 2019-20.
+S0196 In 2018-19, when local authorities are determining funding through local formulae, they will be able to continue using the reception uplift if they choose.
+S0197 2.17 When calculating the baselines against which we protect schools’ budgets when we move to the national funding formula allocations, we have removed reception uplift pupils from schools’ pupil counts (where the reception uplift has been applied), but left any funding resulting from it in the schools’ funding baselines.
+S0198 This means that, where necessary, schools will be protected by the minimum funding guarantee as the reception uplift is phased out.
+S0200 As discussed later in this chapter, we will be allocating funding for mobility on an historic basis in 2018-19, pending development of a more sophisticated indictor; so we have excluded it from the following discussion.
+S0250 In response, we reset the IDACI bands ahead of local authorities setting their budgets for 2017-18 so that they capture a similar proportion of pupils as they did before the 2015 update. ** (Reference: 21)
+S0253 We are conscious of the danger of turbulence in our national funding formula when IDACI data is next updated, expected in 2020.
+S0254 We will consider ways to smooth the introduction of new IDACI data, if necessary, in due course.
+S0268 In October 2016, the Secretary of State confirmed that the Early Years Foundation Stage Profile (EYFSP) will remain in place at least until the 2017/18 academic year, which means that EYFSP will continue to form the basis of the primary low prior attainment factor for 2018-19 and 2019-20.
+S0269 The government will be consulting on primary assessment early in 2017 and we will keep the primary low prior attainment factor under review as proposals develop.
+S0274 This recent change to the key stage 2 assessment has required us make a technical adjustment to the secondary low prior attainment factor, so that the new year 7 cohort does not have a disproportionate influence on the distribution of low prior attainment funding.
+S0275 This technical change is described in further detail in the operational guide for 2017-18.
+S0276 **(Link: 8) In 2018-19 we would expect to apply the technical change again for the new cohort.
+S0282 We would want to work closely with the sector in developing any tiered secondary low prior attainment factor, and would introduce any change from 2019-20 at the earliest after further consultation.
+S0289 2.44 In October 2016, the school census included a new question, asking for the level of English language proficiency of each pupil recorded as EAL.
+S0292 The question will be included annually in the spring census from 2017.
+S0294 We will keep this data under review to assess its appropriateness for inclusion in the funding system in the future, although we would not plan to do so until 2019-20 at the earliest, and following further consultation.
+S0304 We are looking at ways in which this could be addressed for the longer-term, but in the interim, we will allocate funding to local authorities on an historic basis, reflecting the amount of money they put through the mobility factor in the previous year.
+S0305 2.49 We want to work with stakeholders to explore options for an improved mobility factor from 2019-20.
+S0309 2.50 We would like to hear views about the costs associated with mobile pupils, both in terms of administration and the additional needs that these pupils might present.
+S0310 This will help determine our approach to the mobility factor in future, so that it is more effective in matching funding to need.
+S0329 2.56 Changes to the lump sum will continue to be protected by the minimum funding guarantee (MFG) as they are now.
+S0330 The MFG takes into account any difference in lump sum funding between years, so schools in areas with a high lump sum will be protected.
+S0331 In addition, schools that might otherwise lose significantly as a result of the lump sum will – as with other factors – benefit from protection through the overall 3% funding floor in the formula.
+S0332 The current arrangements for lump sum payments to amalgamating schools will remain in place in 2018-19.
+S0342 2.59 In 2018-19 we will use the current sparsity criteria to calculate funding in the national funding formula, but local authorities will continue to be able to adjust the criteria locally as they do now.
+S0343 The detailed calculations that sit behind the sparsity factor are explained in the schools block technical note.
+S0359 As they can now, in 2018-19, local authorities will be able to apply to include an exceptional factor for very small sparse secondary schools.
+S0364 2.63 We will allocate funding for the premises factors to local authorities on the basis of historic spend for the first year of the formula in 2018-19.
+S0365 We think this is appropriate in the short term as the distribution of these costs is unlikely to change significantly year-on-year.
+S0366 We will consider and consult further on how these factors should be funded when we move to a hard formula from 2019-20.
+S0368 We will up-rate allocations annually using RPI[X]. ** (Reference: 25)
+S0370 Our intention is to use 2017-18 data for 2018-19 allocations.
+S0371 We would not expect to see significant changes to historical patterns of spend.
+S0372 Where significant changes do occur, we will liaise with local authorities to understand them to ensure they are appropriate to use as baselines for the national funding formula, or whether the 2016-17 position provides a better starting point.
+S0374 Before we calculate schools’ formula funding, we set this money aside, including a further £2 million to uprate PFI in line with RPI[X].
+S0375 It is then allocated to local authorities for them to distribute to their schools.
+S0376 For the purpose of illustrating the national funding formula impact on individual schools, we assume that each school receives the same funding for premises costs as they did in 2016-17 (with PFI allocations uprated by RPIX).
+S0377 In practice, local authorities will continue to determine the funding that schools receive for premises factors locally in 2018-19.
+S0384 2.68 In 2018-19 we will allocate funding for growth to local authorities on the basis of historic spend in line with our approach to the premises and mobility factors.
+S0385 The way we calculate historic spend for growth, however, is slightly different to other premises factors.
+S0386 In addition to the explicit funds for growth and falling rolls that local authorities can top-slice from their dedicated schools grant (DSG), authorities often recognise growth by making adjustments to their schools’ data to reflect the number of pupils they expect to arrive at individual schools.
+S0387 We have added this ‘implicit’ growth to each authority’s explicit spend to determine their total growth funding in 2018-19.
+S0388 As with other premises factors, we set this funding aside before calculating schools’ budgets under the national funding formula, so that we can allocate it back to local authorities for them to distribute locally.
+S0389 2.69 As we recognised in the first stage of the consultation, we know that historic spend on growth will not necessarily predict the amount of funding that will be needed for future growth accurately.
+S0390 We have explored whether school capacity survey (SCAP) forecasts or Office for National Statistics (ONS) population forecasts could provide a better basis for the growth factor (discussed further below).
+S0391 Our conclusion is that historic spend is still the best approach for 2018-19: it is a significant improvement on the current arrangements where growing local authorities receive no additional support; and we have found that the correlation between historic and future growth spend is reasonably strong.
+S0392 We know that a different approach is needed in the longer term, however, and the next section explores the different options.
+S0393 2.70 SCAP data is based on local authority forecasts of growth and is currently used to allocate basic need capital funding.
+S0394 The methodology and data sources used vary by local authority.
+S0395 2.71 SCAP forecasts will, of course, not always accurately reflect the level of growth that a local authority experiences.
+S0396 In some instances, local authorities have forecast significantly less growth than would be implied by their historic spend.
+S0397 For capital funding, forecasts are made three years ahead and can be adjusted to rectify over- and under-forecasts.
+S0398 Local authorities are expected to use capital funding over a longer time period and, in the event that more places are funded than are needed in the short term, they are expected to use the funding to support need in subsequent years.
+S0399 2.72 We do not believe that using SCAP data to underpin revenue funding for growth is appropriate.
+S0400 It would mean that the amount of funding a local authority received
+S0402 would depend directly on their forecasts, risking incentives to increase these.
+S0403 We also know that the forecasting approach varies, for example with respect to the size of planning areas.
+S0404 To deal with this would necessitate a complex system of claw- back that we do not think is desirable for schools.
+S0405 2.73 Some respondents suggested population projections from the Office for National Statistics (ONS) could be used to allocate growth.
+S0406 These projections are only available at an overall local authority level, however, and would not necessarily show specific areas of growth within a local authority area – particularly if these are offset by falling rolls elsewhere.
+S0407 Given the size of the largest local authorities, in particular, the ONS population projections are very likely to mask such local variation.
+S0408 2.74 Further, ONS data is rounded to the nearest 100, which we do not think is sufficiently accurate given that a smaller number of additional pupils arriving at an individual school could still constitute grounds to provide growth funding.
+S0409 The ONS data is updated on a schedule set by the ONS, so there would also be a risk that the data we use in the national funding formula became out of date.
+S0410 We have therefore ruled out the use of ONS forecasts.
+S0411 2.75 We have also looked into the possibility of allocating growth funding based on historic levels of pupil growth (rather than on historic levels of spending on growth, as we proposed in the first stage of the consultation).
+S0412 The lagged growth method would count all pupil number increases in every school at a year-group level between the 2 previous years and use this to calculate the total amount of pupil growth in each local authority area. ** (Reference: 26)
+S0413 The total amount of funding available nationally for growth would be allocated to local authorities on a per-pupil basis, based on the distribution of the lagged pupil growth across the country.
+S0415 This approach would mean local authorities receive broadly the right amount of funding for the growth they experience, but with a one-year lag – i.e. a local authority would receive funding to reflect pupil growth for the year after that growth occurred.
+S0416 They would therefore need to manage the growth funding they receive from year-to- year, recognising that higher levels of growth in one year could create a pressure for which they would be recompensed the next year.
+S0417 We believe that this could provide a better and more effective long-term solution, but recognise that this is a particularly complex area and we are keen to gather further information and suggestions for alternatives through this consultation.
+S0429 The arrangements that we put in place to protect schools from unmanageable reductions in the long-term, as well as to ensure a stable transition towards the formula, are also important.
+S0430 2.81 In developing proposals for moving towards the formula, we are considering both the situation of schools due to gain funding and of schools due to be funded at a lower level.
+S0431 We are determined that under-funded schools should move towards their formula allocations as quickly as possible, but equally that there is sufficient stability for schools undergoing reductions in funding so they are able to cope with the pace and scale of those reductions.
+S0432 2.82 In the first stage consultation, we confirmed that the minimum funding guarantee will remain in place under the national funding formula.
+S0433 The minimum funding guarantee is a mechanism which ensures that year-on-year change in funding happens at a manageable pace.
+S0434 Since 2011-12, it has ensured that no school’s per- pupil funding can reduce by more than 1.5% in any given year.
+S0435 We are now confirming that, under the national funding formula, the minimum funding guarantee will continue to operate at minus 1.5% per pupil, in the same way it does currently.
+S0437 The minimum funding guarantee will play an important role in managing the transition towards new funding levels.
+S0438 But we do not believe that on its own it would provide sufficient stability for schools.
+S0439 As the current distribution of funding to schools is so out-of-date, some schools could – without further protection – be facing funding reductions of over 10% per pupil.
+S0440 We are clear that there is significant scope for such schools to make efficiency savings, and we are committed to helping them to do so.
+S0441 However, reductions at these levels– combined with cost pressures on per- pupil funding – would require very substantial changes to schools’ operating models, to a degree that could be unmanageable for school leaders and disruptive to pupils.
+S0442 2.84 We therefore believe that a ‘floor’ should be included in the formula to limit the reduction to per-pupil funding that any school can incur as a result of this formula.
+S0443 We are proposing to set the floor at minus 3% per pupil, compared to the funding level currently received.
+S0444 This means that the greatest overall reduction any school will face as a result of this formula will be minus 3% per pupil, compared to their existing level of funding.
+S0445 The floor will operate under a similar methodology to the minimum funding guarantee. Our exemplifications use 2016-17 funding levels, but our intention is to update this data to set the floor against 2017-18 school baselines. 2.85 ** (Reference: 27, 28)
+S0446 We recognise that the inclusion of a floor in the formula means some schools will continue to receive more funding than they would have done otherwise.
+S0447 In deciding to introduce a funding floor, we have considered carefully the right balance between the principles of fairness and stability for schools.
+S0448 Our view is that a minus 3% per pupil funding floor strikes such a balance.
+S0449 It will provide appropriate stability for schools undergoing funding reductions, who will lose no more than 3% of their per pupil funding overall as a result of this formula, while allowing other schools to gain as much as 5.5% in the first two years of the formula, meaning that – on the basis of the illustrative national funding formula allocations we have published using 2016-17 data – 54% of schools would reach their formula allocation by 2019-20.
+S0450 Actual allocations will of course be updated in line with the latest pupil numbers and characteristics data.
+S0451 We believe that the inclusion of a floor in the national funding formula will ensure much greater fairness, while providing the stability that schools need.
+S0452 2.86 It is important to be clear that schools’ funding will still fluctuate in response to changes in pupil numbers, as is the case in the current funding system.
+S0453 The minimum funding guarantee and the funding floor are applied to the school’s per- pupil funding level, not its overall funding allocation.
+S0454 This means that if pupil numbers in a school fall, so too will the school’s overall funding allocation.
+S0455 But the floor will limit reductions that are a direct result of the introduction of the national funding formula and that are the result of changing pupil characteristics.
+S0456 And, through the transition, the minimum funding guarantee will still limit the extent of any year-on-year reduction to minus 1.5% per pupil.
+S0457 2.87 In the first stage consultation, we discussed the approach we intend to take to distributing gains to schools due to be funded at a higher level under the formula.
+S0458 In order to remain within the total budget available, and to ensure stability for schools facing reductions, there will be a maximum level of gain for individual schools each year.
+S0459 2.88 In the current system, local authorities can choose how to manage gains.
+S0460 They can ‘cap’ gains, which means they pay out all gains up to the level that they can afford.
+S0461 If the cap is, for example, 2%, every school due to gain up to 2% receives their gains in full; but schools due to gain more than 2% have their year-on-year gain capped at 2%.
+S0462 They can also choose to ‘scale’ gains, so that schools receive a certain proportion of the gains they are due (e.g. a 50% scaling factor means schools receive 50% of their gains).
+S0463 Some choose to cap and scale gains, so that all schools receive a certain percentage, and any school due to gain more than that gets the same proportion of its remaining gains.
+S0464 2.89 Our view (as set out in the stage one consultation) remains that a straight gains cap is the simplest and fairest approach.
+S0465 We have therefore built a gains cap into the national funding formula, set at 3% in 2018-19; and 2.5% in 2019-20.
+S0466 The level at which any gains caps are set beyond 2019-20 will be subject to decisions taken at the next spending review.
+S0467 2.90 In the illustrations we have published, national funding formula year 1 illustrative allocations for schools due to gain funding include gains up of to 3%.
+S0468 If schools are due to gain above 3%, we would then expect them to receive up to a further 2.5% in the second year if their formula gains exceed 3%.
+S0469 These are illustrative allocations, based on 2016-17 data, so actual allocations will depend on the latest pupil numbers and characteristics data.
+S0470 Local authorities will be responsible for determining funding locally in 2018-19, so schools’ allocations in that year will also depend on decisions taken locally about the funding formula.
+S0471 2.91 The level at which we have set the gains cap is determined by two factors: firstly, by where the minimum funding guarantee is set; and secondly, by the overall size of the available budget.
+S0472 The overall protection of the core schools budget in real terms over the spending review period allows us to spend more on getting funding increases to the schools that deserve them, whilst still ensuring a stable transition for those facing funding reductions as a result of the formula.
+S0473 We are able to spend around an additional £200 million above flat cash per pupil in 2018-19 and 2019-20, allowing us to combine significant protections for those facing reductions and more rapid increases for those set to gain.
+S0479 2.93 We then work out the school’s per-pupil funding level in the first year of the national funding formula (again, assuming no change to pupil numbers or characteristics) and its school-led funding.
+S0480 To do so we take into account the level of both the gains cap and the minimum funding guarantee.
+S0481 A school due to gain will receive up to 3% per pupil in the first year; while a school due a funding reduction will be protected by the minimum funding guarantee, so will lose a maximum of 1.5% per pupil.
+S0485 Schools can also look at a step-by-step explanation of the calculation for their school through COLLECT, and local authorities can view the data for all the schools in their area.
+S0526 We propose to take a tailored approach for new schools that are still filling up, to make sure they are funded fairly.
+S0527 These are maintained schools, free schools, or academies that the local authority has told us have opened within the last 7 years, and do not have pupils in all year groups yet.
+S0528 They receive high per-pupil funding in their first years because the lump sum inflates their per-pupil funding.
+S0529 As the school expands, their overall budget grows as well, but their per-pupil funding falls because the lump sum becomes a smaller part of their budget.
+S0530 2.96 If we were to calculate illustrative end point national funding formula allocations for schools that are still filling up on the basis on which we have calculated them for all schools (i.e. using data about pupil numbers and funding baselines from 2016- 17), we would not be funding these schools fairly.
+S0531 Instead we propose to take into account the fact that they have not yet filled all year groups.
+S0532 We propose to work out the baseline funding and eventual national funding formula allocations the school would receive if they had pupils in all year groups, and then apply the 3% funding floor.
+S0533 We need to confirm the data to support this calculation as part of the early phase of the consultation period.
+S0534 Data for these schools has therefore not been included in the national funding formula illustrative allocations – we will provide relevant schools with illustrations of their funding levels under the proposed national funding formula in January 2017, and publish these at the same time.
+S0535 2.97 For new free schools that are not yet open but which are in the pipeline (and therefore set to open from September 2017 and beyond), we propose to apply the same principle of working out the baseline funding and national funding formula allocations the school would receive if they had pupils in all year groups, and then apply the 3% funding floor.
+S0536 The difference is that these schools do not yet have a baseline, so we would use the indicative rates set out in the free school financial template.
+S0628 3.14 Our intention is that schools will start to move towards these new funding levels in 2018-19.
+S0629 In 2018-19, however, local authorities will decide funding allocations locally (and of course pupil and school data may change), so allocations will not necessarily mirror our illustrations.
+S0630 If local authorities were to adopt or move towards the national funding formula proposed here, as we would encourage them to do, we would expect 4,215 of those schools due to be funded at a higher level to reach their new per-pupil funding level in 2018-19; and 2,884 in 2019-20.
+S0631 We would expect the remaining 3,641 schools to reach their new funding level during the next Parliament, but that will be subject to decisions made at future spending reviews.
+S0632 3.15 Of those schools due to be funded at a lower level, we would expect 1,963 schools to reach their new per-pupil funding level in 2018-19; and an additional 1,653 to get there in 2019-20.
+S0633 The remaining schools due to funded at a lower level will benefit from the 3% funding floor.
+S0665 We will review how revenue funding to support PFI should work from 2019- 20.
+S0736 In 2018-19, local authorities will be responsible for setting formulae locally, but we would encourage them to move their formula towards the national funding formula (once final policy is confirmed, following this consultation).
+S0737 As set out in our response to the first stage consultation, in 2019-20 it is our intention that the vast majority of schools’ funding will be determined by the national funding formula, with certain elements of funding continuing to be agreed locally.
+S0762 In this conext, we are clear that changes must be introduced with consultation; a clear forward plan; and support for schools to make the best use of resources and improve efficiency.
+S0767 4.3 In July 2016, the Department confirmed the funding arrangements that would be in place for 2017-18, including publishing local authorities’ indicative funding levels for 2017-18 and operational guidance.
+S0768 This operational guidance was updated on 1 December to give further details about the arrangements that have been put in place following the removal of the Education Services Grant (ESG) from September 2017. As usual, in December we are publishing local authorities’ final allocations for the Dedicated Schools Grant (DSG) in 2017-18. ** (Reference: 39)
+S0769 Local areas are currently working through the process of developing, consulting on and finalising local formulae for 2017-18.
+S0770 That process will continue separately to this consultation process.
+S0771 4.4 4. The first stage of the consultation set out our intention to launch an ‘invest to save’ fund to allow schools to invest in ways to save money in future, helping them manage the transition to a national formula. ** (Reference: 5)
+S0772 Our proposed floor will now mean that no school will lose more than 3% of its funding per pupil, ensuring this transition is manageable for schools.
+S0773 We have prioritised providing this protection, alongside allocating gains to schools that are due increases, above creating a specific ‘invest to save’ fund.
+S0774 In addition, we have announced £140m per year for a new Strategic School Improvement Fund to support school improvement (including in relation to financial health and the use of resources) alongside building school-led capacity in parts of the country where it is needed.
+S0775 4.5 In the Government’s response to the first stage consultation, we have confirmed that we will move to a ‘soft’ national funding formula in 2018-19.
+S0776 This means that although we will use the national funding formula (once it has been finalised following this consultation) to calculate local authorities’ funding allocations, local authorities will still determine individual schools’ funding allocations through their local formula.
+S0777 4.6 The funding allocation timetable in 2018-19 will be similar to 2017-18.
+S0778 The Government’s response to this consultation (which we expect to publish in summer 2017) will confirm final policy decisions and therefore the national funding formulae that will be used to determine local authorities’ allocations for each block of the DSG in 2018-19.
+S0779 4.7 In summer 2017 we will publish local authorities’ indicative schools block funding levels for 2018-19 (indicative because they will be updated with the latest pupil numbers after the October 2017 school census).
+S0780 The 2018-19 schools blocks will be set by calculating notional budgets for each school in the local authority according to the national formula and then aggregating them.
+S0781 We propose to include gains of up to 3% per pupil for any school due to gain under the formula and reductions will be limited to minus 1.5% per pupil in line with the minimum funding guarantee.
+S0782 4.8 Our intention is to use 2017-18 baselines for 2018-19 allocations.
+S0783 We will carry out a further baseline exercise with local authorities in order to gather information about the split of the 2017-18 DSG between schools, high needs and the central school services block.
+S0784 Given the re-baselining we carried out earlier this year, we would not expect to see significant movements between blocks, or significant movements between schools.
+S0785 Where there have been significant changes, we will liaise with local authorities to understand them to ensure they are appropriate to use as baselines for the national funding formula, or whether the 2016-17 position provides a better starting point.
+S0786 4.9 It will be for local authorities to agree their individual formulae for 2018-19, according to the usual rules including the MFG of minus 1.5% per pupil.
+S0787 We do not intend to make any substantive changes to the arrangements for local formula construction.
+S0788 The balance of gains and reductions to individual schools in 2018-19 will therefore be determined locally, and will not necessarily reflect the patterns set out in our published ‘year one’ exemplifications (where we have shown what every school would receive if they were funded according to the national funding formula).
+S0789 4.10 We would, however, encourage local authorities to move their local formulae towards the national funding formula so that their schools’ allocations in 2018-19 are on a sensible trajectory for the longer term.
+S0790 The calculation process is explained fully in the technical note, and schools and local authorities can see a full breakdown of their formula calculations through COLLECT.
+S0791 4.11 Local authorities will be responsible for consulting locally on their proposed schools funding formula and complying with the Education Funding Agency (EFA) Authority Proforma Tool process.
+S0792 Requirements for local formulae will be detailed in the School Finance and Early Years Regulations for 2018-19.
+S0793 EFA will publish Operational Guidance detailing the Authority Pro forma Tool process for 2018-19 next year.
+S0794 4.12 In December 2017, we will confirm local authorities’ final DSG allocations for 2018-19, by applying the national funding formula per-pupil funding levels to the latest pupil numbers from the October 2017 census.
+S0795 Local authorities will then confirm final 2018-19 allocations to maintained schools in line with the usual timetable, and EFA will determine academy allocations for 2018/19 based on the relevant local formula.
+S0797 Currently, the Department publishes the schools block unit of funding for each local authority for each financial year in the preceding summer, allowing local authorities to plan their budgets for the coming year.
+S0798 Final allocations are confirmed in December, taking account of the October pupil census count.
+S0799 The timetable and process for 2018-19 will be similar, with local authorities receiving in the summer of 2017: (i) a guaranteed per-pupil amount, and (ii) a fixed cash amount for the factors being allocated on a historic basis.
+S0800 Final allocations following the October census count will be published in December.
+S0802 • following this consultation, we will finalise our national funding formula • we will calculate indicative 2018-19 schools block allocations for each local authority in the summer of 2017.
+S0803 These indicative allocations will be set by calculating notional budgets for each school in the local authority according to the national formula (including the minimum funding guarantee (MFG) calculation and gains cap) and then aggregating them.
+S0804 • the funding floor and MFG calculation for academies will be based on their baseline on the authority proforma tool, since this calculation will be used to fix the local authority’s schools block, not individual academy budgets • using these indicative allocations, we will announce and fix 2 amounts:
+S0805 o a national funding formula amount.
+S0806 This per-pupil amount will cover all pupil-led funding plus school-led funding (the lump sum and sparsity amounts).
+S0807 It will be calculated by taking the total pupil-led funding for all the schools in the local authority plus the total school- led funding for all the schools in the local authority from the notional budgets, and dividing them by the total pupil numbers for all the schools.
+S0808 o A fixed cash amount for any funding that is to be distributed on an historic basis for 2018-19: premises, mobility and growth.
+S0809 This funding will be confirmed in summer 2017 and not updated for later pupil numbers.
+S0810 • the national funding formula per-pupil amount will not be comparable with the current schools block units of funding, as funding for premises, mobility and growth would instead be included in the fixed cash amount.
+S0811 • local authorities will use these fixed amounts to plan their budgets and set individual school allocations for 2018-19.
+S0812 The EFA will collect the APT in the same way as now and use this information to set academy budgets for 2018/19 according to the usual timetable.
+S0813 4.13 In the first stage consultation, we set out our proposal to ring-fence the schools block from the first year of the national funding formula to help pave the way towards a hard national funding formula, when the vast majority of a school’s budget will be determined by the national formula.
+S0814 During the consultation we heard from some respondents that there needs to be more flexibility to support children and young people with special educational needs (SEN) and disabilities – whose provision is primarily funded through the high needs block – than would be possible with a fully ring-fenced schools block.
+S0815 We believe that many of these barriers can be overcome and that a national funding formula requires, in principle, that the great majority of funding designated for schools should be allocated to schools.
+S0816 However, we do recognise the points raised through the consultation process on this issue.
+S0817 4.14 While we are confirming that the schools block will be ring-fenced in 2018-19, we are proposing additional arrangements that will address the risks highlighted by respondents.
+S0818 We propose some flexibility to transfer funds from the schools block to the high needs block if necessary in 2018-19, following local consultation and with the explicit agreement between the local authority, their schools forum and a majority of primary and/or secondary schools and academies (with transfers confined to the primary and secondary elements of the schools block as agreed by phase).
+S0821 4.15 From 2019-20, the national funding formula will be used to calculate the vast majority of each individual school’s budget.
+S0823 We will be bringing forward legislation to implement this change to the funding system in due course.
+S0824 4.16 While the vast majority of funding will be determined by the national funding formula, we anticipate local authorities continuing to have flexibility on some parts of the formula, particularly in relation to funding for pupil growth.
+S0825 We will consult on the precise arrangements for the hard formula (in particular, the arrangements for allocating funding to factors such as premises which we will fund on the basis of historic spend in 2018-19) in due course.
+S0826 In parallel, we will be considering the role of schools forums under the hard national funding formula.
+S0827 4.17 We also want to ensure some opportunity for local flexibility, where that will help schools and local authorities to work together in making provision for children and young people with high needs.
+S0829 4.18 We believe that local authorities’ responsibilities for children and young people with SEN and disabilities are discharged most effectively when there is a strong partnership between the authority and its mainstream and special schools, with a shared understanding of where different types of need are best met.
+S0830 Sometimes such partnership arrangements work best at local authority level, or as clusters of schools working together in a devolved framework.
+S0831 As part of reviewing the future composition and role of schools forums, we will consider what alternative framework could be put in place to best support effective partnerships in the new funding system.
+S0832 4.19 It is also important that the funding system is responsive to the balance of mainstream and specialist provision within a local area.
+S0833 In the current funding system, local authorities can use funding from their high needs budgets to support mainstream schools that are particularly inclusive.
+S0834 They will still be able to do so under the national funding formula.
+S0835 We want to ensure that the funding system also responds fairly where some schools are less inclusive, once schools’ budgets are predominantly determined by the national formula.
+S0836 We propose to provide a mechanism whereby schools in an area could agree, with their local authority, to pool some funding that could then be directed towards those schools that need it most for their pupils with SEN and disabilities (e.g. more inclusive mainstream provision, schools with more specialist support and/or special schools).
+S0837 We think such decisions will best be taken by schools working together in partnership, in the context of the local authority’s overall strategy for making special provision.
+S0838 We intend to discuss how such a mechanism could work, from 2019-20, with stakeholders; in the meantime, the high needs stage consultation **(Link: 19) asks respondents for their initial thoughts.
+S0839 4.20 We will consult on detailed proposals for the implementation of the ‘hard’ national funding formula in due course.
+S0840 Amongst the issues for consideration will be the arrangements for updating the formula to reflect the latest data on pupil and school characteristics, and the longer term approach to the factors that will be funded initially on a historic spend basis.
+S0846 We already see great examples of schools delivering high quality education at lower cost than others, so we know from schools in the sector that this is achievable.
+S0849 They sit alongside very significant scope for efficiency in the system – on non-pay and procurement, where we have set an ambition of a least £1 billion of savings by 2019-20, and through better deployment and use of the workforce.
+S0851 We are also committed to providing practical support for all schools to become more efficient and manage their budgets well, helping them to achieve the highest standards for their pupils.
+S0852 4.24 Schools can already draw on much excellent practice in other schools.
+S0853 In a school-led system, this is the most important source of advice and guidance.
+S0854 We know from the best schools what good practice on financial health and efficiency looks like:
+S0855 • ensuring that financial planning is based on delivering educational outcomes, not a separate bolt-on consideration • undertaking strategic financial planning – setting a 3-5 year budget based on a clear vision for delivering school improvement • prioritising the most effective and efficient use of staff – as staffing costs usually comprise 70% to 80% of school expenditure • benchmarking and limiting spend on back office and procurement • ensuring that staff managing school finances, such as finance directors and school business managers, have the right skills • putting in place financial systems and processes across the school that are transparent and encourage constructive challenge from governing boards and head teachers 4. ** (Reference: 24)
+S0856 The decisions on how to use available resources must be for schools themselves – ensuring every pound is spent in the best possible way to support their pupils.
+S0857 Schools will want to work directly with other schools to achieve greater efficiencies, whether through multi-academy trusts; individual schools working together to negotiate deals and share services; or simply by sharing good practice.
+S0858 But the Department also has an important role – working with national head teacher, governor, school business manager, and other sector associations – to build capacity and provide the right tools, guidance and resources.
+S0859 4.26 We have published, and continue to develop, a comprehensive collection of tools and guidance. This encourage schools to improve their efficiency and financial health in 3 main ways: ** (Reference: 40)
+S0860 • to review their level of efficiency – with an efficiency metric that provides schools with an indication of their relative efficiency compared to similar schools • to investigate their levels of spend – for example with a Benchmarking Report Card that encourages schools to make more comparisons with similar schools and a list of top ten questions for governors to ask.
+S0861 The site also includes a structured approach to financial health checks for schools, with an open list of suppliers to help schools more easily identify potential sources of external advice •
+S0862 To take action to improve efficiency – with access to low-cost framework deals, for example on energy and on printers; contact details for similar schools and case studies to help leaders learn from the practical steps that have been taken elsewhere to deliver savings; and videos and guidance across a range of areas, including collaborative procurement and setting 3-5 year budgets. ** (Reference: 41)
+S0863 4.27 The first stage of the consultation set out our intention to launch an ‘invest to save’ fund to allow schools to invest in ways to save money in future, helping them manage the transition to a national formula.
+S0864 Our proposed floor will mean that no school will lose more than 3% of its funding per pupil overall as a result of this formula.
+S0865 Rather than creating a specific ‘invest to save’ fund, we have prioritised this floor, alongside allocating gains more quickly to schools that are due increases.
+S0866 In addition, we have announced £140m per year for a new Strategic School Improvement Fund to support school improvement (including in relation to financial health and the use of resources) alongside building school-led capacity in parts of the country where it is needed.
+S0867 4.28 We will continue to develop the package of support that is available.
+S0868 In particular, we will shortly be publishing a procurement strategy to help support a step change in school buying and underpin significant savings in non-pay costs across the system.
+S0869 This includes building on existing school business manager networks to ensure that all school business managers can share knowledge and good practice, making it easier for schools to access national-level deals which offer considerable savings, and testing an online tool to simplify the buying process for schools.
+S0870 We have developed the strategy in close consultation with a range of schools and suppliers.
+S0871 Upcoming products also include planning guidance to help school leaders to develop the most effective staff structures for their school and financial training for school leaders.
+S0874 5.2 In the first stage of consultation, we proposed creating a central schools block within the dedicated schools grant (DSG) to reflect the ongoing local authority role in education.
+S0875 We are renaming this the central school services block to distinguish it more clearly from the schools block.
+S0876 We proposed to create this from 2 different government funding streams: the schools block funding that is currently held centrally by local authorities and the retained duties element of the Education Services Grant (ESG), and to distribute it on a simple formulaic basis.
+S0878 5.3 This chapter confirms that we will proceed with the creation of the central school services block as planned, and sets out the proposed formula for its allocation from 2018-19 onwards.
+S0879 It also sets out our proposals for transition from current arrangements.
+S0880 Illustrative examples of central school services block funding allocations are included in the step-by-step table.
+S0882 5.4 The central school services block will include funding for responsibilities previously included within ESG and responsibilities previously funded through centrally retained DSG.
+S0883 We will make the necessary changes to the financial regulations and conditions of grant in order to make this possible.
+S0884 Further detail on the functions funded through the central school services block is included in annex 1.
+S0885 5.5 In addition to the responsibilities that will be funded through the central school services block, local authorities have other responsibilities in respect of education, for which they use funding from other sources.
+S0886 These responsibilities include the provision of home to school transport, assessing pupils with SEN, and planning for and supply of sufficient school places.
+S0887 The funding for these responsibilities is not within the scope of this consultation.
+S0888 5.6 In the first consultation, we stated that we expected local authorities to step back from running school improvement from the end of the 2016/17 academic year and would therefore not require funding for this role.
+S0889 While we are still committed to a school-led system, we recognise that it is not fully mature and we need to take pragmatic steps to support an effective transition.
+S0890 We have recently announced a number of measures to fund school improvement, none of which are in scope of this consultation. ** (Reference: 42)
+S0891 5.7 The central school services block will be created from two existing funding streams: the DSG funding that is held centrally by the local authority for central services, and the retained duties element of the ESG. Funding will cover two distinct elements which will be handled separately within the formula: ongoing responsibilities such as asset management and admissions and historic commitments. ** (Reference: 43, 44)
+S0892 5.8 The total amount of funding that will be distributed through this block for ongoing responsibilities will be calculated by adding the funding available for ESG retained duties and the centrally held DSG spent on ongoing responsibilities.
+S0893 Further detail on the calculation of the total funding available in the central school services block is set out in the technical note.
+S0895 5.9 We propose to distribute funding to local authorities using a simple formula which distributes an element of funding according to a per-pupil factor and an element according to a deprivation factor.
+S0896 Both elements will be adjusted for area costs.
+S0897 5.10 We are proposing that the largest factor should be simple per-pupil funding which means that each local authority will receive an amount for every pupil in the schools block.
+S0899 5.11 The indicative per-pupil rate will be £28.64.
+S0900 The rate has been calculated so that – once the ACA has been applied – 90% of the total funding for the central school services block will be allocated according to pupil numbers.
+S0901 5.12 We are proposing to include a deprivation factor to allocate funding for ongoing responsibilities.
+S0902 This is to recognise the importance of particular central services for schools, such as education welfare services, in areas with high levels of socio- economic deprivation.
+S0903 We are proposing to use Ever6 FSM as our deprivation measure to reflect the number of pupils who have some history of socio-economic deprivation. ** (Reference: 45)
+S0904 5.13 We know there is a cost to delivering education welfare services everywhere, so it would not be appropriate to suggest that the entire spend on education welfare services is spent on deprived pupils.
+S0905 We are therefore proposing to weight the deprivation factor at 10% of the total funding for ongoing responsibilities.
+S0906 This results in a national per-pupil top-up for deprived pupils of £11.62.
+S0907 5.14 In the first stage of consultation, we proposed using the same area cost adjustment that had been proposed for the schools formula, which is the ‘hybrid area cost adjustment’ methodology.
+S0908 The hybrid area cost adjustment consists of two elements: teachers’ pay costs and non-teaching staff costs.
+S0909 We have reflected further on this proposal and given that the central school services block is not affected by teachers’ pay, we do not believe it is reasonable to use an area cost adjustment which contains a teachers’ pay cost element.
+S0910 Therefore, we intend to use the general labour market (GLM) methodology.
+S0911 The GLM measure reflects differences in labour costs between different areas, but does not include the added element of teachers’ pay costs.
+S0912 5.15 Further detail on the calculation of funding in the central school services block for ongoing responsibilities is included in annex 1.
+S0913 5.16 Centrally retained DSG is also currently used to fund a number of historic commitments.
+S0914 These commitments are listed in full at annex 1, and include combined budgets contributing to wider children’s services, staff redundancy costs relating to decisions taken before 2013, and the back pay associated with equal pay legislation.
+S0915 5.17 In the first stage of consultation, we proposed to provide funding for historic commitments through the central school services block if they were entered into before April 2013, with the expectation that these costs will unwind over time.
+S0921 The EFA reviewed all returns and produced guidance which will enable local authorities and their schools forums to ensure that the appropriate evidence is in place for each historic commitment and that they meet the criteria set out in the first stage of the consultation. ** (Reference: 46)
+S0922 5.20 Now the historic commitments data received from local authorities has been assessed, we know the baseline total spend for historic commitments in the central schools services block formula.
+S0923 We expect local authorities to use the guidance to ensure that only eligible historic commitments are funded in 2017-18 and to reflect these when completing the Section 251 returns for 2017-18.
+S0924 Funding for historic commitments will then be allocated on this basis.
+S0925 5.21 We expect that historic commitments will unwind over time, for example because a contract has reached its end point.
+S0926 Where this is the case, we would expect local authorities to reflect this in Section 251 returns.
+S0928 5.22 In 2018-19, we would expect local authorities to recycle money that is no longer needed for historic commitments into schools, high needs or early years.
+S0929 We will set out our long-term intention for funding released from historic commitments at a later point.
+S0933 It is also important that we move towards this formulaic distribution at a pace that allows local authorities to plan for and accommodate any savings that might be required.
+S0934 5.25 The transition to the formula for ongoing responsibilities will be gradual.
+S0935 We are proposing to put in place a protection that minimises reductions to 2.5% per pupil in 2018-19 and 2019-20.
+S0936 This will ensure that the rate of transition is manageable for all local authorities and no local authority will lose more than 5% per pupil in this Parliament.
+S0937 5.26 In order to afford the protection, we are proposing to allow gains of up to 2.4% per pupil in 2018-19.
+S0938 The level of gains will be set annually and will depend on the precise composition of the central school services block in each year.
+S0941 5.27 Funding for historic commitments will be based on the actual cost of the commitment.
+S0942 Funding will reduce as commitments cease.
+S0943 There will therefore be no protection for historic commitments in the central school services block.
+S0944 5.28 Where local authorities face considerable gains, we would expect them to have a transparent and fair discussion with their schools forum to decide how any surplus funding should be used.
+S0945 Local authorities will have flexibility to move funding between the central school services block, high needs block and early years block.
+S0946 They will also be able to move funding into the schools block.
+S0950 • The formula for 2018-19 and beyond is subject to this consultation and will not be finalised until the consultation response in 2017 • As described in the transition section above, we will need to adjust the levels of gains to afford the protection that no local authority’s budget will reduce by more than 2.5% per pupil in 2018-19 and 2019-20 until the end of the spending period •
+S0951 The level of funding allocated for historic commitments will reduce over time, as historic commitments themselves unwind • Local authorities’ actual allocations in 2018-19 will be confirmed in the December before the start of the financial year, taking into account the latest pupil numbers and FSM eligibility from the October census and Section 251 data on historic commitments.
+S0965 As set out above, gains will be limited year on year in order to be affordable.
+S0967 As a result of our proposal for no local authority to face a reduction more than 2.5% per pupil in 2018- 19 and 2019-20, progress towards the formula will be gradual.
+S0970 We will update regulations and provide detailed operational guidance next year.
+S0973 The funding allocation timetable in 2018-19 will be similar to 2017-18.
+S0974 The Government’s response to this consultation in 2017 will confirm final policy decisions and therefore the funding formula that will be used to determine local authorities’ allocations for the central school services block in 2018-19.
+S0975 5.39 In summer 2017 we will publish local authorities’ indicative central school services block funding levels for 2018-19 (indicative because they will be updated with the latest pupil numbers from the October School Census and the latest historic commitments spend later in the year).
+S0976 5.40 We propose that 2018-19 funding levels will include gains of up to 2.4% per pupil for any local authority due to gain under the formula, and funding to protect any local authority due a reduction, in line with the 2.5% per pupil limit proposed in the previous section.
+S0977 5.41 Local authorities will be responsible for consulting their schools forums on how to allocate their central school services block funding and complying with the EFA’s Authority Pro forma Tool process.
+S0978 Restrictions on how to spend their allocations will be detailed in the School Finance and Early Years Regulations for 2018-19.
+S0979 The EFA will publish operational guidance detailing the Authority Pro forma Tool process for 2018-19 next year.
+S0980 5.42 Local authorities will have the flexibility to move money from the central school services block into other blocks.
+S0981 Further guidance on this will be set out in the 2018- 19 guidance which we will publish next year.
+S0982 5.43 In December 2017, we will confirm local authorities’ final central school services block allocations for 2018-19, by applying the central school services block formula to the latest pupil numbers from the October census.
+S0986 5.45 We will also consider how to treat funding released from the historic commitments element of the central school services block and will confirm our approach at a later date.
+S1041 It is vital that we provide sufficient stability for schools as we implement a fair formula.
+S1042 Our proposals will therefore include an absolute floor so that no school will face an overall reduction of more than 3% per pupil as a result of this formula.
+S1043 The minimum funding guarantee (MFG) of minus 1.5% per pupil year on year will continue, providing additional stability for schools.
+S1044 And the transition year of 2018-19 will allow local authorities to continue to set local formulae, in preparation for 2019-20, when the national funding formula will set the vast majority of each school’s individual funding.
+S1045 We know that stability for high needs is even more important, because of the need to provide consistency for individual placements for young people.
+S1046 On high needs, our proposals ensure that no local authority would see any reduction in funding as a result of the formula.
+S1081 So we will support all schools to become more efficient and manage their budgets well, helping them to achieve the highest standards for their pupils.
+S1086 b. Confirms the design of the funding system.
+S1089 In the interim, schools will still be funded according to a local formula.
+S1090 The schools block will be ring-fenced for spending on schools, but there will be some limited scope for movement before 2019-20, and some continuing local flexibility from 2019-20;
+S1093 f. Explains the approach to transition, including how quickly we propose to distribute gains and our plans to provide stability and financial security by limiting reductions.
+S1096 i. To provide up to 3% per pupil increases in 2018-19 for schools due to gain under the formula, and up to 2.5% increases in 2019-20;
+S1098 To include a floor in our schools formula that will limit the overall reduction to any individual school’s budget as a result of the introduction of this national funding formula to 3% per pupil; and iii.
+S1099 That the MFG for schools of minus 1.5% per pupil year on year will continue - limiting annual reductions to manageable levels.
+S1101 i. To provide up to 3% increases in 2018-19 and 2019-20 respectively for local authorities due to gain under the formula; and ii.
+S1102 That there will be no cash losses to local authorities as a result of the high needs formula.
+S1104 i. to allow local authorities increases of up to 2.4% in 2018-19; and ii.
+S1105 that no local authority will lose more than 2.5% of its per pupil funding in either 2018-19 or 2019-20.
+S1118 The real terms protection on the national core schools budget means we can invest resources – over and above flat cash per pupil – in 2018-19 and 2019-20 to increase the rate at which we can allocate gains.
+S1119 We are able to allocate around £200 million in each year above flat cash per pupil, allowing us to combine significant protections for those facing reductions and more rapid increases for those set to gain.
+S1138 We confirmed in July that the formula would begin in 2018-19 not 2017-18, to allow us to give certainty to local authorities who were starting to plan budgets for 2017-18.
+S1139 In 2018-19 (only) we will calculate notional budgets for schools according to the national formula.
+S1140 These will then be aggregated and allocated to local authorities as the schools block for distribution to schools according to the locally agreed formula.
+S1142 However, even under the school-level formula arrangement (from 2019-20 and beyond), we expect local authorities to continue to have flexibility on some limited parts of the formula, particularly in relation to funding for pupil growth.
+S1147 To prepare for this in advance of introducing a hard formula, we proposed to apply a ring-fence around the schools block requiring local authorities to pass all of their schools block funding to schools and not to move it to other DSG blocks in 2018-19.
+S1150 We are confirming that we will ring-fence the schools block in 2018-19, but with additional arrangements that will address the risks highlighted during the consultation about support for pupils with SEN and disabilities.
+S1151 We are proposing that local authorities would have a limited ability to move funding between the schools and high needs blocks in 2018-19, following local consultation and with the explicit agreement of the schools forum and a majority of their schools.
+S1152 As now, they will continue to be able to provide additional support through their high needs block and outside the main school budget share to schools supporting large numbers of pupils with high needs.
+S1153 We also intend to develop some continuing local flexibility from 2019-20, and will work with the sector to make sure that such arrangements properly take account of schools’ and local authorities’ collective responsibilities for children and young people with SEN and disabilities.
+S1157 a. Protect each local authority’s high needs block from any loss as a result of the introduction of this formula;
+S1158 b. Fund all local authorities to prepare and implement strategic plans that enable them to spend their high needs funding in a way that achieves the best outcomes for children and young people with high needs; and c. Provide capital funding to support the expansion of special provision in schools (including mainstream schools) and other institutions, and progress a new route for more special schools to be established through the free schools programme.
+S1204 We are looking at ways in which this could be addressed for the longer-term, but in the interim, we are proposing to allocate funding to local authorities on an historic basis, reflecting the amount of money they put through the mobility factor in the previous year.
+S1211 As we proposed in the first stage of the consultation we will allocate funding for private finance initiatives (PFI), rates, split-sites, exceptional premises and growth to local authorities in 2018-19 on the basis of what has been spent on these factors in the past.
+S1220 We are confirming that funding for growth will be allocated to local authorities in 2018- 19 on the basis of spend in 2017-18: this will be an interim arrangement.
+S1221 We recognise that this will not match need exactly, but it represents a significant improvement on the current system where local authorities are expected to absorb all the costs of growth without additional funding.
+S1223 We are consulting on a different, long-term approach that could be introduced from 2019-20.
+S1224 This would allocate funding based on the pupil growth local authorities actually experienced in the year before.
+S1225 We think that this ‘lagged’ funding approach would be a further improvement on historic spend.
+S1226 Our evidence tells us it would be a better predictor of future growth, and over time, will mean the right amount of funding will reach local authorities, albeit with a one-year lag.
+S1229 However, the need for stability and security for schools was a consistent theme in the responses we received to the first consultation.
+S1230 We are clear that we want the impact on losing schools to be fully manageable, while allowing under-funded schools to move towards their formula allocations as quickly as possible.
+S1232 o Schools due to gain under the formula will see per pupil increases of up to 3% in 2018-19, and up to a further 2.5% in 2019-20.
+S1233 The real terms protection of the schools budget allows us to increase the rate we can allocate gains beyond a redistribution of flat cash per pupil;
+S1234 o Inclusion of a floor that will limit the overall reduction to any individual school’s budget as a result of the introduction of this national funding formula to 3% per pupil.
+S1235 This means that any school that would have seen a reduction greater than this will be protected; and o The national MFG for schools of minus 1.5% per pupil year on year will continue – limiting annual reductions to manageable levels.
+S1236 This means that the annual level of losses felt by individual schools will be no greater than are currently allowed through local formula changes.
+S1244 The limited local flexibility we are proposing will enable local areas to reflect the balance in the numbers of pupils with high needs in mainstream and special schools, where the formulae for schools and high needs do not fully reflect those numbers.
+S1251 As well as ensuring that no local authority will lose funding as a result of the high needs formula, we are proposing that for the next four years there will be a significant element of funding allocated to local authorities to reflect their historic spending levels and actual costs of maintaining the provision for those with high needs already placed in schools and colleges.
+S1252 This element of the formula will be a cash amount for each authority, set at half of their current spend.
+S1265 We have listened to these concerns and are setting out our plans for protection and transition to support local authorities to deliver high quality provision for young people with high needs.
+S1267 o To provide up to 3% increases in 2018-19 and 2019-20 for local authorities due to gain from our formula.
+S1268 This means that 75% of local authorities will be on or above their formula allocation by 2019-20; and o There will be no cash losses to local authorities at all as a result of the high needs formula.
+S1269 We recognise that local authorities’ current spending is dependent on a range of factors that have determined the local pattern of provision, and that protection will be needed to enable authorities to manage future cost pressures effectively.
+S1273 Local authorities’ historic commitments will also be recognised on the basis of their actual costs, and for the most part will unwind over time. There will be no protection for the removal of funding where historic commitments have either finished or are not compliant with regulations. ** (Reference: 53)
+S1275 In removing the general funding element of the ESG, we are aware that local authorities may need to use alternative sources of funding to pay for education services for maintained schools.
+S1280 We have also set out our plans to support local authorities to continue to monitor and broker school improvement support for weaker maintained schools by introducing a new £50 million per year grant to begin in September 2017 at the point at which the ESG general funding rate is fully withdrawn.
+S1281 In addition, in recognition that the school- led system of school improvement is not yet sufficiently mature in all areas, maintained schools will have the option to decide to transfer funding for further school improvement support from their own school’s budgets back to the local authority through the ‘de-delegation’ process.
+S1282 This transitional option will be available until the hard formula begins in 2019-20, after which time we expect that all school improvement provision by local authorities at no cost to schools will have ended or will be offered through a traded service. ** (Reference: 54)
+S1284 We want to make sure that the move towards a per pupil formula for local authorities for central education services is fully manageable.
+S1285 We are therefore proposing that no local authority will lose more than 2.5% of funding in 2018-19 and 2019-20.
+S1286 This allows us to allocate gains of up to 2.4% in 2018-19 and 2019-20.
+S1287 We believe our proposals strike the right balance between manageable change, and moving towards a fairer basis for funding local authority central services for schools in the long term.
+S1298 We have put in place, and continue to develop, a comprehensive package of support to help enable schools to make efficiency savings while continuing to improve the quality of education for their pupils.
+S1299 We have published a collection of tools and guidance including benchmarking information; advice on how to minimise spend on procurement and back-office services; and guidance on how to achieve workforce efficiencies by reviewing staffing structures – including a significant number of case studies of schools delivering savings in practice.
+S1303 We have published a directory of organisations who offer services to help schools identify if, where and how they can make improvements in financial management and use of resources in the schools financial health checks supplier directory.
+S1305 We will also shortly be publishing a procurement strategy to help support a step change in school buying and underpin significant savings in non-pay costs across the system.
+S1307 The first stage of the consultation set out our intention to launch an ‘invest to save’ fund to allow schools to invest in ways to save money in future, helping them manage the transition to a national formula.
+S1308 Our proposed floor will mean that no school will lose more than 3% of its funding per pupil overall as a result of this formula.
+S1309 Rather than creating a specific ‘invest to save’ fund, we have prioritised this floor, alongside allocating gains more quickly to schools that are due increases.
+S1310 In addition, we have announced £140 million per year for a new Strategic School Improvement Fund to support school improvement - building school-led capacity in parts of the country where it is needed.
+S1311 This includes support for improving financial health and the use of resources.
+S1369 It is our expectation that schools would start to move towards these new funding levels in 2018-19.
+S1370 In 2018-19, however, it will be up to local authorities to decide funding allocations locally, so allocations will not necessarily mirror our formula allocations, nor the illustrations in this consultation.
+S1371 If local authorities were to adopt the national funding formula proposed, as we would encourage them to do, we would expect around 4,215 of those schools due to be funded at a higher level to reach their new per pupil level in 2018-19.
+S1373 Under our proposed formula 72 local authorities would see an immediate increase of up to 3% in 2018-19.
+S1374 98 local authorities would have an allocation equal to their formula allocation in the first year, and 113 authorities by the second year.
+S1379 In the meantime, the historic spending factor and protection we are offering will reflect the existing pattern of provision that has developed in response to parents’ preferences, local circumstances and other factors.
+S1381 A high needs strategic planning fund is being allocated this year, to encourage all local authorities to review their special provision and plan ahead in light of what this consultation indicates about the level of high needs funding they will receive in future years.
+S1382 Our expectation is that local authorities will produce strategic plans for SEN and disability provision, working with schools (mainstream and special), early years providers and further education providers, and involving parents and young people as well.
+S1383 We know that many local authorities are already planning ahead, and their experience has informed the guidance that we are offering alongside this fund.
+S1385 Early in 2017 we will provide more information on the allocation of capital funding for special provision, and set out next steps in the process for establishing new special schools, where they are needed, funded through the free schools programme.
+S1388 Per pupil funding for 66 local authorities would reduce gradually (at up to 2.5% in 2018-19 and 2019-20), to bring funding for those areas in line with the formula.
+S1420 5. We are mindful that a national funding formula is a significant reform and it is important that we take time to debate the important principles that will underpin these major reforms.
+S1421 Given the importance of consulting widely and fully with the sector and getting implementation right, in July this year we announced that the new system would apply from 2018-19 and that for 2017-18 no local authority would see a reduction from their 2016-17 per-pupil school funding or high needs funding.
+S1422 This reflects the importance of stability and certainty that local authorities need to be able to plan their schools and high needs funding, which was a particular concern highlighted in the first stage consultation responses.
+S1435 Actual allocations for future years will reflect the final formulae (following consultation) and will be updated for the latest characteristics data.
+S1443 To provide local authorities with up to 3% increases in 2018-19 and 2019-20 • To ensure no cash losses to local.
+S1452 and beyond • To provide schools with up to 3% per- pupil increases in 2018-19 and up to 2.5% in 2019-20 • To ensure stability by retaining the ‘minimum funding guarantee’ at minus 1.5% per-pupil per year at school level •
+S1462 For the most part, the analysis in this document is based on the assumption that local authorities will fund their schools in accordance with the national funding formula. In practice, for 2018-19, local authorities will retain the discretion to distribute funds in accordance with locally-set formulae (and in doing so, they should also comply with equality considerations). ** (Reference: 61)
+S1463 So in the first year the actual impact of the reforms may not be exactly in line with our modelling assumptions.
+S1489 We propose to introduce a funding floor to reduce the impact of the overall reductions that individual schools and local authorities face, and we will be helping schools to make savings which will allow them to direct a greater proportion of their budgets to investment in staff.
+S1511 We have published a collection of tools and guidance intended to help schools improve their financial management and find efficiency savings, without compromising the quality of education for their pupils, and we are developing further support in this area to help schools achieve efficient staff structures. We are supporting schools to ensure that any changes to current staffing structures in schools are not driven by direct discrimination, where a decision is made because of a particular protected characteristic. ** (Reference: 65)
+S1512 Recognising our responsibility to ensure that, as far as possible, schools understand their responsibilities under equalities law, we have published advice to help schools understand how the Equality Act 2010 affects them and how to fulfil their duties under the Act. ** (Reference: 66)
+S1539 We will allocate funding for mobility on an historic basis in 2018-19, pending development of a more sophisticated indicator to use from 2019-20. 31.
+S1555 The funding floor and minimum funding guarantee we are proposing to put in place will protect these schools, ensuring that no school’s per-pupil funding can reduce by more than 1.5% each year or 3% overall.
+S1609 To ensure that the funding system reflects how inclusive schools are, we are proposing to allow some flexibility whereby schools in an area can agree, with their local authority, to pool some funding that could then be directed towards those schools that need it most for their pupils with SEN – both more inclusive mainstream provision, and specialist provision (for example special units, resourced provision or special schools) funded from the local authority’s high needs budget.
+S1636 In the second consultation we are consulting on some local budget flexibility from 2018-19, to address the concerns raised.
+S1637 We have also set out a range of other support for local authorities, including a strategic planning fund to help them review, plan ahead and implement changes locally to make sure that suitable provision for children and young people with SEN and disabilities is available. ** (Reference: 71)
+S1679 1.7 Please note that in the national funding formula data published in December 2016 we have not included allocations for new schools that are still filling up.
+S1680 The formula is based on schools having pupils in all year groups.
+S1681 We propose to take a tailored approach for new schools that are still filling up, to make sure they are funded fairly.
+S1682 These are maintained schools, free schools, or academies that the local authority has told us have opened within the last 7 years, and do not have pupils in all year groups yet.
+S1683 They receive high per-pupil funding in their first years because the lump sum inflates their per-pupil funding.
+S1684 As the school expands, their overall budget grows as well, but their per-pupil funding falls because the lump sum becomes a smaller part of their budget.
+S1685 1.8 If we were to calculate illustrative end point national funding formula allocations for schools that are still filling up on the basis on which we have calculated them for all schools (i.e. using data about pupil numbers and funding baselines from 2016-17), we would not be funding these schools fairly.
+S1686 Instead we propose to take into account the fact that they have not yet filled all year groups.
+S1687 We propose to work out the baseline funding and eventual national funding formula allocations the school would receive if they had pupils in all year groups, and then apply the 3% funding floor where required.
+S1688 We need to confirm the data to support this calculation as part of the early phase of the consultation period.
+S1689 Data for these schools has therefore not been included in the national funding formula illustrative allocations – we will provide relevant schools with illustrations of their funding levels under the proposed national funding formula in January 2017, and publish these at the same time.
+S1690 1.9 To illustrate the impact of the proposed formula, our overall approach has been to model what would have happened to each school’s funding allocation if the national funding formula had been implemented in full and without transitional protections in 2016- 17.
+S1691 We want schools and LAs to be able to compare the impact of the proposed formula directly to the funding they receive now.
+S1692 Future funding allocations will be adjusted to take into account changing pupil numbers and characteristics, so these illustrative allocations should not be taken as firm allocations for any particular year.
+S1694 The difference between these publications is the data used to illustrate the national funding formula impact.
+S1695 For the purposes of this consultation, we have used the pupil characteristics data provided to us by local authorities through the 2016-17 Authority Proforma Tool (APT).
+S1696 Funding baselines data for maintained schools also comes from the 2016-17 APT.
+S1697 Funding baselines data for academies is taken from their 2016/17 General Annual Grant (GAG).
+S1698 For maintained schools, these illustrations will not reflect any changes since March 2016.
+S1699 For academies, these illustrations will not reflect any changes since May 2016.
+S1702 a) Illustrative local authority allocations - in the first year of the national funding formula in 2018-19, the formula will be used to calculate schools block allocations for each local authority.
+S1703 Local authorities will continue to set individual school budgets themselves in the first year.
+S1704 The local authority illustrative allocations that we have published are based on 2016-17 APT data and use October 2015 census pupil counts, to be consistent with the pupil counts used in allocations currently.
+S1705 b) Illustrative impact on schools – we have used pupil numbers data from the 2016-17 APT for maintained schools and from the 2016/17 GAG for academies.
+S1706 These will be the same as the October 2015 census count for many schools but for some, such as academies funded initially on estimates, they may not be.
+S1707 Thus the total of the illustrative impact on schools will not match the total of the illustrative local authority allocations.
+S1708 1.11 We are making some technical adjustments to baselines - transferring some funding between the DSG blocks; and forecasting spend of around £200 million above flat cash per pupil in year 1 of the national funding formula.
+S1709 The published total schools block figures and illustrative total spend under the national funding formula do not therefore directly match published figures for 2016-17.
+S1710 Figure 1 below starts with the 2016-17 schools block baseline from the 2016-17 baselines exercise and shows the adjustments that have been made.
+S1711 Figure 1 – local authority schools block baseline budget and total schools block funding distributed to local authorities through the illustrative national funding formula Reference £millions Details [a] £31,997 million 2016-17 schools block baseline, as collected through the baselines exercise.
+S1712 This is the sum of all school budget allocations from the APT plus funding set aside for growth, including amendments to remove one-off funding in 2016- 17.
+S1713 [b] £92 million Transfer from the high needs block to the schools block due to policy change that pupils in high needs places in mainstream schools will be funded through the schools block national funding formula in the future.
+S1714 [c] £317 million Total baseline funding for schools that have opened in the past 7 years and are still filling up.
+S1716 [b] – [c] £31,772 million Total 2016-17 national funding formula schools block baseline (as published in December 2016).
+S1717 [e] £31,956 million Total illustrative funding in year 1 of the national funding formula (as published in December 2016).
+S1718 The illustrative LA allocations for year 1 NFF are around £180m greater than the baseline – the schools block spend will be above flat cash per pupil to allow gaining schools to gain up to 3%.
+S1719 [f] £32,117 million Total illustrative funding under the national funding formula, if the national funding formula had been implemented in full in 2016-17 (as published in December 2016).
+S1720 The illustrative LA allocations once all schools are on formula are around £345m greater than the baseline.
+S1721 1.12 The national funding formula calculation is split into four components, which this note will refer to as:
+S1722 a) Core schools funding – this is calculated at school level and makes up the vast majority of the schools block.
+S1723 Core schools funding covers funding through the:
+S1724 i. Pupil-led factors - basic per-pupil, deprivation, low prior attainment, English as an additional language and area cost adjustment.
+S1726 School-led factors - lump sum, sparsity and area cost adjustment.
+S1728 Premises funding – this is calculated at local authority level using aggregated school-level data.
+S1729 Premises funding covers funding through the PFI, split sites, rates and exceptional circumstances factors.
+S1731 Mobility funding – this is calculated at local authority level using aggregated school-level data.
+S1732 It covers funding through the mobility factor.
+S1734 Growth funding – this is calculated at local authority level using a mix of school and local authority level-data.
+S1735 It covers funding through the implicit and explicit growth factors.
+S1736 2.1 In order to illustrate the impact of the proposed national funding formula, we compare the funding schools/local authorities received in 2016-17 to their illustrative national funding formula funding if the formula was implemented in full in 2016-17 without any transitional protections.
+S1737 So that we are comparing like with like, we make a number of technical adjustments to 2016-17 (or 2016/17) baselines to take into account changes we are making to the funding system as part of the national funding formula.
+S1739 2.2 The difference between the local authority and school level baselines is the data sources used.
+S1740 For local authority illustrative allocations baselines we have used data from the 2016-17 APT and for the illustrative funding allocations for individual schools we have used either data from the 2016-17 APT, (for local authority maintained schools), or the 2016/17 GAG statements (for academies).
+S1741 2.3 We use the funding schools received in 2016-17 to set the baseline pupil count and baseline funding for the core schools component of the national funding formula.
+S1742 2.4 To calculate the baseline core schools funding for local authority illustrative allocations at a school level we use baselines as recorded on the local authority 2016-17 APT.
+S1743 APT adjusted pupil count a)
+S1744 For each school we use the total 2016-17 number on roll (NOR) from the APT.
+S1746 If the school has a special unit or resourced provision we add back the pupils in high needs places that have been deducted from the APT 2016-17 NOR.
+S1747 This is because, as explained above, we are proposing that pupils in high needs places in mainstream schools will be funded through the schools national funding formula in future rather than exclusively through the high needs block.
+S1749 Then we deduct any reception uplift pupils that were recorded on the APT 2016-17 NOR as we will no longer be using the reception uplift once the national funding formula has been introduced.
+S1750 Any school that receives funding for the reception uplift in the baseline year will have this funding protected through the funding floor and transitional protection.
+S1751 APT adjusted baseline funding a)
+S1752 For each school, the starting point here is the total 2016-17 school block funding from the APT, including any minimum funding guarantee (MFG) funding.
+S1754 If the school has a special unit or resourced provision we uplift the baseline pupil-led funding (funding that is affected by changes to the total number of pupils) in line with the number of pupils in high needs places we are adding back in to the baseline pupil count.
+S1755 We do this by rerunning the APT without excluding high needs places.
+S1756 c) We then make an adjustment for any one-off funding or funding for the previous year.
+S1757 Again this data comes from either the 2016-17 APT or additional information local authorities provided as part of the 2016-17 baselines exercise.
+S1758 2.5 There are a few further steps when aggregating up to local authority level.
+S1760 2.6 To show the illustrative impact on schools we use baselines as recorded on the local authority 2016-17 APT for local authority maintained schools and through a school's 2016/17 GAG for academies.
+S1761 Adjusted pupil count 2. For local authority maintained schools this is the same as the APT adjusted pupil count used for the local authority illustrative allocations, as explained above. ** (Reference: 79)
+S1762 2.8 For academies:
+S1764 We take the total 2016/17 NOR from the GAG.
+S1766 If the school has a special unit or resourced places we add back the pupils in high needs places that have been deducted from the GAG 2016/17 NOR.
+S1768 Then we deduct any reception uplift pupils that were recorded on the GAG 2016/17 NOR as we will no longer be using the reception uplift once the national funding formula has been introduced.
+S1769 Any school that receives funding for the reception uplift in the baseline year will have this funding protected through the funding floor and transitional protection.
+S1770 Adjusted baseline funding 2. For local authority maintained schools this is the same as the APT adjusted baseline funding used for the local authority illustrative allocations, as explained above. ** (Reference: 81)
+S1771 2.10 For academies:
+S1773 We take the total 2016/17 schools budget share (SBS) and MFG funding from the GAG.
+S1775 If the school has a special unit or resourced places we uplift the baseline pupil-led funding in line with the number of pupils in high needs places we are adding back in to the baseline pupil count c)
+S1776 We then make an adjustment for any one-off funding or funding for the previous year.
+S1777 Again this data comes from either the 2016-17 APT or through additional information local authorities provided as part of the baselines exercise.
+S1778 2.11 The premises baseline for the local authority level illustrative allocations is the total funding each local authority allocated through each premises factor as recorded on the 2016-17 APT: ** (Reference: 75)
+S1779 a) PFI b) Split-sites c) Rates d)
+S1780 Exceptional circumstances
+S1782 The premises baseline for the illustrative impact on schools is the total funding each school received through the premises factors:
+S1784 For local authority maintained schools this is equal to the total PFI, split- sites, rates and exceptional circumstances funding recorded on the 2016-17 APT.
+S1786 For academies this is equal to the total PFI, split-sites and exceptional circumstances funding recorded on their 2016/17 GAG.
+S1787 2.13 To set the mobility baseline for the local authority illustrative allocations we:
+S1788 a) Take the funding the local authority allocated to each school through the mobility factor, as recorded on the 2016-17 APT.
+S1789 b) Uplift this amount in line with pupils in high needs places for any schools with special units or resourced provision.
+S1790 c) Aggregate to calculate a total amount for the local authority as a whole.
+S1791 2.14 For local authority maintained schools this is the same as the school level baseline funding used to calculate the local authority illustrative allocations mobility baseline, as explained above.
+S1792 2.15 For academies:
+S1794 We take the funding allocated to each school through the mobility factor, as recorded on the 2016/17 GAG.
+S1795 b) Then uplift this amount in line with pupils in high needs places for any schools with special units or resourced provision.
+S1796 2.16 Local authorities allocate funding to schools to reflect growth in pupil numbers in two ways in their 2016-17 APT:
+S1797 a) Explicitly through the falling rolls and growth funds.
+S1798 b) Implicitly by adjusting the schools block pupil count used to allocate formula funding in the APT.
+S1799 2.17 To set the growth baseline for each local authority we calculate the funding allocated through both of these methods.
+S1800 Explicit growth 2.18 To set the explicit growth baseline we use local authority level data:
+S1801 a) Take the total funding allocated to the falling rolls and growth fund, as recorded on the 2016-17 APT.
+S1802 b) Adjust for any one-off funding or funding that has come from outside the dedicated schools grant (DSG), as advised by local authorities in the 2016- 17 baselines exercise ** (Reference: 76)
+S1803 Implicit growth 2.19 To set the implicit growth baseline we use school level data.
+S1804 We estimate the total funding through the APT adjusted baseline funding that is due to local authority’s APT pupil count adjustments.
+S1805 Figure 2 sets out the calculation and an example school.
+S1806 Figure 2 – Implicit growth baseline calculation Calculation step Description Example 1) 2016-17 schools block pupil count School A has 250 pupils recorded on the October 2015 school census.
+S1807 We start with the 2016-17 schools block pupil count for each school.
+S1808 This pupil count is from the October 2015 school census and does not exclude pupils in high need places in mainstream schools.
+S1809 We make sure that reception uplift pupils are excluded from this pupil count to reach the adjusted 2016-17 schools block pupil count.
+S1810 Calculation step Description Example 2) APT adjusted pupil count (APT only, definition set out in chapter 2)
+S1811 School A’s APT adjusted pupil count is 280.
+S1812 The local authority added 30 pupils to the pupil count recorded on the APT as the school is expecting a bulge class in September.
+S1813 We then take the 2016-17 APT adjusted pupil count for each school.
+S1814 This pupil count does not exclude pupils in high needs places in mainstream schools, excludes reception uplift pupils and includes any adjustments local authorities made to the 2016-17 APT due to expected changes to pupil numbers.
+S1815 3) Proportion of pupil- led funding due to implicit growth The only difference between 1) and 2) is the change, if any, that local authorities have made to the APT pupil count.
+S1816 This is the proportion of APT adjusted pupil-led baseline funding due to local authorities’ implicit growth funding decisions.
+S1817 The difference between the schools block and baseline pupil count for school A is 30 pupils, This is 10.7% of the baseline pupil count, therefore 10.7% of baseline pupil-led funding is due to local authority adjustments to pupil numbers.
+S1818 4) Pupil-led baseline (APT only)
+S1819 To work out the pupil-led baseline funding we start with the total APT adjusted baseline funding.
+S1820 School A has total APT adjusted baseline funding of £1,100,000, of which a) Total APT adjusted baseline funding (APT only, definition set out in chapter 2)
+S1821 a) premises and mobility baseline funding of £10,000, We are allocating and protecting funding for the premises and mobility factors separately at local authority level so exclude from our baseline here.
+S1822 b) total school-led baseline of £100,000 and b) APT premises and mobility baseline funding (APT only, definitions set out in chapter 2)
+S1823 c) total pupil-led baseline £990,000.
+S1824 c) APT adjusted school-led baseline funding (APT only)
+S1825 We also need to deduct any school- led funding from the total baseline as changes to pupil numbers only affect pupil-led funding.
+S1826 We class school-led funding as funding through the lump sum, sparsity and historic sixth form factors.
+S1827 Calculation step Description Example 5)
+S1828 Implicit growth baseline funding at school level The estimate of each school’s implicit growth baseline is the pupil-led baseline multiplied by the proportion of funding due to implicit growth.
+S1829 School A’s implicit growth baseline is £106,071, this is 10.7% of £990,000.
+S1831 Implicit growth baseline at local authority level The local authority level implicit growth baseline is an aggregate of each school’s implicit growth baseline.
+S1845 We will update these illustrative allocations in January 2017 to include these schools.
+S2086 3.33 In 2018-19 we will allocate funding for the premises factors to local authorities on the basis of historic spend, with the exception of the PFI factor where we will uprate funding in line with inflation, using RPIX.
+S2087 Our intention is to use 2017-18 baselines for 2018-19 allocations.
+S2088 Where there have been significant changes from 2016-17, we will liaise with local authorities to understand them to ensure they are appropriate to use as baselines for the national funding formula, or whether the 2016-17 position provides a better starting point.
+S2089 We will consider and consult further on how these factors should be funded when we move to a hard formula from 2019-20.
+S2107 3.38 In 2018-19 we will allocate funding for the mobility factor on the basis of historic spend.
+S2108 We want to work with stakeholders to explore options for an improved mobility factor from 2019-20, and we are seeking suggestions through this consultation.
+S2112 In 2018- 19 we will allocate funding for growth to local authorities on the basis of historic spend in line with our approach to the premises and mobility factors.
+S2113 The way we calculate historic spend for growth, however, is slightly different to other premises factors.
+S2114 In addition to the explicit funds for growth and falling rolls that local authorities can top-slice from their DSG, authorities often recognise growth by making adjustments to their schools’ data to reflect the number of pupils they expect to arrive at individual schools.
+S2115 We have added this ‘implicit’ growth to each authority’s explicit spend to determine their total growth funding in 2018-19.
+S2116 The stage 2 consultation sets out our proposals for a longer term approach to funding the growth factor, using lagged growth data.
+S2138 4.4
+S2139 The minimum funding guarantee (MFG) and gains cap will continue to operate throughout the transition to the national funding formula. ** (Reference: 86)
+S2140 This transitional protection will apply to each school’s national funding formula pupil and school-led funding.
+S2141 Figure 15 sets out a worked example of the transitional protection calculation.
+S2142 Figure 15 – Transitional protection calculation for national funding formula year 1, local authority allocations Calculation step Description Example 1)
+S2143 APT adjusted baseline funding (definition set out in chapter 2)
+S2144 We start with the APT adjusted baseline for each school, the 2016-17 schools baseline funding based on APT data only.
+S2145 School C is an academy and has an APT adjusted baseline of £750,000 School C has premises and mobility baseline funding of £3,000 2)
+S2146 Premises and mobility baseline funding (APT data, definition set out in chapter 2)
+S2147 We exclude premises and mobility baseline funding before calculating protections, as these factors are calculated and protected at local authority level.
+S2148 Calculation step Description Example 3) National funding formula school-led unit of funding (set out in chapter 3) multiplied by the proportion of the financial year baseline year that the school will be open School C is open for the full baseline year (100%) so national funding formula school- led unit of funding (taking account of % of baseline year the school is open) is £110,000.
+S2149 Most school are open for the full baseline year, so this step does not change the national funding formula school-led unit of funding.
+S2150 However, where schools are only open for a proportion of the baseline year, we need to make the same adjustment to national funding formula funding so the baseline and national funding formula are comparable.
+S2151 4) APT adjusted pupil count (definition set out in chapter 2)
+S2152 School C has total APT adjusted pupil count of 150.
+S2153 Our transitional protection calculation works on a per-pupil level, so we need to use the APT adjusted pupil count to calculate the per-pupil baseline.
+S2154 The baseline for transitional protections is calculated by 5) Baseline for the transitional protection calculation (per-pupil)
+S2155 Taking the total APT adjusted baseline funding (step 1)
+S2156 Excluding premises and mobility baseline funding (step 2)
+S2157 School C’s baseline for the transitional protection calculation is £637,000 (APT adjusted baseline, excluding premises and mobility and minus national funding formula school-led unit of funding)
+S2158 Subtracting national funding formula school-led unit of funding (after adjustment for the % of the baseline year the school is open) (step 3)
+S2159 Divided by 150 (APT adjusted pupil count)
+S2160 And dividing by the APT adjusted pupil count (step 4).
+S2161 This equals £4,247 per pupil.
+S2162 This is the pupil-led unit of funding for schools when fully on formula.
+S2163 School C’s national funding formula pupil- led unit of funding post funding floor is £4,119 6) National funding formula pupil-led unit of funding post funding floor (set out in figure 13)
+S2164 Calculation step Description Example We work out the percentage change between the baseline for the transitional protection and the national funding formula pupil-led unit of funding.
+S2165 7) What is the change between the baseline for the transitional protection and the national funding formula pupil-led unit of funding?
+S2166 School C’s % change between the baseline for the transitional protection and the national funding formula pupil-led unit of funding is -3%.
+S2167 Schools losing funding: We are not allowing any school to see a year on year reduction of over 1.5% of their per pupil baseline 8) Will the school be subject to transitional protections in the first year of the national funding formula?
+S2168 School C loses 3% per pupil under the national funding formula so it will receive a transitional protection in the first year of 1.5% (-1.5% - -3%)
+S2169 Multiplied by £4,247 Schools gaining funding: We are allowing schools to see gains of up to 3% of their per pupil baseline in 2018- 19 and up to a further 2.5% in 2019- 20.
+S2170 Which is £64 per pupil If a school is due to lose over 1.5% or gain over 3% in the first year of the national funding formula than they will be subject to transitional protections.
+S2171 9) Year 1 national funding formula pupil- led funding The final output is the year 1 national funding formula pupil-led funding for each school.
+S2172 This is equal to:
+S2173 School C’s Year 1 national funding formula pupil-led unit of funding is £4,183.
+S2174 national funding formula pupil-led unit of funding post funding floor (step 6)
+S2175 Plus transitional protection adjustment per pupil (step 8).
+S2202 5.5 The minimum funding guarantee (MFG) and gains cap will continue to operate throughout the transition to the national funding formula. ** (Reference: 88)
+S2203 This transitional protection will apply to each school’s national funding formula pupil and school-led funding.
+S2204 Figure 16 sets out a worked example of the transitional protection calculation.
+S2205 Figure 16 – Transitional protection calculation for national funding formula year 1, illustrative impact on schools Calculation step Description Example
+S2206 We start with the adjusted baseline for each school.
+S2207 School C is an academy and has an academy adjusted baseline of £770,000.
+S2208 1) APT adjusted baseline funding or academy allocations adjusted baselines (definition set out in chapter 2)
+S2209 School C has premises and mobility baseline funding of £3,000.
+S2210 2) Premises and mobility baseline funding (APT or GAG data, definition set out in chapter 2)
+S2211 We exclude premises and mobility baseline funding before calculating protections, as these factors are calculated and protected at local authority level.
+S2212 3) National funding formula school-led unit of funding (set out in chapter 3) multiplied by the proportion of the financial year or academic year baseline year that the school will be open School C is open for the full baseline year (100%) so national funding formula school- led unit of funding (taking account of % of baseline year the school is open) is £110,000.
+S2213 Most school are open for the full baseline year, so this step does not change the national funding formula school-led unit of funding.
+S2214 However, where schools are only open for a proportion of the baseline year, we need to make the same adjustment to national funding formula funding so the baseline and national funding formula are comparable.
+S2215 Calculation step Description Example School C has total adjusted pupil count of 150.
+S2216 Our funding floor calculation works on a per-pupil level, so we need to use the adjusted pupil count to calculate the baseline for the funding floor.
+S2217 4) APT adjusted pupil count or academy allocations adjusted pupil count (definition set out in chapter 2)
+S2218 The baseline for transitional protections is calculated by:
+S2219 5) Baseline for the transitional protection calculation (per-pupil)
+S2220 School C’s baseline for the transitional protection calculation is £4,380.
+S2221 Taking the total adjusted baseline funding (step 1)
+S2222 Excluding premises and mobility baseline funding (step 2)
+S2223 Subtracting national funding formula school-led unit of funding (after adjustment for the % of the baseline year the school is open) (step 3)
+S2224 And dividing by the adjusted pupil count (step 4).
+S2225 This is the pupil-led unit of funding for schools when fully on formula.
+S2226 School C’s national funding formula pupil- led unit of funding post funding floor is £4,249.
+S2227 6) National funding formula pupil-led unit of funding post funding floor (set out in figure 14)
+S2228 We work out the percentage change between the baseline for the transitional protection and the national funding formula pupil-led unit of funding.
+S2229 7) What is the change between the baseline for the transitional protection and the national funding formula pupil-led unit of funding?
+S2230 School C’s % change between the baseline for the transitional protection and the national funding formula pupil-led unit of funding is -3%.
+S2231 Calculation step Description Example Schools losing funding: We are not allowing any school to see a year on year reduction of over 1.5% of their per pupil baseline.
+S2232 8) Will the school be subject to transitional protections in the first year of the national funding formula?
+S2233 School C loses 3% per pupil under the national funding formula, so it will receive a transitional protection in the first year of 1.5% (-1.5% - -3%)
+S2234 Multiplied by £4,380 Schools gaining funding: We are allowing schools to see gains of up to 3% of their per pupil baseline in 2018- 19 and up to a further 2.5% in 2019- 20.
+S2235 Which is £66 per pupil If a school is due to lose over 1.5% or gain over 3% in the first year of the national funding formula than they will be subject to transitional protections.
+S2236 9) Year 1 national funding formula pupil- led funding The final output is the year 1 national funding formula pupil-led funding for each school.
+S2237 This is equal to:
+S2238 School A’s national funding formula pupil- led unit of funding, including the funding floor, is £4,315.
+S2239 National funding formula pupil-led unit of funding post funding floor (step 6)
+S2240 Plus transitional protection adjustment per pupil (step 8).

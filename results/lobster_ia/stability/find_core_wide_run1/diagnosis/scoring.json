@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Stock overfishing and failure to meet MSY",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The claim that lobster and crawfish stocks are overfished and not at MSY is linked to MMO's UK Sea Fisheries Annual Statistics 2014 (Reference 1), a properly cited and linkable source, but no assessment of the stock-assessment method's strengths/weaknesses or uncertainty is given."
+    },
+    {
+      "theme": "EU and international obligations",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme mainly restates legal targets and commitments (CFP, MSFD, Biodiversity 2020, UK BAP) which describe obligations rather than evidence of the diagnosis itself, so despite citations (References 3,4,6) it offers no data on causes, effects or scale of overfishing."
+    },
+    {
+      "theme": "Common-pool resource market failure",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The tragedy-of-the-commons argument is pure economic reasoning with a stray citation (Reference 1,12) that does not actually supply data supporting the specific claim, so it counts as unevidenced reasoning."
+    },
+    {
+      "theme": "Role of berried females in stock recruitment",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Detailed biological explanation (9-month egg-carrying, loss of future recruits) supports the claim about recruitment impact but carries no references at all, so it cannot exceed level 1."
+    }
+  ],
+  "reasoning": "The diagnosis of overfishing rests on four core themes. 'Stock overfishing and failure to meet MSY' reaches level 2: it links the claim directly to MMO's UK Sea Fisheries Annual Statistics 2014 (Reference 1), a properly cited, traceable source, though the document never discusses the limitations of that stock assessment or landing-trend data, so it falls short of level 3. 'EU and international obligations' sits at level 0: its lines mostly describe legal targets and commitments (CFP, MSFD, Biodiversity 2020, UK BAP) rather than evidence about why or how much overfishing is occurring; citations 3, 4 and 6 support descriptions of rules, not diagnostic evidence. 'Common-pool resource market failure' is level 0: the tragedy-of-the-commons mechanism ('private cost of exploitation is not equal to the social cost') is argued through economic reasoning alone, with Reference 1/12 not actually substantiating the specific theoretical claim. 'Role of berried females in stock recruitment' reaches level 1: it offers a clear biological mechanism (eggs carried for ~9 months, removal preventing recruitment) that functions as evidence for the claim, but carries no citations at all, so it cannot reach level 2. Averaging these four core levels (2, 0, 0, 1) gives 0.75, rounding down to 1. The strongest counter-example is the MSY theme's clean link to cited MMO statistics, which alone would justify a 2; but the other three core themes drag the mean down. To reach level 2 overall, the obligations and market-failure themes would need actual diagnostic data (e.g., cited stock-recruitment modelling or empirical market data) rather than legal description and theory, and the berried-female theme would need a citation for its biological claims.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

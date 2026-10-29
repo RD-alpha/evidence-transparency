@@ -1,0 +1,64 @@
+{
+  "themes": [
+    {
+      "theme": "Policy Objective and Rationale",
+      "reason": "States why government chose this intervention (stock health, MSY compliance, enforcement benefits) directly addressing why this intervention was chosen.",
+      "weight": "core"
+    },
+    {
+      "theme": "Policy Options Considered",
+      "reason": "Explains the alternatives considered (do nothing, IFCA byelaws, seasonal ban) and why they were rejected in favor of the national SI ban, directly addressing whether other options exist and why not chosen.",
+      "weight": "core"
+    },
+    {
+      "theme": "Voluntary Measures and Existing Legislation",
+      "reason": "Explains what has been tried before (v-notching legislation) and why it failed to work, which is required to justify a new mandatory intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Cost Analysis and Financial Impacts",
+      "reason": "Provides detailed costs and assumptions behind them, addressing what the costs are estimated to be and the assumptions behind those calculations.",
+      "weight": "core"
+    },
+    {
+      "theme": "Benefits and Stock Recovery Modelling",
+      "reason": "Provides modelled benefits and assumptions underlying stock recovery estimates, addressing the benefits and assumptions should-explain point.",
+      "weight": "core"
+    },
+    {
+      "theme": "Regulatory Framework and Compliance",
+      "reason": "Details existing regulatory baseline, compliance assumptions and appraisal period choices that underpin the cost/benefit calculations, but is largely background/administrative detail rather than the core justification.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Data Limitations and Assumptions",
+      "reason": "Minor caveats about data gaps (North-West unit) that refine cost calculations but are a passing technical note rather than central to the argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "EU Obligations and International Context",
+      "reason": "Explains broader legal context and why national legislation was chosen over waiting for EU-wide measures, bearing on why this intervention and timing were chosen.",
+      "weight": "core"
+    },
+    {
+      "theme": "Net Benefit Analysis",
+      "reason": "Summary figures of net present value costs; mostly restates numeric totals already covered in cost analysis, administrative/summary in nature.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Non-Monetised Benefits",
+      "reason": "Duplicate of benefits content already captured in Benefits and Stock Recovery Modelling; adds little beyond repetition.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Implementation and Enforcement",
+      "reason": "Reiterates enforcement rationale and resource considerations already covered in Policy Objective and Policy Options themes.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Summary and Conclusion",
+      "reason": "Restates the overall conclusion and key figures, summarizing rather than introducing new argumentative content.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "theme": "Choice of 'update the regulations' over alternatives",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation-driven revision of the evidence base",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Monetised cost-benefit case for the package",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope and traceability reform as part of the proposed package",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "The new match test design",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Policy objectives and fire safety outcomes",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Industry context and affected businesses",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Regulatory background and prior engagement",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Unquantified benefits and impacts",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Uncertainty and data limitations",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

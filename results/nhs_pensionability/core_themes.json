@@ -1,0 +1,53 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "New care models and pension access",
+        "claim": "New care delivery models and the new contracts emerging from the Five Year Forward View, including the MCP contract from April 2017, create gaps in access to the NHS pension scheme, so regulations must change to keep work pensionable."
+      },
+      {
+        "name": "Growing sub-contracting and unequal playing field",
+        "claim": "Sub-contracting is becoming more prevalent and sub-contractors who cannot offer scheme membership face an unequal playing field, as shown by the access review."
+      },
+      {
+        "name": "Unintended effects of existing rules",
+        "claim": "Some existing rules, notably regulation D3 on excessive pay increases, are caught by national minimum wage changes in a way that was never intended."
+      }
+    ],
+    "note": "The diagnosis is thin and largely asserted; the technical corrections are mostly not argued in diagnostic terms."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Making new care model contracts pensionable",
+        "claim": "The MCP standard contract should be added to the regulations as a pensionable contract and a qualifying contract so that MCP staff and providers can access the scheme from April 2017."
+      },
+      {
+        "name": "Standard sub-contracts with controls",
+        "claim": "Standard NHS and MCP sub-contracts should be made pensionable and qualifying contracts for independent providers, with the controls of prescribed sub-contract forms, a main contract holder who is an employing authority, and annual return declarations, so that only NHS work is pensioned and liabilities stay limited."
+      },
+      {
+        "name": "National minimum wage exclusion from regulation D3",
+        "claim": "Pay increases caused solely by national minimum wage changes should be excluded from regulation D3 charges, because the rule was not meant to catch them."
+      },
+      {
+        "name": "Technical corrections and refinements",
+        "claim": "Miscellaneous amendments correcting errors, clarifying provisions and updating references are needed to make the scheme regulations operate properly."
+      }
+    ],
+    "note": "The proposal is a package of separate measures; no alternatives or costs are discussed, and the technical corrections are a large set of small clarifications."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Commencement and retrospective effect",
+        "claim": "The amendments take effect from 1 April 2017, with some changes made retrospective to 1 April 2016 or 2015 so that there are no gaps and earlier rules are aligned."
+      },
+      {
+        "name": "Protection for those detrimentally affected",
+        "claim": "Members who would be put in a worse position by the regulations may elect for the changes not to apply to them by giving notice within six months."
+      }
+    ],
+    "note": "Implementation is thin and procedural, with no costs, evidence or alternatives discussed; the transfer statement procedure change from April 2017 is mentioned only briefly."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Creating Apprenticeship Opportunities - Routes and Methods",
+      "reason": "This theme sets out the three concrete delivery routes (conversion of recruitment, upskilling existing staff, enhancing schemes) that constitute the actual method for rolling out apprenticeships; without it there is no account of how the intervention is implemented.",
+      "weight": "core"
+    },
+    {
+      "theme": "Recruitment, Pay and Talent Processes Reform",
+      "reason": "Explains necessary structural changes (pay, recruitment/selection) that underpin the chosen implementation routes, directly addressing why this method requires supporting reforms.",
+      "weight": "core"
+    },
+    {
+      "theme": "Career Pathways, Progression and Talent Management",
+      "reason": "Describes how apprenticeships are embedded into career structures and professional pathways, which is central to the delivery mechanism and targets, not just a peripheral detail.",
+      "weight": "core"
+    },
+    {
+      "theme": "Diversity, Inclusion and Social Mobility",
+      "reason": "Addresses how implementation specifically targets the social mobility/diversity problem the policy aims to solve, making it a core justification for why this delivery approach is used.",
+      "weight": "core"
+    },
+    {
+      "theme": "Governance, Delivery and Departmental Responsibility",
+      "reason": "Sets out who is responsible for delivery and how departments execute targets, which is operational/administrative detail rather than the rationale for the chosen method itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "UK-wide Application and Devolved Administrations",
+      "reason": "Covers geographic scope and coordination with devolved administrations, a procedural/administrative detail rather than a core support for the implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Cross-Sector Collaboration and Wider Economy",
+      "reason": "Describes engagement with other sectors to share best practice, a supporting but non-essential element; the core implementation argument does not depend on this collaboration.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Quality Assurance, Standards and Training Providers",
+      "reason": "Details quality control measures (standards, provider ratings) which are important safeguards but secondary to the main routes and structural reforms driving implementation.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Funding and Apprenticeship Levy",
+      "reason": "Brief mention of levy funding mechanics; this is a minor financial detail rather than a central pillar of the implementation argument.",
+      "weight": "not core"
+    }
+  ]
+}

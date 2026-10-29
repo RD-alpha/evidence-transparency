@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Rising life expectancy and time in retirement",
+        "claim": "Life expectancy at 65 has risen steadily for decades while State Pension age lagged, so the share of adult life spent receiving the State Pension has grown from 23% to over 32% and is projected to keep rising without further change."
+      },
+      {
+        "name": "Demographic ageing and pay-as-you-go pressure",
+        "claim": "The baby-boomer cohort and falling relative numbers of working-age people raise the old age dependency ratio (301 to 375 per 1,000 by 2042), which under a pay-as-you-go system pushes up State Pension and wider age-related costs for working taxpayers."
+      },
+      {
+        "name": "Rising fiscal cost of the State Pension",
+        "claim": "State Pension spending is projected to rise by 1% of GDP (about £20bn, £725 per household) by 2036/37 and further thereafter, making the current system unsustainable and unfair to future taxpayers if left unaddressed."
+      },
+      {
+        "name": "Past delay and stop-start reform",
+        "claim": "State Pension age policy was left unchanged for decades despite longer lives, forcing rapid, repeated rises in three Acts in ten years and leaving generations spending very large shares of adult life in retirement."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Linking State Pension age to life expectancy",
+        "claim": "The government will tie State Pension age to rising life expectancy, aiming for people to spend broadly the same share of adult life (up to 32% long term) in receipt, which is fair across generations and keeps the pension sustainable, whereas the alternative of cutting pension value would raise pensioner poverty."
+      },
+      {
+        "name": "Rise to 68 in 2037-39",
+        "claim": "The government will follow Cridland's timetable and raise State Pension age to 68 in 2037-39, seven years earlier than legislated, because it saves £74bn by 2045/46 and reduces spending by 0.4% of GDP while spacing rises so one generation does not face rapid successive increases, unlike the faster 32% or 33.3% timetables."
+      },
+      {
+        "name": "Universal State Pension age",
+        "claim": "State Pension age should stay the same for everyone because a single age gives simplicity and clarity for planning, variation in life expectancy cannot practically be reflected, and disadvantaged groups are better helped through the working-age benefit system than through early access or regional ages."
+      },
+      {
+        "name": "Later decisions deferred to reviews",
+        "claim": "Because life expectancy projections are uncertain, the government will not formalise policy beyond 2037-39 and will hold further reviews, including one before legislating for 68, while not accepting Cridland's fixed limit of one year's rise per decade."
+      }
+    ],
+    "note": "The aspect also contains testing-type commitments to further review, which are folded into the theme on deferred decisions."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Notice and communication",
+        "claim": "The government will give at least ten years' notice of changes and use a digital and stakeholder communications strategy so individuals can plan and save with certainty."
+      },
+      {
+        "name": "Wider support for working longer and those unable to work",
+        "claim": "Rises in State Pension age must be accompanied by a wider system of fuller working lives, saving support and welfare protection for those whose work is limited by disability, health or caring, with Cridland's recommendations informing later decisions."
+      },
+      {
+        "name": "Review and legislative process",
+        "claim": "Delivery runs through the statutory review framework, with independent reports to Parliament and primary legislation needing full parliamentary scrutiny before the rise to 68, with the next review by 2023."
+      }
+    ],
+    "note": "Implementation is largely a set of separate delivery measures with little cost or evidence justification for choosing them over alternatives."
+  }
+}

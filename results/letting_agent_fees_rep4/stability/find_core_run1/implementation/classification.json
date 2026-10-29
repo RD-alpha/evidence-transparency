@@ -1,0 +1,117 @@
+{
+  "themes": [
+    {
+      "name": "Enforcement architecture led by local authorities, with optional stronger tools",
+      "ids": [
+        "S0339",
+        "S0340",
+        "S0341",
+        "S0345",
+        "S0346",
+        "S0348",
+        "S0350",
+        "S0377",
+        "S0378",
+        "S0380",
+        "S0381",
+        "S0382",
+        "S0383",
+        "S0384",
+        "S0385",
+        "S0387",
+        "S0388"
+      ]
+    },
+    {
+      "name": "Tenant empowerment and education as an enforcement mechanism",
+      "ids": [
+        "S0313",
+        "S0314",
+        "S0343",
+        "S0352",
+        "S0353",
+        "S0354",
+        "S0356",
+        "S0357",
+        "S0358",
+        "S0359",
+        "S0361",
+        "S0362",
+        "S0363",
+        "S0365",
+        "S0366"
+      ]
+    },
+    {
+      "name": "Penalty design for non-compliance",
+      "ids": [
+        "S0400",
+        "S0401",
+        "S0402",
+        "S0404",
+        "S0405",
+        "S0406",
+        "S0407",
+        "S0408",
+        "S0410",
+        "S0411",
+        "S0413",
+        "S0414"
+      ]
+    },
+    {
+      "name": "Defining the scope and exemptions of the ban",
+      "ids": [
+        "S0294",
+        "S0295",
+        "S0296",
+        "S0301",
+        "S0302",
+        "S0303",
+        "S0304",
+        "S0305",
+        "S0306",
+        "S0307",
+        "S0308",
+        "S0310",
+        "S0311"
+      ]
+    },
+    {
+      "name": "Data sharing and intelligence as an enforcement tool",
+      "ids": [
+        "S0369",
+        "S0370",
+        "S0371",
+        "S0372",
+        "S0373",
+        "S0375"
+      ]
+    },
+    {
+      "name": "Legislation and regulatory framework",
+      "ids": [
+        "S0027",
+        "S0028",
+        "S0049"
+      ]
+    },
+    {
+      "name": "Mitigation of discrimination impacts",
+      "ids": [
+        "S0318"
+      ]
+    },
+    {
+      "name": "International precedent and comparative regulation",
+      "ids": [
+        "S0432",
+        "S0433",
+        "S0435",
+        "S0436",
+        "S0437",
+        "S0438"
+      ]
+    }
+  ]
+}

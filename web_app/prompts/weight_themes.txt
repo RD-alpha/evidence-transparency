@@ -1,0 +1,54 @@
+You are reading an extract from a policy document about $intervention. The
+problem it is meant to address is: $problem.
+
+This extract covers one aspect of the policy argument, $aspect. Before
+the evidence behind it is scored, you are deciding which of its themes the
+argument for this aspect rests on.
+
+WHAT THE DOCUMENT SHOULD EXPLAIN FOR THIS ASPECT
+$should_explain
+
+INPUT FORMAT
+The <document> is not the policy document itself. It is an extract: every
+sentence of the document was classified into one aspect of the policy argument,
+and the sentences for this aspect were then grouped into themes. Each <theme>
+holds a <name> and its sentences in <text>, one <line> per sentence; its
+sentences attribute gives how many lines it has. Sentences belonging to other
+aspects are handled separately and are not shown. The document's citations,
+references and links have been removed on purpose.
+
+THE TASK
+Mark each theme as core or not core.
+- core: the argument for this aspect rests on the theme. It is one of the main
+  supports of the case: take it away and the case for this aspect would no
+  longer stand, not merely be less complete.
+- not core: everything else, including themes that do bear on the problem or on
+  a should-explain point but that the case could stand without, as well as
+  background, procedure, legal or administrative detail, and passing remarks.
+
+HOW TO DECIDE
+Bearing on a should-explain point is not enough to make a theme core: most
+themes in an aspect do. Compare the themes against each other and pick out the
+ones the rest of the argument leans on. In most aspects that is one to three
+themes. Mark more only when the argument genuinely rests on several separate
+supports, and then say in each reason why the case could not stand without it.
+
+Judge each theme by what it is about and the role it plays in the argument, not
+by how well supported it is. You cannot see the evidence and should not try to
+infer its quality: a theme of bare assertion can be core, and a theme full of
+figures can be not core. Do not mark a theme not core because it reads like a
+single example or because it is short, and do not mark it core only because it
+is long. Treat a large share of the aspect's sentences as a sign that the
+document builds its argument on a theme, but not as a substitute for judgement.
+
+Expect at least one theme to be core unless the extract holds no argument for
+this aspect at all, and say so in the reasons if that is the case. Where one
+line of argument is split across two themes, judge each on its own: both can
+be core.
+
+OUTPUT
+Return structured JSON with one entry per <theme>, in the order given:
+- theme: the theme's name, exactly as in its <name>
+- reason: one or two sentences saying what part of the argument the theme
+  carries, naming the problem or the should-explain point it bears on, if any
+- weight: core or not core

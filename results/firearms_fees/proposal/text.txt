@@ -1,0 +1,413 @@
+S0018 The Government considers that, in common with many other licensing regimes, the costs of the firearms licensing regime should properly be attributed to the organisations benefiting from the licence, and not the taxpayer.
+S0019 Charging in this way ensures the real economic cost of safeguarding high risk activities is understood by licence holders.
+S0020 The Government introduced new charging powers for the firearms licences it issues through the Policing and Crime Bill, which is currently before Parliament.
+S0021 This consultation sets out the Government’s proposed fee levels for prohibited weapons, museums and approved shooting clubs.
+S0022 The proposed fees aim to recover in full the cost to the taxpayer, so that the licence holder pays for the cost of the service.
+S0026 Fees for the certificates administered by the police were increased in April 2015 following a public consultation. Separately, the Home Office (and in Scotland, the Scottish Government) issue three broad categories of firearms licence covering higher risk activities: ** (Reference: 1)
+S0047 Introduction of new fees The Policing and Crime Bill was introduced to Parliament in February 2016. ** (Reference: 5)
+S0048 The Bill provides for a new power enabling fees to be charged for prohibited firearms licences.
+S0049 The Bill also amends existing charging powers for museum and shooting club licences under the Firearms (Amendment) Act 1988, ensuring consistency with the new prohibited weapons power so that all enabling powers provide flexibility to set fees at different rates for different types of application.
+S0050 This consultation sets out the Government’s proposed fee levels for prohibited weapons, museums and approved shooting clubs.
+S0051 The level proposed has been set with the aim of recovering the cost to the taxpayer in full, so the licence holder pays for the cost of the service.
+S0055 (1) The Secretary of State may by regulations authorise the appropriate national authority to require payment of a fee before an [authority / licence / approval] is granted, varied or renewed.
+S0056 (2) Regulations under subsection (1) must specify the amount of any fee that may be charged.
+S0057 (3) The regulations may make different provision for different cases (including specifying different fees for different cases).
+S0058 (4) The regulations may include— (a) incidental, supplementary or consequential provision; (b) transitional, transitory or saving provision.
+S0059 (5) Regulations under this section are to be made by statutory instrument.
+S0060 (6) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+S0061 (7) In this section, “the appropriate national authority” means— (a) in or as regards England and Wales, the Secretary of State; (b) in or as regards Scotland, the Scottish Ministers.
+S0062 Calculating fee levels The fee amounts in this consultation document are based on the sum of the cost to the Home Office and the cost to the police of providing the service for each licence type.
+S0064 **(Link: 5) All costs have been assessed in line with HM Treasury’s Managing Public Money guidance on measuring the annual cost of a service. ** (Reference: 6)
+S0065 The same costs have been applied to Scotland.
+S0066 Whilst this consultation asks whether there are categories of licence holder where some level of taxpayer subsidy might be warranted, the final fees will not include any cross-subsidisation (whereby one group of licence holders subsidises the cost of the service for another group).
+S0068 Home Office costs The estimated cost to the Home Office of providing the elements of the firearms licensing service for which fees are to be charged is £596,000 in 2016-17.
+S0069 Further information on costs is in the impact assessment published alongside this consultation.
+S0070 This figure is for all activities associated with the administration, decision-making and oversight of approving licence applications.
+S0071 Staff working on wider policy development, enforcement activities or licensing of activities outside the scope of this consultation are excluded.
+S0072 The cost comprises staff salaries (including employer pension and national insurance contributions), staff training costs and overheads such as accommodation, IT and HR services.
+S0073 It also includes development costs and annual running costs for a new online application system expected to be introduced before fees are implemented.
+S0074 The new online system will improve the service by making applying quicker and easier, allowing tracking of progress of applications and improving turn-around times for applicants.
+S0075 To calculate the cost attributable per licence, applications were split into the types set out in Figures 2 to 4, based on differences in the time taken to process them.
+S0076 An activity-based costing exercise was then carried out, estimating the time taken for each step of the process, in order to produce an estimate of the Home Office resource required to process each application type.
+S0077 Police costs In order to assess each licence application, the Home Office and Scottish Government commission police checks which may include background checks on named individuals, interviews, site visits and stock checks.
+S0078 The police therefore incur a cost for the work undertaken.
+S0079 Police costs for each of the licence types in Figures 2 to 4 were estimated based on the same unit costs for each step of the process used to set fees for police-administered firearms licences in April 2015. ** (Reference: 7)
+S0080 Proposed fees Proposed fees based on full cost recovery are set out below for the three licence groups.
+S0082 For illustrative purposes, the table shows the cost per year of each licence.
+S0084 All fees apply equally to applications made in England, Wales and Scotland.
+S0086 S5 dealer (grant – three year ):
+S0087 Duration: 3 years; Proposed fee: £1,860; Amount per year of licence: £620.
+S0088 S5 dealer (renewal): Duration: 3 years; Proposed fee: £1,710; Amount per year of licence: £570.
+S0089 S5 dealer (variation A): Proposed fee: £1,100; Amount per year of licence: N/A.
+S0090 S5 dealer (variation B): Proposed fee: £470; Amount per year of licence: N/A.
+S0091 S5 dealer (variation C): Proposed fee: £110; Amount per year of licence: N/A.
+S0092 DSEI exhibition dealer:
+S0093 Duration: Single event; Proposed fee: £1,100; Amount per year of licence: N/A.
+S0094 S5 carrier (grant): Duration: 3 years; Proposed fee: £1,320; Amount per year of licence: £440.
+S0095 S5 carrier (renewal): Duration: 3 years; Proposed fee: £1,220; Amount per year of licence: £407.
+S0096 S5 carrier (variation A): Proposed fee: £870; Amount per year of licence: N/A.
+S0097 S5 carrier (variation B): Proposed fee: £470; Amount per year of licence: N/A.
+S0098 S5 carrier (variation C): Proposed fee: £110; Amount per year of licence: N/A.
+S0099 Maritime security (grant): Duration: 1 year; Proposed fee: £2,420; Amount per year of licence: £2,4209.
+S0100 Maritime security (renewal): Duration: 3 years; Proposed fee: £2,130; Amount per year of licence: £710.
+S0101 Maritime security (variation A): Proposed fee: £870; Amount per year of licence: N/A.
+S0102 Maritime security (variation B): Proposed fee: £470; Amount per year of licence: N/A.
+S0103 Maritime security (variation C): Proposed fee: £110; Amount per year of licence: N/A.
+S0104 Maritime security (variation D): Proposed fee: £1,080; Amount per year of licence: N/A.
+S0105 Additional amount per armed guard: Duration: 1 year; Proposed fee: £110; Amount per year of licence: £110.
+S0106 Olympic shooter: Duration: 3 years; Proposed fee: £470; Amount per year of licence: £157.
+S0107 Trophy of war (heirloom) finder:
+S0108 Duration: temporary; Proposed fee: £470; Amount per year of licence: N/A.
+S0109 To avoid double charging, there will be a £200 discount for applicants who have applied to be a ‘Registered Firearms Dealer’ (RFD) at the same time as their prohibited weapons licence.
+S0110 RFDs are issued by the police for a fee of £200 and checks can be amalgamated with those for the prohibited weapons licence.
+S0111 DSEI firearms dealers are foreign defence and security companies issued with a temporary prohibited weapons licence to allow them to exhibit at the biannual Defence and Security Equipment International exhibition (DSEI) in London.
+S0112 S5 firearms carriers are only licensed to transport prohibited weapons.
+S0113 Because they do not store or trade in weapons the licensing process is less onerous.
+S0114 They are therefore treated separately from firearms dealers.
+S0115 Private Maritime Security Companies (PMSCs) are authorised by Home Office Ministers to enable their guards armed with prohibited firearms to protect UK-registered ships from piracy in the designated ‘high risk’ area.
+S0116 Guards are authorised under the company’s licence and not as individuals.
+S0117 Olympic shooters are licensed in very limited numbers to possess the pistol required for the Olympic target shooting discipline.
+S0118 This allows shooters to train and represent Great Britain at the Olympics and other events.
+S0119 Trophy of war finders are licensed to temporarily possess a prohibited weapon if they find one and wish to keep it whilst in the process of having it deactivated to sell or keep as a collector’s item.
+S0120 Variation A involves significant Government scrutiny and a police visit will be required, for example a new premises at which firearms will be stored or a significant new area of business.
+S0121 Variation B involves some Government scrutiny and a police check but no visit, for example a change to the named authority holder.
+S0122 Variation C is an administrative change, such as a name change.
+S0123 This is different to a change of the named authority holder where additional checks are necessary.
+S0124 Variation D is applicable to PMSCs only and involves authorising new guards, which requires police checks and ministerial agreement.
+S0125 Figure 3: Museum firearms licences Amount per year Application type Duration Proposed fee of licence Application type Duration Proposed fee of licence Museum (grant) 5 years £1,440 £288 Museum (renewal) 5 years £1,240 £248 Museum (variation A) £780 N/A Museum (variation B) £470 N/A Museum (variation C)
+S0126 £110 N/A Variation A involves significant Government scrutiny and a police visit will be required, for example a new premises at which firearms will be stored or a significant new area of business.
+S0127 Variation B involves some Government scrutiny and a police check but no visit, for example a change to the named authority holder.
+S0128 Variation C is an administrative change, such as a name change.
+S0129 This is different to a change of named authority holder where additional checks are necessary.
+S0130 Figure 4: Approved shooting clubs Amount per year Application type Duration Proposed fee of licence Application type Duration Proposed fee of licence Club (grant) 6 years £1,050 £175 Club (renewal) 6 years £900 £150 Club (variation A) £690 N/A Club (variation B) £470 N/A Club (variation C) £110 N/A Variation A involves significant Government scrutiny and a police visit will be required, for example a new premises at which firearms will be stored or a significant change to the business.
+S0131 Variation B involves some Government scrutiny and a police check but no visit, for example a change to named authority holder.
+S0132 Variation C is an administrative change, such as a name change.
+S0133 This is different to a change of names authority holder where additional checks are necessary.
+S0134 Groups affected by this consultation During the initial development of this consultation, the Home Office has given due consideration to the impact it will have on different groups.
+S0135 It does not consider that introducing new fees for firearms licences administered by the Home Office and the Scottish Government, as set out in this consultation paper, highlights any specific issues in relation to: Age Disability Gender Reassignment Marriage and Civil Partnership Pregnancy and maternity Race Religion or belief Sex Sexual orientation We will take account of the evidence gathered through this consultation in developing final policy proposals.
+S0193 £0.00m -£6.1m £0.7m No N/A
+S0199 Government intervention is needed to introduce fees to recover licensing costs.
+S0200 At the same time, the Government wants to increase existing fees for museum and shooting club firearms licences to full cost recovery level.
+S0203 The policy objective is to introduce a new fee structure in order to recover the costs associated with issuing prohibited firearm, museum firearm and shooting club licences.
+S0204 The intended effect is to eliminate the existing taxpayer subsidy of the service.
+S0207 Do nothing.
+S0209 Introduce fees for the issuance of prohibited firearms licences, and increase existing fees for museum and shooting clubs licences, so that the licence holder pays the full cost of the service.
+S0210 Option 2 is the Government’s preferred option, because it will allow costs associated with issuing firearms licences to be recovered.
+S0211 Under option 1, the taxpayer will continue to subsidise the service.
+S0231 Description: Consult on new fees for Home Office and Scottish Government firearms licences with a view to recovering costs currently falling to the taxpayer.
+S0236 Assuming fees are set at full cost recovery level as set out in the public consultation document, we estimate a cost to section 5 firearms dealers of £377,000 per year; a cost to DSEI exhibiting firearms dealers of £21,000 per year, a cost to section 5 firearms carriers of £136,000 per year; a cost to Private Maritime Security Companies of £63,000 per year; a cost to Olympic shooters of £2,200 per year; a cost to ‘trophy of war’ finders of £900 per year; a cost to museums of £32,000 per year; and a cost to shooting clubs of £81,000 per year.
+S0237 Other key non-monetised costs by ‘main affected groups’ There are no non-monetised costs associated with this policy.
+S0240 Assuming fees are set at full cost recovery level as set out in the public consultation document, we estimate a benefit to the Home Office of £596,000 per year; a benefit to the police of £69,000 per year; a benefit to the Scottish government of £42,000 per year; and a benefit to Police Scotland of £5,000 per year.
+S0242 Licence holders will benefit from a new online application system, due to be introduced in 2016, which will make it quicker and easier to apply and improve turn-around times.
+S0244 Key assumptions/sensitivities/risks Discount Rate: 3. The number of firearms licence applications remains the same across the intervention period as the annual average of the previous three years. ** (Reference: 14)
+S0245 The proportion of time spent on firearms licensing by the Drugs and Firearms Licensing Unit, both in total and on each component licensee groups, remains constant.
+S0247 The ratio of cost to number of applications in Scotland is the same as that identified for England & Wales.
+S0248 There is some uncertainty regarding application volumes.
+S0249 As a result these assumptions are tested in the sensitivity analysis in Section H to demonstrate the potential impacts on costs.
+S0251 Costs: 0. Benefits: 0.0 Net:- 0. No N/A ** (Reference: 16)
+S0253 Low: 0.00; High: 0.00; Best Estimate: 0.00.
+S0255 Fees for the service provided by the police were increased in April 2015 following a public consultation. The proposals in this impact assessment will not affect fees for shotguns and other non-prohibited (section 1 and 2) firearms, but instead seek to make parallel changes to introduce charging powers for prohibited firearms licences, and update existing charging powers for museum firearms licences and shooting club licences. ** (Reference: 10)
+S0267 This will bring arrangements in line with other licences which are already charged for.
+S0268 The Bill also amends existing charging powers for museum and shooting club licences under the Firearms (Amendment) Act 1988, ensuring consistency with the new s5 power so that all enabling powers provide flexibility to set fees at different rates for different services.
+S0269 The public consultation sets out the Government’s proposed fee levels for all Home Office and Scottish Government licence types.
+S0278 Section 5 firearms dealers The largest user of the prohibited firearms licensing service is section 5 firearms dealers.
+S0279 This covers any person who is registered in Great Britain under the 1968 Firearms Act who, by way of trade or business, manufactures, sells, transfers, repairs, tests or proves prohibited (s5) firearms or ammunition.
+S0280 For example dealers may manufacture or supply arms, components or services to the police or Ministry of Defence, or to military and police forces abroad.
+S0281 S5 firearms includes missiles, rockets and other projectiles, noxious gases, and vehicles and aircraft incorporating a ‘firearm’.
+S0282 Some firearms dealers will deactivate and trade in collector’s items or act as forensic experts.
+S0283 Foreign defence companies exhibiting at the London Defence and Security Equipment International exhibition (DSEI) may also require a Home Office licence and have been included under this category.
+S0284 These examples are not exhaustive.
+S0285 Dealers in non-prohibited firearms such as shotguns only require a Registered Firearms Dealer certificate from the police and do not need a Home Office or Scottish Government licence.
+S0286 As at 31 March 2015 there were 3,422 police-registered firearms dealers in England, Wales and Scotland. ** (Reference: 13)
+S0287 As at 31 December 2015 there were an estimated 587 section 5 authorised dealers in prohibited firearms. ** (Reference: 14)
+S0288 DSEI firearms dealers Foreign defence and security companies exhibiting at the biannual Defence and Security Equipment International exhibition (DSEI) in London may also require a Home Office licence if they need to possess prohibited weapons in the UK as part of the exhibition.
+S0289 In 2015 temporary prohibited weapons licences were granted to 36 companies for the purpose of exhibiting at the DSEI.
+S0290 Section 5 firearms carriers Some companies are authorised only for the transport of s5 firearms.
+S0291 These include airlines, shipping companies and freight / logistics companies.
+S0292 Because they do not store or trade in weapons the licensing process is less onerous.
+S0293 As at 31 December 2015 there were an estimated 321 s5 authorised carriers. ** (Reference: 15)
+S0294 Private Maritime Security Companies Private Maritime Security Companies (PMSCs) are authorised by the Home Office to enable their guards to be armed with prohibited firearms to protect UK ships from piracy in the designated ‘high risk’ areas.
+S0295 Guards are authorised under the company’s licence and not as individuals.
+S0296 All applications, including those by Scottish companies, are managed by the Home Office.
+S0297 As at 31 December 2015 there were 12 authorised PMSCs. ** (Reference: 16)
+S0298 Employees of dealers, carriers and PMSCs Employees of s5 authorised companies will need to be vetted if they have access to firearms.
+S0299 Armed guards working for PMSCs are vetted.
+S0300 However, because vetting of employees is only undertaken as part of an organisation’s application, the individual is not (in most circumstances) required to apply for a licence and will not be charged any fee.
+S0301 Employees are therefore unlikely to be affected directly by the introduction of fees.
+S0302 As at 31 December 2015, there were 322 authorised maritime armed guards. ** (Reference: 17)
+S0303 The Government does not cap the number of employees working for other licence holders and therefore the number is not recorded centrally.
+S0304 Museums Museums may have collections of non-prohibited or prohibited firearms, either on display or in storage.
+S0305 The museums licence covers all firearm types.
+S0306 As at 31 December 2015 there were 164 authorised museums. ** (Reference: 18)
+S0307 Five of the museums currently licensed are national museums.
+S0308 National museums are part funded by a direct grant from the Government.
+S0309 Shooting clubs Shooting clubs may make non-prohibited firearms available to their members, or provide facilities for members to use their own weapons.
+S0310 Members must acquire an individual firearms certificate from the police for any weapons they own, but do not need a certificate to shoot using firearms provided by a approved club.
+S0311 Schools with shooting clubs or military cadet schemes also come under this category and operate in the same way.
+S0312 As at 31 December 2015, there were 434 approved shooting clubs. ** (Reference: 19)
+S0313 Other There is nothing in law defining who can acquire a prohibited (s5) firearms licence – it is a matter of Government policy.
+S0314 The categories listed at figure 1 are the most common.
+S0315 ‘Other’ comprises the GB Olympic and Commonwealth shooting teams and historical weapons found and kept as trophies of war.
+S0316 It is possible further groups could emerge in the future, for example granting of licences to maritime security companies was only introduced following a decision by the Prime Minister in 2011.
+S0317 The Government proposes using the enabling powers under the Policing and Crime bill (once enacted) to introduce fees for prohibited firearms licences issued by the Home Office and the Scottish Government.
+S0318 The public consultation sets out proposed fees with a view to licence holders paying the full cost of the service.
+S0319 This is in line with the position set out in HM Treasury’s ‘Managing Public Money’ guidance. Prohibited firearms licences are currently free of charge, and therefore fully subsidised by the taxpayer, because there was previously no power in primary legislation to charge a fee. ** (Reference: 20)
+S0320 Introducing fees for prohibited firearms licences will also eliminate inconsistency and cross-subsidies across the licensing regime.
+S0321 Following a 2010 recommendation by the Home Affairs Select Committee and a public consultation in 2014, fees for non-prohibited firearms licences (administered by the police) were increased in April 2015.
+S0326 The Policing and Crime Bill amends existing enabling powers so that they provide enough flexibility to set fees at different rates for different services.
+S0327 These amendments bring existing powers in line with the new s5 power to give a consistent set of charging powers.
+S0328 The consultation document, based on the new unified charging powers, sets out a detailed proposed fee regime which ensures applicants only pay the cost of what they use.
+S0332 Government intervention is needed to allow some or all of this cost to the taxpayer to be recovered once fees are implemented through secondary legislation, expected to be in 2017.
+S0333 A more detailed breakdown of cost estimates can be found in Section E. C. Policy objective The policy objective is to eliminate public subsidy of the licensing service.
+S0334 In common with many other licensing regimes, the Government considers that the costs of the firearms licensing regime should properly be attributed to the organisations benefiting from the licence, and not the taxpayer.
+S0335 Charging will ensure the real economic cost of safeguarding high risk activities is considered by licence holders.
+S0336 Fees will enable us to fund the cost of providing an improved service once the proposed online application system is introduced.
+S0338 The Policing and Crime Bill introduces a set of flexible enabling powers, applicable to all firearms licences issued by the Home Office and Scottish Government (prohibited firearms licences, museum firearms licences and shooting club licences).
+S0339 The public consultation sets out proposed fee levels.
+S0341 Option 1: Do nothing Prohibited firearms licences remain free of charge because there is no legal power to charge.
+S0342 The taxpayer continues to subsidise the full cost of the Home Office and Scottish prohibited firearms licensing services.
+S0343 Museum and shooting club fee levels remain at current levels with the vast majority of the cost subsidised by the taxpayer.
+S0344 Option 2: Introduce new fees across all licence types Introduce a new fee structure so that licence holders pay the full cost of the service, rather than the taxpayer.
+S0345 The proposed fee structure is set out in this public consultation and the costs and benefits estimated in this impact assessment.
+S0348 General assumptions and data The public consultation sets out proposed fees that would recover in full the cost of issuing each type of licence.
+S0349 This impact assessment estimates the cost and benefit to each affected group of the proposed fees.
+S0351 The Home Office and police costs set out below have been estimated in line with HM Treasury’s Managing Public Money guidance on measuring the annual cost of a service. The fee structure aims to ensure the fee for each type of licence is equal to the cost of providing the service. ** (Reference: 24)
+S0352 The public consultation asks whether there are groups of licence holders where a continuing taxpayer subsidy should apply.
+S0353 It is not our present intention to charge any reduced rates, however, if evidence in the consultation supports this option, any percentage reduction would simply result in a corresponding percentage decrease in the costs and benefits shown.
+S0354 In the interests of proportionality we have not set out all the possible permutations and effects on costs and benefits here.
+S0355 Regardless of any possible reductions, the final fees will not include any cross subsidisation (whereby one group of licence holders subsidises the cost of the service for another group).
+S0356 Indirect costs and benefits, for example if licence holders reduce their own cost by passing it on through a supply chain or to the end consumer, have not been considered in this impact assessment.
+S0357 We assume all costs are borne by the licence holder.
+S0358 It is assumed that numbers of applicants for new licences, and renewals of and variations to existing licences, will be equal to the average annual number of applications in the previous three years and not significantly influenced by the proposed fee changes.
+S0359 These figures are set out in Figure 1 of Section A.1.
+S0360 Further information on expected year-by-year application volumes is in the sensitivity analysis on page 17-18.
+S0361 It is assumed that the 8% estimate for withdrawn or refused applications applies equally across all application types.
+S0362 In reality attrition rates may vary by application type but this data is not available.
+S0363 Similarly, it is assumed that the amount of time spent by the Home Office on relevant applications remains constant.
+S0364 (In reality fee levels will be reviewed again before implementation in 2017, and regularly thereafter, to ensure any efficiency savings arising from future policy or system changes are accounted for and passed on to business.)
+S0365 It is also assumed that the cost to application volume ratio for England & Wales holds for Scottish applications.
+S0366 The majority of costs have been estimated using 2016-17 data.
+S0367 Where data from other years has been used this is indicated, with the figures uplifted to 2016-17 prices.
+S0368 Where presented, ten year net present values have been rounded to the nearest £10,000.
+S0369 Annual costs to public sector bodies, to businesses and civil society organisations are rounded to the nearest £1,000 in final calculations.
+S0373 Cost breakdown Home Office costs The estimated expenditure by the Home Office in providing the entire firearms licensing service in 2016-17 is £691,400.
+S0374 The licensing regime is administered by the Drugs and Firearms Licensing Unit in the Crime Policing and Fire Group of the Home Office.
+S0375 This figure is for all activities associated with the administration, decision-
+S0376 making and oversight of approving licence applications, as well as providing advice and correspondence with licence holders, and policy work directly relating to the application process for example designing new forms or reviewing the licensing process.
+S0377 Staff working on wider policy development and enforcement activities have been excluded.
+S0378 The £691,400 comprises staff salaries (including employer pension and national insurance contributions), staff training costs, overheads such as accommodation, IT and HR services, and development costs and annual running costs for a new online application system expected to be introduced before fees are implemented.
+S0379 The new online system will improve the service by making applying quicker and easier and improving turn around times for applicants.
+S0380 The total cost to the Home Office of processing each licence type is set out in Figure 2.
+S0381 The fees amounts set out in the consultation document comprise these costs, plus police costs, and would recover those costs in full.
+S0382 Figure 2
+S0383 Museum first time: Number of applications (3 year average): 1.4; Cost to Home Office per licence: 1,129; Total cost to Home Office: 1,524.
+S0384 Museum renewal: Number of applications (3 year average): 25.7; Cost to Home Office per licence: 931; Total cost to Home Office: 23,888.
+S0385 Museum variation A: Number of applications (3 year average): 3.8; Cost to Home Office per licence: 659; Total cost to Home Office: 2,472.
+S0386 Museum variation B: Number of applications (3 year average): 0.8; Cost to Home Office per licence: 381; Total cost to Home Office: 286.
+S0387 Museum variation C: Number of applications (3 year average): 1.0; Cost to Home Office per licence: 113; Total cost to Home Office: 113.
+S0388 MUSEUMS:
+S0389 Number of applications (3 year average): 32.5; Total cost to Home Office: 28,282.
+S0390 Club first time: Number of applications (3 year average): 42.9; Cost to Home Office per licence: 887; Total cost to Home Office: 38,100.
+S0391 Club renewal: Number of applications (3 year average): 18.4; Cost to Home Office per licence: 770; Total cost to Home Office: 14,174.
+S0392 Club variation A: Number of applications (3 year average): 11.7; Cost to Home Office per licence: 569; Total cost to Home Office: 6,676.
+S0393 Club variation B: Number of applications (3 year average): 11.7; Cost to Home Office per licence: 381; Total cost to Home Office: 4,471.
+S0394 Club variation C: Number of applications (3 year average): 93.9; Cost to Home Office per licence: 113; Total cost to Home Office: 10,576.
+S0395 CLUBS:
+S0396 Number of applications (3 year average): 178.7; Total cost to Home Office: 73,997.
+S0397 Dealer first time: Number of applications (3 year average): 57.3; Cost to Home Office per licence: 1,552; Total cost to Home Office: 88,968.
+S0398 Dealer renewal: Number of applications (3 year average): 138.3; Cost to Home Office per licence: 1,397; Total cost to Home Office: 193,203.
+S0399 Dealer variation A 34. 969 33,248 Dealer variation B 68. 381 26,140 Dealer variation C 11. 113 1,288 DEALERS 310.0 342,846 Carrier first time 24. 1,097 27,051 Carrier renewal 82. 992 81,702 Carrier variation A 14. 752 11,059 Carrier variation B 14. 381 5,601 Carrier variation C 12. 113 1,420 CARRIERS 149.0 126,834 PMSC first time 2.0 2,193 4,385 PMSC renewal 5.0 1,905 9,523 PMSC variation ** (Reference: 12, 13, 15, 16)
+S0400 A 18.0 1,083 19,495 PMSC variation B 1.0 752 752 PMSC variation C 1.0 381 381 PMSC variation D 0.0 111 0
+S0401 Additional Guard 296.0 87 25,727 PMSCs 323.0 60,264 DSEI 21. 969 20,679 Olympic shooter 5.0 381 1,905 Trophy of War 2.0 381 762 ** (Reference: 12)
+S0402 Protection officers 61. 250 15,320 Police training 18.0 250 4,496 French police 64.0 250 15,986 DIPLOMATIC 143. 35,803 TOTAL £691,400 To calculate the cost to the Home Office per licence, licence applications were split into the types set out in Figure 2, based on anticipated differences in the time taken to process. ** (Reference: 12)
+S0403 The different categories of variation (A to C) are based on the degree of significance of the change.
+S0404 Typically variation A is a significant change requiring Home Office scrutiny and further police visits, variation B is a moderate change requiring some scrutiny and police checks, and variation C is an administrative change.
+S0405 A time driven activity-based costing exercise was then carried out to provide an estimate of the Home Office resource used to process each application type. ** (Reference: 25)
+S0406 The budget expenditure (£691,400), divided by the total units of resource used across all applications, gives a cost per unit of resource.
+S0407 This was used to calculate the cost to the Home Office of processing a licence for each application type.
+S0408 A proportion of expenditure (£35,800) is assigned to processing diplomatic licences, based on the units of resource used (identified in the activity based costing exercise).
+S0409 These include French police working across the channel tunnel, and protection officers accompanying foreign dignitaries.
+S0410 These are not charged for, as they are typically part of a reciprocal arrangement, so the Home Office is likely to continue to pay this cost.
+S0411 The presented cost to each affected group consists of the cost to the Home Office in Figure 2 above.
+S0412 The cost to museums and shooting clubs has been calculated in the same way, minus income from existing fees.
+S0413 Existing fees are £200 per museum licence, of which the Home Office receives £75 and the police £125, and £84 per shooting club licence, of which the Home Office receives the whole amount.
+S0414 Detailed calculations by affected group are at figures E3 to E8.
+S0415 The total cost to the Home Office for activities in scope (excluding diplomatic licences) is therefore £656,000, of which £7,500 is covered by existing fees, giving a total cost for the preferred option of £648,000 per annum in cost to the Home Office.
+S0416 The calculations at Annex E also deduct 8% to account for rejected or withdrawn applications which are unlikely to be charged for, giving a final figure of £596,000.
+S0417 Scottish Government costs The estimated expenditure by the Scottish Government in providing the relevant firearms licensing services in 2015-16 was £42,000. Because firearms legislation is reserved, Scotland will be subject to the same fee levels as those introduced in England & Wales. ** (Reference: 26)
+S0418 Therefore the cost to affected groups will be the same as in England & Wales, and is only adjusted to account for the reduced number of applications received in Scotland as opposed to England & Wales.
+S0419 Scotland receives on average 40 applications a year for prohibited firearms licences, in addition to the 516 applications in England & Wales.
+S0420 This represents an additional 8% on top of application volumes for England & Wales. ** (Reference: 27)
+S0421 We assume this ratio applies across all application types.
+S0422 Therefore the cost to Scotland is 8% of the Home Office costs for each affected group.
+S0423 The £42,000 total was reached by adding the amounts by affected group, set out at figures E3 to E8.
+S0424 Police E&W costs In order to assess each licence application, the Home Office commissions police checks which may include background checks on named individuals, interviews, site visits and stock checks.
+S0425 The police therefore incur a cost for the work undertaken on the Home Office’s behalf.
+S0426 The police budget expenditure on Home Office firearms licensing is not known so, as an appropriate alternative, costs have been estimated based on unit costs used to set new fees for police administered firearms licences in April 2015. ** (Reference: 28)
+S0427 Work with a small sample of forces was then undertaken to produce estimates of how these unit costs apply to the work undertaken by forces on each of the Home Office licence types.
+S0428 Estimates are set out in Figure 3.
+S0429 We estimate that 80% of firearms dealers and carriers applying for a Home Office licence apply for a Registered Firearms Dealer certificate (RFD) from the police at the same time. ** (Reference: 29)
+S0430 The cost to the police for these applicants is therefore only for additional work over and above the RFD process.
+S0431 The RFD is subject to an existing fee of £200.
+S0432 Therefore the cost to the police for 80% of dealer applications is £310 - £200 = £110.
+S0433 The cost for 80% of carrier applications is £230 - £200 = £30.
+S0434 For the other 20%, and for all PMSCs and museums, the cost to the police is for the full amount.
+S0435 Figure 3 Home Office firearms licence Estimated police costs per application (renewal and grant)
+S0436 Estimated police costs per application (variation type A)
+S0437 Estimated police costs per application (variation type B)
+S0438 Estimated police costs per application (variation type C)
+S0439 Estimated police costs over and above work already completed for RFD £230 N/A £120 £90 £0 S5 firearms dealer £310 £110 £120 £90 £0 S5 firearms carrier £230 £30 £120 £90 £0 DSEI dealer £90 N/A N/A N/A Private Maritime £230 N/A £120 £90 £0 Security Company Based on our estimate of the police cost per licence type as outlined above, multiplied by the average number of licence applications in figure 2, the cost per affected group has been calculated and is set out at figures E1 to E8.
+S0440 This gives a total cost to the police of £69,000, which is reached by adding the amounts per affected group.
+S0441 Police Scotland On the same basis as for the Scottish Government, we assume an additional 8% of the costs to police in England & Wales per affected group are borne by Police Scotland. This gives a total cost to Police Scotland of £5,000 which can be reached by adding the cost per affected group set out at figures E1 to E8. ** (Reference: 30)
+S0442 Option 1: Do nothing COSTS There are no additional costs under this option.
+S0443 The Home Office, Scottish Government and police forces will continue to subsidise the full cost of the prohibited firearms licensing process, at an average estimated cost of £665,000 (England & Wales) and £47,000 (Scotland).
+S0444 These figures exclude the cost of diplomatic licences and withdrawn applications which we do not intend to charge for.
+S0445 This represents a total subsidy of £712,000 annually.
+S0446 BENEFITS There are no additional benefits under option 1.
+S0447 Option 2: Introduce new fees across all licence types COSTS The public consultation sets out proposed fees that would recover in full the cost of issuing each type of licence.
+S0448 These estimates assume fees are introduced at the levels set out in the consultation.
+S0449 Actual fee levels will be set in secondary legislation once responses to the consultation have been considered, and enabling powers passed by Parliament.
+S0450 Costs have been assessed annually, based on expected applications each year.
+S0451 However licences typically last for 3, 5 or 6 years, so from the perspective of an applicant, costs arise every 3, 5 or 6 years.
+S0452 The costs identified for each affected group are based on initial estimates of the cost to the Home Office and England & Wales police forces of carrying out licensing activities.
+S0453 Because gun control is a reserved matter, any fees will be set at the same level for Scotland.
+S0454 We have estimated the cost to each affected group in Scotland to be 8% of that identified for England & Wales, because Scotland receives approximately 8% of the number of applications that England & Wales does each year.
+S0455 The costs to each group have been reduced by 8% to account for the estimated 8% of applications which are refused or discontinued, for which we do not currently expect to charge. ** (Reference: 31)
+S0456 Costs for refused and discontinued applications will continue to be borne by the Home Office, Scottish Government and the police.
+S0457 Museum: £310; N/A; £120; £90; £0.
+S0458 Shooting club: £170 (£130 renewal); N/A; £120; £90; £0.
+S0459 Olympic Shooter: £90; N/A; N/A; N/A; N/A.
+S0460 Trophy of war finder: £90; N/A; N/A; N/A; N/A.
+S0461 The following sections, with their respective Figures (E1 – E8), provide a breakdown of the proportion of costs that would representatively be born by each licensee group.
+S0462 The figures give our estimates of the cost to business groups in England, Wales and Scotland.
+S0463 Section 5 firearms dealers If fees were introduced at full cost recovery level as proposed in the consultation document, then based on the costs in Figures 2 and 3 multiplied by the assumed number of applications in Figure 2 there would be an annual cost to Section 5 firearms dealers, as outlined in Figure E1.
+S0464 Figure E1.
+S0465 Cost element Value Home Office licence service costs £343,000 (as set out on pages 8-9)
+S0466 Police costs £37,000 (as set out on page 10) ** (Reference: 32)
+S0467 Scottish government costs £27,000 (additional 8% of E&W)
+S0468 Police Scotland costs £3,000 (additional 8% of E&W)
+S0469 Total £410,000 Total (minus 8% for refused/withdrawn £377,000 applications not charged for) ** (Reference: 33)
+S0470 This is an estimated cost of £3.25m over 10 years in present values.
+S0471 DSEI firearms dealers If fees were introduced at full cost recovery level as proposed in the consultation document, then based on the costs in Figures 2 and 3 multiplied by the assumed number of applications in Figure 2 there would be an annual cost to DSEI firearms dealers, as outlined in Figure E2.
+S0472 Figure E2.
+S0473 Cost element Value Home Office licence service costs £21,000 (as set out on pages 8-9)
+S0474 Police costs £2,000 (as set out on page 10)
+S0475 Scottish government costs - (additional 8% of E&W)
+S0476 Police Scotland costs - (additional 8% of E&W)
+S0477 Total £23,000 Total (minus 8% for refused/withdrawn £21,000 applications not charged for)
+S0478 This is an estimated cost of £0.18m over 10 years in present values.
+S0479 Section 5 firearms carriers If fees were introduced at full cost recovery level as proposed in the consultation document, then based on the costs in Figures 2 and 3 multiplied by the assumed number of applications in Figure 2 there would be an annual cost to Section 5 firearms carriers, as outlined in Figure E3.
+S0480 Figure E3.
+S0481 Cost element Value Home Office licence service costs £127,000 (as set out on pages 8-9)
+S0482 Police costs £10,000 (as set out on page 10) ** (Reference: 34)
+S0483 Scottish government costs £10,000 (additional 8% of E&W)
+S0484 Police Scotland costs £800 (additional 8% of E&W)
+S0485 Total £148,000 Total (minus 8% for refused/withdrawn £136,000 applications not charged for) ** (Reference: 35)
+S0486 This is an estimated cost of £1.17m over 10 years in present values.
+S0487 Private Maritime Security Companies (PMSCs)
+S0488 If fees were introduced at full cost recovery level as proposed in the consultation document, then based on the costs in Figures 2 and 3 multiplied by the assumed number of applications in Figure 2 there would be an annual cost to Private Maritime Security Companies, as outlined in Figure E4.
+S0489 Figure E4.
+S0490 Cost element Value Home Office licence service costs £60,000 (as set out on pages 8-9)
+S0491 Police costs £8,000 (as set out on page 10)
+S0492 Scottish government costs* - (additional 8% of E&W)
+S0493 Police Scotland costs* - (additional 8% of E&W)
+S0494 Subtotal £68,000 Total (minus 8% for refused/withdrawn £63,000 applications not charged for)
+S0495 Olympic shooters If fees were introduced at full cost recovery level as proposed in the consultation document, then based on the costs in Figures 2 and 3 multiplied by the assumed number of applications in Figure 2 there would be an annual cost to British Shooting, the organisation representing the GB Olympic and Commonwealth shooting teams, as outlined in figure E5.
+S0496 Figure E5.
+S0497 Cost element Value Home Office licence service costs £1,900 (as set out on pages 8-9)
+S0498 Police costs £400 (as set out on page 10)
+S0499 Scottish government costs* - (additional 8% of E&W)
+S0500 Police Scotland costs* - (additional 8% of E&W)
+S0501 Total £2,300 Total (minus 8% for refused/withdrawn £2,200 applications not charged for)
+S0502 This is an estimated cost of £0.02m over 10 years in present values.
+S0503 *There are no additional costs for Scotland as they come under the GB team.
+S0504 Trophy of War If fees were introduced at full cost recovery level as proposed in the consultation document, then based on the costs in Figures 2 and 3 multiplied by the assumed number of applications in Figure 2 there would be an annual cost to individuals who find ‘trophy of war’ firearms, as outlined in figure E6.
+S0505 Figure E6.
+S0506 Cost element Value Home Office licence service costs £760 (as set out pages 8-9)
+S0507 Police costs £170 (as set out on page 10)
+S0508 Scottish government costs* £60 (additional 8% of E&W)
+S0509 Police Scotland costs* £10 (additional 8% of E&W)
+S0510 Total £1,000 Total (minus 8% for refused/withdrawn £900 applications not charged for)
+S0511 This is an estimated cost of £0.01m over 10 years in present values.
+S0512 Museums
+S0513 If fees were introduced at full cost recovery level as proposed in the consultation document, then based on the costs in Figures 2 and 3 multiplied by the assumed number of applications in Figure 2 there would be an annual cost to museums with firearms collections, as outlined in Figure E7.
+S0514 Figure E7.
+S0515 Cost element Value Home Office licence service costs £26,000 (as set out pages 8-9) ** (Reference: 36)
+S0516 Police costs £6,000 (as set out on page 10) ** (Reference: 37)
+S0517 Scottish government costs £2,300 (additional 8% of E&W)
+S0518 Police Scotland costs £400 (additional 8% of E&W)
+S0519 Total £34,000 Total (minus 8% for refused/withdrawn £32,000 applications not charged for) ** (Reference: 38)
+S0520 This is an estimated cost of £0.27m over 10 years in present values.
+S0521 Five of the museums currently licensed are national museums that are part funded by a direct grant from the Government.
+S0522 Shooting clubs If fees were introduced at full cost recovery level as proposed in the consultation document, then based on the costs in Figures 2 and 3 multiplied by the assumed number of applications in Figure 2 there would be an annual cost to approved shooting clubs, as outlined in Figure E8.
+S0523 Figure E8.
+S0524 Cost element Value Home Office licence service costs £69,000 (as set out pages 8-9) ** (Reference: 39)
+S0525 Police costs £12,000 (as set out on page 10)
+S0526 Scottish government costs £6,000 (additional 8% of E&W)
+S0527 Police Scotland costs £1,000 (additional 8% of E&W)
+S0528 Total £88,000 Total (minus 8% for refused/withdrawn £81,000 applications not charged for) ** (Reference: 40)
+S0529 This is an estimated cost of £0.70m over 10 years in present values.
+S0530 Costs to business As demonstrated, the impact on business is expected be small, because firearms licences for higher risk activities are a specialist area of interest.
+S0531 The total cost to business including civil society organisations is estimated to be equal to the cost of providing the firearms licensing service for these organisations.
+S0532 This approach is in line with HM Treasury’s Managing Public Money guidance. ** (Reference: 41)
+S0533 The total cost to business (dealers including DSEI, carriers and PMSCs) and civil society organisations (museums and shooting clubs) is estimated to be £709,000 annually. ** (Reference: 42)
+S0534 This is an estimated cost of £6.10m over 10 years in present values.
+S0535 Total cost All groups newly making payment for licences under these proposals will face a small additional cost in terms of the time taken to make payment via entry of payment information.
+S0536 However, this is expected to be negligible given that businesses are already required to enter information which typically accompanies payment; only relevant financial account details are needed in addition.
+S0537 The total cost to all licence holders (including businesses, civil society organisations and others) from option 2 is £712,000 annually. ** (Reference: 38)
+S0538 This is an estimated cost of £6.13m over 10 years in present values.
+S0539 BENEFITS Home Office, Scottish Government and police There will be an annual saving to the tax payer of up to £712,000.
+S0540 The income, previously spent on subsidising the licensing process, would be split between the Home Office, Scottish Government and police forces.
+S0541 As set out earlier in Section E, under ‘Total cost of Section 5 prohibited firearm, museum and shooting club licensing’ this saving will come from four sources.
+S0542 Firstly the total benefit to the England & Wales police is estimated at £69,000 annually and secondly the total benefit to Police Scotland is estimated at £5,000 annually.
+S0543 Thirdly the total benefit to the Home Office is estimated at £596,000 annually and fourthly the total benefit to the Scottish Government at £42,000 annually.
+S0544 The total benefit to the police from option 2 is £0.64m in present values over 10 years.
+S0545 The total benefit to the Home Office and Scottish Government from option 2 is £5.50m in present values over 10 years.
+S0546 The total benefit from option 2 is £6.13m in present values over 10 years. ** (Reference: 43)
+S0547 Licence holders The Home Office plans to introduce a new online application system before fees are implemented.
+S0548 The new system is intended to provide benefits to licence holders by making applying quicker and easier and improving turn around times for applicants.
+S0549 The online system may also produce efficiency savings for the Home Office.
+S0550 These savings would be passed on to applicants through reduced fees.
+S0551 Because the online system is yet to be procured, we have not attempted to quantify its benefits here.
+S0552 An assessment will be provided at secondary legislation stage.
+S0553 Fee levels will be reviewed before implementation, and regularly thereafter, to ensure any efficiency savings arising from the new system are passed on to licence holders.
+S0554 It is expected that time efficiencies through ease of application under the new system will more than outweigh the minimal additional cost to licence holders of time taken in making payment for licenses from these proposals.
+S0555 NET PRESENT VALUE Figure E9 presents the net present value over ten years of option 2, based on best estimates.
+S0556 The net present value is zero as the policy is designed to enable full cost recovery; as expected, the estimated costs and benefits are equal.
+S0557 Figure E9.
+S0558 Best Estimate
+S0559 Option 1: Do nothing There has been media and Parliamentary criticism of the public subsidising firearms licences administered by the police, at a time when public spending needs to be reduced.
+S0560 These fees were increased to full cost recovery in April 2015.
+S0561 Without a power to charge for prohibited firearms licences, the taxpayer and existing fee payers will subsidise this aspect of licensing to an increasing degree as costs increase over time.
+S0562 Option 2: Introduce a new set of enabling powers to allow fees to be charged There is a risk that small companies whose trade involving prohibited weapons is low value could stop this aspect of business activity if profit is not high enough to justify the cost of the licence.
+S0563 Equally, museums and shooting clubs whose activities requiring a firearms licence are of low value to the public or club members may stop those activities because the cost of the licence is not justified.
+S0564 To demonstrate the effect of possible uncertainty in some of the assumptions used in the analysis for option 2 we have conducted a sensitivity analysis.
+S0565 This shows the effect of variation in our estimate of the number of applications made by each affected group.
+S0566 There is some variation in the number of applications each year, due to a peak every three years caused by the renewal cycle.
+S0567 The last time this peak occurred, in 2013, 844 applications were received, which exceeds the 3 year average (734) by 15%.
+S0568 An upper bound of +15% has been set out below to account for this peak.
+S0569 There were 692 applications in 2012, 654 in 2014 and 674 in 2015, showing a decrease of 3% between 2012 and 2015.
+S0570 Data does not go back further than 2012, although anecdotally, the Home Office casework team report application numbers have been steady for several years.
+S0571 Our best estimate of year-on-year increase is therefore 0%.
+S0572 This uncertainty has been assumed to apply equally to Scotland, as fees will be set at the same level in Scotland.
+S0573 Figure H1 outlines these uncertainties.
+S0574 Figure H1.
+S0575 Uncertainty Best Low High Application numbers (+15%) 0% 0% +15% Figure H2 shows the impact on annual costs to each affected group at the upper and lower bound.
+S0576 Figure H2.
+S0577 Effect of variation in application numbers on affected application numbers on affected Best Low High groups Section 5 firearms dealers £377,000 £377,000 £433,000 DSEI dealers £21,000 £21,000 £24,000 Section 5 firearms carriers £136,000 £136,000 £157,000
+S0578 Net Present Cost (Over 10 Years): £6.13m.
+S0579 Net Present Benefit (Over 10 Years): £6.13m.
+S0580 Net Present Value (Over 10 Years): £0.00m.
+S0581 Private Maritime Security Companies £63,000 £63,000 £72,000 Museums £32,000 £32,000 £36,000 Shooting clubs £81,000 £81,000 £93,000 TOTAL COST TO BUSINESS / CIVIL SOC.
+S0582 GROUPS £709,000 £709,000 £815,000 Olympic shooters £2,100 £2,100 £2,500 Trophy of war £900 £900 £1,100 TOTAL COST TO ALL AFFECTED GROUPS £712,000 £712,000 £819,000 ** (Reference: 44)
+S0583 The results from the sensitivity analysis show overall costs (and benefits) could vary between £712,000 and £819,000 dependent on changes to underlying assumptions.
+S0584 Figure H3 presents the range of total annual cost estimates in net present values 10 years.
+S0585 Figure H3.
+S0586 Best Low High Net Present Cost (Over 10 Years) £6.13m £6.13m £7.05m Net Present Benefit (Over 10 Years) £6.13m £6.13m £7.05m Net Present Value (Over 10 Years) £0.00m £0.00m £0.00m A sustained reduction in application numbers over time might result in an equivalent reduction in staff numbers.
+S0587 However, this would not effect fee levels because the cost per application remains unchanged.
+S0588 Revisions to our estimates of the proportion of time spent on each application type are also possible.
+S0589 We have not included this aspect in our sensitivity analysis because of the interdependence between application types - an increase in the estimated proportion of time spent on one application type means a corresponding decrease in all the others.
+S0590 Therefore there is no overall effect on the magnitude of costs.
+S0591 BUSINESS IMPACT TARGET The proposal to increase fees for firearms licensing in order to attain cost recovery, in line with HMT’s guidance, would not be considered a regulatory provision under the s. Small Business, Enterprise and Employment Act 2015. ** (Reference: 31)
+S0592 Therefore, the measure is considered to be not in scope for the Business Impact Target.
+S0600 2: Costs to business from increased fees of £6.10m (PV over 10 years) Costs to non-business from increased fees of £0.03m (PV over 10 years); Savings to Home Office and police (and by extension the taxpayer) who previously subsidised the licensing process: • Home Office and Scottish Government: £5.50m (PV over 10 years) • Police (England, Wales and Scotland): £0.64m (PV over 10 years).

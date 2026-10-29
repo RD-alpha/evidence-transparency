@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Notice period and communications strategy",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The ten-year notice commitment and communications plans are asserted as commitments and reasoning (e.g. 'in practical terms individuals need time to prepare'), with no statistic, finding or cited source showing the approach will work or why ten years was chosen; no references are attached."
+    },
+    {
+      "theme": "Supporting people who cannot work longer and the wider package",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim rests on agreement with Cridland's view and an assertion that 'the welfare system already provides protection', with no data or cited findings, and the mention of the health and work consultation names it without saying what it showed."
+    },
+    {
+      "theme": "Legislative process and parliamentary scrutiny",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines describe the legislative requirement and the decision to defer legislation for a further review, without evidence on how the rollout will work or why the details were set as they are."
+    },
+    {
+      "theme": "Review evidence and independent reporting",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Lines on the Government Actuary's report and the Independent Report (published 23 March 2017) name the evidence and what each covers, but there are no references or links and no findings are reported or assessed."
+    }
+  ],
+  "reasoning": "The two core themes are the ten-year notice and communications strategy, and the wider package of support for those who cannot work longer. Both are scored 0. The notice theme gives commitments and reasoning: 'We will also seek to provide a minimum of ten years' notice' and 'in practical terms individuals need time to prepare'. No data, research or comparable experience is offered to show why ten years was chosen or that the communications approach will work. It also carries no references. The support theme rests on agreement with Cridland and on the assertion that 'the welfare system already provides protection for those who fall out of the labour market'. It mentions the 'recent consultation on health and work' without saying what it found, and it defers Cridland's recommendations to 'future consideration'. Both are therefore level 0, and the mean is 0, so the score is 0. The strongest counter-example is the non-core theme on review evidence. It names the Government Actuary's report and the Independent Report (published 23 March 2017) and says what they cover, so it reaches level 1. Those reports concern when the age should rise, not how the rollout will be delivered, so they do not support the core claims. To reach level 1 the document would need to set out evidence for the notice period and for the support package, such as findings on how much time people need to plan or what the health and work consultation found. To reach level 2 it would also need to cite that evidence with references or links.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

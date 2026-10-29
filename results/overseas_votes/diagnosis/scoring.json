@@ -1,0 +1,22 @@
+{
+  "theme_scores": [
+    {
+      "theme": "The 15-year rule",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Line 3 simply describes the current rule (the 15-year cut-off and the registration mechanism) with reference 1 only clarifying eligibility for European elections, not providing evidence of a problem or its scale/effects."
+    },
+    {
+      "theme": "Exclusion of the never-previously-registered",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The two lines describe the current rule and an exception for those too young to register, with no statistic, finding, or source offered to show the scale or effect of this exclusion."
+    }
+  ],
+  "reasoning": "Both themes are core to the diagnosis, since the argument for reforming the 15-year rule rests on describing what the current rule is and who it excludes. However, neither theme offers any evidence for why this is a problem worth solving: no statistics on how many expats are affected, no survey or consultation data on citizens' experiences, no research finding about disenfranchisement, and no assessment of the rule's effects. Line 3 ('British citizens who have previously lived in the UK... provided that that entry was in force within 15 years...') and the two lines on exclusion of the never-previously-registered merely state the mechanics of the current law, which under the framework is 'describing the current rules' rather than evidence of a constraint or problem. Reference 1 only clarifies a technical point about European elections, not evidence of scale or harm. Both themes therefore sit at level 0: no evidence provided, only a plain description of the status quo. The mean of 0 and 0 is 0, giving a section score of 0. The strongest counter-example would be if the 15-year figure itself were shown to derive from some prior review or data, but no such sourcing appears here. To reach level 1, the document would need to mention some evidence, such as a figure on how many overseas citizens are barred, or cite research/consultation findings on the impact of the 15-year rule, with some explanation of how that evidence was used.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

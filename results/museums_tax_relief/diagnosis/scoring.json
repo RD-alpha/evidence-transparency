@@ -1,0 +1,16 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Market failure in cultural provision",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Both lines assert a 'well-established market failure' and positive externalities with no statistic, finding, named source, reference or link, so the claim rests on reasoning alone."
+    }
+  ],
+  "reasoning": "The extract has one core theme, 'Market failure in cultural provision', and it claims that museums and galleries produce positive externalities and would therefore be under-provided without government intervention. The two lines say that these institutions play 'an important role in society by maintaining important objects and educating people about different cultures or local history'. They also say that 'there is a well-established market failure in meeting these objectives'. Both are plain assertions. No figure, research finding, named report, survey, consultation response or departmental analysis stands behind them. The references and links blocks are empty, and no ungrouped sentences supply support. 'Well-established' implies that an evidence base exists, but the document does not name it, so a citizen cannot see what it is or what it shows. The argument is economically orthodox and plausible, but reasoning is not evidence, so the theme scores level 0. The mean of the core themes is 0, which gives a section score of 0. The strongest counter-example is that the market failure argument is a recognised economic principle, so a reader could treat 'well-established' as an implicit pointer to the literature and place it at level 1. That would be too generous, because no finding is offered as grounds. To reach level 1 the document would need to say what evidence shows under-provision, such as visitor numbers, funding trends or valuation studies. To reach level 2 it would also need to cite that evidence and link it clearly to the claim.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

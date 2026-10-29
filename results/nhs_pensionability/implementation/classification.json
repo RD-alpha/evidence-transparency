@@ -1,0 +1,33 @@
+{
+  "themes": [
+    {
+      "name": "Commencement and retrospective effect",
+      "ids": [
+        "S0110",
+        "S0139",
+        "S0171",
+        "S0267",
+        "S0079"
+      ]
+    },
+    {
+      "name": "Protection for those detrimentally affected",
+      "ids": [
+        "S0555",
+        "S0556",
+        "S0557",
+        "S0558"
+      ]
+    },
+    {
+      "name": "Scope of existing rules for new sub-contractor IPs",
+      "ids": [
+        "S0090"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": []
+    }
+  ]
+}

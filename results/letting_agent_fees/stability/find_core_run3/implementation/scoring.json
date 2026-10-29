@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Enforcement through local authorities, possibly a lead authority",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The detailed description of NTSEAT's existing powers and partnerships is used as a comparable-policy rationale for a lead authority ('The lead authority approach is used in the Estate Agent sector'), but it carries no reference or link, so it stays at level 1."
+    },
+    {
+      "theme": "Permitted exceptions and deposit arrangements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims about holding deposits, discrimination risk and deposit alternatives are supported only by reasoning ('The Government believes... holding deposits will help') with no statistic, finding or named source behind them."
+    },
+    {
+      "theme": "Penalties and deterrence for non-compliance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The proposed penalty level is benchmarked against the existing \u00a35,000 civil penalty and the \u00a330,000 Housing and Planning Act 2016 banning-order penalty, explained as a deterrence rationale but with no reference or link provided."
+    },
+    {
+      "theme": "Tenant empowerment and education to support compliance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that 'Tenant empowerment and education has helped to improve compliance in other areas of the sector, for example, deposit protection' offers a comparable finding with some explanation (county court remedy, treble penalty) but no citation."
+    },
+    {
+      "theme": "Primary legislation and sector regulation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme consists entirely of stated intentions and reasoning about regulatory burden with no statistic, study or named source offered."
+    }
+  ],
+  "reasoning": "The four core themes score unevenly. 'Enforcement through local authorities' reaches level 1 by drawing an explicit analogy to NTSEAT's existing powers in the Estate Agent sector, but this comparator is never cited or linked. 'Permitted exceptions and deposit arrangements' scores 0: claims about discrimination risk, affordability pressure and holding-deposit design rest purely on departmental reasoning, with no figures or named evidence. 'Penalties and deterrence' reaches level 1 by anchoring the proposed new penalty against the existing \u00a35,000 civil penalty and the \u00a330,000 Housing and Planning Act 2016 figure, used as an explicit benchmark for deterrence, though again uncited. 'Tenant empowerment and education' reaches level 1 via the unreferenced claim that such approaches 'helped to improve compliance' in deposit protection, with the mechanism described but no source or data given. Mean of (1,0,1,1)=0.75, rounding to a section score of 1. The strongest counter-example against going higher is that every piece of evidence used is a verbal comparator (NTSEAT, existing penalty levels, deposit protection experience) rather than a cited statistic or study - none carries a reference or link in the extract, so level 2 is unreachable. To reach level 2, the document would need to cite the sources behind these comparators (e.g. data on deposit protection compliance rates, or a report justifying the \u00a330,000 benchmark) with proper references readers could follow.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

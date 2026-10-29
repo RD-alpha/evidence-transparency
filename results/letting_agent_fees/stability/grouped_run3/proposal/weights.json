@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Rationale for the Ban and Market Dynamics",
+      "reason": "This theme lays out the core justification for why a ban (rather than lesser measures like transparency rules) was chosen, explaining the landlord-agent market power dynamics and why prior transparency requirements failed; it directly addresses why the government chose this intervention and what evidence/assessment of prior measures underpins that choice.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope and Implementation of the Ban",
+      "reason": "This theme defines what the ban actually covers (fees, deposits, third parties) and how it will be implemented, which is central to explaining the chosen intervention itself and what remains to be decided (e.g. deposit caps).",
+      "weight": "core"
+    },
+    {
+      "theme": "Market Impact - Rents and Fee Pass-through",
+      "reason": "This theme addresses the costs/benefits assumptions behind the policy, specifically whether fees will be passed through to rents, which bears on the should-explain point about estimated costs and benefits, but is more supporting detail than a standalone pillar of the proposal's rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Benefits to Tenants",
+      "reason": "This theme elaborates on the anticipated benefits (transparency, affordability, reduced homelessness risk) that flow from the ban, supporting the cost-benefit case but functioning as elaboration of benefits already established in the rationale theme rather than an independent pillar.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Scottish Legal Precedent for Banning Fees",
+      "reason": "This theme provides background legal detail on how a similar ban was implemented in Scotland, which is procedural/legal context rather than a core support for the proposal's rationale itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Evidence from the Scottish Lettings Market",
+      "reason": "This theme presents the empirical evidence base (from Scotland) used to assess likely effects of the ban, directly addressing the should-explain point about what evidence the proposal is based on and whether similar measures worked before; without this evidence the proposal's justification would lack its main empirical support.",
+      "weight": "core"
+    }
+  ]
+}

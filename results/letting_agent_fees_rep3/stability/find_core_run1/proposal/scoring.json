@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rebalancing market incentives toward landlords",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that landlords can 'shop around' and sharpen agent competition is asserted repeatedly with no statistic, study or consultation finding offered to support it."
+    },
+    {
+      "theme": "Insufficiency of existing transparency regulation",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The Generation Rent survey finding that 12% of 912 agents did not display fees (Reference 10, linked) is directly tied to the insufficiency claim, while the CMP call-for-evidence consultation responses are described only as 'the majority of responses' with no respondent numbers, keeping that strand at level 1 overall."
+    },
+    {
+      "theme": "Scope and permitted exceptions of the ban",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The description of what will and won't be chargeable (holding deposits, tenant-caused charges) is asserted as policy design with no evidence offered for why these specific exceptions will work as intended."
+    },
+    {
+      "theme": "Scottish precedent as evidence base",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "Shelter's commissioned Rettie/BDRC research (Reference 16, linked) gives specific figures (1-2% inconclusive rent effect, 17% of agencies raising landlord fees, 56% tenant approval, Companies House agent numbers) and the document itself flags limits, noting the rent rise is 'inconclusive' and that 'it is difficult to directly compare the English and Scottish markets'."
+    }
+  ],
+  "reasoning": "The section's strength rests heavily on the Scottish evidence (Theme 4, level 3): the Shelter/Rettie/BDRC research (Reference 16) is linked, gives concrete figures, and the document itself weighs the findings, noting the rent effect is 'inconclusive' and flagging that comparing English and Scottish markets is 'difficult'. The transparency-insufficiency theme (Theme 2, level 2) is grounded in the Generation Rent survey (Reference 10, linked, 12% non-compliance) but its consultation-response evidence ('the majority of responses... are not sufficient') lacks respondent numbers, so it does not reach level 3. By contrast, the two other core themes carry no evidence at all: 'Rebalancing market incentives toward landlords' is pure assertion about landlords shopping around, and 'Scope and permitted exceptions of the ban' simply describes what will be banned or permitted (e.g. holding deposits, tenant-caused charges) without evidence for why these boundaries were set. Averaging the four core levels (0, 2, 0, 3) gives 1.25, which rounds down to 1. The strongest counter-example is the Scottish evidence block, which alone would justify a 3, but it cannot lift the other two evidence-free core themes. To reach level 2 overall, the document would need to link some evidence - even indicative - to the landlord-incentive and scope/exceptions themes, for instance data on landlord price-sensitivity or evidence justifying the specific holding-deposit or tenant-charge boundaries.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.25,
+  "score_consistent": true,
+  "missing_core": []
+}

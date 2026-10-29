@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Outdated, paper-based processes",
+        "claim": "Tribunals, including Employment Tribunals, have not kept pace with society or user needs, relying on paper, ageing IT and bureaucratic processes that burden self-represented users and waste resources, even though around 90% of ET claims are already lodged online."
+      },
+      {
+        "name": "Employment Tribunals out of line with the wider justice system",
+        "claim": "Employment Tribunals and the EAT are uniquely governed by a BEIS minister and have fallen behind the simpler justice seen in other tribunals, leaving them out of step with the rest of the system."
+      },
+      {
+        "name": "Restrictive Employment Tribunals Act 1996",
+        "claim": "The 1996 Act's narrow provisions on procedural rules, delegation and panel composition cannot deliver the reforms available elsewhere under the 2007 Act, so ETs and the EAT would become isolated and increasingly inefficient and costly to the taxpayer."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Transfer of procedural responsibility and amended primary powers",
+        "claim": "Amending the 1996 Act to give rule-making to the independent Tribunal Procedure Committee (with employment representation) and panel composition to the Senior President of Tribunals, while keeping ETs and the EAT as separate bodies, is preferred to no reform because only this delivers needed flexibility without radical structural change."
+      },
+      {
+        "name": "Digitisation and flexible modes of hearing",
+        "claim": "Digitising the claims process and allowing cases to be resolved online or virtually where proportionate will speed up resolution, cut costs and improve access, though complex cases such as discrimination are unsuitable for online determination."
+      },
+      {
+        "name": "Delegation to caseworkers and tailored panels",
+        "claim": "Delegating routine case management to caseworkers under judicial supervision and using non-legal members only where their expertise is needed will free judicial time and speed up cases without undermining fair outcomes."
+      },
+      {
+        "name": "Estimated costs and benefits",
+        "claim": "The monetised appraisal estimates about £24m transition and £3m annual costs to Government against about £18m annual Government benefits and about £2m of user benefits, with no ongoing user costs, based on stated assumptions on hearing mix, panel reduction and efficiency gains."
+      }
+    ],
+    "note": "The proposal is a package of linked legislative and reform measures; the cost-benefit analysis is of subsequent secondary-legislation reforms rather than the enabling primary legislation itself."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Phased rollout preserving strengths of the ET system",
+        "claim": "Reforms will follow other tribunals on a rolling programme, informed by their lessons and user engagement, and will preserve specialist judicial expertise and Acas conciliation, with detail left to later rules and impact assessments."
+      },
+      {
+        "name": "Legislative route, consultation and safeguards",
+        "claim": "Primary legislation would enable reform through secondary legislation, with the Tribunal Procedure Committee consulting stakeholders, BEIS consulted on rules, judicial agreement required for delegation and a right to judicial reconsideration."
+      },
+      {
+        "name": "Support for digitally excluded users and equality impacts",
+        "claim": "Assisted digital support including face-to-face help, telephone, web chat and paper routes, together with training for staff and judiciary and equality monitoring, will ensure that those with limited digital capability are not disadvantaged."
+      },
+      {
+        "name": "Interaction with transfer to Scotland",
+        "claim": "Reform must take account of the planned transfer of ET functions to Scotland under the Smith Commission Agreement, whose timing is not yet agreed."
+      }
+    ],
+    "note": "Much of the detail of delivery is explicitly left undecided pending consultation and later roll-out."
+  }
+}

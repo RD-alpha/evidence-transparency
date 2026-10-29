@@ -1,0 +1,66 @@
+{
+  "themes": [
+    {
+      "name": "Consumer experience and interoperability gaps",
+      "ids": [
+        "S0099",
+        "S0102",
+        "S0103",
+        "S0106",
+        "S0107",
+        "S0122"
+      ]
+    },
+    {
+      "name": "Electricity system strain and lack of smart functionality",
+      "ids": [
+        "S0154",
+        "S0155",
+        "S0156",
+        "S0163",
+        "S0164",
+        "S0165",
+        "S0179",
+        "S0180"
+      ]
+    },
+    {
+      "name": "Gaps in strategic infrastructure provision",
+      "ids": [
+        "S0220",
+        "S0221",
+        "S0223",
+        "S0234",
+        "S0235",
+        "S0237",
+        "S0240",
+        "S0241",
+        "S0242",
+        "S0245"
+      ]
+    },
+    {
+      "name": "UK ULEV market leadership and government coordination",
+      "ids": [
+        "S0013",
+        "S0014",
+        "S0017",
+        "S0018",
+        "S0019"
+      ]
+    },
+    {
+      "name": "Infrastructure challenges and consumer needs",
+      "ids": [
+        "S0052",
+        "S0092"
+      ]
+    },
+    {
+      "name": "Bi-directional charging capabilities",
+      "ids": [
+        "S0196"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+<root>
+<theme sentences="7" weight="core">
+<name>Evidence thresholds and attestor access</name>
+<claim>Survivors can prove risk only with a live court order or an attestation from very senior officers (Superintendent-rank police or Directors of Social Services), which are hard for them to obtain, and this may have led them not to register.</claim>
+<text>
+<line id="S0016">I have met survivors of abuse who have been unable to register to vote anonymously – and therefore securely – because the information they need to provide is simply too complex, or they do not have access to the people who could attest about risks to their safety.</line>
+<line id="S0017">It is clear to me that these difficulties in navigating the system may have led those affected by them to decide that the easiest thing to do was simply not to register to vote.</line>
+<line id="S0051">A person can register to vote anonymously if they can show that their safety, or the safety of someone else in their household, would be at risk if the electoral register contained their name or address.</line>
+<line id="S0053">An applicant must prove the risk to their safety by providing either: • a live court order or injunction from a set list of orders and injunctions; or • an attestation about the risk to their safety made by a qualifying officer, such as a Superintendent of Police or a Director of Social Services. 10. ** (Reference: 1,2)</line>
+<line id="S0054">Applicants can use either of these types of evidence.</line>
+<line id="S0055">They do not have to provide both.</line>
+<line id="S0071">The current system limits the provision of police attestations to police officers of or above the rank of Superintendent and social services attestations to Directors of Social Services.</line>
+</text>
+<references>
+<reference number="1">The full list of court orders and injunctions, as provided for in regulation 31I(3) of the Representation of the People (England and Wales) Regulations 2001, is set out in Annex A.</reference>
+<reference number="2">The full list of qualifying officers, as provided for in regulation 31J(4) of the Representation of the People (England and Wales) Regulations 2001, is set out in Annex B.</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="6" weight="core">
+<name>Scheme purpose and high threshold</name>
+<claim>Anonymous registration was designed under the 2006 Act to protect people whose safety would be at risk, not those who merely want privacy, so the threshold was set high.</claim>
+<text>
+<line id="S0043">6. Anonymous registration was first introduced in Great Britain by the Electoral Administration Act 2006, which amended the Representation of the People Act 1983 and provided for the overall structure of the scheme.</line>
+<line id="S0046">The scheme was intended to protect those whose safety would be at risk if their name and address appeared in the electoral register.</line>
+<line id="S0047">It was envisaged that this might include for example victims of harassment or stalking, as well as some witnesses in criminal court cases.</line>
+<line id="S0048">It was not intended to be available to those who simply wanted to keep their name and address private.</line>
+<line id="S0049">Consequently, the threshold for anonymous registration was set at quite a high level.</line>
+<line id="S0056">As with all applications to register to vote, the final determination as to the applicant’s eligibility rests with the Electoral Registration Officer (ERO) for the local authority area in which the applicant lives.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="5" weight="core">
+<name>Live-order and annual renewal requirements</name>
+<claim>Orders must be live at the time of application and entries lapse after 12 months with the same evidence needed to renew, which burdens survivors.</claim>
+<text>
+<line id="S0058">An anonymous entry on the electoral register is terminated 12 months after it first takes effect.</line>
+<line id="S0059">If someone continues to require anonymous registration, they must reapply for it on a yearly basis.</line>
+<line id="S0112">For applicants who use an order or injunction as evidence of the risk to their safety, the law requires that the order or injunction must be live on the day when the anonymous registration application is made.</line>
+<line id="S0127">At present, an anonymous entry on the register is terminated 12 months after it first takes effect.</line>
+<line id="S0128">Those whose safety remains at risk can reapply annually, but the same level of evidence is required each time.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="3" weight="not core">
+<name>Scheme history and legal framework</name>
+<text>
+<line id="S0044">The detail of how anonymous registration works is provided for, in relation to England and Wales, in the Representation of the People (England and Wales) Regulations 2001.</line>
+<line id="S0057">An applicant who makes a declaration in support of an application for an anonymous entry when they know that they are disqualified from voting or when they know that the declaration contains a statement which is false would be guilty of an offence under the Representation of the People Act 1983. 11. ** (Reference: 3)</line>
+<line id="S0061">The anonymous registration scheme has been updated on a number of occasions since it was first introduced to add new types of court order and to update the list of qualifying officers who can provide an attestation.</line>
+</text>
+<references>
+<reference number="3">Under Section 62(1A) of the Representation of the People Act 1983, a person who makes a declaration under Section 9B(1A)(a) of that Act (a declaration in support of an application for an anonymous entry) when they know that they are subject to a legal incapacity to vote (except as permitted by that Act) or when they know that the declaration contains a statement which is false, is guilty of an offence and is liable on summary conviction to a fine.</reference>
+</references>
+<links>
+</links>
+</theme>
+</root>

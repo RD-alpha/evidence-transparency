@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Local authority/Trading Standards enforcement",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant empowerment and education",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Possible lead enforcement authority",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Data sharing between bodies",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Penalties calibrated to deter non-compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Defined exceptions to the ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Implementation coordination and safeguarding",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Wider sector regulation",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

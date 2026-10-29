@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Local authority (Trading Standards) enforcement",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Potential lead enforcement authority",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant empowerment and education",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Penalties and deterrence design",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Deposit and fee safeguards",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Implementing the fee ban legislation",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "International and historical precedent",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

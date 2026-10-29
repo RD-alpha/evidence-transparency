@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "SARs reform and consent regime",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Private sector information-sharing gateway",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "New asset recovery powers",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Rejected or deferred options",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

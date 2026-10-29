@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "40-year rolling exemption with certification (Option 3)",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Costs and benefits of the options",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Reduced regulation without undue burden",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

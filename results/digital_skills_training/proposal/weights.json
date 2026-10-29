@@ -1,0 +1,9 @@
+{
+  "themes": [
+    {
+      "theme": "Free basic digital skills training",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Longevity-linked pension age rise to 68 in 2037-39",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The \u00a374bn and 0.4% GDP savings (lines on Reference 17 and 37) rest on DWP's own modelling, with Reference 43 and the Annex table showing the model, prices and timetable covered, and the document acknowledges the further review to check life expectancy projections and that spending still rises substantially, but this is not a systematic assessment of the evidence, so level 2."
+    },
+    {
+      "theme": "Fairness between generations via up to 32% of adult life",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 32% figure is linked to the 31.3% average over 1992-2016 (References 1, 18, 38, 39) and the Government Actuary's modelling (Reference 35), but the document does not assess the weakness of the evidence or the 20-30 year generation assumption beyond asserting it."
+    },
+    {
+      "theme": "Fiscal savings and sustainability",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Table A with References 1, 43 and 44 shows the modelled \u00a374bn saving and its basis, and References 15 and 16 (OBR, DWP working paper) back the 0.3% and 1% GDP claims; the document notes unestimated tax, NI and benefit effects (final lines), and that the FSR assumed a different timetable (Reference 44), but the alternatives of lower pensions or higher taxes are asserted without evidence and the extra employment effects are not assessed, so level 2."
+    },
+    {
+      "theme": "Universal pension age and later decisions deferred",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The ONS socio-economic life expectancy data (Reference 40) and the PPI analysis cited via Cridland support keeping a universal age, and the document acknowledges life expectancy projection uncertainty and defers beyond 68, but most of the reasoning on complexity and disadvantaged groups is uncited argument, and the PPI finding is not referenced, so level 2 is the ceiling."
+    },
+    {
+      "theme": "Statutory review framework and background to the rise",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Background claims carry References 10, 22, 24, 33 (e.g. the 6.3 percentage point employment rise for women) pointing to DWP documents, but much of the theme describes the legislative framework and the Cridland timetable, with Reference 1 reused as a generic footnote."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "These lines are commitments, expected outcomes and table headings with no references or evidence offered."
+    }
+  ],
+  "reasoning": "The four core themes each reach level 2, so the mean is 2.0 and the section scores 2. The savings case is the strongest. The line \"It will save \u00a374 billion to 2045/46 when compared to current plans\" is traced to the Annex table, and Reference 43 explains that DWP's adapted long-term forecasting model covers only the rise to 68. Reference 37 shows how the \u00a3400 per household figure was derived from the \u00a311 billion difference and ONS household numbers. The 32% principle is tied to the 31.3% average over 1992-2016 (References 1, 18, 38, 39) and to the Government Actuary's terms of reference (Reference 35). The universal-age theme uses ONS life expectancy data (Reference 40). The document does acknowledge uncertainty: it says life expectancy projections are \"uncertain, and more so over longer projection periods\", promises a further review before legislating, and says tax, NI and working-age benefit effects \"have not been produced at this time\". Strongest counter-example for a higher level: this candour is real, but it is not a systematic assessment of the evidence base. Claims that the alternatives of lower pensions or higher taxes would worsen pensioner poverty are asserted without any evidence, the PPI finding is relayed without a reference, and the document does not weigh contradictory evidence on the gains from employment. To reach level 3 it would need to assess the strengths and limits of the modelling and the 32% benchmark, show the sensitivity of the \u00a374bn to alternative life expectancy projections, and evidence the poverty and tax alternatives it rejects.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.0,
+  "score_consistent": true,
+  "missing_core": []
+}

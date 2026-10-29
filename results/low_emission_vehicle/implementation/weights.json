@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Phased approach via secondary legislation informed by consultation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Principles-led development of smart charging standards",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Placing obligations on retailers/installers and site operators",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Staged civil penalty enforcement regime",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Stakeholder engagement and consultation process",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Future scope of smart charging powers",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

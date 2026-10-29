@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Flexible routes to compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Clarifying and narrowing scope",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Strengthened traceability record-keeping",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Extended transition period to limit business cost",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Unresolved protective cover test to be settled via consultation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Testing cost estimates and evidence gaps",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Guidance and support for implementation",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Regulatory revocation and replacement",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prosecution timeline extension",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Residual infection and recurrence in the High Risk Area",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The lines give figures (more than 20% of breakdown herds retain infected animals; nearly 60% recurrence within three years) but no source, method or data description, so they stay at level 1."
+    },
+    {
+      "theme": "Skin test insensitivity and inconsistent severe interpretation",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The line 'we may miss 20 to 25 per cent of TB-infected cattle' gives a figure with no reference, and the document does acknowledge test limitations but offers no cited source."
+    },
+    {
+      "theme": "Inconclusive reactors as an undetected infection risk",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Lines 7.3 and 7.4 give detailed 2013 England IR outcome figures and cite References 1 (APHA surveillance report) and 2 (Clegg et al.) that a reader can follow, linking them clearly to the claim that re-test-negative IRs later become reactors, but without assessing the evidence's weaknesses."
+    },
+    {
+      "theme": "Gaps in controls on movements and testing schedules",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The scenarios in 8.1-8.5 and 9.1 are illustrative reasoning, though line 8.4 'It is not possible to quantify the risk accurately' acknowledges uncertainty, with no data or sources behind the claim, so it is minimal level 1 at best."
+    },
+    {
+      "theme": "Disease threat and scope of the problem",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 1.1 and the following sentence assert that bTB is the most pressing and costly animal health problem with no figure or source."
+    },
+    {
+      "theme": "Tracing of cattle from infected herds",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 6.1 describe the tracing process and offer no evidence."
+    },
+    {
+      "theme": "Complexity of the existing testing landscape",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line asserts a complex testing landscape with no evidence."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines describe test outcomes and isolation rules (9.2) and are not evidence."
+    }
+  ],
+  "reasoning": "The four core themes score 1, 1, 2 and 1, giving a mean of 1.25, which rounds to 1. The best-evidenced theme is the inconclusive reactor one. Lines 7.3 and 7.4 give 2013 England figures (5,899 IRs, 81.2% passing the re-test, 265 of 4,792 later becoming reactors or IRs) and cite References 1 (APHA surveillance report) and 2 (Clegg et al.). The reasoning from the figures to the claim is clear, which puts it at level 2. The other core themes are weaker. The HRA theme states 'more than 20%' of breakdown herds retain infection and 'nearly 60%' recurrence, but gives no source or method for these figures. The skin test theme says 'we may miss 20 to 25 per cent' of infected cattle, again with no reference. The movement and testing schedule theme rests on hypothetical farm 1 and farm 2 scenarios, and line 8.4 concedes the risk cannot be quantified. A motivated citizen could therefore not trace most of the figures. The strongest counter-example to level 1 is the inconclusive reactor theme, which reaches level 2, but one level 2 theme cannot lift the mean to 1.5 or more. To reach level 2 overall, the document would need to cite sources for the HRA recurrence and skin test sensitivity figures and give real data for the movement and timing risks. Level 3 would also need an explicit assessment of the strengths and limits of that evidence.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.25,
+  "score_consistent": true,
+  "missing_core": []
+}

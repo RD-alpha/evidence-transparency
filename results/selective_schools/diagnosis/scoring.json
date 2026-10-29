@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Shortage of good school places",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Pupil numbers and projections carry References 1, 3, 4 and 5 (SFR statistics), and the 65-district 5km access finding is the department's own published data (March release), clearly linked to the claim, though the 1.25 million figure and access data have limited stated method and no caveats."
+    },
+    {
+      "theme": "Institutions not incentivised to expand good provision",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The IFS finding on the 33 and 4 percentage point gaps carries Reference 9, but it supports only the university point; the grammar ban, faith cap and 'some evidence' on non-selective schools in selective areas are uncited, and funding claims are asserted without evidence."
+    },
+    {
+      "theme": "Faith admissions cap fails to deliver inclusivity",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The claim about ethnic intake in minority faith free schools cites School Census January 2016 (Reference 16) at the line 'In minority faith free schools...', but the table is not shown, the method is thin, and the Catholic deterrence claim in the other theme is uncited."
+    },
+    {
+      "theme": "Ordinary families poorly measured and served",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Statistics such as 14.3% FSM eligibility, the \u00a316,190 threshold and 2.5% versus 13.2% FSM in selective schools are given without any citation, and the claim that just-about-managing families are poorly served is asserted without evidence."
+    },
+    {
+      "theme": "Independent and selective school access",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The 20% fee rise is uncited and the 33% rise in non-British pupils carries Reference 7 (ISC census), but the other claims are uncited or assertion."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements about needing to build capacity and turn around struggling schools are assertions with no evidence."
+    }
+  ],
+  "reasoning": "The four core themes score 2, 1, 1 and 1, a mean of 1.25, which rounds to 1. The strongest theme is 'Shortage of good school places'. Its pupil growth and projection figures are linked to cited statistical releases (References 1, 3, 4 and 5), for example 'primary pupil numbers grew by 11% between 2010 and 2016' and the 548,000 secondary applications with 95% receiving a top-three offer. The department's own March data identifies 65 districts where under 50% of applicants have a good school within 5km, a clear and quantified link to the problem. However, the 1.25 million figure and the district data are not fully explained, and no limitations are discussed. The other core themes are weaker. The institutional-incentives theme has one cited finding (Reference 9, the IFS study on university access gaps), which supports only the university point. Its grammar, faith-cap and funding claims are asserted, and 'there is some evidence' on non-selective schools in selective areas is unnamed. The faith cap theme cites the School Census (Reference 16), but the table is absent, and the Catholic example is asserted. The ordinary-families theme gives many figures (14.3%, 2.5% versus 13.2%) with no citations, and admits that no data exists on the group it is about. The strongest counter-example to a score of 1 is the first theme, which reaches 2. To reach level 2 overall, the document would need to cite the FSM, selective-school and faith claims and explain the reasoning behind them. Level 3 would need an explicit assessment of the data's limits and of contrary evidence.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.25,
+  "score_consistent": true,
+  "missing_core": []
+}

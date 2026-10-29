@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Rising life expectancy and time spent in retirement",
+        "claim": "Life expectancy at 65 has risen steadily and is projected to keep rising, so without change the share of adult life spent over State Pension age has grown from 23% in 1948 to 32% by 2007 and will keep growing."
+      },
+      {
+        "name": "Demographic change and the pay-as-you-go burden",
+        "claim": "Baby-boomer retirement and a rising old age dependency ratio (301 to 375 pensioners per 1,000 workers by 2042) mean fewer workers fund more pensioners, raising State Pension spending by about 1% of GDP (£725 per household) by 2036/37 and adding wider age-related spending pressures."
+      },
+      {
+        "name": "Past slow adjustment of State Pension age",
+        "claim": "The UK left State Pension age unchanged for decades, forcing three rapid Acts in ten years, and the Pensions Commission found a fixed age of 65 unaffordable, so a structured long-term approach is needed."
+      },
+      {
+        "name": "Uncertainty of life expectancy projections",
+        "claim": "Projections are uncertain and highly sensitive to the data used (e.g. 2012-based versus 2014-based projections shift the rise to 68 by five years), which creates risks for taxpayers or for notice given to individuals."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Linking State Pension age to life expectancy for intergenerational fairness",
+        "claim": "State Pension age should rise with life expectancy so that each generation spends broadly the same proportion of adult life (up to 32% in the long run, matching the last 25 years) in receipt of State Pension, and the alternative of cutting pension value was rejected because it would increase pensioner poverty and means-test dependence."
+      },
+      {
+        "name": "Raising State Pension age to 68 in 2037-39",
+        "claim": "The Government will adopt Cridland's timetable for the rise to 68 in 2037-39, seven years earlier than legislated, because it saves £74bn by 2045/46 and about 0.4% of GDP in 2039/40 while spacing rises so the same cohorts do not face back-to-back increases and the pension stays above the means test."
+      },
+      {
+        "name": "Universal State Pension age",
+        "claim": "A single State Pension age for everyone should be kept because it gives simplicity and clarity for planning, life expectancy has risen across all groups, and variation by region or group is unworkable, with disadvantaged people helped through the working-age benefit system instead."
+      },
+      {
+        "name": "Leaving later changes open",
+        "claim": "Because projections are uncertain, no formal timetable beyond 68 is set, the Government will aim for up to 32% in the long run, and it rejects Cridland's fixed one-year-in-ten limit as too constraining, leaving future reviews to decide timing."
+      }
+    ],
+    "note": "The costs and savings (Table A) and the commitment to a further review before legislating are argued mainly within the proposal sentences."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Notice and communication of changes",
+        "claim": "The Government will give at least ten years' notice of changes and run a communications strategy using digital tools, personalised pension checks and stakeholder channels so people can plan for later life."
+      },
+      {
+        "name": "Wider support package for later life",
+        "claim": "Rises in State Pension age must come with a wider system of support for people who can work longer and those who cannot, which the Government will develop by evaluating Universal Credit, the new State Pension, the health and work consultation and Cridland's recommendations."
+      },
+      {
+        "name": "Review cycle and legislative route",
+        "claim": "Changes will be made through primary legislation with full Parliamentary scrutiny, after regular reviews informed by independent reports and fresh life expectancy projections, with the next review by 2023 confirming the rise to 68."
+      }
+    ],
+    "note": "Implementation is largely a set of separate delivery commitments with little evidence-based justification or costing of the delivery methods."
+  }
+}

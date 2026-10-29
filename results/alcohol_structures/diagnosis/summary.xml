@@ -1,0 +1,75 @@
+<root>
+<theme sentences="5" weight="core">
+<name>Banding misaligns duty from strength</name>
+<claim>Unlike beer and spirits, cider and wine duty is banded by EU law so drinks of very different alcoholic strengths within the same band pay identical duty, breaking the link between duty and strength.</claim>
+<text>
+<line id="S0005">EU law requires beer and spirit duties to be directly proportional to alcohol content.</line>
+<line id="S0007">Cider and wine duties, however, must be banded.</line>
+<line id="S0008">This means that any drinks within a band pay the same duty regardless of their alcoholic strength.</line>
+<line id="S0009">A pint of 1.3% alcohol by volume ( abv ) still cider currently pays the same amount of alcohol duty as a pint of 7.5% abv cider.</line>
+<line id="S0021">The current still cider and perry bands are: above 1.2% but not above 7.5% abv , with a duty rate of £40.38 per hectolitre of product above 7.5% but less than 8.5% abv , with a duty rate of £61.04 per hectolitre of product Public health groups argue the main still cider band – above 1.2% to 7.5% abv – is too wide as low-strength still ciders attract the same duty as 7.5% abv still ciders.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="core">
+<name>Adverse incentives within bands</name>
+<claim>Because duty does not rise with strength inside a band, producers face an incentive to push alcohol content toward the top of the band, lowering duty per unit of alcohol as strength increases.</claim>
+<text>
+<line id="S0022">Theoretically, this can create adverse incentives to produce drinks towards the top of the band.</line>
+<line id="S0023">There is no additional duty cost from increasing alcohol content in a still cider up to 7.5% abv so the duty per unit of alcohol falls as the alcohol content rises in the band.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="6" weight="core">
+<name>Harms from high-strength 'white' cider</name>
+<claim>Public health groups and homelessness charities report that cheap, high-strength 'white' ciders are disproportionately linked to dependent, street and underage drinking and to premature deaths among homeless people.</claim>
+<text>
+<line id="S0024">Higher strength ‘white’ ciders have been highlighted, by some, as a product that causes disproportionate levels of harm.</line>
+<line id="S0025">These drinks have an alcohol strength around 7.5% abv , and are reportedly typically purchased as a cheap form of relatively high strength alcohol.</line>
+<line id="S0026">A three litre bottle of a 7.5% abv ‘white’ cider contains 22.5 units of alcohol which is over 1.5 times the number of units the UK Chief Medical Officers have recommended for weekly consumption for those wishing to keep the health risks from drinking alcohol to a low level . ** (Reference: 3)</line>
+<line id="S0027">Public health groups report that these high strength products are closely associated with dependent, street and underage drinking primarily due to their low price.</line>
+<line id="S0028">According to Thames Reach, super strength drinks have become one of the biggest causes of premature death of homeless people in the UK.</line>
+<line id="S0029">The Alcohol Health Alliance cite research suggesting that 25% of alcohol treatment services patients in Glasgow and Edinburgh drink white cider, and 45% of white cider drinkers drink it exclusively . ** (Reference: 4)</line>
+</text>
+<references>
+<reference number="3">‘ UK Chief Medical Officers’ alcohol guidelines review: summary of the proposed new guidelines ’, Department of Health, January 2016. ↩</reference>
+<reference number="4">‘ Alcohol Health Alliance Budget Submission: 2016 ’. ↩</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="5" weight="not core">
+<name>Government awareness of alcohol harms and policy context</name>
+<text>
+<line id="S0018">However, the government is also aware of the harms associated with problem consumption of alcohol.</line>
+<line id="S0036">Some argue that the duty rates for cider are too low.</line>
+<line id="S0037">A typical strength cider has a relatively lower duty rate compared to other alcoholic drinks of the same/similar alcoholic strength.</line>
+<line id="S0038">This is because the cider industry is an important part of the rural economy.</line>
+<line id="S0039">It uses almost half of the apples grown in the UK.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="5" weight="not core">
+<name>Current duty band structure and wine policy</name>
+<text>
+<line id="S0044">As set out above, duty rates for still cider and perry are split into two bands: (1) the main still cider band above 1.2% up to 7.5% abv , and (2) the higher strength still cider band above 7.5% but less than 8.5% abv .</line>
+<line id="S0067">The impacts of a new still wine band between 5.5% and 8.5% abv The duty on wine and made-wine, like cider, is currently banded.</line>
+<line id="S0068">All wines and made-wines in a band pay the same duty.</line>
+<line id="S0072">The current still wine and made-wine bands are: above 1.2% but not above 4% abv , which pays a duty rate of £88.93 per hectolitre of product above 4% but not above 5.5% abv , which pays a duty rate of £122.30 per hectolitre of product above 5.5% but not above 15% abv , which pays a duty rate of £288.65 per hectolitre of product above 15% but not above 22% abv , which pays a duty rate of £384.82 per hectolitre of product above 22% abv , which pays a duty rate of £28.74 per litre of pure alcohol EU law requires that there has to be a single band for wine between 8.5% and 15% abv .</line>
+<line id="S0079">Nevertheless, the government appreciates that there may be other non-tax barriers to growth for the lower strength wine market, for example wider regulations or the attitude and tastes of consumers.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

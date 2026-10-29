@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Changing the AE duties trigger date",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Extending the deferral/postponement easement",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Evolution of Automatic Enrolment framework",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Consultation objectives and scope",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

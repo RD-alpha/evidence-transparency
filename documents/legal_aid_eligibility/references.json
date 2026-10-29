@@ -1,0 +1,205 @@
+[
+  {
+    "number": "1",
+    "text": "The qualifying benefits are Income Support, income-based Jobseeker’s Allowance, income-related Employment and Support Allowance, State Pension Guarantee Credit and, from April 2013, Universal Credit.",
+    "source_alias": "legal_aid_consultation",
+    "source_title": "Legal Aid Eligibility Consultation",
+    "source_number": "1"
+  },
+  {
+    "number": "2",
+    "text": "Receipt of qualifying benefits is no longer used to passport applicants through the capital test for civil legal aid as the capital thresholds for civil legal aid and welfare benefits differ significantly.  The capital threshold for civil legal aid is £8,000 compared to £16,000 for welfare benefits.",
+    "source_alias": "legal_aid_consultation",
+    "source_title": "Legal Aid Eligibility Consultation",
+    "source_number": "2"
+  },
+  {
+    "number": "3",
+    "text": "This is an estimate taken from a modelling exercise. Due to uncertainties, we estimate a sensitivity range of between £9m and £20m.",
+    "source_alias": "legal_aid_consultation",
+    "source_title": "Legal Aid Eligibility Consultation",
+    "source_number": "3"
+  },
+  {
+    "number": "4",
+    "text": "Earnings as defined for Universal Credit purposes.",
+    "source_alias": "legal_aid_consultation",
+    "source_title": "Legal Aid Eligibility Consultation",
+    "source_number": "4"
+  },
+  {
+    "number": "5",
+    "text": "www.gov.uk/government/statistics/legal-aid-statistics-april-to-june-2016. In the 12 months to June 2016, total means tested legal aid workload was 780,000 - 581,000 for criminal (bulletin, page 9), excluding police station workloads which are not means tested, and 199,000 for civil (bulletin, page 23), excluding Special Children’s Act proceedings (table 6.2), which also are not means tested.",
+    "source_alias": "legal_aid_consultation",
+    "source_title": "Legal Aid Eligibility Consultation",
+    "source_number": "5"
+  },
+  {
+    "number": "6",
+    "text": "Regulation  9 Criminal Legal Aid (Financial Resources) Regulations 2013 for advice and assistance for criminal proceedings; Regulation 19 for representation for criminal proceedings in the magistrates’ courts; Regulation 4 Criminal Legal Aid (Contribution Orders) Regulations 2013 for representation for criminal proceedings in the Crown Court; Regulation 16 Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013",
+    "source_alias": "legal_aid_consultation",
+    "source_title": "Legal Aid Eligibility Consultation",
+    "source_number": "6"
+  },
+  {
+    "number": "7",
+    "text": "Although note that some categories of law are also exempt from the means test. For example, care proceedings under the Children Act 1989 account for a large volume of civil representation work but are not subject to means testing where the applicant for legal aid is the child, parent or person with parental responsibility.",
+    "source_alias": "legal_aid_ia",
+    "source_title": "Legal Aid Eligibility Impact Assessment",
+    "source_number": "1"
+  },
+  {
+    "number": "8",
+    "text": "www.gov.uk/government/statistics/legal-aid-statistics-april-to-june-2016. In the 12 months to June 2016, total means tested legal aid workload was 780,000 - 581,000 for criminal (bulletin, page 9), excluding police station workloads which are not means tested, and 199,000 for civil (bulletin, page 23), excluding Special Children's Act proceedings (table 6.2), which also are not means tested.",
+    "source_alias": "legal_aid_ia",
+    "source_title": "Legal Aid Eligibility Impact Assessment",
+    "source_number": "2"
+  },
+  {
+    "number": "9",
+    "text": "Universal Credit is paid to 'units' rather than individuals. In practice this will usually resemble a household or family, but could be a single person living in a shared household.",
+    "source_alias": "legal_aid_ia",
+    "source_title": "Legal Aid Eligibility Impact Assessment",
+    "source_number": "3"
+  },
+  {
+    "number": "10",
+    "text": "For as long as they continue to exist.",
+    "source_alias": "legal_aid_equality",
+    "source_title": "Legal Aid Eligibility Equality Statement",
+    "source_number": "1"
+  },
+  {
+    "number": "11",
+    "text": "Although note that some categories of law are also exempt from the means test. For example, care proceedings under the Children Act 1989 account for a large volume of civil representation work but are not subject to means testing where the applicant for legal aid is the child, parent or person with parental responsibility.",
+    "source_alias": "legal_aid_equality",
+    "source_title": "Legal Aid Eligibility Equality Statement",
+    "source_number": "2"
+  },
+  {
+    "number": "12",
+    "text": "In order to estimate policy impacts, our modelling combines information on age, gender, income and case type from legal aid case data with more detailed information on income and benefit entitlement from DWP’s Policy Simulation Model (PSM). We do this by matching records in the legal aid case data to records with broadly similar age, gender and income profiles in the PSM. The information in the case data is insufficient to match clients either precisely, or on the basis of other characteristics (such as disability, ethnicity or pregnancy/maternity).",
+    "source_alias": "legal_aid_equality",
+    "source_title": "Legal Aid Eligibility Equality Statement",
+    "source_number": "3"
+  },
+  {
+    "number": "13",
+    "text": "Care proceedings under the Children Act 1989, for example, account for a large volume of civil representation work but are not subject to means testing where the applicant for legal aid is the child, parent or person with parental responsibility.",
+    "source_alias": "legal_aid_equality",
+    "source_title": "Legal Aid Eligibility Equality Statement",
+    "source_number": "4"
+  },
+  {
+    "number": "14",
+    "text": "Annex A contains the comparison table. From the legal aid statistics quarterly publication for January to March 2016, containing client diversity data for 2015-16, published June 2016. https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/533053/legal-aid-statistics- england-and-wales-client-diversity-data.csv/preview. General population statistics from the 2011 Census (ONS).",
+    "source_alias": "legal_aid_equality",
+    "source_title": "Legal Aid Eligibility Equality Statement",
+    "source_number": "5"
+  },
+  {
+    "number": "15",
+    "text": "See Annex B for a full table of possible movements",
+    "source_alias": "legal_aid_equality",
+    "source_title": "Legal Aid Eligibility Equality Statement",
+    "source_number": "6"
+  },
+  {
+    "number": "16",
+    "text": "Up to 16 hours, with various conditions and deductions from benefit payments.",
+    "source_alias": "legal_aid_equality",
+    "source_title": "Legal Aid Eligibility Equality Statement",
+    "source_number": "7"
+  },
+  {
+    "number": "17",
+    "text": "For legal aid in civil representation, or for legal aid in a Crown Court trial only",
+    "source_alias": "legal_aid_equality",
+    "source_title": "Legal Aid Eligibility Equality Statement",
+    "source_number": "8"
+  },
+  {
+    "number": "18",
+    "text": "DWP quarterly statistical summary, published May 2016 https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/527629/quarterly-stats- summary-may-2016.pdf",
+    "source_alias": "legal_aid_equality",
+    "source_title": "Legal Aid Eligibility Equality Statement",
+    "source_number": "9"
+  },
+  {
+    "number": "19",
+    "text": "ONS (2015) Families and households, 2015. Table 1. http://www.ons.gov.uk/ons/rel/family- demography/families-and-households/2015/index.html",
+    "source_alias": "legal_aid_equality",
+    "source_title": "Legal Aid Eligibility Equality Statement",
+    "source_number": "10"
+  },
+  {
+    "number": "20",
+    "text": "Using the Family Resources Survey (FRS) (see discussion in ‘available data’ section). We have looked at households rather than individuals because both Universal Credit and legal aid eligibility are in general assessed at the household level. The protected characteristics are those of the person in the household interviewed as ‘Person 1’ as part of the FRS.",
+    "source_alias": "legal_aid_equality",
+    "source_title": "Legal Aid Eligibility Equality Statement",
+    "source_number": "11"
+  },
+  {
+    "number": "21",
+    "text": "http://www.legislation.gov.uk/uksi/2013/480/contents/made",
+    "source_alias": "legal_aid_annex_c",
+    "source_title": "Legal Aid Eligibility Annex C",
+    "source_number": "1"
+  },
+  {
+    "number": "22",
+    "text": "http://www.legislation.gov.uk/uksi/2013/471/contents/made",
+    "source_alias": "legal_aid_annex_c",
+    "source_title": "Legal Aid Eligibility Annex C",
+    "source_number": "2"
+  },
+  {
+    "number": "23",
+    "text": "The upper limit is higher for those with four or more dependent children in respect of whom the individual receives child benefit – an increment of £222 is added for the fifth and each subsequent child.",
+    "source_alias": "legal_aid_annex_c",
+    "source_title": "Legal Aid Eligibility Annex C",
+    "source_number": "3"
+  },
+  {
+    "number": "24",
+    "text": "Qualifying benefits are currently income support, income-based jobseeker’s allowance, income-based employment and support allowance, state pension guarantee credit and universal credit.",
+    "source_alias": "legal_aid_annex_c",
+    "source_title": "Legal Aid Eligibility Annex C",
+    "source_number": "4"
+  },
+  {
+    "number": "25",
+    "text": "S13 LASPO",
+    "source_alias": "legal_aid_annex_c",
+    "source_title": "Legal Aid Eligibility Annex C",
+    "source_number": "5"
+  },
+  {
+    "number": "26",
+    "text": "S15 LASPO",
+    "source_alias": "legal_aid_annex_c",
+    "source_title": "Legal Aid Eligibility Annex C",
+    "source_number": "6"
+  },
+  {
+    "number": "27",
+    "text": "S16 LASPO",
+    "source_alias": "legal_aid_annex_c",
+    "source_title": "Legal Aid Eligibility Annex C",
+    "source_number": "7"
+  },
+  {
+    "number": "28",
+    "text": "Part 3 of the Criminal Legal Aid (Contribution Orders) Regulations 2013",
+    "source_alias": "legal_aid_annex_c",
+    "source_title": "Legal Aid Eligibility Annex C",
+    "source_number": "8"
+  },
+  {
+    "number": "29",
+    "text": "Regulation 11(1)(a) and (b) Criminal Legal Aid (Recovery of Defence Costs Orders) Regulations 2013",
+    "source_alias": "legal_aid_annex_c",
+    "source_title": "Legal Aid Eligibility Annex C",
+    "source_number": "9"
+  }
+]

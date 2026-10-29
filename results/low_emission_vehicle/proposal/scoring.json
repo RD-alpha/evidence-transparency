@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Primary powers for future targeted regulation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that broad primary powers are needed for future targeted regulation is asserted purely as reasoning, with no statistic, study or named evidence offered to support it."
+    },
+    {
+      "theme": "Consumer experience measures package",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "OLEV's own experience since 2013 of mandating 'pay as you go' chargepoints and the mention of voluntary EU roaming platforms are offered as grounds for favouring bilateral agreements over mandated platforms, but neither is cited or given with methodological detail (no reference for either claim)."
+    },
+    {
+      "theme": "Smart charging standards",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim that smart functionality is low-cost to add is directly linked to Reference 2 (home appliance sector study), properly cited and clearly connected to the decision to mandate minimum smart functionality, but no uncertainties or limitations of this cross-sector analogy are discussed."
+    },
+    {
+      "theme": "Strategic provision and hydrogen market support",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "UKH2M's Phase 1 report (Reference 4) projecting growth from 65 to 1,150 stations is cited and clearly used to justify why public funding and franchising are needed to bridge the 'Investing in Growth' phase, but the document does not assess the reliability or assumptions of these projections."
+    }
+  ],
+  "reasoning": "The four core themes score unevenly. 'Primary powers for future targeted regulation' (level 0) offers only assertion -- 'The Government considers that primary legislative powers...would allow for targeted regulation' -- with no supporting evidence. 'Consumer experience measures package' (level 1) draws on OLEV's own pay-as-you-go mandate since 2013 and the existence of EU roaming platforms, explaining how these inform the preference for bilateral agreements, but neither is cited, so it cannot exceed level 1. 'Smart charging standards' (level 2) cites Reference 2, a home appliance sector cost study, directly linked to the claim that smart functionality is cheap to add -- a properly cited, traceable source tied to the specific measure. 'Strategic provision and hydrogen market support' (level 2) cites Reference 4, the UKH2M Phase 1 report, whose station-growth projections are explicitly used to justify public funding and franchising to attract private investment. Neither level-2 theme shows the document itself weighing the evidence's limitations (e.g. transferability of appliance-sector costs, or reliability of UKH2M's projections), so neither reaches level 3. The mean of 0, 1, 2 and 2 is 1.25, rounding down to 1. The strongest counter-case for a higher score is the clearly cited Reference 2 and Reference 4 evidence; the weakest link is the wholly unevidenced case for primary powers themselves. To reach level 2 overall, the primary-powers and consumer-experience themes would need cited sources linked explicitly to their claims; to reach level 3, the document would need to assess the evidence's strengths, weaknesses or uncertainties.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.25,
+  "score_consistent": true,
+  "missing_core": []
+}

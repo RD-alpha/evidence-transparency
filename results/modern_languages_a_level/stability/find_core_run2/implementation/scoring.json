@@ -1,0 +1,52 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Integrated language, culture and society curriculum",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines on 'areas of interest' and authentic sources state requirements but give no evidence or citation for why this integrated structure was chosen over alternatives."
+    },
+    {
+      "theme": "Comprehensive language skill development",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines listing skills (listening, translation, research) and the 'Reference: 1' marker only point to an annex of grammar content, not to evidence justifying this skill set as the right delivery method."
+    },
+    {
+      "theme": "Study of literary works and films",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Requirements for one work at AS and two at A level, and genre lists, are asserted with no evidence of why this quantity or format achieves the intended learning outcomes."
+    },
+    {
+      "theme": "Standardised grammar requirements across languages, with language-specific adaptations",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that other-language appendices must be 'comparable' to French/German/Spanish lists, and the detailed grammar tables themselves, are prescriptive content with no cited evidence or rationale for why this exact scope was set."
+    },
+    {
+      "theme": "Foundation and progression from GCSE",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single sentence asserts specifications 'must build on' GCSE content with no evidence of how this builds effectively."
+    },
+    {
+      "theme": "Special provisions for Chinese language",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The differentiated Chinese rules (e.g. English-language questions in comprehension tasks) are stated as fact with no evidence explaining why this adaptation is appropriate."
+    },
+    {
+      "theme": "Subject specification overview",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Purely descriptive framing sentences with no evidence content."
+    }
+  ],
+  "reasoning": "This extract is almost entirely prescriptive specification text: it sets out what AS/A level modern languages courses must contain (integrated culture/society study, skills including translation and research, prescribed literary works/films, and detailed grammar lists for French, German and Spanish with comparable appendices required for other languages, plus Chinese-specific adjustments). Across all four core themes -- Integrated language, culture and society curriculum; Comprehensive language skill development; Study of literary works and films; and Standardised grammar requirements -- there is no statistic, named report, consultation finding, or comparative policy evidence offered anywhere in the extract, in the themes themselves or in the ungrouped sentences. All <references> and <links> blocks are empty, so no claim is cited even loosely. The one explicit 'Reference: 1' marker simply points to the grammar annex, not to supporting evidence. Phrases like 'must enable students to' or 'must require' describe the measure but give no grounds for why this particular design (e.g. two themes at AS, two literary works at A level, specific grammar points marked (R)) will work as intended or why alternatives were rejected. The strongest counter-example is the grammar theme's comparability requirement for 'other languages', which gestures at a standard but still cites no study or rationale behind the French/German/Spanish benchmark itself. All core themes therefore sit at level 0, giving a mean of 0 and a section score of 0. To reach level 1, the document would need to mention, even without citation, some finding, consultation response, or comparative rationale explaining why these specific content choices were made.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

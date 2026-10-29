@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rising life expectancy and time in retirement",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Figures of 13\u00bd years/23%, 18\u00bd/29% and 21/32% (Reference: 5,6), projections of two more years (Reference: 13) and historical trends (Reference: 12, 19, 26) are tied to ONS datasets and linked to the claim of a growing share of adult life in retirement, with the method partly explained (adult life starts at 20, combined average) though the Box 1.1 figures carry no citation and no uncertainty is assessed."
+    },
+    {
+      "theme": "Demographic ageing and pay-as-you-go pressure",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The 12.4m to 16.9m pensioner growth and the 301 to 375 per 1,000 dependency ratio are cited to ONS 2014-based projections (Reference: 7, 8) and clearly linked to the pay-as-you-go argument, but the projections' uncertainty is not assessed."
+    },
+    {
+      "theme": "Rising fiscal cost of the State Pension",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The 1% of GDP (\u00a320bn, \u00a3725 per household) rise is cited to the Cridland review (Reference: 9, 30) and OBR projections to 2066/67 to the Fiscal Sustainability Report (Reference: 31), with a clear link to the sustainability claim, though some OBR age-related spending lines are uncited and no uncertainty is discussed."
+    },
+    {
+      "theme": "Past delay and stop-start reform",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Only the 2009 women's 27.6 years/41% figure is cited, to a DWP calculation (Reference: 21) whose method is not explained, while the claims about decades of inaction and three Acts rest on uncited narrative and reasoning, and some lines (such as the life expectancy and demographic changes in earlier themes) are used only as context."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The first line cites a Government Actuary report and DWP modelling (Reference: 3,4) but gives no figures, and the remaining lines are uncited assertions, including one noting uncertainty in life expectancy projections without detail."
+    }
+  ],
+  "reasoning": "Four core themes were scored. The life expectancy theme reaches level 2: lines such as \"a 65-year-old could expect to spend 13\u00bd years, or 23%, of their adult life in receipt of the State Pension\" carry References 5 and 6, which state the assumptions (adult life starts at 20, combined male/female average), and the projection of a further two years carries Reference 13. The demographic theme reaches level 2: the dependency ratio rising from 301 to 375 per 1,000 is cited to ONS projections (References 7, 8) and linked to the pay-as-you-go system. The fiscal theme reaches level 2: the 1% of GDP rise is cited to the Cridland review (References 9, 30) and the OBR (Reference 31). The past delay theme stays at level 1: only one DWP calculation (Reference 21) is cited, with its method unexplained, and the argument about decades of inaction is largely assertion. The mean is (2+2+2+1)/4 = 1.75, which rounds to 2. The strongest counter-example is that no theme reaches level 3: the extract never assesses the strength of the projections, and the only nod to uncertainty (\"considerable uncertainty in future life expectancy projections\") is uncited and unexplained. Some figures, such as Box 1.1 on life expectancy, are also uncited. To reach level 3, the document would need to assess the reliability of the ONS and OBR projections, set out ranges or alternative scenarios, and acknowledge contradicting evidence, such as differences in life expectancy between groups.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

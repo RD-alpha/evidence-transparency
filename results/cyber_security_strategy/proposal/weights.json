@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Government-led intervention beyond the market",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Defend: active cyber defence and a National Cyber Security Centre",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Deter: disrupting and prosecuting adversaries",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Develop: skills, innovation and research",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

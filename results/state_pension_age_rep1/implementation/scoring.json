@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Notice and communication of changes",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The ten-year notice pledge and communications strategy are commitments and descriptions of what will be done (e.g. 'We will also seek to provide a minimum of ten years' notice'), with only Cridland's recommendation and an acknowledgement that there is no legislative requirement, so no evidence is offered that this will work."
+    },
+    {
+      "theme": "Wider support package for later life",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only figure is the \u00a350 billion annual spend on disability and health benefits, cited to DWP expenditure tables (Reference: 42), but it merely shows the existing safety net and is not linked to how the new package will work; the rest is commitments to evaluate later."
+    },
+    {
+      "theme": "Review cycle and legislative route",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Pensions Act 2014 mechanism, the Government Actuary's report and Cridland's independent report (32.0%/33.3% timetables, 2028-2064) are described as informing the review, but none is cited with a reference or link and the law is cited to describe the process rather than to explain a constraint."
+    }
+  ],
+  "reasoning": "All three themes are core, so each level counts toward the mean. Notice and communication scores 0: the lines \"We will also seek to provide a minimum of ten years' notice\" and the communications strategy bullets are commitments and plans, not evidence. The nearest support is that Cridland \"recognised that good communication will be at the heart\" of the strategy, and that is a recommendation without findings. The line \"There is no legislative requirement\" explains the absence of a constraint. Wider support package scores 1: the \u00a350 billion spend on disability benefits (Reference: 42, DWP benefit expenditure tables) is a real, followable figure, but it only describes current spending and is not tied to how the rise to 68 will be cushioned. The rest defers to future evaluation of Universal Credit and the consultation on health and work. Review cycle and legislative route scores 1: it names the Government Actuary's report with 32.0% or 33.3% of adult life in receipt, Cridland's independent report and two-yearly life expectancy projections, and explains how they shape the timetable. However, none carries a reference or link, so the reader cannot follow them. The mean is (0+1+1)/3 = 0.67, which rounds to 1. The strongest counter-example is that the review theme could be seen as level 0, because its statutory mechanism is only a description of process; it is kept at 1 because the Actuary's percentages are real findings offered as grounds. To reach level 2, the document would need to cite the Actuary's and Cridland's reports with links. It would also need to show how evidence supports the ten-year notice period and the support package.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

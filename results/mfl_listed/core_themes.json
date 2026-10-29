@@ -1,0 +1,49 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Reform rationale for HE/employment readiness",
+        "claim": "The document argues that qualifications are being reformed because higher education institutions have raised concerns that students lack the knowledge and skills needed for undergraduate success, and the reforms aim to fix this."
+      },
+      {
+        "name": "Linear, decoupled assessment structure",
+        "claim": "The document argues that the old modular structure (with AS marks counting toward A level) undermined depth of study, so the new qualifications are made linear and the AS is fully decoupled to give more teaching time and deeper understanding."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Dropping the speaking assessment, compensated by combined skills",
+        "claim": "The proposal is to remove the requirement to assess speaking in these 12 languages because of practical difficulties recruiting expert examiners, compensating by requiring students to apply listening, reading and writing in combination to preserve challenge."
+      },
+      {
+        "name": "Content aligned with, but adapted from, the 2015 main MFL content",
+        "claim": "The proposal bases this content closely on the existing 2015 main modern languages content (themes, research, literary/film study) but makes targeted adaptations (e.g. society past and present, cinematic technique, no online media requirement, amended research requirements) so that demand remains broadly comparable despite the absence of speaking assessment."
+      },
+      {
+        "name": "Distinct qualification title",
+        "claim": "The proposal is to give the qualification a distinct title ('alternative content for languages with smaller cohorts') so that students taking it are clearly distinguished from those who took qualifications including speaking assessment."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Phased rollout schedule",
+        "claim": "The document argues that implementation will follow the wider staged reform timetable, with these 12 languages (and Biblical Hebrew) first taught in Autumn 2018 after earlier tranches of subjects were rolled out in 2015, 2016 and 2017."
+      },
+      {
+        "name": "Expert-led collaborative drafting process",
+        "claim": "The document argues that the content was produced by an engaged expert drafter working with university representatives, awarding organisations and Ofqual to ensure the qualifications are rigorous and fit for higher education progression."
+      },
+      {
+        "name": "Mandatory specification framework for awarding organisations",
+        "claim": "The document argues that implementation requires awarding organisations' specifications to conform to a detailed common framework covering themes, integrated language skills, literary and film study, research skills and grammar requirements, so that all qualifications meet a consistent, comparable standard of rigour."
+      }
+    ],
+    "note": "This aspect contains an unusually large number of detailed, mandatory specification requirements, which have been treated as components of a single overarching framework theme rather than separate themes."
+  }
+}

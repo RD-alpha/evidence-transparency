@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Joint administration and alignment with the RTFO",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Alignment is argued from legal deadlines (FQD reporting date 31 December, 29 Nov vs 10 Sept RTFC redemption) and the existing RTFO operating model, but the cited references (7, 16) are irrelevant to the claims and no evidence of burden reduction or supplier views is given."
+    },
+    {
+      "theme": "UER standards, verification and anti-double-counting",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The choice of ISO 14064/14065/14066, the CDM comparison and the Directive 2015/652 and Commission guidance are linked to why core criteria are legislated, and options for baselines and verification are weighed with stated uncertainties (lines 2.36, 'we have not explored how this could work', availability of CDM credits), though many reference numbers are mismatched (2, 11-13, 19, 21, 23)."
+    },
+    {
+      "theme": "Electricity supplier data and reporting approach",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The preference over the market-share option rests on reasoning and on uncited usage figures (~20%/80% split cited to unrelated references 19, 21), with Recital 11 and ISAE 3000 mentioned but no data or consultation evidence for fairness or reward pass-through, even though uncertainty over smart meter rollout is acknowledged."
+    },
+    {
+      "theme": "Compliance, penalties and proportionate reporting",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Table 22 of past civil penalties (source DfT Biofuels Statistics Report), the workshop of August 2015 and the FQD requirement for effective, proportionate, dissuasive penalties support the RTFO-modelled approach and the 100% compliance assumption, though the references (e.g. 23, 29, 32, 34) are mismatched and the assumption is only partly assessed."
+    }
+  ],
+  "reasoning": "The four core themes score 1, 2, 1 and 2, a mean of 1.5, which rounds down to 1. The extract does show some evidence and some option appraisal, but not consistently linked or cited. The strongest theme is UER standards (level 2): it links the choice of ISO 14064/14065/14066 and CDM-style standards to the Directive 2015/652 and the Commission guidance, compares 'Example 1' and 'Example 2' for baselines, and openly admits gaps ('we have not explored how this could work in practice'; credit availability could limit supply). Compliance gets level 2 for Table 22 (six civil penalties in nine years, sourced to a DfT report) and the August 2015 stakeholder workshop, which support the assumption of full compliance. Alignment with the RTFO rests on legal reporting deadlines and existing practice, but the references attached (7, 16) do not support the claims, and no evidence shows the burden is actually reduced. Electricity reporting rejects the market-share option through reasoning only, and its figures (~20%/80% charge point split) carry references 19 and 21 that point at unrelated footnotes. The strongest counter-example to level 1 is the UER theme's assessed options, which look like level 2 or near 3. Many reference numbers across the extract point to footnotes that do not match their claims, so a motivated citizen could not follow the trail. To reach level 2 overall, the document would need correct citations and a clear evidential basis, such as consultation responses or data, for the alignment and electricity choices.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

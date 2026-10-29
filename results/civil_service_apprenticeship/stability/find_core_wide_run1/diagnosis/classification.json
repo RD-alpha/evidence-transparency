@@ -1,0 +1,31 @@
+{
+  "themes": [
+    {
+      "name": "National skills shortage and productivity gap",
+      "ids": [
+        "S0023"
+      ]
+    },
+    {
+      "name": "Public sector lag behind private sector",
+      "ids": [
+        "S0026"
+      ]
+    },
+    {
+      "name": "Diversity, inclusion and social mobility deficit",
+      "ids": [
+        "S0041",
+        "S0042",
+        "S0043",
+        "S0057"
+      ]
+    },
+    {
+      "name": "Changing perceptions and equity in apprenticeships",
+      "ids": [
+        "S0078"
+      ]
+    }
+  ]
+}

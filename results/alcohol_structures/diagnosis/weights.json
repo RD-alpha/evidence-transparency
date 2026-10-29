@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Banding misaligns duty from strength",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Adverse incentives within bands",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Harms from high-strength 'white' cider",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Government awareness of alcohol harms and policy context",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Current duty band structure and wine policy",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

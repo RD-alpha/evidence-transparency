@@ -1,0 +1,132 @@
+<root>
+<theme sentences="4" weight="core">
+<name>Stock overfishing and failure to meet MSY</name>
+<claim>Current stock assessments and landing trends show that lobster and crawfish stocks in English waters are being overfished and are not exploited at levels associated with Maximum Sustainable Yield.</claim>
+<text>
+<line id="S0018">The nature of fisheries means that without government intervention, most stocks would be over-fished.</line>
+<line id="S0019">Even though there are management measures (e.g. Minimum Conservation Reference Sizes) in place which aim to ensure the continuation of some spawning activity, current stock assessments on European lobster and landing trends on crawfish in English waters indicate that these stocks are being overfished, with no lobster stocks being exploited at levels associated with Maximum Sustainable Yield (MSY).</line>
+<line id="S0020">If this over-exploitation is not addressed, not only would there be a risk to the future availability of this fishery but this would also jeopardise the UK’s ability to meet its EU obligations to ensure that harvested shellfish species are being exploited at MSY levels by 2020.</line>
+<line id="S0383">5.1. The evidence indicates that both European lobster and crawfish stocks in English waters are overfished which, if not addressed, could risk the sustainability of these fisheries. ** (Reference: 1)</line>
+</text>
+<references>
+<reference number="1">Marine Management Organisation, UK Sea Fisheries Annual Statistics 2014. https://www.gov.uk/government/statistical-data- sets/uk-sea-fisheries-annual-statistics-report-2014</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="9" weight="core">
+<name>EU and international obligations</name>
+<claim>Failing to address overfishing would jeopardise the UK's obligations under the Common Fisheries Policy and Marine Strategy Framework Directive to achieve MSY exploitation and Good Environmental Status by 2020, and crawfish's Biodiversity 2020 commitments.</claim>
+<text>
+<line id="S0020">If this over-exploitation is not addressed, not only would there be a risk to the future availability of this fishery but this would also jeopardise the UK’s ability to meet its EU obligations to ensure that harvested shellfish species are being exploited at MSY levels by 2020.</line>
+<line id="S0102">1.1. Even though shellfish management is devolved in the UK, we share the same EU obligations. ** (Reference: 3)</line>
+<line id="S0103">The UK is required under the reformed Common Fisheries Policy (CFP) and Marine Strategy Framework Directive (MSFD) to ensure that all commercially exploited shellfish are fished at levels associated with Maximum Sustainable Yield (MSY) and stocks must be exploited at this level to attain Good Environmental Status (GES) by 2020.</line>
+<line id="S0106">The MSY level varies amongst species and stocks; further details on how this specifically relates to lobsters are included in paragraph 1.1. Crawfish was added to the list of UK Biodiversity Action Plan (UK BAP) species when it was reviewed in 2007. ** (Reference: 4)</line>
+<line id="S0107">The UK BAP represented the UK Government’s response to the Convention on Biological Diversity and outlines the UK’s biological resources in most need of priority conservation action.</line>
+<line id="S0108">The UK BAP is now focused at a country-level rather than a UK- level and the current Biodiversity 2020 strategy has been developed from this.</line>
+<line id="S0109">The objective of this strategy in relation to species is “By 2020, we will see an overall improvement in the status of our wildlife and will have prevented further human-induced extinctions of known</line>
+<line id="S0110">threatened species”. ** (Reference: 6)</line>
+<line id="S0111">How this will be taken forward for commercially exploited marine species such as crawfish is currently under review however, key tasks have been identified for crawfish.</line>
+</text>
+<references>
+<reference number="3">European Commission Scientific Technical and Economic Committee on Fisheries. Annual Economic Report on the EU fishing fleet 2015. https://stecf.jrc.ec.europa.eu/documents/43805/1034590/2015-07_STECF+15-07+-+AER+2015_JRC97371.pdf</reference>
+<reference number="4">Seafish Industry Authority. Seafood Processing Industry Report. http://www.seafish.org/research-economics/industry- economics/processing-sector-statistics</reference>
+<reference number="6">Biodiversity 2020: A strategy for England’s wildlife and ecosystem services. https://www.gov.uk/government/publications/biodiversity-2020-a-strategy-for-england-s-wildlife-and-ecosystem-services</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="5" weight="core">
+<name>Common-pool resource market failure</name>
+<claim>Fishing is a common good problem in which individual fishers' private incentives to exploit the stock diverge from the social interest, leading to systematic over-exploitation of the shared resource.</claim>
+<text>
+<line id="S0124">1.3. Fishing is an example of a common good problem where the private cost of exploitation is not equal to the social cost. ** (Reference: 1,12)</line>
+<line id="S0125">This is because where a fisher extracts a fish from the fish stock (a common resource), this imposes an external cost on other fishers, who can no longer extract that fish or any future offspring from that fish.</line>
+<line id="S0126">This leads to the depletion of a shared resource, as individuals act independently and rationally according to their self-interest, despite understanding that this is contrary to the long-term best interests of the group of fishers.</line>
+<line id="S0127">This is a market failure, whereby there is an incentive to fish intensively and maximise profits without any corresponding incentives to refrain whilst stocks are available, and leads to inefficient outcomes with the fish stock being over-exploited.</line>
+<line id="S0128">Over-exploitation of fish stocks also affects other ecosystem services by disrupting the food chain, leading to a further market failure.</line>
+</text>
+<references>
+<reference number="1">Marine Management Organisation, UK Sea Fisheries Annual Statistics 2014. https://www.gov.uk/government/statistical-data- sets/uk-sea-fisheries-annual-statistics-report-2014</reference>
+<reference number="12">A common good is rivalrous but non-excludable; the supply can be depleted, but people are not restricted in their use of the good.</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="10" weight="core">
+<name>Role of berried females in stock recruitment</name>
+<claim>Landing egg-bearing lobsters and crawfish removes fertilised eggs before they can hatch, imposing a particularly large cost on future recruitment and stock health.</claim>
+<text>
+<line id="S0024">Currently female lobsters and crawfish that are carrying fertilised eggs, also known as ‘berried’, are allowed to be landed into England, although there are some regional inshore bans in place by Inshore Fisheries and Conservation Authorities (IFCAs).</line>
+<line id="S0114">throughout England, is the prohibition on landing egg-bearing lobsters with two of these IFCAs also extending this prohibition to include crawfish (a map is included at Annex B).</line>
+<line id="S0115">Female lobsters and crawfish carry their fertilised eggs on the underside of their abdomen which look like berries, hence why there are also known as berried lobsters or crawfish (photos included in Annex A).</line>
+<line id="S0116">They carry their eggs externally for around 9 months, which they then release into the sea to hatch.</line>
+<line id="S0117">When berried lobsters and crawfish are landed, the eggs don’t tend to be used and usually get scraped off by the processor or buyers, particularly as most export markets now won’t accept berried lobsters or crawfish.</line>
+<line id="S0130">In the case of landing berried lobsters or crawfish, this imposes a particularly large external cost to both industry and society.</line>
+<line id="S0131">This is because berried lobsters and crawfish are essential for the future health of the population.</line>
+<line id="S0132">Berried lobsters and crawfish carry a large number of fertilised eggs which are not yet able to survive independently.</line>
+<line id="S0133">Removing berried lobsters or crawfish from the population means that these eggs cannot grow into mature lobsters or crawfish to augment the population in the future.</line>
+<line id="S0134">This increases the risk of low recruitment in future years resulting in less being available to be caught by other fishers in the future.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="7" weight="not core">
+<name>Economic and employment significance of lobster and crawfish fisheries</name>
+<text>
+<line id="S0092">1.1. The English shellfish sector is one of our most important fisheries, which has consistently produced very high value of landings to English ports. ** (Reference: 1)</line>
+<line id="S0093">Landings of European lobster (Homarus gammarus) into English ports alone were worth £17.7 million in 2014 which made it the third most valuable species landed into England. ** (Reference: 1)</line>
+<line id="S0094">The crawfish (Palinurus elephas) fishery is far smaller and more localised compared to lobster with around 12 tonnes and 18,000 tonnes landed into England in 2014 respectively. ** (Reference: 1,2)</line>
+<line id="S0095">Nevertheless, crawfish is a very lucrative fishery fetching the highest price per kilogram amongst all shellfish species resulting in landings into England being worth £218,115 in 2014. ** (Reference: 2)</line>
+<line id="S0096">How this relates to employment can be inferred from the number of vessels using certain gear.</line>
+<line id="S0097">Vessels using pots and traps (gear primarily used for catching lobsters and crawfish as well as crabs) employed 4000 people in 2013, and supports shellfish processors who employed a further 4000 people in 2014. Lobsters and crawfish are caught using other gears, the most significant being fixed nets to catch crawfish ** (Reference: 3,4)</line>
+<line id="S0098">however it’s difficult to quantify employment from this.</line>
+</text>
+<references>
+<reference number="1">Marine Management Organisation, UK Sea Fisheries Annual Statistics 2014. https://www.gov.uk/government/statistical-data- sets/uk-sea-fisheries-annual-statistics-report-2014</reference>
+<reference number="1">Marine Management Organisation, UK Sea Fisheries Annual Statistics 2014. https://www.gov.uk/government/statistical-data- sets/uk-sea-fisheries-annual-statistics-report-2014</reference>
+<reference number="1">Marine Management Organisation, UK Sea Fisheries Annual Statistics 2014. https://www.gov.uk/government/statistical-data- sets/uk-sea-fisheries-annual-statistics-report-2014</reference>
+<reference number="2">Marine Management Organisation, Fisheries Activity Database (FAD)</reference>
+<reference number="2">Marine Management Organisation, Fisheries Activity Database (FAD)</reference>
+<reference number="3">European Commission Scientific Technical and Economic Committee on Fisheries. Annual Economic Report on the EU fishing fleet 2015. https://stecf.jrc.ec.europa.eu/documents/43805/1034590/2015-07_STECF+15-07+-+AER+2015_JRC97371.pdf</reference>
+<reference number="4">Seafish Industry Authority. Seafood Processing Industry Report. http://www.seafish.org/research-economics/industry- economics/processing-sector-statistics</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="3" weight="not core">
+<name>Current local management measures and evidence</name>
+<text>
+<line id="S0119">The local bans already in place are supported by many, including some fishers, as the short term gain of landing a berried lobster or crawfish could affect the future viability of the fishery as it prevents viable eggs from hatching and increasing the stock biomass.</line>
+<line id="S0120">There haven’t been any assessments on the effectiveness of these local bans and it would be difficult to attribute any improvements in the stock to this specific management measure.</line>
+<line id="S0121">Nevertheless, IFCAs have received several anecdotal reports of an increase in the lobster population and it is recognised as good fisheries practice to protect spawning stock.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="not core">
+<name>External costs of landing berried females</name>
+<text>
+<line id="S0130">In the case of landing berried lobsters or crawfish, this imposes a particularly large external cost to both industry and society.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<ungrouped sentences="3">
+<text>
+<line id="S0104">MSY is the highest theoretical equilibrium yield that can be continuously taken on average from a stock under existing average environmental conditions, whilst maintaining optimum reproductive capacity.</line>
+<line id="S0105">MSY can refer to biomass (BMSY) or exploitation rates (FMSY), also known as Fishing Mortality (F).</line>
+<line id="S0112">The most relevant task to fisheries management is to better regulate fisheries as it’s likely that recruitment to stocks in England, are now coming from populations that are at a 'residual' level through over-exploitation.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</ungrouped>
+</root>

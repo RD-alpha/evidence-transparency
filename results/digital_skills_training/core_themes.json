@@ -1,0 +1,41 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Scale of the digital skills gap",
+        "claim": "More than ten million adults in England lack basic digital skills, and millions in the UK have never used the Internet."
+      },
+      {
+        "name": "Groups most affected",
+        "claim": "Lack of basic digital skills is concentrated among lower socio-economic groups and older people, who are far less likely to have these skills than higher socio-economic groups and the young."
+      },
+      {
+        "name": "Consequences of exclusion",
+        "claim": "Lacking digital skills leaves people unable to thrive in a digitised job market or to use banking, shopping and government services that are moving online."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Free basic digital skills training",
+        "claim": "The government will offer publicly-funded basic digital skills training free of charge to all adults in England who need it, so they can get the skills for modern life and the jobs of the future."
+      }
+    ],
+    "note": "The proposal is stated as an intention with no evidence, alternatives, costs or benefits given; the case rests on the diagnosis and on assertion."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Delivery through existing providers and budget",
+        "claim": "Courses will be delivered by colleges and other adult education providers and funded from the existing Adult Education Budget."
+      },
+      {
+        "name": "Consultation on details",
+        "claim": "The details of the new offer are not yet settled and the government will consult on them in the coming months."
+      }
+    ],
+    "note": "No reasons or evidence are given for choosing this delivery method, and the consultation is mentioned without describing its method."
+  }
+}

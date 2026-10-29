@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "EU Directive conflicts with GB exemption",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines (e.g. 1.3, 1.4, 'The Directive still enables exemptions...') describe the Directive and current GB rules, with no reference numbers; the Directive is named but is only a description of rules and the constraint is asserted, not cited as evidence."
+    },
+    {
+      "theme": "Road safety risk of older vehicles",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The line 'many older vehicles lack appropriate safety features' is an uncited assertion with no statistic or source, and the remaining lines only describe testing rules."
+    },
+    {
+      "theme": "Exemption only for genuinely original vehicles",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Both lines ('This ensures that the vehicles benefiting from MOT exemptions are actually in the original condition...' and 'This is a useful amendment...') are argument with no evidence or citation."
+    },
+    {
+      "theme": "Legal framework for vehicle testing",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on the Road Traffic Act 1988 and the Goods Vehicles (Plating and Testing) Regulations 1988 only describe current rules, which is not evidence, and carry no references."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line 'There are no additional requirements or criteria to be met' is a bare statement with no evidence."
+    }
+  ],
+  "reasoning": "The three core themes all score level 0. For the EU Directive conflict, the document repeatedly states what Directive 2014/45/EU requires (vehicles 'at least 30 years ago, no longer in production and not substantially changed') and that 'we will need to amend domestic law' (lines 1.4 and the rationale paragraph). The Directive is named, and a legal constraint can count as evidence of why an option was chosen. However, no reference or link is attached in this extract, so a reader cannot follow it to the source, and the text mostly describes rules. The road safety theme rests on the unsupported assertion that 'many older vehicles lack appropriate safety features', with no statistic, finding or source on accident rates or defects in pre-1960 or 30-year-old vehicles. The 'genuinely original vehicles' theme is pure argument ('a useful amendment') with no evidence on how many altered vehicles exist or how they are used. The mean of the core levels is 0, giving a score of 0. The strongest counter-example is that the Directive is a real, identifiable legal constraint that is clearly explained, which could justify level 1. Even so, the missing citations and the extract's reliance on description rather than evidence keep it at 0. To reach level 1 the document would need to offer evidence such as accident or defect data for older vehicles, or consultation findings, and explain what they show. For level 2 it would also need to cite the Directive with a reference or link and show how it supports the claim.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

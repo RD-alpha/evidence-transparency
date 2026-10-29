@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Flexible routes to compliance",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The route percentages are said to be 'based on discussions with stakeholders and BIS estimates' and unnamed stakeholder input ('work with stakeholders has suggested...') justifies the match-test and cover-test changes, but no numbers of respondents or method are given and Reference 4 (ONS SIC data) does not actually support the compliance-route figures, so the method behind the primary evidence stays unclear."
+    },
+    {
+      "theme": "Extended transition period to limit business disruption",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Consultation responses are cited as favouring 24 months and a detailed cost model (Reference 13, ONS Annual Business Survey) compares 2-3 year testing cycles under the new regime, explicitly flagging itself as 'a crude estimate', linking evidence to the 18\u219224 month decision, though the consultation-response claim itself lacks respondent numbers."
+    },
+    {
+      "theme": "Enhanced traceability and record-keeping requirements",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The rationale for 10-year retention cites alignment with 'product safety Directives' but Reference 10 points to an unrelated ONS households page, while the \u00a31m admin cost (Reference 9, BIS/PRODCOM analysis) is explained with an assumption (16 hours) but the methodology behind it is only lightly described."
+    },
+    {
+      "theme": "Scope clarification through consultation",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The Baby Products Association's consultation argument and the NLF precedent are named in prose with no reference numbers attached, and Reference 6 (test-house cost savings) does not actually support the scope claims, leaving the evidence uncited."
+    },
+    {
+      "theme": "Stakeholder engagement and support for implementation",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Reference 3 gives a concrete consultation split (57 vs 14) but most of the theme (guidance plans, trade association work) is asserted without evidence of effectiveness."
+    },
+    {
+      "theme": "Testing and evidence gathering through consultation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Nearly every line is a forward-looking intention ('we will test this...', 'we plan to test this in consultation') with no evidence yet presented for the decisions being tested."
+    },
+    {
+      "theme": "Administrative and compliance changes",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims about reduced burden and prosecution time extension (6 to 12 months) are asserted with Reference 8 attached to an unrelated cost line, giving no real support."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single sentence restates an unresolved test method with no evidence behind it."
+    }
+  ],
+  "reasoning": "Of the four core themes, 'Extended transition period' reaches level 2: it cites consultation responses favouring 24 months and backs the costing with a modelled comparison of testing cycles (Reference 13), explicitly noting it is 'a crude estimate' - evidence is linked to the specific timetable decision. The other three core themes sit at level 1. 'Flexible routes to compliance' bases its route percentages on unreferenced 'discussions with stakeholders and BIS estimates... to be tested further', with no respondent numbers and a mismatched citation (Reference 4). 'Enhanced traceability' justifies 10-year retention by appeal to 'product safety Directives' but the attached Reference 10 is an unrelated ONS households page, leaving the comparison uncited, though the \u00a31m admin cost estimate (Reference 9) shows some methodology. 'Scope clarification' names the Baby Products Association's consultation argument and the NLF precedent only in prose, with no reference numbers, and Reference 6 doesn't actually support the scope discussion. Mean of core levels (1, 2, 1, 1) = 1.25, rounding down to 1. The strongest counter-example is the transition-period cost model, which comes close to level 3 by flagging its own 'crude' nature. To reach level 2 overall, the document would need to properly cite the stakeholder percentages behind each compliance route and the consultation numbers behind the scope and traceability decisions, linking them clearly to those specific choices.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.25,
+  "score_consistent": true,
+  "missing_core": []
+}

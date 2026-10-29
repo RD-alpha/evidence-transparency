@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Historical collapse and failed revival of institutional renting",
+        "claim": "Institutional investment in purpose-built rental housing collapsed after wartime rent controls destroyed viability and, despite deregulation in the 1980s, never recovered because of lingering risk perceptions and the sector's poor reputation."
+      },
+      {
+        "name": "Market and regulatory failure rationale",
+        "claim": "Build to Rent is held back by genuine market failures (high entry barriers, imperfect information on rental premiums and financing costs, unpriced externalities) and regulatory failure (planning authorities' unfamiliarity with the BTR model causing delay and uncertainty), which together justify treating it as a special case."
+      },
+      {
+        "name": "Specific planning and viability barriers",
+        "claim": "Industry-cited barriers—land acquisition competition with build-for-sale developers and a viability assessment methodology poorly suited to BTR's long-term income model—are the concrete mechanisms preventing faster deployment of available capital."
+      },
+      {
+        "name": "Strong underlying demand and investment appetite",
+        "claim": "Demographic pressure (household formation outstripping supply, rising share of renters) and abundant institutional capital (tens of billions of pounds) show that BTR has substantial untapped potential if barriers are removed."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Recasting national planning policy to explicitly support Build to Rent",
+        "claim": "The Government proposes revising the National Planning Policy Framework to refer explicitly to Build to Rent so that planning authorities have clear guidance to plan positively for the sector and reduce uncertainty."
+      },
+      {
+        "name": "Affordable Private Rent as the preferred affordable housing vehicle",
+        "claim": "The Government proposes promoting Affordable Private Rent (discounted market rent within the same scheme) as the default affordable housing contribution for Build to Rent schemes because single-ownership delivery creates efficiencies that improve viability and can deliver more affordable homes than conventional routes."
+      },
+      {
+        "name": "Encouraging family-friendly longer tenancies",
+        "claim": "The Government proposes establishing an expectation, not a legal requirement, that Build to Rent schemes routinely offer tenancies of three years or more to tenants who want them, particularly to benefit families with children."
+      },
+      {
+        "name": "Rejecting alternative planning mechanisms",
+        "claim": "The Government considered and rejected other planning tools suggested by industry (permission in principle, presumption in favour, permitted development rights, a dedicated use class or zone) as unworkable or unnecessary, leaving NPPF revision as the chosen route."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "A light-touch definition of Build to Rent",
+        "claim": "Rather than a detailed, rigid definition, the Government proposes defining Build to Rent only by broad features (tenure, typology, tenancy length, single management, use of Affordable Private Rent) to give enough certainty without constraining the sector's development."
+      },
+      {
+        "name": "Setting national Affordable Private Rent parameters",
+        "claim": "The Government proposes implementing Affordable Private Rent through fixed national parameters—at least 20% of homes discounted by at least 20%, held in perpetuity, with eligibility left to local negotiation—as the mechanism for delivering predictable affordable housing contributions from Build to Rent schemes."
+      },
+      {
+        "name": "Clawback instead of a fixed covenant period",
+        "claim": "Rather than requiring a minimum covenant period keeping homes in the private rented sector, the Government proposes a flexible clawback formula triggered when homes are sold out of Build to Rent, to preserve investor exit options while still securing affordable housing contributions."
+      },
+      {
+        "name": "Possible London-specific variation",
+        "claim": "Because London's land values, rents and market scale differ markedly from the rest of England, and because the GLA is pursuing a parallel but distinct approach (e.g. mandatory viability appraisals and a 15-year covenant), the Government is considering whether its national implementation parameters should be varied for London."
+      }
+    ],
+    "note": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Joint governance, data sharing and dispute resolution",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Operating the tax adjustments and transition",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Borrowing, funding and tax-devolution framework",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Initial funding rate and transitional multiplier",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

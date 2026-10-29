@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Outdated match test and excess chemical use",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Health and environmental harm from flame retardants",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Proven safety record of existing regulations",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Ambiguous scope of regulations",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Weak traceability hampering enforcement",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enforcement challenges and non-compliant imports",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Regulatory context and stakeholder support",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Chemical regulation context",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

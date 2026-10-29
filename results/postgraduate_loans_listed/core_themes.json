@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Economic and employer demand for high-level skills",
+        "claim": "The document argues that the economy and employers need the deep specialist knowledge, research skills and innovation capacity of doctoral graduates, but employers are reluctant to invest upfront given the cost and length of doctoral study."
+      },
+      {
+        "name": "UK research base and institutional need for doctoral students",
+        "claim": "The document argues that the UK's global research leadership and higher education institutions' research capacity and REF performance depend on a strong supply of doctoral students, who provide critical mass, innovation and collaboration."
+      },
+      {
+        "name": "Unmet demand and a funding gap for doctoral study",
+        "claim": "The document argues that existing funding routes (chiefly Research Council studentships) are highly contested and cover only a minority of eligible students, leaving a financial gap between the high cost of doctoral study (£45k-£73k) and available support."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Objectives and design rationale for an income-contingent loan",
+        "claim": "The government proposes an income-contingent doctoral loan, modelled on the undergraduate and master's loan, as a non-means-tested contribution (not full cost) to study, chosen to support take-up, broaden and strengthen the research base and benefit the economy while being affordable and offering value for money."
+      },
+      {
+        "name": "Eligibility restrictions to protect value for money and avoid duplication",
+        "claim": "The proposal restricts eligibility by age (59 and under), residency (England, with UK portability), course type (Level 8 doctorates including professional doctorates) and exclusion of those already holding a Research Council studentship, to mitigate the risk of poor value for money and duplicate public funding."
+      },
+      {
+        "name": "Repayment and interest terms",
+        "claim": "The loan's repayment terms - RPI+3% interest, income-contingent repayment at 6% above a £21,000 threshold, 30-year write-off, and structuring to remain exempt from consumer credit regulation - are designed to ensure repayments are affordable while securing value for money for the taxpayer."
+      },
+      {
+        "name": "Maximum course length as a balance between flexibility and incentivising completion",
+        "claim": "Setting a six-year maximum course length is proposed as the right balance between allowing part-time study and incentivising students to complete quickly and enter the labour market."
+      }
+    ],
+    "note": "The proposal groups several distinct design choices (eligibility, repayment terms, course length) that are each justified as part of a single coherent loan package meeting shared principles of affordability and value for money."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Delivery through the Student Loans Company with regulatory compliance",
+        "claim": "The loan will be administered by the Student Loans Company, structured under Section 22 of the Teaching and Higher Education Act 1998 so that it remains exempt from consumer credit regulation, consistent with existing student loan products."
+      },
+      {
+        "name": "Choice between a demand-led model and a capped institutional allocation model",
+        "claim": "The government is still deciding whether to deliver the loan as a demand-led product or restrict it via a capped allocation of places to institutions (e.g. based on HEFCE's RDP funding metric), and is using this consultation to inform that choice."
+      },
+      {
+        "name": "Rollout timing and phased decision-making",
+        "claim": "The loan will not launch until academic year 2018/19, with full eligibility and final terms (including repayment rate and institutional allocation) to be decided and published only after this consultation has informed the department's choices."
+      },
+      {
+        "name": "Integrated repayment administration alongside other loans",
+        "claim": "Where a borrower also holds a master's loan, doctoral loan repayments will be combined into a single postgraduate repayment collected through employer payroll, and the government is seeking employer views to minimise administrative burden."
+      }
+    ],
+    "note": "Several implementation elements (notably the institutional allocation model and final repayment rate) are explicitly left undecided pending the outcome of this consultation."
+  }
+}

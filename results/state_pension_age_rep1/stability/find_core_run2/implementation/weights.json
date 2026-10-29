@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Ten years' notice and communications",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Wider package of support for work and those who cannot work",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Review and legislative process for delivering the rise",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

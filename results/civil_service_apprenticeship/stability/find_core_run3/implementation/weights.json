@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Three Delivery Routes",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Governance and Multi-Level Delivery",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enabling Reforms and Targeted Outreach",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Apprenticeship Content and Career Pathways",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Quality Assurance and Standards",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Cross-Sector Collaboration and Best Practice",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Diversity, Inclusion and Socio-Economic Measurement",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Workforce Planning and Departmental Delivery",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "themes": [
+    {
+      "theme": "Apprenticeship Routes and Creation Methods",
+      "reason": "Directly explains the chosen method for delivering the intervention—three specific routes for creating apprenticeships—which is central to the implementation rollout.",
+      "weight": "core"
+    },
+    {
+      "theme": "Recruitment and Talent Identification",
+      "reason": "Explains necessary changes to recruitment practices to support the chosen delivery routes, addressing how the intervention will function in practice.",
+      "weight": "core"
+    },
+    {
+      "theme": "Pay, Rewards and Compensation",
+      "reason": "Touches on reward structure as a supporting element but is a brief, narrow point rather than central to explaining the delivery method itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Career Development and Pathways",
+      "reason": "Describes how apprenticeships will be embedded into career structures, a key part of how the intervention is implemented and sustained across the workforce.",
+      "weight": "core"
+    },
+    {
+      "theme": "Diversity, Inclusion and Social Mobility",
+      "reason": "Directly addresses how implementation will target the stated problem of low diversity/social mobility, making it central to the argument for this aspect.",
+      "weight": "core"
+    },
+    {
+      "theme": "Geographic Reach and Regional Spread",
+      "reason": "Explains how the rollout extends across the UK, a specific implementation detail about scope rather than the core rationale for the method chosen.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Quality Assurance and Standards",
+      "reason": "Addresses how quality will be ensured and standards maintained during rollout, which is part of the costs/benefits and delivery assumptions of implementation.",
+      "weight": "core"
+    },
+    {
+      "theme": "Apprenticeship Targets and Policy Framework",
+      "reason": "States the target figures underpinning delivery but is largely administrative detail rather than explaining why this method was chosen.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Governance and Implementation",
+      "reason": "Describes the governance structures and roles overseeing delivery, directly explaining how the intervention will be rolled out and managed.",
+      "weight": "core"
+    },
+    {
+      "theme": "Cross-Sector Collaboration",
+      "reason": "Explains engagement with other sectors to support delivery at scale, supplementing but not central to the core implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Funding and Resources",
+      "reason": "Mentions funding mechanisms briefly but does not substantively address costs/benefits or assumptions behind the chosen method.",
+      "weight": "not core"
+    }
+  ]
+}

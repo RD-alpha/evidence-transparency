@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Strength-based duty principle",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "References 1 and 2 only cite the 2012 alcohol strategy and the EU referendum status as prior statements of intent, not evidence that strength-based duty achieves its stated aims, so the claim is asserted without supporting evidence."
+    },
+    {
+      "theme": "Targeted cider band over alternatives",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The rejection of raising duty on all cider (\"important role cider makers have in rural communities\") and of lowering the 7.5% threshold (it would \"widen the higher strength band\") is pure reasoning with no data, survey or study cited anywhere in the extract."
+    },
+    {
+      "theme": "New lower-strength wine band pending EU reform",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "\"Our initial research shows some still wines and made-wines below 8.5% abv...can be found in a wide range of retailers\" is the department's own evidence but its method is unexplained, and the document itself flags \"limited evidence\"/\"limited data\" without resolving this, capping it at level 1."
+    },
+    {
+      "theme": "Building on prior targeted interventions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 2010 minimum juice rule and 2014 below-duty-plus-VAT ban are described mechanistically (\"the aim was to increase the cost of white cider\") but no figures or findings are given on whether either measure actually reduced harm, so no evidence of effectiveness is offered."
+    }
+  ],
+  "reasoning": "The four core themes together give the case for strength-based bands very little evidential grounding. The 'Strength-based duty principle' theme rests only on prior government statements (refs 1-2), not evidence of effect, so it is level 0. 'Targeted cider band over alternatives' argues against two alternatives using unsupported claims about rural communities and band-widening, with no citation anywhere - level 0. 'Building on prior targeted interventions' describes the 2010 juice rule and 2014 minimum-pricing ban but never reports whether they worked, so it too is level 0. The strongest theme is 'New lower-strength wine band pending EU reform', which cites the department's own 'initial research' on retailer availability of low-strength wines - this is primary evidence, but its method is unexplained and the document itself admits 'limited evidence'/'limited data', keeping it at level 1 rather than reaching the citation-and-linkage bar of level 2. The strongest counter-example to a zero score is this wine theme's use of in-house research, which shows the department is not operating purely on assertion. The mean across the four core themes (0, 0, 1, 0) is 0.25, which rounds down to 0. To reach level 1 overall, the cider and prior-interventions themes would need at least some stated finding (even uncited) on effectiveness or impact; to reach level 2, the wine research would need a described method and a citable source.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.25,
+  "score_consistent": true,
+  "missing_core": []
+}

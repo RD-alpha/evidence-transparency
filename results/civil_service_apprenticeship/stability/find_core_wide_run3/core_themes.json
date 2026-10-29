@@ -1,0 +1,85 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "National skills shortages and productivity",
+        "claim": "The manifesto commitment to three million apprenticeships is driven by the need to address national skill shortages and stimulate economic growth and productivity."
+      },
+      {
+        "name": "Public sector apprenticeship gap",
+        "claim": "The public sector lags behind the private sector in apprenticeship uptake and has been asked to achieve a greater proportion of growth to close this gap."
+      },
+      {
+        "name": "Civil Service diversity and inclusivity shortfall",
+        "claim": "Despite being the most diverse it has ever been, the Civil Service still lacks true representation and inclusivity, limiting social mobility."
+      },
+      {
+        "name": "Disability employment gap",
+        "claim": "Disabled groups, such as those with autism, face a significant employment challenge that apprenticeships and wider policy must address."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Numerical apprenticeship target",
+        "claim": "The Civil Service will deliver at least 30,000 apprenticeship starts by 2020, equating to 2.3% of the workforce annually, to lead by example in the public sector."
+      },
+      {
+        "name": "Workforce capability and skills development",
+        "claim": "Apprenticeships will build the capability of the Civil Service workforce, filling existing and future skills gaps through transferable and profession-specific skills."
+      },
+      {
+        "name": "Diversity and social mobility",
+        "claim": "Apprenticeships provide an opportunity to improve diversity, inclusivity and social mobility by opening entry routes to people from all backgrounds regardless of educational attainment."
+      },
+      {
+        "name": "Economic and business case",
+        "claim": "Apprenticeships make business sense, evidenced by employer and apprentice reports of increased productivity and significant lifetime earnings returns for apprentices."
+      },
+      {
+        "name": "Leading the wider Government apprenticeship agenda",
+        "claim": "The Civil Service Apprenticeship Programme should lead by example and align with the Government's wider apprenticeship strategy, including the levy and NAO recommendations on quality versus quantity."
+      },
+      {
+        "name": "Quality over quantity",
+        "claim": "The programme is designed to ensure quality and parity of esteem for apprenticeships, not just to hit numerical targets."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Routes to creating apprenticeships",
+        "claim": "The Civil Service will create apprenticeships through three main routes: converting external recruitment, retraining existing staff, and enhancing current schemes."
+      },
+      {
+        "name": "Recruitment and reward reform",
+        "claim": "Successful delivery requires rethinking apprenticeship pay structures and recruitment/selection processes to focus on potential rather than the finished product."
+      },
+      {
+        "name": "Embedding apprenticeships in career pathways",
+        "claim": "Apprenticeships will be embedded into professional career ladders, functional plans and talent management strategies to provide a viable route into and up through the Civil Service."
+      },
+      {
+        "name": "Governance and departmental delivery structure",
+        "claim": "The Cabinet Office will set strategic direction and support departments, who will be responsible for delivering the numbers and quality of apprenticeships in their workforce plans."
+      },
+      {
+        "name": "Devolved administration and UK-wide coverage",
+        "claim": "The strategy applies across the UK Home Civil Service, with the Cabinet Office engaging Devolved Administrations to ensure similar growth and access outside England."
+      },
+      {
+        "name": "Targeting underrepresented groups",
+        "claim": "Implementation will include targeted outreach, recruitment and marketing to promote apprenticeships to those from lower socio-economic backgrounds and other underrepresented groups."
+      },
+      {
+        "name": "Measurement and monitoring framework",
+        "claim": "Success will be tracked through data collection, long-term tracking of apprentice outcomes, and a set of interim goals and measures across five strategic areas."
+      }
+    ],
+    "note": ""
+  }
+}

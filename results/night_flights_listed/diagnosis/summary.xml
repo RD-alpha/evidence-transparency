@@ -1,0 +1,582 @@
+<root>
+<theme sentences="35" weight="core">
+<name>Night noise harms health and sleep</name>
+<claim>The document argues that aircraft noise at night causes sleep disturbance and related health effects on communities near airports, and that this harm is well-evidenced and growing in scientific understanding (e.g. WHO guidelines).</claim>
+<text>
+<line id="S0046">For communities living near airports, this means the impact of noise must be managed and in particular, night noise, which we know people find particularly disturbing.</line>
+<line id="S0070">3 Other environmental concerns are local, and for communities living near airports, noise is often the primary concern.</line>
+<line id="S0142">The underlying principle of the restrictions has been to balance the need to protect local communities from excessive aircraft noise at night - which the Government recognises is the least acceptable aspect of aircraft operations, with permitting the operation of services that provide benefits to the aviation industry and wider economy.</line>
+<line id="S1131">The biggest issue arising from night flights is the effect of night noise on residents in areas surrounding airports.</line>
+<line id="S1132">In particular, the impact this has on sleeping patterns of individuals.</line>
+<line id="S1133">There has been growing evidence on the relationship between exposure to higher levels of aircraft noise at night, sleep disturbance, and adverse health effects.</line>
+<line id="S1181">Since 1993, evidence of the relationship between noise exposure, sleep disturbance and health impacts has increased.</line>
+<line id="S1182">This evidence informed the 1999 World Health Organization (WHO) Guidelines for Community Noise, stating that noise events exceeding 45 dBA Lmax indoors should be limited if possible. ** (Reference: 66, 67)</line>
+<line id="S1183">It noted that it should be possible to sleep with a bedroom window slightly open (a reduction from outside to inside of 15 dB), therefore equating to an outdoor Lmax of 60 dBA. ** (Reference: 68)</line>
+<line id="S1184">Although currently exempt aircraft are quieter than those included in the limits, they do create noise that could result in sleep disturbance.</line>
+<line id="S1350">Although local communities are exposed to greater levels of aircraft noise during the day-time, night noise is of particular concern due to its interference with normal sleeping patterns.</line>
+<line id="S1351">Furthermore, compared to other forms of traffic noise, aircraft noise is intermittent in nature, making it more likely to disturb sleep and elicit stress responses in the body.</line>
+<line id="S1352">There has been growing evidence that exposure to higher levels of aircraft noise can adversely affect people’s health.</line>
+<line id="S1353">In 2009, the World Health Organization (WHO) published their Night Noise Guidelines for Europe. ** (Reference: 78)</line>
+<line id="S1354">These state that between 40 to 55dB LAeq 8 hour, adverse health effects can be observed among the exposed population, and that above 55dB the situation is considered increasingly dangerous for public health, with frequently observed health effects and a sizable proportion of the exposed population highly annoyed and sleep-disturbed. ** (Reference: 79)</line>
+<line id="S1355">The levels in the WHO guidelines do not refer solely to aviation, and are based on the level of outside noise from all sources – including other modes of transport.</line>
+<line id="S1357">When the night flight restrictions were last reviewed in 2013, the Government acknowledged in its first stage consultation document that the monetisation of health impacts associated with aircraft noise at night represented an important evidence gap.</line>
+<line id="S1358">As a result of this evidence gap, the Department for Transport commissioned the Civil Aviation Authority (CAA) to undertake a literature review regarding the effects of night time aircraft noise on local residents. ** (Reference: 80)</line>
+<line id="S1359">The CAA’s review, which was published alongside the stage one consultation document, concluded that chronic sleep disturbance as a result of these night flights is regarded as a health effect in its own right with a measurable impact on quality of life.</line>
+<line id="S1361">For impacts on cardiovascular health, the CAA’s aforementioned review found evidence that night noise exposure above 55 dB LAeq, 8hr night results in increased risk of myocardial infarctions (heart attacks) and proposed an approach for monetising this.</line>
+<line id="S1365">There is evidence for a correlation between noise exposure from these flights and hypertension which can lead to an increased risk of stroke or dementia.</line>
+<line id="S1366">This is said to be from long-term exposure to night noise, from people repeatedly experiencing the immediate stress responses of sleep disturbance. All of these health impacts could have distributional impacts as they could be more likely to affect vulnerable members of society such as the elderly or those suffering from mental health issues. ** (Reference: 82)</line>
+<line id="S1367">For stress and mental health effects, the evidence is inconclusive or limited, showing a possible correlation for these flights between noise exposure and mental health symptoms (e.g. depression, anxiety) but not problems such as clinically defined psychiatric disorder.</line>
+<line id="S1368">For next day effects, there is some evidence to suggest that the night noise resulting from these flights has an effect on heart rate, subjective sleep quality and mood the next day, but there is no consistent scientific evidence of chronic objective effects on stress hormone levels, immune system or performance the next day.</line>
+<line id="S1369">In relation to the impact on children, the evidence on the impact of these flights is inconclusive.</line>
+<line id="S1370">There is a growing amount of research that noise exposure from these flights has effects on cognitive development (particularly on reading) and chronic noise may affect children’s stress levels, blood pressure and mental health.</line>
+<line id="S1371">There is evidence to suggest that aircraft noise from these flights may be associated with poorer reading comprehension and recognition memory.</line>
+<line id="S1372">However, it is unclear whether the effects are attributable to daytime or night time noise, and there is no evidence for long- term persistent effects on cognitive development.</line>
+<line id="S1373">The CAA have recently published a new paper, 'Aircraft noise and health effects: Recent findings' which examines evidence on the relationship between aircraft noise and health that has been published since 2009. ** (Reference: 83)</line>
+<line id="S1374">The report concludes that with regards to night noise and sleep disturbance, there is growing recognition that average indicators, such as Lnight, are insufficient to fully predict sleep disturbance and sleep quality.</line>
+<line id="S1378">Other recent evidence includes a review by Dr Charlotte Clark from Queen Mary University of London, which was undertaken for the Airports Commission. ** (Reference: 84)</line>
+<line id="S1379">This concluded that there is increasing evidence to support the use of prevention measures such as insulation, preventative policy,</line>
+<line id="S1380">guidelines, and limit values.</line>
+<line id="S1381">The report highlighted the need to improve learning environments for children, and lower the prevalence of cardiovascular risk factors and cardiovascular disease.</line>
+<line id="S1985">An outdoor Lmax level of 60 dBA corresponds to an indoor noise level of approximately 45 dBA, in accordance with the WHO recommendation that individual noise events at night exceeding 45 dBA should be avoided.</line>
+</text>
+<references>
+<reference number="66">World Health Organisation. WHO Guidelines for Community Noise (1999) http://www.who.int/docstore/peh/noise/guidelines2.html</reference>
+<reference number="67">dBA; A-weighted decibels. Unit of sound pressure level measured on the A-weighted scale i.e. as measured on an instrument that applies a weighting to the electrical signal as a way of simulating the way a typical human ear responds to a range of acoustic frequencies.</reference>
+<reference number="68">dB; Unit of relative sound level or changes in sound level</reference>
+<reference number="78">World Health Organization (2009) 'Night Noise Guidelines for Europe' http://www.euro.who.int/__data/assets/pdf_file/0017/43316/E92845.pdf</reference>
+<reference number="79">LAeq 8 hour: equivalent continuous noise level over the 8 hour night period.</reference>
+<reference number="80">CAA (2013a) ‘ERCD Report 1208: Aircraft Noise, Sleep Disturbance and Health Effects: A Review’ http://publicapps.caa.co.uk/modalapplication.aspx?appid=11&amp;mode=detail&amp;id=5360</reference>
+<reference number="82">‘Hypertension and Exposure to Noise near Airports (HYENA) Study’ by Larup et al (2007) &amp; Babisch and van Kamp (2009)</reference>
+<reference number="83">Civil Aviation Authority. Aircraft noise and health effects: Recent findings. March 2016 http://publicapps.caa.co.uk/docs/33/CAP%201278%20MAR16.pdf</reference>
+<reference number="84">Dr Charlotte Clark (2015) ‘Aircraft noise effects on health’, Prepared for the Airports Commission https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446311/noise-aircraft-noise-effects-on-health.pdf</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="17" weight="core">
+<name>Balancing noise harm against economic benefit of night flights</name>
+<claim>The document argues that night flights generate real economic benefits (for airlines' business models, passengers, and time-sensitive freight) that must be weighed against the noise harm to communities, creating a legal and policy obligation to strike a balance rather than ban or permit flights unconditionally.</claim>
+<text>
+<line id="S0047">We also recognise that night flights have value in their own right.</line>
+<line id="S0048">The scheduling of night flights is important for the business models of low cost and short haul airlines – helping to ensure their aircraft are in the right place at the right time which increases choice and reduces prices for passengers.</line>
+<line id="S0049">And night flights also play an important role in the operation of the time-sensitive freight sector whose networks require flexibility to fly throughout the night.</line>
+<line id="S0050">Given both the costs and benefits of night flights, the Government has set night flight restrictions at Heathrow, Gatwick and Stansted for many years, balancing the interests of communities, passengers and the wider economy.</line>
+<line id="S0063">Aviation creates jobs and supports economic growth.</line>
+<line id="S0064">It directly supports around 230,000 jobs with many more employed indirectly and contributes over £21bn annually to UK GDP. ** (Reference: 3, 4)</line>
+<line id="S0065">In addition, aviation connects the UK to the growing and emerging global markets - indeed, in 2015, UK airports handled around £160 billion of air freight to and from countries outside the EU. ** (Reference: 5)</line>
+<line id="S0067">2 But the benefits of aviation need to be balanced with its environmental impacts.</line>
+<line id="S0068">Some of these are global, such as the climate change impacts from aircraft greenhouse gas emissions.</line>
+<line id="S0142">The underlying principle of the restrictions has been to balance the need to protect local communities from excessive aircraft noise at night - which the Government recognises is the least acceptable aspect of aircraft operations, with permitting the operation of services that provide benefits to the aviation industry and wider economy.</line>
+<line id="S0919">As set out in the 2013 Aviation Policy Framework (APF), the Government recognises that night noise is the least acceptable form of aircraft noise and as a result it is necessary to ensure that the economic benefits of night flights are balanced with the costs these can impose on communities, including sleep disturbance.</line>
+<line id="S0920">Heathrow (LHR), Stansted (STN) and Gatwick (LGW) are designated under section 78 of the Civil Aviation Act 1982 and there are currently night flights restrictions in place at these airports.</line>
+<line id="S0921">However, the current night flight regime expires in October 2017 due to a sunset clause, further detail of this regime can be found in the Evidence base.</line>
+<line id="S1107">There is a need to protect local communities from the negative impacts of aircraft noise at night, while permitting the operation of services that provide benefits to the aviation industry and wider economy.</line>
+<line id="S1108">As set out in the 2013 APF, the Government recognises that night noise is the least acceptable form of aircraft noise and as a result it is necessary to ensure that the economic benefits of night flights are balanced with the costs these can impose on communities, including sleep disturbance. ** (Reference: 58)</line>
+<line id="S1134">Thus, there is a need to balance these adverse impacts on local residents with the economic benefits the night flights offer to the aviation industry and wider economy.</line>
+<line id="S1281">Secondly, previous legal judgments on the night flights regime have also ruled that night flights adversely affect the rights of people living near airports; and that the Government has an obligation to balance the rights of those persons with the economic interests of those operating and benefiting from those flights. ** (Reference: 73)</line>
+</text>
+<references>
+<reference number="3">Annual Business Survey, 2014</reference>
+<reference number="4">ONS Input-Output tables 2015</reference>
+<reference number="5">HMRC Trade Statistics, 2015</reference>
+<reference number="58">DfT (2013) 'Aviation Policy Framework' https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/153776/aviation-policy-framework.pdf</reference>
+<reference number="73">Hatton and Others v. United Kingdom (Application no. 36022/97) European Court of Human Rights http://www.richardbuxton.co.uk/transcripts/hatton-and-others-v-united-kingdom</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="32" weight="core">
+<name>Growing exempt-aircraft loophole undermines the regime</name>
+<claim>The document argues that the existing exemption for the quietest aircraft (QC/0) is being increasingly exploited, especially at Stansted and prospectively at Gatwick, to the point where it could allow effectively unlimited night flights, undermining the restrictions' purpose and the transparency/certainty they are meant to provide to communities.</claim>
+<text>
+<line id="S0223">Aircraft quieter than this are currently exempt.</line>
+<line id="S0224">When the regime was first introduced in its current structure in 1993, aircraft quieter than QC/0.5 were exempt.</line>
+<line id="S0225">The QC/0.25 category was introduced in the regime that began in 2006 and applies to aircraft classified between 84 and 86. EPNdB. Part of the original rationale for having an exempt category was that in 1993, a Department of Transport sleep study had suggested that noise below 80 dB Lmax (90 EPNdB equates to roughly 75 dB Lmax), was unlikely to cause sleep disturbance. These exempt aircraft are currently not caught by either the movement or noise quota limits at an airport so can in effect operate without restrictions in the night quota period. ** (Reference: 9, 18)</line>
+<line id="S0446">3.6 As explained in Chapter 1, some aircraft fall outside of the current regime and are therefore exempt from both the movement and noise quota limits.</line>
+<line id="S0447">When the regime was first set in its current format in 1993, it was originally proposed that aircraft below QC/1 should be exempt from the regime.</line>
+<line id="S0448">A Department of Transport sleep study at the time had suggested that noise below 80 dB Lmax (90 EPNdB equates to roughly 75 dB Lmax), was unlikely to cause sleep disturbance.</line>
+<line id="S0449">After consultation, it was decided that a QC/0.5 category should be adopted, with aircraft quieter than this exempt from the restrictions.</line>
+<line id="S0450">3.7 Since 1993, evidence of the relationship between noise exposure and sleep disturbance has increased.</line>
+<line id="S0451">This evidence informed the 1999 World Health Organization (WHO) Guidelines for Community Noise, stating that noise events exceeding 45 dBA Lmax indoors should be limited if possible. These guidelines also noted that it should be possible to sleep with a bedroom window slightly open (a reduction from outside to inside of 15 dB), therefore equating to an outdoor Lmax of 60 dBA. ** (Reference: 42)</line>
+<line id="S0452">3.8 Although currently exempt aircraft are quieter than those caught by the restrictions, they still create noise that could result in sleep disturbance.</line>
+<line id="S0453">Annex G illustrates the extent of the potential impacts on sleep disturbance for one of the new models of aircraft that fall within the exempt category, the Airbus A320neo, compared to non- exempt aircraft.</line>
+<line id="S0454">3.9 Since the introduction of the QC/0.25 category in winter 2006/07 however, the existence of this exempt category has not resulted in a significant difference between the total number of movements compared to the number allowed under the regime.</line>
+<line id="S0455">This has begun to change in recent years at Stansted (See Figure 12 below).</line>
+<line id="S0456">In summer 2016, the number of exempt operations at Stansted would not have been accommodated in the current movement limits, even with the use of carry-over and a 10% overrun. ** (Reference: 43)</line>
+<line id="S0457">3.10 Additionally, at Gatwick, while the number of exempt aircraft has fallen since the introduction of the QC/0.25 category, the issue has potential to become more important during the next regime.</line>
+<line id="S0458">Currently the majority of exempt aircraft are small turboprop freighters and business jets.</line>
+<line id="S0459">But over the next few years, several new quieter jet aircraft, such as versions of the Airbus A320neo, will come into service that are quieter than the current QC/0.25 standard and will therefore be exempt from both the movement and the quota limits under the current restrictions.</line>
+<line id="S0460">commercial airlines to operate a potentially unlimited number of these aircraft during the night quota period.</line>
+<line id="S0462">Source: DfT data 3. This could undermine the purpose of the restrictions set by the Government and would fail to prevent communities being exposed to the harmful impacts large numbers of these flights could cause. ** (Reference: 12)</line>
+<line id="S0463">The potential for a large number of exempt operations would also mean the restrictions would fail to offer the transparency that communities around airports would expect it to, or offer any reassurance of the total number of flights that they could expect to be exposed to.</line>
+<line id="S1186">This has begun to change in recent years at Stansted (see Figure 2 and Figure 3 below).</line>
+<line id="S1187">In Summer 2016, the number of exempt operations would not have been accommodated in the current movement limits, even with the use of carry-over and a 10% overrun. Plus, at Gatwick, the issue has potential to become more important during the next regime. ** (Reference: 69)</line>
+<line id="S1188">Currently the majority of exempt aircraft are small freighters and business jets.</line>
+<line id="S1189">But, over the next few years, several new quieter jet aircraft, such as versions of the Airbus A320neo, will come into service that have the potential to be quieter than the current QC/0.25 standard and therefore exempt from both the movement and the quota limits under the current restrictions.</line>
+<line id="S1190">The largest airlines at Gatwick and Stansted, easyJet and Ryanair respectively, have a large number of these aircraft on order.</line>
+<line id="S1191">EasyJet expect about a third of their fleet to be comprised of Airbus A320neos by 2021 and Ryanair also have 100 confirmed orders for the Boeing 737-MAX. ** (Reference: 70, 71)</line>
+<line id="S1192">Thus, there is the possibility for commercial airlines to operate a potentially unlimited number of these aircraft during the night quota period.</line>
+<line id="S1193">This could have significant impacts on the noise climate around airports, and therefore result in adverse health impacts.</line>
+<line id="S1194">Additionally, there could be impacts on air quality and climate change.</line>
+<line id="S1196">As it stands, the restrictions at these airports would not be transparent and would fail to reassure communities of the maximum level of night noise they could be expected to be exposed to in the night quota period.</line>
+<line id="S1200">As can be seen from Figure 2 and Figure 3 above, Gatwick and Heathrow currently have a far smaller number of exempt movements compared to Stansted.</line>
+<line id="S1201">However, this increase in exempt movements from the introduction of these new aircraft could be particularly noticeable at Gatwick since existing A320s make up a significant proportion of night movements. ** (Reference: 72)</line>
+</text>
+<references>
+<reference number="9">Statutory Instrument No. 2003/1742.</reference>
+<reference number="18">Ollerhead J B et al (DfT) (1992) 'Report of a Field Study of Aircraft Noise and Sleep Disturbance, Department of Transport. More recent evidence relating to sleep disturbance is included in our accompanying impact assessment</reference>
+<reference number="42">World Health Organisation (1999) WHO Guidelines for Community Noise http://www.who.int/docstore/peh/noise/guidelines2.html</reference>
+<reference number="43">This is the maximum percentage overrun an airport can use without facing a penalty (losing two movements for every one over this level). Therefore, we assume airports will not exceed a 10% overrun.</reference>
+<reference number="12">DfT (2013) 'Aviation Policy Framework' https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/153776/aviation-policy-framework.pdf</reference>
+<reference number="69">This is the maximum percentage overrun an airport can use without facing a penalty (losing two movements for every one over this level). Therefore, we assume airports will not exceed a 10% overrun.</reference>
+<reference number="70">easyjet. Press Release. 7th November 2015. http://www.airbus.com/presscentre/pressreleases/press-release- detail/detail/easyjet-orders-an-additional-36-a320-family-aircraft/</reference>
+<reference number="71">Boeing. Press Release. 8th September 2014. http://boeing.mediaroom.com/2014-09-08-Boeing-Launches-737-MAX-200- with-Ryanair</reference>
+<reference number="72">CAA data</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="3" weight="not core">
+<name>Economic importance and benefits of aviation</name>
+<text>
+<line id="S0062">We have the third largest aviation network in the world after the USA and China and the largest aerospace industry in Europe - second to only the USA globally. ** (Reference: 1, 2)</line>
+<line id="S0064">It directly supports around 230,000 jobs with many more employed indirectly and contributes over £21bn annually to UK GDP. ** (Reference: 3, 4)</line>
+<line id="S0065">In addition, aviation connects the UK to the growing and emerging global markets - indeed, in 2015, UK airports handled around £160 billion of air freight to and from countries outside the EU. ** (Reference: 5)</line>
+</text>
+<references>
+<reference number="1">Global Competiveness Report, World Economic Forum, 2015-16, http://reports.weforum.org/global-competitiveness-report-2015-2016. Based on available seat kilometres</reference>
+<reference number="2">Aerospace Defence Safety (ADS), https://www.adsgroup.org.uk/about/our-sectors/</reference>
+<reference number="3">Annual Business Survey, 2014</reference>
+<reference number="4">ONS Input-Output tables 2015</reference>
+<reference number="5">HMRC Trade Statistics, 2015</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="31" weight="not core">
+<name>Current regime structure and quota system</name>
+<text>
+<line id="S0138">1.1 The power for the Secretary of State to set night flight restrictions for designated airports is found in section 78 of the 1982 Civil Aviation Act. ** (Reference: 11)</line>
+<line id="S0139">This allows action to be taken to avoid, limit or mitigate the effect of noise from aircraft.</line>
+<line id="S0140">Heathrow, Gatwick and Stansted airports have been designated for this purpose since 1971.</line>
+<line id="S0141">1.2 Night flight restrictions of some form have been in place at Heathrow since 1962, Gatwick since 1971 and Stansted since 1978.</line>
+<line id="S0143">Since 1993, the regime has limited the number of flights and amount of noise energy that can be emitted at each airport.</line>
+<line id="S0144">1.3 Given the strategic importance of these airports, and that their future was under consideration by the Airports Commission, the Government confirmed in the Aviation Policy Framework in 2013 that it would continue to designate these airports for noise control purposes, including on night flights. ** (Reference: 12)</line>
+<line id="S0149">The current night noise regime at Heathrow, Gatwick and Stansted was set in July 2014.</line>
+<line id="S0150">The regime runs from October 2014 to October 2017.</line>
+<line id="S0151">The current movement and noise quota limits for Heathrow, Gatwick and Stansted are shown in Table 1.</line>
+<line id="S0153">The current movement limits for all three airports correspond to those from the regime which was first set in 2006.</line>
+<line id="S0154">That regime was originally due to expire in October 2012, but was extended for a further two years in March 2012. ** (Reference: 13)</line>
+<line id="S0155">This was to ensure that any proposals for the subsequent regime took account of the Aviation Policy Framework, which the Government was developing at the time.</line>
+<line id="S0157">* Currently movements by exempt aircraft do not count towards these limits.</line>
+<line id="S0160">The current night noise regime for these airports was set in July 2014 following a two stage consultation process in 2013. ** (Reference: 14)</line>
+<line id="S0161">This regime is shorter than many past ones, which have usually been set for periods of around five years, as the Government wanted to wait for the Airports Commission to conclude its work on airport capacity before considering any substantial changes to the previous night flight restrictions.</line>
+<line id="S0204">1.18 While the movement limits for each airport limit the total number of aircraft that can take off or land during the night, the quota count limit is designed to incentivise the use of quieter aircraft to maximise the number of movements that can take place.</line>
+<line id="S0205">1.19 Aircraft are classified separately according to the quota count (QC) classification system which was specially designed for the night restrictions at Heathrow, Gatwick and Stansted and introduced in 1993.</line>
+<line id="S0207">The QC classification system is based on official noise certification data derived from measurements made on actual aircraft and conducted in accordance with the conditions and standards of the International Civil Aviation Organisation (ICAO) certification process, with adjustments to take account of differences in noise measurement points.</line>
+<line id="S0208">Using the agreed ICAO standards and conditions for measuring aircraft noise is a requirement made under Article 4.4 of Directive 2002/30/EC, which states that ‘performance-based operating restrictions shall be based on the noise performance of the aircraft as determined by the certification procedure conducted in accordance with Volume I of Annex 16 to the Convention on International Civil Aviation, third edition (July 1993)’.</line>
+<line id="S0209">1.21 Aircraft are classified on the basis of their noise data (adjusted as appropriate) into seven QC bands.</line>
+<line id="S0212">1.22 Under the QC system, each aircraft type, including different versions of the same model, is assigned a Quota Count according to its noise performance, separately for arrival and departure.</line>
+<line id="S0213">For example, a Boeing 737-800 is classified as QC/0.5 on arrival and as QC/0.5 or QC/1 on departure (depending on its maximum certificated take-off weight), whereas a much larger Boeing 777-300ER is classified as QC/1 on arrival and QC/2 on departure.</line>
+<line id="S0214">The individual classification of each type of aircraft is set out in Part 2 of the Schedule to the Notice which is published each season - in a supplement to the UK Aeronautical Information Publication (UKAIP) that gives effect to the night restrictions.</line>
+<line id="S0215">1.23 In the previous Stage One consultation on night flights in 2013, it was explained that there are some small differences in the QC rating of an aircraft and the actual noise performance in real world operations. ** (Reference: 17)</line>
+<line id="S0216">As a result some aircrafts' actual performance is slightly quieter than their QC rating suggests, while others are slightly noisier.</line>
+<line id="S0217">Annex D compares the QC classification of aircraft in common operation at Heathrow with actual noise measurements from these aircraft on the approach to Heathrow.</line>
+<line id="S0218">1.24 The QC system allows each night flight to be individually counted against an overall noise quota (or noise budget) for an airport according to the QC rating (i.e. the noisiness) of the aircraft used.</line>
+<line id="S0219">The noisier the aircraft used, the higher its QC rating and the fewer that can be operated within any given quota, thereby also providing an incentive for airlines to use less noisy aircraft.</line>
+<line id="S0220">Airlines are allowed to decide which aircraft to use according to their operational needs, but whether they use for example, 5x QC/2s or 10x QC/1s or 20x QC/0.5s, or a combination of these, the sum of the noise energy permitted by the quota remains the same.</line>
+<line id="S0221">An airport is therefore able to accommodate more movements - up to their movement limit, by using quieter aircraft.</line>
+<line id="S0222">1.25 The lowest QC band is currently QC/0.25.</line>
+</text>
+<references>
+<reference number="11">Civil Aviation Act (1982)  http://www.legislation.gov.uk/ukpga/1982/16</reference>
+<reference number="12">DfT (2013) 'Aviation Policy Framework' https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/153776/aviation-policy-framework.pdf</reference>
+<reference number="13">https://www.gov.uk/government/publications/night-flying-restrictions-at-heathrow-gatwick-and-stansted-airports</reference>
+<reference number="14">DfT(2014) 'Night Flying Restrictions at Heathrow, Gatwick and Stansted' https://www.gov.uk/government/consultations/night-flights</reference>
+<reference number="17">DfT (2013) 'Night Flying Restrictions at Heathrow, Gatwick and Stansted Stage 1 Consultation' https://www.gov.uk/government/consultations/night-flights-consultation</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="9" weight="not core">
+<name>Aircraft noise classification and measurement</name>
+<text>
+<line id="S0207">The QC classification system is based on official noise certification data derived from measurements made on actual aircraft and conducted in accordance with the conditions and standards of the International Civil Aviation Organisation (ICAO) certification process, with adjustments to take account of differences in noise measurement points.</line>
+<line id="S0208">Using the agreed ICAO standards and conditions for measuring aircraft noise is a requirement made under Article 4.4 of Directive 2002/30/EC, which states that ‘performance-based operating restrictions shall be based on the noise performance of the aircraft as determined by the certification procedure conducted in accordance with Volume I of Annex 16 to the Convention on International Civil Aviation, third edition (July 1993)’.</line>
+<line id="S0209">1.21 Aircraft are classified on the basis of their noise data (adjusted as appropriate) into seven QC bands.</line>
+<line id="S0212">1.22 Under the QC system, each aircraft type, including different versions of the same model, is assigned a Quota Count according to its noise performance, separately for arrival and departure.</line>
+<line id="S0213">For example, a Boeing 737-800 is classified as QC/0.5 on arrival and as QC/0.5 or QC/1 on departure (depending on its maximum certificated take-off weight), whereas a much larger Boeing 777-300ER is classified as QC/1 on arrival and QC/2 on departure.</line>
+<line id="S0214">The individual classification of each type of aircraft is set out in Part 2 of the Schedule to the Notice which is published each season - in a supplement to the UK Aeronautical Information Publication (UKAIP) that gives effect to the night restrictions.</line>
+<line id="S0215">1.23 In the previous Stage One consultation on night flights in 2013, it was explained that there are some small differences in the QC rating of an aircraft and the actual noise performance in real world operations. ** (Reference: 17)</line>
+<line id="S0216">As a result some aircrafts' actual performance is slightly quieter than their QC rating suggests, while others are slightly noisier.</line>
+<line id="S0217">Annex D compares the QC classification of aircraft in common operation at Heathrow with actual noise measurements from these aircraft on the approach to Heathrow.</line>
+</text>
+<references>
+<reference number="17">DfT (2013) 'Night Flying Restrictions at Heathrow, Gatwick and Stansted Stage 1 Consultation' https://www.gov.uk/government/consultations/night-flights-consultation</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="12" weight="not core">
+<name>Seasonal flexibility and capacity management</name>
+<text>
+<line id="S0183">7KH PRYHPHQW DQG QLJKW TXRWD OLPLWV DUH VHDVRQDO DQG DOLJQHG ZLWK WKH,QWHUQDWLRQDO</line>
+<line id="S0184">$LU 7UDQVSRUW $VVRFLDWLRQ,$7$ VXPPHU DQG ZLQWHU VFKHGXOLQJ VHDVRQV 7KHVH LQ WXUQ DUH EDVHG XSRQ WKH XVH RI 'D\OLJKW 6DYLQJV 7LPH '67 LQ (8 FRXQWULHV 7KH VXPPHU VHDVRQ EHJLQV RQ WKH ODVW 6XQGD\ LQ 0DUFK DQG HQGV RQ WKH ODVW 6XQGD\ LQ 2FWREHU</line>
+<line id="S0185">$V WKHVH VHDVRQV YDU\</line>
+<line id="S0186">LQ OHQJWK DLUSRUWV DUH JLYHQ IOH[LELOLW\ WR PDQDJH WKHLU</line>
+<line id="S0187">DOORZDQFH DQG PD\ FDUU\ RYHU XQXVHG PRYHPHQWV RU TXRWD IURP RQH VHDVRQ WR DQRWKHU RU PD\ RYHU UXQ LQ RQH VHDVRQ ZKLFK OHDGV WR D GHGXFWLRQ LQ WKH IROORZLQJ VHDVRQ 7KH UXOHV IRU FDUU\LQJ RYHU RU RYHU UXQQLQJ DUH DV IROORZV</line>
+<line id="S0188">x,I UHTXLUHG D VKRUWIDOO LQ XVH RI WKH PRYHPHQWV OLPLWV DQG RU QRLVH TXRWD LQ RQH</line>
+<line id="S0189">VHDVRQ RI XS WR</line>
+<line id="S0190">PD\ EH FDUULHG RYHU WR WKH QH[W VHDVRQ</line>
+<line id="S0191">x &amp;RQYHUVHO\ XS WR RI DQ RYHUUXQ LQ PRYHPHQWV DQG RU QRLVH TXRWD XVDJH LQ</line>
+<line id="S0192">RQH VHDVRQ QRW EHLQJ FRYHUHG E\ FDUU\ RYHU IURP WKH SUHYLRXV VHDVRQ ZLOO EH GHGXFWHG IURP WKH FRUUHVSRQGLQJ DOORFDWLRQ LQ WKH IROORZLQJ VHDVRQ</line>
+<line id="S0193">• An overrun of more than 10% will result in a deduction of 10% plus twice the amount of the excess over 10% from the corresponding allocation in the following season; and</line>
+<line id="S0195">The absolute maximum overrun is 20% of the original limit in each case.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="5" weight="not core">
+<name>Dispensations and exemptions process</name>
+<text>
+<line id="S0196">1.16 Airports are also allowed dispensations for certain flights in the night quota period for specific reasons.</line>
+<line id="S0197">There are two types of dispensations.</line>
+<line id="S0198">First are those granted by the Government for various reasons, such as VIP or humanitarian flights.</line>
+<line id="S0199">The second type of dispensation refers to those that may be granted by airports in the event of emergencies, widespread and prolonged air traffic disruption, and delays as a result of disruption leading to serious hardship and congestion at an airfield or terminal.</line>
+<line id="S0201">The government reviewed the use of dispensations when the regime was last reviewed in 2014 and issued new guidance on their use.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="18" weight="not core">
+<name>Heathrow airport operations and constraints</name>
+<text>
+<line id="S0229">Under Terminal 5 planning conditions, the number of air transport movements at the airport shall be limited to 480,000 each year.</line>
+<line id="S0230">1.27 On 25 October 2016 the Government announced that it has accepted the independent Airports Commission’s recommendation for a new north-west runway at Heathrow Airport as its preferred option to deliver airport expansion in the south-east.</line>
+<line id="S0231">The new runway is expected to be operational by 2026 and it is expected there will be a ban on night flights of six and half hours as a condition on expansion and which Heathrow have indicated could possibly be introduced before a new runway is operational.</line>
+<line id="S0233">1.28 Restrictions on night flights have been in place at Heathrow since 1962.</line>
+<line id="S0234">Heathrow is currently limited to 5,800 night flights a year - 3,250 in the summer season and 2,550 in the winter season.</line>
+<line id="S0235">This equates to approximately 16 flights per night.</line>
+<line id="S0237">In addition to the movement limits imposed by the Government, Heathrow also has a voluntary ban in place that sees no flights scheduled between 2330 and 0430 and prevents flights scheduled between 0430 and 0600 from landing before 0430.</line>
+<line id="S0238">All scheduled night movements are therefore early morning arrivals between 0430 and 0600, mostly from destinations in the Far East.</line>
+<line id="S0239">These scheduled early morning arrivals make up about 87% of all the night flights that take place, with unscheduled late running flights after 2330 the remainder.</line>
+<line id="S0240">Heathrow are currently taking action to reduce the number of late running arrivals as part of their blueprint for noise reduction. ** (Reference: 21)</line>
+<line id="S0242">1.30 Movements at Heathrow have been stable for many years.</line>
+<line id="S0243">Since the winter 2009/10 season, Heathrow has used on average 89% of its summer movement limit and 104% of its winter allowance - carrying over the unused percentage of its summer allowance as permitted under the current regime.</line>
+<line id="S0244">The difference between summer and winter movements over this timeframe has been small - with an average of 2,883 movements in the summer season and 2,656 movements in the winter season.</line>
+<line id="S0245">The discrepancy in allowances between the two seasons is largely based on historical factors.</line>
+<line id="S0246">1.31 While Heathrow is using close to its full allowance of movements, recent years have seen a significant reduction in the amount of noise quota usage as a result of the introduction of quieter aircraft.</line>
+<line id="S0247">In the most recent summer season, Heathrow used just 45% of its noise quota compared to 91% of its available movements.</line>
+<line id="S0251">1.32 In 2015-16 (the summer 2015 and winter 2015/16 seasons), there were approximately 105,000 people exposed to noise levels of at least 48 dB LAeq 6.5hr night between 2330 and 0600.</line>
+<line id="S0252">While this number is much higher than at Gatwick or Stansted, there have been noticeable improvements in recent years - with the current population representing a 20% reduction since 2011-12 and even larger reductions since 2002-03.</line>
+</text>
+<references>
+<reference number="21">Heathrow Airport Ltd (2016) 'Heathrow’s Blueprint for noise reduction' http://www.heathrow.com/noise/making-heathrow-quieter/our-noise-strategy/blueprint-for-noise-reduction</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="18" weight="not core">
+<name>Gatwick airport operations and capacity</name>
+<text>
+<line id="S0257">1.33 Gatwick has one main runway, along with another runway that can only be used when the main one is not in operation, and two terminals.</line>
+<line id="S0258">Gatwick handled 40.3 million passengers in 2015 and served 182 weekly destinations. It is situated in mostly lightly-populated countryside - though it does lie between the towns of Crawley and Horley, about 28 miles (45km) to the south of London and about 2 miles (3km) north of Crawley. ** (Reference: 23)</line>
+<line id="S0259">While there are no planning restraints that limit activity at Gatwick, it is operating at over 85% of capacity and is completely full at peak times. ** (Reference: 24)</line>
+<line id="S0261">1.34 Gatwick's night flights are subject to much greater seasonal variability than Heathrow due to the different business models of the two airports, with a summer movement limit of 11,200 and a winter movement limit of 3,250.</line>
+<line id="S0262">1.35 Gatwick has used close to its full movement limit in the summer for many years, and in the summer 2016 season made use of the seasonal flexibility offered by the regime for the first time - carrying over unused movements from winter 2015/16.</line>
+<line id="S0263">There is still a large amount of spare capacity in the winter night quota period however, with the most recent season seeing less than 60% of the movements available utilised.</line>
+<line id="S0264">Night flight activity at Gatwick therefore varied from an average of 52 flights per night in the summer 2016 season to 12 per night in the winter 2015/16 season.</line>
+<line id="S0265">There is also significant in-season variability however, with the busiest week in the most recent summer season averaging 76 flights per night and certain weeks in the winter 2015/16 season averaging less than 7 flights per night.</line>
+<line id="S0266">1.36 Flights at Gatwick arrive and depart throughout the night, but over two-thirds are pre- 2am arrivals.</line>
+<line id="S0267">This reflects the business model of the low cost carriers based at Gatwick who rely on night flights to ensure they achieve the necessary number of rotations during a day in order to make maximum use of their assets.</line>
+<line id="S0268">In 2014/15, about 46% of night flights at Gatwick were by low-cost carriers, 31% were full service carriers, and 22% were charter services such as Thomas Cook. ** (Reference: 25)</line>
+<line id="S0269">The most popular services in the night are those between mainland Spain, Greece and the Balearics.</line>
+<line id="S0270">1.37 As with Heathrow, Gatwick is also using proportionately less of its noise quota compared to its movement quota - for example in summer 2016 it used 101% of its movement limit but only 79% of its noise quota limit (excluding carryover allowances).</line>
+<line id="S0274">1.38 In 2015/16, there were approximately 4,300 people exposed to noise levels of at least 48 dB LAeq 6.5hr night between 2330 and 0600.</line>
+<line id="S0275">This represents approximately 4% of the number at Heathrow, however the actual size of the contours at the two airports is similar with the difference primarily accounted for by differences in population density.</line>
+<line id="S0276">The population within this contour at Gatwick has actually</line>
+<line id="S0277">increased since 2011-12, though it is not possible to draw any firm conclusions on this as the difference is small and will have been affected to some extent by changes in the easterly/westerly split in different years.</line>
+<line id="S0278">Since 2002-03, there has been a noticeable fall in the size of the 48 dB contour, but the number of people within it has actually increased.</line>
+</text>
+<references>
+<reference number="23">CAA data. Weekly service: at least 52 passenger flight departures a year</reference>
+<reference number="24">Airport Commission (2015) 'Final Report', p.78 https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/440316/airports-commission-final-report.pdf</reference>
+<reference number="25">Based on winter 2014/15 and summer 2015 data</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="19" weight="not core">
+<name>Stansted airport operations and freight role</name>
+<text>
+<line id="S0282">1.39 Stansted has one runway and one terminal.</line>
+<line id="S0283">It carried around 22.5 million passengers in 2015 and also has a significant freight operation, handling 208,000 tonnes. It is situated 35 miles (56km) north east of London and is surrounded by countryside and small villages to the north, south and east and the town of Bishop’s Stortford to the west. ** (Reference: 26)</line>
+<line id="S0284">Current planning conditions restrict passengers to 35 million passengers per year, a limit of air transport movements to 264,000 per year and the area within the 57 dB LAeq 16hr noise contour to 33.9 square kilometres.</line>
+<line id="S0286">1.40 Stansted has a movement limit of 7,000 in summer and 5,000 in winter.</line>
+<line id="S0287">Like Gatwick, Stansted used its entire movement limit in summer 2016 and used carryover from the previous season.</line>
+<line id="S0288">In Winter 2015/16 Stansted also used a similar percentage of its winter movements as Gatwick, approximately 60%, though Stansted's winter limit is almost twice as high.</line>
+<line id="S0289">While the seasonal variation is not as high therefore as at Gatwick, the average for the winter 2015/16 season was 20 flights per night, and the summer 2016 average was 34 per night - reaching 44 per night in the busiest summer week.</line>
+<line id="S0290">1.41 The most common night movements at Stansted are low-cost carriers, which made up approximately 45% of night movements in 2014/15 and are largely concentrated at the beginning and end of the night quota period.</line>
+<line id="S0291">Stansted is also a hub for several large freight and express companies, which require the flexibility to fly throughout the night in order to ensure timely next day deliveries to key markets.</line>
+<line id="S0292">Freight services make up approximately 35% of Stansted's night movements.</line>
+<line id="S0293">1.42 Unlike Heathrow and Gatwick, Stansted also has a large number of exempt aircraft operating throughout the night that are not currently counted towards the night flight restrictions.</line>
+<line id="S0294">There were 1,093 of these movements in summer 2016 which equates to roughly five per night.</line>
+<line id="S0295">At the current time, the majority of these exempt movements are made up of small turboprop freighters and business jets.</line>
+<line id="S0296">The number of these movements has grown rapidly in recent years (see Figure 12 in Chapter 3) and with</line>
+<line id="S0297">the introduction of new larger commercial passenger aircraft which fall into this category, there could be further significant increases under the current framework.</line>
+<line id="S0301">1.44 In 2015/16, there were approximately 3,800 people exposed to noise levels of at least 48 dB LAeq 6.5hr night between 2330 and 0600.</line>
+<line id="S0302">This is lower than the number of people exposed to equivalent noise at Gatwick and the size of the contour is also smaller.</line>
+<line id="S0303">Like at Gatwick, there has also been an increase in the size of the contour since 2011-12, though the difference is small and will be partly the result of changes in the split of easterly and westerly operations. ** (Reference: 27)</line>
+<line id="S0304">It is not therefore possible to draw firm conclusions from these changes.</line>
+</text>
+<references>
+<reference number="26">CAA data. Weekly service: at least 52 passenger flight departures a year</reference>
+<reference number="27">Since the publication of the Stage 1 consultation in January 2013 an error was discovered in the Stansted 2011-12 LAeq 6.5hr night (actual usage) results reported in Annex B of that document. Because the effects of ground (terrain) height were not properly accounted for in the modelling process, the published 2011-12 LAeq 6.5hr night (actual usage) contour was slightly larger than it should have been. The 2011- 12 noise contour for Stansted has now been re-run and the corrected results are reported in Table 5. The corrected 48dBA 6.5hr night contour area of 28.0 sq km is approximately 4% smaller than the area of 29.3 sq km previously reported in the January 2013 consultation.</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="35" weight="not core">
+<name>Regime performance and noise quota usage</name>
+<text>
+<line id="S0328">2.7 The environmental objectives for the current regime are detailed below in Table 6.</line>
+<line id="S0329">Due to the ongoing work of the Airports Commission, when the regime was last reviewed, the Government decided it should maintain a stable regulatory regime and allow growth within the existing movement limits and noise quotas, pending a decision on airport capacity.</line>
+<line id="S0330">No significant changes were therefore made to the previous restrictions.</line>
+<line id="S0333">As can be seen in Tables 7 &amp; 8 below, the number of people in the 55dBA</line>
+<line id="S0334">LAeq 6.5hr night contour has fallen significantly at Heathrow since the last regime, as has the corresponding contour area.</line>
+<line id="S0335">At Gatwick and Stansted, there have been far smaller changes.</line>
+<line id="S0336">At Gatwick there has been a small decrease in the contour area but an increase in the number of people in that contour, while at Stansted the opposite is true.</line>
+<line id="S0337">2.10 The changes at Heathrow can be explained by changes to the fleet operating during the 6.5 hour period at the airport and a significant improvement in the noise performance of an average aircraft (see Tables 9 &amp; 10 below).</line>
+<line id="S0338">At Gatwick and Stansted, these small changes are the result of a combination of factors including increases in the number of movements, changes in fleet mixes at the airports, differences in population densities around the airports, and changes in the easterly/ westerly split of operations for the years that have been monitored.</line>
+<line id="S0339">For these two airports therefore it is not possible to draw any firm conclusions from this data.</line>
+<line id="S0343">Source: CAA data 2. In terms of the second objective, we have already discussed how both Gatwick and Stansted are now using their full summer allowance and had to rely on the seasonal flexibility to accommodate all of their summer movements in the summer 2016 season. ** (Reference: 11)</line>
+<line id="S0344">Both airports still have significant spare capacity in the winter season though.</line>
+<line id="S0345">Movements at Heathrow have remained largely the same during the course of the regime.</line>
+<line id="S0346">This objective has therefore been met at all three airports though there is still unutilised capacity in the winter for Gatwick and Stansted which can be made use of.</line>
+<line id="S0347">2.12 Finally, in terms of encouraging the use of quieter aircraft, the performance has been more mixed across all airports.</line>
+<line id="S0348">Heathrow has seen the most dramatic improvements in noise over the regime, with a 19% reduction in average QC per movement between winter 2013/14and winter 2015/16, and a 35% reduction from summer 14 season regime to summer 2016.</line>
+<line id="S0351">Source: DfT data 2. Figure 9 below also illustrates how the proportion of QC/2 movements have fallen since the end of the last regime while the QC/4 movements made up no more than 2% of movements during the current regime. ** (Reference: 13)</line>
+<line id="S0353">Source: DfT data 2. At Gatwick there have been smaller improvements with a 7% fall in average QC per movement over the winter seasons since 2013/14 and a 2% fall over the summer seasons over the same period. ** (Reference: 14)</line>
+<line id="S0356">2.15 In terms of movements by QC/2 and QC/4 aircraft, these continued to make up a small percentage of overall movements though this did increase for the most recent summer and winter seasons.</line>
+<line id="S0357">There were no QC/4 movements at Gatwick for several year until summer 2016 when there were eight such movements.</line>
+<line id="S0358">These still made up less than 0.1% of total movements however.</line>
+<line id="S0361">At Stansted, there was a 7% reduction in average QC per movement between the final winter season of the previous regime and winter 2015/16, however the summer QC per movement has remained constant ** (Reference: 33)</line>
+<line id="S0364">Source: DfT data 2. And at Stansted, the proportion of QC/2 movements has seen a small reduction over the current regime, while QC/4 movements continued to make up less than 0.1% of all movements. ** (Reference: 16)</line>
+<line id="S0370">As stated above, the number of people affected by noise at Gatwick is estimated to have increased slightly since the last regime and Gatwick already has a large number of summer night flights compared to other airports.</line>
+<line id="S0373">2.20 At Stansted, like Gatwick, the airport is utilising its full allowance in the summer but still has spare capacity in the winter season which is yet to be utilised.</line>
+<line id="S0487">3.15 We recognise that the number of night flights in the summer season has grown in recent seasons to a level that is very high in comparison with other airports - and has resulted both in an increase in the people affected by noise at night and the level of complaints from communities around Gatwick about night flights.</line>
+<line id="S0488">In the winter season on the other hand, there is currently significant unused capacity.</line>
+<line id="S0518">3.22 Both Heathrow and Gatwick are using proportionately less of their noise quota limits than their movement limits.</line>
+<line id="S0519">For instance, in the summer 2016 season, Heathrow used 91% of its movement limit, but only 45% of its noise quota.</line>
+<line id="S0520">For Gatwick the figures were 101% and 79% respectively - based on limits before the carryover and overrun provisions were applied.</line>
+<line id="S0521">3.23 As the current restrictions stand therefore, there is little to incentivise the use of quieter aircraft nor to prevent an airline from replacing an aircraft operating a route with a noisier one.</line>
+<line id="S0534">3.27 At Stansted, the level of noise quota usage compared to movement usage is much higher than at Heathrow or Gatwick.</line>
+<line id="S0535">In the most recent summer season they used 105% of their movement quota and approximately 100% of their noise quota - based on limits before the carryover and overrun provisions are applied.</line>
+<line id="S1209">Improvements in aircraft’s noise performance over recent years has meant that at Heathrow and Gatwick, proportionally less of the airports’ noise quotas are being used compared to movement limits.</line>
+<line id="S1210">Thus, the regime is not incentivising the use of quieter aircraft as much as it could do, and nor is it preventing airlines from hypothetically replacing an aircraft with a noisier one.</line>
+</text>
+<references>
+<reference number="11">Civil Aviation Act (1982)  http://www.legislation.gov.uk/ukpga/1982/16</reference>
+<reference number="13">https://www.gov.uk/government/publications/night-flying-restrictions-at-heathrow-gatwick-and-stansted-airports</reference>
+<reference number="14">DfT(2014) 'Night Flying Restrictions at Heathrow, Gatwick and Stansted' https://www.gov.uk/government/consultations/night-flights</reference>
+<reference number="33">Reduction based on unrounded figures</reference>
+<reference number="16">http://your.heathrow.com/takingbritainfurther/wp-content/uploads/2016/05/Press-release-Heathrow-responds-to-Airports-Commission- conditions-11-May-2016.pdf</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="12" weight="not core">
+<name>Future aircraft technology and noise improvements</name>
+<text>
+<line id="S0391">2.23 Modern aircraft are considerably quieter than previous generations, with this improvement driven primarily by quieter engines.</line>
+<line id="S0392">As a result the noise emissions of modern jet aircraft have reduced considerably since the first models.</line>
+<line id="S0394">The UK was instrumental in securing an agreement on a tougher international noise standard in the ICAO Committee on Aviation Environmental Protection (CAEP).</line>
+<line id="S0395">This requires new types of large civil aircraft, from 2017, to be at least 7dB quieter in total, across the three test points, than the current standard.</line>
+<line id="S0396">Standards for smaller aircraft will be similarly reduced in 2020.</line>
+<line id="S0397">2.25 Several new types of aircraft will also come into service at the designated airports over the next few years that will be quieter than the aircraft they will gradually replace.</line>
+<line id="S0398">This includes the introduction of the Airbus A320neo, Airbus A350, Boeing 737 MAX and Boeing 777X. While no aircraft can be completely silent, the new generation of aircraft coming into service have a noise footprint that is typically 50%</line>
+<line id="S0399">smaller on departure, and at least 30% smaller on arrival, than that of the aircraft they are replacing. ** (Reference: 34)</line>
+<line id="S0400">2.26 In addition to the introduction of quieter aircraft at the designated airports, modifications to the existing Airbus A320 family of aircraft, which are known to emit a high-pitched 'whine' 7 to 15 miles from the airport, are also expected during the period covered by the current and next night flight regimes.</line>
+<line id="S0401">All new A320s produced by Airbus will have flow detectors installed to suppress the tonal noise created by these aircraft, and two airlines with a significant number of night operations at Gatwick, British Airways and easyJet, have agreed to retro-fit these modifications to existing aircraft by the end of 2017 and early 2018 respectively.</line>
+<line id="S0402">Gatwick have also proposed to raise landing charges for non-retrofitted aircraft from April 2017, in response to the Independent Arrivals Review. ** (Reference: 35)</line>
+<line id="S0403">2.27 Heathrow are also working to encourage airlines to retrofit noise reducing technology to the A320 family of aircraft that use the airport.</line>
+</text>
+<references>
+<reference number="34">Based on CAA modelling</reference>
+<reference number="35">Bo Redeborn &amp; Graham Lake (2016) 'Gatwick Airport Independent Arrivals Review' http://gatwickairport.com/globalassets/publicationfiles/business_and_community/all_public_publications/2016/independent-arrivals- review-jan2016.pdf</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="10" weight="not core">
+<name>Government capacity and expansion decisions</name>
+<text>
+<line id="S0162">1.7 In July 2015, the Airports Commission published its Final Report in which it recommended a new north west runway at Heathrow. The report also included the recommendation, that if Heathrow was expanded, there should be a ban on scheduled night flights between the hours of 2330 and 0600. ** (Reference: 15)</line>
+<line id="S0163">The recommendation was clear however that this would only be possible with the extra capacity provided by a third runway that would allow existing night flights to be retimed to the early morning period, and that further restrictions at a capacity constrained Heathrow would damage the UK's connectivity.</line>
+<line id="S0164">1.8 On 25 October 2016, the Government announced a new north west runway at Heathrow as its preferred scheme for consultation for delivering new runway capacity in the south east. When announcing this decision, the Government made clear that it expects a ban on night flights of six and a half hours to be included in the package of mitigation measures for communities associated with expansion at Heathrow. ** (Reference: 56)</line>
+<line id="S0165">1.9 Heathrow has itself pledged to introduce a ban of six and a half hours.</line>
+<line id="S0166">It has also indicated that a ban could be introduced before a new runway is operational if their existing movement limit is raised in the interim period and airspace changes to provide extra resilience in the early morning period are implemented. Exact details, including on the timings of a future ban, will be subject to public consultation in the future. ** (Reference: 16)</line>
+<line id="S0167">Furthermore, Heathrow has announced it is not seeking an increase in its current night flights limit for the next regime.</line>
+<line id="S0168">1.10 Gatwick has also indicated that it has no intention of seeking to increase its number of night flights at this moment.</line>
+<line id="S0169">1.11 Manchester Airports Group, the operators of Stansted Airport, have also indicated that they intend to seek planning permission to increase its passenger cap.</line>
+<line id="S0171">FXUUHQW FDS LV PLOOLRQ SDVVHQJHUV SHU DQQXP WKRXJK LW LV HVWLPDWHG WKDW WKH FDSDFLW\ SURYLGHG E\</line>
+<line id="S0172">WKH H[LVWLQJ UXQZD\ FRXOG DOORZ WKH DLUSRUW WR KDQGOH WR PLOOLRQ SDVVHQJHUV SHU DQQXP 7KH DLUSRUW DUH SODQQLQJ WR EULQJ IRUZDUG WKHLU DSSOLFDWLRQ LQ ZLWK WKH H[SHFWDWLRQ RI DJUHHLQJ QHZ SODQQLQJ FDSV IRU SDVVHQJHUV DQG $LU 7UDQVSRUW 0RYHPHQWV FXUUHQWO\ SHU DQQXP</line>
+</text>
+<references>
+<reference number="15">Airports Commission (2015) Final Report https://www.gov.uk/government/publications/airports-commission-final-report</reference>
+<reference number="56">Reference #16 in 'Night flight restrictions consultation (listed source)' was cited in the text but has no definition in that document.</reference>
+<reference number="16">http://your.heathrow.com/takingbritainfurther/wp-content/uploads/2016/05/Press-release-Heathrow-responds-to-Airports-Commission- conditions-11-May-2016.pdf</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="11" weight="not core">
+<name>Population exposure to night noise</name>
+<text>
+<line id="S0251">1.32 In 2015-16 (the summer 2015 and winter 2015/16 seasons), there were approximately 105,000 people exposed to noise levels of at least 48 dB LAeq 6.5hr night between 2330 and 0600.</line>
+<line id="S0252">While this number is much higher than at Gatwick or Stansted, there have been noticeable improvements in recent years - with the current population representing a 20% reduction since 2011-12 and even larger reductions since 2002-03.</line>
+<line id="S0274">1.38 In 2015/16, there were approximately 4,300 people exposed to noise levels of at least 48 dB LAeq 6.5hr night between 2330 and 0600.</line>
+<line id="S0275">This represents approximately 4% of the number at Heathrow, however the actual size of the contours at the two airports is similar with the difference primarily accounted for by differences in population density.</line>
+<line id="S0276">The population within this contour at Gatwick has actually</line>
+<line id="S0277">increased since 2011-12, though it is not possible to draw any firm conclusions on this as the difference is small and will have been affected to some extent by changes in the easterly/westerly split in different years.</line>
+<line id="S0278">Since 2002-03, there has been a noticeable fall in the size of the 48 dB contour, but the number of people within it has actually increased.</line>
+<line id="S0301">1.44 In 2015/16, there were approximately 3,800 people exposed to noise levels of at least 48 dB LAeq 6.5hr night between 2330 and 0600.</line>
+<line id="S0302">This is lower than the number of people exposed to equivalent noise at Gatwick and the size of the contour is also smaller.</line>
+<line id="S0303">Like at Gatwick, there has also been an increase in the size of the contour since 2011-12, though the difference is small and will be partly the result of changes in the split of easterly and westerly operations. ** (Reference: 27)</line>
+<line id="S0304">It is not therefore possible to draw firm conclusions from these changes.</line>
+</text>
+<references>
+<reference number="27">Since the publication of the Stage 1 consultation in January 2013 an error was discovered in the Stansted 2011-12 LAeq 6.5hr night (actual usage) results reported in Annex B of that document. Because the effects of ground (terrain) height were not properly accounted for in the modelling process, the published 2011-12 LAeq 6.5hr night (actual usage) contour was slightly larger than it should have been. The 2011- 12 noise contour for Stansted has now been re-run and the corrected results are reported in Table 5. The corrected 48dBA 6.5hr night contour area of 28.0 sq km is approximately 4% smaller than the area of 29.3 sq km previously reported in the January 2013 consultation.</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="7" weight="not core">
+<name>Air quality and climate change impacts</name>
+<text>
+<line id="S1384">Aircraft fuel emissions from all flights, including night flights, cause a negative impact on air quality.</line>
+<line id="S1385">This in turn can have negative impacts on human health, as well as on the natural and man-made environment.</line>
+<line id="S1386">The key pollutants emitted by aircraft and affecting local air quality are particulate matter (PM10) and oxides of nitrogen (NOx).</line>
+<line id="S1387">In general terms, the atmosphere is more stable at night which means that pollutants are dispersed less easily and thus air pollution emission at night can have a greater impact on local air quality.</line>
+<line id="S1392">Aviation’s most significant contribution to climate change is through emissions of carbon dioxide (CO2).</line>
+<line id="S1393">The sector’s share of the UK’s overall greenhouse gas emissions has been increasing and is expected to rise further in the coming years.</line>
+<line id="S1394">Night flights at Heathrow, Gatwick and Stansted contribute to greenhouse gas emissions.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="not core">
+<name>Vulnerable populations and distributional impacts</name>
+<text>
+<line id="S1366">This is said to be from long-term exposure to night noise, from people repeatedly experiencing the immediate stress responses of sleep disturbance. All of these health impacts could have distributional impacts as they could be more likely to affect vulnerable members of society such as the elderly or those suffering from mental health issues. ** (Reference: 82)</line>
+<line id="S1767">Night flights may have a disproportionate impact on those sensitive to noise and those already severely impacted.</line>
+</text>
+<references>
+<reference number="82">‘Hypertension and Exposure to Noise near Airports (HYENA) Study’ by Larup et al (2007) &amp; Babisch and van Kamp (2009)</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="27" weight="not core">
+<name>Noise contour methodology and measurement</name>
+<text>
+<line id="S0737">The noise contours in this annex have been produced by the Environmental</line>
+<line id="S0738">Research and Consultancy Department (ERCD) of the Civil Aviation Authority (CAA) using the UK aircraft noise contour model (ANCON 2).</line>
+<line id="S0739">F. A description of the method by which the contours are computed and the sources of ** (Reference: 2)</line>
+<line id="S0740">input data, which include actual monitored data, are contained in The CAA Aircraft Noise Contour Model: ANCON Version 1: DORA Report 9120 and The UK Civil Aircraft Noise Contours Model ANCON – Improvements in Version 2: R&amp;D Report 9842.</line>
+<line id="S0742">The population data included in Table 1 uses data from a residential population</line>
+<line id="S0743">location database developed by Extrium Limited in connection with fulfilling the Government’s obligations under the Environmental Noise Directive(END)</line>
+<line id="S0744">(Directive 2002/49/EC) and the domestic legislation which implements it,</line>
+<line id="S0745">The Environmental Noise (England) Regulations (EN(E)R) 2006, as amended. ** (Reference: 52)</line>
+<line id="S0746">Information about residential buildings is combined with population data based on Census Output Areas (COA) from the 2011 census to produce a residential population location dataset.</line>
+<line id="S0747">That dataset is combined with the noise exposure data to produce the results shown in the tables. ** (Reference: 53)</line>
+<line id="S0748">F. Contour results for subsequent years, as well as forecast noise contours, have been ** (Reference: 4)</line>
+<line id="S0749">produced using CACI Limited data for 2015.</line>
+<line id="S0750">F. All contours in this Annex are average mode contours and should be considered ** (Reference: 5)</line>
+<line id="S0753">F. Annex VI of the END describes how information about the number of people and the ** (Reference: 6)</line>
+<line id="S0754">area affected by aircraft noise should be reported.</line>
+<line id="S0755">The estimated number of people living in dwellings (rounded to the nearest hundred as required by Directive 2002/49/EC) exposed to the following bands of values of Lden in dB: 55-59, 60-64, 65- 69, 70-74 and &gt;75, and the following bands of values of Lnight in dB: 50-54, 55-59, 60- 64, 65-69, &gt;70, should be provided.</line>
+<line id="S0756">In the case of graphical representation, strategic maps must show at least the 60, 65, 70 and 75 dB contours.</line>
+<line id="S0758">For the purposes of this consultation we have calculated contours for the following</line>
+<line id="S0759">values: 55, 60, 65, 70 and 75 (Lden) and 50, 55, 60, 65 and 70 (Lnight 8 hour).</line>
+<line id="S0760">The corresponding areas, population and household data are also provided for each band of values in Table 1 below.</line>
+<line id="S0761">Graphic representations of these on background maps,</line>
+<line id="S0763">F. These Lden and Lnight contours were calculated using average actual recorded data for ** (Reference: 8)</line>
+<line id="S0764">the period 2300 to 0700 for the calendar year 2011, and were produced to meet the requirements of the Environmental Noise (England) Regulations.</line>
+<line id="S0765">This is also the most recent year for which a full set of data is available to produce contours from.</line>
+<line id="S0766">Lden and Lnight contours have been published previously for Heathrow, Gatwick and Stansted for 2006 in ERCD Reports 0706, 0707 and 0708 respectively to meet the requirements of the EN(E)R. ** (Reference: 54)</line>
+<line id="S0767">More recent contours are available for Heathrow however. ** (Reference: 55)</line>
+<line id="S0781">F. Also included for reference below are the Summer 2015/Winter 2015-16 55 dBA LAeq ** (Reference: 11)</line>
+</text>
+<references>
+<reference number="2">Aerospace Defence Safety (ADS), https://www.adsgroup.org.uk/about/our-sectors/</reference>
+<reference number="52">Statutory Instrument 2006 No. 2238,</reference>
+<reference number="53">As explained in the main consultation document, 2011-12 contours at Stansted have been re-run due to an error which was discovered. The updated contours are based on CACI data.</reference>
+<reference number="4">ONS Input-Output tables 2015</reference>
+<reference number="5">HMRC Trade Statistics, 2015</reference>
+<reference number="6">http://www.icao.int/Newsroom/Pages/Historic-agreement-reached-to-mitigate-international-aviation-emissions.aspx</reference>
+<reference number="8">ICAO Balanced Approach, http://www.icao.int/environmental-protection/Pages/noise.aspx</reference>
+<reference number="54">ERCD reports available on the CAA website at www.caa.co.uk/publications</reference>
+<reference number="55">http://www.heathrow.com/file_source/HeathrowNoise/Static/Heathrow_Noise_Action_Plan_Contours_2014.pdf</reference>
+<reference number="11">Civil Aviation Act (1982)  http://www.legislation.gov.uk/ukpga/1982/16</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="12" weight="not core">
+<name>Other</name>
+<text>
+<line id="S0170">The</line>
+<line id="S0834">G. Over the next few years, new commercial aircraft will come into operation that are ** (Reference: 1)</line>
+<line id="S0835">below the current QC/0. (quieter than 84 EPNdB) category and therefore exempt under current restrictions. ** (Reference: 24)</line>
+<line id="S0836">G. To provide an indication of the likely noise impact of the exempt-rated (QC/0) ** (Reference: 2)</line>
+<line id="S0837">A320neo, Figure 1 below illustrates the size and extent of the 60 dBA Lmax arrival noise footprint for a typical westerly arrival to runway 26L at Gatwick.</line>
+<line id="S0838">An outdoor Lmax level of 60 dBA corresponds to an indoor noise level of approximately 45 dBA, in accordance with the WHO recommendation that individual noise events at night exceeding 45 dBA should be avoided.</line>
+<line id="S0839">G. Also shown in Figure 1 for comparison is the equivalent footprint for the current ** (Reference: 3)</line>
+<line id="S0840">model of the A320 (QC/0.25), which is the most common aircraft type currently operating at Gatwick during the night quota period.</line>
+<line id="S0841">G. Figure 2 illustrates the equivalent footprints for easterly arrivals. ** (Reference: 4)</line>
+<line id="S0842">G. Results are summarised in Table 1, which indicate that whilst the noise footprint of ** (Reference: 5)</line>
+<line id="S0843">the new A320neo is significantly smaller than the current A320, the impacts of a QC/0 rated aircraft are not insignificant.</line>
+<line id="S0918">There is a need to protect local communities from the negative impacts of aircraft noise at night, while permitting the operation of services that provide benefits to the aviation industry and wider economy.</line>
+</text>
+<references>
+<reference number="1">Global Competiveness Report, World Economic Forum, 2015-16, http://reports.weforum.org/global-competitiveness-report-2015-2016. Based on available seat kilometres</reference>
+<reference number="24">Airport Commission (2015) 'Final Report', p.78 https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/440316/airports-commission-final-report.pdf</reference>
+<reference number="2">Aerospace Defence Safety (ADS), https://www.adsgroup.org.uk/about/our-sectors/</reference>
+<reference number="3">Annual Business Survey, 2014</reference>
+<reference number="4">ONS Input-Output tables 2015</reference>
+<reference number="5">HMRC Trade Statistics, 2015</reference>
+</references>
+<links>
+</links>
+</theme>
+<ungrouped sentences="14">
+<text>
+<line id="S0174">6LQFH WKH QLJKW IOLJKWV UHJLPH VHW E\ WKH *RYHUQPHQW DW +HDWKURZ *DWZLFN DQG</line>
+<line id="S0175">6WDQVWHG KDV OLPLWHG WKH QXPEHU RI PRYHPHQWV WKDW FDQ WDNH SODFH EHWZHHQ WKH KRXUV RI DQG</line>
+<line id="S0176">7KHUH DUH DOVR OLPLWV RQ WKH DPRXQW RI QRLVH</line>
+<line id="S0177">TXRWD WKDW DLUSRUWV DUH DOORZHG WR XVH GXULQJ WKLV SHULRG ZKLFK LV NQRZQ DV WKH QLJKW TXRWD SHULRG</line>
+<line id="S0179">7KH PRYHPHQW OLPLW UHIHUV WR WKH PD[LPXP DPRXQW RI DLUFUDIW WKDW FDQ WDNH RII RU ODQG</line>
+<line id="S0180">GXULQJ WKH QLJKW TXRWD SHULRG ZKLOH WKH TXRWD FRXQW OLPLW UHODWHV WR WKH PD[LPXP DPRXQW RI QRLVH HQHUJ\</line>
+<line id="S0181">WKDW FDQ EH SURGXFHG,I DQ DLUSRUW XVHV DOO LWV TXRWD FRXQW WKHQ HYHQ LI LW KDV DGGLWLRQDO PRYHPHQWV DYDLODEOH QR IXUWKHU PRYHPHQWV</line>
+<line id="S0182">FDQ WDNH SODFH DQG YLFH YHUVD $Q\ IOLJKWV E\ H[HPSW DLUFUDIW RU WKRVH VXEMHFW WR GLVSHQVDWLRQV DV GHVFULEHG EHORZ GR QRW FRXQW WRZDUGV WKHVH OLPLWV</line>
+<line id="S0228">City Centre and is surrounded by: suburban housing, business premises and mixed use open land to the north and south; suburban housing and business premises to the east; and three large reservoirs, mixed use open land, housing and business premises to the west.</line>
+<line id="S0299">1.43 Another difference between Stansted and the other two designated airports is that Stansted is using a far higher proportion of its noise quota - approximately 100% in the most recent summer season - though as can be seen in Tables 9 to 14 below, the average QC per movement is much quieter than at Heathrow and close to the value for Gatwick.</line>
+<line id="S1306">With regards to Gatwick, the number of night flights in the summer season has grown in recent seasons to a level that is very high in comparison with other airports which has resulted both in an increase in the people affected by noise at night and the level of complaints from communities around Gatwick about night flights.</line>
+<line id="S1307">In the winter season on the other hand, there is currently significant unused capacity.</line>
+<line id="S1356">The WHO is expected to publish new guidelines for noise soon and it is possible these may include specific guidelines for different sources.</line>
+<line id="S1382">In addition, the Aviation Environment Federation (AEF) has this year published a paper which synthesised the latest evidence and analysed the Government's current policy with regards to aviation noise. ** (Reference: 85)</line>
+</text>
+<references>
+<reference number="85">Aviation Environment Federation (AEF) (2016) ‘Aircraft Noise and Public Health - The evidence is loud and clear’, Commissioned by HACAN and the Aviation Environment Trust</reference>
+</references>
+<links>
+</links>
+</ungrouped>
+</root>

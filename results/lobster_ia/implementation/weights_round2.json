@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Proposed Ban on Berried Lobster and Crawfish",
+      "reason": "This defines the core implementation mechanism itself: the specific legal method chosen (amending existing SI under the Sea Fish Conservation Act), its scope, and which vessels/waters it applies to. Without this, there is no description of how the intervention is actually to be delivered.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation and Evidence Gathering",
+      "reason": "This explains the process by which the delivery method and underlying assumptions will be tested and finalised, addressing the should-explain point about how the method is being decided where still open.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enforcement and Implementation Mechanisms",
+      "reason": "This describes how the ban will be enforced and implemented in practice (testing kits, routine inspections, building on existing procedures), directly addressing how the intervention will be rolled out.",
+      "weight": "core"
+    },
+    {
+      "theme": "Costs of Testing and Enforcement",
+      "reason": "This provides the detailed cost estimates and assumptions for implementation, addressing the should-explain point on costs and benefits, but is a supporting quantification rather than the argument's structural basis.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Cost Savings and Regional Impacts",
+      "reason": "This is a minor, unquantified side-benefit for certain IFCAs and does not carry the main implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Legislative Framework",
+      "reason": "A brief remark about simplification benefits of using existing legislation, supporting but not essential to the implementation case.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Government Simplification Agenda",
+      "reason": "A passing restatement of the same simplification point as Legislative Framework, not a distinct supporting pillar.",
+      "weight": "not core"
+    }
+  ]
+}

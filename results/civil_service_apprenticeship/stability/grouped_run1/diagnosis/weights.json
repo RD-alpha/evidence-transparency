@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "Apprenticeship Expansion and Sector Growth",
+      "reason": "Establishes the scale and target of apprenticeship expansion and the skills shortage/growth rationale, directly explaining why apprenticeships are being pursued as a solution to skill shortages.",
+      "weight": "core"
+    },
+    {
+      "theme": "Diversity, Inclusion and Equity in the Workforce",
+      "reason": "Directly addresses the low diversity/social mobility part of the problem, citing specific gaps (e.g. disability employment) that justify the need for apprenticeship expansion as a diagnosis of inequity in the workforce.",
+      "weight": "core"
+    }
+  ]
+}

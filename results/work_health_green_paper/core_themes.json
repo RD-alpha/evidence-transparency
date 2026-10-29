@@ -1,0 +1,69 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Scale of the disability employment gap and its costs",
+        "claim": "Disabled people and those with long-term conditions are far less likely to be in work (48% vs 80%, a 32-point gap), which is an injustice and costs individuals, employers, the NHS and the economy around £100 billion a year, with ageing and workforce trends set to worsen it."
+      },
+      {
+        "name": "Work and health are linked in a downward spiral",
+        "claim": "Appropriate work benefits physical and mental health while time out of work worsens health and makes return harder, so early support matters."
+      },
+      {
+        "name": "Employment and Support Allowance and assessment system fails people",
+        "claim": "The ESA/Work Capability Assessment design leaves about 1.5 million Support Group claimants (around 50% of assessments, over 60% of claimants) with a one-size-fits-all label, no systematic work coach contact and very low exit rates, though many want to work."
+      },
+      {
+        "name": "Fragmented health, employer and wider systems",
+        "claim": "Health and welfare services are fragmented, with variable access to mental health, musculoskeletal and occupational health support, fit notes not working as intended, and employers lacking support or confidence, so people fall out of work with too little help too late."
+      },
+      {
+        "name": "Attitudes, disadvantage and low expectations",
+        "claim": "Socio-economic disadvantage, employer reluctance, low expectations and cultural attitudes among employers, health professionals and disabled people themselves are long-standing causes of the gap."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Personalised, integrated employment and health support",
+        "claim": "The government proposes a Personal Support Package and Universal Credit approach built on trained work coaches, Health and Work Conversations, Disability Employment Advisers, Community Partners and the Work and Health Programme, justified by evidence that addressing health and employment barriers together works (e.g. Individual Placement and Support) and that early engagement helps."
+      },
+      {
+        "name": "Reforming assessment and engagement of the Support Group",
+        "claim": "Financial entitlement assessment should be separated from decisions about employment support, with data sharing and simpler processes, so that people with the most needs keep financial support without being written off from employment support."
+      },
+      {
+        "name": "Employer action and healthy workplaces",
+        "claim": "Employers should be encouraged through the business case, public-sector leadership, Disability Confident, guidance, incentives, Statutory Sick Pay reform and insurance to recruit, retain and support disabled people and people with health conditions."
+      },
+      {
+        "name": "Health system treating work as a health outcome",
+        "claim": "Health services should join up with employment support by promoting prevention, improving access to mental health and musculoskeletal care, reforming fit notes and occupational health, and treating work as a health outcome."
+      },
+      {
+        "name": "Test-and-learn innovation and culture change",
+        "claim": "Because evidence gaps remain and the challenge is long-term, the government will test, evaluate and scale promising approaches and drive wider cultural change through consultation and a 10-year vision."
+      }
+    ],
+    "note": "The proposal is a package of separate measures across several domains, many presented as options for consultation rather than settled choices, with little explicit comparison against rejected alternatives."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Local and place-based delivery with partners",
+        "claim": "Delivery will be through local partnerships and devolution deals, drawing on the voluntary and community sector, Local Enterprise Partnerships, CCGs and councils, because integrated support must be tailored to local needs."
+      },
+      {
+        "name": "Funded trials and innovation funds to build evidence",
+        "claim": "Rollout will start with funded trials (the Work and Health Innovation Fund, Social Impact Bonds, Challenge Fund and Support Group trials) to learn what works before scaling up, as the evidence base is incomplete."
+      },
+      {
+        "name": "Staffing and capacity of Jobcentre Plus and health workforce",
+        "claim": "Delivery depends on building the capability of work coaches and health professionals through extra Disability Employment Advisers, Community Partners, training and a new Work and Health Programme from 2017."
+      }
+    ],
+    "note": "Implementation material is scattered across a package of separate measures with specified funding and dates, while many details remain open to consultation."
+  }
+}

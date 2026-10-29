@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Apprenticeship Numerical Target",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 30,000/2.3% target and the claim that it was 'ahead of the legislative target' and recognised by BIS are asserted without any citation or data showing how the figure was derived."
+    },
+    {
+      "theme": "Three-Fold Business Case",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Specific, cited statistics (Reference 1,2: 81%/85% employer-apprentice survey results; Reference 3,4: \u00a377k-\u00a3150k lifetime earnings from the BIS 2020 Vision report) are directly linked to the 'makes business sense' claim, but no assessment of the evidence's strength or limitations is offered."
+    },
+    {
+      "theme": "Diversity and Social Mobility Objective",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims that removing educational requirements will improve diversity and social mobility are asserted as reasoning with no statistic, study or source given anywhere in the extract."
+    },
+    {
+      "theme": "Quality Beyond Quantity",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The Ofsted 2013/14 Annual Report quote and the cited NAO report (Reference 6, linked) are used to justify designing the strategy around quality success areas rather than numbers alone, but the document merely quotes these external critiques rather than independently assessing the strength or gaps in the evidence."
+    }
+  ],
+  "reasoning": "The four core themes vary sharply in evidential grounding. The Numerical Target theme (level 0) simply asserts the 30,000/2.3% figure and 'ahead of legislative target' claim with no supporting data on how this level was chosen. The Diversity and Social Mobility theme (level 0) is pure reasoning ('by opening up jobs without requirements for educational attainment...') with no statistic or study cited anywhere in the extract. In contrast, the Three-Fold Business Case theme (level 2) cites concrete figures -- '81% of apprenticeship employers said that apprentices have increased productivity' and '85% of apprentices stated their ability to do the job had improved' (Reference 1,2), and lifetime earnings gains of '\u00a377,000 and \u00a3117,000' or '\u00a3150,000' (Reference 3,4) -- directly tied to its claims. Quality Beyond Quantity (level 2) names and links the Ofsted 2013/14 report and the NAO's September 2016 report (Reference 6, linked), using their critique of numbers-driven delivery to justify a quality-focused design, though the document only reports these critiques rather than assessing the evidence base itself. The mean of 0, 2, 0 and 2 is 1.0, rounding to a section score of 1. The strongest counter-case for a higher score is the well-cited ROI and employer-survey figures in the Business Case theme; the strongest case for a lower score is that two of four core claims (the headline target and the diversity rationale) have no evidence at all. To reach level 2 overall, the target-setting and diversity claims would need cited data or modelling explaining why these specific figures and mechanisms were chosen.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

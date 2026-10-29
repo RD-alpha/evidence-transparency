@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Apprenticeship Numerical Target",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Three-Fold Business Case",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Diversity and Social Mobility Objective",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Quality Beyond Quantity",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Civil Service Leadership and Exemplar Role",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Workforce Capability and Skills Development",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Apprenticeship Quality and Engagement",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Modern Employment Offer and Career Pathways",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

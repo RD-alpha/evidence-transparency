@@ -1,0 +1,9 @@
+{
+  "themes": [
+    {
+      "theme": "Other",
+      "reason": "The single sentence 'It will be reviewed' is a bare, vague assertion that does not specify testing plans, measured outcomes, evaluation timetable, or consultation plans. The extract contains no substantive argument for the testing and evaluation aspect, so no theme can be marked core.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "MOT testing for historic vehicles",
+  "alias": "mot_historic_vehicles",
+  "uploaded_at": "2026-10-13T11:54:20.643088+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "11:54:20 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "mot_historic_consultation",
+      "title": "MOT Historic Vehicles Consultation",
+      "sentence_count": 162,
+      "first_sentence": "S0001",
+      "last_sentence": "S0162",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 9
+    },
+    {
+      "alias": "mot_historic_ia",
+      "title": "MOT Historic Vehicles Impact Assessment",
+      "sentence_count": 407,
+      "first_sentence": "S0163",
+      "last_sentence": "S0569",
+      "reference_count": 2,
+      "first_reference": "1",
+      "last_reference": "2",
+      "link_count": 1
+    }
+  ],
+  "appendix2_date": "22 September 2016",
+  "appendix2_type": "consultation + IA (combined in Appendix order)",
+  "extraction_note": "Table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

@@ -1,0 +1,22 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Votes for life / enfranchising long-term expatriates",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim rests on reasoning about expatriates' ties to the UK (family, intention to return, service) with no statistic, study, consultation finding or data cited to support it, and reference 2 only clarifies which nationalities are eligible rather than providing evidence for the policy choice."
+    },
+    {
+      "theme": "Costs of the policy",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The document gives specific figures (~\u00a30.1m, ~\u00a30.7m) and explains what they cover, but these are the government's own cost estimates with no stated methodology for how they were derived and carry no citation, so they stay at level 1."
+    }
+  ],
+  "reasoning": "The core theme is 'Votes for life / enfranchising long-term expatriates', which sets out the intervention itself (scrapping the 15-year limit) and justifies it entirely through reasoning: expatriates 'retain strong links with the United Kingdom', may 'plan to return', or have 'fought for our country'. None of these claims are backed by a cited statistic, survey, consultation response, or comparator policy experience \u2014 they are assertions about expatriate ties, not evidence. Reference 2 merely defines which nationalities count as British citizens for registration purposes, not evidence for why the time limit should be scrapped. As reasoning alone, with no evidence base shown for the policy choice, this core theme sits at level 0. The 'Costs' theme is not core but mentions primary estimates (~\u00a30.1m, ~\u00a30.7m) tied to specific IT changes, reaching level 1 since no methodology is given for how these figures were calculated. Since there is only one core theme, scored at 0, the section score is 0. The strongest counter-example is the costs theme, which does use the department's own figures, but it does not support the core claim about why votes for life was chosen. To reach level 1 for the core theme, the document would need to mention any supporting evidence (even uncited) \u2014 such as survey data on expatriate ties, prior consultation findings, or comparator countries' experience \u2014 showing how it informed the decision to scrap the 15-year rule.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.5,
+  "score_consistent": true,
+  "missing_core": []
+}

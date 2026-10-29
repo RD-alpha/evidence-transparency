@@ -1,0 +1,49 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Consequences of incompetent social work",
+        "claim": "Social workers handle complex, high-stakes situations, and when they cannot do their role competently the consequences for vulnerable people can be catastrophic, so conduct and competence standards overseen by a regulator are needed to protect the public."
+      },
+      {
+        "name": "Weaknesses in current regulation",
+        "claim": "Independent 2014 reviews (Narey, Croisdale-Appleby) indicate that the current regulatory system under the Health and Care Professions Council could be improved for the social work profession."
+      }
+    ],
+    "note": "The diagnosis is brief and rests largely on assertion and on a passing reference to two independent reviews, with no scale or causal detail on the regulatory failings."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Bespoke specialist regulator for social work",
+        "claim": "A new regulator focused solely on the unique needs and role of social work, with a positive emphasis and protection of vulnerable people as its aim, is the right intervention to improve on the current system."
+      },
+      {
+        "name": "Independence from government as an NDPB",
+        "claim": "Having listened to stakeholder concerns that an executive agency sat too close to government, the government has chosen to make Social Work England a separate non-departmental public body with an appointed board, no ministerial role in individual decisions, and no power to appoint another regulator, while keeping accountability through departmental monitoring."
+      },
+      {
+        "name": "Focused regulatory remit and external oversight",
+        "claim": "Social Work England will be confined to core regulation (register, fitness to practise, education and professional standards) with improvement separated out, a public-protection objective set in the Bill consistent with other health and care regulators, and independent oversight by the Professional Standards Authority."
+      },
+      {
+        "name": "Standards set with sector input",
+        "claim": "Standards will be set by the regulator in consultation with the sector and approved by ministers, aiming to raise minimum standards over time from initial education through professional practice and post-qualification."
+      }
+    ],
+    "note": "The proposal is a package of related design changes made in response to stakeholder and House of Lords concerns, with little evidence cited beyond that feedback and the Law Commission report; the funding commitments (£10m set-up, up to £16m running costs) are stated without assumptions."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Sector engagement and co-design",
+        "claim": "The detail will be worked out collaboratively through an Advisory Group of sector representatives and consultation on regulations, with the new body required to consult the profession before setting standards."
+      },
+      {
+        "name": "Timetable and phased delivery",
+        "claim": "The new body will be delivered by September 2018, a challenging but achievable timetable, with new standards phased in, starting with initial education and training, so it can first establish its core register and fitness to practise functions."
+      }
+    ],
+    "note": "Implementation is thinly argued, with the detailed timetable still being developed and the full cost assessment deferred to a later impact assessment."
+  }
+}

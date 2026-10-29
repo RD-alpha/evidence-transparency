@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Threshold placement trade-off",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Risk of over-broad targeting",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation as the method for finalising design",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation administration",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

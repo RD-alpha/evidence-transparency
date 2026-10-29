@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Outdated match test and excess chemical use",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The department explains in detail how the 1988 match test works and why it mismatches modern furniture construction (fibre wrap, thermoplastics, combustion-modified foam) but this is the department's own technical analysis with no methodology or citation given, and the attached Reference 4 (ONS Annual Business Survey) is unrelated to the claim."
+    },
+    {
+      "theme": "Health and environmental harm from flame retardants",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Specific health/environmental findings (endocrine disruption, dust contamination, landfill leaching) are described but sourced only via generic 'see Annex for sources' pointers and unnamed studies ('one study indicates...', 'various researchers have shown...'), so no individual claim can be traced to a specific source."
+    },
+    {
+      "theme": "Proven safety record of existing regulations",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The claim that FFRs save 54 lives, prevent 800 injuries and 1,000 fires annually is linked to a named, cited source (Reference 1, Greenstreet Berman Ltd 2009 for BIS) with the method identified (a statistical effectiveness report) and clear figures tied to the claim."
+    },
+    {
+      "theme": "Ambiguous scope of regulations",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The scatter-cushion example is illustrative reasoning with no supporting data on how often or how severely this ambiguity causes problems, and Reference 6 (about test-house cost savings and ASHE salary data) does not actually support this claim."
+    },
+    {
+      "theme": "Weak traceability hampering enforcement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that current traceability is insufficient for recall and enforcement is asserted with no data, example, or citation given."
+    }
+  ],
+  "reasoning": "The five core themes vary sharply in evidential strength. 'Proven safety record' reaches level 2: it cites a named BIS-commissioned report (Reference 1, Greenstreet Berman Ltd 2009) and gives specific, linked figures (54 lives, 800 injuries, 1,000 fires, \u00a3140m/year). 'Outdated match test' and 'Health and environmental harm' both reach level 1: the former gives a detailed but uncited technical account of why the match test fails modern furniture (fibre wrap, thermoplastics), and its attached Reference 4 is irrelevant to the claim; the latter cites real-sounding findings (endocrine disruption, dust, landfill leaching) but only via vague 'see Annex for sources' pointers and unnamed studies, so no claim can be traced to its source. 'Ambiguous scope' and 'Weak traceability' both sit at level 0: the scatter-cushion example and the traceability gap are asserted through reasoning alone, with no data, incident record, or properly linked citation (Reference 6 attached to the scope theme is about cost calculations, not ambiguity). The mean of (1,1,2,0,0) is 0.8, rounding to 1. The strongest counter-example is the safety-record theme's clear, cited BIS figures, which alone would justify a 2. To reach level 2 overall, the document would need to replace the Annex-only citations for chemical harms and give an actual citation or data source for the scope-ambiguity and traceability claims.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.8,
+  "score_consistent": true,
+  "missing_core": []
+}

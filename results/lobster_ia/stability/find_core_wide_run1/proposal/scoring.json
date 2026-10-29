@@ -1,0 +1,76 @@
+{
+  "theme_scores": [
+    {
+      "theme": "National ban as preferred option over alternatives",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Claims about enforcement difficulties and spatial coverage draw on MMO/IFCA experience and FAD data (Reference 1, Reference 2), but the citations sit beside conclusory sentences ('2.3...Reference 1', '3.2...Reference 2') without showing how the data produced the conclusion."
+    },
+    {
+      "theme": "Failure of voluntary action",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The claim that voluntary v-notching has failed is directly tied to Cefas's own portside sampling showing berried lobsters make up ~14% of landings, with the method ('portside sampling of landings') briefly described, linking primary evidence clearly to the claim."
+    },
+    {
+      "theme": "Insufficiency of partial/local bans",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Biological facts (eggs carried up to 10 months, stocks extending beyond 6nm) are offered as reasons but are uncited in this section, and the one reference present (Reference 3, STECF fleet economics report) does not clearly match the egg-duration claim it sits beside."
+    },
+    {
+      "theme": "Cost-benefit justification despite net cost",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The Cefas dynamic population model (Reference 8, Reference 9) is described in detail (scenarios, fishing rates, 15-year appraisal), used to derive the headline 3-43% landings/80% biomass figures justifying the \u00a335.9m cost, and the document itself flags uncertainty, e.g. 'It is uncertain how well this general lobster population corresponds to each of the individual functional units.'"
+    },
+    {
+      "theme": "Policy objectives and regulatory framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements about MSY obligations, Biodiversity 2020 and the EU technical measures proposal are commitments and descriptions of context rather than evidence for the chosen intervention."
+    },
+    {
+      "theme": "Costs to businesses and government",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Cefas sampling and MMO landings data (Reference 3, Reference 7, Reference 1) are combined to produce the \u00a32.36m/\u00a314,100 cost estimates with the combination method briefly explained."
+    },
+    {
+      "theme": "Familiarisation and compliance costs",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Wage data (Reference 16) and fisher numbers (Reference 17) are cited and combined with stated assumptions (2 hours, 30% non-wage uplift) to produce the \u00a326,900 figure, with an acknowledged likely overestimate."
+    },
+    {
+      "theme": "Analytical methodology and assumptions",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The IA lays out its own modelling assumptions in detail (Reference 5, Reference 2, Reference 3) and explicitly flags their limitations, e.g. 'there is no evidence on how prevalent this is' and 'there is insufficient evidence to know how these reactions would affect costs.'"
+    },
+    {
+      "theme": "Affected populations and business scale",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Vessel and employment figures are cited (Reference 1, 21, 22, 23) but simply stated as scale-setting context without being linked to a specific policy claim."
+    },
+    {
+      "theme": "Policy implementation and summary",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme restates the chosen measure and its expected effects without presenting supporting evidence."
+    },
+    {
+      "theme": "Rejected alternative options",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 'do nothing' option is rejected using reasoning about future stock collapse risk with no evidence cited beyond a generic Reference 1 marker."
+    }
+  ],
+  "reasoning": "Of the four core themes, two reach only level 1: 'National ban as preferred option' cites MMO/FAD evidence (Reference 1, 2) but only as citations sitting beside conclusions, e.g. '3.2...Reference 2', without showing the data-to-decision chain; 'Insufficiency of partial/local bans' relies on uncited biological facts about egg-carrying duration and a mismatched Reference 3. 'Failure of voluntary action' reaches level 2 because the 14% berried-landings statistic is explicitly Cefas's own sampling, with the method named and directly linked to the claim that voluntary uptake has failed. 'Cost-benefit justification' reaches level 3: the Cefas population model (Reference 8, 9) is described in detail (fishing-rate scenarios, 15-year appraisal), produces the headline 3-43%/80% figures, and the document itself acknowledges real limitations, e.g. 'It is uncertain how well this general lobster population corresponds to each of the individual functional units.' The mean of (1, 2, 1, 3) is 1.75, rounding to 2. The strongest counter-example pulling the score down is that the central rationale for choosing a national ban over IFCA byelaws rests on assertions about spatial coverage and enforcement that are barely cited and never assessed for uncertainty. To reach level 3 overall, the document would need to similarly cite and critically assess the evidence behind the choice of a national ban itself and the claimed failure of local bans, not just the cost-benefit modelling.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

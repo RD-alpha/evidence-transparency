@@ -1,0 +1,112 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Registration number and land registry enforcement mechanism",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The statistic that '17% of freehold land in England and Wales is unregistered' is used to explain why unregistered land is excluded from scope, but the central design choice (registration number tied to title notes and voided transfers) is justified only by reasoning such as 'This is a direct way to ensure...' with no cited evidence of effectiveness or alternatives."
+    },
+    {
+      "theme": "Aligning definitions with the existing PSC regime",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The document names FATF best practice and EU anti-money laundering legislation as the origin of the PSC definition and says adopting it 'will avoid mismatches...and prevent manipulation', but neither source is cited with a reference or link, and Reference 7 only cites statutory guidance defining 'significant control'."
+    },
+    {
+      "theme": "Choice among procurement compliance options",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Specific, locatable provisions (regulation 56(1), 57(8)(d), 57(8)(h)(ii), 73 of the PCRs) are used to explain the legal consequences of each option, and consultation feedback summarised in the 'Other' theme (e.g. 'MoD's procurement regulations do not allow for this option') directly informs the trade-offs between Options A-D."
+    },
+    {
+      "theme": "Protection regime for at-risk individuals",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The proposal to allow suppression 'in similar circumstances' to the existing PSC protection regime names a comparable precedent, but gives no citation and no evidence for why the four specific suppression criteria were chosen."
+    },
+    {
+      "theme": "Scope and territorial application",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Reference 1 links to the Scottish government's September 2016 consultation, used to explain coordination on avoiding double reporting, but the link only confirms the consultation's existence rather than evidencing the coordination decision itself."
+    },
+    {
+      "theme": "Information requirements and disclosure",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Section 790K is cited only to describe current PSC particulars, not as evidence for why the new register's information set was chosen, so this remains reasoning ('we propose...it would be appropriate')."
+    },
+    {
+      "theme": "Update requirements and maintenance",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The two-year update interval is supported only by assertion ('We believe this provides the right balance') with no statistic, study or consultation evidence cited."
+    },
+    {
+      "theme": "Enforcement and criminal offences",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Section 1112 of the Companies Act 2006 and Regulation 73 of the PCRs are named specifically to justify the proposed false-statement offence and termination clauses by analogy to existing law."
+    },
+    {
+      "theme": "Institutional administration and accessibility",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Consultation feedback ('Companies House would be best suited...UK Land Registry would be an unpopular choice given their possible privatisation') is reported without stating respondent numbers or methodology, so the primary evidence stays at level 1."
+    },
+    {
+      "theme": "Reasonable steps and verification procedures",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Section 790D of the Companies Act 2006 is named as the basis for the 'reasonable steps' concept being extended to overseas entities, but no reference/link is given."
+    },
+    {
+      "theme": "Transition period and timing",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The one-year transition period is justified purely by reasoning ('We cannot expect entities...to supply the information immediately') with no supporting data."
+    },
+    {
+      "theme": "Lender protections and commercial arrangements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lender carve-out is argued from first principles ('We are keen to ensure...') with no evidence of actual lending practice or risk cited."
+    },
+    {
+      "theme": "Legal basis and international framework",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "References 5 and 6 link directly to government consultations transposing the Fourth Money Laundering Directive, clearly tying the EU legal obligation to the need for PSC legislation amendments."
+    },
+    {
+      "theme": "Awareness and communication",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Plans to 'raise awareness' and 'explore a variety of methods' are stated as intentions with no evidence of what methods work or why."
+    },
+    {
+      "theme": "Third party impacts and joint ownership",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that joint ventures will be unaffected is asserted ('We do not believe...') with no supporting evidence."
+    },
+    {
+      "theme": "Consultation and evidence gathering",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "References to the 'call for evidence' and 'Impact Assessment' describe process intentions, not evidence itself."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Consultation results are reported with respondent counts ('Yes 21 No 9' on retrospectivity; 'Yes 3 No 8' on the \u00a310m threshold) and specific qualitative burdens per procurement option, giving a traceable method and findings."
+    }
+  ],
+  "reasoning": "The four core themes score unevenly. The registration-number/land-registry mechanism (1) relies on the uncited 17% unregistered-land statistic for a scope detail, while its central design choices rest on reasoning alone ('This is a direct way to ensure...'). PSC-alignment (1) names FATF and EU AML law as origins of the beneficial-owner definition but cites neither, and Reference 7 only defines a term. The procurement options theme (2) is the strongest, naming specific PCR 2015 provisions (regs 56, 57(8)(h)(ii), 73) to explain legal consequences, reinforced by consultation evidence in the 'Other' theme such as 'MoD's procurement regulations do not allow for this option', giving a traceable link between evidence and the choice among Options A-D. The protection regime (1) is justified only by analogy to the PSC regime's suppression rules, uncited and with no evidence for the specific four criteria chosen. The mean of 1, 1, 2, 1 is 1.25, rounding to 1. The strongest counter-example is the procurement theme's specific regulatory citations and consultation burdens, which approach level 2 rigour but are not matched elsewhere. To reach level 2 across the section, the document would need to cite the FATF/EU sources and PSC-regime precedent properly, and explain how the registration-number/land-registry mechanism's effectiveness was evidenced rather than merely described.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.25,
+  "score_consistent": true,
+  "missing_core": []
+}

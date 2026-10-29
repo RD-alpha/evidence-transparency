@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "National Skills Shortage",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Public Sector Apprenticeship Gap",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Workforce Diversity and Inclusion Deficit",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Changing Perceptions of Apprenticeships",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+<root>
+<theme sentences="3" weight="core">
+<name>TPR's inability to identify the trigger date</name>
+<claim>The current AE duties trigger date cannot be identified by TPR using HMRC employer data, undermining its ability to support and enforce compliance.</claim>
+<text>
+<line id="S0069">The AE duties trigger date described above was designed over six years ago without the benefit of our subsequent operational experience with AE.</line>
+<line id="S0070">It is clear now that the current, post-staging, compliance mechanism does not allow The Pensions Regulator (TPR) to identify the prescribed AE duties trigger date set out in legislation using the employer data available to them via HMRC systems.</line>
+<line id="S0071">This undermines TPR’s ability to support and enable employers to meet their AE duties, before deciding whether they need to enforce compliance.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="3" weight="core">
+<name>Mismatch with industry understanding</name>
+<claim>The post-staging trigger date differs from the dates understood by payroll providers, accountants and pension providers, making it hard to explain to employers and advisers.</claim>
+<text>
+<line id="S0072">In addition, the current AE duties trigger date, for new employers, differs from that which will be commonly understood by those from whom an employer might seek assistance when complying with their AE duties, e.g. payroll software providers, accountants and pension providers.</line>
+<line id="S0073">These groups will only have experience of dealing with employers who are within the AE staging profile, and whose duties dates were set as the beginning of a calendar month determined by their PAYE reference.</line>
+<line id="S0074">In these circumstances, it will be difficult to explain clearly, to both employers and their advisers, when the AE duties will apply to a new employer who will be outside the staging profile and who will therefore be subject to near immediate AE duties.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="core">
+<name>Administrative complexity for employers</name>
+<claim>Most new employers would need to perform complex manual calculations because payroll software does not support the post-staging trigger, increasing burden.</claim>
+<text>
+<line id="S0075">Even where the AE duties trigger date can be accurately identified, most new employers would need to carry out a complex manual calculation of their workers’ first pension deduction, as most commercially available payroll software does not currently support the post-staging employer AE duties trigger.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="3" weight="core">
+<name>Delayed pension saving for workers</name>
+<claim>The current trigger date based on first PAYE income can delay a worker's automatic enrolment by up to a month, working against the AE reforms' aim of early pension saving.</claim>
+<text>
+<line id="S0076">Furthermore, the current AE duties trigger date works against the intention of the AE reforms which aim to bring workers into pensions saving at the earliest opportunity after they take up employment.</line>
+<line id="S0077">The date of first PAYE income trigger means that an</line>
+<line id="S0079">individual may not be automatically enrolled into pensions saving scheme until up to a month after starting work with their employer.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="7" weight="not core">
+<name>Policy context and scope</name>
+<text>
+<line id="S0042">Since October 2012, employers are obliged to enrol all workers who satisfy age and earnings criteria into a workplace pension arrangement and pay at least a minimum level of contributions.</line>
+<line id="S0043">AE is designed to target non-savers and under-savers.</line>
+<line id="S0044">It obliges every employer, irrespective of size or industry, both public and private sectors, to provide a workplace pension and pay into it.</line>
+<line id="S0065">Since October 2012, employers have been brought into workplace pensions gradually with each employer knowing in advance when their AE duties will start.</line>
+<line id="S0066">This is set out in the AE Employers’ Duties (Implementation) Regulations 2010.</line>
+<line id="S0067">The AE staging profile ceases to apply to some newly created employers from April 2017, as more than four years after the reforms were introduced, the expectation is that complying with AE duties is now part of the normal process of setting up a business in the same way that new employers are expected to deal with tax and national insurance from the outset.</line>
+<line id="S0068">Therefore during this year new employers will become subject to near immediate AE duties on the day on which PAYE income is first payable in respect of any worker – known as the AE duties trigger date.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

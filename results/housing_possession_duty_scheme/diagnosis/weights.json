@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Commercial unviability of small schemes",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Provider withdrawals and re-tendering burden",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Court estate reform",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Quality-only tendering and administratively set fees",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

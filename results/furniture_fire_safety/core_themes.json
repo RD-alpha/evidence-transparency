@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Outdated match test drives excess FR use",
+        "claim": "The 1988 match test is tested over illegal, highly flammable foam rather than the combustion-modified foam used in real products, so it over-states the ignition risk of cover fabrics and forces manufacturers to use more flame retardant chemicals than necessary."
+      },
+      {
+        "name": "Health and environmental harm from flame retardants",
+        "claim": "The brominated flame retardants used to meet the outdated test are linked to endocrine disruption, cancer, neurological harm and environmental contamination through house dust, landfill leaching and combustion by-products."
+      },
+      {
+        "name": "Existing regulations' proven safety record",
+        "claim": "The current FFRs are demonstrably effective, saving around 54 lives, preventing 800 injuries and over 1,000 fires annually worth about £140m, so any reform must preserve these safety outcomes."
+      },
+      {
+        "name": "Scope ambiguity and weak traceability undermine enforcement",
+        "claim": "The prescriptive list defining scope creates ambiguities (e.g. scatter cushions) and the current traceability requirements lack supply-chain information, both of which hamper effective enforcement and product recall."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Preferred option: update the regulations",
+        "claim": "BIS/BEIS proposes to update the FFRs with a new, more realistic match test and removal of the cigarette test, rejecting both 'do nothing' (forgoes savings) and 'revoke the regulations' (unacceptable risk to consumer safety from relying on weaker EU standards)."
+      },
+      {
+        "name": "Net cost-benefit case for the reform",
+        "claim": "The proposal is justified by a quantified net saving to business of roughly £3m to £20m per year (central estimate £15m), driven mainly by reduced flame-retardant use and removal of the cigarette test, outweighing one-off and ongoing compliance costs."
+      },
+      {
+        "name": "Consultation-driven revision of benefit estimates",
+        "claim": "Because the 2014 consultation showed industry doubted the original cost-savings estimates, BIS/BEIS substantially reduced its claimed benefits and redesigned the test and compliance routes to reflect stakeholder evidence."
+      },
+      {
+        "name": "Scope and traceability changes to support enforcement objectives",
+        "claim": "Alongside the testing change, the proposal includes clarifying the scope of covered products and strengthening traceability requirements as deliberate measures to aid enforcement and give business greater certainty."
+      }
+    ],
+    "note": "The proposal aspect bundles three linked but distinct measures (testing, scope, traceability) that are argued together as a single reform package."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Flexible routes to compliance",
+        "claim": "Implementation will offer multiple routes to compliance (interliner, interliner-plus-match-test, protective cover, non-protective cover plus components test) designed with stakeholders to let manufacturers choose the most cost-effective way to meet the new match test."
+      },
+      {
+        "name": "Extended transition period",
+        "claim": "The transition period for manufacturers and retailers has been extended from the original 18 months to 24 months, based on consultation feedback, to minimise stock-scrapping and re-testing costs, especially for SMEs."
+      },
+      {
+        "name": "Strengthened traceability record-keeping",
+        "claim": "Manufacturers and importers will be required to keep more detailed technical files (materials, FR use, contacts) for 10 years instead of 5, modelled on practice in other product-safety regimes, to improve enforcement and recall capability."
+      },
+      {
+        "name": "Further consultation to finalise undecided design details",
+        "claim": "Several implementation details—such as the method for classifying 'protective' covers and the treatment of baby products and other scope 'grey areas'—remain undecided and will be tested and settled through further consultation."
+      }
+    ],
+    "note": ""
+  }
+}

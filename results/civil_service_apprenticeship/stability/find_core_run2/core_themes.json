@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "National skills shortage and productivity gap",
+        "claim": "The manifesto commitment to apprenticeships is driven by a need to address national skill shortages and boost economic productivity."
+      },
+      {
+        "name": "Public sector lagging the private sector",
+        "claim": "The public sector has been asked to accelerate apprenticeship growth because it lags behind the private sector, where an estimated three-quarters of apprentices work."
+      },
+      {
+        "name": "Diversity, inclusion and social mobility shortfall",
+        "claim": "The Civil Service and wider public sector have historically struggled to achieve a diverse, representative and socially mobile workforce, including specific gaps such as low disability employment, which apprenticeships are needed to address."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Setting an ambitious, leading target",
+        "claim": "The Civil Service has chosen to commit to at least 30,000 apprenticeship starts (2.3% of workforce) by 2020, introduced ahead of the legislative deadline, in order to lead by example across the public sector."
+      },
+      {
+        "name": "Building workforce capability",
+        "claim": "Apprenticeships are chosen as the intervention because they will build the skills, capability and talent pipeline the Civil Service Workforce Plan identifies as needed to meet current and future skills gaps."
+      },
+      {
+        "name": "Advancing diversity and social mobility",
+        "claim": "Apprenticeships are proposed as a mechanism to open career routes to people from all backgrounds, removing educational and other barriers and improving the inclusivity of the Civil Service."
+      },
+      {
+        "name": "Economic and business case for apprenticeships",
+        "claim": "The choice of apprenticeships is justified by evidence of productivity gains for employers and significant lifetime earnings returns for apprentices, making it sound business sense."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Three delivery routes for creating apprenticeships",
+        "claim": "The Civil Service will deliver apprenticeship growth through three methods: converting planned external recruitment, upskilling the existing workforce, and enhancing current corporate apprenticeship schemes."
+      },
+      {
+        "name": "Reforming recruitment, pay and career structures",
+        "claim": "Delivering apprenticeships successfully requires rethinking existing recruitment practices, including fair apprenticeship pay, potential-based selection, and embedding apprenticeships into career pathways."
+      },
+      {
+        "name": "Governance and UK-wide delivery structure",
+        "claim": "Delivery is organised through a Cabinet Office-led governance structure in which departments deliver numbers and quality while the Cabinet Office sets strategic direction, with devolved administrations and UK departments engaged to extend opportunities across Wales, Scotland and Northern Ireland."
+      },
+      {
+        "name": "Data collection and long-term tracking for monitoring",
+        "claim": "Robust quarterly data collection and long-term tracking of apprentices' career outcomes are being implemented to monitor progress and inform delivery decisions."
+      }
+    ],
+    "note": ""
+  }
+}

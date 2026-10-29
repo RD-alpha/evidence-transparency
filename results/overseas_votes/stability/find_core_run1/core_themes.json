@@ -1,0 +1,49 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "The 15-year rule",
+        "claim": "British citizens who have lived abroad for more than 15 years are currently barred from registering as overseas electors, even if previously registered or resident in the UK."
+      },
+      {
+        "name": "Exclusion of the never-previously-registered",
+        "claim": "Citizens who were never previously registered or resident in the UK (other than those too young to register before leaving) are currently unable to register as overseas electors at all."
+      }
+    ],
+    "note": "The diagnosis consists almost entirely of description of the current registration rules rather than evidence on causes, effects or scale of the problem."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Votes for life / enfranchising long-term expatriates",
+        "claim": "The government will scrap the 15-year time limit and enfranchise any British citizen overseas who was previously resident or registered to vote in the UK, on the basis that expatriates retain strong ties to the UK through family, intention to return, or service."
+      },
+      {
+        "name": "Costs of the policy",
+        "claim": "The proposed policy will generate ongoing costs for Electoral Registration Officers and one-off IT costs, alongside increased costs for conducting polls and awareness campaigns, the scale of which depends on uptake."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Identity verification",
+        "claim": "Overseas applicants must have their identity verified using a National Insurance number, a British passport, or (as a last resort, subject to a new limit) an attestation from another registered overseas elector."
+      },
+      {
+        "name": "Address verification",
+        "claim": "Applicants must demonstrate a qualifying connection—through previous registration, residence, documentary evidence, or attestation—to a single UK address in order to register."
+      },
+      {
+        "name": "Annual renewal process",
+        "claim": "Overseas electors' registrations will last 12 months and require annual renewal, with mandatory reminders and simplified requirements intended to increase renewal rates."
+      },
+      {
+        "name": "Unchanged scope of the franchise",
+        "claim": "The reform will not extend overseas electors' voting rights beyond UK parliamentary elections, leaving them still excluded from local, devolved, and police and crime commissioner elections, with referendum franchises decided case-by-case."
+      }
+    ],
+    "note": ""
+  }
+}

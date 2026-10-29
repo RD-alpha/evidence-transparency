@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Pre-key stage standards replace P scales for pupils engaged in subject-specific learning",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Seven areas of engagement for pupils not engaged in subject-specific learning",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Accountability without national data submission, subject to piloting",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

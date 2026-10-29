@@ -1,0 +1,9 @@
+{
+  "themes": [
+    {
+      "theme": "Other",
+      "reason": "The extract contains no actual content addressing testing, measurement, evaluation, or consultation plans; it is an empty placeholder with no argument present.",
+      "weight": "not core"
+    }
+  ]
+}

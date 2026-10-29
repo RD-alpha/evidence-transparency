@@ -1,0 +1,754 @@
+Safer Maternity Care
+S0001 November 2017
+S0002 DH ID box
+S0003 Title: Safer Maternity Care - The National Maternity Safety Strategy - Progress and Next Steps
+S0004 Author: Acute Care and Workforce / Acute Care and Quality / Resolution, Patient Experience and Maternity / 13620
+S0005 Document Purpose: Policy
+S0006 Publication date: 28 November 2017
+S0007 Target audience:
+S0008 NHS staff, NHS senior managers, Providers, Commissioners
+S0009 Contact details:
+S0010 Resolution, Patient Experience and Maternity
+S0011 Department of Health
+S0012 39 Victoria Street, 5th Floor - North
+S0013 London
+S0014 SW1H 0EU
+S0015 You may re-use the text of this document (not including logos) free of charge in any format or medium, under the terms of the Open Government Licence.
+S0016 To view this licence, visit www.nationalarchives.gov.uk/doc/open-government-licence/ **(Link: 1)
+S0017 © Crown copyright 2017
+S0018 Published to gov.uk, in PDF format only.
+S0019 www.gov.uk/dh **(Link: 2)
+Foreword from the Secretary of State for Health
+S0020 Giving birth is the most common reason for admission to hospital in England.
+S0021 Thanks to the dedication and skill of NHS maternity teams, the vast majority of the roughly 700,000 babies born each year are delivered safely with high levels of satisfaction by parents.
+S0022 Since 2010, the Government has invested nearly £40m in capital funding for maternity services and last year we invested just over £9m of additional funding to support safety training for multi- disciplinary maternity teams, innovative new approaches to improving safety and to create a national safety and quality improvement movement through the Maternity and Neonatal Health Safety Collaborative.
+S0023 We also made maternal mental health a priority through our investment of £365 million from 2015/16 to 2020/21 to perinatal mental health services.
+S0024 Two years ago the Department set a challenging ambition to halve the rates of stillbirths, neonatal and maternal deaths, and brain injuries that occur during or soon after birth by 2030.
+S0025 To make sure progress is quickly made, we also set out an expectation of a 20% reduction by 2020.
+S0026 Last year we published an action plan outlining a number of initiatives at national level as well as practical action to build leadership at local level to champion maternity services and support local teams.
+S0027 I am inspired by how maternity and neonatal professionals and services are working to improve safe outcomes under the leadership of our national maternity champions, Matthew Jolly and Jacqueline Dunkley-Bent, and through the work of the Maternity Transformation Programme.
+S0028 Local Maternity Systems have formed across England and are working with women locally on proposals to make maternity services safer and more personal.
+S0029 More than 90% of Trusts have a named Board level maternity safety champion.
+S0030 So far this year, around 12,000 more staff have taken part in multi-disciplinary training in leadership, communication, situational awareness and emergency skills and drills compared to last year.
+S0031 The Maternal and Neonatal Health Safety Collaborative was launched and is providing quality improvement education and support for local safety improvement projects; and 25 services are taking forward innovative safety improvement projects thanks to the Maternity Innovation Fund.
+S0032 Maternity care in England is being transformed for the better; however on average, two litigation claims for brain injured babies are settled every week.
+S0033 The Royal College of Obstetricians and Gynaecologists recently reported that 76% of the 727 cases of birth-related deaths or brain injuries they reviewed might have had a different outcome with different care.
+S0034 We must continue to do everything we can to prevent such avoidable tragedies from occurring in the future.
+S0035 This refreshed Maternity Safety strategy sets out additional measures to drive improvement further and faster.
+S0036 We are going to focus on improving the rigour and quality of investigations into term stillbirths, neonatal and maternal deaths and serious brain injuries under the auspices of the Healthcare Safety Investigations Branch.
+S0037 There will be more support for maternity and neonatal training, measures to facilitate the dissemination of learning from investigations and improving local care practices to improve safety.
+S0038 We are also going to continue to focus on improving women's health by developing expertise in maternal medicine and improving care for
+S0039 women with pre-existing conditions such as cardiac disease or diabetes, as well as supporting maternity services to develop expertise in smoking cessation.
+S0040 I believe that safe care is personalised care.
+S0041 There is good evidence that women who have 'continuity of carer' throughout pregnancy and one-to-one support in labour have safer outcomes for themselves and their babies.
+S0042 We need to provide women with the resources and support to make informed decisions and train clinicians to have individualised care planning conversations which uphold women's autonomy and meet their individual needs (including during labour where this can become more challenging when circumstances change quickly).
+S0043 Our plans to improve safety form the golden thread of an overarching vision to improve maternity services – led by the Maternity Transformation Programme – which is looking to make services safer, kinder and more personalised.
+S0044 We won't achieve our ambitions without also focusing on reducing the number of babies born pre-term each year.
+S0045 To encourage additional focus on reducing preterm births, the Department is extending the national ambition to include reducing the national rate of pre-term births from 8% to 6%.
+S0046 There are already 30 specialist pre-term birth clinics across the country that can provide a mechanism around which change can be focussed and delivered.
+S0047 Based on the early progress so far and this additional support, I believe that we can bring forward the date for achieving our national ambition to 2025.
+S0048 The Department will be working closely with NHS England, NHS Improvement, the Royal Colleges and other national partner organisations to implement the measures set out in this refreshed maternity safety strategy.
+S0049 I urge local maternity champions to seize the opportunities presented by these initiatives and drive real change locally.
+S0050 Together we can make England’s maternity services even safer.
+S0051 Jeremy Hunt
+S0052 Secretary of State for Health
+As leaders of the professional bodies for midwives and obstetricians, we welcome this refreshed Maternity Safety
+Strategy and the additional targets and commitments it contains. Much has been done already through an array
+of initiatives to improve the safety of maternity care, and this revised strategy will give everyone involved in
+maternity care the opportunity to reflect on past successes and focus on key areas where more still needs to be
+done.
+The healthcare professionals who care for women, their babies and their families need to be at the heart of any
+initiative to improve maternity care. The RCOG and RCM are committed to speaking with one, united voice on
+maternity safety and ensuring every woman has a good birth, with the best possible experience and outcomes for
+her and her baby; and to providing a shared vision of a modern maternity team whose common purpose is
+supporting best practice, respectful relationships, strong leadership and putting women at the centre of care.
+Midwives are in a unique position to help achieve this, as they are the one healthcare professional whom all
+women will see during their pregnancy and birth, and therefore have a clear role in ensuring care is coordinated,
+safe and, most importantly, personal.
+We therefore welcome the opportunities set out in this strategy to build on the experience and knowledge we
+already hold to improve maternity care still further. We are committed to sharing the expertise we have gained
+from Each Baby Counts, and our understanding of the complex interplay of factors that lead to stillbirths, neonatal
+deaths and brain damage during term labour, to work with partners such as NHS Improvement to expand the
+work and reach of the Maternal and Neonatal Safety Collaborative and the Healthcare Safety Investigation Branch
+as they undertake their investigations. Expansion of the national strategy to include a focus on preterm birth and
+brain injury will likewise help provide a more complete picture of maternity safety, strengthening our evidence
+base to help us deliver ever more effective care.
+Achieving the ambition set out in this strategy will require ongoing support to align the multiple initiatives, with all
+of us invested in improving maternity care working collaboratively across the system. The RCM and RCOG believe
+that we can build on the trust and buy-in we already have from frontline clinical staff for initiatives such as Each
+Baby Counts and the National Maternity and Perinatal Audit, by providing them with the support they need to
+translate lessons learned into improvements in everyday care. The Maternity Transformation Programme provides
+a once-in-a-generation opportunity to harness the enthusiasm and commitment of all of us to drive change and
+we strongly encourage all members of the maternity team, and those responsible for managing and
+commissioning maternity services, to use this Strategy to deliver even safer care for women and their families.
+As local implementation of the Maternity Transformation Programme begins via the development of Local
+Maternity Systems, we are committed to working together to ensure the ambition set out in this strategy is
+translated in every unit across the country, continuing to learn from each other, share best practice and ensure the
+safety of women and babies is at the heart of everything we do. | 
+Professor Lesley Regan, President, Royal College of
+Obstetricians and Gynaecologists | Gill Walton, CEO, Royal College of Midwives
+A message from the National Maternity Safety Champions
+S0053 Firstly we would like to thank and congratulate all those who have provided so much over the past 12 months to make maternity care safer.
+S0054 The diversity of achievements reflects a system wide approach to improving maternity safety and some are described in this report.
+S0055 We feel that it is important to acknowledge the excellent work going on in other parts of the Maternity Transformation Programme, and across the whole Maternity system by front line doctors, midwives, commissioners, managers, the Royal Colleges, charities and most importantly the contribution made by women who use our maternity services.
+S0056 We thank you all and look forward to supporting you to make maternity care safer than it has ever been before.
+S0057 Progress is already taking shape across the country, a result of the innovation and commitment of all those involved in maternity care to provide more personal and safer care to the women and the babies they care for.
+S0058 One of the highlights this year has been the launch of the Maternity and Neonatal Health Safety Collaborative by NHS Improvement with midwives and doctors attending from every Local Maternity System across the country.
+S0059 We would like to thank all those involved in developing the policy and supporting the maternity safety agenda.
+S0060 This includes the series of ministerial round table meetings with ten national charities and other key stakeholders on the subject of maternity safety and pre-term birth reduction respectively.
+S0061 These meetings have led to the development of new initiatives, described in this document that will lead to further improvements in maternity outcomes across the country.
+S0062 We currently have the greatest opportunity to change maternity services for the better.
+S0063 The wide scope of what is being implemented reflects the fact that there are very few easy big gains and overall improvement will be through the aggregation of marginal gains.
+S0064 The overall strategy is to identify as many possible opportunities to improve outcomes by combining system thinking with a life course approach.
+S0065 We are developing better pathways to provide best practice with improved surveillance to identify where there is unwarranted variation in outcomes.
+S0066 We are confident that improved investigations when things go wrong, combined with shared learning, support for staff and national training in quality improvement methodology, will deliver better care.
+Executive summary
+S0067 Two years ago the Department set a challenging ambition to halve the rates of stillbirths, neonatal and maternal deaths, and brain injuries that occur during or soon after birth by 2030.
+S0068 To make sure progress is quickly made, we also set out an expectation of a 20% reduction by 2020.
+S0069 In October 2016, we published an action plan outlining a number of initiatives at national level as well as practical action to build leadership at local level to champion maternity services and support local teams.
+S0070 This document reports on progress against that initial action plan.
+S0071 It also proposes a number of steps to make sure we are doing all we can to prevent serious incidents in maternity services.
+S0072 These include:
+More support for better, safer care
+S0073 • NHS Improvement is developing a central platform within the NHS Improvement Hub to foster a cohesive community of Maternity Safety Champions, other system leaders and experts to help spread learning and best practice across the system.
+S0074 • To support local providers and commissioners to meet this aim and to assist with implementation of Saving Babies Lives, new funding to train midwives to have the knowledge, skills and confidence to give very brief advice to women during antenatal appointments and upskilling practitioners (e.g. maternity support workers) to deliver evidence based smoking cessation interventions.
+S0075 • New funding over three years to train 12 consultant physicians as ‘Obstetric Physicians’ to be able to establish networked maternal medicine across England.
+S0076 The Obstetric Physician together with an Obstetrician trained as a Sub-Specialist in Maternal Medicine will provide expert care for pregnant women with complex medical problems.
+S0077 They will also provide region-wide leadership and expertise across the whole network to help ensure there is early recognition of problems and access to best practice care.
+S0078 • A new Atain e-learning programme to support healthcare professionals to improve outcomes for babies, mothers and families through the delivery of safer care with a focus on four clinical areas: respiratory conditions; hypoglycaemia; jaundice; and asphyxia (perinatal hypoxia-ischaemia).
+S0079 An additional module also raises awareness of the importance of keeping mother and baby together.
+Measures to improve the quality of reviews and investigations:
+S0080 •
+S0081 The Department of Health is committed to improving the standards and quality of investigations and learning from serious incidents leading to stillbirth, early neonatal death or serious brain injury in term babies and all maternal deaths from direct or indirect causes related to pregnancy.
+S0082 •
+S0083 The new Healthcare Safety Investigation Branch (HSIB) will be funded to develop investigation standards and conduct independent investigations into all cases that meet the
+S0084 criteria for notification from the RCOG's Each Baby Counts Programme and all maternal deaths from direct or indirect causes related to pregnancy.
+S0085 NHS England, working with NHS Improvement, the Department of Health and HSIB will publish, by Quarter 2 of 2018, information and guidance on the standards for maternity investigations to deliver the Morecambe Bay and Better Births recommendations.
+S0086 •
+S0087 The Government will consider with interested parties how coroners could carry out an investigation into those babies who are stillborn at 37 weeks gestation and over.
+S0088 • Following a consultation earlier this year, the Department will look to develop a Rapid Redress and Resolution scheme ideally from 2019
+More support for learning and quality improvement
+S0089 • Funding for the Royal College of Obstetricians and Gynaecologists and the Royal Colleges of Midwives to launch 'Each Baby Counts Learn and Support' - a programme of work to enable greater collaboration between the Royal Colleges and the NHS via the Maternal and Neonatal Health Safety Collaborative - the aim is to align quality and safety improvement, multi-professional learning and clinical leadership into a consistent and sustainable safety strategy across the system.
+An incentive to further support the implementation of best practice to improve safety
+S0090 • NHS Resolution will launch a new scheme to incentivise local services for taking steps to improve delivery of best practices in maternity and neonatal services.
+S0091 NHS Resolution has built provision for an incentive fund into its pricing for 2018/19.
+S0092 Trusts that are able to demonstrate compliance with 10 criteria agreed by the National Maternity Champions will be entitled to at least a 10% reduction in their CNST maternity contribution.
+S0093 Around 55,000 babies are born pre-term (i.e. 24 - 36 weeks gestation) each year.
+S0094 This represents a national pre-term birth rate of 7.9% in England and Wales.
+S0095 We need to focus efforts on reducing the pre-term birth rate if we are going to achieve the national Maternity Safety Ambition.
+S0096 To encourage this additional focus, the Department of Health is setting an additional ambition to reduce the national rate of pre-term births from 8% to 6% by 2025.
+S0097 We are currently on track to meet our ambition to reduce stillbirths, neonatal and maternal deaths by 20% by 2020.
+S0098 The range of additional funding and support should enable maternity and neonatal services to go farther and faster.
+S0099 We have, therefore, decided to re-set the national Maternity Safety Ambition to halve the rates of stillbirths, neonatal and maternal deaths and brain injuries occurring during or soon after birth to 2025.
+S0100 The Department will be working closely with NHS England, NHS Improvement, the Royal Colleges and other national partner organisations through the Maternity Transformation Programme to implement the measures set out in this refreshed Maternity Safety Strategy.
+1. Introduction
+S0101 Maternity services are unique in healthcare in that they support mostly healthy women and their families through a momentous life event.
+S0102 England is a safe place to have a baby, and the vast majority of women using NHS services have good outcomes and report a positive experience of care.
+S0103 When we compare our outcomes to other high-income countries, however, we can see that too many babies in England are stillborn and die soon after birth. ** (Reference: 1,2)
+S0104 Furthermore, around 50 women in England die each year from direct or indirect causes related to pregnancy. ** (Reference: 3)
+S0105 The impact to the families who lose a much loved baby or mother or those caring for a child with a birth-related brain injury is devastating, especially when the outcome could have been prevented.
+S0106 Through the efforts of skilled midwives, obstetricians, neonatologists, neonatal nurses, support staff and other health professionals, the outcomes and experiences of care for pregnant women, their babies and families are improving.
+S0107 There is still more we must do, however, to ensure England is one of the safest places in the world to have a baby.
+The national maternity safety ambition and action plan
+S0108 In October 2016, the Department of Health published Safer Maternity Care - Next steps towards the national maternity ambition.
+S0109 It set out our vision and an action plan to achieve the national ambition to halve the rates of stillbirths, neonatal and maternal deaths, and brain injuries that occur during or soon after birth by 2030.
+S0110 To stimulate rapid progress, we also set out an expectation of a 20% reduction in these rates by 2020.
+S0111 The action plan was structured around the five key drivers for delivering safer maternity care:
+S0112 • Focus on leadership: creating strong leadership for maternity systems at every level.
+S0113 • Focus on learning and best practice: identifying and sharing best practice, and learning from investigations.
+S0114 • Focus on teams: prioritising and investing in the capability and skills of the maternity workforce and promoting effective multi-professional team working.
+S0115 • Focus on data: improving data collection and linkages between maternity and other clinical data sets to enable benchmarking and to drive a continuous focus on prevention and quality.
+S0116 • Focus on innovation: creating space for accelerating improvement and innovation at local level.
+The Maternity Transformation Programme in summary
+S0117 Following the launch of the National Maternity Review Report, Better Births, in February 2016, NHS England established the Maternity Transformation Programme (MTP) with leadership from across the system to ensure all women get high quality maternity care regardless of their circumstances or where they live.
+S0118 The MTP brings together clinicians, national bodies, charities and service user representatives to deliver change.
+S0119 The implementation of Better Births will ensure that women receive greater control and more choice, as well as making care safer, by providing information and care based around the needs and circumstances of mothers and their babies.
+S0120 Forty-four Local Maternity Systems (LMS) across England are developing Better Births Implementation Plans, setting out how they will deliver safer and more personalised maternity care by the end of 2020/21.
+S0121 This means maternity services will ensure that:
+S0122 • All pregnant women have a personalised care plan.
+S0123 They are able to make well-informed decisions about their maternity care during pregnancy, labour, birth and postnatally.
+S0124 • Most women receive 'continuity of carer' during pregnancy, labour, birth and postnatally.
+S0125 • More women are able to give birth in midwifery settings (at home and in midwifery units).
+S0126 • The rates of stillbirth, neonatal and maternal death, and brain injury occurring during or soon after birth will have reduced by at least 20% and they are on track to halve these rates.
+S0127 • Multi-disciplinary teams are thoroughly investigating safety incidents to understand the causes of every stillbirth and other adverse maternity outcomes, learning from these incidents, testing and implementing system improvements and sharing this knowledge through their Local Maternity Systems and other networks.
+S0128 • Healthcare professionals have a greater understanding of situational awareness and the systematic factors that can cause avoidable safety incidents.
+S0129 They feel free to raise concerns.
+S0130 • Multi-disciplinary teams have developed knowledge and skills in quality improvement science through the Maternal and Neonatal Health Safety Collaborative.
+S0131 The culture in all maternity and neonatal units is visibly one of continuous learning and quality improvement.
+The 'golden thread'
+S0132 Safety is the 'golden thread' that runs through the MTP.
+S0133 Safer care will be achieved when the entire vision of the Maternity Safety Strategy and Better Births is implemented across the country.
+S0134 MTP system partners, including the Royal Colleges, MBRRACE and NHS Resolution have contributed significantly by reviewing maternity mortality and morbidity cases, recommending where and how services and the wider system can focus efforts for improvement and raising national awareness. ** (Reference: 4)
+S0135 This document:
+S0136 • reports on progress with implementation of the Safer Maternity Care Action Plan;
+S0137 • sets out new support and actions focussed on better care, better investigations, better learning and improvement and better outcomes for mothers and their babies; and
+S0138 • explains how all the elements of the Maternity Safety Strategy link and contribute to form a coherent and aligned system-wide approach to improving safety in maternity care.
+2. Progress on national ambition outcomes
+S0139 The response to the National Maternity Safety Ambition by multi-disciplinary teams working in maternity and neonatal units across England has been inspirational, and outcome data suggests that their actions are having a positive impact on health outcomes.
+Stillbirths
+S0140 There were 2,952 stillbirths in England in 2015. Since 2010, the stillbirth rate has fallen 16% from 5.1 stillbirths per 1,000 births in 2010 to 4.3 stillbirths per 1,000 births in 2016 (Figure 1). ** (Reference: 5)
+S0141 Comparing the 'Actual rate' to the 'Plan to meet ambition' shows we are making progress towards meeting the ambition for 2020, but we must not become complacent.
+Neonatal deaths
+S0142 There were 1,745 neonatal deaths in England in 2015. ** (Reference: 6)
+S0143 The neonatal death rate has fallen 10% from 2.9 neonatal deaths per 1,000 live births in 2010 to 2.6 neonatal deaths per 1,000 live births in 2015 (Figure 2).
+S0144 Comparing the 'actual rate' to the 'plan to meet ambition' suggests that progress has been made; however, a recently published analysis of World Health Organisation and Office for National Statistics data, shows that the UK ranks 19th out of 28 European countries for neonatal mortality - a drop of 12 places since 1990. ** (Reference: 7)
+S0145 The analysis also found that the UK made less progress in the 25 years from 1990 to 2015 than all of the other 28 European countries, apart from Germany and France.
+S0146 This data together with the increase in the neonatal mortality rate in 2015 suggests there is a need to re-focus efforts on sustaining the overall decreasing trend.
+Maternal deaths
+S0147 There were 200 maternal deaths in the UK during the period from 2012 to 2014, equivalent to 8.5 deaths per 100,000 maternities. Around 50 women in England die each year from causes related to pregnancy. ** (Reference: 8)
+S0148 The UK maternal mortality rate has fallen 20% compared to the 2009-11 period (Figure 3).
+S0149 Comparing the 'actual rate' to the 'plan to reach the ambition' suggests that progress is on track to meet the national ambition for 2020.
+S0150 However, MBRRACE-UK cautions that the decrease in the rates from 2009-11 to 2011-2014 is not statistically significant and, for this reason, achieving the aspiration to halve the maternal mortality rate will be a challenge for UK health services.
+Brain injuries occurring during or soon after birth - a new definition
+S0151 Until now, there has been no agreed definition for 'brain injury occurring during or soon after birth', with which progress against the national ambition could be tracked.
+S0152 In early 2017, the Department of Health convened an expert consensus group led by Matthew Jolly (Consultant Obstetrician and National Champion for Maternity Safety) and Professor Neena Modi (President of the Royal College of Paediatrics and Child Health and Director of the Neonatal Data Analysis Unit at Imperial College London).
+S0153 The objective for the group was to agree on a working definition that could be used to measure the national rate of 'brain injuries that occur during or soon after birth' (See Box 1).
+S0154 Any infant admitted to a neonatal unit who presents with any of the following signs or conditions, at any point during their stay on the neonatal unit:
+S0155 • Seizures, all infants;
+S0156 • A diagnosis of intracranial haemorrhage, perinatal stroke, hypoxic ischaemic encephalopathy (HIE), central nervous system infection, and kernicterus (bilirubin encephalopathy): all infants;
+S0157 • A diagnosis of preterm white matter disease (periventricular leukomalacia): preterm infants only.
+S0158 This definition includes a broader range of causes of brain injury than that used by the Royal College of Obstetricians and Gynaecologists' Each Baby Counts
+S0159 Programme. It captures indicators of potential brain injury that could occur in pre-term as well as term births and injury that occurs soon after birth. ** (Reference: 9)
+S0160 This measure also provides more timely data for tracking progress against the national maternity ambition because it can take many years for an actual sustained brain injury to be confirmed.
+S0161 According to this new definition, the rate of brain injuries occurring during or soon after birth in England was 5.2 per 1,000 live births in 2015.
+S0162 More information about the development of this definition and the calculation of a birth-related brain injury rate is published by C. Gale et al on behalf of the Brain Injuries Expert Working Group in the Archives of Disease in Childhood (November 2017). The research also shows that the rate of brain injury in babies born pre-term (under 37 weeks) is around seven times greater than the rate of brain injury in babies born at term. ** (Reference: 10)
+Variation in perinatal mortality rates
+S0163 Perinatal mortality rates vary considerably across the country even when we adjust for known risk factors and the size of the trust.
+S0164 In 2015, NHS Trust-level perinatal (stillbirth + neonatal) mortality rates in England ranged from 3.2 to 9.6 per 1,000 births (Figure 4).
+S0165 Some variation observed in perinatal mortality rates is random and arises because each patient is different
+S0166 (known as ‘patient mix’).
+S0167 However, some variation results from differences in the uptake and implementation of national guidance and best practice. Reducing unwarranted variation between services will contribute significantly to achieving the national ambition. ** (Reference: 11)
+3. Better, safer care
+S0168 Safe care is personalised care.
+S0169 Maternity is unlike most other healthcare specialities because pregnancy is not an illness.
+S0170 Pregnancy, labour and birth are natural physiological states, and most healthy women remain at low risk of developing complications.
+S0171 For some women, however, including those initially considered to be 'low-risk', circumstances can change dramatically and rapidly putting both the woman's and the baby's lives at risk.
+S0172 Mothers and the health professional teams caring for women both need information and support throughout pregnancy, labour and at the postnatal stage so that women can make truly informed decisions and clinicians know how to support women effectively to do this about care.
+S0173 Getting to know a woman throughout her maternity journey enables healthcare professionals to be more aware of a woman’s background, attitude to certain interventions and decisions about what actions might be taken should circumstances change quickly.
+S0174 There is good evidence that women who have 'continuity of carer' throughout pregnancy and labour, including one-to-one support at this time, have safer outcomes for themselves and their babies.
+S0175 Women who receive continuity of midwife-led care are 16% less likely to lose their baby and 19% less likely to lose their baby before 24 weeks.
+S0176 They are also 24% less likely to experience pre-term birth. ** (Reference: 12)
+S0177 Clinicians also need to know when, how and to whom they should refer women to other care providers, when appropriate, to maximise their potential for the safest possible outcomes regardless of how services are commissioned.
+S0178 From the women's point of view, the experience of engaging with multiple services and clinicians should feel 'seamless'.
+Local Maternity Systems
+S0179 The 44 LMS are uniquely placed to bring people together across organisational boundaries and adopt a whole system approach to improving maternity services.
+S0180 Through the MTP, NHS England asked the 44 LMS to draw up local maternity transformation plans by the end of October 2017 and set out how they will implement the vision set out in Better Births by 2020/21.
+S0181 This includes improving choice and personalisation in maternity services so that, for example, most women receive continuity of the person caring for them.
+S0182 It also includes improving the safety of maternity care, with local areas asked to set out their contribution towards delivering the Maternity Safety Ambition.
+A focus on leadership
+S0183 The Safer Maternity Care Action Plan made the case for strong leaders at every level of the system; working across regional, organisational or service boundaries to promote the professional cultures needed to deliver better care.
+S0184 It set out specific actions for NHS trusts to strengthen leadership.
+S0185 In response, more than 90% of trusts have appointed a named board-level Maternity Safety Champion as well as obstetric and midwifery Maternity Safety Champions.
+S0186 As the first step of a strategy to support these nominated champions, NHS Improvement is developing a central platform within the NHS Improvement Hub to foster a cohesive community of champions and other stakeholders and experts, and help spread learning and best practice across the system.
+S0187 Other leadership roles are also in place across the system to support one or more of the many safety projects underway in maternity and neonatal services; notably, the board-level Executive Sponsors and Improvement Managers that have been identified for the Maternal and Neonatal Health Safety Collaborative (MNHSC).
+S0188 Taken together, these leadership roles can make a significant contribution to maternity and neonatal safety and improvement especially where the links between these leaders and the board level maternity safety champion are strongly established and maintained.
+S0189 This will enable local safety information; recommendations from national reports relating to maternity safety; and agreed action plans and issues to be raised at trust board level as part of an informed, coordinated and streamlined process.
+Saving Babies Lives Care Bundle
+S0190 Developing better care pathways starts with a greater focus on surveillance and working with women to prevent ill health.
+S0191 The Saving Babies’ Lives care bundle is designed to tackle stillbirth and early neonatal death.
+S0192 It brings together four elements of care that are recognised as evidence-based and/or best practice:
+S0193 1.
+S0194 Reducing smoking in pregnancy
+S0195 2. Risk assessment and surveillance for fetal growth restriction
+S0196 3.
+S0197 Raising awareness of reduced fetal movement
+S0198 4.
+S0199 Effective fetal monitoring during labour
+S0200 The majority of maternity care providers are now implementing improvement activities across all four elements of the Care Bundle.
+S0201 The Maternity Transformation Programme has partnered with the University of Manchester, who are conducting an evaluation of the implementation of the Saving Babies’ Lives Care Bundle (SPiRE – Saving babies lives Project Impact and Results Evaluation).
+S0202 This study aims to determine how services are applying the care bundle to maternity care and how it may affect the pregnancy and birthing experiences of women and service delivery by staff.
+S0203 The study began in April 2017 and will run until December 2017.
+S0204 It will report on pregnancy outcomes and stillbirth rates in approximately 100,000 deliveries from 20 NHS maternity units in England who are currently implementing the care bundle.
+Reducing smoking in pregnancy
+S0205 Supporting women to be smoke-free is a key part of helping them to have a safe and healthy pregnancy.
+S0206 Smoking during pregnancy increases the risk of stillbirth, and babies born to mothers who smoke are more likely to be born pre-term and in poor health.
+S0207 Smoking during pregnancy is also a major health inequality, with prevalence varying significantly across communities and social groups.
+S0208 Smoking prevalence among pregnant women in more disadvantaged groups and those aged under 20 remains considerably higher than in older and more affluent groups.
+S0209 Mothers in routine and manual occupations are five times more likely to have smoked throughout pregnancy compared to women in managerial and professional occupations, meaning those from lower socio-economic groups are at a much greater risk of complications during and after pregnancy
+S0210 Smoking is the single biggest modifiable risk factor for poor birth outcomes, and NICE Guidance on smoking amongst pregnant women contains a range of evidenced-based recommendations for maternity providers and local authority commissioners of smoking cessation services.
+S0211 Element 1 of the Saving Babies Lives care bundle includes action to monitor exposure to Carbon Monoxide (a key toxin in tobacco smoke) in all pregnant women and refer people who smoke for specialist support.
+S0212 Towards a Smoke-free Generation - A Tobacco Control Plan for England (July 2017) set out an aim to reduce the prevalence of smoking in pregnancy from 10.7% to 6% or less by 2022.
+S0213 To support local providers and commissioners to meet this aim and to assist with implementation of Saving Babies Lives, the Government is providing funding to train midwives to have the knowledge, skills and confidence to give very brief advice to women during antenatal appointments and upskilling practitioners (e.g. maternity support workers) to deliver evidence based smoking cessation interventions.
+S0214 Roles for specialist midwives should be considered and specialist midwifery advice provided in the design of local services.
+S0215 Local authorities should work with partners in Local Maternity Systems and maternity services to ensure that there is specialist stop smoking support available for pregnant women who smoke and effective pathways to accessing this.
+Immunisation against influenza and pertussis
+S0216 In the period from 2009-12, MBRRACE-UK identified that 36 maternal deaths in the UK were due to influenza.
+S0217 Influenza was an important cause of death during this period (equivalent to 1 in every 11 maternal deaths); half of the associated deaths occurred after a vaccine became available and can therefore be considered preventable.
+S0218 The relatively rapid decline in maternal mortality rates seen in Figure 3 are due in large part to a reduction in maternal deaths caused by Influenza.
+S0219 There was one death from influenza in 2014 and no deaths in 2012 and 2013. ** (Reference: 13)
+S0220 Immunisation against future influenza strains, therefore, remains a vital public health initiative to prevent both mothers and babies from dying.
+S0221 Pertussis (whooping cough) is a highly infectious, serious illness that can lead to pneumonia and brain damage, particularly in young babies.
+S0222 Most babies with whooping cough will need hospital treatment, and when whooping cough is very severe they may die.
+S0223 Babies who are too young to start their vaccinations are at greatest risk.
+S0224 Research from the vaccination programme in England, however, shows that vaccinating pregnant women against whooping cough has been highly effective in protecting young babies until they can receive their own vaccinations from two months of age.
+S0225 Public Health England continues to support immunisation against flu and pertussis in pregnancy through the production of immunisation training materials for healthcare professionals, public facing communication materials and professional engagement with midwives, nurses, GPs and obstetricians.
+A focus on teams - training and skills
+S0226 Pregnant woman receive care from a multidisciplinary team, whose expertise may include sonographers, obstetricians, neonatologists, maternity support workers, GPs, anaesthetists and fetal medicine consultants, coordinated by her midwife.
+S0227 The most effective teams are those in which every highly-trained individual understands the roles of their colleagues and the value they bring to the women and newborn they care for.
+S0228 They train together, communicate easily and are prepared to raise concerns.
+S0229 A major element of the Safer Maternity Care Action Plan was the distribution of the £8.1m Maternity Safety Training Fund by Health Education England (HEE) to 136 Trusts throughout England, including all 134 NHS trusts with maternity units.
+S0230 The funding is supporting multi-disciplinary teams to train together and further develop skills and experience in leadership, multi-professional team communication, human factors and situational awareness, cardiotocography (CTG), as well as midwifery and obstetric emergency skills and drills.
+S0231 Details of the funding awards is available at: https://www.hee.nhs.uk/sites/default/files/documents/MSTF%20NHS%20trust%20funding%20a
+S0232 **(Link: 3) wards%20and%20training%20focus%20areas%20March%202017%20FINAL.pdf **(Link: 4)
+S0233 Responses from 112 trusts indicate that as of June 2017, over 12,800 more staff have been trained through the Maternity Safety Training Fund, compared to the previous year.
+S0234 Training programmes are due to be completed by March 2018 and HEE will commission an independent evaluation to assess how NHS trusts have improved quality and safety within maternity services and the wider impact for mothers and babies, families, and the maternity workforce.
+Networked maternal medicine
+S0235 MBRRACE-UK found that in 2012-14, 51 women in the UK, equivalent to more than a quarter of women who died during pregnancy or up to six weeks after pregnancy, died from a cardiovascular cause. ** (Reference: 14)
+S0236 This represents the leading cause of maternal death in the UK and there has been no decrease over the last four reporting periods.
+S0237 Similarly, there has been no decrease in the numbers of women dying from cancer.
+S0238 Preventing these women from dying is essential in order to continue to reduce the maternal mortality rate.
+S0239 A clear message that emerges from MBRRACE's confidential enquiries into maternal deaths is the importance of multi-disciplinary care for these women cross many medical specialties in addition to obstetrics, midwifery, anaesthetics and critical care.
+S0240 With a view to improving maternal outcomes, NHS England has been working with the Women’s Health Clinical Reference Group and others to develop a plan to introduce a network of maternal medicine specialists across the country to care for pregnant women with significant health conditions.
+S0241 The Department of Health will provide funding over three years to train 12 consultant physicians as ‘Obstetric Physicians’ to be able to establish networked maternal medicine across England.
+S0242 The Obstetric Physician together with an Obstetrician trained as a Sub-Specialist in Maternal Medicine will provide expert care for pregnant women with complex medical problems.
+S0243 They will also provide region-wide leadership and expertise across the whole network to help ensure there is early recognition of problems and access to best practice care.
+Reducing the number of babies born pre-term
+S0244 Around 55,000 babies are born pre-term (i.e. 24 - 36 weeks gestation) each year.
+S0245 This represents a national pre-term birth rate of 7.9% in England and Wales.
+S0246 Twins and multiple births are particularly at risk of being born pre-term.
+S0247 Pre-term birth is a major health inequality with mothers in the most deprived 10% income group twice as likely to have preterm births compared to those from the least deprived decile.
+S0248 The
+S0249 proportion of preterm births also varies by ethnicity, with infants of Black Caribbean parents more likely to experience preterm birth.
+S0250 Research
+S0251 [ref] suggests around 14% of babies born before 27 weeks will have cerebral palsy.
+S0252 There are also significant financial costs surrounding pre-term births, both for interventions in the short term, and the longer term financial impacts on health services, education services, and the family involved in caring for a baby born pre-term.
+S0253 It is clear that we will not achieve the national Maternity Safety Ambition unless the rate of pre-term births is reduced.
+S0254 To encourage additional focus on reducing preterm births, the Department of Health is setting an additional ambition to reduce the national rate of pre-term births from 8% to 6%.
+S0255 In addition, to improve outcomes for babies born pre-term it is important to ensure that they are born and cared for in the right place.
+S0256 Local Maternity Systems need to ensure clear transfer pathways and protocols for services that need to transfer mothers at risk of delivering pre-term to appropriate tertiary care settings.
+S0257 There is inconsistency in the availability and quality of pre- term services nationally.
+S0258 There are, however, 30 specialist pre-term birth clinics across England comprised of clinicians and academics whose focus is the reduction of pre-term birth and the clinical management of these cases.
+S0259 They provide a mechanism around which change can be focussed and delivered.
+Better Mental Health Care for New and Expectant Mothers
+S0260 The MBRRACE-UK reports on maternal deaths have also shown that direct deaths from psychiatric causes (suicide) have more than doubled from 6 deaths 2009-11 to 14 in 2012-14; while indirect deaths from psychiatric causes (drugs/alcohol/other) have remained relatively steady since 2009-11. ** (Reference: 15)
+S0261 NHS England and its partners are working on an ambitious programme to increase capacity and capability in specialist perinatal mental health services across England.
+S0262 This will mean that, by 2020/21, 30,000 more women will be able to access appropriate, high-quality specialist mental health care, closer to home, both in the community and in inpatient Mother and Baby Units.
+S0263 This transformation is backed by £365 million investment between 2015/16 and 2020/21.
+S0264 Four new mental health Mother Health and Baby units will open in the next two years and bed numbers in the existing 15 units will increase so that overall capacity is increased by 49% in 2018/19.
+S0265 NHS England has also allocated £40m to date to support development of specialist perinatal mental health community services across England with 20 new or expanded specialist perinatal mental health community teams now in operation.
+S0266 A further wave of investment totalling £20million is planned in 2018/19 enabling care and treatment to be provided to at least 2,000 more women with severe mental health problems in 2017/18 and 8,000 more women in 2018/19.
+S0267 NHS England has also established 12 regional multidisciplinary perinatal mental health clinical networks (including maternity services) that are driving change by working collaboratively across the local health and care system to develop local, integrated pathways which support early identification of those at risk of mental illness in the perinatal period.
+S0268 Both the networks and specialist community services continue to support workforce development including offering training to midwives in perinatal mental health care.
+S0269 Further information on next steps has been
+S0270 published in implementing the Five Year Forward View for Mental Health **(Link: 5) and associated One **(Link: 6) Year On **(Link: 7) reports.
+Improving neonatal care
+S0271 Better Births highlighted concerns linked to the safe and sustainable provision of specialist neonatal care.
+S0272 In response, NHS England commissioned the Neonatal Critical Care Transformation Review.
+S0273 The Review's initial work identified significant variation in mortality rates across the country and led to establishment of a parallel programme, Action on Neonatal Mortality to examine the reasons underpinning this variation and potential solutions to reduce it.
+S0274 The Review has already asked Local Maternity Systems to take forward two key actions to reduce neonatal mortality:
+S0275 1.
+S0276 To ensure that all women who deliver at less than 27 weeks do so in centres with a neonatal intensive care unit, and
+S0277 2.
+S0278 To ensure that all neonatal deaths are investigated at a local level using a standardised framework.
+S0279 Trusts should review all neonatal deaths in line with the new Child death Review Statutory Guidance.
+S0280 This guidance is out to public consultation until 31 December 2017, and a final version will be published in the Spring.
+Avoiding term admissions to neonatal care (Atain)
+S0281 The ‘Atain’ programme, led by NHS Improvement in collaboration with clinical experts, focused on reducing avoidable causes of harm that can lead to infants born at term (ie ≥ 37+0 weeks gestation) being admitted to a neonatal unit.
+S0282 Drawing on data from safety reports, hospital admissions and litigation claims the programme focused on addressing the factors leading to these admissions.
+S0283 The programme identified that over 20% of admissions of full term babies to neonatal units could be avoided.
+S0284 Separation of mother and baby after birth contributes significantly to postnatal mental health morbidity and should be avoided where possible.
+S0285 A resource pack to support trusts to tackle avoidable term admissions was issued to all trusts in February 2017 as part of a Patient Safety Resource Alert.
+S0286 Every trust in England has begun to implement the Alert and the resource pack.
+S0287 The NHS Improvement Hub now includes an 'Atain platform' that helps the system to share the resources that continue to emerge from the Atain programme.
+S0288 NHS Improvement has also worked closely with the British Association of Perinatal Medicine and UNICEF Baby Friendly Initiative to develop a standardised Framework for Practice to detect and manage hypoglycaemia in term babies.
+S0289 The Framework has been well received as a means of reducing variation in practice and avoiding unnecessary term admissions which lead to separation of mother and baby.
+S0290 Implementation of the framework is being supported through the Maternal and Neonatal Health Safety Collaborative.
+S0291 Atain is a key programme of the Maternity Safety Strategy contributing to reduce neonatal mortality and brain injuries.
+S0292 A new Atain e-learning programme for healthcare professionals is being launched in parallel with this strategy document.
+S0293 The e-leaning programme will support healthcare professionals to improve outcomes for babies, mothers and families through the delivery of safer care with a focus on four clinical areas:
+S0294 1.
+S0295 Respiratory conditions
+S0296 2. Hypoglycaemia
+S0297 3. Jaundice
+S0298 4.
+S0299 Asphyxia (perinatal hypoxia-ischaemia)
+S0300 An additional module also raises awareness of the importance of keeping mother and baby together.
+S0301 To register to access this free resource, go to https://www.e- **(Link: 8) lfh.org.uk/programmes/avoiding-term-admissions-into-neonatal-units/ **(Link: 9)
+4. Improving the quality of reviews and investigations
+S0302 Despite improvements in maternity safety in recent decades, sadly sometimes things go wrong.
+S0303 There is significant scope to improve reviews and investigations into the circumstances that led to avoidable harm occurring.
+S0304 Repeated reports from MBRRACE-UK, the RCOG's Each Baby Counts Programme, NHS Resolution's reviews of litigation claims and other audit programmes have identified that different care could have led to different outcomes in many cases of perinatal or maternal mortality or morbidity, and that the same types of errors or omissions in care occur in services across the health and care system.
+S0305 It is clear that we will not achieve the National Maternity Safety Ambition if we do not improve the quality and rigour of reviews and investigations when things go wrong, and crucially, improve the way we learn and improve care to prevent such tragic incidents from happening again.
+The Perinatal Mortality Review Tool
+S0306 The Safer Maternity Care Action Plan announced £500,000 of funding from the Department of Health in England for the development of a Standardised Perinatal Mortality Review Tool.
+S0307 A collaboration led by MBRRACE-UK was appointed by the Healthcare Quality Improvement Partnership (HQIP) in early 2017 to develop and establish a national standardised Perinatal Mortality Review Tool (PMRT) building on the work of the Department of Health / Sands Perinatal Mortality Review ‘Task and Finish Group’.
+S0308 The tool, which will be rolled out at the end of 2017, will support:
+S0309 • Systematic, multidisciplinary, high quality reviews of the circumstances and care leading up to and surrounding each stillbirth and neonatal death ensuring that the care of babies who die in the post-neonatal period in neonatal units can also be reviewed using the PMRT;
+S0310 • Active communication with parents to ensure they are told that a review of their care and that of their baby will be carried out and how they can contribute to the process;
+S0311 • A structured process of review, learning, reporting and actions to improve future care;
+S0312 •
+S0313 Production of a report for parents which includes a meaningful, plain English explanation of why their baby died and whether, with different actions, the death of their baby might have been prevented;
+S0314 More information about the PMRT is available at: https://www.npeu.ox.ac.uk/pmrt/programme **(Link: 10)
+Healthcare Safety Investigation Branch - a standardised approach to investigating term stillbirths, neonatal and maternal deaths and serious brain injuries
+S0315 The Morecambe Bay Investigation Report called for;
+S0316 'clear standards to be drawn up for incident reporting and investigation in maternity
+S0317 services.
+S0318 These should include the mandatory reporting and investigation as serious
+S0319 incidents of maternal deaths, late and intrapartum stillbirths and unexpected neonatal
+S0320 deaths.'
+S0321 The review concluded that;
+S0322 'there is a strong case to include a requirement that investigation of these incidents be
+S0323 subject to a standardised process, which includes input from and feedback to families,
+S0324 and independent, multidisciplinary peer review, and should certainly be framed to exclude
+S0325 conflicts of interest between staff.'
+S0326 Better Births also recommended that;
+S0327 'There should be a national standardised investigation process when things go wrong, to
+S0328 get to the bottom of what went wrong and why and how future services can be improved
+S0329 as a consequence.'
+S0330 The Department of Health is committed to improving the standards and quality of investigations and learning from serious incidents leading to stillbirth, early neonatal death or serious brain injury in term babies and all maternal deaths from direct or indirect causes related to pregnancy.
+S0331 The new Healthcare Safety Investigation Branch (HSIB) will be funded to develop investigation standards and conduct independent investigations into all cases that meet the criteria for notification from the RCOG's Each Baby Counts Programme and all maternal deaths from direct or indirect causes related to pregnancy.
+S0332 NHSE, working with NHS Improvement, the Department of Health and HSIB will publish, by Quarter 2 2018, information and guidance on the standards for maternity investigations to deliver the Morecambe Bay and Better Births recommendations.
+S0333 In April 2017, HSIB became a fully operational and independent branch of NHS Improvement to investigate serious incidents in the NHS, with a strong focus on the learning from such incidents.
+S0334 It undertakes professionalised independent investigations with a comprehensive approach that seeks to understand the system and human factors contributing to harm, as well as the individual actions and events.
+S0335 HSIB will apply its independent, professionalised investigative approach to the investigations of early neonatal deaths, term stillbirths and cases of severe brain injury in babies ('Each Baby Counts' cases), as well as all cases of maternal death.
+S0336 Like HSIB's national-level investigations, these maternity investigations will be about understanding the facts of what went wrong, rather than assigning blame or liability and will focus on the human and system factors that may be contributory causes.
+S0337 However, this group of maternity investigations will differ from HSIB's national investigations in important ways.
+S0338 They will have a dual purpose.
+S0339 To provide the family of the baby or mother who was harmed with a full account of what happened in the individual case; and, by finding out what went wrong, to extract the maximum learning for the individual Trust in question and for the wider healthcare system.
+S0340 This should mean that HSIB maternity investigations will be shorter allowing families to know what happened more quickly and ensure that all relevant information is passed to the family.
+S0341 Each HSIB maternity investigation will take a clinically appropriate approach, working
+S0342 with families, clinicians with neonatal, paediatric and obstetric expertise and with local teams to establish what happened.
+S0343 These investigations will be the primary and, as far as possible, the only investigation of the individual case and may be informed if appropriate by tools that local providers will be using such as the Standardised Perinatal Mortality Review Tool for perinatal deaths.
+S0344 This will ensure consistency for all 'Each Baby Counts' cases nationally, and avoid duplication and unnecessary complexity for families.
+S0345 At the same time, for learning purposes and to ensure the spread of good investigative practice in the NHS, local staff will be involved as observers.
+S0346 Finally, as well as providing comprehensive final reports for each case it investigates, HSIB will publish themed reports drawing together overarching themes and points of learning from multiple investigations and making appropriate recommendations for system bodies to act on these findings.
+S0347 The new investigative approach will begin in a single region from April 2018 and will continue to roll out to all areas of England by April 2019.
+S0348 When fully rolled out, we expect HSIB to investigate around 1,000 cases a year, with the expectation that the learning from investigations will spur system improvements leading to fewer deaths and injuries in the future.
+Support for bereaved families
+S0349 The quality of care that bereaved families receive when their baby dies can have long-lasting effects.
+S0350 Good care cannot remove parents’ pain and grief, but it can help parents through this devastating time.
+S0351 All bereaved parents should be offered the same high standard of parent- centred, empathic and safe care when a baby dies.
+S0352 The Department of Health has funded SANDS to develop a National Bereavement Care Pathway (NBCP) to help professionals support families in their bereavement after any pregnancy or baby loss, be that Miscarriage, Termination of Pregnancy for Fetal Anomaly (ToPFA), Stillbirth, Neonatal Death or Sudden Unexpected Death in Infancy (SUDI).
+S0353 Draft guidance was published in October and is currently being implemented by 11 pilot sites with a view to publishing the final guidance next year.
+Rapid resolution and redress
+S0354 Better Births called for a non-litigious route to early support and redress for children with serious birth-related brain injuries.
+S0355 The Department of Health consulted on a proposed Rapid Resolution and Redress scheme earlier in 2017 to improve safety, patient experience and cost-effectiveness.
+S0356 A summary of the consultation responses has now been published.
+S0357 Work is continuing to design and refine the details of how the scheme could operate with a view to establishing the scheme from April 2019.
+S0358 A new Early Notification scheme launched by NHS Resolution in April 2017 provides a new route for families to access compensation which is based on the current principles of liability, but outside the usual litigation process.
+S0359 This new route includes support for immediate needs such as counselling or respite care in eligible cases.
+S0360 It is now a requirement for trusts to report all maternity incidents occurring on or after 1 April 2017 which have the potential to result in severe long-term brain injury.
+Coroners' investigations into stillbirths
+S0361 Currently there are no powers for coroners to conduct investigations into stillbirths as they only have jurisdiction to investigate deaths (including neonatal deaths).
+S0362 Some parents and charities have expressed concern that this is the case.
+S0363 As part of the work to improve the investigation of and learning from stillbirths and neonatal deaths,
+S0364 the Government will
+S0365 consider with interested parties how coroners could carry out an investigation into those babies who are stillborn at term i.e. at 37 weeks’ gestation and over.
+S0366 In doing so we will engage with Welsh colleagues on how this would impact the Devolved Administration in Wales.
+5. Better learning and quality improvement
+S0367 Research, national policy reviews, epidemiologic studies, national audits, case record reviews and investigations conducted in recent years have produced a wealth of information on the causes of perinatal and maternal mortality and morbidity.
+S0368 We will not make any progress with the National Maternity Safety Ambition, however, unless that learning is systematically applied to improvements in care in maternity and neonatal services across the country.
+The Maternal and Neonatal Health Safety Collaborative
+S0369 The NHS Improvement-led National Maternal and Neonatal Health Safety Collaborative was launched on 28th February 2017.
+S0370 A key Maternity Safety Strategy programme - the Collaborative aims to help every maternity and neonatal care provider in England to improve safety and outcomes by reducing unwarranted variation and providing a high quality healthcare experience for all women, babies and families.
+S0371 This three-year programme is building local capability in quality improvement science and providing structured support for local teams to assess their service and develop innovative plans for measurable improvements.
+S0372 Every NHS trust with a maternity service is taking part in this national programme with 44 Trusts recruited for Wave 1 (2017/18), 45 Trusts recruited for Wave 2 (2018/19) and 45 Trusts recruited for Wave 3 (2019/20).
+S0373 During each wave, local maternity service improvement leads receive training and coaching to build their knowledge of improvement theory and share ideas and approaches for applying the learning within their own organisations.
+S0374 The four areas of improvement focus are:
+S0375 • Human factors;
+S0376 • Systems and processes;
+S0377 • Clinical excellence; and
+S0378 • Person-centred care.
+Each Baby Counts Learn and Support
+S0379 The Department of Health provided the initial start-up funding for the RCOG's Each Baby Counts (EBC) programme which began collecting and analysing data from all UK units in 2015 to identify lessons from stillbirths, neonatal deaths or intrapartum brain injury in term-babies.
+S0380 Since then, EBC has been successful in securing the trust of midwives, obstetricians, neonatologists and other professionals involved in the delivery of maternity care with 100% of Trusts engaging in the programme.
+S0381 This represents valuable frontline clinical expertise committed to improving safety in their local services and supporting improvement initiatives based on the national quality improvement framework set out by the Maternal and Neonatal Health Safety Collaborative.
+S0382 The Department of Health will, therefore, provide additional funding over the next three years to provide support for the Royal College of Obstetricians and Gynaecologists and the Royal Colleges of Midwives to launch 'Each Baby Counts Learn and Support' - a programme of work to enable greater collaboration between the Royal Colleges and the NHS via the Maternal and Neonatal Health Safety Collaborative - this aims to align quality and safety improvement, multi-professional learning and clinical leadership into a consistent and sustainable safety strategy across the system.
+S0383 Other potential benefits expected to arise from the programme include:
+S0384 •
+S0385 The potential to use data and evidence to identify and stratify support for units at risk, before they become worse;
+S0386 • A focus on the welfare of the workforce to engage and support maternity staff when things go wrong; and
+S0387 • Support to capture impact and disseminate best practice.
+Focus on innovation
+S0388 The Safer Maternity Care Action Plan provided a £250,000 fund to which maternity and neonatal services could apply to support and promote the adoption of innovation and the spread of best practice across the NHS.
+S0389 25 Trusts were successful in their bids for a share of the £250,000 Maternity Safety Innovation Fund to develop innovative ideas (Table 1).
+S0390 Project reports will be collated by April 2018 and shared via the Maternity Safety Champions.
+Name of Trust | Innovation
+Barts Health NHS Trust | A new neonatal jaundice pathway that equips community midwives with
+transcutaneous bilirubin monitors and an app to communicate with clinical
+colleagues.
+Chelsea and Westminster
+NHSFT | Introduction of neonatal jaundice champion role and a new multi-service
+neonatal jaundice pathway.
+City Hospital Sunderland NHSFT | Adoption of Pregnancy CaPl (CAre PLan), a digital maternity network using in-
+built algorithms to automatically plan maternity care based on UK guidelines.
+Croydon University Hospital
+Croydon Health Services NHS
+Trust | To develop a multi-disciplinary (maternity and neonatal) approach to prevent
+hypothermia in newborns and reduce avoidable admissions to neonatal units.
+East Kent Hospitals University
+NHSFT | Implementation of a personalised digital platform that will automatically risk
+screen for 'Small for Gestational Age (SGA) babies, Venous Thrombosis
+Embolism (VTE), and Perinatal Mental Illness; support pregnant women to
+make positive health choices; support staff to educate and provide personalised
+care for women and enhance women's experience of care.
+Great Western Hospitals NHSFT | Introduce 'Flo' technology for remote monitoring of blood pressure for women
+with raised blood pressure in early/mid pregnancy or the postnatal period.
+Hinchingbrooke NHS Trust | Development of a dedicated midwifery led service for women requiring
+complex care, particularly women with: mild to moderate anxiety and
+depression; previous birth trauma; previous baby loss; tocophobia (fear of
+childbirth); previous caesarean section or requesting CS without an identified
+medical need; and women requesting care outside of standard care guidelines.
+Name of Trust | Innovation
+Lewisham and Greenwich NHS
+Trust | Development of an app through which: clinical services will enter and access
+information on to an electronic record via a portal; referrals for care will be
+made and women will access their electronic care record, up-to-date clinical
+advice and other personalised care information.
+Maidstone and Tunbridge
+Wells NHS Trust | Development of a link between two electronic maternity record systems to:
+improve data capture efficiency, manage booking of elective activities such as
+induction of labour and caesarean sections; populate incident reports with
+maternity record data and provide data for learning, monitoring safety
+indicators, highlighting tends and identifying areas for improvement.
+Medway NHSFT | Diffusion and adoption of 'LABOUR', a new communication tool for maternity
+and neonatal teams who wish to escalate mothers who are at risk of
+deterioration.
+Norfolk and Norwich University
+Hospital NHS FT | Use of interactive CTG technology for delivery suite simulation training on the
+human factors surrounding CTG interpretation and management.
+Northampton General Hospital
+NHS Trust | Implement a pathway whereby all women with a Carbon Monoxide breath test
+result of >/= 11 ppm (designated as a major risk factor) are referred for serial
+ultrasound measurements carried out by midwife ultrasonographers at a
+midwife-led clinic. Detection of 'Small for Gestational Age' or 'Fetal Growth
+Restriction' will enable referral to Fetal/Maternal Medicine specialists for
+ongoing management in determining the timing and mode of birth.
+Nottingham University
+Hospitals Trust | To apply a Human Factor and Ergonomic (HFE) approach to analyse stillbirth
+incidents in order to explore contributory themes and identify opportunities
+for intervention.
+Royal Devon & Exeter NHS
+Foundation Trust | To develop a package of measures to evaluate blood loss prospectively at
+Caesarean Section which include: design and testing of new Obstetric
+Anesthesia Caesarean Charts incorporating a bespoke Post-Partum
+Haemorrhage record; design and testing of surgical drapes that will allow rapid
+identification of blood loss per vaginum and design and testing of a bespoke
+intra-operative blood loss board to be placed on the operating theatre wall.
+Royal Wolverhampton NHS
+Trust | Development and implementation of an interactive Parent Education Package
+for pregnant women and new mothers on how to minimise the common risks
+of neonatal and infant deaths in a region with one of the highest infant
+mortality rates nationally.
+Saint Mary's Hospital, Central
+Manchester Foundation Trust | Introduction of a specialised midwife-led clinic for women with a raised BMI of
+35-39.9 who have no other risk factors and a new service promoting positive
+healthy lifestyle education with dietetic support for any pregnant woman with a
+BMI of 30 or above.
+Name of Trust | Innovation
+Sheffield Teaching Hospitals
+NHSFT | Development and embedding of a clinical pathway and clinician education
+package to improve care for women who present with reduced fetal
+movements using the ‘forum theatre’ methodology.
+The Hillingdon Hospitals NHSFT | Development of E-learning training package in Perinatal Mental Health for all
+midwives, health visitors and doctors working in acute and community services
+that will be an element of the Trust's mandatory training.
+University Hospitals Coventry
+and Warwickshire NHS Trust | Development of a new approach to multidisciplinary team skills training
+simulations of obstetric emergencies using video for constructive and
+immediate performance feedback.
+Dorset County Hospital NHSFT | Provision of a new app to communicate with and provide information to fathers
+whose infants are resident in a Special Care Baby Unit.
+Leeds Teaching Hospitals Trust | 1. To implement a user interface into the electronic patient record, so that
+women can have access to their electronic patient record and write in their
+notes, make comments, and provide feedback regarding care.
+2. To link a new sepsis screening tool to the electronic patient record that will
+enable practitioners in the multi-disciplinary team to quickly respond to
+suspected sepsis based on established criteria.
+North Bristol NHS Trust | To introduce a 'Wellbeing Buddy' from a voluntary sector support organisation
+(Bluebell Care) on maternity wards/units to support women at risk of or
+experiencing perinatal mental health problems.
+Northern Lincolnshire and
+Goole NHS FT | To create a new specialist multidisciplinary clinic that encourages and supports
+women with a BMI of 35 or greater to make lifestyle and behavioural changes
+in the antenatal period that will be sustainable after they have given birth.
+Southend University Hospitals
+NHSFT | Introduction of high fidelity simulation training throughout Maternity, Neonatal
+and Emergency Department as part of the mandatory study days.
+Taunton and Somerset NHSFT | Development of a “one stop” multidisciplinary preconception care clinic for
+women with diabetes, hypertension, morbid obesity and epilepsy.
+6. Accelerating the pace of improvement
+S0391 In 2015, the Department launched an ambition to halve the rates of stillbirths, neonatal deaths, brain injuries that occur during or soon after birth and maternal deaths, by 2030.
+S0392 Halving our stillbirth and neonatal mortality rates to 2.6 stillbirths per 1,000 births and 1.5 neonatal deaths per 1,000 lives respectively, would result in the UK ranking in the top 10 countries for perinatal mortality globally; making England one of the safest places in the world to have a baby.
+S0393 Considerable efforts have been made across the NHS to deliver early progress.
+S0394 New funding and initiatives launched last year though the Safer Maternity Care Action Plan to improve leadership and training, the implementation of best practice and a national quality improvement programme as well as support for innovation is rolling out and already having an impact on service improvements.
+S0395 Through the Maternity Transformation Programme, Local Maternity Systems are developing and Early Adopter and Pioneer services are beginning to increase continuity of carer and the use of Personal Maternity Care Budgets.
+S0396 Services are also improving the amount and quality of data submitted to the Maternity Services Data Set.
+S0397 A national indicators dashboard, offering a range of metrics that trusts will be able to select to focus attention on, will be established by 2018.
+S0398 The dashboard will enable multi-professional teams in local maternity and neonatal services to make better use of routinely collected data in order to track their outcomes, benchmark their performance, and improve the quality of their services.
+S0399 We are currently on track to meet our ambition to reduce stillbirths, neonatal and maternal deaths by 20% by 2020.
+S0400 The range of funding and support should enable maternity and neonatal services to go farther and faster.
+S0401 We have, therefore, decided to re-set the national Maternity Safety Ambition to halve the rates of stillbirths, neonatal and maternal deaths and brain injuries occurring during or soon after birth to 2025.
+Incentivising the delivery of best practice to improve safety
+S0402 Our vision is for a step change in maternity safety in the NHS.
+S0403 Making change happen at pace is a whole system effort and our plans, including the new measures we will take to speed up progress are intended to galvanise efforts across the system, to improve maternity investigations, spread best practice and learning and provide the tools and the expertise to bring about real and sustainable improvements to maternity care.
+S0404 At the same time we want to send a clear message to the system that this goal is a priority that can be achieved with concerted effort.
+S0405 To encourage local teams to take further steps to improve safety, NHS Resolution will launch a new incentive scheme in 2018.
+S0406 The scheme will provide a discount on Clinical Negligence Scheme for Trusts (CNST) maternity premia to incentivise local services for taking steps to improve the delivery of best practices linked to safety in maternity and neonatal services.
+S0407 NHS Resolution has built provision for an incentive fund into its pricing for 2018/19.
+S0408 Trusts that are able to demonstrate compliance with 10 criteria agreed by the National Maternity Champions will be entitled to at least a 10% reduction in their CNST maternity contribution.
+S0409 The aim of the scheme is to incentivise the implementation of good practice across all maternity units.
+S0410 The agreed criteria are set out in Box 2.
+S0411 By meeting the 10 criteria, Trusts are likely to deliver safer maternity services and may be expected to have fewer cases of brain injuries or other harm which can lead to negligence claims.
+S0412 Trusts’ compliance with the criteria will be assessed through a verification process that will be completed by the end of June 2018.
+S0413 Discounts for successful trusts will be confirmed by NHS Resolution.
+S0414 Trusts not yet able to demonstrate full compliance with the criteria will be eligible for a smaller discount, providing they agree to use the funds to take action towards meeting the criteria, which may include an offer to 'buddy ' with a qualifying trust that will provide support.
+S0415 The incentive scheme will apply to acute trusts only in 2018/19 and will be evaluated during the year to determine whether and how it should be developed in future years.
+Box 2: Criteria for the Maternity Safety Strategy CNST discount | 
+1 | Are you using the National Perinatal Mortality Review Tool to review perinatal deaths? (Y/N)
+2 | Are you submitting data to the Maternity Services Data Set (MSDS) to the required standard? (Y/N)
+3 | Can you demonstrate that you have transitional care facilities in place and operational to support the
+implementation of the ATAIN Programme? (Y/N)
+4 | Can you demonstrate an effective system of medical workforce planning? (Y/N)
+5 | Can you demonstrate an effective system of midwifery workforce planning? (Y/N)
+6 | Can you demonstrate compliance with all 4 elements of the Saving Babies' Lives care bundle? (Y/N)
+7 | Can you demonstrate that you have a patient feedback mechanism for maternity services, such as the
+Maternity Voices Partnership Forum, and that you regularly act on feedback? (Y/N)
+8 | Can you evidence that 90% of each maternity unit staff group have attended an 'in-house' multi-professional
+maternity emergencies training session within the last training year? (Y/N)
+9 | Can you demonstrate that the trust safety champions (obstetrician and midwife) are meeting bi-monthly
+with Board level champions to escalate locally identified issues? (Y/N)
+10 | Have you reported 100% of qualifying 2017/18 incidents under NHS Resolution's Early Notification scheme?
+7. The National Maternity Safety Strategy
+S0416 Maternity is different from other clinical specialities.
+S0417 Most users of acute health services have a specific health problem (such as an illness or a broken bone) that requires treatment in order to be ‘cured’ and restored to a state of good health.
+S0418 The expectations in maternity are different because most pregnant women are healthy and pregnancy is a natural physiological process that usually culminates in the birth of a healthy baby.
+S0419 Pregnant women are ‘supported’ by maternity professionals through this physiological process rather than ‘treated’ for a pathological condition.
+S0420 The vast majority of deaths and injuries in maternity care are, in the vast majority of cases, unexpected.
+S0421 Consequently, the impact on families can be particularly devastating especially when a death or injury could have been avoided.
+S0422 This is why maternity safety is the 'golden thread' running through every workstream of the Maternity Transformation Programme.
+S0423 This is also why clinical leaders and innovative thinkers in maternity and neonatal services across the country, supported by national, regional and local organisations, are working to develop leadership, participating in multi-disciplinary team training, examining their own care practices with a critical eye and developing rigorous quality improvement plans.
+S0424 They are implementing evidence-based practices through the Saving Babies Lives care bundle and Atain programmes and are continuously improving the quantity and quality of data they provide to the Maternity Services Dataset and national audit and review programmes.
+S0425 The aims of this document are to:
+S0426 • report on progress with implementation of the Safer Maternity Care Action Plan;
+S0427 • set out new support and actions focussed on better care, better investigations, better learning and improvement and better outcomes for mothers and their babies; and
+S0428 • explain how all the elements of the Maternity Safety Strategy link and contribute to form a coherent and aligned system-wide approach to improving safety in maternity care.
+S0429 Every national, regional and local NHS organisation and every member of a maternity or neonatal care team has a role in the Maternity Safety Strategy by:
+Providing Better, Safer Care
+S0430 • With strong leaders working across system boundaries working across system boundaries, promoting professional cultures that support teamwork, continuous improvement and service user engagement; including:
+Named national, regional and
+local Maternity Safety Champions
+- from January 2017 | Every national, regional and local
+NHS organisation involved with
+delivering safe maternity and
+neonatal care | From January 2017
+A central platform within the NHS
+Improvement Hub in
+development to foster a cohesive
+community of Maternity Safety
+Champions, other system leaders | NHS Improvement | From early 2018
+S0431 and experts to help spread learning and best practice across the system.
+S0432 • With the implementation of evidence-based best practice; including:
+S0433 • With care provided by clinical professionals with expertise in safe care practices; including
+Continuity of carer throughout
+pregnancy and labour, including
+one-to-one support at this time | Maternity Transformation
+Programme | By 2020
+The Saving Babies Lives Care
+Bundle | NHS England / Maternity
+Transformation Programme | On-going
+The Atain Programme | NHS Improvement and clinical
+experts | On-going
+The Maternity Safety Training
+Fund | Health Education England | 2017/18
+Practitioners with knowledge,
+skills and confidence to give very
+brief advice to women during
+antenatal appointments and
+upskilling practitioners (e.g.
+maternity support workers) to
+deliver evidence based smoking
+cessation interventions. | Tobacco Control Plan
+Public Health England | Aim to reduce the prevalence of
+smoking in pregnancy from 10.7%
+to 6% or less by 2022.
+New funding over three years to
+train 12 consultant physicians as
+‘Obstetric Physicians’ to be able
+to establish networked maternal
+medicine across England. | NHS England / Maternity
+Transformation Programme | Beginning 2018/19
+The Atain e-learning programme
+to support the delivery of safer
+care with a focus on respiratory
+conditions; hypoglycaemia;
+jaundice; and asphyxia (perinatal
+hypoxia-ischaemia). An additional
+module also raises awareness of
+the importance of keeping
+mother and baby together. | NHS Improvement and clinical
+experts | From November 2017
+Improving the quality of information, reviews and investigations
+S0434 • With standardised approaches to reviews and investigations
+S0435 • With timely, good quality data
+The Perinatal Mortality Review
+Tool | A consortium led by the National
+Perinatal Epidemiology Unit and
+linked to the MBRRACE data entry
+system | From December 2017
+Regular surveillance and
+confidential enquiries | MBRRACE-UK | On-going
+Each Baby Counts | RCOG | On-going from 2015
+The National Maternity and
+Perinatal Audit | RCOG | On-going from 2017
+Healthcare Safety Investigation
+Branch (HSIB) conducting
+independent investigations into
+all cases that meet the criteria for
+notification from the RCOG's Each
+Baby Counts Programme and all
+maternal deaths from direct or
+indirect causes related to
+pregnancy | HSIB | From 2018/19
+Published guidance on the
+standards for maternity
+investigations to deliver the
+Morecambe Bay and Better Births
+recommendations. | NHS England, working with NHS
+Improvement, the Department of
+Health and HSIB | Quarter 2 2018
+Development of proposals for
+coroners to investigate stillbirths. | Department of Health and
+Ministry of Justice | From 2017
+Maternity Services Dataset | NHS Digital | On-going
+An agreed definition for brain
+injuries occurring during or soon
+after birth | National Neonatal Data Base | From November 2018
+Clinical quality indicators and a
+national data viewer | Maternity Transformation
+Programme | 2018
+Improving learning and quality improvement
+S0436 • With local capability in improvement science and structured support for local teams
+S0437 • With better support for bereaved families or children with serious brain injuries
+Accelerating the pace of change
+S0438 • With a renewed focus on reducing pre-term births
+S0439 • With a new ambition to halve the rates of stillbirths, neonatal and maternal deaths and brain injuries occurring during or soon after birth
+S0440 • With a new incentive scheme
+Maternal and Neonatal Health
+Safety Collaborative | NHS Improvement | From March 2017
+Each Baby Counts Learn and
+Support | RCOG, RCM and the Maternal and
+Neonatal Health Safety
+Collaborative | From 2018/19
+Maternity Safety Innovation Fund | Department of Health | 2017/18
+ |  | 
+National Bereavement Care
+Pathway | Sands | Wave 1 pilots launched October
+2017
+Rapid Resolution and Redress | Department of Health | Summary of consultation
+responses published November
+2017
+Work continuing to design and
+refine the details of how the
+scheme could operate with a view
+to establishing the scheme from
+April 2019
+Early Notification Scheme | NHS Resolution | From April 2017
+A discount on Clinical
+Negligence Scheme for Trusts
+(CNST) maternity premia to
+incentivise local services for
+taking steps to improve the
+delivery of best practices
+linked to safety in maternity
+and neonatal services | NHS Resolution | From 2018/19

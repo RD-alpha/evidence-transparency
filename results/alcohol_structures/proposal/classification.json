@@ -1,0 +1,72 @@
+{
+  "themes": [
+    {
+      "name": "Strength-based duty principle",
+      "ids": [
+        "S0002",
+        "S0003",
+        "S0004",
+        "S0010",
+        "S0069",
+        "S0070"
+      ]
+    },
+    {
+      "name": "Targeted cider band over alternatives",
+      "ids": [
+        "S0040",
+        "S0041",
+        "S0042",
+        "S0043",
+        "S0045",
+        "S0046",
+        "S0047",
+        "S0048",
+        "S0049",
+        "S0063"
+      ]
+    },
+    {
+      "name": "New lower-strength wine band pending EU reform",
+      "ids": [
+        "S0071",
+        "S0073",
+        "S0074",
+        "S0075",
+        "S0076",
+        "S0078",
+        "S0081",
+        "S0082",
+        "S0083"
+      ]
+    },
+    {
+      "name": "Building on prior targeted interventions",
+      "ids": [
+        "S0030",
+        "S0031",
+        "S0032",
+        "S0033",
+        "S0034",
+        "S0035"
+      ]
+    },
+    {
+      "name": "Evidence gaps and research needs",
+      "ids": [
+        "S0083",
+        "S0084",
+        "S0086"
+      ]
+    },
+    {
+      "name": "Wine band impacts and implementation concerns",
+      "ids": [
+        "S0089",
+        "S0091",
+        "S0095",
+        "S0096"
+      ]
+    }
+  ]
+}

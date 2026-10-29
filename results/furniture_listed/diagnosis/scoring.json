@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Outdated match test",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Technical claims about foam flammability, test construction, and fibre-wrap air gaps are explained but carry no reference or link, and the critique that the match-ignition theory is 'simply an opinion' with 'divided opinion... no one agrees with it' is itself uncited consultation material."
+    },
+    {
+      "theme": "Flame retardant health and environmental harms",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Health-harm claims rest on a generic 'see Annex' pointer (Reference 5) and REACH (Reference 2) only defines the acronym rather than linking the restriction claim to a source, so only the California TB117 comparator (Reference 3) is properly linked while the rest stays at level 1."
+    },
+    {
+      "theme": "Scope ambiguity",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 'grey area' and baby-product arguments ('many of the products... do not pose the same risks', 'much lower fuel load') are reasoning with no data, statistic or named source behind them."
+    },
+    {
+      "theme": "Traceability and enforcement gaps",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The claim that 'regular exercises by Trading Standards reveal... a constant threat... from non-compliant furniture imports' names a primary evidence source but gives no detail on how the exercises were conducted or what they found numerically."
+    },
+    {
+      "theme": "Regulatory background and historical context",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Specific figures from Reference 1 (8% rise 1981-87, 38% fall by 2007, 45% fall 2009/10-2013/14) are linked to the claim of FFR effectiveness, and the document itself flags that post-2009 statistics 'are not directly comparable due to a change in the way information was recorded'."
+    },
+    {
+      "theme": "Regulation effectiveness and safety benefits",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The '54 lives, 800 injuries... \u00a3140m per year' figures are properly cited to Reference 4 and clearly linked to the effectiveness claim, but no limitations of that 2009 modelling are discussed."
+    }
+  ],
+  "reasoning": "The diagnosis rests on four core themes. 'Outdated match test' offers rich technical description (foam illegality, fibre-wrap air gaps, the admission that the ignition theory is 'simply an opinion' with 'no one agrees with it') but none of it is cited (empty references/links), so it reaches level 1. 'Flame retardant health and environmental harms' names REACH, the Stockholm Convention and academic literature, but Reference 2 only defines the REACH acronym, Reference 5 is a generic 'see Annex' pointer, and only the California TB117 comparator (Reference 3) is properly linked, so the theme as a whole stays at level 1. 'Scope ambiguity' is pure argument ('much lower fuel load', 'not intended to be used unattended') with no statistic or source, so it scores 0. 'Traceability and enforcement gaps' cites Trading Standards 'exercises' as a primary source but gives no methodology or numbers, so it scores 1. The mean of (1,1,0,1)=0.75, rounding to 1. The strongest counter-example is the well-evidenced non-core 'Regulatory background' theme (Reference 1, with fire-statistic trends and an acknowledged data-comparability caveat), which shows the department can produce level-3 evidence elsewhere but has not done so for the core diagnostic claims shown here. To reach level 2, the document would need to attach specific, traceable citations to the match-test variability claims, the FR-harm literature, and the Trading Standards findings.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

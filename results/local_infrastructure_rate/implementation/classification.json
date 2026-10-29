@@ -1,0 +1,53 @@
+{
+  "themes": [
+    {
+      "name": "Delivery through the PWLB",
+      "ids": [
+        "S0017",
+        "S0026",
+        "S0027",
+        "S0037",
+        "S0047",
+        "S0048",
+        "S0053",
+        "S0070",
+        "S0073"
+      ]
+    },
+    {
+      "name": "Competitive bid and appraisal process",
+      "ids": [
+        "S0065",
+        "S0066",
+        "S0067",
+        "S0068",
+        "S0069",
+        "S0064"
+      ]
+    },
+    {
+      "name": "Eligibility and scope limits",
+      "ids": [
+        "S0038",
+        "S0063",
+        "S0071",
+        "S0072",
+        "S0064"
+      ]
+    },
+    {
+      "name": "Governance and rate setting",
+      "ids": [
+        "S0049",
+        "S0052",
+        "S0054",
+        "S0074",
+        "S0061"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+You are reading a policy document about $intervention. The problem it is meant
+to address is: $problem.
+
+Before the evidence behind the document is scored, you are summarising what its
+argument rests on. For three aspects of the policy argument, name the core
+themes: the lines of argument the case for that aspect could not stand without.
+
+THE ASPECTS
+$aspects
+
+INPUT FORMAT
+The <document> is the whole policy document, one sentence per line, in
+document order. Each line starts with a sentence code and, in square brackets,
+the aspect that sentence was classified into: [Diagnosis], [Proposal],
+[Implementation], [Testing], or [None] for sentences that belong to no aspect.
+The document's citations, references and links have been removed on purpose.
+
+THE TASK
+For each of Diagnosis, Proposal and Implementation, name its core themes.
+- A core theme is one of the main supports of the case for that aspect: take it
+  away and the case would no longer stand, not merely be less complete.
+- Everything else is not core, including points that bear on the problem or on
+  a should-explain point but that the case could stand without, as well as
+  background, procedure, legal or administrative detail, and passing remarks.
+  Do not list these.
+
+Expect two to four core themes for an aspect. A short aspect may need only one;
+do not exceed four. If you have more than four candidates, the case is resting
+on fewer lines of argument than you think: merge candidates that make the same
+underlying claim, and drop the ones the case could stand without.
+
+HOW TO DECIDE
+Read the whole document before deciding. Documents often say what their case
+rests on, in a summary, an introduction, a conclusion or a statement of
+objectives, and those passages may sit in another aspect or in none. Use them to
+judge what matters. But name a core theme for an aspect only if sentences
+labelled with that aspect argue it, since only those sentences are scored for
+that aspect.
+
+Bearing on a should-explain point is not enough to make a theme core: most of
+the document does. Pick out what the rest of the argument leans on.
+
+A core theme is a line of argument, not a topic. Name it after the area of
+policy it concerns, as a heading in the document might, and state the claim the
+document makes about it. Make it broad enough to cover all the passages that
+argue that claim, wherever they fall, so that it does not depend on how those
+passages happen to be divided.
+
+A choice and the case against its alternatives are one line of argument, not
+two. If the document argues for an option and also argues against the options it
+rejected, name a single theme for the choice, and state in its claim both what
+is chosen and why the alternatives were set aside. Likewise, a measure and the
+justification for its design (scope, level, timing) belong together when the
+document argues them as one case.
+
+Judge by what the document argues and the role each claim plays, not by how
+well supported it is. You cannot see the evidence and should not try to infer
+its quality: a bare assertion can be core, and a passage full of figures can be
+not core. Do not leave a theme out because the document spends little space on
+it, and do not make it core only because it spends a lot.
+
+If an aspect holds no argument at all (for example, it has no sentences),
+return no core themes for it and say so in its note.
+
+OUTPUT
+Return structured JSON with one entry for each of diagnosis, proposal and
+implementation, each holding:
+- core_themes: one entry per core theme, each with
+  - name: a short name, of the kind that could head a section
+  - claim: one sentence stating the claim the document makes in this theme
+- note: one sentence on anything unusual about this aspect, such as a package
+  of separate measures or no argument at all; otherwise an empty string

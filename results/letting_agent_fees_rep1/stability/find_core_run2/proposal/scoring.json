@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Using landlords' stronger market position to realign incentives",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "All lines here ('Landlords will be able to shop around...', 'will sharpen and increase...incentives') are assertions of expected market behaviour with no statistic, study or data cited to support them."
+    },
+    {
+      "theme": "Scope and design of the ban, including exceptions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The rationale for exceptions like holding deposits ('to mitigate the risk of tenants speculating...') is reasoning about intended effect, not evidence that such exceptions work."
+    },
+    {
+      "theme": "Scottish precedent as evidence for the policy's likely effects",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "Shelter's 2013 report (Reference 16, with URL) plus Rettie/BDRC Continental findings and Companies House data are cited and linked to the claim, and the document itself flags uncertainty ('this is inconclusive', 'difficult to directly compare the English and Scottish markets')."
+    },
+    {
+      "theme": "Acceptable trade-off of possible rent increases",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The empirical part of the claim ('rents may increase') draws on the Scottish evidence from the adjacent theme, but the normative claim that this is 'preferable' to fees is unsupported reasoning within this theme itself, so no proper citation or full link is given here."
+    }
+  ],
+  "reasoning": "The case for the ban rests on four core claims. Two of them - that landlords' market power will discipline agents' pricing, and that the specific exceptions (holding deposits, tenant-caused charges) are correctly designed - are argued purely through reasoning ('Landlords will be able to shop around...', 'to mitigate the risk of tenants speculating...') with no statistic, survey or named study behind them, so both score 0. The claim that Scottish precedent de-risks the policy is well evidenced: Shelter's 2013 report (Reference 16, linked to a URL), commissioned research by Rettie and BDRC Continental, and Companies House data are all cited, and the document itself weighs their limits ('this is inconclusive', 'difficult to directly compare the English and Scottish markets'), reaching level 3. The trade-off claim about rent increases partly borrows this Scottish evidence ('rents may increase as a result of the ban') but its core normative assertion - that this is preferable to upfront fees - is unsupported reasoning, so it only reaches level 1. The mean of 0, 0, 3 and 1 is 1.0, rounding to a section score of 1. The strongest counter-example to a higher score is the Scottish evidence theme, which alone would justify a 3, but the other three core themes drag the average down. To reach level 2 overall, the document would need to cite and link concrete evidence (data, modelling or named studies) directly to the incentive and design claims, not just reasoning.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

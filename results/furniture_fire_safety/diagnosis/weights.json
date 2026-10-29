@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Outdated match test drives excess FR use",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Health and environmental harm from flame retardants",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Existing regulations' proven safety record",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope ambiguity and weak traceability undermine enforcement",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Regulations outdated and lacking stakeholder support",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Flame retardant chemical use and cost-effectiveness",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Consumer and regulatory threats from non-compliant imports",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Testing regime weaknesses and modern manufacturing changes",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

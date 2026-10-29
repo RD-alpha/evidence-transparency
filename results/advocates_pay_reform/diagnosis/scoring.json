@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Reliance on pages of evidence and witness counts",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines on PPE and witness proxies (e.g. 'The AGFS relies too heavily on Pages of Prosecution Evidence', 'no longer fully reflects the work required of advocates') are assertions with no statistic, finding or source, and the extract carries no references for this theme."
+    },
+    {
+      "theme": "Changing criminal justice system",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims about the 2007 reform, the Crown Court Digital Case System, electronic evidence, BCM and changed case volumes are asserted without any figures or citation within the theme, so they are reasoning without evidence."
+    },
+    {
+      "theme": "Complexity, bundling and uncertainty in the current scheme",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements that the scheme is complicated, inflexible and bundled rest on description and assertion; the only reference (10, the Bar Council fee-sharing protocol) describes a rule and gives no evidence of the claimed problem."
+    },
+    {
+      "theme": "Trigger for cracked trials",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Line 6.3 ('Currently over 90% of cases crack in the final third', Reference 13, LAA administrative data 2014-15) is cited but the method is unexplained and its link to the claim that the trigger is too early is not reasoned, and the claim also rests on unnamed 'the Bar and experts' views."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Tables 1 and 2 give expenditure and bill volumes from legal aid statistics (\u00a3213m/\u00a3226m, 112,900/111,000 bills) but describe the scheme's scale and are not tied to the diagnosis, and the rest is a description of current rules."
+    }
+  ],
+  "reasoning": "All four core themes were scored, and three of them rest on assertion alone. The page-and-witness theme says the AGFS 'relies too heavily on Pages of Prosecution Evidence' and that converted pages 'no longer fully reflects the work required of advocates', but gives no data on pages, witnesses or the work done and cites nothing. The changing-system theme names the Crown Court Digital Case System, increased electronic evidence and Better Case Management, but offers no figures on the growth of electronic evidence or on changed case volumes. It also carries no references; Reference 2 appears only in the 'Other' theme and only for BCM context. The complexity and bundling theme explains in detail how bundled fees work and says advocates do 'more work in some cases, and less work in others, yet be paid the same fee', but this is argument. Its only reference (10) is the Bar Council fee-sharing protocol, which describes a rule rather than evidencing the problem. The cracked-trial theme is the one partial exception: 'Currently over 90% of cases crack in the final third' cites LAA administrative data (Reference 13), but it does not say how this shows the trigger is too early, how the data was obtained, or what limits it has. That puts it at level 1. The expenditure tables in the non-core theme give scale but not diagnosis. Core levels are 0, 0, 0 and 1, a mean of 0.25, which rounds to 0. The strongest counter-example is the cracked-trial figure, which supports a level 1 reading for that theme alone. To reach level 1 overall, the document would need to offer data, such as PPE trends, the share of electronic material or the frequency of unused bundled hearings, to support its core claims. To reach level 2 it would also need to cite that data and explain the method.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.25,
+  "score_consistent": true,
+  "missing_core": []
+}

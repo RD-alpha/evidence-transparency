@@ -1,0 +1,47 @@
+<root>
+<theme sentences="4" weight="core">
+<name>High buy-out use in Target Period 1</name>
+<claim>In TP1 just under half of target units (49%) used buy-out and 14% of those missing targets left the scheme, which suggests the £12/tCO2e price gave a weak incentive to meet targets.</claim>
+<text>
+<line id="S0040">The CCA Biennial Progress Report, **(Link: 12) covering 2013 and 2014, indicated that in Target Period 1 just over half of the target units (51%) met their target and that just under half of the target units (49%) used buy-out. ** (Reference: 4)</line>
+<line id="S0041">The total surplus – i.e. the amount by which target units delivered above their targets - for those target units that met their target was 4,088 kilotonnes of CO2e.</line>
+<line id="S0042">This was approximately twice the amount of total of CO2e that reflected underperformance from the target units that did not achieve their target (2,024 kilotonnes of CO2e).</line>
+<line id="S0043">Of the target units that did not achieve their target, 227 (14%) of these chose not to pay the buy-out price, but rather to leave the CCA scheme.</line>
+</text>
+<references>
+<reference number="4">Published in October 2015 by the Environment Agency.</reference>
+</references>
+<links>
+<link number="12" url="https://www.gov.uk/government/publications/climate-change-agreements-cca-biennial-report">CCA Biennial Progress Report⁴,</link>
+</links>
+</theme>
+<theme sentences="6" weight="core">
+<name>Original buy-out price rationale</name>
+<claim>The £12/tCO2e price set in 2012 was meant to balance a strong incentive to abate against financial and competitiveness impacts on participants, with targets challenging but achievable and buy-out as an alternative route to compliance.</claim>
+<text>
+<line id="S0037">When CCA targets were agreed with sectors in 2012 the aim was to set these at a level that was challenging but achievable, with use of buy-out being available as an alternative to meeting targets for the purpose of remaining compliant with the Scheme.</line>
+<line id="S0038">The buy-out price for TP1 and TP2 was set in 2012 at £12/tCO2ei.</line>
+<line id="S0052">The buy-out price for the first two target periods (2013-14 and 2015-16) was announced in the Government Response **(Link: 13) to the Consultation on Simplifying the CCA Scheme in January 2012.</line>
+<line id="S0053">This stated that the objective in setting the buy-out price was</line>
+<line id="S0054">to strike a balance between having a strong incentive to abate (i.e. to introduce measures to meet energy or carbon saving targets) and the financial impact, including any competitiveness issues, on participants.</line>
+<line id="S0055">This Response set the buy-out price for TP1 and TP2 at £12/tCO2e.</line>
+</text>
+<references>
+</references>
+<links>
+<link number="13" url="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/42827/4175-cca-cons-gov-response.pdf">Government Response</link>
+</links>
+</theme>
+<theme sentences="2" weight="core">
+<name>Limits of the TP1 evidence</name>
+<claim>TP1 data cover only the first of four target periods and buy-out use is expected to be higher in TP1 because of time-lags in abatement measures, so later periods may differ.</claim>
+<text>
+<line id="S0045">While we have used the data from TP1 to inform the options on any future buy-out price, we note that these data relate only to the first of four target periods and the results for subsequent target periods may not be similar.</line>
+<line id="S0046">In particular, since there may be a time-lag before newly deployed abatement measures deliver their full energy savings, it is reasonable to expect that the use of buy-out would be greater in TP1 than in subsequent target periods.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

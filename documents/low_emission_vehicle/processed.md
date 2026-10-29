@@ -1,0 +1,365 @@
+  
+&RQVXOWDWLRQRQSURSRVHGXOWUDORZ HPLVVLRQYHKLFOHVPHDVXUHVIRU LQFOXVLRQLQWKH0RGHUQ7UDQVSRUW%LOO
+2FWREHU
+S0001 The Department for Transport has actively considered the needs of blind and partially sighted people in accessing this document.
+S0002 The text will be made available in full on the Department’s website.
+S0003 The text may be freely downloaded and translated by individuals or organisations for conversion into other accessible formats.
+S0004 If you have other needs in this regard please contact the Department.
+S0005 Department for Transport Great Minster House 33 Horseferry Road London SW1P 4DR Telephone 0300 330 3000 Website www.gov.uk/dft **(Link: 1) General email enquiries https://www.dft.gov.uk/about/contact/form/ **(Link: 2)
+S0006 © Crown copyright 2016
+S0007 Copyright in the typographical arrangement rests with the Crown.
+S0008 You may re-use this information (not including logos or third-party material) free of charge in any format or medium, under the terms of the Open Government Licence.
+S0009 To view this licence, visit www.nationalarchives.gov.uk/doc/open-government-licence/ **(Link: 3) or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or e-mail: psi@nationalarchives.gsi.gov.uk.
+S0010 **(Link: 4)
+S0011 Where we have identified any third-party copyright information you will need to obtain permission from the copyright holders concerned.
+Foreword
+S0012 The Government has a very clear and bold ambition for all our cars and vans to be effectively zero emission by 2050.
+S0013 We are on track to deliver this aim, with the UK consistently amongst the leading global markets for ultra low emission vehicles (ULEV).
+S0014 In the first half of 2016, we were the largest new ULEV market in the European Union, building upon 94% growth in 2015.
+S0015 Ultra low and zero emission vehicles present a huge opportunity for the UK’s thriving automotive sector to exploit and grow as the global transition takes hold.
+S0016 It is already supporting new jobs and growth as well as securing environmental benefits.
+S0017 Last year, the UK manufactured 1 in 5 electric vehicles (EVs) sold in the EU.
+S0018 The Office for Low Emission Vehicles (OLEV) is working across government to position the UK at the forefront of ULEV development, manufacture and use, including targeted funding for the rapidly expanding infrastructure that supports ever increasing numbers of plug- in and hydrogen fuel cell EVs.
+S0019 Across the UK there are now more than 11,000 chargepoints, including the largest network of rapid chargers in Europe and a growing number of publicly accessible hydrogen refuelling stations.
+S0020 This consultation seeks views on measures relating to ULEVs that the Department for Transport is considering for inclusion in the Modern Transport Bill (the Bill).
+S0021 The Modern Transport Bill was announced in the Queen’s Speech in May 2016.
+S0022 We propose to include a number of measures that will benefit the roll-out and use of recharging and refuelling infrastructure for (ULEVs).
+S0023 Consulting on measures now provides an opportunity for stakeholders to input into their development before they progress further through the legislative process.
+S0024 In all cases, we propose that measures would not take effect without further secondary legislation.
+S0025 At that stage a full Impact Assessment would be undertaken to quantify the likely impact of these measures taking effect.
+S0026 We are keen to support provision of ULEV infrastructure across the UK, and it is proposed that these powers will be taken to apply across all
+S0027 nations.
+S0028 We will continue to engage with Devolved Administrations to ensure that this is possible within current devolution settlements, and to consider any deviations or alternative approaches which may be necessary.
+S0029 Responses to this consultation will inform our final proposals before we introduce the legislation and help us refine our assessment of the impacts.
+S0030 We encourage you to reflect on the proposals set out here and respond to the consultation questions in full.
+S0031 The Department for Transport is consulting separately on proposals to transpose European Directive 2014/94/EU on the deployment of alternative fuels infrastructure (the Alternative Fuels Infrastructure Directive - ‘AFID’). AFID concerns the recharging and refuelling infrastructure necessary to support the use of alternatively fuelled transport across the UK and wider European Union (EU). ** (Reference: 1)
+S0032 The Directive’s requirements were agreed in 2013 following detailed negotiations between EU Member States and we are now required to transpose these requirements into national legislation.
+S0033 Since it is at a different stage of development, a separate consultation is being carried out to provide an opportunity to input into the proposals for transposition.
+S0034 Further details on that consultation are available at www.gov.uk.
+How to respond
+S0035 The consultation period began on 25 October 2016 and will run until 23 November 2016.
+S0036 Please ensure that your response reaches us before the closing date.
+S0037 If you would like further copies of this consultation document, it can be found at www.gov.uk or you can contact olev.enquiries@olev.gsi.gov.uk **(Link: 5) if you would like alternative formats (Braille, audio CD, etc.).
+S0038 Please send your responses to the consultation questions to:
+S0039 Office for Low Emission Vehicles Zone 1/31, Great Minster House 33 Horseferry Road, London SW1P 4DR
+S0040 If you are responding via email, please send it to olev.enquiries@olev.gsi.gov.uk **(Link: 6) with the subject line “Modern Transport Bill consultation response”.
+S0041 When responding, please state whether you are responding as an individual or representing the views of an organisation.
+S0042 If responding on behalf of a larger organisation, please make it clear who the organisation represents and, where applicable, how the views of members were assembled.
+Freedom of Information
+S0043 Information provided in response to this consultation, including personal information, may be subject to publication or disclosure in accordance with the Freedom of Information Act 2000 (FOIA) or the Environmental Information Regulations 2004.
+S0044 If you want information that you provide to be treated as confidential, please be aware that, under the FOIA, there is a statutory Code of Practice with which public authorities must comply and which deals, amongst other things, with obligations of confidence.
+S0045 In view of this it would be helpful if you could explain to us why you regard the information you have provided as confidential.
+S0046 If we receive a request for disclosure of the information, we will take full account of your explanation, but we cannot give an assurance that confidentiality can be maintained in all circumstances.
+S0047 An automatic confidentiality disclaimer generated by your IT system will not, of itself, be regarded as binding on the Department.
+S0048 The Department will process your personal data in accordance with the Data Protection Act 1998 (DPA) and in the majority of circumstances this will mean that your personal data will not be disclosed to third parties.
+Modern Transport Bill – Ultra Low Emission Vehicle Measures
+Executive Summary
+S0049 1.1 The Queen’s Speech on 18 May 2016 announced the introduction of the Modern Transport Bill (the Bill).
+S0050 Her Majesty set out that the Bill would include measures to ensure that the United Kingdom is at the forefront of technology for new forms of transport, including electric vehicles (EVs).
+S0051 1.2 The Office for Low Emission Vehicles (OLEV) is seeking views on potential measures for inclusion in the Bill that could support the uptake and use of ultra low emission vehicles (ULEVs), including battery and hydrogen fuel cell EVs, and maximise their benefits.
+S0052 1.3 The proposed measures address three challenges of the growing ULEV sector: the consumer experience of using the infrastructure, the interaction of charging infrastructure with the electricity system, and the future provision of infrastructure.
+S0053 1.4
+S0054 The Government considers that primary legislative powers in these areas would allow for targeted regulation to be introduced, if and when necessary, to ensure recharging and refuelling infrastructure is able to meet the future needs of ULEVs and their users.
+S0055 These measures could support growth in the market and will help ensure consumers receive the level of infrastructure provision they require.
+S0056 1.5 A summary of the proposed measures is as follows:
+S0057 Consumer experience of infrastructure a) Power to require operators of publicly accessible chargepoints and
+S0058 hydrogen refuelling stations, and networks, to provide data in an
+S0059 open source format on the geographical location and live availability of charging and refuelling infrastructure b) Power to require operators of publicly accessible chargepoints and
+S0060 hydrogen refuelling stations, and networks, to ensure consumers can use them without the need for multiple memberships c) Power to require operators of publicly accessible chargepoints and
+S0061 hydrogen refuelling stations, and networks, to publish transparent and comparable pricing information d)
+S0062 Power to specify minimum standards of design and functionality for
+S0063 new publicly accessible chargepoints and hydrogen refuelling stations and networks
+S0064 Smart charging - Infrastructure and the electricity system e) Power to require infrastructure installed for the purposes of
+S0065 charging EVs to have 'smart' functionality to receive, understand and respond to signals sent by energy system participants (e.g. Distribution Network Operators (DNOs), energy suppliers, National Grid or other third parties) for the purposes of balancing energy supply and demand, and to require any technological functionality in EVs necessary to ensure ‘smart’ functionality f) Power to require that technical standards used by operators of
+S0066 chargepoints and networks comply with the requirements set out in these measures are available and implemented on an open access basis.
+S0067 This includes making publicly accessible the necessary protocols to allow the charging infrastructure to communicate, understand and respond to signals or grid balancing
+S0068 Provision of infrastructure g) Power to require that operators of motorway service areas (MSAs)
+S0069 ensure a minimum provision of electric and hydrogen fuels for ULEVs at MSAs h) Power to require a minimum provision of electric and hydrogen
+S0070 fuels for ULEVs at large fuel retailers i)
+S0071 Power to franchise hydrogen refuelling
+S0072 1.4
+S0073 The purpose of this consultation is to present the measures we propose introducing into the Bill, the rationale behind them, and invite views and comment from interested parties.
+S0074 1.5
+S0075 This consultation will be of particular interest if you are:
+S0076 a)
+S0077 A current or future owner of an ULEV
+S0078 b) A current or future manufacturer of ULEVs
+S0079 c) Involved in the manufacture, installation or operation of EV
+S0080 chargepoint infrastructure and networks
+S0081 d) Involved in the manufacture, installation or operation of
+S0082 hydrogen vehicle refuelling infrastructure and networks
+S0083 e) Operate a motorway service area or similar public refuelling
+S0084 facility or network
+S0085 f)
+S0086 An energy supplier, aggregator or DNO
+S0087 This consultation may also be of interest to other parties and all are welcome to comment on our proposals.
+S0088 1.6
+S0089 The feedback received through this consultation will be analysed and considered carefully, and used to inform the scope and detail of measures as they are drafted for inclusion in the Bill.
+S0090 Further scrutiny will take place through Parliamentary procedures once the Bill is deposited.
+S0091 The consultation response will also inform consideration of the timings and nature of any secondary legislation brought forward to enact the powers created by the Bill.
+Proposals
+S0092 Consumer experience of infrastructure 1.6 As ULEV uptake increases, so too does the importance of ensuring consumers can rely on a publicly accessible, affordable network of chargepoint and hydrogen refuelling stations right across the UK.
+S0093 1.7 The following powers are proposed for inclusion in the Bill:
+S0094 a) Power to require operators of publicly accessible chargepoints and
+S0095 hydrogen refuelling stations, and networks, to provide data in an open source format on the geographical location and live availability of charging and refuelling infrastructure b) Power to require operators of publicly accessible chargepoints and
+S0096 hydrogen refuelling stations, and networks, to ensure consumers can use them without the need for multiple memberships c) Power to require operators of publicly accessible chargepoints and
+S0097 hydrogen refuelling stations, and networks, to publish transparent and comparable pricing information d)
+S0098 Power to specify minimum standards of design and functionality for
+S0099 new publicly accessible chargepoints and hydrogen refuelling stations and networks 1.8 Data provision of chargepoint and hydrogen refuelling locations: the UK currently has a number of EV chargepoint networks, using different methods for access and payment, and providing varying levels of data informing drivers of their location and live availability.
+S0100 The availability of reliable and comprehensive open source data on public chargepoint and refuelling type, location and access method could improve the charging offer to the consumer.
+S0101 This could include the provision of live (dynamic) data, where it is available.
+S0102 1.9 Interoperability and accessibility of chargepoint and hydrogen refuelling network: At present, there is no UK-wide market solution providing interoperable access to chargepoint infrastructure and different policy options are available that could improve
+S0103 interoperability and accessibility for consumers.
+S0104 Since 2013, OLEV- funded public chargepoints have been required to provide “pay as you go” functionality enabling ad hoc access by drivers who are not members of a network.
+S0105 This gives consumers confidence that publicly funded and publicly accessible chargepoints will be available for use, without the need to join a membership scheme or planning a journey in advance (although these are not precluded).
+S0106 1.10 EV charging is a dynamic and fast moving market with high levels of innovation.
+S0107 To date, industry has been free to determine the “pay as you go” access method for OLEV-funded chargepoints (this has included SMS and mobile applications for example) and there is currently no consensus on the best approach to provide ad hoc access.
+S0108 1.11 Voluntary roaming platforms, or clearing houses, have emerged in other EU countries that can provide a single point of access for consumers to all chargepoint operators on the platform.
+S0109 Platforms enable business-to-business transactions between network operators, connecting back offices to ensure standardised data and payment exchange.
+S0110 Due to the smaller number of networks in the UK, a more suitable approach if needed may be bi-lateral roaming agreements between operators, without the need for a platform or clearing house.
+S0111 1.12 Under the Alternative Fuels Infrastructure Directive (AFID)
+S0112 we are required to mandate ad hoc accessibility, but not the access method.
+S0113 The Bill gives us the opportunity to shape how this element develops.
+S0114 Defining a technical payment solution, or requiring operators to reach commercial agreements under a platform model may be a disproportionate response.
+S0115 We welcome views on whether a more prescriptive approach to ad hoc access methods would be sensible.
+S0116 1.13 Transparent and comparable pricing information for chargepoint and refuelling station access: The Government’s view is that pricing and pricing models are commercial matters for chargepoint and hydrogen refuelling station network operators or host sites.
+S0117 Consumer choice is promoted through market competition.
+S0118 Our proposed approach to transposing the relevant requirements of AFID reflects this.
+S0119 But, we are clear that we do not want to see prohibitive pricing to be a barrier to the uptake of EVs, and will continue to monitor developments closely.
+S0120 1.14 Information for consumers on chargepoint pricing, however, should be easily, consistently or comparably available.
+S0121 Powers to standardise and require this information could help ensure the market meets the needs of consumers.
+S0122 1.15 Standards of design for new chargepoints and refuelling stations: Publicly accessible chargepoint infrastructure offers different outlets and connectors to meet the needs of different ULEVs.
+S0123 AFID imposes a degree of harmonisation, but further powers to ensure minimum technical specifications of EV chargepoint infrastructure may be important as the future market develops.
+S0124 This could help to ensure physical interoperability to enable all EVs, regardless of connector type, to be able to charge on the public networks.
+S0125 It is important, however, to ensure that any minimum specifications are sufficiently flexible to accommodate emerging technologies, and to consider the impacts on business of legislating for minimum standards.
+S0126 It is intended that this measure will provide the flexibility necessary to build upon the level of standardisation mandated by the AFID.
+S0127 Consultation questions 1.
+S0128 What are the costs and benefits of requiring infrastructure operators to provide open (static) data on geographical locations of publicly accessible chargepoints and refuelling points?
+S0129 In what standardised format should this most appropriately be provided?
+S0130 2.
+S0131 Do you agree that live (dynamic) data should also be openly available?
+S0132 What proportion of existing publicly accessible chargepoints and refuelling points have the technical capability to provide information on the live availability of services?
+S0133 3.
+S0134 How could a roaming platform, or bilateral roaming solution between operators be developed to best serve users and operators?
+S0135 Could this be delivered without legislative intervention?
+S0136 4.
+S0137 What are the costs and benefits of requiring EV infrastructure operators to deliver a roaming platform solution for open public access?
+S0138 How could the Government best support this?
+S0139 5.
+S0140 Provision for ad hoc access to publicly accessible chargepoints will be mandated by AFID.
+S0141 Is mandating a minimum specific ad hoc access method for consumers preferable to a roaming platform / bilateral roaming solution in the UK market?
+S0142 If so, should there be a minimum access method that is most appropriate as a minimum standard?
+S0143 6.
+S0144 How should operators of chargepoints and hydrogen refuelling stations and networks best display and make available pricing information for users?
+S0145 7.
+S0146 If required, in what comparable format should the pricing of electricity from a chargepoint and hydrogen from refuelling stations be specified as a minimum?
+S0147 What other relevant regulations / guidance on consumer pricing is already in place, and could this be used for these purposes?
+S0148 Smart charging - Infrastructure and the electricity system 1.16
+S0149 It is proposed that the following powers are included in the Bill:
+S0150 e) Power to require infrastructure installed for the purposes of
+S0151 charging EVs to have 'smart' functionality to receive, understand and respond to signals sent by energy system participants (e.g. DNOs, energy suppliers, National Grid or other third parties) for the purposes of balancing energy supply and demand, and to require any technological functionality in EVs necessary to ensure ‘smart’ functionality f) Power to require that technical standards used by operators of
+S0152 chargepoints and networks comply with the requirements set out in these measures are available and implemented on an open access basis.
+S0153 This includes making publicly accessible the necessary protocols to allow the charging infrastructure to communicate, understand and respond to signals or grid balancing 1.17
+S0154 As the take up of EVs grows, so too will the demand for electricity to charge them.
+S0155 When and where this demand arises will have implications for our energy system.
+S0156 To date, EV owners tend to charge at home and overnight, or at work and during the day.
+S0157 1.18 As they may be plugged in for long periods, EVs hold great potential to “smart charge” - not only receiving the necessary amount of electricity required by the user within the time required, but providing balancing services to the electricity system.
+S0158 This could involve reducing or increasing the power of a charge to balance the system’s frequency, or timing charging to take advantage of off- peak periods.
+S0159 These functions could hold benefits to a range of parties, including consumers, energy suppliers and network operators.
+S0160 Many of these functionalities hold commercial value and could be transferred to consumers through lower energy bills.
+S0161 The Department for Business, Energy and Industrial Strategy (BEIS)
+S0162 has been working with Ofgem on the steps needed to manage the transition to a smart energy system, and plan to publish a call for evidence on a smart systems route map in the near future.
+S0163 1.19 The AFID sets requirements to ensure public charging infrastructure includes communication and intelligent metering functionality.
+S0164 However, these may not be sufficient to ensure chargepoints are able to “smart” charge, and crucially, do not apply to domestic or work place chargepoints.
+S0165 Whilst some existing chargepoints will hold some level of communications and control functionalities, many won’t, and will simply draw power when the car is connected, and it is deemed safe to begin charging.
+S0166 In order to ensure that bill payers can access the benefits of smart charging, it is likely that their chargepoint will need to be able to:
+S0167 a) receive the electronic communications from a third party, so
+S0168 that the chargepoint can be told to adapt its charge
+S0169 b) understand and act on information provided by a third
+S0170 party.
+S0171 This is so the chargepoint can take action in response to a request to adapt a charge, potentially taking account of other parameters such as consumer preferences
+S0172 c) transmit electronic communication to a third party.
+S0173 This is
+S0174 so the chargepoint can inform the third party of its actions after a request
+S0175 d) meter energy usage over time.
+S0176 This is to validate any
+S0177 response to a request to adapt a charge
+S0178 1.20
+S0179 The market for home and public chargepoint infrastructure has grown rapidly, but is still relatively new.
+S0180 Private consumers and businesses purchasing charging infrastructure may not be aware of the likely benefits of smart charging functionality and risk purchasing hardware without the basic functionality that would allow them to access the smart tariffs, or other grid balancing service opportunities in the future.
+S0181 Providing the technical foundations for smart charging capability in our recharging infrastructure may itself aid the development of energy sector players to develop business models for balancing services and presents a strong case for taking powers to set minimum standards to support smart charging.
+S0182 1.21 Evidence from the home appliance sector indicates that the cost of ensuring devices are capable of interpreting signals and adapting devices’ energy use is relatively low. ** (Reference: 2)
+S0183 Government expects that the benefits of ensuring consistent minimum standard functionality to provide smart charging services is a necessary building block to support innovation and ultimately keep downward pressure on costs for electricity bill payers.
+S0184 Without an intervention, there is a risk that additional products would need to be added, or existing chargepoints replaced, in order to provide smart charging services at some point in the near future.
+S0185 1.22 Whilst the Government is committed to ensuring that smart charging services are provided in the future, it is unlikely to specify the precise manner in which chargepoint manufacturers do this (for example, that a chargepoint must contain GPRS communication capability).
+S0186 Government wants to support market led innovation, thereby encouraging the most efficient route to delivering the desired outcome.
+S0187 1.23 Government does not intend to detail the specific requirements for chargepoints in primary legislation.
+S0188 This would follow in secondary legislation following engagement with industry, including through initiatives such as the DNO led Smart EV Project. ** (Reference: 3)
+S0189 However the Government welcomes views on the guiding principles that should inform our approach to developing potential requirements, which are proposed as follows:
+S0190 • open access: open access to allow interoperability of chargepoints and providers for smart charging services is important to underpin a competitive market, allowing owners of chargepoints to switch smart tariffs, or sign up to grid balancing services, without having to change expensive hardware;
+S0191 • data privacy: consumers must be in control of any data exchanged with third parties, such as energy suppliers, aggregators or DNOs, arising from use of the chargepoint with clear consent procedures that will ensure they are able to make informed decisions regarding data sharing;
+S0192 • security: communications between chargepoints and third parties providing smart charging services must be secure, and must not represent a risk consumers or to grid stability (e.g. through cyber attacks);
+S0193 • energy consumption: we would expect the additional energy consumption arising from the ability to respond to signals to be negligible (including additional energy consumption of any associated hardware in the premises).
+S0194 1.24 The Government considers that the benefits of ensuring consistent minimum standard functionality to provide smart charging services, as necessary building blocks.
+S0195 Without an intervention, there is a risk that additional products would need to be added, or existing chargepoints replaced, in order to provide smart charging services.
+S0196 1.25 With a bi-directional chargepoint, some EVs are capable of discharging their battery back into a home, business or the grid.
+S0197 The Government is working to support the development of this market but is unlikely to require bidirectional functionality as part of smart charging requirements.
+S0198 The Government does however intend to draw the scope of primary powers wide enough such that smart charging requirements could extend to directional functionality in the future.
+S0199 1.26 It is the Government’s current intention that requirements would apply on sale and installation of new chargepoints, so that from a prescribed date, all chargepoints sold to business and consumers, or installed by chargepoint installers, would need to meet the required standard.
+S0200 This is because retailers will be in a strong position to understand the functionalities of the products that they sell, and installers are already used to ensuring compliance with a range of regulatory requirements, and will likely be the key conduit for consumers making purchasing decisions.
+S0201 1.27 An alternative approach would be to place the requirements on the manufacturers of chargepoints, however this could only bind UK based manufacturers, leaving those outside the UK able to produce products to different standards and supply these to the UK market.
+S0202 This would cause complications in ensuring compliance and risk creating an uneven playing field between those manufacturing in the UK, and those elsewhere.
+S0203 Applying the requirement on operators would also miss out those chargepoints that do not entail any ongoing operator relationship.
+S0204 Consultation questions
+S0205 8.
+S0206 Do you agree that the Government should take powers to allow for new technical standards to support smart charging?
+S0207 9.
+S0208 Do you agree that that technical standard requirements would best apply on sale and installation of a chargepoint?
+S0209 10.
+S0210 What could the direct costs of this capability be, and on which party are they likely to fall?
+S0211 11.
+S0212 Are there any other regulatory or non-regulatory ways by which widespread smart charging capability could be achieved?
+S0213 12.
+S0214 Do you have any other comments on government’s proposed intervention in this area?
+S0215 Provision of Infrastructure 1.28 It is proposed that the following powers are included in the Bill:
+S0216 g) Power to require that operators of motorway service areas (MSAs)
+S0217 ensure a minimum provision of electric and hydrogen fuels for ULEVs at MSAs h) Power to require a minimum provision of electric and hydrogen
+S0218 fuels for ULEVs at large fuel retailers
+S0219 i) Power to franchise hydrogen refuelling 1.29
+S0220 Almost all Motorway Service Areas (MSAs) are currently equipped with at least one EV chargepoint.
+S0221 As EVs uptake grows, it will be important to ensure that there is sufficient and accessible recharging infrastructure to meet the needs of drivers at MSAs, for use when they are undertaking longer journeys, and to ensure drivers are not stranded.
+S0222 It is proposed that MSA operators would be responsible for ensuring this provision of chargepoint infrastructure.
+S0223 1.30 The provision of chargepoints at fuel retailers more widely is not so far advanced.
+S0224 As uptake of EVs increases and they enter the mass market, the provision of charging infrastructure at fuel retailers could provide a convenient facility for EV motorists, comparable with refuelling of petrol or diesel vehicles, and a highly visible network for those still considering switching to an EV.
+S0225 Given the variety of businesses currently retailing vehicle fuel, we propose that the measure be restricted to those above a certain size.
+S0226 This could be defined in a number of ways, including turnover, vehicle
+S0227 throughput, and/or volume of fuel sold.
+S0228 Supermarkets and oil companies currently own 30% of UK petrol stations with 60% of market share by volume, and it may be appropriate to focus the requirements on those rather than independent or dealer-owned forecourts.
+S0229 1.31 To replicate current expectations of petrol and diesel refuelling, it may be appropriate for these chargepoints to be available 24 hours a day, with supporting back office functions.
+S0230 It is proposed that fuel retailers will be the party responsible for delivering this measure.
+S0231 1.32 With regard to hydrogen refuelling, the UK H2 Mobility (UKH2M) project analysed the opportunity for hydrogen for transport in the UK.
+S0232 Its Phase 1 report concluded that an initial network of 65 hydrogen refuelling stations would be sufficient to enable nationwide roll-out of hydrogen fuel cell EVs (FCEVs). ** (Reference: 4)
+S0233 UKH2M projected that this would grow to around 330 stations by 2025 and 1,150 stations by 2030, providing an improved consumer refuelling offer and supporting a larger fleet.
+S0234 UKH2M concluded that investment in early refuelling infrastructure was not a commercial proposition due to low utilisation and lack of any first mover advantage.
+S0235 1.33 In line with international studies such as the EU Fuel Cell and Hydrogen Joint Undertaking’s roadmap for financing hydrogen refuelling networks, UKH2M concluded that there were three distinct phases in the development of the market for hydrogen refuelling infrastructure. ** (Reference: 5)
+S0236 i)
+S0237 A Market Seeding phase to 2020, where the combination of high capital costs and low utilisation due to the small initial fleet size make commercial investment not viable.
+S0238 Public funding is therefore required to bring forward the early refuelling network and enable vehicle deployment and market growth
+S0239 ii)
+S0240 An Investing in Growth phase to 2025, where growth in the network follows increasing demand, but operation of stations remains unprofitable as the fleet size is still small, though developing fleet size.
+S0241 Over their lifetime, stations built in this period will be profitable over their lifetime provided that the fleet
+S0242 develops as projected.
+S0243 However, measures are likely to be required to provide investor confidence in this phase
+S0244 iii)
+S0245 The emergence of a Developed Market in the 2025 to 2030 period, where hydrogen demand is high enough and growing strongly enough to make investment in hydrogen refuelling infrastructure a genuine commercial proposition
+S0246 1.34 Government is investing in the Market Seeding phase through its Hydrogen for Transport Advancement Programme.
+S0247 However, ongoing public funding of hydrogen refuelling infrastructure beyond 2020 is unlikely to be viable.
+S0248 Government is therefore considering options to provide confidence to secure private investment during the Investing in Growth phase.
+S0249 1.35 These options include mandating provision of hydrogen refuelling at fuel retail forecourts where appropriate, MSAs or other strategic locations, and conferring first mover advantage to early investors by granting time-limited regional franchises for hydrogen refuelling.
+S0250 1.36 New primary legislative powers would be needed to bring forward regulations for either of these approaches.
+S0251 Consultation questions 13.
+S0252 What provision of fuel for EVs at Motorway Service Areas, and at fuel retailers, is necessary now, and desirable in the short, mid and long-term futures?
+S0253 This might include recharging infrastructure for battery electric vehicles, and/or hydrogen refuelling for fuel cell electric vehicles.
+S0254 14.
+S0255 Can provision of fuel for EVs at Motorway Service Areas, and at fuel retailers, be improved by non-regulatory means?
+S0256 15.
+S0257 What standards of provision and availability should be provided by EV infrastructure at Motorway Service Areas, and at fuel retailers?
+S0258 16.
+S0259 What would the impacts of mandatory provision of fuel for EVs be on Motorway Service Areas and fuel retailers, and how might this vary between different sizes and types of fuel retailer?
+S0260 17.
+S0261 Should provision just be required at some fuel retailers, and how should they best be differentiated?
+S0262 18.
+S0263 Are there any other strategic sites might it be appropriate to require provision of fuel for EVs?
+S0264 For example, train stations, bus stations, public carparks, retail/leisure developments, hospitals,
+S0265 educational establishments.
+S0266 For any such locations, who should be responsible for providing the fuel for EVs?
+S0267 19.
+S0268 Would granting franchises for hydrogen refuelling infrastructure help attract investment?
+Enforcement
+S0269 1.37 The following approach has been identified as the preferred method for ensuring the potential regulations introduced through powers in the Bill are adhered to.
+S0270 This sets out the proposed approach at a relatively high level, and will be refined at the point where secondary legislation is introduced to implement the Bill’s powers:
+S0271 • The Secretary of State for Transport will be designated as responsible for enforcing the regulatory requirements • An executive agency of DfT will be identified to manage and administer enforcement of the regulations including the regular compliance checking •
+S0272 The Infrastructure Operator, fuel retailer and motorway service operator will be subject to a penalty if any of the requirements set out in the Statutory Instrument arising out of the powers under the Modern Transport Bill are not met • Non-compliance will result in a formal written warning and a limited time in which to correct the issue •
+S0273 The next stage will see a civil penalty notice issued.
+S0274 This will take the form of a financial penalty, the size of which will be scaled according to the cost of purchasing the particular infrastructure equipment subject to the penalty notice, and the degree of negative impact non-compliance is likely to have on consumers •
+S0275 Where a breach relates to the accessibility of data a suitable calculation to determine the level of civil penalty will be determined • Fines will be paid to the Consolidated Fund, with a specified deadline in which to pay or object •
+S0276 Upon payment of a civil penalty compliance will be re-checked.
+S0277 Should it be found that the necessary remedial action has not been taken a new penalty notice will be issued and the process will start again •
+S0278 Offenders will have the opportunity to object to the administrating agency against any penalties in the first instance, and then on appeal to the High Court
+S0279 Consultation questions
+S0280 20.
+S0281 Do you agree this method of enforcement is proportionate to potential offences?
+S0282 21.
+S0283 Are there other measures, that alongside enforcement, the Government should consider to encourage compliance?
+S0284 If so please explain your views.
+S0285 22.
+S0286 What appropriate factors should be taken into account when determining the level of civil penalty which should be levied for non-compliance with data accessibility requirements?
+Consultation questions
+S0287 Consumer experience of infrastructure:
+S0288 1.
+S0289 What are the costs and benefits of requiring infrastructure operators to provide open (static) data on geographical locations of publicly accessible chargepoints and refuelling points?
+S0290 In what standardised format should this most appropriately be provided?
+S0291 2.
+S0292 Do you agree that live (dynamic) data should also be openly available?
+S0293 What proportion of existing publicly accessible chargepoints and refuelling points have the technical capability to provide information on the live availability of services?
+S0294 3.
+S0295 How could a roaming platform, or bilateral roaming solution between operators be developed to best serve users and operators?
+S0296 Could this be delivered without legislative intervention?
+S0297 4.
+S0298 What are the costs and benefits of requiring EV infrastructure operators to deliver a roaming platform solution for open public access?
+S0299 How could the Government best support this?
+S0300 5.
+S0301 Provision for ad hoc access to publicly accessible chargepoints will be mandated by AFID.
+S0302 Is mandating a minimum specific ad hoc access method for consumers preferable to a roaming platform / bilateral roaming solution in the UK market?
+S0303 If so, should there be a minimum access method that is most appropriate as a minimum standard?
+S0304 6.
+S0305 How should operators of chargepoints and hydrogen refuelling stations and networks best display and make available pricing information for users?
+S0306 7.
+S0307 If required, in what comparable format should the pricing of electricity from a chargepoint and hydrogen from refuelling stations be specified as a minimum?
+S0308 What other relevant regulations / guidance on consumer pricing is already in place, and could this be used for these purposes?
+S0309 Smart charging – Infrastructure and the electricity system:
+S0310 8.
+S0311 Do you agree that the Government should take powers to allow for new technical standards to support smart charging?
+S0312 9.
+S0313 Do you agree that that technical standard requirements would best apply on sale and installation of a chargepoint?
+S0314 10.
+S0315 What could the direct costs of this capability be, and on which party are they likely to fall?
+S0316 11.
+S0317 Are there any other regulatory or non-regulatory ways by which widespread smart charging capability could be achieved?
+S0318 12.
+S0319 Do you have any other comments on government’s proposed intervention in this area?
+S0320 Provision of infrastructure:
+S0321 13.
+S0322 What provision of fuel for EVs at Motorway Service Areas, and at fuel retailers, is necessary now, and desirable in the short, mid and long-term futures?
+S0323 This might include recharging infrastructure for battery electric vehicles, and/or hydrogen refuelling for fuel cell electric vehicles.
+S0324 14.
+S0325 Can provision of fuel for EVs at Motorway Service Areas, and at fuel retailers, be improved by non-regulatory means?
+S0326 15.
+S0327 What standards of provision and availability should be provided by EV infrastructure at Motorway Service Areas, and at fuel retailers?
+S0328 16.
+S0329 What would the impacts of mandatory provision of fuel for EVs be on Motorway Service Areas and fuel retailers, and how might this vary between different sizes and types of fuel retailer?
+S0330 17.
+S0331 Should provision just be required at some fuel retailers, and how should they best be differentiated?
+S0332 18.
+S0333 Are there any other strategic sites might it be appropriate to require provision of fuel for EVs?
+S0334 For example, train stations, bus stations, public carparks, retail/leisure developments, hospitals, educational establishments.
+S0335 For any such locations, who should be responsible for providing the fuel for EVs?
+S0336 19.
+S0337 Would granting franchises for hydrogen refuelling infrastructure help attract investment?
+S0338 Enforcement:
+S0339 20.
+S0340 Do you agree this method of enforcement is proportionate to potential offences?
+S0341 21.
+S0342 Are there other measures, that alongside enforcement, the Government should consider to encourage compliance?
+S0343 If so please explain your views.
+S0344 22.
+S0345 What appropriate factors should be taken into account when determining the level of civil penalty which should be levied for non-compliance with data accessibility requirements?
+What will happen next?
+S0346 A summary of responses, including the next steps, will be published within three months of the consultation closing on 23 November.
+S0347 Paper copies will be available on request.
+Annex A Consultation principles
+S0348 The consultation is being conducted in line with the Government's key consultation principles which are listed below.
+S0349 Further information is available on the Better Regulation Executive website at https://www.gov.uk/government/publications/consultation-principles- **(Link: 7) guidance **(Link: 8) If you have any comments about the consultation process please contact:
+S0350 Consultation Co-ordinator Department for Transport Zone 1/29
+S0351 Great Minster House London SW1P 4DR Email consultation@dft.gsi.gov.uk **(Link: 9)
+S0352 Please do not send consultation responses to this address.

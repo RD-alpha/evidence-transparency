@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "Consequences of incompetent social work",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Weaknesses in current regulation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "themes": [
+    {
+      "name": "Rules for changing licensing Administration",
+      "ids": [
+        "S0057",
+        "S0058",
+        "S0059",
+        "S0060",
+        "S0061",
+        "S0062",
+        "S0063",
+        "S0132",
+        "S0133",
+        "S0134",
+        "S0135",
+        "S0136",
+        "S0137",
+        "S0138",
+        "S0139"
+      ]
+    },
+    {
+      "name": "Further Administration talks on the economic link condition",
+      "ids": [
+        "S0071"
+      ]
+    },
+    {
+      "name": "Administration-specific FQA transfer rules with transitional assumptions",
+      "ids": [
+        "S0080",
+        "S0142",
+        "S0189",
+        "S0190",
+        "S0191"
+      ]
+    },
+    {
+      "name": "Paragraph-by-paragraph consequential amendments",
+      "ids": [
+        "S0085",
+        "S0086",
+        "S0087",
+        "S0089",
+        "S0090",
+        "S0091",
+        "S0092"
+      ]
+    },
+    {
+      "name": "Concordat structure and governance",
+      "ids": [
+        "S0034",
+        "S0035",
+        "S0036",
+        "S0117"
+      ]
+    },
+    {
+      "name": "Foundational principles and vessel licensing conditions",
+      "ids": [
+        "S0121",
+        "S0122",
+        "S0123",
+        "S0124",
+        "S0125",
+        "S0126",
+        "S0127",
+        "S0130",
+        "S0140",
+        "S0141",
+        "S0147",
+        "S0148",
+        "S0149"
+      ]
+    },
+    {
+      "name": "Quota allocation and management",
+      "ids": [
+        "S0152",
+        "S0153",
+        "S0154",
+        "S0155",
+        "S0156",
+        "S0157",
+        "S0158",
+        "S0159",
+        "S0160",
+        "S0161",
+        "S0162",
+        "S0165",
+        "S0166",
+        "S0167",
+        "S0168",
+        "S0169",
+        "S0170",
+        "S0171"
+      ]
+    },
+    {
+      "name": "FQA register and transfer restrictions",
+      "ids": [
+        "S0174",
+        "S0176",
+        "S0179",
+        "S0180",
+        "S0181",
+        "S0183",
+        "S0184",
+        "S0185",
+        "S0186",
+        "S0187",
+        "S0193"
+      ]
+    },
+    {
+      "name": "Producer Organisations",
+      "ids": [
+        "S0196"
+      ]
+    },
+    {
+      "name": "Effort allocation and enforcement",
+      "ids": [
+        "S0201",
+        "S0202",
+        "S0203",
+        "S0204",
+        "S0207",
+        "S0208",
+        "S0211",
+        "S0212",
+        "S0215",
+        "S0216",
+        "S0218",
+        "S0221"
+      ]
+    },
+    {
+      "name": "Crown Dependencies and Islands",
+      "ids": [
+        "S0224",
+        "S0225"
+      ]
+    },
+    {
+      "name": "Administration discretion and case-by-case arrangements",
+      "ids": [
+        "S0078",
+        "S0079",
+        "S0144",
+        "S0145"
+      ]
+    }
+  ]
+}

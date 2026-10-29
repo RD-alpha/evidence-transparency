@@ -1,0 +1,57 @@
+{
+  "title": "Inclusive assessment for primary school pupils",
+  "alias": "primary_assessment_rochford",
+  "uploaded_at": "2026-10-13T15:01:04.471642+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "15:01:04 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "rochford_1",
+      "title": "Inclusive assessment for primary school pupils (source 1)",
+      "sentence_count": 209,
+      "first_sentence": "S0001",
+      "last_sentence": "S0209",
+      "reference_count": 7,
+      "first_reference": "1",
+      "last_reference": "7",
+      "link_count": 25
+    },
+    {
+      "alias": "rochford_2",
+      "title": "Inclusive assessment for primary school pupils (source 2)",
+      "sentence_count": 527,
+      "first_sentence": "S0210",
+      "last_sentence": "S0736",
+      "reference_count": 15,
+      "first_reference": "8",
+      "last_reference": "22",
+      "link_count": 6
+    },
+    {
+      "alias": "rochford_3",
+      "title": "Inclusive assessment for primary school pupils (source 3)",
+      "sentence_count": 299,
+      "first_sentence": "S0737",
+      "last_sentence": "S1035",
+      "reference_count": 4,
+      "first_reference": "23",
+      "last_reference": "26",
+      "link_count": 6
+    },
+    {
+      "alias": "rochford_4",
+      "title": "Inclusive assessment for primary school pupils (source 4)",
+      "sentence_count": 179,
+      "first_sentence": "S1036",
+      "last_sentence": "S1214",
+      "reference_count": 21,
+      "first_reference": "27",
+      "last_reference": "47",
+      "link_count": 9
+    }
+  ],
+  "appendix2_date": "30 March 2017; 19 October 2016; 14 September 2017; 14 September 2017",
+  "appendix2_type": "consultation + independent review + government consultation response + equalities Impact Assessment (combined in Appendix order)",
+  "extraction_note": "PDF table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

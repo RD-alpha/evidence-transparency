@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "theme": "Policy Objectives and Rationale for Intervention",
+      "reason": "States the core objectives (maintain fire safety, reduce FR use, cut business costs, improve traceability) that justify government intervention; without this rationale there is no stated case for why the proposal is needed.",
+      "weight": "core"
+    },
+    {
+      "theme": "Options Appraisal and Preferred Option",
+      "reason": "Directly addresses the should-explain point of what other options were considered and why Option 1 was chosen over doing nothing or revoking the regulations; removing this leaves no justification for selecting this particular intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation Process and Stakeholder Views",
+      "reason": "Shows how the evidence base was assessed and revised in light of stakeholder feedback, explaining what was tried before (2014 consultation) and whether it worked, which is essential to the argument's credibility and evolution.",
+      "weight": "core"
+    },
+    {
+      "theme": "Technical Design of the Match and Cigarette Tests",
+      "reason": "Describes the actual content of the chosen intervention (the new match test and removal of the cigarette test); this is the proposal itself and the case cannot stand without specifying what is being proposed.",
+      "weight": "core"
+    },
+    {
+      "theme": "Costs to Business",
+      "reason": "Provides the estimated costs of the proposal, directly addressing the should-explain requirement on costs and benefits; without this the cost side of the justification is missing.",
+      "weight": "core"
+    },
+    {
+      "theme": "Benefits and Cost Savings from Reduced Flame Retardant Use",
+      "reason": "Provides the quantified benefits (FR savings, cigarette test removal savings, health/environmental gains) that justify the preferred option economically; essential to the costs/benefits should-explain point.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope of Regulations and Routes to Compliance",
+      "reason": "Details secondary design choices (interliners, baby product exclusion) that elaborate the proposal but are not essential to the central argument for why this intervention was chosen.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Small Business Impacts",
+      "reason": "Addresses a subsidiary equity consideration about SME cost burden, bearing on the should-explain point about costs but not a central support of the overall case.",
+      "weight": "not core"
+    },
+    {
+      "theme": "EU and International Standards Comparison",
+      "reason": "Provides contextual justification for exceeding EU minimum standards but is background comparison rather than a core pillar of the proposal's rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Methodology for Estimating Fabric and Flame Retardant Usage",
+      "reason": "Supplies technical detail underpinning the benefit calculations but is supporting methodology rather than a core argumentative pillar; the benefits case could stand without this granular detail.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Modern Languages A Level",
+  "alias": "modern_languages_a_level",
+  "uploaded_at": "2026-09-29T11:58:23.676649+01:00",
+  "uploaded_date": "2026-09-29",
+  "uploaded_time": "11:58:23 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "draft_content",
+    "type_listed_in_2018_appendix": "consultation + draft subject content",
+    "matches_2018_listed_source": "no",
+    "basis": "Draft AS/A level subject content text; no consultation invitation language found in the ingested text. The ingested text is subject content for AS/A level modern languages, not the listed draft content for languages with smaller cohorts (17% overlap).",
+    "source_check": "Listed document(s) retrieved on 2026-10-08 and compared with the ingested text: 17% found in the listed draft content for languages with smaller cohorts (Dec 2016); 1% in the listed consultation."
+  }
+}

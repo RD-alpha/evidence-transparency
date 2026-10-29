@@ -1,0 +1,58 @@
+[
+  {
+    "number": "1",
+    "url": "https://forms.dft.gov.uk/",
+    "text": "https://forms.dft.gov.uk",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "1"
+  },
+  {
+    "number": "2",
+    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "text": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "2"
+  },
+  {
+    "number": "3",
+    "url": "mailto:psi@nationalarchives.gsi.gov.uk",
+    "text": "psi@nationalarchives.gsi.gov.uk",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "3"
+  },
+  {
+    "number": "4",
+    "url": "mailto:night.flights@dft.gsi.gov.uk",
+    "text": "night.flights@dft.gsi.gov.uk",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "1"
+  },
+  {
+    "number": "5",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/66837/consultation-document.pdf",
+    "text": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/66837/consultation-document.pdf",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "2"
+  },
+  {
+    "number": "6",
+    "url": "http://www.laermstudie.de/en/glossary/?tx_contagged%5Bsource%5D=default&tx_contagged%5Buid%5D=120&tx_contagged%5BbackPid%5D=334&cHash=948e7bc189baf13a28055e88c1767271",
+    "text": "(Noise-Related",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "3"
+  },
+  {
+    "number": "7",
+    "url": "https://www.gov.uk/government/publications/webtag-tag-unit-a3-environmental-impact-appraisal-december-2015",
+    "text": "https://www.gov.uk/government/publications/webtag-tag-unit-a3-environmental-impact-appraisal-december-2015",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "4"
+  }
+]

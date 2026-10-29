@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Barnett convergence threatens fair funding",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tax devolution requires new funding arrangements",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Borrowing powers and fiscal flexibility",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "New tax powers under the Wales Act 2014",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

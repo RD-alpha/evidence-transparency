@@ -1,0 +1,65 @@
+{
+  "themes": [
+    {
+      "name": "Hidden ownership enabling corruption and money laundering",
+      "ids": [
+        "S0138",
+        "S0139",
+        "S0161",
+        "S0162",
+        "S0163",
+        "S0164",
+        "S0166",
+        "S0167",
+        "S0168",
+        "S0169"
+      ]
+    },
+    {
+      "name": "Regulatory gap for overseas entities",
+      "ids": [
+        "S0181",
+        "S0938"
+      ]
+    },
+    {
+      "name": "Dysfunction in the property market from opacity",
+      "ids": [
+        "S0174",
+        "S0176"
+      ]
+    },
+    {
+      "name": "Risk of harm from public disclosure",
+      "ids": [
+        "S0839",
+        "S0844"
+      ]
+    },
+    {
+      "name": "Context: UK company transparency framework",
+      "ids": [
+        "S0127",
+        "S0128",
+        "S0129",
+        "S0130",
+        "S0132",
+        "S0133",
+        "S0134",
+        "S0135",
+        "S0136"
+      ]
+    },
+    {
+      "name": "Context: UK investment attractiveness",
+      "ids": [
+        "S0140",
+        "S0141",
+        "S0156",
+        "S0157",
+        "S0158",
+        "S0159"
+      ]
+    }
+  ]
+}

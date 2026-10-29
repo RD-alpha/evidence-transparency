@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Benchmarks and legislation for independent schools",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 1-3 describe proposed benchmarks and possible legislation, offering no statistic, finding or source that they will work or why they are sized this way, and no references are attached."
+    },
+    {
+      "theme": "Fair access guidance for universities",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 1-7 set out guidance, a February 2016 precedent and the DfA's existing power to refuse renewal, which describe the mechanism and rules but give no evidence that sponsorship conditions will work or why this route was chosen."
+    },
+    {
+      "theme": "Accountability and sanctions for selective and faith schools",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 1-10 list sanctions, application scrutiny and intervention powers as measures to be considered, with no evidence, citation or primary data showing they will work as intended."
+    },
+    {
+      "theme": "Establishing new selective schools and local demand",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 1-6 describe the application process and say a consultation on weighting factors is coming, but the belief that geography and prior selection matter is asserted without evidence and no method for deciding is evidenced."
+    }
+  ],
+  "reasoning": "The three core themes are benchmarks for independent schools, fair access guidance for universities, and sanctions for selective and faith schools. Each scores level 0, giving a mean of 0 and a section score of 0. All of them describe what the department will do, not why this delivery method was chosen. The independent schools theme says \"We propose to set new benchmarks that independent schools are expected to meet, in line with their size and capacity\", but offers no data on what benchmarks are feasible or effective, and no references. The university theme is the most detailed. It cites the February 2016 guidance to the DfA and notes that the DfA \"already possesses the ability to refuse to renew an Access Agreement\". These lines describe current rules and procedure. They are not evidence that tying fees to school sponsorship will create good school places. The sanctions theme lists removal of funding, selection rights and growth, but gives no experience of comparable sanctions or any analysis of their effect. The strongest counter-example is the university theme's timetable and its account of the DfA's powers. It is clear and specific, but it is description of the rules and not evidence of effectiveness, so it stays at 0. No alternatives to these methods are discussed, and no costs or benefits are estimated. To reach level 1 the document would need to offer some evidence, such as research, data or the record of comparable schemes, and explain how it supports these delivery choices. Citing it would be needed for level 2.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

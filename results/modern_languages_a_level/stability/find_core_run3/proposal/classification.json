@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "name": "Modern languages as academically rigorous and interdisciplinary",
+      "ids": [
+        "S0004"
+      ]
+    },
+    {
+      "name": "Transferable skills and wider value",
+      "ids": [
+        "S0005"
+      ]
+    },
+    {
+      "name": "Universal relevance and progression route",
+      "ids": [
+        "S0006",
+        "S0007"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Linking State Pension age to life expectancy for fairness between generations",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The 32% principle is backed by a cited figure (Reference 1/18/38/39: 31.3% vs the 1992-2016 average) and the \u00a374bn saving, but the pensioner-poverty claim is uncited, the 25-year benchmark is asserted without a source, and the DWP modelling method is only partly described."
+    },
+    {
+      "theme": "Rise to 68 in 2037-39 as the chosen timetable",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The \u00a374bn saving, \u00a311bn difference and \u00a3400-per-household figure are linked to the choice with the Table A.1 breakdown and method notes (References 37, 43, 44, plus 36), and the document does the assessing by acknowledging that spending still rises substantially and that the effects on working-age benefits and tax receipts are not estimated."
+    },
+    {
+      "theme": "Universal State Pension age",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only the ONS life-expectancy trend data (Reference 40) is cited; the Pensions Policy Institute analysis, Cridland's findings on variation and the 'no workable ways' claim are uncited, and the rest of the case is reasoning."
+    },
+    {
+      "theme": "Deferring decisions beyond 68 and confirming the rise",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The theme says projections are uncertain and that the next rise will not reach 32%, but it cites no data, source or finding for that uncertainty, so it is mostly reasoning and commitment, and the uncertainty is not assessed."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "This theme has cited evidence (References 15, 16, 33 on GDP and employment effects; 3/4 on lifetime receipt), but the Reference 16 pointer is generic and some claims, such as the \u00a320bn and 1% GDP figures, are uncited, and it does not weigh the strengths or weaknesses of this evidence."
+    }
+  ],
+  "reasoning": "The four core themes score 1, 2, 1 and 0, a mean of 1.0, so the section scores 1. The strongest theme is the chosen timetable. It links the proposal to the cost estimates in specific lines: \"An increase to 68 in 2037\u201339 would save \u00a374bn by 2045/46\", with Table A.1 giving year-by-year expenditure and References 43, 44 and 37 explaining the modelling basis, the FSR assumptions and the household calculation. The document also admits that \"overall this still involves a substantial rise in spending\" and that the effects on working-age benefits and tax receipts have not been estimated, which stops it short of full assessment. The fairness theme rests on one cited calculation (31.3% against the 1992-2016 average, References 1/18/38/39), while the claim that lower pensions would raise pensioner poverty is uncited and the 25-year benchmark is simply asserted. The universal-age theme cites only ONS trend data (Ref 40); the Pensions Policy Institute analysis on lifetime receipts is named without a reference. The deferral theme offers reasoning about uncertain projections with no data. The strongest counter-example to a score of 1 is the timetable theme at level 2, which suggests the section could score higher. To reach level 2, the document would need to cite and link evidence for the poverty claim, the universal-age arguments and the projection uncertainty. To reach level 3, it would need to assess the quality and limits of the evidence behind these claims, including the contradictory evidence on disadvantaged groups.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,75 @@
+Your task is to classify every sentence in this chunk of a policy document into exactly one category.
+
+This chunk is a continuation of a document you have already been classifying. It is not the start of the document, and it may begin or end mid-argument. Sentences before this chunk have already been classified separately and are not shown to you again - do not try to reclassify them, and do not assume this chunk contains the document's opening framing.
+
+The policy intervention and the problem it addresses have already been determined from an earlier chunk of this document. Use them as fixed anchors for every classification below - do not restate, revise or re-derive them:
+- Policy intervention: {intervention_description}
+- Problem it addresses: {problem_description}
+
+Every decision below is made relative to these two anchors.
+
+Categories:
+A: Diagnosis - what is the problem this policy seeks to address, what are its causes, scale and effects, and what is the evidence that supports this.
+B: Proposal - the exact policy intervention, why it has been chosen, what evidence this choice is based on, what costs and benefits are associated with the intervention, whether it has been tried before and whether it worked, why this was chosen over another intervention, and the costs and benefits estimated for the intervention.
+C: Implementation - how this particular intervention will be rolled out, the evidence that this implementation is the right one, why other methods have not been chosen, what the method is for deciding how to implement something if not yet decided, and what the costs and benefits of that decision are.
+D: Testing and evaluation - how policymakers will collect and evaluate the evidence for the success of this policy.
+None: use this if no category above is appropriate for the sentence.
+
+The central test: what is this sentence evidence FOR?
+
+Most sentences in a policy document carry a fact, a number, or a finding. The category is decided by which claim that fact is being used to support, not by the fact itself. Ask: if this sentence were deleted, which claim would get weaker?
+
+- "this problem exists, and it is this large, and this is what causes it" -> A
+- "this intervention is the right response to that problem" -> B
+- "this is the right way to roll that intervention out" -> C
+- "we will find out whether it actually worked" -> D
+
+Apply this test first, before anything else. A sentence is not category A merely because it contains a statistic, and not category D merely because it mentions evidence, a trial or a review.
+
+Rules:
+1. Classify factual statements. Value statements should only be classified insofar as they demonstrate a political rather than evidence-based choice. Do not classify platitudes or aspirations as A-D - mark them None.
+2. Read the whole chunk before classifying any sentence, so that later classifications are consistent with earlier ones.
+3. Evidence about whether people want, support, accept or would comply with the intervention is B, not A. It is evidence for the choice of intervention, not evidence that the problem exists.
+4. The direction of time separates A/B from D. Evidence already gathered - including pilots, trials, consultations, reviews and studies that informed this decision - belongs to the case being made, so it is A or B. D is only for evidence still to be collected, after this policy takes effect, to judge whether this policy worked.
+5. Document furniture is None: titles, copyright and licensing text, contact details, contents listings, and sentences whose only function is to signpost what a later section will say.
+6. If a sentence still fits more than one category after the test above, classify it by what the sentence most directly does (states a problem, states a choice, states a rollout detail, states an evaluation plan) rather than by which category's vocabulary it echoes.
+7. This chunk may introduce a new sub-intervention, a secondary problem, or supporting detail not covered by the anchors above. Classify such sentences using the same A-D test against the closest applicable anchor; do not invent a new intervention or problem statement in your output.
+
+Examples:
+
+For the policy intervention of raising the State Pension age to 68 in 2028
+
+Sentence: "The demographic shift described above means that we will need to spend more on the State Pension in decades to come."
+Category: A
+Why: states the problem (increased spending) and the cause (demographic shift).
+
+Sentence: "This had risen to around 21 years by 2007, or 32% of their adult life, when further legislation was introduced to increase State Pension age."
+Category: A
+Why: provides data (21 years by 2007) to support the claim for the cause (increasing life expectancy)
+
+Sentence: "The Government intends to follow the recommendation John Cridland made in his independent review to increase the State Pension age from 67 to 68 in 2037-39 , bringing it forward by seven years from its current legislated date of 2044-46."
+Category: B
+Why: states the policy intention
+
+Sentence: "It will save £74 billion to 2045/46 when compared to current plans, and more than £250 billion to 2045/46 when compared with capping the rise in State Pension age at 66 in 2020."
+Category: B
+Why: Provides evidence for the costs and benefits of the intervention
+
+Sentence: "We will also seek to provide a minimum of ten years' notice for individuals affected by changes to their State Pension age."
+Category: C
+Why: a concrete detail of how the policy will be rolled out (notice period), not why it was chosen.
+
+Sentence: "The Government Actuary's report provides indicative timetables on when State Pension age should rise to take account of projected increases in life expectancy."
+Category: C
+Why: a data source (Government Actuary's report) concerning evidence on which the rollout of the policy will be based on.
+
+Sentence: "We will ensure that we have made the right choice by carrying out a further review before bringing forward the rise in State Pension age to 68, to enable consideration of the latest life expectancy projections and to allow us to evaluate the effects of current rises in State Pension age."
+Category: D
+Why: describes a planned review whose purpose is to evaluate the policy's effects.
+
+Sentence: "I want Britain to be the best country in the world in which to grow old, where everyone enjoys the dignity and security they deserve in retirement."
+Category: None
+Why: an aspirational/value statement with no factual claim about problem, mechanism, implementation, or testing.
+
+Output:
+Do not restate the policy intervention or problem - they are already fixed above. Provide only the classification of every sentence in this chunk as a list of sentence codes with their category, encoded in the structured json output.

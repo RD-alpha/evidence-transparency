@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "SARs reform programme and delivery",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines such as \"The Government has commenced a SARs reform programme\" and \"those who will benefit from the new IT system should share the costs\" assert the delivery route with no evidence, though the s314 USA PATRIOT Act mention is only a pointer to learn from, not evidence of why this route was chosen."
+    },
+    {
+      "theme": "Action Plan actions, leads and deadlines",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The numbered actions 1-19 with leads and dates are descriptions of what will be done and offer no evidence for why these leads, deadlines or methods were chosen."
+    },
+    {
+      "theme": "Supervisory review and consultation process",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The Call for Information at Annex C (six-week response period), the Cutting Red Tape Review input and the stated options to be considered set out a method for deciding, but no reference or link is given and the extent of evidence gathered is unspecified, so it stays at level 1."
+    },
+    {
+      "theme": "Consultation questions on SARs and information sharing",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The questions on moving to entity focus, removing consent regime and learning from s314 USA PATRIOT Act show a method for deciding and say it will \"ensure evidence-based policy decisions\", but no evidence is yet presented and nothing is cited."
+    },
+    {
+      "theme": "Consultation questions on asset forfeiture and new powers",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The questions on forfeiture, unexplained wealth and s311 USA PATRIOT Act set out what views are sought, which is a method for deciding, but no evidence or citation is given."
+    }
+  ],
+  "reasoning": "Two of the three core themes are scored at level 0 and one at level 1, so the mean is 0.33, which rounds to 0. The theme on the SARs reform programme asserts a delivery route: \"The Government has commenced a SARs reform programme\" and that beneficiaries \"should share the costs\" of the new IT. It gives no evidence, no costs or benefits, and no reasons for rejecting alternatives. The Action Plan theme lists 19 numbered actions with leads and dates (e.g. \"NCA July 2016\" for a permanent JMLIT). These describe what will happen and give no grounds for why these bodies or timetables were chosen. The supervisory review theme does explain a method for deciding: HM Treasury will draw on the Call for Information (Annex C, six weeks) and the Cutting Red Tape Review, will consider listed options, and will decide once it has \"a fuller picture of the benefits and risks\". That is a process, not evidence, and nothing is cited, so it reaches level 1 at most. The strongest counter-example to my level is that this supervisory theme shows a clear route to an evidence-informed decision, which could argue for a higher mean. But the consultation process only promises future evidence. To reach level 1 overall, the document would need to offer some evidence for its delivery choices, such as findings on JMLIT's performance or the s314 experience. To reach level 2 it would also need to cite sources, give costings, and state why the other delivery routes were rejected.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,101 @@
+{
+  "themes": [
+    {
+      "name": "Phased Implementation Tied to a Future Digital Switchover",
+      "ids": [
+        "S0121",
+        "S0363",
+        "S0365",
+        "S0368",
+        "S0429",
+        "S0430",
+        "S0431",
+        "S0433",
+        "S0439",
+        "S0440",
+        "S0454",
+        "S0455"
+      ]
+    },
+    {
+      "name": "Delegated Ofcom Rule-Making and Further Consultation",
+      "ids": [
+        "S0336",
+        "S0337",
+        "S0338",
+        "S0344",
+        "S0345",
+        "S0361",
+        "S0362",
+        "S0364",
+        "S0367",
+        "S0369",
+        "S0371",
+        "S0404",
+        "S0479"
+      ]
+    },
+    {
+      "name": "Industry Engagement and Voluntary Adoption",
+      "ids": [
+        "S0030",
+        "S0031",
+        "S0139"
+      ]
+    },
+    {
+      "name": "Legislative Vehicle for Small-Scale DAB Licensing",
+      "ids": [
+        "S0492",
+        "S0495"
+      ]
+    },
+    {
+      "name": "News and Core Information Requirements for Different Station Types",
+      "ids": [
+        "S0362",
+        "S0363",
+        "S0365",
+        "S0366",
+        "S0367",
+        "S0371",
+        "S0404"
+      ]
+    },
+    {
+      "name": "Licence Renewal and Analogue-to-DAB Transition",
+      "ids": [
+        "S0417",
+        "S0418",
+        "S0419",
+        "S0420",
+        "S0437",
+        "S0450",
+        "S0451",
+        "S0454",
+        "S0455"
+      ]
+    },
+    {
+      "name": "Multiplex Licensing and Capacity Management",
+      "ids": [
+        "S0264",
+        "S0479",
+        "S0495",
+        "S0496",
+        "S0497",
+        "S0498"
+      ]
+    },
+    {
+      "name": "Consequential Changes to Licensing Frameworks",
+      "ids": [
+        "S0416",
+        "S0477",
+        "S0478",
+        "S0504",
+        "S0505"
+      ]
+    }
+  ]
+}

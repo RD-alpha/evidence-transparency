@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Health and Environmental Harms of Flame Retardants",
+      "reason": "Establishes the scale and severity of harm caused by chemical use, directly explaining why the outdated testing regime driving chemical use is a problem worth addressing.",
+      "weight": "core"
+    },
+    {
+      "theme": "Effectiveness of Current Regulations in Preventing Fires and Injuries",
+      "reason": "Provides context that regulations succeed in their safety goal, which frames the diagnosis as a trade-off problem rather than a failure of fire safety itself, but it is background context rather than the core causal mechanism.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Issues with the Match Test and Testing Regime",
+      "reason": "Directly explains the causal mechanism of the problem: how outdated testing (the match test) fails to reflect modern furniture construction, forcing excess chemical use.",
+      "weight": "core"
+    },
+    {
+      "theme": "Use of Flame Retardant Chemicals in Furniture Manufacturing",
+      "reason": "Explains how manufacturers respond to the testing regime by using harmful chemicals, linking the outdated test directly to the chemical use problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Outdated Regulations and Need for Updates",
+      "reason": "States that regulations are outdated since 1988, directly supporting the core diagnosis that outdated testing is the root cause.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope and Ambiguities in Regulations",
+      "reason": "Describes a separate administrative/definitional issue (what counts as in-scope furniture) that is not central to the chemical-use-driven-by-testing diagnosis.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Traceability and Supply Chain Requirements",
+      "reason": "Concerns product traceability and recall ability, an administrative gap unrelated to the core diagnosis of testing driving chemical use.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Non-Compliant Imports and Enforcement",
+      "reason": "A passing remark about enforcement against imports, not central to explaining why outdated testing drives chemical use.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Modern Manufacturing Changes and Unregulated Parts",
+      "reason": "A brief note on flammable materials appearing in unregulated furniture parts; illustrates a related but secondary issue rather than the core testing-chemical link.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Better information and clearer ticket choice",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines such as 'We will use less jargon on Ticket Vending Machines (TVMs)' and 'Customers will be informed when there are fewer than nine Advance tickets available' are commitments and descriptions of measures, with no statistic, finding or source and no references or links."
+    },
+    {
+      "theme": "Simpler, wider ticket buying and retail market",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that opening the retail market 'should lead to increased competition, and better outcomes for consumers' is asserted reasoning with no evidence, and the theme carries no references or links."
+    },
+    {
+      "theme": "Fares reform through franchising and pilots",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The two lines only state a commitment to explore simplified commuter fares and single-leg pricing, with no evidence, options appraisal or cost and benefit information."
+    },
+    {
+      "theme": "Passenger protection and trust",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only evidence is the mention of research from Transport Focus, ORR and DfT being acted on and 'underway', which is unnamed and unreferenced, so it only just reaches level 1 as evidence offered as grounds, though no findings are given."
+    },
+    {
+      "theme": "Delivery and governance",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines describe the project team and that input was commissioned from train companies, consumer groups and others, but give no findings, numbers or method."
+    }
+  ],
+  "reasoning": "The four core themes are mostly assertion. 'Better information and clearer ticket choice' (level 0) lists measures such as 'We will use less jargon on Ticket Vending Machines' and 'Customers will be informed when there are fewer than nine Advance tickets available'. These describe what will be done and give no evidence that they will help passengers choose better tickets, nor why the threshold of nine was set. 'Simpler, wider ticket buying and retail market' (level 0) relies on 'This should lead to increased competition, and better outcomes for consumers', which is reasoning with no evidence behind it. 'Fares reform through franchising and pilots' (level 0) only commits to exploring simplified commuter fares and single-leg pricing, with no options assessed and no costs or benefits. 'Passenger protection and trust' (level 1) is the strongest, because it refers to research from Transport Focus, ORR and DfT ('research is underway'), but no findings are shown and no references or links are given. No theme carries any reference or link. The mean of the core themes is (0+0+0+1)/4 = 0.25, which rounds to 0. The strongest counter-example is the passenger protection theme, which does at least point to named research bodies and could be read as level 1 overall; even so, the other three core themes would still pull the section down to 0. To reach level 1 the document would need to state what evidence, such as consultation responses, passenger research or comparable schemes, led to each measure and what it showed. To reach level 2 it would need to cite sources, and for level 3 to assess their strengths and gaps.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.25,
+  "score_consistent": true,
+  "missing_core": []
+}

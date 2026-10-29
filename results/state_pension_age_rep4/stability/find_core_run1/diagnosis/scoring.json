@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rising life expectancy and time in retirement",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Figures on life expectancy at 65 (13\u00bd, 18\u00bd, 21 years; 82.4 to 93.6) are tied to ONS refs 5, 13, 19, 26 and to DWP calculation (ref 21) and modelling (ref 4), whose methods are not described, but the ONS sources are followable and the reasoning to time in retirement is clear; no assessment of projection uncertainty."
+    },
+    {
+      "theme": "Demographic shift and pay-as-you-go burden",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Dependency ratio (301 to 375 per 1,000), pensioner numbers (12.4m to 16.9m) and the OBR/Cridland spending rise (1% of GDP, \u00a3725 per household) are cited to refs 7, 8, 9, 30, 31 with clear reasoning, but projections are presented without any stated uncertainty or caveats."
+    },
+    {
+      "theme": "Past delay and unsustainability of existing arrangements",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The Pensions Commission 2005 finding and the Acts timetable are cited to ref 20 and ref 12 with a clear chain to the claim, supported by outside-theme life expectancy figures, though the Commission's evidence is not weighed or tested and later lines assert that spending would become unsustainable without support."
+    },
+    {
+      "theme": "Entitlement rules and the purpose of State Pension age",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines are general argument and description of entitlement rules and policy objectives with no statistics, findings or citations behind them."
+    }
+  ],
+  "reasoning": "The three core themes each reach level 2. On life expectancy, the document gives specific figures (a 65-year-old could expect 13\u00bd years in 1948, 18\u00bd in 1995 and 21 by 2007; 'In twenty years' time, life expectancy at age 65 is projected to have increased by a further two years') citing ONS datasets (refs 5, 13, 19, 26), and shows what they mean for the share of adult life in retirement. DWP calculations (refs 4, 21) are primary analysis, but the method is not described. On the demographic burden, the old age dependency ratio rising from 301 to 375 per 1,000 (ref 8), the 12.4m to 16.9m pensioner increase (ref 7) and the OBR/Cridland 1% of GDP rise (refs 9, 30, 31) are clearly linked to the pay-as-you-go problem. On past delay, the Pensions Commission finding (ref 20) and the sequence of Acts are cited, with the narrative explaining why the earlier timetable was inadequate. The mean of the core themes is 2.0, so the score is 2. The strongest counter-example is that the sources are quoted with confidence and some are only generic pointers, and the same ONS reference is repeated for different claims; that would argue for level 1 on some lines. Nowhere does the document assess the reliability of the projections, their sensitivity to mortality assumptions, or contradictory evidence such as slowing life expectancy gains or differences between groups. To reach level 3 it would need to appraise the strengths and limits of the ONS and OBR projections and acknowledge uncertainty.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.0,
+  "score_consistent": true,
+  "missing_core": []
+}

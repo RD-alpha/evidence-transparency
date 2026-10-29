@@ -1,0 +1,57 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Rising life expectancy",
+        "claim": "Life expectancy at 65 has risen for decades and is projected to keep rising, so people spend a growing proportion of adult life over State Pension age (23% in 1948, 32% in 2007) unless the age changes."
+      },
+      {
+        "name": "Demographic shift and pay-as-you-go burden",
+        "claim": "Baby-boomer retirement and a rising old age dependency ratio (301 to 375 pensioners per 1,000 working-age people by 2042) mean fewer workers support more pensioners under a pay-as-you-go system."
+      },
+      {
+        "name": "Rising fiscal cost of ageing",
+        "claim": "State Pension spending will rise by about 1% of GDP by 2036/37 (about £725 per household), within wider age-related spending pressures on health and social care, which is unsustainable if left unaddressed."
+      },
+      {
+        "name": "Past inaction and the case for a structured framework",
+        "claim": "Because State Pension age stayed fixed for decades before being changed in rapid succession by three Acts, a structured, regular, longevity-linked framework is needed."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Linking State Pension age to life expectancy for fairness between generations",
+        "claim": "The Government will link State Pension age to rising life expectancy, aiming in the long run for 'up to 32%' of adult life in receipt, so that each generation has a broadly similar deal and costs are shared fairly."
+      },
+      {
+        "name": "Rise to 68 in 2037-39",
+        "claim": "Following Cridland, State Pension age will rise from 67 to 68 in 2037-39, seven years earlier than legislated, saving £74bn to 2045/46 and about 0.4% of GDP in 2039/40, with the pace spaced to avoid back-to-back rises."
+      },
+      {
+        "name": "Rejecting the alternatives",
+        "claim": "Lower pensions, leaving the age unchanged, a faster 32% timetable, or a variable or early-access State Pension age were rejected because they would raise pensioner poverty, burden taxpayers, hit the same cohorts, or undermine the simplicity of a universal age."
+      },
+      {
+        "name": "Deferring decisions amid uncertainty",
+        "claim": "Because life expectancy projections are uncertain, the Government will review again before legislating for 68 and will not set the timetable beyond 2037-39 now."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Notice and communication of changes",
+        "claim": "The Government will seek to give at least ten years' notice of changes and will build a digital and stakeholder-based communications strategy so people can plan for retirement."
+      },
+      {
+        "name": "Wider support for working longer and those who cannot work",
+        "claim": "Pension age rises must sit within a wider system that helps people save and work longer and supports those unable to work, which the Government will develop by assessing welfare support and the consultation on health and work."
+      }
+    ],
+    "note": "Much of the implementation material is commitments and plans rather than argued choices between delivery methods."
+  }
+}

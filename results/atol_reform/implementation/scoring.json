@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Legislative route and timetable",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The legal constraints (the PTD 2015 transposition deadline of 1 January 2018, ECA 1972 s2(2), and the section 71(1) Civil Aviation Act tax-raising power) are cited to explain why primary legislation is needed, and the Modern Transport Bill timing carries Reference 18, but there is no assessment of uncertainty, so it stops at level 2."
+    },
+    {
+      "theme": "Two-stage consultation with BEIS",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines describe the consultation process and assert that secondary legislation is quicker (\"can be carried out more quickly as they do not require primary legislation\"), but this is reasoning with no evidence, and no references are given."
+    },
+    {
+      "theme": "CAA delivery and transition support for business",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The maximum harmonisation, the six-month transition and the state aid rules are cited as legal constraints that rule out exemptions, extended transition and financial aid, but the CAA discretion and support claims (small business ATOLs, Accredited Bodies, ABTA) are unevidenced, and nothing is formally referenced."
+    }
+  ],
+  "reasoning": "Three core themes were scored. Legislative route and timetable reaches level 2: the document explains that normal secondary legislation under \"section 2(2) of the European Communities Act (1972)\" would not do, because \"we have to amend the tax raising power in section 71(1) Civil Aviation Act (1982)\", and it links this to the 1 January 2018 transposition deadline. The Modern Transport Bill timing carries Reference 18. The legal constraint is evidence, and the chain of reasoning is clear. It does not assess uncertainty, such as the risk of the bill slipping, so it does not reach level 3. Two-stage consultation with BEIS is level 0: the claim that PTR changes \"can be carried out more quickly as they do not require primary legislation\" is reasoning, with no cited evidence or data. CAA delivery and transition support is level 1: the line that \"transposition of EU law as a maximum harmonisation provision prevents small business exemptions\" and the state aid point are legal constraints explaining why options were ruled out, but they carry no citation. The CAA's discretion and the claimed value of small business ATOLs and Accredited Bodies are asserted without any evidence of effectiveness. The mean is (2+0+1)/3 = 1.0, so the score is 1. The strongest counter-example is the legislative theme, which is well argued and would suggest level 2 overall. To reach level 2, the document would need to cite the Directive and statutory provisions with references or links in the other themes, and give evidence for the CAA's capacity and the effectiveness of small-business routes. Level 3 would need assessment of the uncertainties.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

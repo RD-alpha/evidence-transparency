@@ -1,0 +1,46 @@
+{
+  "title": "Reforming the Employment Tribunal system",
+  "alias": "employment_tribunal",
+  "uploaded_at": "2026-10-13T14:06:28.664770+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "14:06:28 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "employment_tribunal_consultation",
+      "title": "Employment Tribunal Reform Consultation",
+      "sentence_count": 285,
+      "first_sentence": "S0001",
+      "last_sentence": "S0285",
+      "reference_count": 7,
+      "first_reference": "1",
+      "last_reference": "7",
+      "link_count": 14
+    },
+    {
+      "alias": "employment_tribunal_ia",
+      "title": "Employment Tribunal Reform Impact Assessment",
+      "sentence_count": 599,
+      "first_sentence": "S0286",
+      "last_sentence": "S0884",
+      "reference_count": 37,
+      "first_reference": "8",
+      "last_reference": "44",
+      "link_count": 0
+    },
+    {
+      "alias": "employment_tribunal_equality",
+      "title": "Employment Tribunal Reform Equality Analysis",
+      "sentence_count": 229,
+      "first_sentence": "S0885",
+      "last_sentence": "S1113",
+      "reference_count": 13,
+      "first_reference": "45",
+      "last_reference": "57",
+      "link_count": 1
+    }
+  ],
+  "appendix2_date": "5 December 2016 / October 2016",
+  "appendix2_type": "consultation + IA + equality analysis (combined in Appendix order)",
+  "extraction_note": "PDF table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

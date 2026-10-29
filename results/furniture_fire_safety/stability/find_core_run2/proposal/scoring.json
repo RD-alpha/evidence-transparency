@@ -1,0 +1,76 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Choice of updating the regulations over alternatives",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The Greenstreet Berman effectiveness report (Reference 1) underpins both 'FFRs go beyond minimum EU requirement' and 'preferred option is Option 1', while the document itself flags the evidence gap ('We do not have comparative data...') and the weakness of the EU alternative, i.e. it assesses the evidence rather than just citing it."
+    },
+    {
+      "theme": "New match test and removal of cigarette test reduce FR use and cost without compromising safety",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Savings figures (\u00a32.3m-\u00a312.7m, \u00a37.5m) are tied to Reference 5/6 ('Cost savings provided by UK test houses') and the mechanism (fibre wrap, combustion-modified foam) is explained, but methodology for the test-house data is thin and no uncertainty about the safety-maintenance claim is acknowledged within the theme."
+    },
+    {
+      "theme": "Quantified cost-benefit case for the package",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Detailed BIS analysis (PRODCOM, ONS ABS, ASHE wage data, FIRA figures, References 4,6,9,10,12,15,16) is linked to specific cost/benefit lines and the document explicitly flags uncertainty ('key uncertainty is the balance between routes to compliance') and revises its own earlier \u00a319m-55m estimate downward."
+    },
+    {
+      "theme": "Consultation feedback reshaped and moderated the proposal",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Reference 3 gives the method ('57 respondents did not agree... compared to 14 who agreed') and the document explicitly uses this disagreement to reduce its cost-saving estimates (3.7 'led BIS analysts to reduce the cost savings'), showing assessment of contradictory evidence."
+    },
+    {
+      "theme": "Policy objectives and background context",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that the match test 'could be introduced quickly to offer savings' cites only the generic 'See Annex for links to sample papers' (Reference 2), a non-specific pointer."
+    },
+    {
+      "theme": "Stakeholder engagement and consultation process",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Reference 3 gives response numbers (113 responses, 57 vs 14) showing how the consultation evidence was obtained, though this theme mostly reports rather than assesses the split views."
+    },
+    {
+      "theme": "Effects on business groups and consumers",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "GVA/turnover figures are cited to References 1 and 4, but the key '\u00a3140m per year' fire-safety benefit figure in 5.45 carries no citation at all."
+    },
+    {
+      "theme": "Environmental and health benefits",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Health/environment claims rely on the generic Reference 2 annex pointer and unnamed reasoning ('there are also health benefits that may result') without a specific study."
+    },
+    {
+      "theme": "Regulatory scope and enforcement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "No references are attached to any line in this theme; the enforcement and traceability claims are asserted without supporting evidence."
+    },
+    {
+      "theme": "Uncertainties and data limitations",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "This theme explicitly names data gaps (e.g. 'due to data limitations used a bottom up approach', 'no figures were readily available for...outdoor furniture'), assessing rather than just presenting the underlying cost-benefit evidence."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Single fragment ('Please justify preferred option') carries no evidence."
+    }
+  ],
+  "reasoning": "The four core themes vary but mostly reach a strong level. 'Choice of updating the regulations' (3) ties the Greenstreet Berman effectiveness report (Reference 1) to ruling out revocation while explicitly admitting 'We do not have comparative data which allows us to assess whether the UK regulations actually lead to safer furniture than in the rest of the EU' - a genuine assessment of the evidence base. 'Quantified cost-benefit case' (3) is the strongest, with PRODCOM, ONS ABS and ASHE data (References 4,6,9,10,12,15,16) linked to specific savings lines, and explicit acknowledgment of uncertainty ('There still remain a number of key uncertainties...'). 'Consultation feedback reshaped the proposal' (3) uses Reference 3's precise response counts ('57 respondents did not agree...compared to 14 who agreed') and shows BIS revising its estimates because of this disagreement (3.7). 'New match test and cigarette test' scores lower (2): savings are cited to 'Cost savings provided by UK test houses' (Reference 5/6) without methodology, and the safety-maintenance mechanism is described but not tested against uncertainty. Mean = (3+2+3+3)/4 = 2.75, rounding to 3. The strongest counter-example is Theme 2's reliance on an unexplained test-house source and the generic 'See Annex' citations (Reference 2) used elsewhere. To reach a cleaner 3, the document would need to show, within the match-test theme itself, how the test-house cost data was gathered and whether any validation confirmed the redesigned test maintains equivalent safety.",
+  "score": 3,
+  "model_score": 3,
+  "core_mean": 2.75,
+  "score_consistent": true,
+  "missing_core": []
+}

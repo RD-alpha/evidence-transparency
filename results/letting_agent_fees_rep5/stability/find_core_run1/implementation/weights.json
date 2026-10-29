@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Enforcement architecture and penalties",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant empowerment and education",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Permitted exceptions to the ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Addressing residual deposit burden",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Premium market and tenant choice provisions",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Preventing discrimination and ensuring fairness",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Primary legislation and regulatory coherence",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

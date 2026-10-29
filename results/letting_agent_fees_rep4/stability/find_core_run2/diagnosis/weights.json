@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Opaque and inconsistent fee structures",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenants' lack of market power over agent fees",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Financial harm and barriers caused by fees",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Market and sectoral context",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Agent conduct and service quality concerns",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Regulatory context",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

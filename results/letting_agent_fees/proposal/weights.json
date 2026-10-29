@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Rebalancing the market via a fee ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Insufficiency of existing transparency regulation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scottish precedent as evidence for the ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Likely but acceptable pass-through to rents",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope and definition of the fee ban",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Benefits to tenants and social outcomes",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Agent business model adjustment and deposit caps",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Wales and Northern Ireland context",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Regulatory framework for letting agents",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

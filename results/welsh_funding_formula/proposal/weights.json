@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Needs-based Barnett funding floor",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Comparable model for tax block grant adjustments",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Treatment of policy spill-over effects",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Extended borrowing and budget management tools",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Devolved powers and overall funding framework",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "diagnosis": {
+    "core_themes": [],
+    "note": "No sentences in the document are classified as Diagnosis; the document does not argue why standardized content is needed, only what that content must be."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Transferable skills and interdisciplinary value",
+        "claim": "Studying a modern language at AS/A level is an interdisciplinary pursuit that builds high-level practical language skills alongside transferable skills (critical thinking, autonomy, creativity, cultural and cognitive flexibility) valued by higher education, employers and society."
+      },
+      {
+        "name": "Universal relevance and progression",
+        "claim": "The content is designed to benefit all students regardless of discipline, serving both as a general education and as a robust foundation for those progressing to degree-level study in the language."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Integrated language, culture and society study",
+        "claim": "Specifications must require students to develop language skills (speaking, listening, reading, writing, translating) in an integrated way through authentic spoken and written sources covering prescribed themes of society and culture, building on GCSE content."
+      },
+      {
+        "name": "Thematic and cultural content requirements",
+        "claim": "Specifications must require study of a fixed number of themes at AS and A level drawn from specified areas of interest (social issues/trends; political/intellectual/artistic culture), using authentic contemporary sources including online media."
+      },
+      {
+        "name": "Literary and film study requirements",
+        "claim": "Specifications must require critical study of one prescribed work at AS and two discrete works at A level (literary texts and/or films), with increasing depth of critical and analytical response expected at A level."
+      },
+      {
+        "name": "Detailed grammar specification as a common benchmark",
+        "claim": "Specifications must require mastery of a detailed, prescribed grammar syllabus for French, German and Spanish, and awarding organisations must develop comparable grammar appendices of equivalent challenge and breadth for other languages."
+      }
+    ],
+    "note": "Implementation also includes language-specific exceptions (e.g. for Chinese) and additional A level-only requirements (independent research, more advanced critical analysis), which are treated as extensions of these core themes rather than separate ones."
+  }
+}

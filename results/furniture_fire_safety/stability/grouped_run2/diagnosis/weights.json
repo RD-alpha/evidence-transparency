@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "History and Rationale for Reviewing the Regulations",
+      "reason": "Provides background on when regulations were last updated and that a review was triggered, but this is procedural context rather than the substantive diagnosis of why outdated testing drives chemical use.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Safety Benefits and Protective Effectiveness of Current Regulations",
+      "reason": "Establishes that current regulations do work to prevent harm, which frames the tension the diagnosis must address (safety vs chemical harm) and is a necessary counterweight to justify why change is needed rather than wholesale repeal.",
+      "weight": "core"
+    },
+    {
+      "theme": "Health and Environmental Harms of Flame Retardant Chemicals",
+      "reason": "This is the core evidence of the 'chemical use' harm half of the problem statement—without this theme there is no case that chemical use from flammability testing causes harm.",
+      "weight": "core"
+    },
+    {
+      "theme": "Flaws in the Testing Regime and Compliance Methods",
+      "reason": "This directly explains the causal mechanism—how outdated match testing forces manufacturers to over-use flame retardants—making it the central diagnosis of why the regulation drives chemical use.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope, Definitions and Traceability of Regulatory Framework",
+      "reason": "Addresses separate administrative gaps (scope ambiguity, traceability) not directly tied to the causal link between testing and chemical use; a secondary, non-essential point.",
+      "weight": "not core"
+    }
+  ]
+}

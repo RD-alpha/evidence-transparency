@@ -1,0 +1,59 @@
+{
+  "themes": [
+    {
+      "theme": "Integrated language, culture and society study",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Thematic and cultural content requirements",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Literary and film study requirements",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Detailed grammar specification as a common benchmark",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Foundational learning outcomes and transferable skills",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Advanced level research and analytical capabilities",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prior knowledge and progression from GCSE",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Special provisions for Chinese language study",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French grammar specification",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "German grammar specification",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish grammar specification",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

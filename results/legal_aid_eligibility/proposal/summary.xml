@@ -1,0 +1,310 @@
+<root>
+<theme sentences="103" weight="core">
+<name>Passport only zero-earnings Universal Credit recipients</name>
+<claim>Limiting passporting to Universal Credit recipients with no earnings, while keeping legacy passporting and existing thresholds, best meets the objectives of targeting need, sharing information across government, minimising cost and minimising administrative burden, and the alternatives (a £500 earnings threshold or no passporting at all) were rejected because the former still adds cost and disadvantages non-recipients and the latter loses information-sharing efficiency and raises administrative costs.</claim>
+<text>
+<line id="S0026">This is not a cost-cutting exercise, rather our intention is to limit any additional financial burden being placed on the legal aid budget whilst ensuring that means testing arrangements continue to make sure that limited funds are targeted fairly at those clients most in need and that clients who can, and should, contribute to the costs of their legal advice and representation, do so.</line>
+<line id="S0028">I believe this proposal represents the best option for accommodating the expansion of Universal Credit to all claimant types into our existing financial eligibility requirements and also retains the benefits gained from continuing to passport certain applicants.</line>
+<line id="S0042">We are proposing to limit passporting through the legal aid means tests to Universal Credit recipients with zero income from employment (while continuing to passport recipients of legacy passporting benefits which are those passporting benefits which are either not being replaced by Universal Credit or have not yet been replaced but will be in the future).</line>
+<line id="S0046"> To limit passporting through the legal aid means tests to Universal Credit recipients with earnings from employment of £500 per month (£6,000 per annum) or less (while continuing to passport recipients of legacy passporting benefits).</line>
+<line id="S0047"> To assess income for all applicants, based on the current legal aid eligibility rules, with no passporting.</line>
+<line id="S0075">We have considered how the current legal aid means test could be amended to accommodate the expansion of Universal Credit.</line>
+<line id="S0110">In developing the proposal for changing the legal aid financial eligibility systems we have focussed on the following policy objectives:</line>
+<line id="S0111"> ensuring that legal aid is targeted at those who need it most;</line>
+<line id="S0112"> efficiency in terms of information sharing across government;</line>
+<line id="S0113"> no, or a minimum, additional cost to the taxpayer; and  minimising the administrative burden on the LAA, legal aid applicants and providers.</line>
+<line id="S0114">Based on the consideration of these principles, we have developed a proposal which is set out in detail below.</line>
+<line id="S0115">We believe that this proposal best meets the above policy objectives.</line>
+<line id="S0116">Passport Universal Credit recipients with zero income from earnings.</line>
+<line id="S0118">This option would retain the existing system for assessing financial eligibility for legal aid with the following changes:</line>
+<line id="S0119"> recipients of Universal Credit with zero income from earnings, would be passported through the income tests for all types of legal aid and the capital test for criminal legal aid. ** (Reference: 4)</line>
+<line id="S0120">There would be no passporting to legal aid for recipients of Universal Credit with any household income from earnings - they would be assessed under the existing income and capital tests, and pay contributions if assessed as liable to do so under the existing rules.</line>
+<line id="S0121">Money paid in respect of the Universal Credit award would be taken into account as income when assessing eligibility or liability for contributions;  recipients of the legacy benefits that already qualify for passporting, including State Pension Guarantee Credit (which is not being replaced by Universal Credit), would continue to be passported through the income tests for civil legal aid and the income and capital tests for criminal legal aid until they are fully phased into Universal Credit; and  all other legal aid applicants would be subject to the existing means test criteria and those on low income (but not in receipt of the passporting legacy benefits) may be eligible for non-contributory legal aid or be asked to pay a contribution towards their legal costs 3.3.</line>
+<line id="S0122">We are not proposing any changes to the capital and income thresholds for legal aid.</line>
+<line id="S0123">Neither are we proposing to amend the forms of civil or criminal legal aid from which a contributory payment may be sought or to amend the contribution rates.</line>
+<line id="S0145">We have considered two alternative options.</line>
+<line id="S0147"> To limit passporting through the legal aid means tests to Universal Credit recipients with earnings from employment of up to £500 net per month (£6,000 per annum) while continuing to passport recipients of legacy benefits.</line>
+<line id="S0148">This figure roughly equates with the potential earnings currently allowed to people in receipt of income support or income-related Employment and Support Allowance.</line>
+<line id="S0149"> To assess income for all applicants, based on the current legal aid eligibility rules, with no passporting.</line>
+<line id="S0151">While introducing an earnings threshold of £500 per month for passporting Universal Credit recipients to non-contributory legal aid could be argued to align more closely with the aim of encouraging people into work, this option would not remove the financial pressure on the legal aid fund, since it is estimated that it would cost the fund an additional £1 - £1.5m per annum in steady state.</line>
+<line id="S0152">It therefore does not satisfy the policy objectives of no, or a minimum, additional cost to the taxpayer.</line>
+<line id="S0153">It would also disadvantage those on similar income but not in receipt of Universal Credit and would therefore not target those who need legal aid the most.</line>
+<line id="S0154">Additionally, the Government’s preferred option appears the best in terms of the fit with various necessary IT systems.</line>
+<line id="S0156">Similarly the option of abolishing passporting and simply applying the current means test would not meet the policy objectives since while it would ensure fairness and focus legal aid on those who need it most, it would not allow for efficiency in terms of information sharing across government and would increase administrative costs for processing legal aid applications.</line>
+<line id="S0158">We consider that the proposal to introduce a zero earnings threshold for Universal Credit recipients is the option that best satisfies the policy objectives.</line>
+<line id="S0266">Description: To limit passporting through the legal aid means tests to Universal Credit recipients with zero income from employment, while continuing to passport recipients of 'legacy' passporting benefits for as long as they exist.</line>
+<line id="S0280">Departments have been working together to consider how they might continue to deliver their passported benefits to those in receipt of UC as the benefit continues to expand.</line>
+<line id="S0281">To ensure these benefits continue to be targeted at those who need them most and that we maintain a transparent set of qualifying conditions that people can easily understand, many Departments across government have agreed to the introduction of earnings thresholds for the continued delivery of passported benefits alongside Universal Credit.</line>
+<line id="S0285">Our rationale for the proposal is to ensure that we target our limited legal aid funds available to those most in need.</line>
+<line id="S0286">We also wish to ensure that those who do not receive Universal Credit but are on a similar income to those who do and are currently passported, are not put at a disadvantage.</line>
+<line id="S0296">To address these issues and in developing our proposals for changing the legal aid financial eligibility systems we have focussed on the following policy objectives.</line>
+<line id="S0298">legal aid is targeted at those that need it most;</line>
+<line id="S0299">efficiency is maintained in terms of information sharing across government;</line>
+<line id="S0300">there is no, or a minimum of, additional cost to the taxpayer; and</line>
+<line id="S0301">minimising as far as possible the administrative burden on the Legal Aid Agency and on legal aid applicants and providers.</line>
+<line id="S0307">Option 0/'Do nothing': Continue with the current passporting arrangements.</line>
+<line id="S0308">Option 1: Passport Universal Credit recipients with zero income from employment and means test all others.</line>
+<line id="S0310">Under this option all legal aid applicants in receipt of Universal Credit and those in receipt of other legacy passporting benefits for as long as they exist will be passported through the income test for legal aid (and the capital test for criminal legal aid where applicable).</line>
+<line id="S0311">All other applicants who are not passported would remain subject to the full means assessment. ** (Reference: 7)</line>
+<line id="S0318">This option would limit passporting through the legal aid means tests to Universal Credit recipients with zero income from employment.</line>
+<line id="S0319">Individuals in receipt of legacy passporting benefits will continue to be passported through income tests for as long as these benefits exist.</line>
+<line id="S0320">Note that State Pension Guarantee Credit is not being replaced by Universal Credit.</line>
+<line id="S0321">Individuals not in receipt of one of these qualifying benefits and those in receipt of Universal Credit with earnings from employment would be subject to a full means assessment.</line>
+<line id="S0326">This option would reduce the potential cost to the taxpayer and ensure that the LAA continues to make the best use of information on an individual's financial circumstances that has already been collected by the government as applicants would not be required to provide the same information again.</line>
+<line id="S0327">By limiting passporting to non-contributory legal aid to Universal Credit recipients that are not working, it would ensure legal aid is targeted at those that need it most although those on low incomes may still be eligible for non-contributory legal aid since the current means tests thresholds would remain the same.</line>
+<line id="S0328">Continuing to use an administrative shortcut to passporting applicants through part of the process would continue to allow applications to be processed as quickly as possible and would be straightforward for providers and applicants to understand.</line>
+<line id="S0330">As this proposal meets all the objectives set out in paragraph 9, it is the preferred option.</line>
+<line id="S0334">Two further options were also considered but do not form part of the consultation as they did not meet the basic objectives criteria: These were:</line>
+<line id="S0335">To limit passporting through the legal aid means tests to Universal Credit recipients with earnings from employment of up to £500 per month (£6,000 per annum)</line>
+<line id="S0336">(while continuing to passport recipients of legacy passporting benefits).</line>
+<line id="S0337">To assess income for all applicants, based on the current legal aid eligibility rules, with no passporting.</line>
+<line id="S0338">While introducing an earnings threshold of £500 per month for passporting would align more closely with the Universal Credit aims of encouraging people into work, this option would increase the financial pressure on the legal aid fund, since it is estimated to cost an additional £1-1.5m per annum in steady state.</line>
+<line id="S0339">It therefore did not satisfy the policy objectives of no, or a minimum, additional cost to the taxpayer.</line>
+<line id="S0340">It would also have disadvantaged those on similar incomes but not in receipt of Universal Credit and would therefore not target those who need legal aid the most.</line>
+<line id="S0341">Additionally, the Government's preferred option appears the best in terms of the fit with various necessary IT systems.</line>
+<line id="S0342">Similarly the option of abolishing passporting and simply applying the current means test does not meet the policy objectives.</line>
+<line id="S0343">While it would ensure fairness and focus legal aid on those that need it most, it would not allow for efficiency in terms of information sharing across government (means testing everyone would, in effect, be duplicating much of the work already done by DWP) and would increase administrative costs for processing legal aid applications.</line>
+<line id="S0445">1.2 The change proposed in the consultation document is to limit passporting through the legal aid means tests to Universal Credit recipients with zero income from employment, while continuing to passport recipients of legacy benefits and State Pension Guarantee Credit. ** (Reference: 10)</line>
+<line id="S0446">All other legal aid applicants would be subject to the existing means test criteria and those on low income (but not in receipt of the benefits listed in paragraph 2 of the Evidence Base, Impact Assessment) may be eligible for non-contributory legal aid or be asked to pay a contribution towards their legal costs. ** (Reference: 11)</line>
+<line id="S0509">7.12 In designing the policy proposal, a key objective was to find a way to deal with the introduction of Universal Credit which ensured legal aid is targeted at those who need it most without incurring additional legal aid fund costs to the taxpayer.</line>
+<line id="S0510">To achieve this, our policy proposal should as far as possible mimic the existing passporting and means testing arrangements while accounting for legacy benefits being phased out and Universal Credit phased in.</line>
+<line id="S0528">Before: She is in receipt of Housing Benefit and contribution-based JSA, and is not working any hours.</line>
+<line id="S0529">Neither are a passporting benefit, so she undergoes the full means test, conducted by the legal aid provider.</line>
+<line id="S0530">Her disposable income is assessed as below the upper and lower income thresholds, and so she is eligible for non-contributory legal aid.</line>
+<line id="S0531">After: She is in receipt of Universal Credit (migrated from Housing Benefit).</line>
+<line id="S0532">Because she is not working, she has no income from employment.</line>
+<line id="S0533">The legal aid provider verifies her benefits and earnings status, and after a capital assessment, she is passported to non-contributory legal aid.</line>
+<line id="S0534">Summary: no change for Annette.</line>
+<line id="S0535">The legal aid provider has reduced administration burden, as they only need verify UC and earnings status, rather than going through the whole means test.</line>
+<line id="S0536">2. Raymond has a family (private law) problem for which he’s received initial legal advice, and now needs a solicitor to represent him in court.</line>
+<line id="S0537">Before: He is in receipt of Income Support and works 12 hours a week.</line>
+<line id="S0538">Income Support is a passporting benefit, so after a capital assessment conducted by the LAA, he is passported to non- contributory legal aid.</line>
+<line id="S0539">After: He is in receipt of Universal Credit (migrated from Income Support).</line>
+<line id="S0540">Because he has earnings from employment, he is not passported to non-contributory legal aid.</line>
+<line id="S0541">He must undergo the full means assessment, conducted by the LAA.</line>
+<line id="S0542">His income is assessed as being above the lower threshold, and he is asked to pay to a small monthly contribution.</line>
+<line id="S0543">Summary: Raymond is slightly worse off than before, as he is asked to pay a small monthly contribution to the costs of his representation.</line>
+<line id="S0544">This corresponds to a small saving to the LAA, who will collect that contribution.</line>
+<line id="S0545">There is an administrative cost to the LAA from conducting the full means assessment where they previously conducted a capital assessment and checked his benefit status only.</line>
+<line id="S0546">3. Paul needs representation in the Magistrates’ Court.</line>
+<line id="S0547">Before: Paul is in receipt of Housing Benefit, and is in part-time employment.</line>
+<line id="S0548">This is not a passporting benefit, so he is subject to a means assessment, conducted by the LAA on the basis of an online application submitted by the legal aid provider.</line>
+<line id="S0549">The LAA assesses his disposable income as sufficiently low to be granted criminal legal aid representation (NB the means assessment at the magistrates’ court operates on an ‘in/out’ basis: if the defendant is financially eligible, no contributions are ever required; if the defendant is not financially eligible, he/she will have to fund the entirety of their defence costs).</line>
+<line id="S0550">After: He is in receipt of Universal Credit (migrated from Housing Benefit).</line>
+<line id="S0551">Since he has income from employment, he is subject to a means assessment undertaken by the LAA on the basis of an online application submitted by the legal aid provider.</line>
+<line id="S0552">The LAA assess his disposable income as sufficiently low to be granted criminal legal aid representation.</line>
+<line id="S0553">Summary: No change for Paul, the provider or the LAA.</line>
+<line id="S0554">4. Saira needs representation in the Crown Court.</line>
+<line id="S0555">Before: Saira is in receipt of income-related Employment and Support Allowance, and does not work.</line>
+<line id="S0556">The provider submits an online application for their client and as part of this process can verify their client’s passported benefit status.</line>
+<line id="S0557">As a result of the application, Saira is granted non- contributory criminal legal aid by the LAA (NB – Under the means assessment used for the Crown Court, some defendants who are not in receipt of a passporting benefit may, subject to the outcome of their assessment, be required to contribute towards their publicly funded defence costs from their income and/or capital assets.</line>
+<line id="S0558">If a Crown Court defendant’s annual disposable income exceeds £37,500 they will be excluded from public funding altogether).</line>
+<line id="S0559">After: She is in receipt of Universal Credit (income-related Employment and Support Allowance).</line>
+<line id="S0560">Because she is not working, she has no income from employment.</line>
+<line id="S0561">As before, the provider submits an online application for their client and as part of this process can verify their client’s passported benefit status.</line>
+<line id="S0562">The LAA confirms her benefits and earnings status, and she is passported to non- contributory criminal legal aid.</line>
+<line id="S0563">Summary: No change for Saira or the provider.</line>
+<line id="S0590">None of the proposals in this document seek to change the current exceptions from the means test.</line>
+<line id="S0614">We are not proposing to make any change to this split.</line>
+</text>
+<references>
+<reference number="4">Earnings as defined for Universal Credit purposes.</reference>
+<reference number="7">Although note that some categories of law are also exempt from the means test. For example, care proceedings under the Children Act 1989 account for a large volume of civil representation work but are not subject to means testing where the applicant for legal aid is the child, parent or person with parental responsibility.</reference>
+<reference number="10">For as long as they continue to exist.</reference>
+<reference number="11">Although note that some categories of law are also exempt from the means test. For example, care proceedings under the Children Act 1989 account for a large volume of civil representation work but are not subject to means testing where the applicant for legal aid is the child, parent or person with parental responsibility.</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="53" weight="core">
+<name>Costs and modelled impacts are small</name>
+<claim>Modelling estimates a net additional cost of about £400,000 a year (range £200,000-£600,000) and only around 1,150 people changing eligibility, so the policy limits spending while affecting very few claimants.</claim>
+<text>
+<line id="S0017">Not only does it facilitate quicker funding decisions for those most in need, it avoids duplication, by improving information sharing across government and helps to reduce the administrative burden on legal aid applicants, providers and the Legal Aid Agency (LAA).</line>
+<line id="S0037">We believe it is important therefore to target limited funding at the most financially vulnerable.</line>
+<line id="S0077">For the reasons above, we remain firmly of the view that legal aid should be available to those with the greatest need and that it is right that people who can afford to should pay something, however little, towards the costs of their legal fees.</line>
+<line id="S0078">This ensures that finite public resources for legal aid are targeted at the most in need.</line>
+<line id="S0131">The vast majority of claimants would experience no change in their status.</line>
+<line id="S0132">A small number would move out of eligibility or be required to make a contribution.</line>
+<line id="S0133">A slightly larger proportion of claimants – would move from ineligibility into eligibility or contributory legal aid.</line>
+<line id="S0134">We estimate that around 650 would become eligible for free legal aid through passporting while 500 would become ineligible for free legal aid with 250 of those asked for a contribution.</line>
+<line id="S0135">This is a very small percentage of those who receive legal aid. ** (Reference: 5)</line>
+<line id="S0152">It therefore does not satisfy the policy objectives of no, or a minimum, additional cost to the taxpayer.</line>
+<line id="S0323">Our best estimate of the net additional cost is around £400,000 per year.</line>
+<line id="S0324">This comprises additional cost to the legal aid fund for those with increased eligibility of £900,000 (para 29), and a reduction in spend of £500,000 for those with reduced eligibility (para 37).</line>
+<line id="S0325">Sensitivity analysis of our key modelling uncertainty places this within £200,000 to £600,000.</line>
+<line id="S0360">There could be around 50 cases where people not previously eligible for legal aid for receiving legal advice and family mediation (to discuss a problem between ex-partner with an independent and impartial person) would become eligible for non-contributory legal aid through passporting.</line>
+<line id="S0361">There could be less than 50 cases where people not previously eligible for legal aid for legal representation at hearings would become eligible for non-contributory legal aid through passporting.</line>
+<line id="S0362">There could be around 550 cases where people previously eligible for contributory legal aid for legal representation at hearings would now be eligible for non-contributory legal aid through passporting.</line>
+<line id="S0364">There could be less than 50 cases where people not previously eligible for legal aid in the magistrates' courts would become eligible for non-contributory legal aid through passporting.</line>
+<line id="S0365">There could be less than 50 cases where people previously eligible for contributory legal aid in the Crown Court would now be eligible for non-contributory legal aid through passporting.</line>
+<line id="S0366">There could be less than 50 cases where people not previously eligible for legal aid in the Crown Court will become eligible for non-contributory legal aid through passporting.</line>
+<line id="S0367">In summary, given the size of the legal aid population, few claimants would be affected by the proposed change. ** (Reference: 8)</line>
+<line id="S0368">Many of those Universal Credit recipients who we estimate would be passported to non-contributory legal aid would already be entitled to legal aid either on a non-contributory basis or with a contribution as they are currently on a passported benefit or, even if they are in receipt of a non-passported benefit, they qualify for legal aid after the application of the means test.</line>
+<line id="S0369">However, some will be on zero income from employment and receiving a non-passported benefit, which is considered in the current means test.</line>
+<line id="S0370">Also we model some additional applicants around the current thresholds who may be expected to apply successfully in the future.</line>
+<line id="S0371">We estimate that the total cost to the legal aid fund of these is £900,000, within a range of £400,000 to £1.5m. As mentioned in paragraph 16, this is offset by a reduction in legal aid spend of £500,000 for those who would either become ineligible for or asked to contribute towards legal aid.</line>
+<line id="S0373">There would also be one-off costs of £300,000 to make the necessary adjustments to the LAA's IT systems.</line>
+<line id="S0374">DWP have agreed in principle to reimburse these (subject to actual costs being confirmed).</line>
+<line id="S0375">Ongoing costs to maintain the IT link between DWP and the LAA would not be expected to be any more than at present.</line>
+<line id="S0376">Once DWP's expansion of Universal Credit is complete, we estimate that this option would cost in total around £400,000 per year more in steady state compared to what we would expect to spend from the legal aid fund if Universal Credit had not been made a passporting benefit.</line>
+<line id="S0377">Sensitivity analysis of our key modelling uncertainty places this within a range of £200,000 to £600,000.</line>
+<line id="S0379">There could be adjustment costs for legal aid providers such as potential amendments to their case management systems to assist them when responsibility for determining financial eligibility for certain types of legal aid, such as civil legal help, has been delegated to them.</line>
+<line id="S0380">We do not have the information to quantify this cost, and welcome comment from providers as part of the consultation.</line>
+<line id="S0383">There could be around 150 cases where people previously eligible for non-contributory legal aid for receiving legal advice and family mediation (to discuss a problem between ex-partner with an independent and impartial person) through passporting would no longer be eligible.</line>
+<line id="S0384">There could be around 250 cases where people previously eligible for non-contributory legal aid for legal representation at hearings through passporting would now be subject to the full means test and asked to pay a contribution towards the cost of their case.</line>
+<line id="S0385">There could be around 100 cases where people previously eligible for non-contributory legal aid for legal representation at hearings through passporting will no longer be eligible.</line>
+<line id="S0387">There could be less than 50 cases where people previously eligible for non-contributory legal aid in the magistrates' courts through passporting would no longer be eligible.</line>
+<line id="S0388">There could be less than 50 cases where people previously eligible for non-contributory legal aid in the Crown Court through passporting would now be subject to the full means test and asked to pay a contribution towards the cost of their case.</line>
+<line id="S0389">There could be less than 50 cases where people previously eligible for non-contributory legal aid in the Crown Court through passporting would no longer be eligible.</line>
+<line id="S0390">All these individuals are likely to be those previously in receipt of a legacy passporting benefit but with earnings from employment sufficiently high to require a payment towards their legal aid costs or to take them outside legal aid eligibility altogether.</line>
+<line id="S0391">Under this option, when these individuals move from legacy benefits to Universal Credit they would not be passported, and earnings would be taken</line>
+<line id="S0392">into account when assessing disposable income.</line>
+<line id="S0393">For those that do not satisfy the financial thresholds for the means test, legal aid may be granted by other mechanisms, for example, the hardship review for Crown Court claimants and waivers to the civil means test in certain circumstances such as cases where there is evidence of domestic violence.</line>
+<line id="S0396">We estimate that the total saving to the legal aid fund of these is £500,000, within a range of £200,000 to £900,000.</line>
+<line id="S0397">As mentioned in paragraph 16, this would be offset by an increase in legal aid spend of £900,000 for those who will become eligible for non-contributory or contributory legal aid.</line>
+<line id="S0399">We are unable to quantify the impact on LAA's administrative cost, since we only collect limited data on those claimants that are currently passported to non-contributory legal aid.</line>
+<line id="S0400">However, given the small net change in those receiving legal aid, we expect any impact to be minimal.</line>
+<line id="S0402">We are unable to quantify the impact on legal aid providers, where responsibility for determining financial eligibility has been delegated to them.</line>
+<line id="S0404">We do not have any information to quantify this impact, but given the small net change in those receiving legal aid, we expect any impact to be minimal.</line>
+<line id="S0456">Most claimants would be unaffected by the change.</line>
+<line id="S0457">However, some of those who are now passported to non-contributory legal aid may have been on a non-passported benefit, and so were subject to a means test to receive either non-contributory legal aid or legal aid with a contribution, or had sufficient means to be ineligible for legal aid.</line>
+<line id="S0458">3.2 We estimate that around 650 claimants would become eligible for non-contributory legal aid through passporting under the proposal, while 500 claimants would become ineligible for non-contributory legal aid, with 250 of those asked for a contribution.</line>
+<line id="S0511">7.13 Our modelling suggests that there would be very little movement from non-contributory legal aid to contributory legal aid in both civil and criminal legal aid if, subject to consultation, the proposal were to be implemented.</line>
+<line id="S0512">This means that the potential for indirect discrimination against the over-represented groups discussed above is limited.</line>
+<line id="S0513">We consider any proposed changes to legal aid financial eligibility to be a proportionate means of achieving the legitimate aim of ensuring legal aid is targeted at those who need it most without incurring additional costs to the taxpayer.</line>
+</text>
+<references>
+<reference number="5">www.gov.uk/government/statistics/legal-aid-statistics-april-to-june-2016. In the 12 months to June 2016, total means tested legal aid workload was 780,000 - 581,000 for criminal (bulletin, page 9), excluding police station workloads which are not means tested, and 199,000 for civil (bulletin, page 23), excluding Special Children’s Act proceedings (table 6.2), which also are not means tested.</reference>
+<reference number="8">www.gov.uk/government/statistics/legal-aid-statistics-april-to-june-2016. In the 12 months to June 2016, total means tested legal aid workload was 780,000 - 581,000 for criminal (bulletin, page 9), excluding police station workloads which are not means tested, and 199,000 for civil (bulletin, page 23), excluding Special Children's Act proceedings (table 6.2), which also are not means tested.</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="44" weight="core">
+<name>No disproportionate equalities impact</name>
+<claim>Because most claimants' eligibility is unchanged and the policy applies identically to everyone, it is not directly or indirectly discriminatory and is a proportionate way to target legal aid without extra cost.</claim>
+<text>
+<line id="S0127">In accordance with our duties under the Equality Act 2010 we have considered the impact of the reduction in eligibility on individuals sharing protected characteristics.</line>
+<line id="S0130">Legal aid claimants in receipt of Universal Credit with earnings from employment would not necessarily lose their eligibility to legal aid since they will be subject to the means test.</line>
+<line id="S0137">Given the limited number of claimants that could be affected by the proposal if it is adopted we do not consider it likely that the proposed changes to legal aid eligibility would result in any particular disadvantage for those with protected characteristics.</line>
+<line id="S0432">We have no evidence to suggest that families would be disproportionately adversely affected by the proposal.</line>
+<line id="S0433">It may be that more families who are in receipt of Child Tax Credit become eligible for free legal aid through passporting, rather than undergoing a means test, but it would not, in most cases, affect their eligibility for legal aid.</line>
+<line id="S0469">6 Available data 6. Although our modelling can estimate policy cost to a reasonable degree of accuracy, and provide an idea of change in financial eligibility, it cannot provide an accurate profile of the characteristics of the affected population for use in equalities analysis. ** (Reference: 10, 12)</line>
+<line id="S0470">6.2 The Legal Aid Agency (LAA) publishes data on the characteristics of legal aid clients for each category of legal aid (civil representation, legal help, mediation, crime lower and crime higher).</line>
+<line id="S0471">The data covers age, gender, disability and ethnicity although data on all of these characteristics is not available for every category of legal aid.</line>
+<line id="S0473">This data provides us with a reasonable picture of legal aid clients’ protected characteristics.</line>
+<line id="S0475">i. there is no data on the other 5 protected characteristics, which means we are unable to make a quantitative assessment of equalities impacts for these, and;</line>
+<line id="S0477">not all clients included in this data have the potential to be affected by the policy.</line>
+<line id="S0478">There are certain categories of law for which clients are not subject to means testing, and therefore not affected by changes to financial eligibility policy. We do not know the extent to which the profile of clients not subject to means testing differs from the profile of those subject to means testing. ** (Reference: 13)</line>
+<line id="S0479">If they do differ considerably, this may affect our ability to draw conclusions about equalities impacts from this data.</line>
+<line id="S0480">6.4 For these reasons we have also made use of the Family Resources Survey (FRS) for this equalities analysis.</line>
+<line id="S0481">The FRS is an annual representative household survey which forms an important part of the modelling of impacts for this policy.</line>
+<line id="S0482">6.5 The FRS cannot tell us which households amongst those financially eligible will experience a civil or criminal justice problem in scope of legal aid which is subject to means testing and for which they pass the merits tests.</line>
+<line id="S0483">However, it allows the best comparison of the protected characteristics of the currently financially eligible population and those who are financially eligible under the policy proposal.</line>
+<line id="S0486">7.2 We do not consider this policy to be directly discriminatory as the changes would be applied in the same way to all criminal and civil legal aid applicants irrespective of their protected characteristics.</line>
+<line id="S0487">No-one would therefore be treated less favourably because of a protected characteristic.</line>
+<line id="S0488">Similarly, to the extent to which this policy may affect civil and criminal legal aid providers we consider that there would be no direct discrimination on the basis of protected characteristics due to the application of the changes in the same way to everyone.</line>
+<line id="S0490">7.4 We have looked at the distribution of protected characteristics among the civil and criminal legal aid populations and compared these to the distribution in the general population. ** (Reference: 14)</line>
+<line id="S0491">7.5 When compared to the general population the following groups were found to be over- represented among legal aid clients and therefore more likely than other groups to be affected by the policy:</line>
+<line id="S0492">i. those aged 19-45, for both civil and criminal legal aid;</line>
+<line id="S0494">those with a long-standing illness or disability (among civil legal help clients);</line>
+<line id="S0495">iii. women (among civil representation clients);</line>
+<line id="S0496">iv. men (among criminal legal aid clients in both magistrates’ courts and Crown courts, men); and v. people with a Black or Black British ethnicity (among civil legal help clients, Crown court legal aid clients, and clients seeking advice at the police station).</line>
+<line id="S0497">7.6 There are a few possible ways in which an individual’s eligibility could change as a result of the policy proposal. In most circumstances there would be no real change in their entitlement to legal aid, only in the way in which their financial eligibility is assessed. ** (Reference: 15)</line>
+<line id="S0498">7.7 Though the current passporting benefits are often described as ‘out of work benefits’, recipients of all three may also be in part-time paid employment. ** (Reference: 16)</line>
+<line id="S0499">7.8 If the income of someone in receipt of a passporting benefit was assessed by the LAA, it is very unlikely that it would exceed the upper threshold for legal aid eligibility.</line>
+<line id="S0500">However, it is possible that their assessed income may mean an income contribution is due. ** (Reference: 17)</line>
+<line id="S0501">7.9 Under the policy option, someone currently in receipt of a passporting benefit with earnings from part-time employment would be subject to the full means test, and therefore may be asked to pay a contribution where they would not have before.</line>
+<line id="S0502">If a significant proportion of those in receipt of passporting benefits have earnings from part-time employment, this may have important equalities implications.</line>
+<line id="S0504">i. recipients of Income Support, the majority (61%) of whom are lone parents. ** (Reference: 18)</line>
+<line id="S0505">A large proportion (90%) of lone parents are women; and ii. ** (Reference: 19)</line>
+<line id="S0506">recipients of Employment Support Allowance, paid to disabled claimants.</line>
+<line id="S0508">i. recipients of Jobseekers’ Allowance, the majority (63%) of whom are men. ** (Reference: 18)</line>
+<line id="S0515">7.15 We have compared the protected characteristics of households currently eligible for legal aid to the protected characteristics of households eligible for legal aid under our policy proposal. ** (Reference: 20)</line>
+<line id="S0516">7.16 We have looked separately at those eligible for civil legal aid and criminal legal aid, because these two populations have quite different distributions of protected characteristics.</line>
+<line id="S0517">7.17 Because the policy tries to approximate closely the existing eligibility criteria, the eligibility status of most households would not change as a result of the policy proposal.</line>
+<line id="S0518">Therefore the protected characteristics of the current eligible population and those of the population eligible under our policy proposal are very similar for both civil and criminal legal aid.</line>
+<line id="S0519">7.18 We have considered the potential for unlawful indirect discrimination on those with protected characteristics.</line>
+<line id="S0520">On the basis of the data available we do not consider it likely that the changes to legal aid eligibility would result in any particular disadvantage for those with protected characteristics.</line>
+<line id="S0521">We consider any changes to legal aid financial eligibility to be a proportionate means of achieving the legitimate aim of ensuring legal aid is targeted at those who need it most without incurring additional costs to the taxpayer.</line>
+<line id="S0522">The need to foster good relations between those sharing a protected characteristic and those not 7.19 Consideration has been given to this objective that indicates it is unlikely to be of particular relevance to the proposal.</line>
+</text>
+<references>
+<reference number="10">For as long as they continue to exist.</reference>
+<reference number="12">In order to estimate policy impacts, our modelling combines information on age, gender, income and case type from legal aid case data with more detailed information on income and benefit entitlement from DWP’s Policy Simulation Model (PSM). We do this by matching records in the legal aid case data to records with broadly similar age, gender and income profiles in the PSM. The information in the case data is insufficient to match clients either precisely, or on the basis of other characteristics (such as disability, ethnicity or pregnancy/maternity).</reference>
+<reference number="13">Care proceedings under the Children Act 1989, for example, account for a large volume of civil representation work but are not subject to means testing where the applicant for legal aid is the child, parent or person with parental responsibility.</reference>
+<reference number="14">Annex A contains the comparison table. From the legal aid statistics quarterly publication for January to March 2016, containing client diversity data for 2015-16, published June 2016. https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/533053/legal-aid-statistics- england-and-wales-client-diversity-data.csv/preview. General population statistics from the 2011 Census (ONS).</reference>
+<reference number="15">See Annex B for a full table of possible movements</reference>
+<reference number="16">Up to 16 hours, with various conditions and deductions from benefit payments.</reference>
+<reference number="17">For legal aid in civil representation, or for legal aid in a Crown Court trial only</reference>
+<reference number="18">DWP quarterly statistical summary, published May 2016 https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/527629/quarterly-stats- summary-may-2016.pdf</reference>
+<reference number="19">ONS (2015) Families and households, 2015. Table 1. http://www.ons.gov.uk/ons/rel/family- demography/families-and-households/2015/index.html</reference>
+<reference number="18">DWP quarterly statistical summary, published May 2016 https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/527629/quarterly-stats- summary-may-2016.pdf</reference>
+<reference number="20">Using the Family Resources Survey (FRS) (see discussion in ‘available data’ section). We have looked at households rather than individuals because both Universal Credit and legal aid eligibility are in general assessed at the household level. The protected characteristics are those of the person in the household interviewed as ‘Person 1’ as part of the FRS.</reference>
+</references>
+<links>
+</links>
+</theme>
+<ungrouped sentences="52">
+<text>
+<line id="S0044">We also describe the other options that have been considered but that we do not propose to pursue.</line>
+<line id="S0302">The proposals assessed in this Impact Assessment (IA) will directly affect the following groups:</line>
+<line id="S0303">Legal aid service providers; for some type of legal aid, such as civil legal help, the authority to assess eligibility is delegated directly to the provider.</line>
+<line id="S0304">Individuals with a civil or criminal justice problem in scope of legal aid</line>
+<line id="S0305">The Legal Aid Agency (LAA)</line>
+<line id="S0312">Under most circumstances, the 'do nothing' option does not involve a cost and so is not explicitly assessed.</line>
+<line id="S0322">Those on low income (but not in receipt of the benefits listed in paragraph 2 above) may be eligible for non-contributory legal aid or be asked to pay a contribution towards their legal costs.</line>
+<line id="S0403">For certain types of legal aid such as civil legal help which covers initial advice and assistance, providers are responsible for undertaken as assessment of the client's financial means.</line>
+<line id="S0406">Our model takes data on legal aid cases, with limited details about clients' financial means, and matches it to national survey data, with much more detailed financial and demographic information, and modelled information from DWP about legacy benefit and Universal Credit receipt.</line>
+<line id="S0407">Clients are matched to a Benefit Unit in the survey data with a similar financial and basic demographic profile. ** (Reference: 9)</line>
+<line id="S0408">We put these matched Benefit Units through the legal aid eligibility tests to get an approximation of cost under the current eligibility rules.</line>
+<line id="S0409">We then put them through the eligibility tests under our policy option to get an approximation of what impact it might have on cost and eligibility.</line>
+<line id="S0411">However, we have imperfect knowledge of both the current system and the world under Universal Credit, so we make simplifications and assumptions where necessary.</line>
+<line id="S0413">the case type and demographic mix of people in the criminal applications and civil grants volumes data remains the same over time;</line>
+<line id="S0414">the cost of each case type remains constant over time;</line>
+<line id="S0415">those who would become financially eligible following the policy change and who also have a justice problem have the same financial circumstances as those at the top income end of the case data (those currently eligible);</line>
+<line id="S0416">We match people in the case data to people in the national survey data who are not totally identical.</line>
+<line id="S0417">We assume people are similar and that their differences will not have a significant impact on our estimates.</line>
+<line id="S0418">Universal Credit will be rolled out according to DWP's most recent published timescale.</line>
+<line id="S0419">Current UC entitlements remain unchanged.</line>
+<line id="S0420">There is always uncertainty in the modelling of policy costs.</line>
+<line id="S0421">The modelling is more sensitive to some of the assumptions made than others.</line>
+<line id="S0422">The principal uncertainty arises from the limited financial information we hold for those in our case data who are passported to free legal aid.</line>
+<line id="S0423">We match these clients with those in the general population who have similar demographics, to generate a more detailed financial profile of those who are currently passported.</line>
+<line id="S0424">We recognise that the income profile of those in our model, especially those we model as coming into eligibility, may not be accurate.</line>
+<line id="S0425">This is because of differences between the characteristics of the legal aid population (from our case data) and those of the general population (from the survey data).</line>
+<line id="S0426">Any inaccuracy will make a difference to policy costs and benefits, especially where modelled incomes are close to eligibility thresholds.</line>
+<line id="S0427">We assume that our case mix and average case costs are the same as in our current case data.</line>
+<line id="S0428">It does not include any future policy changes related to fees.</line>
+<line id="S0429">If case costs are higher, or if we have a greater proportion of more expensive cases, then our cost estimates would be higher also.</line>
+<line id="S0430">Although as this change could happen without the introduction of Universal Credit, we believe it is correct to exclude it from this analysis.</line>
+<line id="S0450">The policy has the potential to affect people with a criminal or civil justice problem in scope of legal aid who:</line>
+<line id="S0451">i. are currently in receipt of income-based Jobseekers Allowance, Employment Support Allowance or Income Support (current passported benefits) and may be in receipt of Universal Credit by the time roll-out is complete;</line>
+<line id="S0452">ii. are currently in receipt of Working Tax Credits, Child Tax Credits or Housing Benefit and may be in receipt of Universal Credit by the time roll-out is complete; and those who iii. are currently not in receipt of any legacy benefits and may be in receipt of Universal Credit by the time roll-out is complete.</line>
+<line id="S0454">The policy also has the potential to affect civil legal aid providers who conduct means tests for legal help and mediation work.</line>
+<line id="S0459">There are mechanisms by which those who do not satisfy the financial thresholds for the means test can ultimately be granted legal aid, such as the hardship review for crown court claimants and waivers to the civil and family means test, which includes protective injunctions in domestic violence matters.</line>
+<line id="S0527">Annette has a housing disrepair case and needs legal advice.</line>
+<line id="S0565">Civil legal aid Legal Help and mediation Non-contributory legal aid (via passporting), subject to assessment of capital Non-contributory legal aid (via passporting), subject to assessment of capital In receipt of a legacy passporting benefit with 0 income from employment, migrated to UC Non-contributory legal aid (via passporting), subject to assessment of capital In receipt of a legacy passporting benefit with positive income from employment (1), migrated to UC Non-contributory legal aid (via full means testing), subject to assessment of capital; or ineligible for legal aid (via full means testing), depending on the level of disposable income client is assessed to have New recipient of UC Non-contributory legal aid (via passporting); subject to assessment of capital Non-contributory legal aid (via passporting, if 0 income from employment, subject to assessment of capital; non-contributory legal aid via full means testing if positive income from employment), subject to assessment of capital; or ineligible for legal aid (via means testing), depending on the level of disposable income client is assessed to have Civil representation Non-contributory legal aid (via passporting), subject to assessment of capital Non-contributory legal aid (via passporting), subject to assessment of capital In receipt of a legacy passporting benefit with 0 income from employment, migrated to UC Non-contributory legal aid (via passporting), subject to assessment of capital In receipt of a legacy passporting benefit with positive income from employment (1), migrated to UC Non-contributory or contributory legal aid (via full means testing), subject to assessment of capital; or ineligible for legal aid (via full means testing), depending on the level of disposable income client is assessed to have New recipient of UC Non-contributory legal aid (via passporting), subject to assessment of capital Non-contributory legal aid (via passporting, if 0 income from employment, subject to assessment of capital; non-contributory or contributory legal aid via full means testing if positive income from employment), subject to assessment of capital; or ineligible for legal aid (via means testing), depending on the level of disposable income client is assessed to have Criminal legal aid Magistrates court (trials only)</line>
+<line id="S0566">Granted criminal legal aid (via passporting)</line>
+<line id="S0567">Granted criminal legal aid (via passporting)</line>
+<line id="S0568">In receipt of a legacy passporting benefit with 0 income from employment, migrated to UC Granted criminal legal aid (via passporting)</line>
+<line id="S0569">In receipt of a legacy passporting benefit with positive income from employment (1), migrated to UC Granted criminal legal aid (via full means testing); or Ineligible for criminal legal aid (via full means testing), depending on the level of disposable income client is assessed to have.</line>
+<line id="S0570">Granted criminal legal aid (via New recipient of UC passporting)</line>
+<line id="S0571">Granted criminal legal aid (via passporting)</line>
+<line id="S0572">if 0 income from employment; or granted criminal legal aid (via full means testing); or Ineligible for criminal legal aid (via full means testing), depending on the level of disposable income client is assessed to have.</line>
+<line id="S0574">Granted criminal legal aid (via passporting)</line>
+<line id="S0575">Granted criminal legal aid (via passporting)</line>
+<line id="S0576">In receipt of a legacy passporting benefit with 0 income from employment, migrated to UC Granted criminal legal aid with zero contribution (via passporting)</line>
+<line id="S0577">In receipt of a legacy passporting benefit with positive income from employment (1), migrated to UC Non-contributory or contributory criminal legal aid (via full means testing), subject to assessment of income and/or capital; or Ineligible for criminal legal aid (via full means testing), depending on the level of disposable income client is assessed to have.</line>
+<line id="S0578">Granted criminal legal aid with zero New recipient of UC contribution (via passporting)</line>
+<line id="S0579">Granted criminal legal aid (via passporting)</line>
+<line id="S0580">if 0 income from employment; Non-contributory or contributory criminal legal aid (via full means testing) subject to assessment of income and/or capital; or Ineligible for criminal legal aid (via full means testing), subject to an assessment of their client’s disposable income (1) Dependent on a few factors, those on JSA, ESA and Income Support may earn a certain amount per week from paid employment</line>
+</text>
+<references>
+<reference number="9">Universal Credit is paid to 'units' rather than individuals. In practice this will usually resemble a household or family, but could be a single person living in a shared household.</reference>
+</references>
+<links>
+</links>
+</ungrouped>
+</root>

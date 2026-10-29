@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Linking State Pension age to life expectancy for fairness between generations",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 32% principle is tied to the last 25 years' experience (Reference 1/38/39 gives 31.3% vs 1992-2016 and the 2028-2060 period) and to Government Actuary and DWP modelling (References 3, 4), but the reasoning that 32% is 'the right proportion' is largely asserted and uncertainty is not assessed here."
+    },
+    {
+      "theme": "Rise to 68 in 2037\u201339 and the pace of change",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Table A and Reference 43 give DWP modelling with a stated scope (rise to 68 only, UK, 2037/38-2045/46) and Reference 36 explains the proportion reached in 2037, but the one-year-in-ten pace and back-to-back argument rest mostly on Cridland's reasoning and the claim that 'baby boomers' have seen three rises is uncited."
+    },
+    {
+      "theme": "Affordability and rejection of lower pensions",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The \u00a374bn saving and 0.4% GDP figure carry References 17 and 37 (Annex modelling, \u00a311bn divided by ONS households) and 0.3% GDP per year cites OBR (15), but the rejection of lower pensions as increasing poverty is asserted without evidence and the modelling assumptions are only partly stated."
+    },
+    {
+      "theme": "Maintaining a universal State Pension age",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Evidence includes ONS life expectancy trends (Reference 40) and PPI analysis via Cridland, but the PPI and variation-within-countries findings are uncited here and the 'no practical or workable ways' claim is asserted."
+    },
+    {
+      "theme": "Further review before legislating and no formal timetable beyond 68",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Acknowledges that 'life expectancy projections are uncertain' and that Cridland used 2012- and 2014-based ONS projections, but the uncertainty is not quantified or sourced, and only Reference 18 (31.3% figure) is cited for the 32% point."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Background on the Pensions Act 2014, Government Actuary timetables (Reference 35), employment effects (Reference 33) and OBR forecasting assumptions (Reference 44) is mostly cited and explained, though several statements such as the old age dependency ratio comparison are uncited."
+    }
+  ],
+  "reasoning": "The five core themes were scored on how far the document shows and sources its evidence for raising State Pension age to 68. Three reach level 2 and two reach level 1, with a mean of 1.6, which rounds to 2. The strongest material is the costings: the claim of a \u00a374 billion saving to 2045/46 comes with Table A, Reference 43 (DWP modelling, UK, 2037/38 to 2045/46, covering the rise to 68 only) and Reference 37 (an \u00a311bn difference divided by ONS household numbers), so a motivated reader can see how the figures were produced. The 32% principle is also sourced: References 1, 38 and 39 give 31.3% against 1992-2016 experience, and References 3 and 4 point to the Government Actuary and DWP modelling. Level 3 is not reached because the document hardly assesses its evidence. Uncertainty is mentioned only generally, in lines like 'recent decades have shown that life expectancy projections are uncertain', and the further review before legislating is described rather than evidenced. The 'universal pension age' and 'further review' themes sit at level 1, since key findings such as the PPI analysis are not cited. The rejection of lower pensions ('would increase pensioner poverty') and the argument that back-to-back rises burden baby boomers are asserted without data. The strongest counter-example to level 2 is the pace-of-change theme, where much rests on Cridland's reasoning rather than evidence. To reach level 3, the document would need to assess the quality of its life-expectancy projections, show sensitivity of costs to alternative projections, and engage with contradictory evidence, such as lower life expectancy in disadvantaged groups.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.6,
+  "score_consistent": true,
+  "missing_core": []
+}

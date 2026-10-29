@@ -1,0 +1,57 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Tourism's economic importance and record growth",
+        "claim": "Tourism is a vital and growing UK industry, providing 1.6 million jobs, record overseas and domestic spend and over £62bn GVA, so its success is worth sustaining and spreading."
+      },
+      {
+        "name": "Spending concentrated in London",
+        "claim": "Over 50% of international visitor spend remains in London because many overseas visitors never venture beyond the capital, even though some regions are growing faster than London, so the sector needs rebalancing."
+      },
+      {
+        "name": "Barriers to exploring beyond London",
+        "claim": "Visitors are deterred from exploring regions by fear of driving on the left and by difficulty finding information and booking tickets for public transport, and by the reliance on air gateways and London as the first-time destination, so transport and connectivity must improve."
+      },
+      {
+        "name": "Fragmented industry and structural constraints",
+        "claim": "The diverse, fragmented and competitive sector finds collaboration costly despite its collective benefit, and is mainly small and seasonal businesses, which makes co-ordinated promotion and growth hard without government action."
+      }
+    ],
+    "note": "Diagnosis includes some garbled chart-fragment sentences (S0037-S0054) that repeat the growth statistics."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Co-ordination and funding to build regional tourism",
+        "claim": "Joining up government departments, devolved administrations, tourism bodies and events support, and funding regional product through the £40m Discover England Fund, will strengthen regional tourism and spread its benefits beyond London."
+      },
+      {
+        "name": "Transport and connectivity to reach the regions",
+        "claim": "Better rail offers, booking, smart ticketing and open data, road investment, regional airports and new direct routes will make it easier for international visitors to travel beyond London."
+      },
+      {
+        "name": "Skills, small business support and deregulation",
+        "claim": "Apprenticeship pilots, careers promotion, productivity tools, broadband and targeted deregulation of private hire, alcohol licensing, VAT refunds and money laundering thresholds will help tourism businesses, mostly SMEs, to grow."
+      },
+      {
+        "name": "Welcoming visa service and promotion",
+        "claim": "Capping visa fee rises, improving visa services in key markets and promoting the offer through GREAT campaigns and the China Welcome Charter will make Britain more attractive and accessible to visitors."
+      }
+    ],
+    "note": "The proposal is a package of separate measures, with little argument for why these were chosen over alternatives."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Phased, competitive Discover England funding with shared learning",
+        "claim": "The Discover England fund is delivered through phased bids, with larger consortium bids aligning public and private funding streams and a condition that learning is shared so successes can be replicated."
+      },
+      {
+        "name": "Piloting and industry partnership delivery",
+        "claim": "Measures such as the apprenticeship pilot and GREAT Rail itineraries are delivered by piloting with industry partners and then drawing on the results to shape wider approaches."
+      }
+    ],
+    "note": "Implementation is thin, mostly announcing launches and pilots with little justification for the delivery methods; the Testing-labelled sentences carry the learning argument."
+  }
+}

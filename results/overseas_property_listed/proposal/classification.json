@@ -1,0 +1,144 @@
+{
+  "themes": [
+    {
+      "name": "Transparency register as anti-corruption tool",
+      "ids": [
+        "S0012",
+        "S0013",
+        "S0014",
+        "S0015",
+        "S0016",
+        "S0017",
+        "S0025",
+        "S0028",
+        "S0029",
+        "S0060",
+        "S0143",
+        "S0144",
+        "S0145",
+        "S0170",
+        "S0172",
+        "S0178",
+        "S0179",
+        "S0183",
+        "S0184",
+        "S0194",
+        "S0195",
+        "S0196",
+        "S0197",
+        "S0198",
+        "S0200",
+        "S0201",
+        "S0251",
+        "S0252",
+        "S0253",
+        "S0838",
+        "S0840",
+        "S0841",
+        "S0921",
+        "S0922",
+        "S0924"
+      ]
+    },
+    {
+      "name": "Extending coverage to existing owners and procurement",
+      "ids": [
+        "S0018",
+        "S0026",
+        "S0027",
+        "S0187",
+        "S0188",
+        "S0189",
+        "S0190",
+        "S0191",
+        "S0192",
+        "S0653",
+        "S0711",
+        "S0712",
+        "S0713",
+        "S0714",
+        "S0715",
+        "S0927",
+        "S0930",
+        "S1030",
+        "S1031"
+      ]
+    },
+    {
+      "name": "Balancing transparency with proportionality for investors",
+      "ids": [
+        "S0019",
+        "S0020",
+        "S0022",
+        "S0023",
+        "S0024",
+        "S0030",
+        "S0031",
+        "S0032",
+        "S0098",
+        "S0099",
+        "S0100",
+        "S0940",
+        "S0942",
+        "S0944",
+        "S0946"
+      ]
+    },
+    {
+      "name": "Commissioning evidence to assess costs and benefits",
+      "ids": [
+        "S0395",
+        "S0396"
+      ]
+    },
+    {
+      "name": "UK's leading position and regulatory approach",
+      "ids": [
+        "S0148",
+        "S0149",
+        "S0150",
+        "S0152",
+        "S0153",
+        "S0154",
+        "S0361",
+        "S0362",
+        "S0363",
+        "S0365",
+        "S0370",
+        "S0372",
+        "S0629",
+        "S0630",
+        "S0631",
+        "S0632",
+        "S0633"
+      ]
+    },
+    {
+      "name": "Compliance mechanisms and enforcement",
+      "ids": [
+        "S0437",
+        "S0438",
+        "S0439",
+        "S0707"
+      ]
+    },
+    {
+      "name": "Privacy protections and concerns",
+      "ids": [
+        "S0923",
+        "S0948",
+        "S0973",
+        "S0975",
+        "S0977",
+        "S0979"
+      ]
+    },
+    {
+      "name": "Consultation and stakeholder feedback",
+      "ids": [
+        "S0934",
+        "S0935"
+      ]
+    }
+  ]
+}

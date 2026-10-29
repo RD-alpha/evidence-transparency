@@ -1,0 +1,52 @@
+{
+  "themes": [
+    {
+      "name": "Scale and health consequences of childhood obesity",
+      "ids": [
+        "S0013",
+        "S0014",
+        "S0016",
+        "S0017",
+        "S0163"
+      ]
+    },
+    {
+      "name": "Inequality in obesity burden",
+      "ids": [
+        "S0018",
+        "S0019"
+      ]
+    },
+    {
+      "name": "Excess sugar and calorie intake",
+      "ids": [
+        "S0020",
+        "S0021",
+        "S0027",
+        "S0028",
+        "S0029"
+      ]
+    },
+    {
+      "name": "Low physical activity and early-years onset",
+      "ids": [
+        "S0086",
+        "S0087",
+        "S0141"
+      ]
+    },
+    {
+      "name": "Sugar labelling and clarity for families",
+      "ids": [
+        "S0135",
+        "S0136"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": [
+        "S0015"
+      ]
+    }
+  ]
+}

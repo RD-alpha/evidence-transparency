@@ -1,0 +1,22 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Reform rationale for HE/employment readiness",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim that HE institutions report students lacking knowledge/skills is backed by Reference 2 (Ipsos MORI 2012 report and Cambridge Assessment survey of 633 lecturers), a linkable, named source directly tied to the claim."
+    },
+    {
+      "theme": "Linear, decoupled assessment structure",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that linear/decoupled structure 'allows more time for teaching and deeper understanding' is asserted with no statistic, study, or cited source supporting it."
+    }
+  ],
+  "reasoning": "Both themes are marked core, so the section score is the mean of their levels. Theme 1 (HE/employment readiness) reaches level 2: the claim that 'students lack some of the knowledge and skills necessary for undergraduate success' is explicitly tied to Reference 2, which names two concrete, findable studies (a 2012 Ipsos MORI report and a Cambridge Assessment survey of 633 university lecturers) - a reader could locate and check these sources, and the link between claim and evidence is clear, though no assessment of the evidence's strengths/weaknesses is offered, so it does not reach level 3. Theme 2 (linear, decoupled structure) reaches level 0: the lines simply assert that linear exams and decoupling 'allow more time for teaching' and deepen understanding, with no data, study, or named source behind this reasoning - it is argument alone. The mean of 2 and 0 is 1, giving a section score of 1. The strongest counter-example to a higher score would be if evidence on modular vs linear outcomes existed elsewhere in the document, but none appears in this extract. To reach level 2 overall, the document would need to cite evidence (e.g., research on modular assessment's effect on depth of learning) for the linear/decoupled claim; to reach level 3, it would need to also acknowledge any contrary findings or limitations in the HE-readiness survey evidence.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

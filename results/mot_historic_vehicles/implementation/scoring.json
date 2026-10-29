@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Defining 'substantial change'",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 8-point DVLA rule, the 5-point chassis requirement and the pre-1988 disregard (lines 1.13, 1.14, Table 2) are described as options with no evidence that they will work or reasons why these thresholds were chosen; the only support is a pointer to the Gov.uk website with no reference."
+    },
+    {
+      "theme": "Transposition timetable and scope",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 20 May 2018 deadline, the 2022 motorcycle date and the 30-year minimum (lines 1.7 and the deadline lines) are stated as constraints from the Directive with no citation, and they describe what the rules allow rather than offering evidence for the delivery choices."
+    },
+    {
+      "theme": "Delivery of any VHI safety test and certification",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 1.17 and the following ones only state expectations that MOT garages can deliver the test and that it covers identity, brakes, steering, tyres and lights, with no evidence and an admission that firm details are not worked up."
+    },
+    {
+      "theme": "Mileage restriction for exempt vehicles",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Line 1.8 mentions that many insurers include mileage limits in VHI policies, an uncited and unquantified observation offered as grounds for considering a restriction."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line admits 'We have no evidence available' on the number of vehicles in scope, so no evidence is offered, though the gap is acknowledged."
+    }
+  ],
+  "reasoning": "The three core themes score 0, 0 and 0, giving a mean of 0 and a section score of 0. 'Defining substantial change' proposes the DVLA 8-point rule, a 5-point chassis requirement and disregarding pre-1988 modifications (lines 1.13 and 1.14). It gives no reason why these thresholds suit vehicles of historic interest, and no evidence that they would work. The only supporting pointer is 'This system can be found on the Gov.uk website', which is not a reference and does not show that the rule fits this purpose. 'Transposition timetable and scope' states the 20 May 2018 deadline, the 2022 start for motorcycles and the 30-year floor. These describe the Directive's constraints without citing it, so the reader cannot follow them to a source. 'Delivery of any VHI safety test' says only that MOT garages 'should be able' to provide testing and that 'Firm details have not yet been worked up'. These are expectations, not evidence. The strongest counter-example for a higher score is the admission in 'Other', 'We have no evidence available to indicate how many vehicles would be in scope', and the statement that comments will be sought. This is honest about a gap, and it gives a method for deciding, but it offers no evidence to assess. To reach level 1, the document would need to give some evidence for the thresholds, such as DVLA registration data on altered vehicles, or garage capacity figures. To reach level 2, it would also need citations and a clear chain of reasoning from that evidence to each choice.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

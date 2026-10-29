@@ -1,0 +1,5 @@
+{
+  "reasoning": "The extract contains only two sentences: a statement that 'It will be reviewed' and a review date of 10/2021. There is no mention of success measures, outcomes to be tracked, testing plans, or how evaluation will be conducted. There is no explanation of what 'review' will entail, who will carry it out, what evidence will be considered, or what will happen to the results. This falls short of even level 1, which requires at least some indication of success measures. The strongest counter-example to raising the score is that 'it will be reviewed' gives a date but no substantive plan, measure, or method - it's essentially a placeholder commitment rather than an evaluation framework. To reach level 1, the document would need to specify at least some outcome or success measure that would be checked at review. To reach higher levels, it would need to detail testing plans, specific outcomes to measure, evaluation methodology, and publication plans for results.",
+  "score": 0,
+  "block": true
+}

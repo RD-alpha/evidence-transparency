@@ -1,0 +1,96 @@
+{
+  "themes": [
+    {
+      "name": "Claims mechanism through corporation tax",
+      "ids": [
+        "S0080",
+        "S0081",
+        "S0082",
+        "S0083",
+        "S0084",
+        "S0085",
+        "S0086",
+        "S0087",
+        "S0089",
+        "S0094",
+        "S0095",
+        "S0096",
+        "S0115",
+        "S0116"
+      ]
+    },
+    {
+      "name": "Limits on relief and State aid compliance",
+      "ids": [
+        "S0091",
+        "S0092",
+        "S0093",
+        "S0107",
+        "S0108",
+        "S0110",
+        "S0111",
+        "S0112",
+        "S0113"
+      ]
+    },
+    {
+      "name": "Anti-abuse safeguards",
+      "ids": [
+        "S0121",
+        "S0122",
+        "S0123",
+        "S0124"
+      ]
+    },
+    {
+      "name": "Timetable and consultation to settle details",
+      "ids": [
+        "S0103",
+        "S0104",
+        "S0105",
+        "S0106",
+        "S0154",
+        "S0215",
+        "S0216",
+        "S0217"
+      ]
+    },
+    {
+      "name": "Eligible costs and worked examples",
+      "ids": [
+        "S0117",
+        "S0118",
+        "S0119",
+        "S0120",
+        "S0142",
+        "S0143",
+        "S0144",
+        "S0145",
+        "S0146",
+        "S0147",
+        "S0148",
+        "S0149",
+        "S0150",
+        "S0152",
+        "S0153",
+        "S0155",
+        "S0156",
+        "S0157",
+        "S0158",
+        "S0159"
+      ]
+    },
+    {
+      "name": "Charitable status, VAT and administrative support",
+      "ids": [
+        "S0088",
+        "S0090",
+        "S0178"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": []
+    }
+  ]
+}

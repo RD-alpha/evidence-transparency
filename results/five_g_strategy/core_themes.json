@@ -1,0 +1,57 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Unproven commercial case for 5G",
+        "claim": "The business case for 5G investment is not yet established because the technology is still in development, its uses and returns are uncertain, and the market needs time to learn how to deploy and monetise it at scale."
+      },
+      {
+        "name": "Scale of infrastructure and private investment required",
+        "claim": "5G, especially small-cell deployment, needs a step change in infrastructure (hundreds of thousands of small cells, dense fibre, civil engineering skills) that must come overwhelmingly from the private sector, with fibre access a critical limiting factor."
+      },
+      {
+        "name": "Large but speculative economic potential",
+        "claim": "5G could enable wide-ranging new applications across sectors and large economic and public-service benefits, though estimates are speculative and exact uses cannot be predicted."
+      },
+      {
+        "name": "Technical complexity and immature standards",
+        "claim": "5G is a complex, evolving system of systems with standards still being agreed, requiring convergence with fixed networks, spectrum availability, and flexible regulation and planning that may need to go further."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "National 5G testbeds and trials programme",
+        "claim": "The government will fund a national hub-and-spoke programme of testbeds and trials, starting with a £16 million 5G Innovation Network, to prove the technology works and that a market exists, filling gaps where there is no clear commercial case without replacing private investment or existing research."
+      },
+      {
+        "name": "Government as facilitator and coordinator, not subsidiser",
+        "claim": "Industry is best placed to determine and fund 5G, so government will coordinate, build on existing UK strengths and projects (systems integration, cyber security), create a supportive framework and use public purchasing power to drive early demand rather than simply subsidise."
+      },
+      {
+        "name": "Supporting fibre, infrastructure sharing and regulation",
+        "claim": "Government will back the fibre and infrastructure base 5G depends on through full-fibre funding, rate relief, and work with Ofcom on infrastructure sharing, while protecting investment incentives."
+      }
+    ],
+    "note": "The proposal is a package of related measures centred on the testbeds and trials programme, with the alternatives of direct subsidy or replacing existing R&D rejected only briefly."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Delivery of the testbeds and trials programme",
+        "claim": "The programme will be delivered through a DCMS centre of 5G expertise, an initial facility with an end-to-end trial in early 2018, competitively funded spokes that scale up over time, and common standards of interoperability, replicability and openness."
+      },
+      {
+        "name": "Reviews, reports and regular updating",
+        "claim": "Delivery rests on dated reviews and reports (many by end of 2017), evidence gathered from trials, and a living strategy updated regularly as understanding improves."
+      },
+      {
+        "name": "Government, local and regulator governance",
+        "claim": "Delivery will be coordinated through a single lead minister, a Digital Infrastructure Officials Group, local connectivity plans linked to funding, a working group with industry and Ofcom reviews of spectrum, coverage and sharing."
+      }
+    ],
+    "note": "Implementation is a package of many separate actions, with little explicit argument for why these delivery methods were chosen or costed."
+  }
+}

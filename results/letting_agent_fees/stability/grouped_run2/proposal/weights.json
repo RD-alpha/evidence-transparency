@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Rationale and Benefits of Banning Letting Fees",
+      "reason": "This theme directly explains why the government chose a ban as the intervention and the expected benefits for tenants and landlords, making it the central justification for the policy choice.",
+      "weight": "core"
+    },
+    {
+      "theme": "Transparency Requirements and Their Shortcomings",
+      "reason": "This explains why the previous, less interventionist approach (transparency requirements) failed to solve the problem of high, opaque fees, providing the evidential basis for rejecting alternatives and justifying the stronger ban; without this the case for why a ban (rather than continued transparency rules) is needed would be weaker.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope, Design and Legal Definition of the Ban",
+      "reason": "This covers detailed design and definitional choices of the ban, which are important implementation details but not the core rationale for why the intervention was chosen.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Market Impact on Fees, Rents and Agent Behaviour",
+      "reason": "This discusses expected market responses and cost-benefit assumptions, supporting the should-explain point on costs/benefits, but is secondary to the main rationale and evidence themes.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Scottish Precedent, Legislation and Evidence",
+      "reason": "This provides the key empirical evidence base (what has been tried before and whether it worked) underpinning the government's confidence in the ban, directly addressing the should-explain point on evidence and prior experience; removing it would leave the policy choice without its main supporting evidence.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+S0005 The private rented sector is an important part of our housing market.
+S0006 It has almost doubled in size in the decade to 2014-15, housing 4.3 million households in England.
+S0007 The sector now represents 19% of all households, up from 11% in 2004-05. 3. ** (Reference: 1)
+S0012 Landlords pay fees to letting agents for carrying out these duties on their behalf.
+S0013 Letting agents also charge fees to tenants for a variety of reasons, including seeking references, inventory services and contract negotiations.
+S0014 5. Letting agent fees to tenants vary considerably and can run into hundreds of pounds.
+S0015 Tenants have little control over these fees because the agent is appointed by the landlord.
+S0016 It is also not simple for tenants to understand and compare agent fees since there is significant variation in the way that agents charge for their services.
+S0130 Fees are charged by agents to both landlords and tenants at a number of points during the tenancy.
+S0131 The services provided by letting agents and their charging arrangements vary considerably.
+S0134 At the outset of a tenancy, tenants are generally requested to provide a month’s rent in advance as well as a deposit.
+S0135 There is currently no limit on the amount of deposit that can be requested from a tenant but it is generally equivalent to between one and two months’ rent.
+S0136 Letting fees are a separate charge levied for a variety of reasons, most commonly for seeking references, inventory services and contract negotiations.
+S0138 In the English Housing Survey 2014/15, private renters were asked whether they were charged a fee (excluding any deposit) by a landlord or letting agency in their tenancy: 40% said that they were, up from 34% in 2009-10.
+S0139 When asked what type of fee(s) they had paid, 65% of private renters said they paid an administration fee, 33% paid a finders’ fee, 7% paid a non-returnable holding fee, 5% paid a returnable holding fee and 4% paid an ‘other fee’.
+S0142 Survey information collected by the National Approved Letting Scheme (NALS), the Association of Residential Letting Agents - Property Mark (ARLA), Citizens’ Advice and Generation Rent demonstrates that the most commonly charged fees are those for carrying out reference checks, negotiating the tenancy agreement, check-in and check-
+S0143 out (including inventory). These costs may be charged to tenants as part of the general administration fee rather than individually itemised. ** (Reference: 3)
+S0145 Renters are also generally requested to pay a holding fee to confirm their interest in a property.
+S0146 This fee will be taken by the letting agent and should lead to the property being taken off the market whilst reference checks are undertaken and the tenancy agreement is negotiated.
+S0147 The deposit should be refunded should the renter proceed with the tenancy or if the agent or landlord withdraws.
+S0148 The holding deposit is likely not to be refunded in instances where the renter decides to withdraw.
+S0150 Renters pay an average of £200-£300 in letting fees per tenancy although many pay significantly more than this.
+S0151 The English Housing Survey 2014-15 found that the mean average fee paid by a household in 2014-15 was £223, while the median was £200.
+S0152 By contrast, the National Approved Letting Scheme found that the average fee charged is £172 with costs ranging from £30 to £500 (inclusive of VAT) and Generation Rent found that the average paid by two tenants is £400 with fees ranging from £40 to £780. Shelter found that one in seven renters pay £500 or more in letting fees. 32. ** (Reference: 4,5)
+S0153 DCLG officials undertook some market research of letting agent fees.
+S0154 We randomly chose 50 agents of differing sizes and models (i.e. franchises, independents and national branches) across the country and searched their website for a list of letting fees charged to tenants.
+S0155 This exercise reinforced how difficult it is for tenants to both find and compare agent fees since it was not always simple to either find the fees on the agent’s website or to understand exactly what was included in them.
+S0157 The table below summarises the findings of DCLG’s market research exercise and outlines the fees charged by letting agents for the main services provided during the letting process:
+S0158 Highest
+S0159 Lowest Action (£)
+S0160 (£)
+S0161 Highest Mean (£) Median (£) (£)
+S0162 Set up fee/Application Fee fee 50.00 420.00 202.00 180.00
+S0163 Reference Checks 25.00 240.00 86.00 75.00
+S0164 120.00 747.00 318.00 300.00
+S0165 Tenancy Agreement 36.00 300.00 179.00 185.00 Guarantor Checks 25.00 378.00 95.00 62.50 Tenancy Renewal 15.00 150.00 85.00 75.00 Tenancy Amendment 25.00 432.00 115.00 100.00 Total Fees (includes set-up fee, referencing, tenancy agreement, 120.00 747.00 318.00 300.00 check in/check out and inventory)
+S0167 The findings above demonstrate that the fees charged to tenants vary considerably amongst agents, even though the services provided are broadly similar, and that in some instances the fees charged can be significant.
+S0168 Generation Rent’s findings also demonstrate the inconsistency in fees charged.
+S0169 They found that, for two tenants, reference check fees ranged from £20 to £570; charges for tenancy agreements ranged from £48 - £480; inventory costs ranged from £50-£216. 35. ** (Reference: 6)
+S0170 The majority of tenancies are granted for between six and twelve months initially. Many tenants therefore pay letting fees several times over in a relatively short period of time either because they move home and need to pay letting fees for a new tenancy or because of charges arising from renewal or extension of their existing contract. ** (Reference: 7)
+S0173 Letting agent fees to landlords tend to be based on a percentage of the annual rent.
+S0174 Typical rates of commission are 10% for a ‘let only’ or introductory service and 13-15% for management services.
+S0175 Additionally, it is increasingly common for landlords to be charged further fees for referencing, inventories, negotiation of the tenancy agreement, deposit protection, check-in and check-out and arrangement of works (usually a percentage of the works value).
+S0177 As with tenant fees, letting agent fees paid by landlords vary from agent to agent.
+S0178 The National Landlords Association Quarter 4 survey, December 2016, asked 360 landlords if they were charged any additional fees by their letting or managing agent, in addition to commission charged.
+S0180 anecdotal evidence is that fees are significantly less than those charged by letting agents with a number of landlords charging no fees at all. 39.
+S0181 Citizens Advice found that 6 in 10 (60%) private renters paid fees to rent their current property but this figure rises to almost 9 in 10 (88%) where the property is managed by a letting agent. ** (Reference: 9)
+S0182 This demonstrates that tenants are much more likely to be charged letting fees when the property is let through an agent than directly through the landlord.
+S0184 Where landlords do charge their tenants letting fees, these tend to cover reference checks (including for guarantors if required), inventory services and a tenancy deposit fee dependent on the scheme used.
+S0185 These charges are generally to cover the cost of a specified, and usually outsourced, service.
+S0186 For example, landlords using the National Landlords Association credit checking service would pay between £8.95 (for a basic credit check) and £24.50 (for a full referencing report) per tenant.
+S0189 Despite the transparency requirements of the Consumer Protection Act 2015, not all agents clearly display their fees either in their offices or on their website.
+S0190 Of the 912 agents surveyed by Generation Rent, 12% did not publically display their fees. A fine of up to £5,000 can be levied against agents who fail to comply. ** (Reference: 10)
+S0193 Further, agents display their fees to tenants in different ways.
+S0194 Some provide an itemised list of the different services provided, such as referencing, inventory, etc. with a cost ascribed to each whereas others simply display the sum total of fees charged.
+S0195 Some agents also charge their fees on a per tenant basis whereas others charge per tenancy agreement.
+S0196 43. NALS’ survey found that 98% of the 388 agents surveyed charge tenant fees.
+S0197 Of those, 69% charge a flat or single fee and 31% charge an itemised bill.
+S0199 Given the variation in practices with regards to displaying tenant fees, it is very difficult for a tenant to understand the total fees that they will be charged during a tenancy and even more difficult to compare agents.
+S0201 There is also confusion in the sector between landlords and tenants around who is paying for which letting agent service, which diminishes their power to challenge letting agents if they think that the fees are not being charged correctly, or to the correct party.
+S0202 A quarter of the landlords surveyed by the NLA either did not know whether their letting agent charged fees to tenants or said that no fees were charged. ** (Reference: 11)
+S0204 The transparency requirements introduced in the Consumer Rights Act 2015 include a requirement for letting agents to publicise a full tariff of their fees.
+S0205 This has demonstrated that tenants are sometimes charged for services that are also considered part of the landlord’s fee to the agent, so the agent is effectively double charging.
+S0207 Whilst most letting and managing agents provide a reputable service, a minority of agents offer a poor service and engage in unacceptable practices.
+S0208 Some agents may be motivated to act in their own interests, which may be contrary to the interests of the tenant or landlord.
+S0209 Some letting agents exploit their role as an intermediary between the tenant and landlord by imposing unfair charges on the tenant or double charging tenants and landlords for the same service.
+S0210 Shelter’s 2013 report found that nearly one in four people in England and Wales feel that they’ve been charged unfair fees by a letting agent. Improving transparency and competition ** (Reference: 12)
+S0212 Transparency requirements were introduced in the Consumer Rights Act 2015 to better enable tenants and landlords to compare letting agents and to shop around on the basis of their fees and services.
+S0213 The Government committed to reviewing the effectiveness of the transparency requirements.
+S0214 As part of the 2016 Client Money Protection call for evidence, stakeholders were asked whether the requirements have been effective in enabling tenants to shop around and choose registered agents.
+S0216 The majority of responses welcomed the requirements but said that they are not sufficient to improve the lettings market.
+S0217 Many respondents said that they have seen no evidence that the transparency regulations have had a significant impact on driving up standards.
+S0218 A number also said that enforcement of the regulations has not been effective or consistent.
+S0220 The variation in the way agents charge for their services, with some still not publically displaying their fees at all, further evidences that the transparency requirements have not had their intended impact.
+S0222 However, even if all agents were fully compliant with the transparency requirements a tenant would still have little to no ability to negotiate or opt-out of letting fees since the decision to appoint a letting agent sits with the landlord.
+S0223 Landlords will be motivated to find the agents with the lowest landlord fees but they have little or no incentive to find agents with low fees for tenants.
+S0224 Indeed, some agents may keep their landlord fees down by charging increased fees to tenants.
+S0226 Letting agents similarly have little incentive to minimise the extent of the fees to tenants.
+S0227 This means that competitive pressure for letting agents’ fees charged to tenants is currently very weak.
+S0228 This helps to explain why fees to tenants have risen significantly in recent years and why there is such a variety in fees charged.
+S0230 In theory, a tenant could opt not to rent a property on the basis that the fees charged by the letting agent are too high.
+S0231 However, it is not straightforward for tenants to understand and compare agent fees given the variation in the manner that agents 12https://england.shelter.org.uk/__data/assets/pdf_file/0010/834832/6636_Scottish_letting_fees_report_v9.p df
+S0232 display their fees, with some still not publically displaying them at all.
+S0233 Further, as the Office of Fair Trading found in their 2013 market study, tenants focus on the headline advertised price (i.e. the rent), rather than the prices that come later in the process in the form of letting agent fees.
+S0235 In highly competitive property markets, such as London and other metropolitan areas, renters have to prioritise the location of the property and the affordability of the rent.
+S0236 Competition for acceptable accommodation is such that renters cannot take time to shop around in the hope of finding a similar property with lower letting agents’ fees or let directly by a landlord: in reality, once a tenant has chosen a property, they accept the fees that are charged and have to deal with any ‘hidden’ fees at a later stage.
+S0238 By contrast, the landlord faces a market for letting agent services and is able to choose both whether to use a letting agent and to negotiate the fees charged for the services provided.
+S0250 The vast majority of renters in the private sector are offered short-term initial tenancy contracts of less than 12 months.
+S0251 The English Housing Survey 2014-15 found that the majority of tenancies are initially granted for between six and twelve months:
+S0254 Renters are therefore likely to have significant contact with letting agents either to extend their tenancy or start new tenancies and thus pay letting fees regularly.
+S0256 Letting fees can be charged at the outset, renewal and conclusion of a tenancy, with little to no opportunity for a tenant to opt-out of payment.
+S0257 This arguably creates an incentive for short-term lets.
+S0258 The repeated churn in tenancies prompts business for an agent, and the opportunity to charge fees.
+S0262 There is evidence that letting agent fees paid by tenants have increased significantly in recent years.
+S0263 The English Housing Survey 2014/15 reports that median fees charged by agents increased by 60% between 2009-10 and 2014-15 (14% increase in mean).
+S0264 The mean average fee amount paid in 2014-15 was £223, while the median was £200. 63.
+S0265 High up-front letting fees can significantly impact on ordinary working people’s ability to move and secure the right home.
+S0266 When private renters were asked in the English Housing Survey 2014-15 whether fees would affect their decision to move, 35% said that it would be something they would have to think about and 34% said that it would stop them moving to a new home.
+S0267 Citizens’ Advice found that 64% of tenants experienced problems paying letting agents’ fees, and 42% had to borrow money. 64. ** (Reference: 13)
+S0268 Tenants are often required to provide a month’s rent in advance as well as a deposit equivalent to up to two months’ rents in addition to paying letting fees at the outset of a tenancy.
+S0271 Fees are not a one-off cost for tenants.
+S0272 Given that the majority of tenancies are granted for between six and twelve months initially, tenants can expect to pay letting fees regularly.
+S0273 This is either because they move home and need to pay letting fees for a new tenancy or because they need to pay fees to renew or extend their existing contract.
+S0274 These repeated and often significant charges can have a real and detrimental impact on individual finances, particularly for those tenants who are more vulnerable.
+S0276 The worry about finding the money to pay for letting agent fees is an additional barrier to securing a home and could actively deter a tenant from leaving a poor quality rental property.
+S0277 Letting agent fees also make it harder for those tenants who are trying to save for a deposit.
+S0317 We are aware of certain landlords rejecting households on the basis that they have children or receive benefits, which is not good practice and strongly discouraged.
+S0320 It is worth noting that where discriminatory practices do occur this is often during the advertisement of a property, before any fees are charged, rather than at the point of taking references or negotiating a tenancy agreement.
+S0525 Recent tenant and landlord surveys carried out in Northern Ireland evidence concern around letting agent fees and transparency.

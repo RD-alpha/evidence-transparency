@@ -1,0 +1,114 @@
+<root>
+<theme sentences="7" weight="core">
+<name>Safe but falling short of potential</name>
+<claim>NHS maternity care is broadly safe and outcomes are improving, but stillbirth rates remain unacceptably high and improving too slowly compared with other high-income countries such as the Netherlands.</claim>
+<text>
+<line id="S0022">England is a safe place to have a baby.</line>
+<line id="S0162">The NHS is a safe place to give birth.</line>
+<line id="S0163">Maternity services in England are safe and high quality, and outcomes are improving.</line>
+<line id="S0164">The stillbirth and neonatal mortality rates fell by 12% and 10% respectively between 2010 and 2015. The majority of women have a positive experience of childbirth and good outcomes. ** (Reference: 3)</line>
+<line id="S0165">Although progress has been made in recent decades, national and international evidence demonstrates that there is still more that we can do.</line>
+<line id="S0166">Our outcomes do not reflect our potential.</line>
+<line id="S0167">Our stillbirth rate in particular remains unacceptably high when compared to other similar countries – the Lancet Stillbirth Series, which was published in January 2016, ranked the UK 24th out of 49 high-income countries. This same publication showed that our annual rate of stillbirth reduction of 1.4% is much slower than many other countries –for example, the Netherlands achieve 6.8%. ** (Reference: 4,5)</line>
+</text>
+<references>
+<reference number="3">SeriesDeaths registered in England and Wales, 2015.  ONS: http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregistratio nsummarytables/2015</reference>
+<reference number="4">The Lancet Stillbirth series, 2016: http://www.thelancet.com/</reference>
+<reference number="5">The Lancet Stillbirth series, 2016: http://www.thelancet.com/</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="6" weight="core">
+<name>Quality of care drives outcome variation</name>
+<claim>Variation in stillbirth and maternal death rates across England cannot be explained by differences in women's risk alone, since more than half of term stillbirths and many maternal deaths involved care that could have been better, including avoidable separation of mother and baby and inconsistent screening practices.</claim>
+<text>
+<line id="S0173">For example, the variation in stillbirth rates across England cannot be explained solely by differences in women’s risk factors – the quality of care that women receive affects their outcomes.</line>
+<line id="S0174">The evidence shows that more than half of all term antepartum stillbirths had at least one element of care that required improvement and may have made a difference to the outcome. Similarly for maternal deaths, the confidential enquiry led by MBRRACE-UK (Mothers and Babies: Reducing Risk through Audits and Confidential Enquiries across the UK) found that basic observations and rapid actions have the potential to save women’s lives, for example in relation to sepsis. ** (Reference: 6,7)</line>
+<line id="S0216">By providing services and staffing models which keep mother and baby together we can reduce the harm caused by separation The ‘atain’ programme, led by NHS Improvement in collaboration with clinical experts, identified that over 20% of admissions of full term babies to neonatal units could be avoided.</line>
+<line id="S0217">Separation of mother and baby after birth contributes significantly to postnatal mental health morbidity and should be avoided where possible.</line>
+<line id="S0218">Early opportunities for bonding optimise long term outcomes for babies, mothers and families.</line>
+<line id="S0220">We know that variation in practices to screen babies for conditions such as jaundice and low blood sugar levels have led to avoidable brain injury. We want maternity and neonatal teams to standardise local practices, drawing on national guidance and best practice models to reduce harm in these areas. ** (Reference: 9)</line>
+</text>
+<references>
+<reference number="6">MBRRACE-UK Perinatal Confidential Enquiry Report 2015: www.npeu.ox.ac.uk/mbrrace-uk</reference>
+<reference number="7">Knight M, Kenyon S, Brocklehurst P, Neilson J, Shakespeare J, Kurinczuk JJ.  (eds).  Saving Lives, Improving Mothers’ Care:  Lessons learned to inform future maternity care from the UK and Ireland Confidential Enquiries into Maternal Deaths and Morbidity 2009-2012.  National Perinatal Epidemiology Unit, Oxford. https://www.npeu.ox.ac.uk/downloads/files/mbrrace- uk/reports/Saving%20Lives%20Improving%20Mothers%20Care%20report%202014%20Full.pdf (accessed 13 July 2016).</reference>
+<reference number="9">Controversies regarding definition of neonatal hypoglycemia: Suggested Operational Thresholds. Cornblath M, Hawdon JM, Williams AF, Aynsley-Green A, Ward-Platt MP, Schwartz R, Kalhan SC. Pediatrics 2000; 105: 1141- 1145 Investigation, prevention and management of neonatal hypoglycaemia (impaired postnatal metabolic adaptation). Paediatrics and Child Health. 2012; 22: 131-135</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="13" weight="core">
+<name>Public health risk factors are a major driver</name>
+<claim>Women's underlying health and behaviours before and during pregnancy - including obesity, smoking and perinatal mental illness - are key factors driving stillbirths, neonatal deaths and maternal deaths, meaning maternity service improvements alone cannot solve the problem.</claim>
+<text>
+<line id="S0035">A focus on improving safety is vital but the evidence shows that this stretching ambition cannot be achieved through improvements to NHS maternity services alone.</line>
+<line id="S0036">The public health contribution will be crucial.</line>
+<line id="S0037">We know that not all women go in to pregnancy with the same risk of something going wrong - a BMI of over 40 doubles the risk of stillbirth and a quarter of stillbirths</line>
+<line id="S0038">are associated with smoking. We also know that perinatal mental illness is one of the leading causes of maternal death. ** (Reference: 1,2)</line>
+<line id="S0222">The evidence shows that the national ambition cannot be achieved through improvements to NHS maternity and neonatal services alone.</line>
+<line id="S0223">The public health and prevention contribution will be crucial.</line>
+<line id="S0224">Not all women will have the same risk of something going wrong in pregnancy or during labour.</line>
+<line id="S0225">Women’s health before and during pregnancy – including weight, perinatal mental health, smoking and alcohol use – are some of the factors that most influence rates of stillbirths, neonatal deaths and maternal deaths.</line>
+<line id="S0227">Improving both public health and preventative clinical practice is required to engage with communities and high risk populations where outcomes are poorer and to support maternity services as they are providing care for women with increasingly complex pregnancies.</line>
+<line id="S0228">For example, the average maternal age is increasing, obesity is rising in women of childbearing age, and more women with pre-existing medical conditions such as diabetes or epilepsy are becoming pregnant.</line>
+<line id="S0234">We know that smoking is the single most important modifiable risk factor in pregnancy and that reducing smoking in pregnancy reduces the likelihood of stillbirth.</line>
+<line id="S0245">Perinatal mental illness is one of the leading causes of death for mothers during pregnancy and the year after birth.</line>
+<line id="S0246">We know that between 10 and 20 per cent of women develop a mental illness during pregnancy or within the first year after giving birth, and four in every 1000 women will experience complex or severe perinatal mental illness requiring psychiatric in-patient care in a specialist mother and baby unit. ** (Reference: 10)</line>
+</text>
+<references>
+<reference number="1">NHS Choices http://www.nhs.uk/conditions/pregnancy-and-baby/pages/overweight-pregnant.aspx</reference>
+<reference number="2">Saving Lives, Improving mothers’ care.  MBRRACE, 2015: https://www.npeu.ox.ac.uk/mbrrace-uk/reports</reference>
+<reference number="10">The cost of perinatal mental health problems: https://www.centreformentalhealth.org.uk/costs-of-perinatal-mh- problems</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="3" weight="core">
+<name>Workforce skills and staffing consistency gaps</name>
+<claim>Although workforce supply is forecast to be adequate, multi-professional training has been inconsistent across the country, undermining safe team working.</claim>
+<text>
+<line id="S0274">We also recognise the importance of appropriate staffing levels.</line>
+<line id="S0275">Health Education England’s forecasts of future supply indicate that we are training more people to enter the workforce as qualified midwives and obstetric and gynaecology CCT-holders than we forecast will leave the system.</line>
+<line id="S0276">In recent years various multi-professional training programmes have been identified and championed in some parts of the country; however, there has not been a consistent approach to the type or standard of training.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="4" weight="not core">
+<name>Clinical leadership and safety culture</name>
+<text>
+<line id="S0028">As the stories from the families at Morecambe Bay University Hospitals Foundation Trust have starkly illustrated, the death or injury of even one new baby or mother is a devastating tragedy which we must all do everything we can to prevent.</line>
+<line id="S0056">In my clinical work as an obstetrician I have seen inspiring progress on maternity safety over recent years.</line>
+<line id="S0057">Across the country, teams are making great strides in addressing unwarranted variation through multi-disciplinary working, sharing clinical best practice, and focusing together on ways to drive improvements in safety and reduce avoidable harm.</line>
+<line id="S0063">We already have some great practice across the country, where teams are working together to create a culture where safety is the cornerstone of maternity care.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="not core">
+<name>Socioeconomic and geographical disparities</name>
+<text>
+<line id="S0171">We know that there are variations in outcomes linked to socio-economic and geographical differences.</line>
+<line id="S0172">We also know that high quality maternity care can and does make a difference to outcomes for mothers and newborns.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="not core">
+<name>Data collection and monitoring</name>
+<text>
+<line id="S0296">Currently, not all trusts are submitting the data that enables this type of comparison.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

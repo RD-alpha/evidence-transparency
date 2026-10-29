@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "Apprenticeship Policy and Economic Growth",
+      "reason": "This directly addresses the skills shortage problem by explaining the manifesto commitment on apprenticeships, the rationale for expanding them to address skill shortages and stimulate growth, and the gap between public and private sector apprenticeship rates that justifies the diagnosis.",
+      "weight": "core"
+    },
+    {
+      "theme": "Diversity and Inclusion in the Workforce",
+      "reason": "This directly addresses the diversity/social mobility problem by diagnosing the Civil Service's struggles with workforce diversity and inclusion, citing specific gaps such as low employment rates for disabled groups, which underpins the case for why diversity-focused action is needed.",
+      "weight": "core"
+    }
+  ]
+}

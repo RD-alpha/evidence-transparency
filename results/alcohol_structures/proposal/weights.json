@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Strength-based duty principle",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Targeted cider band over alternatives",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "New lower-strength wine band pending EU reform",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Building on prior targeted interventions",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Evidence gaps and research needs",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Wine band impacts and implementation concerns",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Needs-based Barnett funding floor",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The 115% factor is tied to the Holtham Commission's recommended range (114% to 117%) and the SR15 floor, with Reference 1 only noting the proposer, but no source link or assessment of the evidence is given, and the 105% transitional rate has no stated basis."
+    },
+    {
+      "theme": "Comparable model for tax block grant adjustments",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The comparability factors cite HMRC 2015-16 estimates (Reference 6) and the population-consistency claim cites the WGC/IFS report (Reference 8), linked to the agreed principles, but the document does not assess the evidence or acknowledge uncertainties."
+    },
+    {
+      "theme": "Treatment of policy spill-over effects",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The three-way treatment rests on illustrative examples and the assertion of 'significant uncertainty surrounding the causality and scale', with no data or sources behind it; References 9 and 10 are explanatory notes only."
+    },
+    {
+      "theme": "Extended borrowing and budget management tools",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The limits (\u00a31bn, \u00a3150m, \u00a3350m, \u00a3125m/\u00a350m) are described with no evidence they will work as intended; the claim that resource borrowing powers 'already reflect the expected volatility' is asserted without data."
+    },
+    {
+      "theme": "Devolved powers and overall funding framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Framing and principles are asserted ('meets all of these principles', 'widely explored in recent academic literature') with no cited evidence."
+    }
+  ],
+  "reasoning": "Four core themes were scored. Needs-based Barnett floor reaches level 1: it grounds the 115% factor in the Holtham Commission's recommended range (\"114% to 117%\") and the SR15 floor, but Reference 1 only says \"As proposed by the Independent Commission on Funding and Finance for Wales\", with no link to the report. The 105% transitional factor has no stated basis. Comparable model reaches level 2: \"based on HMRC's 2015-16 estimates, the comparability factor is 25% for stamp duty land tax and 87% for landfill tax\" (Reference 6) and the WGC/IFS report (Reference 8) support the consistent population treatment, and both link to the agreed principles. Spill-over effects is level 0: the \"significant uncertainty surrounding the causality and scale\" is asserted, with only illustrative examples. Borrowing and budget tools is level 0: limits are described and the claim that resource powers \"already reflect the expected volatility\" has no data. The mean of the core levels is (1+2+0+0)/4 = 0.75, which rounds to 1. The strongest counter-example is that the score could be 0 given two of four themes have no evidence; the Comparable model's cited sources keep the mean above 0.5. To reach level 2, the document would need to cite and explain evidence for the spill-over treatment and the borrowing and reserve limits, such as volatility modelling, and link the Holtham source directly. It would also need to justify the 105% transitional factor.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

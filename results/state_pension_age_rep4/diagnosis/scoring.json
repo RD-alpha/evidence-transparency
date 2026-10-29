@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rising life expectancy and share of life in retirement",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Figures on life expectancy at 65 and share of adult life (1948, 1995, 2007) carry ONS and Government Actuary references (3,5,13,19,26), and DWP calculations (4,21) are partly primary, but the method is only loosely described (adult life assumed to start at 20, average of men and women per ref 6); no uncertainty is assessed, so level 2."
+    },
+    {
+      "theme": "Demographic shift and rising pension costs",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Dependency ratio and pensioner numbers cite ONS projections (7,8), and the 1% of GDP/\u00a3725 per household figure cites the Cridland review and OBR (9,30,31), with clear reasoning from figures to rising PAYG cost, but no uncertainty or limits of the projections are discussed."
+    },
+    {
+      "theme": "Past slow adjustment of State Pension age",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The history of fixed pension age and three Acts is tied to ONS life expectancy data (12) and the Pensions Commission 2005 report (20), though many timeline lines on the Acts are uncited and no assessment of the evidence is made."
+    },
+    {
+      "theme": "Wider fiscal pressure of ageing",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The OBR Fiscal Sustainability Report figures (7.9% of GDP; 5.7% health, 0.9% care, 2.1% pension) are given with direction and scale but carry no reference in this theme; the OBR report is cited only in ref 31 within another theme, so this stays at level 1."
+    },
+    {
+      "theme": "Entitlement rules and policy objectives for State Pension",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines describe entitlement rules and policy objectives and assert that State Pension age policy was indistinct, with no statistic, source or finding offered."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "General statements about societal challenges and retirement security are asserted with no evidence."
+    }
+  ],
+  "reasoning": "The four core themes are mostly supported by cited official data. Life expectancy: lines such as \"In 1995... a 65-year-old could expect to live for 18\u00bd years, or 29% of their adult life\" and \"In twenty years' time, life expectancy at age 65 is projected to have increased by a further two years\" carry ONS and Government Actuary references (3,5,13,19,26) and DWP calculations (4,21). The method is only partly explained (adult life starting at 20, a men/women average per ref 6). This is level 2. Demographic costs: \"301 pensioners for every 1,000 people of working age in 2017, to 375... by 2042\" cites ONS (7,8), and the 1% of GDP/\u00a3725 per household figure cites Cridland and OBR (9,30,31). The reasoning from pay-as-you-go funding to higher cost is clear. This is level 2. Past slow adjustment: the history of the three Acts is tied to ONS data (12) and the Pensions Commission (20), though many timeline lines are uncited. This is level 2. Wider fiscal pressure: the OBR figures (7.9% of GDP) carry no citation in this theme, so it is level 1. The mean of the core themes is 7/4 = 1.75, which rounds to 2. The strongest counter-example is the wider fiscal theme, where the OBR figures are uncited. The document also never assesses the projections, for example how uncertain they are or how they might be wrong. To reach level 3 it would need to state the strengths, limits and uncertainty of the ONS and OBR projections and acknowledge contrary evidence, such as differences in life expectancy between groups or alternative projection scenarios.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

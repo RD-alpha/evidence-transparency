@@ -1,0 +1,22 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Fees set by secondary legislation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines (\"fees will be set in secondary legislation\", \"new fees will come into force in 2017\", \"will apply equally to England, Wales and Scotland\") only describe the legislative route and timetable, with no references or evidence for why this route or timing was chosen."
+    },
+    {
+      "theme": "Review of fees and efficiency savings",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines (\"Data will be reviewed and updated...\", \"Fee levels will be reviewed regularly\", \"A final assessment of the costs and benefits will provided at secondary legislation stage in 2017\") are commitments to future work and the document gives no evidence, figures or assumptions behind the review or the savings claim."
+    }
+  ],
+  "reasoning": "Both core themes describe what will happen, not what evidence supports the chosen route. In \"Fees set by secondary legislation\", the lines say fees will be set once \"responses to the consultation have been considered\" and the Bill's powers pass, that they will \"come into force in 2017\", and that they \"will apply equally to England, Wales and Scotland\". These are statements of procedure, timetable and scope. There is no reference, statistic or finding on why this route or date was chosen, or why alternatives were rejected. The mention of consultation responses is a promise to consider them later, not evidence used. In \"Review of fees and efficiency savings\", the lines promise that \"Data will be reviewed and updated\", \"Fee levels will be reviewed regularly\" and that a \"final assessment of the costs and benefits will provided\" in 2017. The line about savings being \"passed on to licence holders\" rests on an unexplained assumption about time savings, with no figures given. The costs and benefits and their assumptions are deferred, so a citizen cannot see them here. Both core themes score 0, giving a mean of 0 and a section score of 0. The strongest counter-example is that deferring the final costings and promising a review shows some method for deciding, which could be read as level 1. But this is a commitment, not evidence used. To reach level 1, the document would need to present the cost data or assumptions behind the fee and savings claims, and explain how they support the chosen timetable and route. It would then need citations or a description of the method to reach level 2.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,69 @@
+S0082 We will identify and rapidly scale those which can make a difference, while weeding out less promising approaches.
+S0332 Success demands we take an innovative, experimental approach to test a wide range of approaches in different environments and learn quickly, shifting focus early from any failures and moving rapidly to scale up successful approaches.
+S0334 And we should look to capture the impacts across the whole of government, where possible, to build the case for future investment and help us influence a wider range of actors.
+S0335 Having a clear idea of what works in what context will enable us to:
+S0336  focus our resources on services and commissioning models which have the most impact;
+S0337  influence commissioners of services to make the right decisions to invest in different support to meet local population needs; and  provide employers with information about successful approaches and spread best practice.
+S0339 We want to take early action to build our evidence base on what works in the areas that we already know are important.
+S0343 We also know that evidence gaps exist, in particular:
+S0344  how best to support those in work and at risk of falling out of work, including the part employers can play;
+S0345  understanding how best to help those people in the Employment and Support Allowance Support Group who could and want to work (discussed further in chapter 2);
+S0346  the settings that are most effective to engage people in employment and health support; and  how musculoskeletal treatment and occupational health interventions improve employment outcomes.
+S0348 We have a range of activity underway that is focused on the evidence gaps we have identified, including access to services and levels of support we should offer.
+S0349 This will help us to develop new models of support to help people into work when they are managing a long-term health condition or disability.
+S0353 Seed funding will be provided to support the design trials to test new approaches at scale and understand if they can improve employment and health outcomes.
+S0358 Alongside this, we are testing a range of approaches to improve outcomes for people with common mental health conditions, who make up 49% of those on Employment and Support Allowance. ** (Reference: 68)
+S0359 We want to rapidly scale up those which show they can make a real impact.
+S0360 Trials include testing interventions that offer faster access to treatment and support services, co-locating employment support in a health setting and building on the evidence for Individual Placement and Support to understand if this is a model which can work successfully for people with common mental health conditions.
+S0362 Examples of this approach include the Mental Health Trailblazers.
+S0363 These combine a specific type of employment support, Individual Placement and Support, with psychological support provided 22 Improving Lives The Work, Health and Disability Green Paper through the NHS talking therapy services in three areas: Blackpool, West London and the North East.
+S0371 This approach will allow us to use a small amount of funding to identify promising interventions and prototypes to take forward to more robust testing.
+S0373 We aim to build on this Challenge Fund approach to develop small-scale innovative approaches to quickly understand which may work and fail fast on those which do not.
+S0374 Such an approach is likely to be most useful where there is limited evidence, such as supporting small and medium-sized employers with sickness absence, or where there is already a market of innovators, such on digital health technologies.
+S0375 We are particularly interested to use the consultation process to identify key areas where such an approach may be appropriate.
+S0377 Finally, it is important we share information on what works widely to support local delivery.
+S0378 To do this, we will work with Public Health England to develop a set of work and health indicators and identify how we can best bring together and share the existing evidence for local commissioners and delivery partners.
+S0379 We will continue to draw on a range of internal and external evidence, including trials and research, the academic literature and relevant third sector organisations to improve policy making and delivery nationally and locally.
+S0382 As part of this we will be developing a structured evidence base so that we know what works, and we recognise that there will be rich sources that have already been developed or are being drawn together by others.
+S0419 We will undertake research and a trial to better understand how we can support individuals to move closer to the labour market and into employment, where appropriate.
+S0438 We will achieve this by identifying evidence gaps, building on insights from trials and drawing on the knowledge of both service users and providers.
+S0462  trialling the use of specialist medical advice to further support work coaches;
+S0463  working with local authorities to pilot an approach to invest in Local Supported Employment for disabled people known to social care, notably those with learning disabilities and autism, and secondary mental health service users;
+S0464  testing a Jobcentre-led alternative to Specialist Employability Support; and  trialling additional work coach interventions.
+S0554 We therefore intend to trial access to specialist advice through a 3-way conversation between a work coach, healthcare professional and a person who has been placed in the Work-Related Activity Group, following a Work Capability Assessment.
+S0555 The trial will begin in 2017, with a view to rolling out provision on a wider scale in future years, depending upon results.
+S0582 This commitment will not include a small number of claimants who will be placed into the control group of the Randomised Control Trial used to evaluate the performance of the Work & Health Programme.
+S0587 We are keen to understand what works locally to inform future strategy for supporting local delivery and supporting areas ambitions for integrating health and work provision.
+S0599 For those with a learning disability or autism who are known to adult social care, or those in contact with secondary mental health services, we will pilot an approach working with local authorities to deliver Supported Employment on an outcome-payment basis.
+S0601 This will help us to test the effectiveness of locally-driven solutions to best support people with the most challenging conditions, and build on our learning of what works for them.
+S0604 We are using the Innovation Fund to develop large-scale health-led trials creating partnerships between local health service commissioners and providers, Jobcentres, and councils.
+S0605 These partnerships will test if health-led support services are effective at supporting disabled people and people with health conditions into work, how effectively they support people to stay in work and how to get a region to work collaboratively on the health and employment agenda, through the introduction and integration of services.
+S0613 The new support we will test to establish what works best for people with mental health conditions who are out of work includes:
+S0614  Group Work – to test whether the JOBS II model, a form of group work, improves employment prospects and wellbeing; and  Supported computerised Cognitive Behavioural Therapy (cCBT) testing whether early access to supported cCBT can support employment outcomes alongside recovery.
+S0629 To explore how to better support this group we will test a voluntary, supported Work Experience programme for young people with limited capability for work.
+S0654 Therefore, it is crucial that we build the evidence base to understand what works.
+S0655 We have developed a substantial programme of trials as part of the wider test and learn strategy in Universal Credit.
+S0656 Evidence from these trials will be central to the development of our future in-work support service, and will provide a foundation for further development of support for disabled people and people with health conditions.
+S0678 We will undertake comprehensive research to better understand how best to engage with people in the Support Group and those found to have limited capability for work and work-related activity in Universal Credit, and what interventions are needed to support them effectively.
+S0679 We will also develop a large-scale trial to test and learn from different approaches of offering employment and health support, and ways to increase the numbers of people taking up offers of voluntary support.
+S0682 This will help us to better equip work coaches to support individuals to fulfil their potential and allow us to target future support in better ways.
+S0684 We will ensure that any additional support is effective for individuals, as well as offering affordability and value for money for the taxpayer.
+S0685 These findings will build on the range of interventions being trialled through the Work and Health Unit’s Innovation Portfolio, which will help establish a stronger evidence base for what works and help inform how we might help disabled people and people with health conditions.
+S0794 There are a number of principles to how a new assessment approach could work which we would want to test.
+S0852 In order to test the feasibility of this approach we will be conducting a case review exercise in our Assessment Centres to determine whether a healthcare professional could have completed a shortened assessment process using, for example, pre-existing NHS or local authority evidence such as care plans to make their recommendation.
+S1341 We are evaluating the impact of this provision and the elements that bring greatest results.
+S1342 We also have a number of trials underway to identify new and innovative ways mental health and employment services could support people to return to work.
+S1346 We would like to see this go further, with data on employment status routinely recorded and published as a matter of course across all mental health services.
+S1371 The government will therefore work with NHS England to identify opportunities for regular collection of data about incidence, prevalence, clinical activity and outcomes of musculoskeletal patients and services in England.
+S1421 We will test whether changes to GP computer systems would be successful in raising awareness and use of publically funded services.
+S1425 Potentially it may also be possible to expand availability of occupational health, at least for people with more complex needs who do not have occupational health provided by their employer, are self-employed, or are out of work; and  we will develop a partnership with one or more NHS occupational health providers in England to test how we can integrate services within different clinical pathways.
+S1478 We will also work with Public Health England to develop a basket of work and health indicators to support improved health and work outcomes in place-based systems and make them available through Public Health England’s open data access platform or ‘fingertips tool’.
+S1479 This tool will be part of Public Health England’s wider determinants of health profile, recognising that health and work are connected with other aspects of life and will be based on the use of aggregate data.
+S1480 The indicators could cover:
+S1481  labour market outcomes, for example, employment rate gaps between disabled and non-disabled people, and information on health-related benefits recipients;
+S1482  health outcomes related to working age people and health services generally, for example, disability-free life expectancy, and markers of quality, such as emergency admissions for acute conditions that should not usually require hospital admission; and the proportion of people feeling supported to manage their long-term condition; and  wider issues related to the health of working age people – on which we would welcome suggestions and evidence;
+S1503 By November 2016, Public Health England and the College of Occupational Therapists will have recruited and started evaluation of a pilot group of Health and Work Clinical Champions, with the aim of promoting work as a clinical health outcome within their health trust.
+S1642 In order to satisfy our duty under the Equality Act 2010 to have due regard to the need to eliminate unlawful discrimination, advance equality of opportunity and foster good relations between different groups, we want to consider the potential impacts of the proposals in this green paper on protected groups under that Act.
+S1643 We therefore also ask you to consider equality impacts as part of your Improving Lives The Work, Health and Disability Green Paper 85 response to the consultative parts of this document and answer the following question.
+S1662 We are committed to engaging and working with people in the areas that require change and to testing approaches as they evolve through the consultation period and beyond.
+S1663 We are committed to investing in innovation, learning what works and spreading the lessons and widely.

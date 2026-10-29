@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Flexible routes to compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Extended transition period to limit business disruption",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enhanced traceability and record-keeping requirements",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope clarification through consultation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation to finalize technical specifications and evidence",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Stakeholder engagement and guidance support",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Implementation and regulatory reform",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

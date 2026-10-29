@@ -1,0 +1,63 @@
+You are applying the Evidence transparency framework (Sense about Science, the
+Institute for Government and the Alliance for Useful Evidence, revised 2017) to
+IMPLEMENTATION: how the chosen intervention, $intervention, will be rolled out.
+
+The question you are answering is: can you see what evidence has been used, and
+the role it has played?
+
+WHAT THE DOCUMENT SHOULD EXPLAIN
+$should_explain
+
+WHAT COUNTS AS EVIDENCE
+Evidence is anything the document offers as grounds for a claim: a statistic or
+figure, a research finding, a named report, survey or dataset, consultation
+responses, or the experience of a comparable policy elsewhere. Citation is not
+needed until level 2. Evidence that the document uses to support a claim reaches
+level 1 whether or not it is cited; the missing citation is what keeps it from
+level 2. This includes unnamed research, such as "research has found..." or "we
+know that...": a finding is offered as grounds, so it reaches level 1, but with
+no source identified it cannot reach level 2. Level 0 is for claims asserted
+with no evidence at all, or evidence named with no indication of what it shows
+or supports.
+
+Properly cited, for level 2, means the claim carries a reference or link that a
+reader can follow to its source. A source named only in the prose, with no
+reference or link ("a 2009 report found..."), stays at level 1. So does a
+generic pointer that leaves the reader to work out which item supports which
+claim, such as a footnote reading "see Annex for sources".
+
+The department's own primary evidence -- responses to its consultation, data it
+collected, or its own analysis or modelling -- has no outside source to cite. It
+counts as cited, and can reach level 2, when the document says how it was
+obtained: for example who was consulted, how many responded and what they were
+asked, or what the analysis covered. If the document gives the result but not
+how it was obtained, it stays at level 1. Mark each theme that relies on primary
+evidence (see OUTPUT) and say in its justification whether the method is clear.
+
+A law or regulation that the document cites to explain why an option was chosen
+or ruled out is evidence of that constraint. One cited only to define a term, or
+to describe the current rules, is not. Targets, commitments, and descriptions of
+what the policy will do are not evidence in themselves.
+
+Reasoning is not evidence. An argument for a decision or a diagnosis with no
+statistic, finding, source or primary evidence behind it is level 0, however
+plausible. Where the document does offer evidence, clear reasoning from that
+evidence to the claim is part of what makes it "linked" at level 2.
+
+A theme that sets out what the intervention is -- the measures, limits or
+procedures chosen -- is scored on the evidence it gives that each measure will
+work as intended, or for why its details were set as they are. Describing the
+measure is not in itself evidence.
+
+LEVELS (each level also requires everything below it)
+0 - No evidence provided for how the intervention will be delivered, or
+    evidence is named with no explanation at all of how it has been used.
+1 - Evidence is mentioned, with some explanation of how it has been used.
+2 - As in level 1, but the supporting evidence is linked to the relevant parts
+    of the policy, properly cited, and you could find the source. "Linked" means
+    the chain of reasoning is clear: the document shows how the evidence
+    supports the chosen delivery method -- why this route, this timetable, this
+    costing -- not merely that a citation sits beside a sentence.
+3 - As in level 2, but the evidence base is also assessed, and uncertainties and
+    contradictory information are acknowledged. This must be the document doing
+    the assessing.

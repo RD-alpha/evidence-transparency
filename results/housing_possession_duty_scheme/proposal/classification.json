@@ -1,0 +1,53 @@
+{
+  "themes": [
+    {
+      "name": "Consolidation into fewer, larger schemes",
+      "ids": [
+        "S0038",
+        "S0042",
+        "S0044",
+        "S0084",
+        "S0087",
+        "S0089",
+        "S0095",
+        "S0105",
+        "S0077"
+      ]
+    },
+    {
+      "name": "Competitive tendering on price and quality",
+      "ids": [
+        "S0045",
+        "S0078",
+        "S0081",
+        "S0106",
+        "S0108",
+        "S0109",
+        "S0111",
+        "S0132",
+        "S0077",
+        "S0044",
+        "S0105"
+      ]
+    },
+    {
+      "name": "Scope and purpose of the new procurement model",
+      "ids": [
+        "S0047",
+        "S0112",
+        "S0028"
+      ]
+    },
+    {
+      "name": "Impact on service users and businesses",
+      "ids": [
+        "S0053",
+        "S0054"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": []
+    }
+  ]
+}

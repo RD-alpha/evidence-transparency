@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Linking State Pension age to life expectancy for fairness between generations",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 32% proportion is linked to the 25-year historical average and cited to Government Actuary-based figures (References 1, 18, 38, 39: 31.3% vs 1992-2016 experience), and the 0.4% GDP saving is linked in the Rise to 68 theme, but the document does not assess the weakness of the evidence for the 32% choice, and the 20-30 year 'generation' rationale is asserted.\""
+    },
+    {
+      "theme": "Rise to 68 in 2037-39",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The \u00a374bn saving is given with an annex table and the modelling basis (References 37, 43, 44), and employment effects are cited (References 15, 16, 33), but the document does not weigh the weaknesses of these estimates, and the employment/tax effects are explicitly not estimated (\"Estimates of these have not been produced at this time\").\""
+    },
+    {
+      "theme": "Rejecting the alternatives",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only one line is cited (Reference 40, ONS life expectancy by socio-economic group), while the other rejections rest on reasoning and attributed Cridland/PPI findings with no reference, such as the claim that people draw more than they contribute.\""
+    },
+    {
+      "theme": "Deferring decisions amid uncertainty",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The document explicitly acknowledges that \"life expectancy projections are uncertain, and more so over longer projection periods\", notes the 2012 vs 2014 ONS projection sensitivity (a 5-year shift in the date of the rise to 68), and says there will be at least three more reviews, but the evidence for this uncertainty is uncited and the sensitivity is not quantified in detail, so it is not clearly level 3.\""
+    }
+  ],
+  "reasoning": "Four core themes were scored: linking the age to life expectancy (2), the rise to 68 in 2037-39 (2), rejecting the alternatives (1) and deferring decisions amid uncertainty (2). The mean is 1.75, which rounds to 2. The strongest points are quantified and traceable. References 1, 18, 38 and 39 show the 32% scenario gives 31.3% of adult life above pension age, comparable to 1992-2016 experience. The \u00a374bn saving carries a year-by-year table (\u00a3195bn-\u00a3240bn) and notes on the model (References 37, 43, 44). Employment effects point to OBR, DWP and Barrell et al. (References 15, 16, 33). The document is also frank that projections are uncertain and that tax and working-age benefit effects are not yet estimated. The strongest counter-example is the rejection of alternatives: it relies on assertions such as \"There are no practical or workable ways to factor in variations in life expectancy\" and on a PPI finding that people draw more than they contribute, with no reference. It scores only 1 and could pull the section down to 2 rather than a higher mark. To reach level 3, the document would need to assess the quality of its evidence, for example the sensitivity of the \u00a374bn to alternative life expectancy projections, the reliability of the 25-year historical benchmark, and the evidence on the effects of earlier rises on employment and on disadvantaged groups. It would also need to cite its reasons for rejecting alternatives.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

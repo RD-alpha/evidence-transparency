@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Local and place-based delivery with partners",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only the opening line carries Reference 65 (DWP/DH Green Paper Data Pack and Resolution Foundation report) to show regional variation in employment outcomes, which is loosely linked to the place-based approach, while the other lines about devolution deals, partnerships and co-design are commitments with no evidence."
+    },
+    {
+      "theme": "Funded trials and innovation funds to build evidence",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines on the \u00a370 million Innovation Fund, Social Impact Bonds, Challenge Fund and job clubs describe measures and say they will 'test' approaches, but cite no evidence that trials are the right route and carry no references."
+    },
+    {
+      "theme": "Staffing and capacity of Jobcentre Plus and health workforce",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on recruiting 300 Disability Employment Advisers, 200 Community Partners, training and the \u00a315 million Flexible Support Fund are descriptions of commitments with no evidence or citations for why they will work."
+    },
+    {
+      "theme": "Employer engagement and disability confidence",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on Disability Confident, supported internships and an employers' network are commitments with no evidence or references."
+    },
+    {
+      "theme": "Data, records and integrated service models",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The illustrative delivery models, Individual Placement and Support and Troubled Families are named as approaches without any findings on their effect or any citation."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "General statements of intent to work with partners and act quickly, with no evidence given."
+    }
+  ],
+  "reasoning": "The three core themes are local and place-based delivery (level 1), funded trials and innovation funds (level 0), and staffing and capacity (level 0). Their mean is 0.33, which rounds to a section score of 0. The only cited evidence in the extract is Reference 65, a DWP/DH Data Pack and Resolution Foundation report, attached to the line saying that 'employment outcomes for disabled people and people with long-term health conditions vary across different regions'. That gives some grounds for a place-based approach and is traceable, but it does not show why devolution deals, Local Enterprise Partnerships or co-design were chosen over other delivery routes, so I judged it level 1. The trials theme describes the \u00a370 million Work and Health Innovation Fund, Social Impact Bonds and job clubs without evidence for choosing trials as the route. The staffing theme lists 300 extra Disability Employment Advisers and 200 Community Partners with no evidence that these numbers or roles will deliver. The strongest counter-example is the place-based theme: a reader could argue the cited regional variation justifies the local approach and deserves level 2. But the reference is generic and the line gives no reasoning from it to the choice of partners, and no alternatives or cost-benefit assumptions are discussed. To reach level 1 across the section, the document would need to give evidence for the trial and staffing choices. To reach level 2 it would need to cite sources linking each delivery choice to its expected effect, set out the alternatives considered and the costings, and show how the evidence supports each choice.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

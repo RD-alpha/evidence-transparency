@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Local enforcement by Trading Standards, possibly strengthened",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Penalty regime to deter non-compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant empowerment and education as a compliance mechanism",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Operational design of permitted exceptions",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Legislative framework and primary purpose",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "International and historical precedent",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

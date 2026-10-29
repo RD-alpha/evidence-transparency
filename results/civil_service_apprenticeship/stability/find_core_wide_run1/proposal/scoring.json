@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Apprenticeships as the skills solution",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim that apprenticeships build job-specific and transferable skills is supported by the cited 2014 employer/apprentice survey findings ('81% of apprenticeship employers said... productivity...85% of apprentices stated that their ability to do the job had improved', Reference 1,2) found in the Economic theme, which are properly linked, but no assessment of this evidence's strengths or limits is offered."
+    },
+    {
+      "theme": "Numerical growth commitment",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 30,000/2.3% target is asserted as a commitment with no cited evidence explaining why this specific figure was chosen; the mention of being 'significantly ahead of the legislative target' and BIS's '2020 Vision' recognition carries no reference or link in this theme's own text."
+    },
+    {
+      "theme": "Social mobility and diversity vehicle",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "All lines (e.g. 'enabling social mobility whilst strengthening the labour market') are asserted with an empty references/links block and no data on diversity or social-mobility outcomes of apprenticeships anywhere in the extract."
+    },
+    {
+      "theme": "Economic and business case for apprenticeships",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Cites the 2014 employer survey (Reference 1,2, linked) and the BIS 2020 Vision lifetime-earnings figures ('\u00a377,000 and \u00a3117,000...\u00a3150,000 more', Reference 3,4, linked), directly supporting the productivity/ROI claim, but the document does not assess these sources' reliability or limitations."
+    },
+    {
+      "theme": "Leading by example and quality over quantity",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "The NAO's September 2016 report is cited and linked (Reference 6) and explicitly flags 'there is a clear risk that the drive to deliver greater numbers is delivered at the expense of delivering maximum value', which the document then engages with by describing how its strategy addresses that risk, meeting the bar for assessed, uncertainty-acknowledging evidence."
+    }
+  ],
+  "reasoning": "Across the five core themes the evidence is patchy. 'Leading by example and quality over quantity' reaches level 3 because it cites and links the NAO's 2016 report and directly engages with its warning that chasing numbers risks 'maximum value', then explains how the strategy responds to that risk. 'Economic and business case' and 'Apprenticeships as the skills solution' both reach level 2, resting on the properly linked 2014 employer/apprentice survey (Reference 1,2) and BIS 2020 Vision lifetime-earnings figures (Reference 3,4), though neither is critically assessed. By contrast, 'Numerical growth commitment' and 'Social mobility and diversity vehicle' sit at level 0: the specific 30,000/2.3% target and the diversity claims are asserted ('enabling social mobility whilst strengthening the labour market') with empty reference and link blocks, giving no indication of why this number or this mechanism was chosen. The strongest counter-example to a low overall score is the NAO-based reasoning in the quality theme, which shows genuine engagement with evidence; but this is offset by two core claims resting on no evidence at all. The mean of (2+0+0+2+3)/5 = 1.4, rounding down to 1. To reach level 2 overall, the document would need to cite data or analysis explaining why 30,000/2.3% was the right target, and evidence (e.g. diversity statistics or consultation findings) linking apprenticeships to social mobility and workforce diversity outcomes.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.4,
+  "score_consistent": true,
+  "missing_core": []
+}

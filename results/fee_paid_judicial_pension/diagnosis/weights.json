@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Court findings of less favourable treatment",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope of entitlement still contested",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Gaps in access to ancillary schemes and tax treatment",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

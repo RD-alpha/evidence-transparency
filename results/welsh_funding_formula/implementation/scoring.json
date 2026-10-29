@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Joint governance, data sharing and dispute resolution",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The theme only describes procedures (JEC (Wales), officials-then-ministers escalation, 'no fiscal transfer' if no agreement, data sharing via the Public Use Tape) and offers no statistic, finding or source showing these arrangements will work or why they were chosen; it carries no references."
+    },
+    {
+      "theme": "Operating the tax adjustments and transition",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Methodology steps draw on named data (OBR autumn 2017 forecast, HMRC stamp duty statistics at Reference 12, ONS population projections, Barnett comparability factors at Reference 11), and the reasoning for the non-domestic rates adjustment (Holtham Commission range) is explained, but the references are mostly definitional or mechanical, and no assessment of uncertainty or alternatives is given."
+    },
+    {
+      "theme": "Borrowing, funding and tax-devolution framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines describe borrowing, forecasting and reporting arrangements and cost responsibility with no evidence or citation behind them."
+    },
+    {
+      "theme": "Initial funding rate and transitional multiplier",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line states the 105% factor for uplifts above the 2017-18 level without any supporting evidence or rationale."
+    }
+  ],
+  "reasoning": "The two core themes are weak on evidence for how the funding framework will be implemented. 'Joint governance, data sharing and dispute resolution' (level 0) is entirely a description of procedure: officials, then the Joint Exchequer Committee (Wales), then 'no fiscal transfer' if ministers fail to agree. It offers no evidence that this route will resolve disputes, no comparison with alternatives, and no references. 'Operating the tax adjustments and transition' (level 1) does better. It names data sources such as the OBR autumn 2017 forecast, HMRC stamp duty statistics (Reference 12), ONS population projections and Statement of Funding Policy comparability factors (Reference 11). It also explains why non-domestic rates need adjusting: to compare against the range the Holtham Commission recommended. However, the Holtham link is not cited, and the references mostly point to data inputs or define terms rather than supporting why the method was chosen. Nothing assesses the uncertainty in forecasts or the reasons for rejecting other approaches. The mean of the core themes is 0.5, which rounds down to 0 by the stated rule... but taking the mean (0+1)/2 = 0.5, which is halfway and rounds down, so the score is 0. The strongest counter-example is the second theme, which could be argued to sit at level 1 and drag the section upward, but even that falls short of a cited, linked chain of reasoning. To reach level 1, the governance theme would need to offer evidence, such as experience from the Scottish fiscal framework, for why the dispute process will work. To reach level 2, the document would need cited, explicitly linked evidence for the choice of method.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.5,
+  "score_consistent": true,
+  "missing_core": []
+}

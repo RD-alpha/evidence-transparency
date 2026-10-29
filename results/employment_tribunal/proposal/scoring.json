@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Transfer of procedural responsibility and amended primary powers",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The choice of Option 1 over Option 0 is argued by assertion (\"Option 0 would not deliver the improvements...\"), with the only citations (References 5, 7, 10) being statutes and a consultation used to describe existing powers and procedure, and no evidence or assessment that the transfer will work as intended."
+    },
+    {
+      "theme": "Digitisation and flexible modes of hearing",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Specific figures with sources (90% of claims online, Reference 39; ELA response to Briggs, Reference 3; ONS digital use, References 52-54) and the document's own deportation and unfair dismissal outcome rates are linked to the claims, and the document acknowledges risks of more claims and of digital exclusion, but the outcome-rate figures carry no source and the strongest evidence is not systematically assessed."
+    },
+    {
+      "theme": "Delegation to caseworkers and tailored panels",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Caseworker use in other tribunals and the 75% NLM reduction scenario are described, with outcome-rate examples drawn from the digitisation theme (deportation and unfair dismissal rates), but the only reference (44) is an undefined citation and the method is partly shown yet the 75% figure is explicitly illustrative."
+    },
+    {
+      "theme": "Estimated costs and benefits",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Costs and benefits are derived with explained methods and cited sources (SETA 2013 References 25, 27, 28, 31, 41; HMCTS data), with stated assumptions and ranges (efficiency gains lower/upper bounds, 2014/15 case mix risk, optimism bias), though several key inputs such as ICT, estates and judicial savings are not traceable or sourced and the 75% reduction is admittedly illustrative."
+    }
+  ],
+  "reasoning": "Four core themes were scored: Transfer of procedural responsibility (1), Digitisation and flexible modes of hearing (2), Delegation to caseworkers and tailored panels (1), and Estimated costs and benefits (2). The mean is 1.5, which rounds down to 1. The justification for amending the 1996 Act is mostly asserted. Lines such as \"The Government has concluded that Option 0 would not deliver the improvements in user experience and system efficiency required\" give no evidence for that conclusion. References 5, 7 and 10 are statutes and a consultation used to describe existing powers, not to show the transfer will work. The strongest counter-example is the costs theme, which has traceable sources (SETA 2013, References 25, 27, 31, 41), step-by-step calculations such as \"6,000 x 28.62 x 3\", and acknowledged uncertainty: \"The estimates for numbers of cases to be heard online are based on a 2014/15 case mix \u2013 there is a risk that the case mix could change\". The digitisation theme also cites ONS data and gives outcome-rate comparisons before and after reform. Yet these evidence the secondary-legislation reforms, not the choice of primary legislative change, which the document says has no direct cost or benefit. To reach level 2, the document would need to cite and explain evidence that transferring rule-making to the Tribunal Procedure Committee and panel composition to the Senior President of Tribunals will deliver flexibility, and show why Option 0 fails. For level 3, it would also need to assess the quality and limits of that evidence.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

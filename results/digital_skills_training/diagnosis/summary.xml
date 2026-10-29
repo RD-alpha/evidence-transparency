@@ -1,0 +1,43 @@
+<root>
+<theme sentences="3" weight="core">
+<name>Scale of the digital skills gap</name>
+<claim>More than ten million adults in England lack basic digital skills, and millions in the UK have never used the Internet.</claim>
+<text>
+<line id="S0004">But too many people struggle to get by, with more than ten million adults in England lacking the basic digital skills they need.</line>
+<line id="S0006">An ONS survey**(Link: 1) shows that an estimated 5.3 million people in the UK have never used the Internet.</line>
+<line id="S0007">A recent report by Ipsos Mori/Go ON UK**(Link: 2) found: More than 10 million of the adult population in England lack basic digital skills.</line>
+</text>
+<references>
+</references>
+<links>
+<link number="1" url="https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry/bulletins/internetusers/2016">ONS survey</link>
+<link number="2" url="https://doteveryone-prod.s3-eu-west-1.amazonaws.com/uploads/Basic%20Digital%20Skills_UK%20Report%202015_131015_FINAL.pdf">Ipsos Mori/Go ON UK</link>
+</links>
+</theme>
+<theme sentences="3" weight="core">
+<name>Groups most affected</name>
+<claim>Lack of basic digital skills is concentrated among lower socio-economic groups and older people, who are far less likely to have these skills than higher socio-economic groups and the young.</claim>
+<text>
+<line id="S0009">As many as 35 per cent of people in lower socio-economic groups lack basic digital skills, compared with 13 per cent of those in higher socio-economic groups.</line>
+<line id="S0010">Age is another factor preventing people benefitting from services such as banking, shopping and government tools which are increasingly moving online.</line>
+<line id="S0011">Just 43 per cent of over 65s have basic digital skills, compared to 93 per cent of 15 to 24 year olds.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="3" weight="core">
+<name>Consequences of exclusion</name>
+<claim>Lacking digital skills leaves people unable to thrive in a digitised job market or to use banking, shopping and government services that are moving online.</claim>
+<text>
+<line id="S0008">While The problem can stop people from thriving in a digitised workplace and job market.</line>
+<line id="S0010">Age is another factor preventing people benefitting from services such as banking, shopping and government tools which are increasingly moving online.</line>
+<line id="S0013">Whether it’s applying for a job, accessing vital services or as consumers, our world is increasingly moving online - and we don’t want anyone left behind.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

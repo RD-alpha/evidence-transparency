@@ -1,0 +1,64 @@
+{
+  "themes": [
+    {
+      "theme": "Policy Objectives and Rationale",
+      "reason": "States why government intervention is needed and what the regulatory changes are meant to achieve, forming the foundational justification for the chosen intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Regulatory Options and Comparison",
+      "reason": "Directly compares the preferred option against doing nothing or revoking regulations, explaining why this particular intervention was selected over alternatives.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation Process and Stakeholder Feedback",
+      "reason": "Describes the process of consultation and how stakeholder views were gathered and incorporated, which supports but is not essential to the core rationale for the chosen intervention.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Test Design and Technical Changes",
+      "reason": "Explains the specific technical content of the new match test, which is the substantive content of the intervention itself.",
+      "weight": "core"
+    },
+    {
+      "theme": "Monetised Costs to Business",
+      "reason": "Provides the quantified cost estimates and assumptions that justify the economic case for the chosen intervention, addressing the should-explain point on costs.",
+      "weight": "core"
+    },
+    {
+      "theme": "Monetised Benefits to Business",
+      "reason": "Provides the quantified benefit estimates and assumptions underpinning the case that the intervention delivers net value, addressing the should-explain point on benefits.",
+      "weight": "core"
+    },
+    {
+      "theme": "Non-Monetised Costs and Benefits",
+      "reason": "Lists additional qualitative impacts (e.g., innovation, health) that supplement but are not essential to the core justification for the intervention.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Affected Industries and Business Impact",
+      "reason": "Gives background on industry size and SME impact, providing context rather than a core support for why this intervention was chosen.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Uncertainties and Data Limitations",
+      "reason": "Notes caveats and data gaps in the cost/benefit estimates, which qualifies the evidence but is not itself a core pillar of the argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "International Comparison and EU Standards",
+      "reason": "Compares UK standards to EU requirements to justify not adopting a deregulatory option, overlapping with and supporting the Regulatory Options theme rather than standing as a separate core support.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Impact Assessment Summary and Net Costs",
+      "reason": "Presents summary figures of net costs, which is a restatement of the cost/benefit analysis rather than a distinct supporting argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Contains methodological and calculation details for estimating fabric volumes, which are technical background rather than core to the argument for the chosen intervention.",
+      "weight": "not core"
+    }
+  ]
+}

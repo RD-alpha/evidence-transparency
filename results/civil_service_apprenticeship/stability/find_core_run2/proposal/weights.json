@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Setting an ambitious, leading target",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Building workforce capability",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Advancing diversity and social mobility",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Economic and business case for apprenticeships",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Apprenticeships as core to Civil Service strategy",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Quality and standards in apprenticeship delivery",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Financial investment and resource allocation",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Inclusive workforce and employer appeal",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

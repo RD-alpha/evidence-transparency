@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Fee variation and opacity",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "DCLG's own market research of 50 agents is described with method (who, how, what searched) and multiple cited surveys (NALS, ARLA, EHS 2014-15, Generation Rent, Shelter, refs 3-6,10) are linked to specific average-fee and non-display figures, though the discrepancies between these sources are listed rather than reconciled or assessed."
+    },
+    {
+      "theme": "Tenant lack of market power",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The Citizens Advice finding that 60% vs 88% of renters pay fees depending on whether an agent is involved is cited and linked (ref 9) directly to the claim of reduced tenant control, though the OFT 2013 study on headline pricing is named but not linked."
+    },
+    {
+      "theme": "Weak competitive pressure on tenant fees",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The claim that transparency rules 'demonstrated' double-charging and that landlords/agents lack incentive to minimise tenant fees is argued from unnamed evidence and economic reasoning with no reference numbers or links anywhere in this theme."
+    },
+    {
+      "theme": "Financial and behavioural harm to tenants",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Citizens Advice's 64%/42% findings are cited and linked (ref 13) directly to the claim of financial harm, while the EHS 2014-15 35%/34% figures on deterred moves are stated without a reference marker."
+    }
+  ],
+  "reasoning": "The diagnosis draws on a substantial body of survey evidence -- NALS, ARLA, Generation Rent, Shelter, Citizens Advice and the English Housing Survey -- much of it properly cited (refs 3-6, 9, 10, 13) and clearly linked to specific claims, such as the \u00a3200-\u00a3400 average fee range, the 60% vs 88% fee-incidence gap, and the 64%/42% debt/borrowing figures. DCLG's own market research of 50 agents is unusually well described methodologically, reaching level 2 for primary evidence. This supports 'Fee variation and opacity' (2), 'Tenant lack of market power' (2) and 'Financial and behavioural harm' (2). However 'Weak competitive pressure on tenant fees' rests almost entirely on unsupported economic reasoning and an unreferenced claim that transparency rules 'demonstrated' double-charging, giving it only level 1. The mean of the four core themes (2+2+1+2)/4 = 1.75 rounds down to 2. The strongest counter-example is the competitive-pressure theme, where plausible argument substitutes for evidence. To reach level 3, the document would need to explicitly assess why different fee surveys (NALS \u00a3172 vs Generation Rent \u00a3400 vs EHS \u00a3223) diverge, discuss their reliability, and support the competitive-pressure claim with cited data such as the actual market research findings on double-charging.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

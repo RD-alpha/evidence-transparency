@@ -1,0 +1,35 @@
+{
+  "title": "Fixed penalties for environmental offences",
+  "alias": "fixed_penalties_environment",
+  "uploaded_at": "2026-10-13T12:26:21.665440+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "12:26:21 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "fixed_penalties_consultation",
+      "title": "Fixed Penalties for Environmental Offences Consultation",
+      "sentence_count": 786,
+      "first_sentence": "S0001",
+      "last_sentence": "S0786",
+      "reference_count": 66,
+      "first_reference": "1",
+      "last_reference": "66",
+      "link_count": 77
+    },
+    {
+      "alias": "fixed_penalties_regulations",
+      "title": "Environmental Offences (Fixed Penalties) Regulations Draft",
+      "sentence_count": 99,
+      "first_sentence": "S0787",
+      "last_sentence": "S0885",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 0
+    }
+  ],
+  "appendix2_date": "10 April 2017",
+  "appendix2_type": "consultation + draft regulations (combined in Appendix order)",
+  "extraction_note": "PDF table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

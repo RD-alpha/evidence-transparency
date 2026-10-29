@@ -1,0 +1,17 @@
+{
+  "title": "Build to Rent consultation (listed source)",
+  "alias": "build_to_rent_listed",
+  "uploaded_at": "2026-10-08T17:24:25.955636+01:00",
+  "uploaded_date": "2026-10-08",
+  "uploaded_time": "17:24:25 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "consultation_invitation",
+    "source_documents": 1,
+    "matches_2018_listed_source": "yes",
+    "basis": "The February 2017 consultation paper (listed). Ingested from the files Appendix 2 links to (verified by retrieval)."
+  }
+}

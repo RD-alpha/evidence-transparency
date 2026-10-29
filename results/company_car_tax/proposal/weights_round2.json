@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Policy Context and Objectives",
+      "reason": "States the government's aim for the intervention—refocusing incentives on the cleanest, most technologically advanced vehicles—which frames the entire proposal; without this the rationale for reforming the bands has no stated purpose.",
+      "weight": "core"
+    },
+    {
+      "theme": "Evidence of Success of CO2-Based System",
+      "reason": "Provides supporting evidence that the existing CO2 approach has worked, which bolsters but is not essential to the specific decision to retain CO2 as the main factor; the proposal's core decision stands independently of this background evidence.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Company Car Market Effectiveness",
+      "reason": "Explains why targeting company cars is an effective policy lever generally, but this is background context rather than a pillar of the specific band-design proposal.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Stakeholder Engagement and Transparency",
+      "reason": "Describes procedural commitments to announce rates in advance for predictability; this is administrative detail rather than a structural support for the chosen intervention design.",
+      "weight": "not core"
+    },
+    {
+      "theme": "CO2 as Primary Measure Going Forward",
+      "reason": "States the central decision that CO2 emissions will remain the main determinant of company car tax post-2020, which is a direct statement of the chosen intervention and thus essential to the proposal.",
+      "weight": "core"
+    },
+    {
+      "theme": "Zero Emission Miles as Additional Measure",
+      "reason": "Introduces the key proposed addition—using zero emission mileage alongside CO2 to differentiate ULEVs—which is the central new element of the intervention being proposed.",
+      "weight": "core"
+    },
+    {
+      "theme": "Complexity and Consistency Considerations",
+      "reason": "Weighs a downside of the zero-emission-miles approach against the simplicity of CO2-only bands; this is a supporting consideration in assessing options rather than a standalone pillar of the proposal.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Band Structure Design Options",
+      "reason": "Lays out the two structural options for arranging new ULEV bands (narrow continuous vs wider 'cliff edge' bands) and their trade-offs, directly addressing the design of the chosen intervention and alternatives considered.",
+      "weight": "core"
+    },
+    {
+      "theme": "Implementation Example",
+      "reason": "Offers a single illustrative example of how bands might be subdivided using zero emission miles; it is explanatory detail rather than a load-bearing part of the argument.",
+      "weight": "not core"
+    }
+  ]
+}

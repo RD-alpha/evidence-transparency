@@ -1,0 +1,52 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Local authority (Trading Standards) enforcement",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that TS should enforce the ban is grounded in the statement that this 'builds on the existing work of Trading Standards...enforcing the requirement for letting and managing agents to belong to a redress scheme and the transparency requirements of the Consumer Rights Act 2015', but this precedent carries no reference or link."
+    },
+    {
+      "theme": "Potential lead enforcement authority",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The detailed description of NTSEAT's existing powers and role in the Estate Agent sector is used as comparable-policy evidence for why a lead authority might work in lettings, but none of these lines carry a citation or link."
+    },
+    {
+      "theme": "Tenant empowerment and education",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim rests on the analogy 'Tenant empowerment and education has helped to improve compliance in other areas of the sector, for example, deposit protection', explained via the deposit-protection court process, but with no data on actual compliance improvement or citation."
+    },
+    {
+      "theme": "Penalties and deterrence design",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The proposed fine levels are benchmarked against named existing penalties (the \u00a35,000 redress/transparency civil penalty and the \u00a330,000 Housing and Planning Act 2016 banning-order penalty), but neither figure carries a reference or link."
+    },
+    {
+      "theme": "Deposit and fee safeguards",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme sets out options (instalments, holding deposit forfeiture rules, premium-market exceptions) with reasoning about fraud, discrimination and fairness risks but no statistic, finding or named source."
+    },
+    {
+      "theme": "Implementing the fee ban legislation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "A single statement of intent to legislate, with no evidence offered."
+    },
+    {
+      "theme": "International and historical precedent",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The account of the Rent Act 1977/1984 and the Private Rented Housing (Scotland) Act 2011, including the \u00a31,000 fine figure and the finding that 'there was confusion amongst letting agents about what charges the law allowed', is used as precedent evidence but carries no citation."
+    }
+  ],
+  "reasoning": "All four core themes reach level 1 but not level 2, because each draws on some form of comparable evidence\u2014existing Trading Standards duties under the Consumer Rights Act, NTSEAT's powers in the Estate Agent sector, the deposit-protection analogy, and the \u00a35,000/\u00a330,000 benchmark fines under the Housing and Planning Act 2016\u2014yet none of this evidence carries a reference number or link in the extract (all <references> and <links> blocks are empty), so a reader cannot trace the source. The reasoning from evidence to design choice is present ('builds on the existing work of Trading Standards...', 'A similar level of fine...would arguably act as a considerable deterrent') but stops short of citation, and none of the four themes assess the strength or limits of the evidence used, so level 3 is unreachable. The strongest counter-example is the lead-authority theme, which gives unusually rich detail on NTSEAT's functions yet still offers no footnote proving the claims. Mean of the four core levels (1,1,1,1) = 1, giving a section score of 1. To reach level 2, the document would need to cite the sources for the redress-scheme/transparency penalty data, the Housing and Planning Act provisions, and any findings about deposit-protection compliance improvements, so readers could verify the evidence underpinning each delivery choice.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

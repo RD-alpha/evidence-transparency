@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "name": "Timing relative to the 2017 AE Review",
+      "ids": [
+        "S0053",
+        "S0054"
+      ]
+    },
+    {
+      "name": "Legislative amendment mechanism",
+      "ids": [
+        "S0063",
+        "S0083",
+        "S0094"
+      ]
+    },
+    {
+      "name": "Permissive, employer-choice design",
+      "ids": [
+        "S0093",
+        "S0097",
+        "S0098"
+      ]
+    },
+    {
+      "name": "Stakeholder consultation and scrutiny",
+      "ids": [
+        "S0061",
+        "S0062"
+      ]
+    }
+  ]
+}

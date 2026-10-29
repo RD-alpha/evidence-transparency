@@ -1,0 +1,60 @@
+{
+  "themes": [
+    {
+      "name": "Dropping the speaking assessment, compensated by combined skills",
+      "ids": [
+        "S0063",
+        "S0064",
+        "S0065",
+        "S0066",
+        "S0089",
+        "S0090",
+        "S0127"
+      ]
+    },
+    {
+      "name": "Content aligned with, but adapted from, the 2015 main MFL content",
+      "ids": [
+        "S0057",
+        "S0062",
+        "S0069",
+        "S0070",
+        "S0071",
+        "S0072",
+        "S0073",
+        "S0075",
+        "S0077",
+        "S0078",
+        "S0080",
+        "S0081",
+        "S0083",
+        "S0087",
+        "S0128"
+      ]
+    },
+    {
+      "name": "Distinct qualification title",
+      "ids": [
+        "S0085",
+        "S0093"
+      ]
+    },
+    {
+      "name": "Policy development and scope",
+      "ids": [
+        "S0048",
+        "S0050",
+        "S0051",
+        "S0061",
+        "S0126"
+      ]
+    },
+    {
+      "name": "Qualification purpose and progression",
+      "ids": [
+        "S0123",
+        "S0124"
+      ]
+    }
+  ]
+}

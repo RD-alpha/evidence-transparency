@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Link State Pension age to longevity for intergenerational fairness",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 32% principle is linked to a cited, explained comparison (Ref 1/18/38/39: 31.3% vs the last 25 years) and to the \u00a374bn and 0.4% GDP savings, with OBR and DWP citations (Refs 15, 16, 10), but the 'pensioner poverty' alternative is asserted without evidence and uncertainty in the evidence is not assessed here."
+    },
+    {
+      "theme": "Rise to 68 in 2037-39 following Cridland",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The \u00a374bn saving is tied to Table A, with method and assumptions in Refs 37 and 43 and the \u00a311bn/household derivation, and the document itself assesses the evidence by acknowledging uncertain life expectancy projections, the 2012- vs 2014-based ONS difference (5 years' shift), and why Cridland's one-in-ten cap was rejected."
+    },
+    {
+      "theme": "Universal State Pension age",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only Ref 40 (ONS life expectancy by socio-economic group) is cited, while the PPI analysis and Cridland's findings are named in prose without references, and the 'no evidence of regional options being fairer' and complexity claims are mostly reasoning."
+    },
+    {
+      "theme": "Deferring decisions beyond 68 pending review",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on uncertainty, deferring to later reviews and the 'up to 32%' aim are reasoning and commitments with no cited statistic or source in this theme, though the 'overall evidence on costs' line is unspecified."
+    },
+    {
+      "theme": "Fiscal and economic case for later State Pension age",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The 6.3 percentage point employment rise for women aged 60-61 is cited to DWP Fuller Working Lives (Ref 33) and linked to the claim, but the 1% GDP and 0.3% GDP figures are uncited here and no caveats are given."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Mostly describes the framework and legislation (Refs 22-25) and notes the forecast basis (Ref 44, OBR FSR assumptions) and that wider impacts on tax and benefits have not been estimated, which is a partial acknowledgement but not a source-linked evidence argument."
+    }
+  ],
+  "reasoning": "Four core themes were scored. The longevity-link theme reaches level 2: it links the 32% principle to a cited comparison (\"31.3%... over the last 25 years\", Refs 1, 18, 38, 39) and to the \u00a374bn and 0.4% of GDP savings. The claim that the alternative of cutting pensions would raise pensioner poverty, however, is asserted without any evidence. The 2037-39 theme reaches level 3. It links the \u00a374bn saving to Table A, and Refs 37 and 43 explain the method (\u00a311bn divided by ONS households; the DWP model assumes only the rise to 68). The document also assesses its own evidence, noting that \"life expectancy projections are uncertain\" and that using 2012-based rather than 2014-based ONS projections would bring the rise forward by 5 years. The universal-pension-age theme reaches level 1. Only the ONS data (Ref 40) is cited. The PPI analysis and Cridland's findings are named in the prose without references, and the complexity argument is reasoning only. Deferring decisions beyond 68 reaches level 0, because it consists of reasoning and commitments with no evidence. The mean of 2, 3, 1 and 0 is 1.5, which rounds down to 1. The strongest counter-example is the rise-to-68 theme, which is close to exemplary on its own and could justify a higher score. To reach level 2 the document would have to cite and explain the evidence on pensioner poverty, the PPI analysis and the socio-economic life-expectancy gaps, and give an evidence base for the plans beyond 68.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "A light-touch definition of Build to Rent",
+      "primary_evidence": true,
+      "score": 0,
+      "justification": "The claim that a light-touch definition avoids over-rigidity rests only on the Government's own reasoning, and the one piece of primary evidence cited ('We have heard calls from the Build to Rent industry for a definition') gives no indication of numbers, methods or what exactly was asked, so it cannot support the specific light-touch design."
+    },
+    {
+      "theme": "Setting national Affordable Private Rent parameters",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The 20%/20% figures themselves rest on reasoning about 'simplicity and predictability' with no cited data, but the decision to leave eligibility/nomination rights to local negotiation is supported by an unnamed, uncited account of 'local authorities that have accepted Affordable Private Rent instead of other affordable housing' and what they have done, reaching level 1."
+    },
+    {
+      "theme": "Clawback instead of a fixed covenant period",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The preference for claw-back over a fixed covenant is argued purely through reasoning ('Does not think it necessary...', 'Does not want to create a perverse incentive...') with reference 18 only noting a tangential VAT point, so no evidence is offered for this design choice."
+    },
+    {
+      "theme": "Possible London-specific variation",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim is supported by a properly cited and linked comparator policy, the GLA's Supplementary Planning Guidance (Reference 20, with URL), whose specific differences (mandatory viability appraisals, 15-year covenant) are explicitly linked to London's distinct land values and rental yields to justify possible variation."
+    },
+    {
+      "theme": "Local authority tools and discretion for Build to Rent support",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme only lists existing powers local authorities already have, with no evidence offered for why these tools work or should be used."
+    },
+    {
+      "theme": "Government engagement and guidance",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Plans for joint committees and guidance updates (Reference 15) are described with no evidence of why this engagement model was chosen or that it works."
+    },
+    {
+      "theme": "Tenancy terms and protections",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Tenancy terms such as notice periods and rent review clauses are stated as requirements with no supporting evidence of their effectiveness or rationale."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The Wandsworth policy example and the commuted sum formula are described without evidence of their impact or justification for the specific calculation chosen."
+    }
+  ],
+  "reasoning": "The four core themes vary widely in evidential support. 'A light-touch definition' (0) relies only on the Government's own reasoning about rigidity, with the sole evidence\u2014unquantified 'calls from the Build to Rent industry'\u2014too vague to count beyond level 0. 'Setting national Affordable Private Rent parameters' (1) similarly lacks evidence for its headline 20%/20% figures, though an uncited reference to how 'local authorities that have accepted Affordable Private Rent... have set...income bands' supports the eligibility-negotiation element, reaching level 1. 'Clawback instead of a fixed covenant period' (0) is argued entirely through unevidenced reasoning ('Does not think it necessary...'), with Reference 18 addressing only a tangential VAT point. 'Possible London-specific variation' (2) is the strongest: it cites the GLA's Supplementary Planning Guidance (Reference 20, linked), explains its differing covenant and viability-appraisal approach, and ties this explicitly to London's distinct land values and rental yields\u2014a clear evidential chain. The mean of (0+1+0+2)/4 = 0.75, rounding to a section score of 1. The strongest counter-case for a higher score is the London theme's clear sourcing, but it is only one of four core themes and cannot lift the average past 1. To reach level 2 overall, the document would need to cite data or research behind the 20%/20% parameters and the choice of claw-back over covenants, not just reasoned argument.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

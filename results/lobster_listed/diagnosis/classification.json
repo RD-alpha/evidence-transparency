@@ -1,0 +1,96 @@
+{
+  "themes": [
+    {
+      "name": "Overfishing of lobster and crawfish stocks",
+      "ids": [
+        "S0024",
+        "S0025",
+        "S0026",
+        "S0140",
+        "S0141",
+        "S0510"
+      ]
+    },
+    {
+      "name": "EU and biodiversity obligations",
+      "ids": [
+        "S0051",
+        "S0052",
+        "S0053",
+        "S0142",
+        "S0222",
+        "S0223",
+        "S0226",
+        "S0227",
+        "S0228",
+        "S0229",
+        "S0230",
+        "S0231",
+        "S0232"
+      ]
+    },
+    {
+      "name": "Market failure in a common resource",
+      "ids": [
+        "S0244",
+        "S0245",
+        "S0246",
+        "S0247",
+        "S0248",
+        "S0250",
+        "S0251",
+        "S0252",
+        "S0253",
+        "S0254"
+      ]
+    },
+    {
+      "name": "Inadequate and inconsistent existing management",
+      "ids": [
+        "S0032",
+        "S0054",
+        "S0055",
+        "S0056",
+        "S0057",
+        "S0058",
+        "S0059",
+        "S0060",
+        "S0146",
+        "S0234",
+        "S0235",
+        "S0236",
+        "S0237",
+        "S0239",
+        "S0240",
+        "S0241"
+      ]
+    },
+    {
+      "name": "Economic value and employment in the shellfish sector",
+      "ids": [
+        "S0044",
+        "S0045",
+        "S0046",
+        "S0047",
+        "S0212",
+        "S0213",
+        "S0214",
+        "S0215",
+        "S0216",
+        "S0217",
+        "S0218"
+      ]
+    },
+    {
+      "name": "Governance and management responsibilities",
+      "ids": [
+        "S0048",
+        "S0049",
+        "S0050",
+        "S0144",
+        "S0220",
+        "S0221"
+      ]
+    }
+  ]
+}

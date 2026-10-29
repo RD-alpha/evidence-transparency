@@ -1,0 +1,64 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Three delivery routes for creating apprenticeships",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The three routes are simply described as what will be done, with no statistic, finding or source given for why converting recruitment, retraining staff or expanding schemes was chosen over other options."
+    },
+    {
+      "theme": "Governance and departmental accountability",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The SRO structure and the 2.3% departmental target are stated as facts of the arrangement, with no evidence offered that this governance model works or was chosen over alternatives."
+    },
+    {
+      "theme": "Reform of recruitment, pay and selection practices",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The line 'As part of our Talent Action Plan 2016, we are piloting alternative approaches to competency based recruitment' names the department's own pilot activity and explains its purpose, but gives no citation, result, or detail of how the pilot was run, so it cannot exceed level 1."
+    },
+    {
+      "theme": "Embedding apprenticeships in career pathways",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines such as 'Apprenticeships will be at the heart of this...' and the 2020 target describe intentions and commitments but cite no evidence that embedding apprenticeships this way will achieve the stated goals."
+    },
+    {
+      "theme": "Targeted outreach to underrepresented groups and all UK nations",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims like 'we need to have data-driven procedures in place' describe an aspiration to use data rather than presenting any data, finding or cited source, and Reference 5 only defines the NI Civil Service rather than supporting a delivery choice."
+    },
+    {
+      "theme": "Apprenticeship frameworks, standards and quality assurance",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The Ofsted 'outstanding or good' criterion is stated as a procedural rule, not supported by evidence showing it drives quality outcomes."
+    },
+    {
+      "theme": "Strategic direction and national coordination",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims about regional spread and cross-sector collaboration are asserted with no supporting data or named source."
+    },
+    {
+      "theme": "Training provision and funding",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The levy-funding strategy is described with no evidence of costings, assumptions or comparative analysis."
+    },
+    {
+      "theme": "Monitoring and progression",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The Fast Stream progression target is stated with no supporting data on current progression rates or rationale."
+    }
+  ],
+  "reasoning": "Of the five core themes, four score 0: the delivery routes, governance structure, career-pathway embedding, and targeted outreach themes all state what will be done ('converting planned external recruitment', 'departments... agreed to achieve 2.3%', 'Apprenticeships will be at the heart of this', 'we need to have data-driven procedures in place') without any statistic, finding, named report or primary data explaining why these choices were made or how they will work. The reform-of-recruitment theme reaches level 1, because it names the department's own Talent Action Plan 2016 pilot on competency-based recruitment \u2014 primary evidence, but with no methodology or results given, so it cannot reach level 2's citation standard. The mean of (0,0,1,0,0) is 0.2, rounding to 0. The strongest counter-example is the Talent Action Plan line, which shows the document is capable of pointing to internal evidence-gathering activity, suggesting fuller detail may exist elsewhere in the source document but is not shown here. To reach level 1 overall, the other four themes would need at minimum an unnamed finding or stated rationale ('research shows...', 'analysis found...'); to reach level 2, the document would need to cite consultation data, workforce modelling, or comparator schemes with a clear link showing why these specific routes, governance arrangements, career structures and outreach methods were chosen over alternatives.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.2,
+  "score_consistent": true,
+  "missing_core": []
+}

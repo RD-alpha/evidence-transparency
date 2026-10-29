@@ -1,0 +1,52 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Historical collapse and failed revival of institutional renting",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The 0.1%-of-landlords figure is drawn from the government's own Private Landlords Survey 2010 (Reference 4) and is clearly linked, but the central causal claim about why revival failed after 1980s deregulation ('long-term memories of risk', 'decline in reputation') carries no citation or source at all."
+    },
+    {
+      "theme": "Market and regulatory failure rationale",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The entire theme, including the claims about barriers to entry, imperfect information, externalities and planning unfamiliarity, is argued through reasoning with no statistic, study, survey or citation anywhere in the text or references."
+    },
+    {
+      "theme": "Specific planning and viability barriers",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Barriers are said to be 'frequently cited' by industry but no survey, consultation or named source is given, and the theme carries no references at all."
+    },
+    {
+      "theme": "Strong underlying demand and investment appetite",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "PwC's 25%-by-2025 forecast (Reference 8,9), the BPF's \u00a350bn capital estimate (Reference 10) and the BPF pipeline figures of 10,400/26,200/35,600 homes (Reference 11) are each clearly linked to the specific demand/capital claims they support, though none of this external evidence is assessed for reliability or limitations."
+    },
+    {
+      "theme": "Government response to the Montague Review",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The Montague Review itself and subsequent guidance/funds are named and linked (References 1, 5, 6, 7), giving a traceable, cited account of what was done, though it is descriptive of actions rather than diagnosis."
+    },
+    {
+      "theme": "Current market status and growth potential",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Industry growth projections are cited (References 12,13) but the key diagnostic claim that 'capital available for investment could be deployed faster if barriers are overcome' rests on unattributed 'what the Government has heard from developers and investors' with no description of who was consulted or how."
+    },
+    {
+      "theme": "Planning guidance for Build to Rent viability",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme quotes the current national planning guidance (Reference 14) to describe existing rules, not to provide evidence of a problem, so it offers no diagnostic evidence."
+    }
+  ],
+  "reasoning": "Of the four core themes, only 'Strong underlying demand and investment appetite' reaches level 2: the PwC forecast (Ref 8,9), BPF's \u00a350bn capital figure (Ref 10) and BPF pipeline data (Ref 11) are properly cited and clearly linked to specific claims about demand and capital. 'Historical collapse and failed revival' scores 1 \u2014 the landlord-concentration statistic is cited to the 2010 Private Landlords Survey (Ref 4), but the key causal claim about why revival failed after deregulation (memories of risk, reputational decline) is pure assertion with no source. 'Market and regulatory failure rationale' and 'Specific planning and viability barriers' both score 0: neither carries a single reference, statistic, or named study \u2014 claims like barriers being 'frequently cited' by industry are unattributed, and the market-failure taxonomy is argued entirely through reasoning. The strongest counter-example to a low overall score is the demand theme's solidly cited figures, but these only cover market potential, not the causal diagnosis of why barriers exist. Mean of core levels (1, 0, 0, 2) = 0.75, rounding to 1. To reach level 2 overall, the document would need to name and cite the source of industry claims about land-competition and viability-methodology barriers, and provide evidence (e.g. a stakeholder survey or case studies) for the causal account of why the sector failed to revive after 1980s deregulation.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

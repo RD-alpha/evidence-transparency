@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rising life expectancy and share of life in retirement",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Figures are tied to ONS references (5, 12, 13, 19, 26) and DWP's own calculation (21, method stated as based on ONS data), and the document acknowledges that projections are uncertain, 'more so over longer projection periods' (counted from the Past delay and uncertain projections theme)."
+    },
+    {
+      "theme": "Demographic shift and pay-as-you-go burden",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Specific ONS projections (References 7 and 8) are clearly linked to the claim of 12.4m to 16.9m pensioners and 301 to 375 per 1,000, but this theme itself has no assessment, so the uncertainty caveat is borrowed only loosely."
+    },
+    {
+      "theme": "Rising State Pension and age-related spending",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The 1% of GDP and \u00a3725 per household figures are cited to the Cridland review (9, 30) and OBR (31), linked to affordability, but the strengths and weaknesses of the OBR projections are not assessed here."
+    },
+    {
+      "theme": "Past delay and uncertain projections",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "The theme states that 'life expectancy projections are uncertain, and more so over longer projection periods', and the Government Actuary example shows how the 2012-based versus 2014-based projections would move the age-68 timing forward by 5 years, alongside the Pensions Commission citation (Reference 20)."
+    }
+  ],
+  "reasoning": "All four themes are core. The life expectancy theme is well evidenced: lines such as 'a 65-year-old could expect to live for a further 13\u00bd years, or 23% of their adult life' carry ONS references (5, 12, 19, 26) and a DWP calculation (21) that says it is based on ONS data, so a reader can follow the chain. The document also assesses its evidence. It says 'life expectancy projections are uncertain, and more so over longer projection periods', and it gives a concrete sensitivity: the Government Actuary found that using 2012-based rather than 2014-based projections would bring forward the rise to 68 by 5 years. That lifts this theme to level 3. The demographic theme (References 7 and 8) and the spending theme (References 9, 30, 31: 1% of GDP, \u00a3725 per household, OBR 7.9% of GDP) are cited and clearly linked to the problem, so each reaches level 2. Neither examines the limits of its own projections, and the OBR's 33.3% longevity-link assumption is stated rather than tested. The past-delay theme reaches level 3 because it acknowledges uncertainty and gives the sensitivity example. The mean of the core themes is (3+2+2+3)/4 = 2.5, which rounds down to 2. The strongest counter-example to this score is that the uncertainty caveat is a general statement and the sensitivity example is the only worked one, which would argue for 3. To reach level 3 overall, the document would need to assess the demographic and spending projections as well, for example by giving ranges, alternative scenarios or stated limits for the old age dependency ratio and OBR spending figures.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.5,
+  "score_consistent": true,
+  "missing_core": []
+}

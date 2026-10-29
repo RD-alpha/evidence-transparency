@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Stock overfishing and failure to meet MSY",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "EU and international obligations",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Common-pool resource market failure",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Role of berried females in stock recruitment",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Economic and employment significance of lobster and crawfish fisheries",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Current local management measures and evidence",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "External costs of landing berried females",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

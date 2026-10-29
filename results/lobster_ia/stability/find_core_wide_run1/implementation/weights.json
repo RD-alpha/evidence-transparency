@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Delivery via amendment to existing legislation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope of application",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enforcement arrangements and costs",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation to resolve outstanding assumptions",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Cost savings from local ban harmonisation",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Implementation governance and stakeholder engagement",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

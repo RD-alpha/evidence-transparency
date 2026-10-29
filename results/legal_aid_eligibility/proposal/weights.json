@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Passport only zero-earnings Universal Credit recipients",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Costs and modelled impacts are small",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "No disproportionate equalities impact",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

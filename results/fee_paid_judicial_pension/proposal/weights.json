@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "A retrospective fee-paid scheme mirroring JUPRA",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Eligibility, transitional protection and scope boundaries",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Justified departures from JUPRA to suit fee-paid working",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Parity amendments to the 2015 scheme",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

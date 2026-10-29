@@ -1,0 +1,39 @@
+Human sentences aligned to the current segmentation: 414 (not located: 3, all table rows)
+
+== 1. Agreement with each human (binary Yes / not-Yes)
+Annotator 1 vs Annotator 2 (human baseline): kappa 0.543, agreement 84.1%
+Annotator 1 vs model: per-run kappa 0.70/0.70/0.69/0.66/0.71 (mean 0.693); 5-run majority kappa 0.701, agreement 89.6%
+Annotator 2 vs model: per-run kappa 0.50/0.51/0.52/0.51/0.53 (mean 0.513); 5-run majority kappa 0.510, agreement 82.4%
+Final consensus vs model (411 resolved sentences): per-run kappa 0.61/0.62/0.60/0.56/0.61; majority kappa 0.613, agreement 87.1%
+Final consensus vs Annotator 1: kappa 0.765, agreement 92.5%  (not independent: Annotator 1 helped set it)
+Final consensus vs Annotator 2: kappa 0.755, agreement 91.7%  (not independent: Annotator 2 helped set it)
+
+== 2. Run-to-run agreement on these sentences
+Mean pairwise kappa between runs 0.928 (range 0.90-0.99); same call in all five runs: 94.7%
+Diagnosis sentences per run (on aligned human sentences): [97, 95, 96, 99, 93]; humans: Annotator 1 88, Annotator 2 98, final consensus 79
+
+== 3. The resolved human disagreements
+63 resolved sentences where one annotator said Yes and the other did not.
+  final consensus sided with Annotator 1: 52.4%
+  final consensus sided with Annotator 2: 47.6%
+  final consensus sided with model, 5-run majority: 57.1%
+
+== 4. Where the model departs from agreed human calls
+Annotator 1 and Annotator 2 agree on 348 sentences; the 5-run majority matches them on 92.8%.
+  model added (both humans said not-Yes): 19  |  model dropped (both humans said Yes): 6
+  added: S0001, S0011, S0168, S0170, S0171, S0172, S0173, S0174, S0175, S0176, S0177, S0178, S0179, S0183, S0228, S0229, S0230, S0231, S0270
+  dropped: S0081, S0117, S0150, S0327, S0371, S0425
+
+== 5. Core-theme sentences against the final consensus
+  run1: extracted 94 (share the consensus calls Yes 64%); core 92 (share Yes 65%); consensus-Yes sentences recovered: extracted 76%, core 76%
+  run2: extracted 92 (share the consensus calls Yes 65%); core 82 (share Yes 72%); consensus-Yes sentences recovered: extracted 76%, core 75%
+  run3: extracted 93 (share the consensus calls Yes 63%); core 88 (share Yes 66%); consensus-Yes sentences recovered: extracted 75%, core 73%
+  run4: extracted 96 (share the consensus calls Yes 59%); core 87 (share Yes 64%); consensus-Yes sentences recovered: extracted 72%, core 71%
+  run5: extracted 90 (share the consensus calls Yes 64%); core 76 (share Yes 71%); consensus-Yes sentences recovered: extracted 73%, core 68%
+
+== 6. Sanity checks (annotations/sanity_checks.txt)
+  run1: PASS
+  run2: PASS
+  run3: PASS
+  run4: PASS
+  run5: PASS

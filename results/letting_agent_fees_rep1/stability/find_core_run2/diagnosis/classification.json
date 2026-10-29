@@ -1,0 +1,258 @@
+{
+  "themes": [
+    {
+      "name": "High, variable and opaque tenant fees",
+      "ids": [
+        "S0014",
+        "S0015",
+        "S0016",
+        "S0136",
+        "S0138",
+        "S0139",
+        "S0142",
+        "S0143",
+        "S0150",
+        "S0151",
+        "S0152",
+        "S0153",
+        "S0154",
+        "S0155",
+        "S0162",
+        "S0163",
+        "S0164",
+        "S0165",
+        "S0167",
+        "S0168",
+        "S0169",
+        "S0189",
+        "S0190",
+        "S0193",
+        "S0194",
+        "S0195",
+        "S0196",
+        "S0197",
+        "S0199"
+      ]
+    },
+    {
+      "name": "Misaligned market incentives between landlords and tenants",
+      "ids": [
+        "S0223",
+        "S0224",
+        "S0226",
+        "S0227",
+        "S0228",
+        "S0230",
+        "S0231",
+        "S0232",
+        "S0233",
+        "S0235",
+        "S0236",
+        "S0238"
+      ]
+    },
+    {
+      "name": "Existing regulation has failed to solve the problem",
+      "ids": [
+        "S0030",
+        "S0037",
+        "S0038",
+        "S0039",
+        "S0189",
+        "S0190",
+        "S0201",
+        "S0202",
+        "S0204",
+        "S0205"
+      ]
+    },
+    {
+      "name": "Financial harm and barriers to tenants",
+      "ids": [
+        "S0265",
+        "S0266",
+        "S0267",
+        "S0268",
+        "S0271",
+        "S0272",
+        "S0273",
+        "S0274",
+        "S0276",
+        "S0277"
+      ]
+    },
+    {
+      "name": "Growth and context of private rental sector",
+      "ids": [
+        "S0005",
+        "S0006",
+        "S0007",
+        "S0250",
+        "S0251",
+        "S0254",
+        "S0416",
+        "S0417",
+        "S0418",
+        "S0476",
+        "S0477",
+        "S0478",
+        "S0479",
+        "S0507",
+        "S0508",
+        "S0509",
+        "S0510",
+        "S0511"
+      ]
+    },
+    {
+      "name": "Letting agent role and services",
+      "ids": [
+        "S0008",
+        "S0009",
+        "S0011",
+        "S0066",
+        "S0073",
+        "S0074",
+        "S0078",
+        "S0079",
+        "S0080",
+        "S0101",
+        "S0102",
+        "S0109",
+        "S0110",
+        "S0111",
+        "S0112",
+        "S0113",
+        "S0114",
+        "S0115",
+        "S0116",
+        "S0117",
+        "S0118",
+        "S0119",
+        "S0120",
+        "S0121",
+        "S0122",
+        "S0123",
+        "S0124",
+        "S0125",
+        "S0127",
+        "S0128"
+      ]
+    },
+    {
+      "name": "Landlord obligations and letting agent fees to landlords",
+      "ids": [
+        "S0051",
+        "S0052",
+        "S0053",
+        "S0055",
+        "S0056",
+        "S0057",
+        "S0058",
+        "S0012",
+        "S0173",
+        "S0174",
+        "S0175",
+        "S0177",
+        "S0178"
+      ]
+    },
+    {
+      "name": "Tenant screening and deposit processes",
+      "ids": [
+        "S0082",
+        "S0083",
+        "S0084",
+        "S0085",
+        "S0086",
+        "S0088",
+        "S0089",
+        "S0090",
+        "S0092",
+        "S0093",
+        "S0094",
+        "S0095",
+        "S0096",
+        "S0098",
+        "S0099",
+        "S0100",
+        "S0103",
+        "S0104",
+        "S0105",
+        "S0106",
+        "S0107",
+        "S0108"
+      ]
+    },
+    {
+      "name": "Fee transparency requirements and enforcement",
+      "ids": [
+        "S0033",
+        "S0034",
+        "S0035",
+        "S0043",
+        "S0044",
+        "S0046",
+        "S0191"
+      ]
+    },
+    {
+      "name": "Tenant fee characteristics and renewal patterns",
+      "ids": [
+        "S0134",
+        "S0135",
+        "S0145",
+        "S0146",
+        "S0147",
+        "S0148",
+        "S0170",
+        "S0256",
+        "S0257",
+        "S0258"
+      ]
+    },
+    {
+      "name": "Differences in private rental sectors across UK nations",
+      "ids": [
+        "S0063",
+        "S0419",
+        "S0420",
+        "S0421",
+        "S0422",
+        "S0423",
+        "S0424",
+        "S0504",
+        "S0523",
+        "S0524",
+        "S0525"
+      ]
+    },
+    {
+      "name": "Fee comparison between direct landlords and letting agents",
+      "ids": [
+        "S0181",
+        "S0182",
+        "S0184",
+        "S0185",
+        "S0186"
+      ]
+    },
+    {
+      "name": "Agent misconduct and market problems",
+      "ids": [
+        "S0207",
+        "S0208",
+        "S0209",
+        "S0210"
+      ]
+    },
+    {
+      "name": "Fee increase trends",
+      "ids": [
+        "S0262",
+        "S0263",
+        "S0264"
+      ]
+    }
+  ]
+}

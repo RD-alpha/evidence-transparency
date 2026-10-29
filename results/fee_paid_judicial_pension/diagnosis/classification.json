@@ -1,0 +1,36 @@
+{
+  "themes": [
+    {
+      "name": "Court findings of less favourable treatment",
+      "ids": [
+        "S0027",
+        "S0028",
+        "S0029",
+        "S0030",
+        "S0124"
+      ]
+    },
+    {
+      "name": "Scope of entitlement still contested",
+      "ids": [
+        "S0040",
+        "S0044",
+        "S0125",
+        "S0126",
+        "S0127",
+        "S0128",
+        "S0129"
+      ]
+    },
+    {
+      "name": "Gaps in access to ancillary schemes and tax treatment",
+      "ids": [
+        "S1803",
+        "S1808",
+        "S1809",
+        "S1810",
+        "S1811"
+      ]
+    }
+  ]
+}

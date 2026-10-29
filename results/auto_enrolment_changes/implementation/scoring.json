@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Timing relative to the 2017 AE Review",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that changes must precede the 2017 Review and the April 2017 staging date is asserted with no evidence\u2014no data, consultation finding, or analysis is offered to show why this timing is necessary rather than merely stated as a scheduling fact."
+    },
+    {
+      "theme": "Legislative amendment mechanism",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The statement that amending the 2010 Regulations via a new SI and new legislative power is 'necessary' is asserted with no supporting evidence or comparison to alternative mechanisms."
+    },
+    {
+      "theme": "Permissive, employer-choice design",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The choice of a 'permissive legislative approach' giving employers discretion over deferral length is described but no evidence (e.g. employer survey, consultation data, or modelling) is given for why this design was chosen over a prescriptive one."
+    },
+    {
+      "theme": "Stakeholder consultation and scrutiny",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme describes an intention to consult stakeholders and a future publication date, not evidence used to justify the delivery method."
+    }
+  ],
+  "reasoning": "All three core themes\u2014Timing relative to the 2017 AE Review, Legislative amendment mechanism, and Permissive, employer-choice design\u2014score 0. Each describes a decision (timing before the Review, amending via new SI with new legislative power, and a permissive rather than prescriptive deferral design) but offers no statistic, finding, dataset, consultation result, or comparable policy experience as grounds for that choice. For example, 'We are doing this because the measures need to be in place before the existing provisions...start to apply to new employers in April 2017' is reasoning about necessity, not evidence; 'A new legislative power is necessary to extend the easement to new employers' asserts necessity without showing why alternatives were unworkable; and 'We have therefore taken a permissive legislative approach' follows employer-choice description with no cited rationale, such as employer feedback favouring flexibility. The non-core Stakeholder consultation theme also scores 0, as it only announces an intention to seek scrutiny, not evidence already gathered. The mean of the three core themes (0, 0, 0) is 0, giving a section score of 0. The strongest counter-example would be if 'employer\u2019s choice' language reflected unseen consultation responses, but none are cited here. To reach level 1, the document would need to mention some evidence\u2014even uncited\u2014such as stakeholder feedback or modelling, explaining why these delivery mechanisms were chosen over alternatives.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

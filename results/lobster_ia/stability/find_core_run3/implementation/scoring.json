@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Legal mechanism and scope of the ban",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The decision to exclude foreign vessels is backed by a specific, cited statistic ('only 206kg in 2014', Reference 15, MMO Fisheries Activity Database) directly linked to the policy choice, but the choice to amend the existing SI rather than create a new one is justified only by unevidenced reasoning about 'simplifying the legislative landscape', with Reference 9 merely describing the existing order."
+    },
+    {
+      "theme": "Enforcement costs and approach",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The department's own cost modelling is laid out in detail (e.g. '\u00a3500' per kit, '12 MMO coastal offices and three inspection vessels and four IFCAs', totalling '\u00a311,500') showing how the figures were derived, though the citation to Reference 19 for the \u00a350 chemical cost does not resolve in the reference list, slightly undermining traceability, and no formal assessment of the estimate's reliability beyond a passing note that it is 'likely to be the highest estimate' is offered."
+    },
+    {
+      "theme": "Consultation to resolve outstanding design assumptions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines stating that assumptions 'will be tested during consultation' and that 'stakeholder workshops will be held' describe a future process for gathering evidence but present no evidence themselves and no citations for why consultation is the appropriate method."
+    },
+    {
+      "theme": "Implementation planning and stakeholder engagement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The two sentences describe an intention to 'build on current procedures' and 'develop this further' with no evidence, data or citation offered."
+    }
+  ],
+  "reasoning": "The three core themes reach uneven levels. 'Legal mechanism and scope' reaches level 2 because the exclusion of foreign vessels is grounded in a cited statistic ('only 206kg in 2014', Reference 15) directly linked to the decision, though the choice to amend the existing SI rests on unevidenced simplification reasoning. 'Enforcement costs and approach' also reaches level 2: the document sets out its own costing methodology in detail (kit numbers, office counts, unit costs totalling '\u00a311,500' and '\u00a316,650'), which counts as primary evidence with a reasonably clear method, though Reference 19 is unresolved and the acknowledgement that the training estimate is 'likely to be the highest estimate' is too thin to count as a full assessment of uncertainty (level 3). 'Consultation to resolve outstanding design assumptions' reaches level 0, since lines like 'This assumption will be tested during consultation' describe a future process rather than offering any evidence or justification for why consultation is the right method. The mean of 2, 2 and 0 is 1.33, which rounds down to 1. The strongest counter-example against a higher score is the 206kg foreign-vessel figure, which is well-linked and cited \u2014 but this alone cannot lift the section past level 1 given the consultation theme's complete absence of evidence. To reach level 2 overall, the document would need to show some evidence (e.g. prior consultation responses or comparable policy experience) justifying why consultation/workshops are an adequate way to resolve the outstanding assumptions, rather than simply stating that they will occur.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

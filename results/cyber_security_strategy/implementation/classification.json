@@ -1,0 +1,106 @@
+{
+  "themes": [
+    {
+      "name": "Partnership delivery with industry, devolved administrations and others",
+      "ids": [
+        "S0027",
+        "S0117",
+        "S0118",
+        "S0353",
+        "S0388",
+        "S0389",
+        "S0457",
+        "S0477",
+        "S0499",
+        "S0500",
+        "S0526",
+        "S0528",
+        "S0569",
+        "S0588",
+        "S0713",
+        "S0743",
+        "S0745",
+        "S0746",
+        "S0747",
+        "S0748",
+        "S0750",
+        "S0752",
+        "S0758",
+        "S0782",
+        "S0819",
+        "S0801"
+      ]
+    },
+    {
+      "name": "NCSC as the central delivery body, built in phases",
+      "ids": [
+        "S0356",
+        "S0364",
+        "S0365",
+        "S0440",
+        "S0452",
+        "S0499",
+        "S0581",
+        "S0583",
+        "S0587",
+        "S0588"
+      ]
+    },
+    {
+      "name": "Skills, education and the cyber workforce",
+      "ids": [
+        "S0746",
+        "S0747",
+        "S0748",
+        "S0750",
+        "S0751",
+        "S0757",
+        "S0758",
+        "S0562"
+      ]
+    },
+    {
+      "name": "Science, technology and horizon scanning",
+      "ids": [
+        "S0795",
+        "S0796",
+        "S0820",
+        "S0821",
+        "S0823",
+        "S0824",
+        "S0836",
+        "S0840",
+        "S0844",
+        "S0847"
+      ]
+    },
+    {
+      "name": "Sovereign capability and supply",
+      "ids": [
+        "S0689",
+        "S0690",
+        "S0698",
+        "S0699",
+        "S0700"
+      ]
+    },
+    {
+      "name": "Public advice and incident response",
+      "ids": [
+        "S0527",
+        "S0581",
+        "S0583"
+      ]
+    },
+    {
+      "name": "Timing and scope of implementation",
+      "ids": [
+        "S0123"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": []
+    }
+  ]
+}

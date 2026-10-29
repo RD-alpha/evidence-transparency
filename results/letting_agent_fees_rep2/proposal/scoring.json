@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rebalancing market power toward landlords",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "All lines assert landlords' bargaining power and incentive effects on agents with no statistic, study or citation offered in support."
+    },
+    {
+      "theme": "Scope and design of the ban",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that full fees won't be passed to landlords rests on the unnamed line 'there is evidence that a number of agents are charging excessive fees and that some agents are double charging landlords and tenants', which has no citation."
+    },
+    {
+      "theme": "Scottish precedent as supporting evidence",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "Specific findings (e.g. the '1% and 2% of the rent rises', '17% of agencies claim to have increased fees', '56% of private tenants agreed') are drawn from the cited Shelter/Rettie/BDRC Continental report (References 14-16) and the document itself flags limits, noting the rent-rise link is 'inconclusive' and that 'it is difficult to directly compare the English and Scottish markets'."
+    },
+    {
+      "theme": "Benefits to tenants and the rental market",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims about transparency, reduced homelessness risk and easier saving for deposits are asserted as reasoning with no data, survey or citation attached."
+    },
+    {
+      "theme": "Regulatory context and comparisons",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes Wales/Northern Ireland's current lack of regulation and reviews but offers no evidence for or against any option."
+    },
+    {
+      "theme": "Government objectives and announcement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States the 2016 Autumn Statement commitment (Reference 2) but this is an announcement, not evidence for why a fee ban was chosen."
+    }
+  ],
+  "reasoning": "The four core themes vary sharply. 'Rebalancing market power' (level 0) and 'Benefits to tenants and the rental market' (level 0) consist entirely of asserted reasoning -- e.g. 'Landlords will be able to shop around...', 'Banning letting agent fees paid by tenants will help make entering and moving around in the private rented sector less costly' -- with no statistic, study or citation behind them. 'Scope and design of the ban' reaches level 1 because it offers the unnamed claim 'there is evidence that a number of agents are charging excessive fees and that some agents are double charging landlords and tenants', which is evidence-backed reasoning but uncited. 'Scottish precedent' reaches level 3: it cites named reports (References 14-16, the Shelter/Rettie/BDRC Continental research), gives concrete figures ('17% of agencies claim to have increased fees', '56% of private tenants agreed'), and the document itself assesses the evidence's limits, calling the rent-rise link 'inconclusive' and noting it is 'difficult to directly compare the English and Scottish markets'. The mean of the four core levels (0, 1, 3, 0) is 1.0, rounding to 1. The strongest counter-example to a higher score is the Scottish theme's rigor, but this evidence is not clearly linked to the weaker core claims about landlord bargaining power or tenant benefits. To reach level 2 overall, the weaker themes would need named, cited evidence directly linked to their specific claims.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

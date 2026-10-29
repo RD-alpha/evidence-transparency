@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Compulsory interferon-gamma testing in the HRA",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The only figures are 20-30 herds tested a year and an expected 3.8% gamma-only positives (5.4 onward), with no source or method given and expected benefits asserted by reasoning; the temporary reactor rise is acknowledged but not evidenced."
+    },
+    {
+      "theme": "Closing gaps in skin testing and movement controls",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only evidence is the Republic of Ireland's policy since 2012 (7.5, uncited and with no outcome given) and an assertion that severe interpretation lowers the cut-off; the other measures rest on argument with no reference, though the immediate-slaughter option is rejected with reasons (7.4)."
+    },
+    {
+      "theme": "Stronger surveillance and boundary change in the Edge Area",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The Cheshire and Derbyshire experience (12.1-12.3, 2.7), a CBA with stated figures, 3.5% discount rate, a 20-year period and the revert-to-annual assumption (12.7, 1.2, 2.3-2.6), and sensitivity scenarios (2.7) are linked to the proposals, with the Green Book and APHA cited (References 1, 3, 4); the unquantified benefits are acknowledged (12.8, 2.9), but the CBA's data and the Cheshire evidence are not fully set out, so it falls short of level 3."
+    },
+    {
+      "theme": "Overall strategy of balanced cattle controls alongside badger control",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 1.2, 3.2 and 4.1 state aims, a balance and the history of earlier measures (April 2016 SIT policy) without any evidence that those measures worked."
+    },
+    {
+      "theme": "Biosecurity enforcement and Wales-style notices",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes the Welsh VINs/VRNs (13.1-13.3) and asserts the VRN option may be more transparent and flexible, with no evidence of their effectiveness."
+    },
+    {
+      "theme": "Low Risk Area red market restrictions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims in 14.1-14.4 that TB in the LRA is low and stable and that the measure would have limited impact are uncited and unquantified."
+    },
+    {
+      "theme": "Risk-based simplified testing regime for the HRA",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The Cheshire Edge experience of declining incidence and prevalence and the 78-day average SIT interval are offered as grounds, but with no figures, method or citation, and the benefits listed are mostly assertion."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes the ibTB mapping tool and farmer feedback (15.1-15.2) without evidence for the TB controls; the link in Link 8 only points to the tool."
+    }
+  ],
+  "reasoning": "The core themes are compulsory interferon-gamma testing in the HRA (level 1), closing gaps in skin testing and movement controls (level 1), Edge Area surveillance and boundary change (level 2) and overall strategy (level 0). The mean is 1.0, so the section scores 1. The Edge Area theme is the strongest. It draws on the Cheshire and Derbyshire experience (12.1-12.3, 2.7) and sets out a cost-benefit analysis with explicit assumptions: \"a 20 year appraisal period\", a 3.5% discount rate, reversion to annual testing after five years, and central, pessimistic and optimistic scenarios (2.7). It cites the Green Book (Reference 3), APHA surveillance data (Reference 1) and a Defra impact assessment (Reference 4), and it admits that some benefits are \"difficult to quantify or value\" (12.8, 2.9). The interferon-gamma theme offers only bare figures (\"20 and 30 herds a year\", \"around 3.8%\") with no source or method. The skin-test and movement measures rest mainly on argument; the Irish policy since 2012 is mentioned but with no outcome or reference. The overall strategy theme gives no evidence at all. The strongest counter-example to level 1 is the Edge Area theme, which reaches level 2 and is the only core theme with a transparent calculation. To reach level 2, the document would have to cite and explain the data behind the interferon-gamma and skin-test proposals, such as the 3.8% figure, the Irish results and the past effects of the 2016 measures. To reach level 3, it would also have to assess the strength of that evidence and its contradictions.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

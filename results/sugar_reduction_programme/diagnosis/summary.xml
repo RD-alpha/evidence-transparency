@@ -1,0 +1,93 @@
+<root>
+<theme sentences="5" weight="core">
+<name>Scale and health consequences of childhood obesity</name>
+<claim>Nearly a third of children aged 2-15 are overweight or obese, starting earlier and persisting longer, which raises the risk of premature death, type 2 diabetes and depression and costs the NHS billions.</claim>
+<text>
+<line id="S0013">Today nearly a third of children aged 2 to 15 are overweight or obesei, and younger generations are becoming obese at earlier ages and staying obese for longer. Reducing obesity levels will save lives as obesity doubles the risk of dying prematurely. Obese adults are seven times more likely to become a type 2 diabetic than adults of a healthy weight which may cause blindness or limb amputation. ** (Reference: 1,2,3,4)</line>
+<line id="S0014">And not only are obese people more likely to get physical health conditions like heart disease, they are also more likely to be living with conditions like depression.</line>
+<line id="S0016">We spend more each year on the treatment of obesity and diabetes than we do on the police, fire service and judicial system combined. ** (Reference: 7)</line>
+<line id="S0017">It was estimated that the NHS in England spent £5.1 billion on overweight and obesity-related ill-health in 2014/15. ** (Reference: 8)</line>
+<line id="S0163">With nearly a third of children aged 2-15 overweight or obese, tackling childhood obesity requires us all to take action. ** (Reference: 25)</line>
+</text>
+<references>
+<reference number="1">Health and Social Care Information Centre (2015) Health Survey for England 2014</reference>
+<reference number="2">Johnson W, Li L, Kuh D, Hardy R (2015) How Has the Age-Related Process of Overweight or Obesity Development Changed over Time? Coordinated Analyses of Individual Participant Data from Five United Kingdom Birth Cohorts. PLoS Med 12(5)</reference>
+<reference number="3">T. Pischon, M.D et al. (2008) General and Abdominal Adiposity and Risk of Death in Europe. The New England Journal of Medicine. 359:2105-2120.</reference>
+<reference number="4">Asnawi Abdullah, Anna Peeters, Maximilian de Courten, Johannes Stoelwinder (2010) The magnitude of association between overweight and obesity and the risk of diabetes: A meta- analysis of prospective cohort studies. Diabetes Research and Clinical Practice.</reference>
+<reference number="7">McKinsey Global Institute (2014) Overcoming Obesity: An Initial Economic Analysis.</reference>
+<reference number="8">Estimates for UK in 2014/15 are based on: Scarborough, P. (2011) The economic burden of ill health due to diet, physical inactivity, smoking, alcohol and obesity in the UK: an update to 2006–07 NHS costs. Journal of Public Health. May 2011, 1-9. Uplifted to take into account inflation.  No adjustment has been made for slight changes in overweight and obesity rates over this period. It’s been assumed England costs account for around 85% of UK costs.</reference>
+<reference number="25">Health and Social Care Information Centre (2015) Health Survey for England 2014</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="core">
+<name>Inequality in obesity burden</name>
+<claim>Obesity falls hardest on children from the most deprived areas, with rates two to three times higher than for the best-off children and still worsening.</claim>
+<text>
+<line id="S0018">The burden is falling hardest on those children from low-income backgrounds.</line>
+<line id="S0019">Obesity rates are highest for children from the most deprived areas and this is getting worse. Children aged 5 and from the poorest income groups are twice as likely to be obese compared to their most well off counterparts and by age 11 they are three times as likely. ** (Reference: 9,10)</line>
+</text>
+<references>
+<reference number="9">Health and Social Care Information Centre (2015) National Child Measurement Programme, England 2014/15</reference>
+<reference number="10">Yvonne Kelly, Alice Goisis, and Amanda Sacker (2015) Why are poorer children at higher risk of obesity and overweight? A UK cohort study. The European Journal of Public Health.</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="5" weight="core">
+<name>Excess sugar and calorie intake</name>
+<claim>Children consume too many calories and too much sugar, especially from sugar-sweetened drinks, and obesity at root stems from energy imbalance, with SACN concluding that sugar raises the risk of excess calories, tooth decay and weight gain.</claim>
+<text>
+<line id="S0020">Obesity is a complex problem with many drivers, including our behaviour, environment, genetics and culture.</line>
+<line id="S0021">However, at its root obesity is caused by an energy imbalance: taking in more energy through food than we use through activity.</line>
+<line id="S0027">Our children are consuming too many calories - and, in particular, too much sugar. Teenagers in England are the biggest consumers of sugar-sweetened drinks in Europe. ** (Reference: 14,15)</line>
+<line id="S0028">The Scientific Advisory Committee on Nutrition (SACN) recently concluded that sugar consumption increases the risk of consuming too many calories, the risk of tooth decay, and that consumption of sugar sweetened beverages is associated with increased risk of type 2 diabetes and linked to higher weight in children. ** (Reference: 16)</line>
+<line id="S0029">A single 330ml can of a soft drink with added sugar (which can contain as much as 35g of sugar), may instantly take a child over their maximum recommended daily intake of sugar.</line>
+</text>
+<references>
+<reference number="14">Public Health England (2015) Sugar Reduction: the evidence for action.</reference>
+<reference number="15">Brooks, F. et al (2010) Health Behaviours in School-aged Children</reference>
+<reference number="16">The Scientific Advisory Committee on Nutrition (2015) Carbohydrates and Health</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="3" weight="core">
+<name>Low physical activity and early-years onset</name>
+<claim>Children are not active enough, and many are already overweight before school while few toddlers meet activity guidelines, so more needs to be done to encourage daily activity.</claim>
+<text>
+<line id="S0086">Many schools already offer an average of two hours of PE or other physical activities per week.</line>
+<line id="S0087">However, we need to do more to encourage children to be active every day.</line>
+<line id="S0141">One in five children are already overweight or obese before they start school and only one in ten children aged two to four meets the UK Chief Medical Officers’ physical activity guidelines for this age group.vii, ** (Reference: 21,22,23)</line>
+</text>
+<references>
+<reference number="21">Health and Social Care Information Centre (2015) National Child Measurement Programme: England, 2014/15.</reference>
+<reference number="22">Health and Social Care Information Centre (2013) Health Survey for England 2012.</reference>
+<reference number="23">Chief Medical Officer (2011) Physical activity guidelines for under 5s, Factsheet 2.</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="not core">
+<name>Sugar labelling and clarity for families</name>
+<text>
+<line id="S0135">However, an issue of increasing concern to families is understanding which sugars they should be cutting out of their diet.</line>
+<line id="S0136">Current sugar labelling shows the total sugar content of foods but the new maximum intake recommendations are based on the specific sugarsvi that are easily over-consumed, not all sugars.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="not core">
+<name>Other</name>
+<text>
+<line id="S0015">The economic costs are great, too.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Design of the consolidated scheme areas",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tender eligibility and capacity requirements",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Fixed-fee remuneration based on bid price",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

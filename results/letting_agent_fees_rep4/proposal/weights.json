@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "theme": "Rebalancing market power through a fee ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scottish precedent as supporting evidence",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Assessing the rent/cost trade-off",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Reducing the up-front deposit burden",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Problem: Transparency requirements insufficient",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Scope and application of the ban",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Tenants' financial and housing outcomes",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Implementation and design principles",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Letting agent business model adjustments",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Policy commitment and context",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

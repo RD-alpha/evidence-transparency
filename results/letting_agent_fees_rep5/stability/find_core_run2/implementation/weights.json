@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Defining the scope and permitted exceptions of the ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enforcement architecture and penalties",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant empowerment and education as a compliance mechanism",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Addressing the residual deposit burden",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Protecting vulnerable groups",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Tenant protection and redress mechanisms",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Sector engagement and alternative models",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

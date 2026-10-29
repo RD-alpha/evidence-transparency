@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Choice of legislative mechanism",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that amending the existing SI (refs 7, 9, 19, 24) rather than creating a new order is preferable rests only on unsupported assertions that it 'will help with familiarisation' and 'support the Government's agenda on simplifying the legislative landscape', with the cited SIs merely defining the legal mechanism, not evidencing the choice."
+    },
+    {
+      "theme": "Scope of vessels and waters covered",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The exclusion of foreign vessels is supported by a specific, cited figure - 'only 206kg in 2014' landed by foreign vessels (Reference 10/25, MMO Fishery Activity Database) - directly linked to the claim that this exclusion won't harm conservation benefits, though the exclusion of Scottish/NI/Welsh waters relies only on the definitional Reference 8."
+    },
+    {
+      "theme": "Enforcement costs and mechanisms",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Detailed cost figures (e.g. '\u00a3500' per kit, '\u00a311,500' total, '\u00a34,000' training every two years) are attributed to Reference 29 'MMO, personal communication, 2015', but the document does not explain how this internal estimate was derived, so it cannot be verified or reach level 2."
+    },
+    {
+      "theme": "Related regulations and scope clarification",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims about the Landing Obligation, Nephrops exclusion and EU process delays are asserted through reasoning alone with no citations or data."
+    },
+    {
+      "theme": "Implementation savings and efficiencies",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that IFCAs may see cost savings is explicitly stated as unquantified, with no data or source given."
+    },
+    {
+      "theme": "Stakeholder engagement and consultation process",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes planned consultation and workshops with named stakeholders (SAGB, NFFO) but offers no evidence of past engagement outcomes or data supporting this approach."
+    }
+  ],
+  "reasoning": "The three core themes score unevenly. 'Choice of legislative mechanism' is level 0: the decision to amend the existing SI rather than create a new one is justified only by assertions about familiarisation and simplification, with the cited instruments (refs 7, 9, 19, 24) merely defining the legal powers, not evidencing the choice. 'Scope of vessels and waters covered' reaches level 2, since the exclusion of foreign vessels is backed by a specific cited figure - 'only 206kg in 2014' (refs 10/25, MMO Fishery Activity Database) - clearly linked to the conservation-impact claim, though the Scottish/NI/Welsh exclusions rest only on a definitional reference. 'Enforcement costs and mechanisms' reaches level 1: detailed cost estimates (e.g. '\u00a3500' per kit, '\u00a311,500' total) are attributed to the department's own data (ref 29, 'MMO, personal communication, 2015'), but the document never explains how this figure was derived, so it cannot be verified as per level 2's requirement for a followable source. The mean of (0, 2, 1) is 1.0, rounding to a section score of 1. The strongest counter-example to a higher score is the foreign-vessel landings figure, which shows the document can link evidence to a specific delivery decision when it chooses to. To reach level 2 overall, the document would need to explain how the MMO cost data was obtained and provide actual evidence (not just stated policy goals) for why amending the existing SI is the better mechanism.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,4 @@
+S0240 7.1.8 We will continue to develop our approach to assisted digital support as we develop our services, piloting and testing proposed solutions and taking account of user research to tailor our provision.
+S0241 This will be an ongoing process.
+S0586 We will consider whether we need to amend our equality considerations in light of the responses to the consultation.
+S0648 This assumption will be monitored and tested as we develop our digital services.

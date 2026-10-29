@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Commercial unviability of small schemes",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Lines 2 and 5 cite 'available data indicates' and 'around half of the current Schemes have very low volumes of work', but the data, volumes and method are not shown or referenced, and there is no assessment of the data's limits (line 4 says 'it would appear')."
+    },
+    {
+      "theme": "Provider withdrawals and re-tendering burden",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Line 4 gives a figure ('13 schemes to be retendered') and lines 2 and 3 describe withdrawals, but these come from the department's own records with no source, method or detail, and no references are attached."
+    },
+    {
+      "theme": "Court estate reform",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line asserts that HMCTS court closures will end some schemes, with no figures, named reform document or reference."
+    },
+    {
+      "theme": "Quality-only tendering and administratively set fees",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 1 to 3 assert that quality-only tenders led to 'high levels of costly litigation' 'as has been shown in previous tenders' without naming any case, cost or source."
+    }
+  ],
+  "reasoning": "The extract diagnoses unsustainable small court duty schemes, and its core themes are almost wholly uncited assertion. Commercial unviability scores 1. The document says 'Available data indicates that many of the schemes have only small volumes of work' and 'Around half of the current Schemes have very low volumes of work'. That is the department's own data, but the reader is not told what data it is, what threshold counts as 'very low', or how viability was judged. Provider withdrawals scores 1 because it gives one concrete figure, 'it has been necessary for 13 schemes to be retendered in some way', and says providers have 'pulled out of contracts'. Even so, no dates, no numbers of withdrawals and no cost of re-tendering are given, and the extract carries no references or links. Court estate reform scores 0, as it is a bare assertion about HMCTS closures. Quality-only tendering scores 0: the claim of 'costly litigation' 'as has been shown in previous tenders' points to evidence without naming it or its results. The mean of the four core themes is (1+1+0+0)/4 = 0.5, which rounds up to 1 under the usual rounding, but the halfway rule rounds down only at exact .5 between levels, so 0.5 sits between 0 and 1 and rounds down to 0. The strongest counter-example is the 13-schemes figure and the 'around half' figure, which are quantified and could justify level 1 overall. To reach level 1 across the board, the document would need to give its data on volumes and contract withdrawals, and to reach level 2 it would need to cite that data with a method. It would also need to acknowledge the limits of that data.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.5,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Phased rollout preserving strengths of the ET system",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Legislative route, consultation and safeguards",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Support for digitally excluded users and equality impacts",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Interaction with transfer to Scotland",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Notice and communication of changes",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Wider support package for later life",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Review cycle and legislative route",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

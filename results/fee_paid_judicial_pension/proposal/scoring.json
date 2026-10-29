@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "A retrospective fee-paid scheme mirroring JUPRA",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The scheme is justified by court and tribunal rulings (O'Brien, Miller) and the Part-Time Workers Directive date of 7 April 2000 (lines 'This is the date when the Part-Time Workers Directive...'), a legal constraint named in prose but with no linked citation, and no assessment of alternatives or uncertainty beyond a note that the date is 'subject to ongoing litigation'."
+    },
+    {
+      "theme": "Eligibility, transitional protection and scope boundaries",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Eligibility rules rest on the MoJ's stated position, the moratorium (Reference 1 explains its purpose) and Public Service Pensions Act transitional rules, but the extract does not show evidence that these boundaries will work, and the draft's own mismatch with stated policy is acknowledged only as a drafting fix."
+    },
+    {
+      "theme": "Justified departures from JUPRA to suit fee-paid working",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Departures are explained by reasoning about variable sitting patterns (e.g. 'necessary to calculate the lump sum by reference to the salary of a comparator office') with worked examples, plus 51 consultation responses in ungrouped line 3, but consultation findings are not tied to specific design choices and trivial-pension questions (Questions 3-5) are open."
+    },
+    {
+      "theme": "Parity amendments to the 2015 scheme",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme is draft legal text and a statement of intent for parity, with no evidence offered that the amendments are needed or will work beyond the assertion of parity of treatment."
+    }
+  ],
+  "reasoning": "All four themes are scored on the extract. The strongest evidence for the proposal is the legal constraint: the scheme exists to meet court and tribunal rulings (O'Brien and Miller) and the Part-Time Workers Directive, which fixes 7 April 2000 as the start date. This is named in prose only, with no reference a reader can follow, so it reaches level 1. The consultation evidence is the next strongest. Ungrouped line 3 says there were 51 responses, from 39 judges, eight associations and four others, and lists the themes covered. That describes the method, but the document never links any response to a specific design choice. The 'Justified departures' theme is a level 1 theme. It explains why fee-paid working forces departures from JUPRA, for example using the daily fee and annual divisors because sitting patterns vary. These are reasoned arguments with worked examples, not evidence that the measures work. The core themes score 1, 1, 1 and 0, a mean of 0.75, which rounds to 1. The strongest counter-example to level 1 is the 'Justified departures' theme, which might be argued to reach level 2 because of the consultation count and worked calculations. I reject that because those examples illustrate arithmetic rather than demonstrating that the choices are justified. To reach level 2 the document would need to cite the rulings and the consultation response document, and show which responses shaped which design choices. To reach level 3 it would also have to assess the strength of that evidence and say where it is uncertain.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Economic and employer demand for high-level skills",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim that employers value and need doctoral graduates is backed by a specific, cited finding that 'three quarters of employers... said their loss would have a business critical or significant impact' (Reference: 12, CFE Research 2014), giving a clear linked figure, though its reliability is never assessed."
+    },
+    {
+      "theme": "UK research base and institutional need for doctoral students",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only the narrow claim about the UK being a 'global research leader' is cited (References 8 and 15, UUK Funding Environment reports), while the theme's central assertions about critical mass, REF performance and collaboration are stated with no evidence or citation at all."
+    },
+    {
+      "theme": "Unmet demand and a funding gap for doctoral study",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The department's own HESA/Research Council analysis is explained (Reference 13: '15,190 such students... of whom only 5,611 (37%) received a studentship'), and the \u00a345k-\u00a373k cost range is built transparently from cited fee (Ref 16) and living-cost sources (Refs 17-21), though the cost data's limitations are not assessed."
+    },
+    {
+      "theme": "UK's global research competitiveness and performance",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Specific, cited statistics (e.g. 'fourth largest producer of PhD graduates', Reference 9; FWCI ranking, Reference 10; 20% rate of return, Reference 11) are clearly linked to the claim of UK research strength, but no weaknesses or uncertainties in these figures are discussed."
+    },
+    {
+      "theme": "Doctoral funding sources and delivery mechanisms",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme simply describes the Dual Support System and six funding sources with no statistic, study, or citation offered as evidence for any claim."
+    }
+  ],
+  "reasoning": "The diagnosis of a funding gap rests on three core themes. 'Economic and employer demand' reaches level 2: it cites a specific CFE Research finding (Reference 12) that three-quarters of employers would be critically affected by losing doctoral graduates, clearly linked to the claim of employer need. 'UK research base and institutional need' reaches only level 1: while the 'global research leader' claim is cited to UUK reports (References 8, 15), the more specific claims about critical mass, REF performance and collaboration are pure assertion with no evidence at all. 'Unmet demand and a funding gap' reaches level 2, the strongest theme: the department's own analysis of HESA/Research Council data is explained ('15,190 such students... 5,611 (37%) received a studentship', Reference 13), and the \u00a345,000-\u00a373,000 cost estimate is built transparently from cited fee and living-cost data (References 16-21). No theme assesses the strength or limitations of its evidence, so none reach level 3. The mean of the three core levels (2, 1, 2) is 1.67, rounding to 2. The strongest counter-example pulling the score down is the weak evidential base in the 'UK research base' theme, where most sub-claims are unsupported reasoning. To reach level 3, the document would need to explicitly weigh the reliability or limitations of its cited data, for example acknowledging uncertainty in stipend coverage or cost variation across institutions.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

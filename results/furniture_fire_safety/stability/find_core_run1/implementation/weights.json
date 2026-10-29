@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Flexible routes to compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Extended transition period",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Strengthened traceability record-keeping",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Further consultation to finalise undecided design details",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Guidance and stakeholder support",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Regulatory modernisation and clarity",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

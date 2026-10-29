@@ -1,0 +1,57 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Evidence thresholds and attestor access",
+        "claim": "Survivors can prove risk only with a live court order or an attestation from very senior officers (Superintendent-rank police or Directors of Social Services), which are hard for them to obtain, and this may have led them not to register."
+      },
+      {
+        "name": "Scheme purpose and high threshold",
+        "claim": "Anonymous registration was designed under the 2006 Act to protect people whose safety would be at risk, not those who merely want privacy, so the threshold was set high."
+      },
+      {
+        "name": "Live-order and annual renewal requirements",
+        "claim": "Orders must be live at the time of application and entries lapse after 12 months with the same evidence needed to renew, which burdens survivors."
+      }
+    ],
+    "note": "The diagnosis is largely a description of how the current scheme works; the minister's foreword alone asserts that survivors are deterred, with no scale or data given in the Diagnosis-labelled sentences."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Widening the list of attestors",
+        "claim": "The Government will lower the seniority required of police and social services attestors and is considering adding health professionals, refuge managers, domestic abuse advocates and MARAC chairs, because these are the people survivors are most likely to reach and who can judge risk."
+      },
+      {
+        "name": "Widening documentary evidence",
+        "claim": "The Government will add DVPNs, DVPOs and FGM protection orders and is considering a broader list of evidence such as convictions, cautions, bail and legal aid grants, to align with other domestic violence evidence regimes."
+      },
+      {
+        "name": "Relaxing the live-order requirement",
+        "claim": "The Government is weighing removing the live-order requirement entirely, which would recognise long-lasting fear but risks continued registration after need has ended, or replacing it with a time limit on spent orders as a middle option."
+      },
+      {
+        "name": "Balancing access, clarity and burden",
+        "claim": "Reforms are meant to balance access for those who need it, certainty for electoral administrators, and avoiding inappropriate burdens on attestors, with annual renewal burden still under investigation."
+      }
+    ],
+    "note": "The proposal is a package of separate measures, some decided and some left open for consultation, with no costs or benefits estimated."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Legislative amendment",
+        "claim": "All the proposed changes require amending current legislation, which the Government wants to do quickly."
+      },
+      {
+        "name": "Coordination with devolved administrations",
+        "claim": "Because of Scottish devolution, and the position in Wales and Northern Ireland, the UK Government will work with the Scottish Government for joint reforms in lockstep and with the Northern Ireland Office on whether to update its scheme."
+      },
+      {
+        "name": "Consultation on open design questions",
+        "claim": "Unsettled details, such as how to define a domestic abuse refuge in legislation, are to be settled through feedback from interested parties."
+      }
+    ],
+    "note": "Implementation is mostly about legislative and devolution logistics, with no costs, benefits or evidence for the delivery method."
+  }
+}

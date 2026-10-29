@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Commencement and retrospective effect",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines (amending regulation 7(4), 'retrospective to 1 April 2016', 'retrospective to 1 April 2015', and the commencement paragraph (2)) only state dates and effects, giving no evidence for why this timetable was chosen; the only rationale, 'to ensure any recent changes relating to the national minimum wage are ignored', is unsupported reasoning."
+    },
+    {
+      "theme": "Protection for those detrimentally affected",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Paragraphs (1)-(4) of the regulation describe the election mechanism and six-month notice period as legal provisions, with no evidence that the protection will work as intended or for why six months was set."
+    },
+    {
+      "theme": "Scope of existing rules for new sub-contractor IPs",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line asserts that existing IP regulations, including the 75% pensionable cap, apply to sub-contractor IPs, which describes the rules without evidence."
+    }
+  ],
+  "reasoning": "Both core themes score level 0, so the mean is 0 and the section scores 0. The 'Commencement and retrospective effect' theme sets out dates: the regulations 'come into force on 1st April 2017', with some provisions 'retrospective effect from 1st April 2016' or 2015. The only reason given is that the 2016 change is 'to ensure any recent changes relating to the national minimum wage are ignored'. That is an argument, not evidence, and nothing shows why these dates were chosen or what alternatives were considered. The 'Protection for those detrimentally affected' theme reproduces the regulation's text: members worse off can elect out by notice 'within six months'. This describes a procedure. It gives no data on how many members might be affected, no reason for the six-month window, and no evidence that the safeguard works. The non-core theme on sub-contractor IPs likewise only states that existing rules, such as the 75% cap, apply, with no evidence. No references or links are attached to any line, and there is no sign of primary evidence such as consultation responses or analysis. The strongest counter-example is that the retrospective dates and the six-month window are specific, deliberate choices that a reader might assume are grounded in legal advice, but none is shown. To reach level 1, the document would need to offer some evidence for these delivery choices, such as consultation responses, the number of members affected, or cost estimates. It would also need to explain how that evidence led to the timetable and the protection. Citing the sources would take it to level 2.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

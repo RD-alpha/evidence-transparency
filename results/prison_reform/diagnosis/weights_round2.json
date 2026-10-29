@@ -1,0 +1,104 @@
+{
+  "themes": [
+    {
+      "theme": "Prison Violence, Safety and Self-Harm",
+      "reason": "Provides the core scale and causal evidence (assault rates, self-harm, drugs, staffing cuts) establishing that violence is a central problem the policy must address; without it the central problem of violence has no evidentiary basis.",
+      "weight": "core"
+    },
+    {
+      "theme": "Reoffending and Recidivism",
+      "reason": "States the core scale of reoffending (cost, reconviction rates) that is the headline problem the whole policy is designed to fix; removing it leaves no diagnosis of the reoffending problem itself.",
+      "weight": "core"
+    },
+    {
+      "theme": "Prison Management, Accountability and Governance",
+      "reason": "Diagnoses the structural cause of failure—blurred accountability, lack of clear objectives, outdated legislation—which is the direct justification for why governor empowerment is needed.",
+      "weight": "core"
+    },
+    {
+      "theme": "Governor Authority and Prison Operations",
+      "reason": "Identifies the specific mechanism of failure (over-centralisation, lack of discretion for governors) that directly links the diagnosis to the proposed solution of governor autonomy; without this the case for empowering governors has no diagnostic grounding.",
+      "weight": "core"
+    },
+    {
+      "theme": "Prison Performance Metrics and Data",
+      "reason": "Supports the governance diagnosis by showing current measures are box-ticking rather than outcome-focused, but this is a supporting detail of the accountability argument rather than an independent pillar.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prisoner Population and Specific Cohorts",
+      "reason": "Provides background on demographic and estate mismatches affecting violence and management but is supplementary detail rather than a load-bearing part of the core diagnosis.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Drug and Substance Abuse in Prisons",
+      "reason": "Explains a specific driver of violence (psychoactive substances) already captured within the violence theme; useful detail but not a separate pillar of the argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Illicit Mobile Phones and Contraband",
+      "reason": "Gives specific security statistics that illustrate wider security threats but are supporting detail rather than central to the reoffending/violence diagnosis.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prison Security Threats and Organised Crime",
+      "reason": "Describes additional security risks (gangs, organised crime, extremism) that reinforce but do not themselves constitute the main diagnostic case for reoffending or violence.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prisoner Education and Skills",
+      "reason": "Touches on rehabilitation outcomes relevant to reoffending but is a minor supporting point rather than a core diagnostic pillar.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prisoner Health and Wellbeing",
+      "reason": "Provides contextual links between health issues and reoffending/violence but is background detail supporting other themes rather than a core argument on its own.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Family Relationships and Social Support",
+      "reason": "Offers a minor contributing factor to reoffending risk but is not central to establishing the scale or cause of the main problems.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Employment and Resettlement",
+      "reason": "Notes employment and accommodation as reoffending risk factors, but this is supplementary evidence rather than a core diagnostic pillar.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Sentence Planning and Prisoner Management",
+      "reason": "Describes administrative shortcomings in offender management that are illustrative rather than foundational to the core diagnosis.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prison Estate and Physical Infrastructure",
+      "reason": "Describes physical and cost issues with the estate that provide context but are not essential to the core argument about reoffending and violence causes.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prison Leadership and Workforce",
+      "reason": "Discusses leadership capability and staffing pipeline issues that relate to governor empowerment but are a secondary elaboration rather than a necessary pillar given the more direct Governor Authority theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Drone and Security Technology",
+      "reason": "Provides specific detail on an emerging security threat, illustrative but not essential to the core diagnosis of reoffending and violence.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prisoner Sanctions and Discipline",
+      "reason": "Describes procedural and legal detail about disciplinary powers, which is administrative background rather than core diagnostic evidence.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Extremism in Prisons",
+      "reason": "Raises a specific security concern (extremism) that is relevant context but not central to the core reoffending/violence diagnosis.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Contains brief, miscellaneous statements that do not themselves carry significant argumentative weight for the diagnosis.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Banding misaligns duty from strength",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The specific duty rates (\u00a340.38 and \u00a361.04 per hectolitre) and the 1.3% vs 7.5% abv example illustrate the claim but carry no reference or link, and the EU law point and 'public health groups argue' line are likewise named sources with no citation, so this stays at level 1."
+    },
+    {
+      "theme": "Adverse incentives within bands",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines 'Theoretically, this can create adverse incentives...' and 'There is no additional duty cost... so the duty per unit of alcohol falls' are pure reasoning from the banding structure, with no data or study showing producers actually respond this way."
+    },
+    {
+      "theme": "Harms from high-strength 'white' cider",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The 22.5-units claim is properly cited (Reference 3) and the Alcohol Health Alliance's 25%/45% treatment-service statistics are cited (Reference 4), giving a clear chain from evidence to the harm claim, though the Thames Reach line and 'public health groups report' line remain uncited and no weaknesses or uncertainties in this evidence base are discussed."
+    }
+  ],
+  "reasoning": "The diagnosis rests on three core themes. 'Banding misaligns duty from strength' uses concrete figures (the \u00a340.38/\u00a361.04 hectolitre rates and the 1.3% vs 7.5% abv example) and names 'public health groups' as a source, but none of this carries a reference or link, keeping it at level 1. 'Adverse incentives within bands' is pure reasoning ('Theoretically, this can create adverse incentives...', 'There is no additional duty cost...') with no data showing the incentive materialises in practice, so it scores 0. 'Harms from high-strength white cider' is the strongest: the 22.5-units-per-bottle claim carries Reference 3 and the Alcohol Health Alliance's 25%/45% treatment-service statistics carry Reference 4, both clearly linked to the harm claim, giving level 2; but the Thames Reach premature-death claim and the 'public health groups report' line are uncited, and no uncertainty or counter-evidence is acknowledged, so it cannot reach level 3. The mean of (1, 0, 2) is 1.0, rounding to a section score of 1. The strongest counter-example to a higher score is the well-cited white cider harm statistics, which alone would suggest level 2; but the unevidenced adverse-incentive theme pulls the average down. To reach level 2 overall, the document would need to cite a source for the duty-band figures and public health groups' claims, and show evidence (not just theory) that bands actually push production toward their upper strength limit.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

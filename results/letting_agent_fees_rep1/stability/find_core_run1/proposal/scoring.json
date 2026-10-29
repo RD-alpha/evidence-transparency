@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Banning tenant fees rather than relying on transparency",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 2016 Client Money Protection call for evidence asked stakeholders whether transparency requirements worked, and the document reports that 'the majority of responses welcomed the requirements but said that they are not sufficient' and that 'enforcement...has not been effective or consistent', directly linking this primary evidence to the decision to ban rather than rely on transparency, though no reference/link is given and no assessment of the evidence's strength or representativeness is offered."
+    },
+    {
+      "theme": "Scope and design of the ban",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The carve-outs for holding deposits and tenant-caused charges are justified mainly by reasoning ('to mitigate the risk of tenants speculating'), with the only evidence-like support being the uncited, unquantified claim 'We are aware of certain landlords rejecting households on the basis that they have children or receive benefits', which mentions but does not source the discrimination risk it is meant to mitigate."
+    },
+    {
+      "theme": "Costs, benefits and assumptions about rent effects",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "The claim that agents will not pass on full fees and that rent effects are minimal is supported by the cited Shelter/Rettie/BDRC Continental report (Reference 16) with specific figures (1-2% rent rise, 17% of agencies increasing landlord fees, 56% of tenants agreeing fees ban improves the sector), and the document itself flags uncertainty ('this is inconclusive', 'difficult to directly compare the English and Scottish markets')."
+    },
+    {
+      "theme": "Deposit affordability and future options",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The three lines only state intentions to 'explore' and 'examine' capping deposits with no evidence of deposit burden levels or effectiveness of options cited."
+    },
+    {
+      "theme": "Complementary regulation and broader context",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The Scotland and Northern Ireland references (including Reference 19) describe comparable legislation and a consultation but give no data or findings on their effects, so they function as context rather than evidence for the English ban."
+    }
+  ],
+  "reasoning": "The three core themes reach different levels. 'Banning tenant fees rather than relying on transparency' reaches level 2: it uses the department's own 2016 Client Money Protection call for evidence, reporting that 'the majority of responses...said that [transparency requirements] are not sufficient' and that enforcement was inconsistent, directly linking this primary evidence to the ban decision, though the consultation itself is not formally cited or quantified (no respondent numbers), so it falls short of level 3's assessment of evidence quality. 'Scope and design of the ban' reaches only level 1: the holding-deposit and in-tenancy charge carve-outs rest on reasoning, with the only evidential claim being the unsourced 'We are aware of certain landlords rejecting households...on the basis that they have children or receive benefits.' 'Costs, benefits and assumptions about rent effects' reaches level 3: it cites Shelter's report (Reference 16) and BDRC Continental's figures (e.g. '17% of agencies claim to have increased fees to landlords', '56% of private tenants agreed'), directly supporting the assumption that agents won't pass on full fees, and explicitly flags uncertainty ('this is inconclusive', 'difficult to directly compare the English and Scottish markets'). The mean of (2+1+3)/3 = 2.0, rounding to 2. The strongest counter-example against a higher score is theme 2's reliance on unsourced assertions rather than cited evidence. To reach level 3 overall, the document would need to source and quantify the consultation responses in theme 1 and provide genuine evidence (not just reasoning) for why the specific carve-outs in theme 2 were chosen.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.0,
+  "score_consistent": true,
+  "missing_core": []
+}

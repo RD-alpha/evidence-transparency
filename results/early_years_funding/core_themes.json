@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Historic central-to-local allocation",
+        "claim": "Funding to local authorities rests on historic spending rather than relative costs or child characteristics, producing wide, unexplained variation in hourly rates (£3.24 to £9.17) that cannot be justified and skews local childcare markets."
+      },
+      {
+        "name": "Local authority retention and provider funding",
+        "claim": "Local authorities retain widely varying shares of funding as central spend and fund different provider types at different rates despite broadly similar costs, so providers receive unequal and unjustified funding for the same entitlement."
+      },
+      {
+        "name": "Provider incentives for 30 hours",
+        "claim": "Providers cannot be compelled to deliver the free entitlement and market rates exceed government rates, so an inefficient and inequitable funding system would fail to incentivise enough providers to deliver 30 hours."
+      },
+      {
+        "name": "Support for children with SEND",
+        "claim": "The current system does not consistently fund support for disabled children and children with SEN, owing to unclear responsibility for funding and fragmented local practice, leaving them without full access to the entitlement."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Early years national funding formula",
+        "claim": "A national formula combining a universal base rate (89.5%), an additional needs factor (FSM, EAL, DLA) and an area cost adjustment would allocate funding fairly and transparently according to cost evidence from the Cost of Childcare Review, with a 10% floor limiting losses."
+      },
+      {
+        "name": "Maximising funding to providers",
+        "claim": "Requiring local authorities to pass through a high minimum share (95%) of funding limits excessive central spend so that the record investment reaches the front line."
+      },
+      {
+        "name": "Levelling the playing field and limiting supplements",
+        "claim": "A universal base rate for all provider types, with a limited set of permitted supplements capped at 10%, would end unjustified differences in funding, because costs are similar across provider types, while retaining local flexibility."
+      },
+      {
+        "name": "Funding for children with SEND",
+        "claim": "A Disability Access Fund paid per child receiving DLA and local SEN inclusion funds would give providers clearer, more accessible funding to support disabled children and children with SEN."
+      }
+    ],
+    "note": "The proposal is a package of linked measures at national and local level, with additional uplift in funding rates (£1bn extra, £4.88 average) as context."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Phased transition and protections",
+        "claim": "Changes will be phased in with a 5% annual cap on reductions, a 10% overall floor, and all authorities on formula by 2019-20, balancing swift gains for underfunded areas against stability and sufficiency in areas losing funding."
+      },
+      {
+        "name": "Gradual local-level changes",
+        "claim": "The pass-through rises from 93% to 95%, the universal base rate is allowed until 2019-20, and maintained nursery schools receive supplementary funding for at least two years so local authorities and providers can adapt."
+      },
+      {
+        "name": "Timetable and provider planning",
+        "claim": "Consultation and a Government response in autumn, with indicative provider rates published now, allow local authorities and providers to plan for the April and September 2017 start despite a tight timetable."
+      }
+    ],
+    "note": "Implementation passages are largely procedural and transitional, with little cost estimation or comparison of alternative delivery methods."
+  }
+}

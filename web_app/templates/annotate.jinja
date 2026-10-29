@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Annotate — {{ document_title }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='annotate.css') }}">
+</head>
+<body>
+
+<div class="annotate-header">
+    <h1>{{ document_title }}</h1>
+    <div class="annotate-progress">
+        <span id="progress-label">0 / 0 annotated</span>
+        <div class="progress-track"><div class="progress-fill" id="progress-fill"></div></div>
+    </div>
+</div>
+
+<div class="annotate-shell">
+    <div class="reader-pane" id="reader-pane">
+        <div class="reader-pad reader-pad-top" aria-hidden="true"></div>
+        {% for sentence in sentences %}
+        <p class="sentence"
+           id="sent-{{ sentence.code }}"
+           data-code="{{ sentence.code }}"
+           data-text="{{ sentence.text }}">
+            <span class="sentence-code">{{ sentence.code }}</span>{{ sentence.text }}
+        </p>
+        {% endfor %}
+        <div class="reader-pad reader-pad-bottom" aria-hidden="true"></div>
+    </div>
+
+    <div class="annotate-toolbar">
+        <div class="current-sentence-code" id="current-code">—</div>
+        <div class="decision-buttons">
+            <button type="button" class="decision-btn decision-diagnosis" data-decision="diagnosis">Diagnosis</button>
+            <button type="button" class="decision-btn decision-proposal" data-decision="proposal">Proposal</button>
+            <button type="button" class="decision-btn decision-implementation" data-decision="implementation">Implementation</button>
+            <button type="button" class="decision-btn decision-testing" data-decision="testing">Testing + Evaluation</button>
+            <button type="button" class="decision-btn decision-none" data-decision="none">None</button>
+        </div>
+        <div class="toolbar-hint">Press 1-5 as a shortcut, or click a button</div>
+    </div>
+</div>
+
+<script id="initial-annotations" type="application/json">{{ annotations | tojson }}</script>
+<script src="{{ url_for('static', filename='annotate.js') }}"></script>
+</body>
+</html>

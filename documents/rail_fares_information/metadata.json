@@ -1,0 +1,13 @@
+{
+  "title": "Information on Rail Fares and Ticketing",
+  "alias": "rail_fares_information",
+  "uploaded_at": "2026-10-12T18:02:55.443303+01:00",
+  "uploaded_date": "2026-10-12",
+  "uploaded_time": "18:02:55 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "appendix2_date": "13 December 2016",
+  "appendix2_type": "policy paper",
+  "source_file": "096_information_on_rail_fares_and_ticketing_1_action-plan-for-information-on-rail-fares-and-ticketing.pdf",
+  "extraction_note": "Action-plan tables (pages 4-8) converted to one entry per row (action, how it happens, timescale, owner) because the standard pipeline drops table blocks from the sentence stream."
+}

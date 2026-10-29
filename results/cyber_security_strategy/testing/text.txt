@@ -1,0 +1,67 @@
+S0029 The Government is committed to ensuring the commitments set out in this strategy are carried out and that we accurately monitor and regularly report on progress in meeting them.
+S0030 We will also keep our approach under review and respond to changes in the level of threat we face as well as evolutions in security technologies.
+S0034 We shall report back on progress made on an annual basis.
+S0298 We will also work broadly across the range of international partners to influence the wider community, acknowledging the value of broad coalitions; and • to ensure Government interventions are having a substantive impact on overall national cyber security and resilience, we will seek to define, analyse and present data which measures the state of our collective cyber security and our success in meeting our strategic goals.
+S0408 The Government will measure its success in establishing effective ACD by assessing progress towards the following outcomes:
+S0409 • the UK is harder to ‘phish’, because we have large-scale defences against the use of malicious domains, more active anti-phishing protection at scale and it is much harder to use other forms of communication, such as ‘vishing’ and SMS spoofing, to conduct social engineering attacks; • a far larger proportion of malware communications and technical artefacts associated with cyber attacks and exploitation are being blocked; • the UK’s internet and telecommunications traffic is significantly less vulnerable to rerouting by malicious actors; • GCHQ, the Armed Forces’ and NCA capabilities to respond to serious state- sponsored and criminal threats have significantly increased.
+S0435 The Government will measure its success in building a secure Internet by assessing progress towards the following outcomes:
+S0436 • citizens use government online services with confidence: they trust that their sensitive information is safe and, in turn, understand their responsibility to submit their sensitive information online in a secure manner; • the Government will set and adhere to the most appropriate cyber security standards, to ensure that all branches of government understand and meet their obligations to secure their networks, data and services; and • the Government’s critical assets, including those at the highest classification, are protected from cyber attacks.
+S0437 • the majority of commodity products and services available in the UK in 2021 are making the UK more secure because they have their default security settings enabled by default or have security integrated into their design; and • all government services provided at national, local and Devolved Administration level are trusted by the UK public because they have been implemented as securely as possible, and fraud levels are within acceptable risk parameters.
+S0479 The Government will measure its success in protecting government networks, systems and data by assessing progress towards the following outcomes:
+S0480 • we are aware of, and actively mitigating, all known internet-facing vulnerabilities in government systems and services; and • all suppliers to the Government meet appropriate cyber security standards.
+S0484 the Government has an in-depth understanding of the level of cyber security risk across the whole of government and the wider public sector; • individual government departments and other bodies protect themselves in proportion to their level of risk and to an agreed government minimum standard; • government departments and the wider public sector are resilient and can respond effectively to cyber incidents, maintaining functions and recovering quickly; • new technologies and digital services deployed by government will be cyber secure by default;
+S0518 The Government will measure its success in protecting our CNI and other priority sectors by assessing progress towards the following outcomes:
+S0520 • our most important companies and organisations understand the level of threat and implement proportionate cyber security practices.
+S0546 • the UK economy’s level of cyber security is as high as, or higher than, comparative advanced economies; • the number, severity and impact of successful cyber attacks against businesses in the UK has reduced, because cyber hygiene standards have improved; and • there is an improving cyber security culture across the UK because organisations and the public understand their cyber risk levels and understand the cyber hygiene steps they need to take to manage those risks.
+S0548 The Government will measure its success in protecting our CNI and other
+S0590 The Government will measure its success in managing incidents by assessing progress towards the following outcomes:
+S0597 • a higher proportion of incidents are reported to the authorities, leading to a better understanding of the size and scale of the threat; • cyber incidents are managed more effectively, efficiently and comprehensively, as a result of the creation of the NCSC as a centralised incident reporting and response mechanism; and • we will address the root causes of attacks at a national level, reducing the occurrence of repeated exploitation across multiple victims and sectors.
+S0641 The Government will measure its success in reducing cyber crime by assessing progress towards the following outcomes:
+S0647 • we have a greater disruptive effect on cyber criminals attacking the UK, with higher numbers of arrests and convictions, and larger numbers of criminal networks dismantled as a result of law enforcement intervention; • there is improved law enforcement capability, including greater capacity and skills of dedicated specialists and mainstream officers and enhanced law enforcement capability amongst overseas partners; • there is improved effectiveness and increased scale of early intervention measures dissuades and reforms offenders; and • there are fewer low-level cyber offences as a result of cyber criminal services being harder to access and less effective.
+S0666 The Government will measure its success in countering the actions of hostile foreign actors by assessing progress towards the following outcomes:
+S0668 • the stronger information-sharing networks that we have established with our international partners, and wider multilateral agreements in support of lawful and responsible behaviour by states, are substantially contributing to our ability to understand and respond to the threat, resulting in a better defended UK; and • our defence and deterrence measures, alongside our country-specific strategies, are making the UK a harder target for hostile foreign actors to act against.
+S0670 The Government will measure its success in preventing terrorism by assessing progress towards the following outcomes:
+S0671 • a full understanding of risk posed by cyber terrorism, through identification and investigation of cyber terrorism threats to the UK; and • close monitoring, and disruption of terrorist cyber capability at the earliest opportunity, with the aim of preventing an increase in such terrorist capability in the long term.
+S0676 The Government will measure our success in establishing offensive cyber capabilities by assessing progress towards the following outcomes:
+S0677 • the UK is a world leader in offensive cyber capability; and • the UK has established a pipeline of skills and expertise to develop and deploy our sovereign offensive cyber capabilities.
+S0703 The Government will measure its success in maintaining our cryptographic capabilities by assessing progress towards the following outcome:
+S0704 • our sovereign cryptographic capabilities are effective in keeping our secrets and sensitive information safe from unauthorised disclosure.
+S0760 The Government will measure our success in strengthening cyber security skills by assessing progress towards the following outcomes:
+S0787 The Government will measure its success in stimulating growth in the cyber security sector by assessing progress towards the following outcomes:
+S0788 • greater than average global growth in the size of the UK cyber sector year on year; • a significant increase in investment in early stage companies; • adoption of more innovative and effective cyber security technologies in government.
+S0831 The Government will measure its success in promoting cyber security science and technology by assessing progress towards the following outcomes:
+S0833 • significantly increased numbers of UK companies successfully commercialising academic cyber research and fewer agreed and identified gaps in the UK’s cyber security research capability with effective action to close them; and • international strategic and societal trends and their impact on cyber.
+S0842 The Government will measure our success in establishing an effective horizon scanning capability by assessing progress towards the following outcomes:
+S0846 • cross-government horizon scanning and all-source assessment are integrated into cyber policy making; and • the impact of cyber security is factored into all cross-government horizon scanning.
+S0867 The Government will measure its success in advancing our international interests in cyber by assessing progress towards the following outcomes:
+S0869 • enhanced international collaboration reduces cyber threat to the UK and our interest overseas; • a common understanding of responsible state behaviour in cyberspace; • international partners have increased their cyber security capability; and • strengthened international consensus on the benefits of a free, open, peaceful and secure cyberspace.
+S0875 Cyber security remains an area of 1.
+S0876 The UK has the capability effectively relative immaturity when it comes to the to detect investigate and counter the measurement of outcomes and impacts threat from the cyber activities of our – normally referred to as metrics.
+S0877 Already adversaries.
+S0878 the science of cyber security has been obscured by hyperbole and obstructed 2.
+S0879 The impact of cybercrime on the by an absence of calibrated data.
+S0880 This is UK and its interests is significantly a source of frustration for policy-makers reduced and cyber criminals are and businesses alike, who have struggled deterred from targeting the UK.
+S0881 to measure investment against outcomes.
+S0882 The Government assesses that the effective 3.
+S0883 The UK has the capability to manage use of metrics is essential for delivering this and respond effectively to cyber strategy and focussing the resources that incidents to reduce the harm they underpin it.
+S0884 cause to the UK and counter cyber adversaries.
+S0886 We will ensure that this strategy is founded upon a rigorous and 4.
+S0887 Our partnerships with industry on comprehensive set of metrics against active cyber defence mean that large which we measure progress towards the scale phishing and malware attacks outcomes we need to achieve.
+S0888 As well are no longer effective.
+S0889 as being a major deliverable under the Strategy in its own right, the NCSC will 5.
+S0890 The UK is more secure as a result of play a crucial role in enabling other parts of technology products and services Government, industry and society to deliver having cyber security designed into all of these strategic outcomes within this them and activated by default.
+S0891 strategy.
+S0893 Government networks and services 9.3.
+S0894 Annex 3 sets out how the success will be as secure as possible from the measures set out in the strategy will moment of their first implementation.
+S0895 contribute to the strategic outcomes, The public will be able to use which will be reviewed annually to ensure government digital services with they accurately reflect our national goals confidence and trust that their and requirements.
+S0896 The headline, strategic information is safe.
+S0897 outcomes are as follows:
+S0899 All organisations in the UK, large and small, are effectively managing their cyber risk and are supported by high quality advice designed by the NCSC, underpinned by the right mix of regulation and incentives.
+S0901 There is the right ecosystem in the UK to develop and sustain a cyber security sector that can meet our national security demands.
+S0903 The UK government is already planning and preparing for policy implementation in advance of future technologies and threats and is ‘future proofed’.
+S0905 The UK has a sustainable supply of home grown cyber skilled professionals to meet the growing demands of an increasingly digital economy, in both the public and private sectors, and defence.
+S0907 The UK is universally acknowledged as a global leader in cyber security research and development, underpinned by high levels of expertise in UK industry and academia.
+S0909 The threat to the UK and our interests overseas is reduced due to increased international consensus and capability towards responsible state behaviour in a free, open, peaceful and secure cyberspace.
+S0911 UK Government policies, longer term outcomes are allocated beyond organisations and structures are 2021 to industry, regulators, auditors, simplified to maximise the coherence insurers and other parts of the public and and effectiveness of the UK’s private sector, as the effective management response to the cyber threat.
+S0912 of cyber security risks
+S0913 is integrated into standard management activity for all.

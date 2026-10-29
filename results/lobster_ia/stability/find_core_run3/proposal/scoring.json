@@ -1,0 +1,76 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Choice of national ban over alternatives",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The case against voluntary v-notching ('insufficient uptake...unlikely any further voluntary schemes will be successful') and against IFCA byelaws ('IFCA powers only extend to 6nm', cross-boundary enforcement problems) is asserted as fact with only loosely-attached citations (Reference 1, 2) that do not clearly support the specific claims, and the supporting 14% berried-landings statistic sits uncited in another theme."
+    },
+    {
+      "theme": "Policy objective of stock recovery and MSY compliance",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The claim that a ban increases stock biomass draws on the cited, methodologically-described Cefas population model (Reference 8 and others in the cost-benefit theme), but the document never demonstrates that the modelled recovery actually reaches MSY, so the link to the MSY part of the claim is incomplete."
+    },
+    {
+      "theme": "Cost-benefit case for the ban",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The \u00a32.36m/\u00a314,100 cost estimates and the 3-43%/15-80% modelled benefit ranges are built from clearly described Cefas/MMO data and modelling (References 1, 2, 3, 8, 9, 10), with assumptions, sensitivities and uncertainty explicitly discussed (e.g. 'these benefits are uncertain', 'difficult to estimate accurately due to uncertainty')."
+    },
+    {
+      "theme": "Rejection of seasonal/partial ban design",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The decisive biological fact ('lobsters and crawfish can carry their eggs for up to 10 months in variable periods') is offered as grounds for rejecting a seasonal ban but carries no reference, so it cannot exceed level 1."
+    },
+    {
+      "theme": "Evidence base and methodological assumptions",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Assumptions behind the cost modelling (e.g. vessel size/location behaviour, Reference 5, 2, 3, 4) are explained in detail and limitations acknowledged ('insufficient evidence to know how these reactions would affect costs'), giving a reasonably linked and cited account."
+    },
+    {
+      "theme": "Cost calculations and impact on fishers",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Detailed, cited calculations (References 1, 16, 17, 4, 2, 3, 6, 7) underpin the \u00a32.36m and \u00a314,100 figures, with some acknowledged overestimation caveats, but little independent assessment of the underlying data's reliability."
+    },
+    {
+      "theme": "Benefits from stock recovery and fishery viability",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "These lines restate the modelled 80%/15% biomass-increase results without any reference marker in this extract, so the evidence is mentioned and explained but not cited here."
+    },
+    {
+      "theme": "Implementation and compliance considerations",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The v-notching legislation is cited (Reference 1, 13) and the 14% berried-landings statistic from Cefas sampling is used to argue uptake is insufficient, giving a cited though not fully source-linked argument."
+    },
+    {
+      "theme": "Government costs and regulatory framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 'One In, Three Out' classification is stated with no supporting evidence of any kind."
+    },
+    {
+      "theme": "Affected businesses and employment context",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Fleet and employment figures are properly cited (References 1, 21, 22, 23) and used to scope the affected population, though the document itself flags these as likely overestimates without further assessment."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Net benefit tables and scattered findings (e.g. existing IFCA bans, Reference 1) are presented without consistent citation linking each figure to its source."
+    }
+  ],
+  "reasoning": "The four core themes score unevenly. 'Choice of national ban over alternatives' (level 1) asserts 'insufficient uptake' of v-notching and the 6nm limitation of IFCA byelaws without clear citation linking these claims to data, relying on a 14% berried-landings figure that itself appears uncited elsewhere in the document. 'Policy objective of stock recovery and MSY compliance' (level 2) borrows the Cefas dynamic population model results cited in the cost-benefit theme (References 1, 2, 3, 8, 9, 10) to support the biomass-increase claim, but never shows that this recovery actually reaches MSY. 'Cost-benefit case for the ban' (level 3) is the strongest: costs (\u00a32.36m, \u00a314,100) and benefits (3-43% higher landings, 15-80% biomass gains) are modelled with named sources, explicit assumptions, and acknowledged uncertainty ('these benefits are uncertain', 'difficult to estimate accurately'). 'Rejection of seasonal/partial ban design' (level 1) rests on an uncited biological claim about egg-carrying duration. The mean of 1, 2, 3, 1 is 1.75, rounding to 2. The strongest counter-example is that the central 'why a ban rather than alternatives' argument (theme 1) is weakly evidenced, which could justify a lower score. To reach level 3 overall, the document would need to tie the specific enforcement and uptake claims in theme 1 to cited data, and show the modelled stock recovery against an explicit MSY benchmark.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

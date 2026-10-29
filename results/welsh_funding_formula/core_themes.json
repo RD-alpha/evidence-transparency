@@ -1,0 +1,49 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Barnett convergence threatens fair funding",
+        "claim": "Under the Barnett Formula Welsh funding per head converges towards English levels when spending grows, and will eventually fall below the Holtham range of relative need (114-117%) despite recent divergence caused by slower Welsh population growth."
+      },
+      {
+        "name": "Tax devolution requires new funding arrangements",
+        "claim": "Devolving tax powers on the Silk Commission's recommendation increases Welsh accountability and gives the Welsh Government two funding streams, so the block grant arrangements must change alongside tax devolution."
+      }
+    ],
+    "note": "Diagnosis sentences also include descriptive background on existing borrowing and budget tools that serve as the baseline for the proposals."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Needs-based Barnett funding floor",
+        "claim": "A Holtham-style needs-based factor of 115% (transitionally 105% while relative funding remains above 115%) applied to Barnett changes gives a mechanical, fair funding floor that is preferable to the simple SR15 floor."
+      },
+      {
+        "name": "Comparable model for tax block grant adjustments",
+        "claim": "Block grant adjustments for devolved taxes should use the Comparable model applied to each tax and income tax band, after an initial baseline deduction, because it satisfies the agreed principles of simplicity, fair funding with appropriate risk, and consistent population treatment."
+      },
+      {
+        "name": "Treatment of policy spill-over effects",
+        "claim": "Direct spill-over effects will be accounted for, behavioural effects only in exceptional material and demonstrable cases by agreement, and second round effects not at all because of uncertainty over their cause and scale."
+      },
+      {
+        "name": "Extended borrowing and budget management tools",
+        "claim": "Raising capital borrowing limits to £1bn overall and £150m annually and merging the cash reserve and Budget Exchange into a Wales Reserve gives the Welsh Government tools to manage its budget and tax volatility."
+      }
+    ],
+    "note": "The proposal is a package of separate funding measures, with agreed block grant principles serving as the stated justification for the design."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Joint governance, data sharing and dispute resolution",
+        "claim": "The agreement will be implemented through the Joint Exchequer Committee (Wales), shared data and forecasting arrangements, and a staged dispute process in which unresolved disputes lead to no fiscal transfer."
+      },
+      {
+        "name": "Operating the tax adjustments and transition",
+        "claim": "Baselines, forecasts and reconciliation for each tax, and a published relative funding methodology that determines when the 105% factor moves to 115%, make the funding mechanics operate transparently and without ongoing negotiation."
+      }
+    ],
+    "note": "Implementation is largely procedural and operational detail with little argument for why these methods were chosen; the commitment to periodic review and reporting is labelled Testing rather than Implementation."
+  }
+}

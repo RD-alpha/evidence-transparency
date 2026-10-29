@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Early years national funding formula",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The Cost of Childcare Review is cited (Reference 9) for the area cost adjustment and cost findings, and the Isos report (References 10, 11, 27) for SEND proxies, but the weights (89.5%, 8%, 1.5%, 1%) and the 10% floor are not derived from evidence, the 112/38 gains and losses are unexplained modelling (Reference 23 gives no method), and the document does not assess its evidence."
+    },
+    {
+      "theme": "Maximising funding to providers",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The 95% pass-through rests on the uncited 'average central spend ... currently 6%' line and unexplained modelling (132/131 authorities gaining, 16% and 14% increases) with no method given, and Reference 14 only defines buy-back models."
+    },
+    {
+      "theme": "Levelling the playing field and limiting supplements",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only evidence is the uncited Cost of Childcare Review finding that costs are broadly comparable across provider types (counted from the first theme, with its Reference 9 given elsewhere), while the 10% supplement cap and the choice of permitted supplements are argued rather than evidenced and the 'Evidence confirms' deprivation line has no source."
+    },
+    {
+      "theme": "Funding for children with SEND",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Ofsted maintained-nursery statistics (Reference 16) and the City of York case study offer some evidence, but the case study is uncited, the \u00a312.5m Disability Access Fund amount has no derivation, and the Isos finding is paraphrased without citation in this theme."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Statistics (38% rise to \u00a33.9bn, rates \u00a34.56 to \u00a34.88, NAO quote) and indicative-rate assumptions are offered, mostly uncited and with no method, and Reference 18 only points to a consultation."
+    }
+  ],
+  "reasoning": "All four core themes reach level 1, so the mean is 1.0 and the section scores 1. The national formula theme comes closest to level 2. It cites the Cost of Childcare Review (Reference 9) and the Isos report (References 10, 11, 27), and it states that 'costs of providing childcare are broadly comparable for a private nursery, a charitable pre-school or a school nursery class'. It also gives Ofsted and EYFSP attainment gaps ('67% and 56%'). However, the chosen parameters (89.5% base rate, 8%/1.5%/1% weights, 10% floor) are asserted, not derived from the evidence. The headline modelling ('112 local authorities (75%) gain') carries Reference 23, which says nothing on method or assumptions. Maximising funding to providers rests on 'Average central spend ... is currently 6%', which is uncited, and on unexplained indicative modelling. The levelling theme argues from reasoning, and the 10% supplement cap has no support. The SEND theme has cited Ofsted data (Reference 16), but the \u00a312.5m fund is unexplained. Strongest counter-example to level 1: the Review is cited and linked to the base-rate design, which resembles level 2. But the step from the evidence to the specific parameters is left to the reader. The document never assesses the weaknesses of its evidence; it admits only that proxies are used for FSM and EAL. To reach level 2 it would need to cite each statistic, explain how the weights and floor were derived, and set out the modelling method. For level 3 it would need to assess the evidence and acknowledge its uncertainties.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

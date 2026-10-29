@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Widening the control definitions to cover significant influence and joint control",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Deterrence of avoidance through promoter behaviour",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Limited impacts and costs",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

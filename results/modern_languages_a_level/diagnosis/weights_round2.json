@@ -1,0 +1,9 @@
+{
+  "themes": [
+    {
+      "theme": "Other",
+      "reason": "The theme contains no actual sentences or substantive content, so no argument for the diagnosis aspect can be identified or rests on it.",
+      "weight": "not core"
+    }
+  ]
+}

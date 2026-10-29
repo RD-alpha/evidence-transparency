@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Policy Rationale and Expected Conservation Benefits",
+      "reason": "This theme explains why the chosen intervention (a national landing ban) is expected to work, linking it directly to the problem of overfishing via stock biomass recovery, MSY obligations, and modelled landings benefits. Without this, there would be no justification for why this specific intervention addresses the stated problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Policy Options and Regulatory Context",
+      "reason": "This theme lays out the alternative options considered (voluntary v-notching, IFCA byelaws, do-nothing, EU regulation, seasonal ban) and explains why they were rejected in favour of the national ban, directly addressing the should-explain point of why this intervention was chosen over others.",
+      "weight": "core"
+    },
+    {
+      "theme": "Costs to Business, Government and Industry",
+      "reason": "This theme quantifies the costs and burdens of the proposal, which is part of the should-explain point on costs and benefits, but it elaborates on figures rather than forming the central rationale for choosing the intervention; the case for the proposal does not depend on these specific cost figures standing.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Analytical Assumptions and Methodology",
+      "reason": "This theme details the technical assumptions underpinning the cost and benefit estimates (vessel size behaviour, appraisal period, data limitations), supporting the should-explain point on assumptions behind calculations, but it is supporting detail rather than a pillar of the argument for choosing this intervention.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Regulator-led delivery and phased transition",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Detail set by regulations with parliamentary scrutiny",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Territorial extent and devolved scope",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

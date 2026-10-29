@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Notice and certainty for individuals",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Communications strategy",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Wider package of support for working and saving",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Legislative and independent review process",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

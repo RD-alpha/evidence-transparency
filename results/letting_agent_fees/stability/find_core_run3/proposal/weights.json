@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Ban chosen over continued transparency regulation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope and design of the ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scottish precedent as supporting evidence",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Expected market effects of the ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Benefits for tenants and housing access",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Letting agent business model adjustment",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Rent pass-through and tenant affordability",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Policy objectives and regulatory framework",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

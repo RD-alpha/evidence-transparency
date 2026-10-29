@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Fee variation and opacity",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "DCLG's own market research is clearly described (50 agents, method of searching websites, results tabulated) and cross-checked against NALS, ARLA, Generation Rent and Shelter surveys (refs 4,5,6,10), with the document explicitly flagging the contrast between figures (\u00a3172 vs \u00a3223 vs \u00a3400) as contradictory evidence."
+    },
+    {
+      "theme": "Tenant lack of market power",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only evidence cited, the OFT 2013 market study on tenants focusing on headline rent, is named in prose but carries no reference number or link, so it stays at level 1."
+    },
+    {
+      "theme": "Weak competitive pressure on tenant fees",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim that fees 'have risen significantly in recent years' and 'vary' is explicitly linked to the English Housing Survey's cited 60% median rise (ref 7) and the earlier fee-variation statistics, though the causal mechanism of weak competition itself is argued rather than directly evidenced."
+    },
+    {
+      "theme": "Existing regulation has not solved the problem",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Compliance failure is quantified and cited ('12% did not publically display their fees', ref 10) and the 2016 Client Money Protection call for evidence is described (stakeholders asked whether transparency rules worked), giving a clear though unquantified method for the consultation findings reported."
+    }
+  ],
+  "reasoning": "The diagnosis rests on four core themes. 'Fee variation and opacity' reaches level 3: DCLG's own 50-agent survey is methodologically described, cross-referenced against NALS/ARLA/Generation Rent/Shelter data (refs 4-6,10), and the document explicitly notes the contradiction between its sources ('By contrast, the National Approved Letting Scheme found... \u00a3172... Generation Rent found... \u00a3400'). 'Tenant lack of market power' stays at level 1, since its only evidence - the OFT 2013 study - is named but uncited (no reference or link). 'Weak competitive pressure on tenant fees' reaches level 2, as its claim of rising, varied fees is linked to the cited English Housing Survey figure (ref 7, 60% median rise) even though the causal 'little incentive' mechanism itself is asserted rather than evidenced. 'Existing regulation has not solved the problem' reaches level 2: the 12% non-compliance figure (ref 10) and the described 2016 Client Money Protection call for evidence give traceable, if not fully quantified, primary evidence. The mean of (3+1+2+2)/4 = 2.0, giving a section score of 2. The strongest counter-example is the market-power theme, which rests almost entirely on uncited assertion. To reach level 3 overall, the document would need to cite the OFT study properly and show assessment of the reliability or representativeness of the consultation responses and NLA survey underlying the other themes.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.0,
+  "score_consistent": true,
+  "missing_core": []
+}

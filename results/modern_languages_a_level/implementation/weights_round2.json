@@ -1,0 +1,194 @@
+{
+  "themes": [
+    {
+      "theme": "Learning Objectives and Capabilities",
+      "reason": "Lists substantive learning outcomes that are part of what the standardized specification must contain, but does not address how the standardization is to be rolled out or why this method was chosen.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Content Areas and Themes of Study",
+      "reason": "Specifies required topic areas as part of the content itself; it is detail of what must be taught, not an argument about the implementation mechanism.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Language Development and Communication Skills",
+      "reason": "Describes skill requirements that are substantive content, not the rollout method or rationale for choosing it.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Translation Skills",
+      "reason": "A specific content requirement (translation tasks) rather than part of the implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Literary and Film Study Requirements",
+      "reason": "Details a required component of the curriculum; it is substantive content, not an implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Research and Independent Study",
+      "reason": "Another substantive skill requirement; does not bear on how the standardization will be delivered or why.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Authentic Materials and Sources",
+      "reason": "A content requirement about source types, not part of the case for the implementation approach.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Special Provisions for Chinese Language",
+      "reason": "Explicitly carves out an alternative approach for one language, directly addressing whether other methods exist and why an exception is made—this is core to explaining implementation flexibility.",
+      "weight": "core"
+    },
+    {
+      "theme": "Grammar and Language Structure - General",
+      "reason": "Sets out the mechanism by which grammar requirements are delivered across languages, including the requirement that awarding organisations create comparable appendices for languages beyond French/German/Spanish—this is core to explaining how the standardized approach is extended and implemented.",
+      "weight": "core"
+    },
+    {
+      "theme": "French Grammar - Nouns and Articles",
+      "reason": "Detailed content list for French; substantive specification detail, not implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French Grammar - Adjectives",
+      "reason": "Content detail for French grammar, not part of the implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French Grammar - Numerals and Adverbs",
+      "reason": "Specific content list, not bearing on implementation method.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French Grammar - Pronouns",
+      "reason": "Content detail, not implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French Grammar - Verbs",
+      "reason": "Detailed content specification, not part of the rollout rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French Grammar - Prepositions and Conjunctions",
+      "reason": "Content list detail, not implementation reasoning.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French Grammar - Negation, Questions, Commands",
+      "reason": "Content detail for French, not implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French Grammar - Advanced Constructions",
+      "reason": "Further content detail, not part of implementation case.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French A-level Additional Grammar",
+      "reason": "Extension of content detail for A-level French; substantive specification not implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "German Grammar - Nouns and Determiners",
+      "reason": "Content list for German, not implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "German Grammar - Pronouns and Adjectives",
+      "reason": "Content detail, not implementation reasoning.",
+      "weight": "not core"
+    },
+    {
+      "theme": "German Grammar - Adverbs and Modal Particles",
+      "reason": "Specific content list, not part of implementation case.",
+      "weight": "not core"
+    },
+    {
+      "theme": "German Grammar - Verbs and Tenses",
+      "reason": "Content detail for German verbs, not implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "German Grammar - Prepositions and Case System",
+      "reason": "Content list detail, not implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "German Grammar - Clause Structure and Word Formation",
+      "reason": "Content detail, not part of implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "German A-level Additional Grammar",
+      "reason": "Extension of content detail for A-level German, substantive specification not implementation reasoning.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Nouns and Articles",
+      "reason": "Content list for Spanish, not implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Adjectives and Numerals",
+      "reason": "Content detail, not part of implementation case.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Adverbs and Quantifiers",
+      "reason": "Specific content list, not implementation reasoning.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Pronouns",
+      "reason": "Content detail for Spanish, not implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Verbs and Tenses",
+      "reason": "Detailed content specification, not part of rollout rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Verbal Paraphrases and Subjunctive",
+      "reason": "Content list detail, not implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Voice and Verb Constructions",
+      "reason": "Content detail, not implementation reasoning.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Prepositions and Conjunctions",
+      "reason": "Specific content list, not part of implementation case.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Negation, Questions, Commands",
+      "reason": "Content detail, not implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Word Order and Advanced Constructions",
+      "reason": "Content list detail, not implementation reasoning.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Discourse Markers and Fillers",
+      "reason": "Content detail, not part of implementation case.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish A-level Additional Grammar",
+      "reason": "Extension of content detail for A-level Spanish, substantive specification not implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Specification Framework",
+      "reason": "Establishes the core implementation mechanism—how the standardized subject content is delivered via AS/A level specifications that must build on GCSE and require specified content—making it central to explaining the chosen rollout method.",
+      "weight": "core"
+    }
+  ]
+}

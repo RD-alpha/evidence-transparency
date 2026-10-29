@@ -1,0 +1,106 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Environmental objective under the Balanced Approach",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The objective is justified mainly by citing the ICAO Balanced Approach and Directive 2002/30/EC's 'no more restrictive than needed' rule, but neither is given a reference marker where the claim is made, so the legal constraint is explained but not findable."
+    },
+    {
+      "theme": "Closing the exempt-aircraft loophole via a new QC/0.125 category",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The 1992 Ollerhead sleep study (Ref 63) and SONA analysis (Ref 65) set the noise thresholds, growth of QC/0 aircraft and easyJet's A320neo orders (Ref 93) evidence the problem, and the document itself flags that its fleet-mix modelling 'significantly under-estimate[s] the take up of next generation QC/0 aircraft'."
+    },
+    {
+      "theme": "Movement limits held stable, with a compensating Stansted uplift",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The 600/1,100 uplift is calculated from actual exempt movement counts with Reference 74 explaining the data used and its summer-season limitation, and the document explicitly acknowledges that 'the limitations of our forecasts' prevented quantitative analysis of Option 3 at Stansted."
+    },
+    {
+      "theme": "Noise quota reductions to incentivise quieter aircraft",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "New quota figures are derived from average usage per movement with methodology given in References 46, 75 and 76, and the IA repeatedly flags uncertainty, e.g. the Heathrow summer figure being 'estimated using incomplete data'."
+    },
+    {
+      "theme": "Regime duration and periodic review",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that 'previous night flight regimes have traditionally been set for a period of around five years' is offered as grounds for the five-year choice but carries no citation."
+    },
+    {
+      "theme": "Balanced Approach implementation across all policy levers",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "CAA research and the NPPF are named (Refs 37, 39) and the Heathrow steeper-approach trial is properly linked (Ref 41), though the CAA research on residential development success is mentioned only in prose without a reference marker."
+    },
+    {
+      "theme": "Evidence base and consultation",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 2013 Night Flights Evidence review is cited and linked (Ref 77) with a description of what it analysed, and stakeholder focus groups are described as feeding the impact assessment."
+    },
+    {
+      "theme": "Policy options analysis and impacts",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Quantified flight and noise-contour impacts for each option are given using DfT modelling and the CAA's ANCON model, with explicit uncertainty statements such as results for Stansted Options 3/4a being withheld because they were 'not consistent with what we expect the direction of the impacts... to be'."
+    },
+    {
+      "theme": "Preferred option rationale",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The choice of 4a/4b as 'joint preferred' options is asserted and cross-referenced to earlier sections but adds no new cited evidence of its own."
+    },
+    {
+      "theme": "Legal and regulatory context",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Section 78 of the 1982 Civil Aviation Act and Regulation (EU) 598/2014 are named as constraints, and the Airports Commission's recommendation is properly cited (Ref 61) to justify not restricting Heathrow further."
+    },
+    {
+      "theme": "Current regime structure and baseline",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "QC classification data cites CAA statistics (Ref 86) but most of the theme simply describes the existing rules rather than evidencing the new choices."
+    },
+    {
+      "theme": "Economic and social impacts of night flights",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Freight, charter and employment impacts cite DfT/CAA analysis (Refs 86-89) and external studies (Refs 90-92), and the document itself notes the limitation that express-delivery GDP statistics 'consider the express delivery service sector as a whole, not just aviation'."
+    },
+    {
+      "theme": "Methodological approach and limitations",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "This theme is the document's own extended assessment of its fleet-mix and ANCON modelling, explicitly stating results are 'subject to considerable uncertainty' and detailing specific under- and over-estimation risks."
+    },
+    {
+      "theme": "Wider impacts assessment and small business considerations",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Competition and small-business effects are discussed qualitatively, referring back to earlier flight-number estimates without new citations."
+    },
+    {
+      "theme": "Example noise contours and aircraft analysis",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Contours are built on CAA/DfT modelling with Aviation Policy Framework and Airports Commission sources linked (Refs 12, 15), and the QC/0.125 band is tied to Reference 9."
+    },
+    {
+      "theme": "Consultation questions and evidence gathering",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme only lists open questions seeking future evidence and provides no evidence itself."
+    }
+  ],
+  "reasoning": "The four core themes score unevenly. The environmental objective (Theme 1) only reaches level 1: it leans on ICAO's Balanced Approach and Directive 2002/30/EC's 'no more restrictive than needed' rule, but these are never attached to a reference marker at the point the claim is made, so a reader cannot trace the source. The other three core themes reach level 3. The QC/0.125 proposal (Theme 2) is grounded in the 1992 Ollerhead sleep study (Ref 63) and SONA analysis (Ref 65), and the document itself admits its fleet-mix model 'significantly under-estimate[s] the take up of next generation QC/0 aircraft'. The Stansted uplift (Theme 3) uses cited actual exempt-movement counts (Ref 74) while flagging that forecasting limitations stopped it quantifying Option 3's impact. The noise-quota reductions (Theme 4) use cited current-usage calculations (Refs 46, 75, 76) alongside repeated uncertainty caveats. The mean of (1+3+3+3)/4 = 2.5, which rounds down to 2. The strongest counter-example is Theme 1 itself, which despite being central to the whole regime's legal justification, never properly cites the Directive it relies on. To reach level 3 overall, the document would need to link the Directive/ICAO framework to a findable citation at the point the objective is stated, and show the same kind of uncertainty assessment given elsewhere for that specific legal reasoning.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.5,
+  "score_consistent": true,
+  "missing_core": []
+}

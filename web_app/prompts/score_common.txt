@@ -1,0 +1,66 @@
+INPUT FORMAT
+The <document> is not the policy document itself. It is an extract: every
+sentence of the document was first classified into one aspect of the policy
+argument, or discarded as belonging to none, and the sentences for this aspect
+were then grouped into themes. Sentences belonging to another aspect are scored
+separately and are not shown here, so do not penalise the document for them.
+A minority of sentences are discarded as belonging to no aspect, so absence from
+this extract is not proof of absence from the document.
+
+Each <theme> block carries a sentences attribute giving how many lines it has,
+and a weight attribute (core or not core, explained under HOW TO AGGREGATE). A
+core theme also holds a <claim>: the claim the document makes in it. Each theme
+holds its sentences in <text>, the footnote text of the references those
+sentences cite in <references>, and the URLs they link to in <links>. Each
+<line> is one sentence; a marker such as "(Reference: 12)" or "(Link: 37)" means
+that sentence carries citation 12 or 37. An empty <references> and <links>
+block means those sentences carry no citation at all. A trailing <ungrouped>
+block, when present, holds sentences that belong to this aspect but that the
+theme grouping did not place in any theme. Weigh them as evidence exactly as
+you would any other sentence, but do not give <ungrouped> a score of its own:
+it is a leftover bucket, not a theme.
+
+Score only what is shown. Do not assume supporting evidence exists somewhere you
+cannot see, and do not assume it is absent: treat an uncited claim as uncited,
+as the levels above describe, and note in your reasoning where a claim reads as
+though it should have carried support. Do not raise or lower the level to hedge
+against what the extraction may have missed.
+
+HOW TO AGGREGATE
+The problem the intervention is meant to solve is: $problem
+
+Each theme carries a weight decided beforehand from the whole document, without
+sight of its evidence: core if the argument for this aspect rests on it, not
+core otherwise. Treat the weights as fixed: you may note disagreement with one
+in your reasoning, but aggregate using the weights given.
+
+Score the section as follows.
+1. For each core theme, decide the level its claim reaches. Judge the evidence
+   for that claim wherever it appears in the extract: in the theme itself, in
+   another theme, or in <ungrouped>. The grouping into themes is not exact, so
+   evidence for a core claim, or the document's assessment of that evidence,
+   may sit in a theme of its own. Count only evidence that supports that core
+   claim, not evidence that is merely on the same subject. A piece of evidence
+   may count for more than one core theme if it supports each claim.
+2. For each theme that is not core, decide the level it reaches on its own.
+   These levels are recorded but do not set the section score.
+3. The section score is the mean of the core themes' levels, rounded to the
+   nearest whole level. A mean exactly halfway between two levels rounds down:
+   1.5 scores 1, 2.5 scores 2. If no theme is core, take the mean over all
+   themes instead.
+
+OUTPUT
+Return structured JSON with three fields, in this order.
+1. theme_scores: one entry per <theme>, core or not, and none for <ungrouped>,
+   giving the theme's name, whether it relies on the department's own primary
+   evidence (primary_evidence, true or false), its level 0-3, and a
+   one-sentence justification naming the lines or reference numbers behind it.
+   For a core theme, name any lines you counted from outside the theme.
+2. reasoning: roughly 150-250 words for the section as a whole, written for a
+   reader of the final report rather than for another analyst. Quote the
+   specific lines and reference numbers you relied on, name the core themes
+   and their levels, and state their mean and the score it gives. Give the
+   strongest counter-example to the level you chose, and end with what the
+   document would have to add to reach the next level up.
+3. score: the section score 0-3, from the mean of the core themes' levels as
+   set out above.

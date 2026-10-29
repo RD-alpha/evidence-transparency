@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "Reform rationale for HE/employment readiness",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Linear, decoupled assessment structure",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Universal Credit roll-out",
+        "claim": "Universal Credit will meet core housing costs only up to LHA rates and suits short-term accommodation poorly (monthly payments), so doing nothing is not an option and a new mechanism is needed to fund supported housing's additional costs."
+      },
+      {
+        "name": "Higher costs and complex funding of supported housing",
+        "claim": "Supported housing costs more than mainstream housing (maintenance, communal areas, security, turnover), is funded through a complex mix of Housing Benefit (about £4.12bn) and separate support funding (about £2.05bn), and serves a very diverse sector of up to 716,000 people."
+      },
+      {
+        "name": "Weak local oversight, quality and value for money",
+        "claim": "The current system gives patchy commissioning, inconsistent rent and eligibility decisions, and little oversight of quality or value for money, with some providers operating outside local commissioning and some councils lacking control over provision."
+      },
+      {
+        "name": "Funding uncertainty and risk to supply",
+        "claim": "Uncertainty over LHA caps and falling local support funding threatens scheme closures and stalls investment in new supply, while demand is growing from ageing and other trends."
+      }
+    ],
+    "note": "Evidence is drawn largely from the Supported Accommodation Evidence Review, with its data limitations and indicative provider survey acknowledged in places."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Housing Benefit/UC up to LHA plus protection of funding level",
+        "claim": "Core rent and service charges will be funded through UC or Housing Benefit up to LHA rates from 2019/20, with LHA application deferred and overall funding maintained at the level it would otherwise have been, to protect supported housing."
+      },
+      {
+        "name": "Devolved ring-fenced local top-up fund",
+        "claim": "Funding for higher costs will be devolved to English local authorities as a ring-fenced top-up, because local authorities know local needs best, can join up housing, health and social care commissioning, and drive quality, transparency and value for money."
+      },
+      {
+        "name": "Different approach for short-term accommodation",
+        "claim": "Hostels, refuges and other short-term accommodation may need a different funding mechanism from the top-up, but will receive the same protection as supported housing generally."
+      },
+      {
+        "name": "Devolved administrations and wider benefits",
+        "claim": "Scotland and Wales will receive equivalent funding for the additional costs of supported housing, and the policy is justified by the estimated fiscal and wider benefits of supported housing."
+      }
+    ],
+    "note": "The proposal is a package of linked measures, with design details (fair access, roles, assurance) left open as consultation questions."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Consultation and co-design with the sector",
+        "claim": "The detailed model will be developed through a 12-week consultation and four task and finish groups with the sector, because the framework is set but the design elements need to work for tenants, commissioners, providers and developers."
+      },
+      {
+        "name": "Timetable and transition",
+        "claim": "A Green Paper in spring 2017, a final package in autumn 2017, shadow arrangements from April 2018 and commencement in April 2019 give time for legislation and a smooth transition."
+      },
+      {
+        "name": "Open design questions on local delivery",
+        "claim": "How the top-up is held, accessed, overseen and standardised nationally, and how funding is allocated and resourced, is left to consultation, balancing local flexibility against provider and developer certainty."
+      }
+    ],
+    "note": "Much of implementation is an explicit process for deciding the method rather than a settled delivery mechanism; no costs or benefits are given."
+  }
+}

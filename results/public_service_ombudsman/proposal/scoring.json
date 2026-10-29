@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Single Public Service Ombudsman",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Consultation counts (84 supported and 14 opposed of 135; 83% of Housing Ombudsman members private), the Law Commission 2011 report cited inline with a URL and Gordon's weighing of options for including the HO (in and out considerations) link evidence to the PHSO/LGO-first choice, but reference 52 is undefined and cost/economy claims are asserted without figures."
+    },
+    {
+      "theme": "Simpler access and no wrong door",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "SPSO premature-complaints fall from 51% to 34% (ref 23, with the document hedging that signposting 'may have contributed'), consultation counts (105 agreed on widest routes), PASC/LGO sources (refs 40-45), and the document acknowledges mixed MP-filter experiences, scale challenges and concerns about managing no-wrong-door."
+    },
+    {
+      "theme": "Governance and accountability to Parliament",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The NAO/Public Accounts Commission model, the PASC recommendations and the competing PHSO/LGO board-only model are set out and weighed, but several supporting references are undefined (53, 55, 56) and the rest is mostly reasoning from consensus rather than cited evidence."
+    },
+    {
+      "theme": "Enhanced powers and role in complaints handling",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Own-initiative usage figures (3% European, 1% Swedish; ref 46), consultation counts (86 in favour, six opposed) and recorded objections link to the powers chosen, but the rejection of own-initiative powers and binding findings rests on asserted 'risk' with no evidence."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Consultation response counts (158 responses; 91 of 119 supported the principles; 65 of 102 favoured senior ombudsmen) are given with the questions, but they are only loosely tied to specific policy choices and carry no citations."
+    }
+  ],
+  "reasoning": "The core themes are the single Ombudsman (level 2), simpler access (3), governance (2) and enhanced powers (2), a mean of 2.25, which rounds to 2. The strongest evidence is on access: 'Four years ago the rate of premature complaints to that ombudsman was 51%. In 2013/14 it had fallen to 34%' (ref 23). The document hedges this, saying signposting 'may have contributed'. It also reports mixed experiences of the MP filter and concerns that no-wrong-door would be hard to manage. The single-Ombudsman theme uses consultation figures with the question stated (84 supported, 14 opposed) and reports the housing sector's objections ('83% of the Housing Ombudsman's members are private organisations'), which shaped excluding the HO. However, the efficiency claim, 'economies of scale', has no figures, and reference 52 is undefined. Governance relies on the NAO model and PASC recommendations, but references 53, 55 and 56 have no definitions. The strongest counter-example to level 2 is the access theme, which arguably reaches level 3 through its own caveats. The Government's rejection of own-initiative powers ('risk... could detract') is argued without evidence, and the cost and benefit analysis is admitted to be missing. To reach level 3 across the section, the document would need to cite and assess the evidence for the governance and powers choices, publish costings, and acknowledge uncertainties in the merger case.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.25,
+  "score_consistent": true,
+  "missing_core": []
+}

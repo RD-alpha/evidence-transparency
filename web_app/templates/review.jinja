@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Review — {{ document_title }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='annotate.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='review.css') }}">
+</head>
+<body>
+
+<div class="annotate-header">
+    <h1>{{ document_title }} — Claude vs. yours</h1>
+    <div class="annotate-progress">
+        <span id="progress-label">0 / 0 resolved</span>
+        <div class="progress-track"><div class="progress-fill" id="progress-fill"></div></div>
+    </div>
+</div>
+
+<div class="review-shell" id="review-shell">
+    {% if diffs %}
+    <p class="review-intro">
+        {{ diffs | length }} sentence{{ '' if diffs | length == 1 else 's' }} where Claude's extraction
+        disagrees with your annotation. Accept to overwrite your decision with Claude's category,
+        or reject to keep your own.
+    </p>
+    {% for diff in diffs %}
+    <div class="diff-row{{ ' is-resolved' if diff.resolved else '' }}"
+         id="diff-{{ diff.code }}"
+         data-code="{{ diff.code }}"
+         data-claude-decision="{{ diff.claude_decision }}">
+        <p class="diff-text"><span class="sentence-code">{{ diff.code }}</span>{{ diff.text }}</p>
+        <div class="diff-tags">
+            <span class="tag tag-yours decision-{{ diff.human_decision }}">Yours: {{ diff.human_decision }}</span>
+            <span class="tag tag-claude decision-{{ diff.claude_decision }}">Claude: {{ diff.claude_decision }}</span>
+            {% if diff.rules_only_decision is not none %}
+            <span class="tag tag-rules decision-{{ diff.rules_only_decision }}{{ ' tag-agrees-yours' if diff.rules_only_decision == diff.human_decision else '' }}{{ ' tag-agrees-claude' if diff.rules_only_decision == diff.claude_decision else '' }}">Rules-only: {{ diff.rules_only_decision }}</span>
+            {% endif %}
+        </div>
+        <div class="diff-actions">
+            <button type="button" class="diff-btn diff-accept" data-action="accept">Accept Claude's</button>
+            <button type="button" class="diff-btn diff-reject" data-action="reject">Keep mine</button>
+        </div>
+    </div>
+    {% endfor %}
+    {% else %}
+    <p class="review-empty">No disagreements between your annotations and Claude's extraction.</p>
+    {% endif %}
+</div>
+
+<script id="initial-resolved-count" type="application/json">{{ n_resolved | tojson }}</script>
+<script src="{{ url_for('static', filename='review.js') }}"></script>
+</body>
+</html>

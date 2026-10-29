@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Modern languages as interdisciplinary academic subject",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that modern language study offers 'the same cognitive and academic advantages as other disciplines within the humanities' is asserted with no citation, data or research finding behind it."
+    },
+    {
+      "theme": "Transferable skills benefit",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The list of transferable skills (communication, critical thinking, autonomy, resourcefulness, creativity, cognitive flexibility) is presented as assertion with no reference, dataset or study cited to support it."
+    },
+    {
+      "theme": "Universal relevance of content",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claims that content is relevant to students of all disciplines and provides a 'robust foundation' for degree study are unsupported assertions with no references or links attached."
+    }
+  ],
+  "reasoning": "All three themes are marked core, so the section score is the mean of their levels. Each theme makes a plausible-sounding claim about the benefits of modern language study (interdisciplinary value, transferable skills, universal relevance and degree-level foundation), but none is backed by any evidence as defined by the framework: no statistics, research findings, named reports, consultation data or comparable policy experience are offered. The <references> and <links> blocks for all three themes are empty, confirming no citations exist. Phrases like 'is understood to be' and 'provides depth of knowledge, understanding and intercultural competence' read as reasoning or description rather than evidence-backed claims. The strongest counter-example one might raise is that the claims are framed in general educational-policy language that sounds like it draws on established pedagogical consensus, but the document never names or points to that consensus, so it cannot be credited even at level 1. Each theme therefore scores 0, giving a mean of 0 and a section score of 0. To reach level 1, the document would need to mention at least one piece of evidence (e.g. 'research has found that bilingual students show...' or reference to a consultation response) explaining how it supports these claims, even without a formal citation.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

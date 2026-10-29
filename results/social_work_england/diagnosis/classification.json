@@ -1,0 +1,20 @@
+{
+  "themes": [
+    {
+      "name": "Consequences of incompetent social work",
+      "ids": [
+        "S0006",
+        "S0008",
+        "S0009",
+        "S0010"
+      ]
+    },
+    {
+      "name": "Weaknesses in current regulation",
+      "ids": [
+        "S0010",
+        "S0011"
+      ]
+    }
+  ]
+}

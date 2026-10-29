@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Phased transition: soft formula in 2018-19, hard formula from 2019-20",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The phasing rests on first-stage consultation responses about stability and SEN risks (lines on 'particular concern highlighted in the first stage consultation responses' and 'risks highlighted during the consultation'), with no numbers of respondents or method given, and the only reference (61) is a legislative intention, so the evidence stays at level 1 although the document admits the first-year impact may differ from its modelling."
+    },
+    {
+      "theme": "Gains cap, funding floor and minimum funding guarantee",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The cap, floor and MFG are tied to the department's own modelling with specific results (4,215 and 2,884 schools reaching formula, 54% by 2019-20, 72/98/113 LAs, \u00a3180m and \u00a3345m above baseline), and the method is explained in lines on the 2016-17 data and the worked examples, but the document does not assess its modelling limits beyond a note that first-year results may differ, and the cited references (86, 27) are explanatory notes."
+    },
+    {
+      "theme": "Historic spend interim and later approach for premises, mobility and growth",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The document weighs SCAP, ONS and lagged-growth options with reasons (lines 2.70-2.75), cites that 'correlation between historic and future growth spend is reasonably strong' and admits historic spend 'will not necessarily predict' need, but the correlation result is not shown, and the references (25, 26, 75, 76) are technical notes."
+    },
+    {
+      "theme": "Efficiency support for schools",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim of scope for efficiency rests on references to unnamed 'great examples of schools' and an ambition of \u00a31 billion savings, and the cited DfE guidance (references 40, 41) supports the tools rather than the 8% pressure, and no evidence is given that the support will deliver the savings or why it was chosen over an invest-to-save fund."
+    },
+    {
+      "theme": "Central school services block formula and transition",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The formula design (90% per-pupil, 10% Ever6 FSM, GLM area cost adjustment) is explained and the historic commitments were reviewed via local authority returns (references 46, 53), but the weighting rests on an assertion ('we know there is a cost to delivering education welfare services everywhere') rather than data, and the transition effects are not quantified."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Mostly describes the baselines and data sources (2016-17 APT, GAG, October 2015 census) and worked examples, giving some method detail on the department's own data but little assessment or evidence for choices."
+    }
+  ],
+  "reasoning": "The five core themes score 1, 2, 2, 1 and 1, a mean of 1.4, which rounds to 1. The strongest is the gains cap, floor and MFG theme (level 2). It links its design to the department's own modelling with concrete results ('4,215 of those schools... in 2018-19; and 2,884 in 2019-20', '54% of schools would reach their formula allocation by 2019-20', the \u00a3200 million above flat cash) and published worked examples built on the 2016-17 data. The growth, premises and mobility theme also reaches 2: it sets out why SCAP and ONS forecasts were ruled out (lines 2.72-2.74) and admits historic spend 'will not necessarily predict' future need, but the correlation it relies on is never shown. The phasing, efficiency and central services themes stay at level 1. They lean on unquantified consultation responses ('a particular concern highlighted in the first stage consultation responses'), unnamed examples of efficient schools, and an asserted 90/10 split, with references 5, 24, 40, 41 and 61 not supporting the claims. The strongest counter-example to level 1 is the cap/floor theme, which nearly reaches level 3 because it concedes 'the actual impact of the reforms may not be exactly in line with our modelling assumptions'. To reach level 2 overall, the document would need to report how many consultation responses were received and what they said, show the growth correlation, give the evidence behind the efficiency and central-services choices with followable sources, and assess its modelling limits.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.4,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Productivity and infrastructure",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 0.1 and 0.2 assert that the UK lags on productivity and that infrastructure raises wages and living standards, with no statistic, finding or source behind either claim."
+    },
+    {
+      "theme": "Local authority role and borrowing costs",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The figures of \u00a38 billion on transport and \u00a31 billion on environmental services give uncited support for the 'sizeable share' claim, but the claim that high borrowing costs could stop projects is asserted with no evidence ('could prevent')."
+    },
+    {
+      "theme": "Local government borrowing landscape",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The 75% PWLB share carries Reference 1 (DCLG, Local authority borrowing and investments, UK 2014-15, September 2016), which is findable and clearly linked to the claim, and the PWLB rates are stated, but there is no assessment of the data's strengths or limits and the 'evolving market' line is uncited."
+    }
+  ],
+  "reasoning": "Three core themes were scored. 'Productivity and infrastructure' reaches level 0: the lines 'For too long, the UK has lagged behind other advanced economies on productivity' and 'Infrastructure contributes directly to higher productivity, which in turn leads to long-term improvements in wages' are assertions with no figures, research or sources. 'Local authority role and borrowing costs' reaches level 1: the '\u00a38 billion on transport and \u00a31 billion on environmental services' figures are offered as grounds for the 'sizeable share' claim but carry no citation, and the central diagnosis that 'high costs of borrowing could prevent them from delivering projects' has no evidence at all, such as the cost of borrowing or any projects forgone. 'Local government borrowing landscape' reaches level 2: the claim that 'Around 75% of local authority borrowing is via the PWLB' carries Reference 1, a named DCLG publication from September 2016 that a reader can find, and the PWLB rates are set out clearly. The mean of the core levels is (0+1+2)/3 = 1.0, so the score is 1. The strongest counter-example is that the borrowing landscape theme reaches level 2 and could be read as the best evidenced part of the diagnosis. However, it describes the existing market rather than showing that borrowing is too costly or that productivity is weak, so it does not support the central problem. To reach level 2, the document would need to cite sources for the productivity gap and the effect of infrastructure, and give evidence on borrowing costs and on projects not delivered. To reach level 3, it would also need to assess the strength of that evidence and acknowledge uncertainties.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Legislation and Scope of the Letting Fees Ban",
+      "reason": "States the basic implementation vehicle (primary legislation) for the ban, but is a brief procedural statement rather than a developed argument about method choice or alternatives.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Deposits, Affordability and Alternative Models",
+      "reason": "Explores a related but distinct policy question (deposit affordability) that is adjacent to the fees ban rather than part of the core implementation mechanism for enforcing the fee ban itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Permitted Charges and Holding Deposits",
+      "reason": "Defines the scope of what is and isn't banned, a necessary design detail, but this is about the substance of the ban's boundaries rather than the implementation/enforcement method itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Enforcement Mechanisms and Local Authority Role",
+      "reason": "This is the central proposed delivery mechanism (local authorities/Trading Standards enforcing the ban), explaining why this method was chosen and what support it may need - the case for implementation rests on this choice.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant Awareness, Empowerment and Dispute Resolution",
+      "reason": "Explains a key complementary enforcement route (tenant-driven challenge and reporting) that is presented as essential to reducing burden on local authorities and making the ban workable, forming a core pillar of the implementation approach.",
+      "weight": "core"
+    },
+    {
+      "theme": "Data Sharing Across the Sector",
+      "reason": "Describes a potential enhancement to enforcement but is presented as an exploratory option rather than a foundational element the implementation case depends on.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Lead Enforcement Authority Model",
+      "reason": "Presents an alternative/additional enforcement model (lead authority) with detailed precedent, representing a genuine alternative method under consideration that bears on how enforcement will be structured - core to the 'other methods considered' aspect.",
+      "weight": "core"
+    },
+    {
+      "theme": "Wider Regulation of the Lettings Sector",
+      "reason": "Discusses broader regulatory measures beyond the fee ban itself; this is an adjacent policy consideration rather than core to how the fee ban specifically will be implemented.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Penalties and Sanctions for Non-Compliance",
+      "reason": "Details the sanctions regime (civil vs criminal, fine levels) that gives enforcement teeth, explaining the costs/benefits and design choices underpinning how the ban will be enforced - a core support for the implementation argument.",
+      "weight": "core"
+    }
+  ]
+}

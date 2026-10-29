@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "National ban as the preferred option over alternatives",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Policy objective of sustainable exploitation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Cost-benefit case for the ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Impact assessment methodology and assumptions",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Implementation costs and business impacts",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Enforcement and compliance",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Stock modelling approach and parameters",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Policy consultation and testing",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

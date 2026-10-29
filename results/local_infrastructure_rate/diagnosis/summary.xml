@@ -1,0 +1,43 @@
+<root>
+<theme sentences="3" weight="core">
+<name>Productivity and infrastructure</name>
+<claim>The UK has long lagged other advanced economies on productivity, and infrastructure investment raises productivity and thereby wages and living standards.</claim>
+<text>
+<line id="S0001">0.1 Foreword For too long, the UK has lagged behind other advanced economies on productivity.</line>
+<line id="S0020">Simon Kirby MP, Economic Secretary to the Treasury 0.2 Executive summary Infrastructure contributes directly to higher productivity, which in turn leads to long-term improvements in wages and living standards.</line>
+<line id="S0033">Investing in infrastructure will also help to address the UK’s long-standing weakness in productivity, leading to higher wages and better living standards for workers.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="3" weight="core">
+<name>Local authority role and borrowing costs</name>
+<claim>Local authorities are responsible for a sizeable share of infrastructure investment and are best placed to know local needs, but high borrowing costs could prevent them from delivering needed projects.</claim>
+<text>
+<line id="S0075">2.3 Rationale for change Local authorities are responsible for delivering a sizeable share of government infrastructure investment, including but not limited to local roads, public transport and flood defences.</line>
+<line id="S0076">Last year, local authorities spent £8 billion on transport and £1 billion on environmental services.</line>
+<line id="S0078">In many cases, local authorities may be best placed to understand local infrastructure needs, but high costs of borrowing could prevent them from delivering projects to meet these needs.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="4" weight="core">
+<name>Local government borrowing landscape</name>
+<claim>Local authorities borrow mainly via the PWLB at existing standard, certainty and project rates (about 75% of borrowing), in a debt market that is evolving with new lenders.</claim>
+<text>
+<line id="S0050">Local authorities are able to borrow from any willing lender in the UK or abroad without requiring government consent, but only in sterling.</line>
+<line id="S0051">Around 75% of local authority borrowing is via the PWLB , with the rest mainly coming from banks, building societies, the European Investment Bank and the issue of bonds . ** (Reference: 1)</line>
+<line id="S0055">The PWLB currently offers three interest rates: standard rate (gilts + 100 basis points), certainty rate (gilts + 80 basis points) and project rate (gilts + 60 basis points).</line>
+<line id="S0085">The local government debt market is evolving, with new trends emerging and new lenders entering the market.</line>
+</text>
+<references>
+<reference number="1">Local authority borrowing and investments, UK 2014-15 , Department for Communities and Local Government, September 2016. ↩</reference>
+</references>
+<links>
+</links>
+</theme>
+</root>

@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Delivery of the testbeds and trials programme",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on the DCMS centre of 5G expertise, the early-2018 end-to-end trial, competitive funding and the interoperability/replicability/openness principles describe the delivery model but cite no evidence and carry no references."
+    },
+    {
+      "theme": "Reviews, reports and regular updating",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only the FCCG interim report (Reference: 20) is cited as 'the evidence underpinning' recommendations, with no explanation of what it shows, while the many end-of-2017 reviews are commitments rather than evidence."
+    },
+    {
+      "theme": "Government, local and regulator governance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "References 2, 5, 8, 9, 30, 35 and 46 sit beside governance, spectrum and planning lines, but they are cited without a clear chain of reasoning, and the governance structures (Digital Infrastructure Officials Group, single lead minister) are asserted with no evidence."
+    }
+  ],
+  "reasoning": "All three themes are core, and none gives evidence for why this delivery method was chosen. \"Delivery of the testbeds and trials programme\" is level 0. It describes a DCMS centre of 5G expertise, an early-2018 trial and competitive spokes, and it has no references. Nothing explains why this route was chosen over alternatives, and no costs or benefits are given. \"Reviews, reports and regular updating\" is level 1. The only evidence is the FCCG interim report (Reference: 20), which the line \"Further details of the recommendations and the evidence underpinning them can be found in the FCCG's interim report\" points to without saying what it found. The repeated \"by the end of 2017\" reviews are commitments, not evidence. \"Government, local and regulator governance\" is level 1. It cites Ofcom's 5G spectrum update (Reference 8), Connected Nations (Reference 5), the Cisco forecast (Reference 2) and the Housing White Paper (References 30, 46) beside spectrum and planning lines. However, the lines on the single lead minister and the Digital Infrastructure Officials Group are bare assertions. The mean is (0+1+1)/3 = 0.67, which rounds to 1. The strongest counter-example to level 1 is that the document is almost entirely commitments, so level 0 is arguable. Several references, such as the Cisco forecast, are not tied to any delivery choice. To reach level 2, the document would need to cite specific evidence for why a competitively funded hub-and-spoke model, the timetable and the governance structure were chosen, and to say what the FCCG report found. It would also need to consider alternatives and give costs and benefits.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

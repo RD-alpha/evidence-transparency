@@ -1,0 +1,22 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Transferable skills and interdisciplinary value",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims that modern languages build transferable skills (communication, critical thinking, autonomy, creativity, cognitive flexibility) are asserted with no citation, data, or named research to support them."
+    },
+    {
+      "theme": "Universal relevance and progression",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that the content benefits all disciplines and provides a robust foundation for degree-level study is stated as a design intention with no evidence, survey, or data offered to support it."
+    }
+  ],
+  "reasoning": "Both core themes in this extract assert benefits of the AS/A level modern languages specification without offering any evidence to back them. 'Transferable skills and interdisciplinary value' claims the subject fosters communication, critical thinking, autonomy, resourcefulness, creativity, and cultural/cognitive flexibility 'of value to the individual, to wider society, to higher education and to employers' -- but this is pure assertion, with no survey, employer feedback, academic study, or consultation response cited to show these benefits actually accrue or were identified through evidence. Similarly, 'Universal relevance and progression' asserts the content 'has been designed to be of relevance to students of all disciplines' and will 'provide a robust foundation' for degree-level study, again with no evidence of how this design judgement was reached -- no curriculum review findings, higher education input, or consultation data is referenced. No <references> or <links> appear anywhere in the extract, and no unnamed research ('studies show...') is even gestured at. Both themes therefore sit at level 0: reasoning and assertion, not evidence. The strongest counter-example would be if evidence existed elsewhere in the document (e.g., in another aspect not shown here) linking consultation responses from universities or employers to these specific claims, but nothing in this extract or the ungrouped sentences suggests this. Mean of 0 and 0 is 0. To reach level 1, the document would need to mention some specific evidence, such as employer surveys or academic research, explaining how it informed these claims.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

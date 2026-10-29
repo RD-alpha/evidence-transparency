@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Choice of national ban over alternatives",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Evidence is cited for each option (v-notching uptake data and Cefas sampling showing ~14% berried landings under Ref 1/13, IFCA byelaw limits under Ref 1, FAD data under Ref 2, STECF report on seasonal ban under Ref 3) and linked to why each alternative is rejected, but the document does not assess weaknesses or representativeness of this evidence itself, so it stops short of level 3."
+    },
+    {
+      "theme": "Modelled stock and landings benefits",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The Cefas population model's scenarios, assumptions and results (e.g. '80% greater' biomass, '43% higher' landings) are described and cited (Refs 2,3,8,9,10), and the document repeatedly flags its own uncertainty ('These benefits are uncertain', 'it is uncertain how well this general lobster population corresponds...')."
+    },
+    {
+      "theme": "Business costs versus long-term gains",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Costs (\u00a32.36m lobster revenue, \u00a30.03m familiarisation, \u00a32.29m EANCB) are derived from MMO/Cefas/Seafish/ONS data (Refs 1,16,17,4,6,7) and explicitly linked to the modelled long-term benefit ('net benefits through higher landings...after seven years...eleven years'), while flagging overestimates and unmonetised uncertainty ('likely to be an overestimate', 'have not been monetised due to a lack of evidence')."
+    },
+    {
+      "theme": "Policy objectives and scope",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Objectives and the Landing Obligation exclusion are asserted without any supporting evidence or citation."
+    },
+    {
+      "theme": "Analytical methodology and assumptions",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Detailed, cited (Refs 1-5) assumptions behind the cost model (vessel size/location, compliance, 15-year appraisal) are set out and their limitations openly acknowledged ('there is no evidence on how prevalent this is', 'vessels...are likely to expend effort inside and outside of the 6nm limit')."
+    },
+    {
+      "theme": "Implementation mechanism",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States the SI mechanism with no evidence offered for why this form was chosen."
+    },
+    {
+      "theme": "Affected stakeholders and business context",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Fleet and business-size figures are cited (Refs 1,21,22,23) and linked to the affected-business estimate, with a brief caveat that it is 'an overestimate', though little further assessment is given."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "A single unsupported assertion with no evidence."
+    }
+  ],
+  "reasoning": "The three core themes vary in strength. 'Choice of national ban over alternatives' cites MMO, Cefas and STECF evidence (Refs 1,2,3,13) and links it to why voluntary v-notching and IFCA byelaws were rejected, but doesn't critically assess that evidence's own limitations, so it reaches level 2. 'Modelled stock and landings benefits' and 'Business costs versus long-term gains' both rest on Cefas/MMO primary modelling and data, clearly described (scenarios, functional units, 2011-2014 landings data) and explicitly linked to the policy's costs and benefits (e.g. '\u00a32.29m' EANCB set against 'landings...estimated to be between 3-43% higher'), while repeatedly flagging uncertainty ('These benefits are uncertain', 'likely to be an overestimate', 'difficult to estimate accurately due to uncertainty regarding the response of fishers'). These reach level 3. The mean of 2, 3 and 3 is 2.67, rounding to 3. The strongest counter-example against a '3' is the first theme: it never interrogates whether the 14% berried-landings figure or v-notch uptake data are reliable or representative, which would be needed for a 3 on that theme specifically. To secure an unambiguous 3 overall, the document would need to add similar critical scrutiny of the evidence underlying the choice between the national ban and the rejected alternatives, not just the cost-benefit modelling.",
+  "score": 3,
+  "model_score": 3,
+  "core_mean": 2.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

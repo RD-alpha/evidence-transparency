@@ -1,0 +1,73 @@
+<root>
+<theme sentences="15" weight="core">
+<name>Industry-led delivery with named owners and deadlines</name>
+<claim>Actions are delivered mainly by RDG, train operating companies and DfT, each with a named owner and a timescale, with first changes in 2017 to give passengers real results within about two years.</claim>
+<text>
+<line id="S0021">(Timescale: First changes to be implemented from May 2017 and all actions to be complete by end-2017; Owner: RDG &amp; train operating companies.)</line>
+<line id="S0024">(Timescale: April 2017; Owner: RDG &amp; train operating companies.)</line>
+<line id="S0028">(Timescale: May 2017; Owner: RDG &amp; train operating companies.)</line>
+<line id="S0032">(Timescale: August 2017; Owner: RDG &amp; train operating companies.)</line>
+<line id="S0035">(Timescale: Adoption by four further train operating companies (TransPennine Express, Northern, Virgin Trains East Coast and Virgin Trains West Coast) by April 2017.</line>
+<line id="S0036">East Midland Trains will adopt this by September 2017; Owner: RDG, train operating companies &amp; DfT.)</line>
+<line id="S0040">(Timescale: May 2017; Owner: RDG &amp; DfT.)</line>
+<line id="S0045">(Timescale: December 2017; Owner: RDG.)</line>
+<line id="S0053">(Timescale: June 2017; Owner: DfT &amp; RDG.)</line>
+<line id="S0059">(Timescale: July 2017; Owner: RDG, train operating companies, &amp; DfT.)</line>
+<line id="S0063">(Timescale: March 2017; Owner: ORR.)</line>
+<line id="S0066">(Timescale: Quarterly; Owner: RDG.)</line>
+<line id="S0070">(Timescale: June 2017; Owner: RDG &amp; DfT.)</line>
+<line id="S0073">(Timescale: February 2017; Owner: RDG.)</line>
+<line id="S0077">(Timescale: December 2017; Owner: DfT.)</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="4" weight="core">
+<name>Collaborative development and consultation</name>
+<claim>The plan was developed with ORR, train companies, consumer groups, technology firms and retailers, and delivery will involve passenger groups and third parties.</claim>
+<text>
+<line id="S0044">The industry will engage with other third parties to publicise this opportunity.</line>
+<line id="S0056">RDG will produce a transparent roadmap of current capability to identify what can be done in the short term.</line>
+<line id="S0058">DfT and RDG will collaborate on a strategy to ensure a consistent high quality customer experience of TVMs, including the role of the TVM Design Guidelines and consider whether these contain principles which should form the basis for obligations in future franchise agreements.</line>
+<line id="S0069">We will engage with passenger groups / focus groups to ensure these are understandable and accessible.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="core">
+<name>Longer-term reform via franchising</name>
+<claim>Deeper fares reforms will take time and will be delivered through the franchising programme and further work with industry.</claim>
+<text>
+<line id="S0080">These changes will take time to deliver, and we will seek to deliver any reforms through the franchising programme.</line>
+<line id="S0082">Any changes to the fares structure must strike a balance between protecting passengers from possible market abuse, allowing train operators scope for innovation, and managing possible cost pressures on the taxpayer.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="not core">
+<name>Ticket availability and advance sales management</name>
+<text>
+<line id="S0034">This will be available from six train companies and the rail industry will ensure that sale and use of Advance tickets is managed so that customers making last minute reservations do not impact on customers already using the booked service.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="not core">
+<name>Refunds and proof of railcard entitlement</name>
+<text>
+<line id="S0072">In a similar manner as for when a Season Ticket left at home, customers will be able to provide proof of their Railcard online, by post or at the ticket ofifce of the train company that they travelled with in order to obtain a refund or cancellation of additional charge, including the cost of any extra fare and any penalty fare issued.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

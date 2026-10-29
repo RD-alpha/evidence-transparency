@@ -1,0 +1,31 @@
+{
+  "themes": [
+    {
+      "name": "National skills gap and economic growth imperative",
+      "ids": [
+        "S0023"
+      ]
+    },
+    {
+      "name": "Public sector lagging private sector uptake",
+      "ids": [
+        "S0026"
+      ]
+    },
+    {
+      "name": "Workforce diversity, inclusivity and social mobility gap",
+      "ids": [
+        "S0041",
+        "S0042",
+        "S0043",
+        "S0057"
+      ]
+    },
+    {
+      "name": "Changing perceptions of apprenticeships",
+      "ids": [
+        "S0078"
+      ]
+    }
+  ]
+}

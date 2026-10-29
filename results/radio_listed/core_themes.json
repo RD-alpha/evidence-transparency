@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Outdated, Burdensome Regulatory Framework",
+        "claim": "Commercial radio's licensing regime was designed in the late 1980s/1990s for analogue AM/FM services and remains complex and burdensome, creating a mismatch with digital-only regulation and limiting Ofcom's and broadcasters' ability to innovate."
+      },
+      {
+        "name": "Digital Disruption and Changing Listener Behaviour",
+        "claim": "The rapid growth of online and digital audio platforms, alongside a marked drift of younger listeners away from broadcast radio, is fragmenting audiences and intensifying competitive pressure on commercial radio."
+      },
+      {
+        "name": "Enduring Public Value of Commercial Radio, Especially Local News",
+        "claim": "Despite market disruption, commercial radio continues to provide highly valued public-service content - particularly local news, travel and weather information - that reaches more listeners than BBC local radio and underpins media plurality, so this function needs continued recognition."
+      },
+      {
+        "name": "Choice-Securing Duty No Longer Necessary",
+        "claim": "Because digital proliferation has already delivered listeners an unprecedented range of stations and services, Ofcom's original statutory duty to secure a range and choice of radio services, set when choice was scarce, has become largely redundant."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Narrowing Ofcom's Role from Broad Choice to Core Information Duty",
+        "claim": "The government proposes replacing Ofcom's wide-ranging duty to secure range and choice of services with a narrower duty focused on securing news and core information, applied consistently across analogue and digital stations."
+      },
+      {
+        "name": "Deregulating Local Format and Production Requirements",
+        "claim": "Music format rules and detailed local-production requirements for local commercial stations should be removed or narrowed to cover only news/core information, since research suggests listeners value content quality over where or how it is produced."
+      },
+      {
+        "name": "Preserving National Licence Formats While Allowing Flexible Renewal",
+        "claim": "The three national analogue licences' format requirements should remain unchanged given spectrum constraints and competition risks, while Ofcom should gain flexible powers to extend licence durations up to a future switchover rather than forcing new competitions or rigid renewal rules."
+      },
+      {
+        "name": "Extending News/Core Information Duties to Digital-Only Stations",
+        "claim": "To avoid underprovision of local news as listening shifts to digital, the news and core information requirements currently placed on analogue licensees should eventually be extended to DAB-only stations, with scope for enhanced nation-specific requirements in Scotland, Wales and Northern Ireland."
+      }
+    ],
+    "note": "The proposal is presented as a single interlocking package of measures (duty redefinition, format deregulation, national-licence protection, digital extension) rather than one isolated change."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Phased Implementation Tied to a Future Digital Switchover",
+        "claim": "Many detailed changes - such as applying news duties to DAB-only stations or extending licence terms - are designed to take effect only around or after an eventual, as-yet-undetermined digital switchover decision."
+      },
+      {
+        "name": "Delegated Ofcom Rule-Making and Further Consultation",
+        "claim": "Rather than fixing all details in legislation now, the government intends to give Ofcom flexible powers to set guidance (e.g. on minutage, tailoring for ethnic/religious/national audiences) and to continue consulting on unresolved options, such as how to extend news duties to local DAB-only stations."
+      },
+      {
+        "name": "Industry Engagement and Voluntary Adoption",
+        "claim": "Implementation relies on direct engagement with the radio industry through roadshows organised with Radiocentre and on leaving it to individual commercial stations to decide whether to take up the new regulatory flexibilities."
+      },
+      {
+        "name": "Legislative Vehicle for Small-Scale DAB Licensing",
+        "claim": "The small-scale multiplex licensing reform will be implemented through support for a Private Member's Bill, with detailed licensing arrangements to be consulted on separately once that legislation progresses."
+      }
+    ],
+    "note": ""
+  }
+}

@@ -1,0 +1,42 @@
+S0003 The industry provides 1.6 million jobs across the country.
+S0004 In 2015, we saw the greatest number of overseas visits to the UK on record, bringing £22.1 billion into our economy.
+S0005 Domestic overnight spend also hit a record high of £19.6 billion in England.
+S0007 But many overseas visitors never venture beyond London, so over 50% of their spending is in the capital.
+S0011 The South East, South West, West Midlands and North East have all seen international visitor rates and spend grow faster than London over the past year.
+S0013 But there is still work to be done in promoting the whole of the UK.
+S0019 Tourism is one of the UK’s most important industries with it directly responsible for 1.6 million jobs at all entry levels throughout the UK. ** (Reference: 1)
+S0020 Last year was record-breaking, with tourism generating over £62bn in GVA to the UK economy.
+S0021 Domestic overnight spend reached a new high of £19.6bn in England, and the UK attracted more overseas visits than ever before, generating over £22bn of export earnings. ** (Reference: 2)
+S0022 Further, the rate of growth in visits and spend to many regions was faster than in London - as visitors flocked to see our world class heritage sites, stunning countryside, and to capture moments from Glastonbury to the Rugby World Cup.
+S0023 However, with over 50% of international visitor spend still in the capital, there is more to be done to rebalance the sector, boosting jobs and growth right across the country.
+S0037 Over the same time period, GVA
+S0038 for the United
+S0039 Kingdom rose
+S0040 by 2.3%
+S0041 An increase of £0.2 billion (1%) compared
+S0042 to 2014
+S0043 Up by 2.2%
+S0044 compared
+S0045 with the corresponding
+S0046 period a year
+S0047 earlier
+S0048 The South East, South West, West
+S0049 Midlands and the North East saw international visits
+S0050 and spend grow at
+S0051 a faster rate than
+S0052 Visits from Europe and North America were up on the first six months of the year compared to the same time
+S0053 London
+S0054 period last year
+S0055 The overall success of the tourism industry is contingent on its ability to work together to promote what it has to offer.
+S0056 However, the costs of collaboration are high, as the sector is diverse, fragmented and competitive, and this can deter action - despite it being collectively beneficial.
+S0059 Multiple Government Departments, from Transport to Home Office to DCLG, and DEFRA, invest in the success of Britain’s tourism industry.
+S0063 Tourism is a devolved matter, but a number of policy levers—from aviation connectivity to aspects of the regulatory framework and immigration—are reserved.
+S0095 With employment in tourism growing at a faster rate than total UK employment, the Government has been working to improve perceptions of the tourism industry.
+S0100 The tourism sector is overwhelmingly comprised of SMEs providing employment in some of our most rural communities and enjoyment to millions.
+S0122 Britain’s road system is an excellent means of exploring the country.
+S0123 However, many international visitors are fearful of driving on the ‘wrong’ side of the road, so it’s vital that they feel confident navigating our system of public transport, if they are to explore beyond London.
+S0124 However, international visitors can find it difficult to find the information they need, in the right language, to book the right tickets at the right price, and to be assured of a seamless journey.
+S0132 In 2015, 73% of international visits to the UK were made by air.
+S0135 Last year the number of passengers using
+S0141 The accessibility of our wider transport offer is critical to the attractiveness of these routes, because most first time visitors to the UK want to experience London as part of their stay.
+S0144 However, the roll-out of smart ticketing infrastructure, the development of route-planning apps like Rome2Rio and reduced international roaming charges are key to giving international visitors the confidence to use these services.

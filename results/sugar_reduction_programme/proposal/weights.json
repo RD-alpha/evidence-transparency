@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Soft drinks industry levy",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Industry sugar and calorie reduction programme",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Physical activity and school-based action",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Healthier food environment and informed choice",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Long-term change and outcomes",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

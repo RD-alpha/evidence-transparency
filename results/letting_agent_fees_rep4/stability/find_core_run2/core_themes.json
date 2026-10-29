@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Opaque and inconsistent fee structures",
+        "claim": "Letting agents charge tenants highly variable, often unitemised and poorly displayed fees that are difficult to understand or compare across agents."
+      },
+      {
+        "name": "Tenants' lack of market power over agent fees",
+        "claim": "Because landlords, not tenants, appoint and pay the headline fee to agents, tenants have little ability to negotiate, opt out of, or exert competitive pressure on the fees agents charge them."
+      },
+      {
+        "name": "Financial harm and barriers caused by fees",
+        "claim": "High, repeated up-front letting fees cause real financial hardship for tenants, deterring moves, forcing borrowing, and hindering saving for a home deposit."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Banning tenant fees to realign market incentives",
+        "claim": "The Government proposes banning letting agent fees paid by tenants (and routes via landlords/third parties) so that landlords' market power disciplines agents to compete on price and quality, rather than relying on tenants who cannot."
+      },
+      {
+        "name": "Insufficiency of existing transparency regulation",
+        "claim": "The chosen ban is justified because the Consumer Rights Act 2015 transparency requirements have proven ineffective at improving competition or driving down fees, making a stronger intervention necessary."
+      },
+      {
+        "name": "Scottish precedent as evidence of feasibility",
+        "claim": "Evidence from Scotland's long-standing ban on tenant letting fees shows that such a ban can operate without seriously damaging the letting sector, supporting the case for introducing a similar ban in England."
+      },
+      {
+        "name": "Scope, exceptions and cost pass-through of the ban",
+        "claim": "The proposal bans most tenant fees while permitting narrowly defined exceptions (holding deposits, tenant-caused charges) and anticipates that agents' costs will be absorbed by landlords or reflected in rents rather than passed back to tenants."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Local authority/Trading Standards enforcement",
+        "claim": "The ban will be enforced by local authorities, primarily Trading Standards, building on their existing role enforcing redress scheme membership and transparency requirements."
+      },
+      {
+        "name": "Additional enforcement infrastructure options",
+        "claim": "The Government is exploring whether a lead enforcement authority (as used in the Estate Agent sector), increased data sharing, or wider sector regulation are needed to support local enforcement of the ban."
+      },
+      {
+        "name": "Tenant empowerment and education as an enforcement mechanism",
+        "claim": "Educating and empowering tenants to recognise and challenge unlawful fees, including routes to local authorities or county courts, is presented as a key tool for securing compliance with the ban."
+      },
+      {
+        "name": "Penalty design for non-compliance",
+        "claim": "The Government proposes robust penalties—civil fines potentially up to £30,000 or criminal banning-order offences—to deter agents from breaching the fee ban, modelled on existing redress and banning-order powers."
+      }
+    ],
+    "note": ""
+  }
+}

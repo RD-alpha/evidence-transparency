@@ -1,0 +1,79 @@
+{
+  "themes": [
+    {
+      "name": "Stock overfishing and failure to meet MSY",
+      "ids": [
+        "S0018",
+        "S0019",
+        "S0020",
+        "S0383"
+      ]
+    },
+    {
+      "name": "EU and international obligations",
+      "ids": [
+        "S0020",
+        "S0102",
+        "S0103",
+        "S0106",
+        "S0107",
+        "S0108",
+        "S0109",
+        "S0110",
+        "S0111"
+      ]
+    },
+    {
+      "name": "Common-pool resource market failure",
+      "ids": [
+        "S0124",
+        "S0125",
+        "S0126",
+        "S0127",
+        "S0128",
+        "S0130"
+      ]
+    },
+    {
+      "name": "Role of berried females in stock recruitment",
+      "ids": [
+        "S0024",
+        "S0130",
+        "S0131",
+        "S0132",
+        "S0133",
+        "S0134"
+      ]
+    },
+    {
+      "name": "Economic and employment significance of shellfish fisheries",
+      "ids": [
+        "S0092",
+        "S0093",
+        "S0094",
+        "S0095",
+        "S0096",
+        "S0097",
+        "S0098"
+      ]
+    },
+    {
+      "name": "Current regulatory status and local management practices",
+      "ids": [
+        "S0114",
+        "S0115",
+        "S0116",
+        "S0117",
+        "S0119",
+        "S0120",
+        "S0121"
+      ]
+    },
+    {
+      "name": "Crawfish conservation status",
+      "ids": [
+        "S0112"
+      ]
+    }
+  ]
+}

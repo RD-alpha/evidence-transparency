@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Imbalance of market power between landlords and tenants",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme is pure reasoning about landlord/tenant incentives with no statistic, survey or source cited anywhere in the extract to support it."
+    },
+    {
+      "theme": "Scale, variability and opacity of tenant fees",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "DCLG's own market research is described with method ('we randomly chose 50 agents... searched their website', producing the fee table) and external surveys (NALS, Generation Rent, Shelter) are cited via Reference 4, 5 and 6 with clear figures linked to the claim of variability and scale, though EHS figures quoted in this theme carry no reference marker here."
+    },
+    {
+      "theme": "Failure of existing transparency regulation",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Generation Rent's finding that '12% did not publically display their fees' is tied to Reference 10, and the department's own 2016 Client Money Protection call for evidence is used to show enforcement failure, though the consultation's respondent numbers/method are not given, keeping that part weaker."
+    },
+    {
+      "theme": "Financial and behavioural harm to tenants",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Citizens' Advice stats ('64% of tenants experienced problems paying... 42% had to borrow money') are tied to Reference 13 and clearly linked to the financial-harm claim, while the EHS moving-deterrence figures (35%/34%) appear uncited in this theme."
+    }
+  ],
+  "reasoning": "The diagnosis rests on four core themes. 'Imbalance of market power' (level 0) offers no evidence at all - it is a logical argument about who appoints agents, with no statistic or source anywhere. 'Scale, variability and opacity of tenant fees' (level 2) is well evidenced: DCLG's own market research is described methodologically ('we randomly chose 50 agents... searched their website') and produces a detailed fee table, while NALS, Generation Rent and Shelter figures carry References 4-6 directly tied to claims about fee variation and scale. 'Failure of existing transparency regulation' (level 2) uses Reference 10 to show '12% did not publically display their fees' and cites the 2016 Client Money Protection call for evidence, though respondent numbers are not given. 'Financial and behavioural harm to tenants' (level 2) links Reference 13's '64% of tenants experienced problems paying... 42% had to borrow money' directly to the harm claim, though the EHS moving-deterrence figures in the same theme are uncited. The mean of 0, 2, 2 and 2 is 1.5, which rounds down to 1. The strongest counter-example is the richness of DCLG's and Generation Rent's fee data, which might suggest a higher score, but this is undercut by the entirely unevidenced market-power theme that the document treats as foundational. To reach level 2 overall, the document would need to substantiate the market-power argument with some empirical evidence (e.g. survey data on landlord vs tenant fee negotiation) rather than resting it on assertion.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

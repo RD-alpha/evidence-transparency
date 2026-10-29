@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Phased rollout schedule",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The timetable (Autumn 2018, 2015/2016/2017 tranches) is described as fact with no evidence offered for why this staging was chosen over alternatives, beyond the footnote defining Biblical Hebrew's separate status (Reference 1)."
+    },
+    {
+      "theme": "Expert-led collaborative drafting process",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that an expert drafter worked with university representatives, awarding organisations and Ofqual is asserted with no evidence (no data, consultation findings, or named rationale) showing why this process produces rigorous qualifications."
+    },
+    {
+      "theme": "Mandatory specification framework for awarding organisations",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The detailed framework (themes, skills integration, literary/film study, research skills, grammar lists referenced at 5 and 6) is set out prescriptively but the references (5,6) merely link to the publication page itself, not to evidence justifying why these specific requirements will achieve rigour or comparability."
+    }
+  ],
+  "reasoning": "All three themes are core, and all three score 0. The 'Phased rollout schedule' theme lists dates and tranches ('New qualifications... first taught... Autumn 2018', '2015... 2016 and 2017') but offers no evidence -- no pilot results, workload data, or stakeholder feedback -- explaining why this staged timetable is the right delivery method rather than, say, a single simultaneous rollout. The 'Expert-led collaborative drafting process' theme asserts that 'the drafter worked with other experts -- representatives of leading universities, awarding organisations and Ofqual' but gives no findings or data about what this collaboration produced or why it ensures rigour; it is a description of process, not evidence that the process works. The 'Mandatory specification framework' theme is the most detailed, specifying themes, skills, literary/film requirements and grammar lists, with references 5 and 6 pointing to 'www.gov.uk/.../gce-as-and-a-level-modern-foreign-languages'. However these links only point to the general publication, not to a specific source showing why these requirements (e.g., two AS themes vs four at A level, or the research-skills component) were chosen; they are self-referential rather than external evidence. No consultation responses, comparative study, or university input data are cited anywhere to justify delivery choices. The strongest counter-case is the drafter/university involvement, which gestures at expert input but stops short of showing what was found or decided. Mean of 0,0,0 = 0. To reach level 1, the document would need to explain, even briefly, what evidence (e.g., consultation responses or expert findings) justified the specific timetable, process, or framework requirements.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

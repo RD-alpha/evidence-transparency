@@ -1,0 +1,57 @@
+S0001 1. At Budget 2016, the government announced that it would consult on reform of the bands for ultra-low emission vehicles (ULEVs) in the company car tax system to refocus incentives on the cleanest cars using the latest technologies. ** (Reference: 1)
+S0003 This consultation seeks views on the design of bands for ULEVs from 2020-21 onwards.
+S0010 This document sets out broad options for the design of new ULEV bands, which will continue to incentivise the cleanest cars into the next decade, a period during which we expect rapid innovation will deliver significant changes in the way motor vehicles are powered.
+S0085 2.15 Overall, basing company car tax on the CO2 emissions of vehicles has worked well.
+S0086 The average CO2 emissions of company car fleets have fallen significantly from around 170 gCO2/km to 120 g/km over the last 10 years.
+S0087 This compares favourably with fuel efficiency improvements for new cars across the whole fleet.
+S0091 The government believes that company car tax rates help to facilitate the move to cleaner cars.
+S0092 In recent years around half of all new cars in the UK have been purchased by companies.
+S0093 Business users are much more price sensitive that private users and factor in the total cost of owning a vehicle when making purchasing decisions.
+S0094 This means incentives for employers and employees to choose the cleanest cars and therefore benefit from cheaper tax rates are more effective than for private buyers.
+S0095 2.18 Company cars have a faster turnover than private vehicles.
+S0096 The average company car ownership is three years, after which most are sold to the public, which in turn helps drive lower emissions across the whole UK car fleet.
+S0097 The government therefore believes that the company car market is important for promoting the widespread use of ULEVs.
+S0099 The government is aware of the strong demand from key stakeholders for predictability in the company car tax system.
+S0100 This is why the government committed to announcing rates three years in advance and has set out the rates for all cars up to the fiscal year 2019-20.
+S0101 3.2 At Budget 2016, the government announced that beyond 2020-21 the main factor to determine company car tax rates would continue to be CO2 emissions.
+S0102 This was decided following early discussions with car manufacturers and other key stakeholders.
+S0103 The information is readily available and well understood by consumers and it represents a fair and simple structure to incentivise cleaner car choices.
+S0109 This has led the government to consider adopting a secondary measure of efficiency in addition to CO2 for the post 2020 period.
+S0111 3.5 This is why at Budget 2016 the government also announced that it would consult on refining the bands for ULEVs in the company car tax scheme to refocus incentives on the cleanest cars using the latest technologies.
+S0112 3.6 The government’s aim in doing so is to seek views on the most effective way of distinguishing between different types of ULEVs as the technologies develop into the next decade.
+S0113 In particular, there is a focus on incentivising the uptake and development of truly step- change technologies over merely incremental improvements in existing technologies, for example the internal combustion engine.
+S0115 3.7 Company car tax has been based on CO2 emissions since 2002.
+S0116 The government considers that this approach has been a success, since there is a clear link with the type approval process for new vehicles, and consequently it is easy for consumers to make simple comparisons between vehicles when making purchasing decisions.
+S0117 Feedback from all key stakeholders suggests that the system is well understood, and that there have been clear incentives on companies and employees to choose vehicles with lower emissions.
+S0118 3.8 Part of the reason why CO2 banding has been a success in reducing emissions of the car fleet is that the government has been able to set multiple bands that provide clear differentiation between categories of vehicles within the overall fleet.
+S0119 The smaller the steps between bands, the greater the incentive for consumers to move down bands when choosing their next company car.
+S0122 3.10 The simplest approach for responding to developments in the ULEV market would be to retain the current framework based entirely on CO2 emissions.
+S0123 This would preserve the simplicity and transparency of the current system, as well as the commonly-understood methodology for how vehicles are categorised and the relative ease of administration for businesses and employees.
+S0131 3.13 An alternative approach to differentiate between ULEVs for the purposes of company car tax would be to base ULEV bands on how many zero emission miles a vehicle can offer as well as CO2 emissions.
+S0132 There are clear advantages to this in that it would be easy for consumers to understand and it gives a clear indication of the financial, environmental and driving performance which can be expected.
+S0133 The Vehicle Certification Agency, the UK regulator, keeps a database of all information about vehicles, including the zero emission miles capability.
+S0134 This would therefore be easily accessible to consumers for comparative purposes ahead of making any purchasing decisions, it is also a key piece of information in the sales process for zero emission capable vehicles.
+S0135 There would also be consistency between this approach and the established framework for the government’s Plug-in Car Grant scheme.
+S0136 3.14 Distinguishing ULEV bands based on zero emission miles as well as CO2 could provide different incentives for future vehicles with bigger and better batteries, which would permit most day-to-day journeys to be zero emission.
+S0137 This would benefit both CO2 emissions reduction and local air quality in urban centres.
+S0138 It would also provide a clear incentive for manufacturers to
+S0139 move beyond vehicles with reduced CO2 emissions but limited electric mile range, which risk being driven in combustion engine mode most of the time.
+S0140 3.15 Evidence suggests that pure electric vehicles capable of being driven longer distances before recharging are more popular with consumers, and that plug-in hybrids with a higher zero emission range will be driven further in pure electric mode, thus increasing environmental and cost saving benefits.
+S0141 Therefore zero emission range is a reliable indicator of technologies, which meet government objectives and an important metric for the growing number of ULEV customers.
+S0143 However distinguishing ULEV bands based on zero emission miles as well as CO2 is more complex than CO2 alone.
+S0144 The revisions to company car tax since 2010 have resulted in battery electric and plug-in range extender technologies being incorporated into a single simplified table based entirely on test CO2 emissions.
+S0145 This is consistent with other transport taxes such as vehicle excise duty and the enhanced capital allowances scheme.
+S0146 Additionally, as zero emission range is one of the main determinants of a plug-in hybrid vehicle’s overall CO2 emissions level, this can be used as a simple proxy for mileage.
+S0153 3.18 New ULEV bands could be structured in one of two broad ways:
+S0154 a)
+S0155 Either using a more continuous approach similar to the current system for higher
+S0156 emission bands, creating a large number of narrow bands, which taper gently between 0 to 75 gCO2/km, or
+S0157 b) Smaller numbers of wider emission bands similar to the current ULEV bands thereby
+S0158 creating ‘cliff edges’
+S0159 3.19 A structure with wider emission bands (b) would allow more flexibility in setting rate relativities between the different bands to incentivise customers to choose one band over another.
+S0160 This could also provide more of an incentive for manufacturers of vehicles falling close to a boundary to improve environmental performance.
+S0162 However, disadvantages of wider bands over the more continuous, narrower banding approach are that there is less incentive for consumers to choose the best in class car as the wider bands mean there is no fiscal incentive to choose a car at the cleanest end of the band.
+S0163 There is also less incentive for manufacturers of cars which are not close to a band boundary to improve environmental performance.
+S0164 Additionally, two types of car falling on either side of a
+S0165 band boundary might be close in environmental performance but attract very different company car tax rates, which could be perceived to be unfair.
+S0179 3.21 If zero emission miles should be used as well as CO2 emissions as the basis for new ULEV bands, then by way of example a 0 to 50 gCO2/km band could be further divided into say 5 bands based on: less than 20 zero emission miles capability, 20 to 39 zero emission miles capability, 40 to 69 zero emission miles capability, 70 to 129 zero emission miles capability and 130+ zero emission miles capability.

@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Local enforcement by Trading Standards, possibly strengthened",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The detailed description of NTSEAT's role in the Estate Agent sector is used as a comparable-policy rationale for a lead enforcement authority, but no reference or link is attached to it."
+    },
+    {
+      "theme": "Penalty regime to deter non-compliance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The existing \u00a35,000 civil penalty and the \u00a330,000 banning-order penalty under the Housing and Planning Act 2016 are cited as benchmarks for setting a deterrent fine level, but no statutory reference or link is given."
+    },
+    {
+      "theme": "Tenant empowerment and education as a compliance mechanism",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that 'tenant empowerment and education has helped to improve compliance... for example, deposit protection' offers a comparable-policy mechanism with explanation of how it works, but carries no citation or data on the extent of improved compliance."
+    },
+    {
+      "theme": "Operational design of permitted exceptions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The rules on holding-deposit refund/forfeiture and discrimination risk are justified only by departmental reasoning ('the Government believes...'), with no statistic, finding or source behind claims such as discrimination occurring mainly at advertisement stage."
+    },
+    {
+      "theme": "Legislative framework and primary purpose",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single sentence states intent to legislate with no supporting evidence."
+    },
+    {
+      "theme": "International and historical precedent",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The Scotland 2011 Act and 1984 Act provisions are used only to define 'premium' and describe historical rules, not as evidence justifying a delivery choice."
+    }
+  ],
+  "reasoning": "The four core themes each offer some evidence but it stays thin and uncited. 'Local enforcement' draws an analogy to NTSEAT's role in estate agency (lines on NTSEAT's powers and partnerships) to argue a lead authority 'could make enforcement more consistent', reaching level 1 since no reference/link accompanies this comparator. 'Penalty regime' uses the existing \u00a35,000 redress-scheme fine and the \u00a330,000 banning-order penalty under the Housing and Planning Act 2016 as benchmarks for a 'considerable deterrent', again level 1 with no citation. 'Tenant empowerment' points to deposit protection as a precedent ('has helped to improve compliance in other areas of the sector') with some mechanism explained, but no data or source, so level 1. 'Operational design of permitted exceptions' is almost pure policy description and reasoning -- e.g. the claim that discrimination 'often occurs during advertisement... rather than at the point of taking references' is asserted with no evidence at all, giving level 0. Mean of (1+1+1+0)/4 = 0.75, rounding to 1. The strongest counter-example is the NTSEAT analogy, which is the closest the document comes to a named comparable policy, yet it still lacks any reference a reader could follow. To reach level 2, the document would need to cite the Housing and Planning Act 2016 provisions, the redress-scheme penalty data, and any evaluation of deposit-protection compliance, linking each directly to the specific enforcement, penalty or exception choices made.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

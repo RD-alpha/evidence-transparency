@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Legal mechanism for the ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enforcement costs and responsibilities",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation to test assumptions and gather evidence",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Implementation governance and coordination",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

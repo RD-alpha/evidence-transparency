@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Aims and Skills Development",
+      "reason": "Sets out the overarching learning outcomes specifications must enable, but this is goal-setting rather than the mechanism by which standardization is rolled out, so the implementation case does not depend on it specifically.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Content and Curriculum Requirements",
+      "reason": "This theme lays out the actual mandated structure (themes, skill areas, sources, translation requirements) that constitutes the method by which standardized content is delivered across specifications; removing it would remove the central implementation mechanism.",
+      "weight": "core"
+    },
+    {
+      "theme": "Literary Works and Film Study",
+      "reason": "Describes a specific content requirement (study of literary works/films) that is one component of delivery but not the overall mechanism for standardizing the curriculum.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Research Skills",
+      "reason": "A specific A-level-only requirement illustrating content detail, but not essential to the argument for how standardization is implemented overall.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Language-Specific Adjustments for Chinese",
+      "reason": "Describes an exception/carve-out for one language, which is a procedural detail rather than a load-bearing support for the implementation approach.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Grammar Assessment Framework",
+      "reason": "Establishes the method for how grammar requirements are to be specified and made comparable across different languages, which is a key structural mechanism for delivering standardized content; without it the rationale for how per-language grammar lists fit into a uniform system would collapse.",
+      "weight": "core"
+    },
+    {
+      "theme": "French Grammar Requirements",
+      "reason": "Provides the detailed grammar content for one language as an example of the framework's output, but is itself supporting detail rather than the argument for the implementation method.",
+      "weight": "not core"
+    },
+    {
+      "theme": "German Grammar Requirements",
+      "reason": "Similarly detailed content exemplifying the grammar framework for German; a specific instance rather than a core support for the implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar Requirements",
+      "reason": "Detailed grammar content for Spanish, serving as an illustrative instance of the standardized framework rather than a core argumentative pillar for implementation.",
+      "weight": "not core"
+    }
+  ]
+}

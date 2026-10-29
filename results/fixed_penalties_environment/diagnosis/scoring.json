@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Outdated fixed penalty levels",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The inflation uplift (\u00a380 in 2006 to \u00a3100; \u00a375 to \u00a395 in 2016) is linked to the claim and cited via References 2 and 13 (ONS CPI, OBR), and the 2014 Act's \u00a3100 penalty is cited via Link 35, but the document does not assess the weakness of this evidence, and 'may be too low to deter' has no evidence behind it."
+    },
+    {
+      "theme": "Lapsed performance classification for spending receipts",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim is supported by the cited Local Government Act 2003 and Audit Commission references (6, 18-22) and the 2008/09 fixed penalty data (Links 40, 41; Ref 22: 179 councils, 45,076 notices, \u00a31.88m), which show the scale of the funding at stake, though the data are old, the document does not weigh their limits beyond noting parish data is not collected, and the shortfall is only 'could' happen."
+    },
+    {
+      "theme": "Difficulty enforcing against littering from vehicles",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Lines 'councils report that it is difficult to identify the offender' is unnamed consultation-style evidence with no source or numbers, while the London Local Authorities Act 2007 s.24 (Link 56) describes existing powers and the criminal standard of proof is an unsourced legal statement."
+    },
+    {
+      "theme": "Costs of littering and need to update regulations",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The costs claim in line 1 is asserted without any figure or source (level 0 on its own), while the 2014 Act replacing older powers is cited (Ref 5, Links 12, 35) and explained, giving level 1 at best."
+    },
+    {
+      "theme": "Enforcement training and capacity",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The extract describes the training requirement (Links 52, 53) and says take-up has been low with no figures or source, so no evidence is offered for any diagnosis."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line 'Take-up of the course has been low in recent years' is an unsupported assertion with no evidence."
+    }
+  ],
+  "reasoning": "Four core themes carry the diagnosis. 'Outdated fixed penalty levels' reaches level 2: the claim that penalties have eroded is supported by an inflation calculation, with the method and sources given in References 2 and 13 (CPI, ONS, OBR), and the line 'a maximum penalty of \u00a380 in 2006 would now be \u00a3100' is clearly linked to the claim. The 2014 Act (Link 35) is cited to show the \u00a3100 penalty. 'Lapsed performance classification' also reaches level 2: it cites the Local Government Act 2003 and the 2008/09 data (179 councils, 45,076 notices, \u00a31.88m, Ref 22) to show the scale of income at stake. 'Difficulty enforcing against littering from vehicles' is level 1: 'councils report that it is difficult to identify the offender' has no source, number or method behind it. 'Costs of littering and need to update regulations' is level 1: the costs claim in line 1 is asserted with no figure, though the 2014 Act replacement is cited. The mean of the four core themes is (2+2+1+1)/4 = 1.5, which rounds down to 1. The strongest counter-example is that two themes reach level 2 and the document does use real, traceable data. However, the 2008/09 figures are nearly a decade old and the document does not discuss their limitations, and the deterrence claim ('may be too low to be an effective deterrent') has no evidence. To reach level 2 overall, the document would need to cite and quantify the evidence on vehicle littering and on the costs of littering. To reach level 3, it would need to assess the strength and age of its data and acknowledge uncertainties.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

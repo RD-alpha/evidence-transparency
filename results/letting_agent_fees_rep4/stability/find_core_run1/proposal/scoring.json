@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Ban as the chosen remedy over continued transparency regulation",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The 2016 Client Money Protection call for evidence and the majority/many/'a number' of stakeholder responses are described (what was asked, general findings) but no reference or link is given, so it stays at level 1."
+    },
+    {
+      "theme": "Ban exploits landlords' stronger market position",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "All lines are predictive assertions about landlord shopping behaviour and agent incentives with no study, data or named source offered to support them."
+    },
+    {
+      "theme": "Scotland as precedent and evidence base",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "The Shelter/Rettie/BDRC research (Reference 16) is cited with a link, quoted in detail, and its own uncertainty is acknowledged ('this is inconclusive', rent rises 'explained by economic factors'), meeting the assessment bar for level 3."
+    },
+    {
+      "theme": "Assessing the risk of rent increases against tenant benefits",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim leans on 'early evidence from Scotland' and unnamed evidence of 'excessive' and 'double' charging, both named in prose only with no reference marker in this theme, and a caveat about comparability is given but without a citation to anchor it."
+    }
+  ],
+  "reasoning": "The core argument rests on four themes. 'Transparency insufficient' (Theme 1) draws on the 2016 Client Money Protection call for evidence and unnamed majorities of respondents, but with no reference or link, keeping it at level 1. 'Landlords' stronger market position' (Theme 2) is pure prediction/reasoning ('will be able to shop around', 'will sharpen incentives') with no evidence at all, scoring 0. 'Scotland as precedent' (Theme 3) is the strongest: Shelter's commissioned Rettie/BDRC research is properly cited (Reference 16), quoted with figures (e.g. '56% of private tenants agreed'), and its own limitations are flagged ('this is inconclusive', rent rises 'explained by economic factors'), reaching level 3. 'Rent-increase risk vs benefits' (Theme 4) gestures at the same Scottish evidence and at unnamed claims of 'excessive' and 'double charging', but without any citation marker in this theme, so it stays at level 1. The mean of 1, 0, 3 and 1 is 1.25, rounding down to a section score of 1. The strongest counter-example to a higher score is Theme 3's properly assessed, cited Scottish evidence; but because the other three core themes supply little more than assertion or uncited paraphrase, the overall picture does not reach level 2. To move up, the document would need to cite the 2016 call for evidence responses and link the Scottish findings explicitly within Themes 1, 2 and 4, showing how each piece of evidence drives the specific claim made.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.25,
+  "score_consistent": true,
+  "missing_core": []
+}

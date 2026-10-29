@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Microplastic harm to marine life and ecosystems",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Defra-funded University of Plymouth laboratory findings are described in detail (ingestion, concentration thresholds, chemical additive effects) but carry no reference or link anywhere in the extract, so the named research stays at level 1 despite its nuanced qualifications."
+    },
+    {
+      "theme": "Microbeads as a source of microplastic pollution",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The '100,000 microbeads per shower' claim is explicitly tied to references 10 and 11 (Napper et al. and a Defra R&D project page), giving a traceable, linked statistic supporting the pollution pathway."
+    },
+    {
+      "theme": "Evidence base from research and inquiry",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Environmental Audit Committee inquiry is cited (Reference 8) and its purpose described, but the claim's other components -- the Plymouth research and the 0.01%-4.1% microbead-share estimate -- appear elsewhere uncited, so the combined claim only reaches level 1."
+    },
+    {
+      "theme": "Definition and sources of marine litter and microplastics",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Definitions and source lists are cited (References 1, 2, 7, 13) but the key quantitative claim that microbeads are '0.01% to 4.1%' of total microplastics is given with no citation, capping the theme at level 1."
+    }
+  ],
+  "reasoning": "The diagnosis rests on three core themes. 'Microplastic harm to marine life' relies heavily on the Defra/University of Plymouth laboratory study, which is described in useful detail (ingestion, concentration thresholds, relative contribution of chemical additives) but carries no reference number or link anywhere in the extract, keeping it at level 1. 'Microbeads as a source of microplastic pollution' reaches level 2 because the striking '100,000 microbeads per shower' figure is explicitly linked to references 10 and 11, a traceable Napper et al. study and a Defra project page. 'Evidence base from research and inquiry' cites the EAC inquiry (Reference 8) but its claim also depends on the uncited Plymouth findings and the uncited '0.01% to 4.1%' microbead-share estimate, so it stays at level 1. The mean of 1, 2 and 1 is 1.33, which rounds down to 1. The strongest counter-example is the EAC/Reference 8 citation and the 100,000-microbeads figure, which show the document can and does properly cite primary research when it chooses to. To reach level 2 overall, the document would need to attach a reference to the Plymouth laboratory study and to the 0.01-4.1% microbead-share estimate, so every strand of the core diagnosis is traceable to its source rather than only partially cited.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

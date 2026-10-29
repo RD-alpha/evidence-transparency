@@ -1,0 +1,543 @@
+State Pension age review
+S0001 July 2017
+State Pension age review
+S0002 Presented to Parliament pursuant to section 27(6) of the Pensions Act 2014 July 2017 © Crown copyright 2017
+S0003 This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated.
+S0004 To view this licence, visit nationalarchives.gov.uk/doc/open- **(Link: 1) government-licence/version/3 **(Link: 2) or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.
+S0005 **(Link: 3)
+S0006 Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+S0007 This publication is available at www.gov.uk/government/publications **(Link: 4)
+S0008 Any enquiries regarding this publication should be sent to us at state.pensionagereview@dwp.gsi.gov.uk **(Link: 5)
+S0009 Print ISBN 9781474143875 Web ISBN 9781474143882 ID 19041722 07/17 Printed on paper containing 75% recycled fibre content minimum.
+S0010 Printed in the UK by the Williams Lea Group on behalf of the Controller of Her Majesty’s Stationery Office State Pension age review 1 Foreword by the Secretary of State for Work and Pensions 3 Providing people with dignity and security in retirement 3 Providing fairness across the generations 3
+S0011 What we will do to ensure dignity and security in retirement 4 To give people certainty so that they can plan for old age 4 The wider picture 5 Executive summary 6 A fair and sustainable State Pension system 6 Recent changes to the pensions system 7
+S0012 The evidence base 8 The Government Actuary’s Report 8 John Cridland’s Report 9
+S0013 The Government’s conclusions 9 Maintaining fairness in the longer term 10 Support in later life 10 Conclusion 11 1.
+S0014 Setting the context 12 1. Introduction 12 1. Legislative and historical context 12 1. Purpose of the State Pension age review 14 1. Supporting evidence 15 1. Demographic change and impact on sustainability 15 1. The Government’s pension strategy 19 2. ** (Reference: 1,2,3,4,5,6)
+S0015 What we will do and why 21 2. What we will do and why 21 2. The evidence base 21 2. ** (Reference: 1,2,3)
+S0016 The Government’s conclusion 22 2. Maintaining fairness in the longer term 24 2. Conclusion 25 2 State Pension age review 3. ** (Reference: 4,5)
+S0017 Support in Later Life 26 3. A universal State Pension age 26 3. Notice period and communications 27 3. Supporting people to save and work 29 3. Supporting people who can’t work 30 3. The next State Pension age review 31 3. Conclusion 31 Annex – Costs of proposed State Pension age timetable for the rise to 68 only 32 State Pension age review 3 ** (Reference: 1,2,3,4,5,6)
+Foreword by the Secretary of State for Work and Pensions
+S0018 Since the early 2000s it has been widely recognised that we face big questions as a society around how we ensure economic security for people in retirement, whilst maintaining fairness between generations.
+S0019 The Pensions Commission in 2005 found that a State Pension age fixed at 65 was no longer sustainable or affordable.
+S0020 Between 2007 and 2014 three separate Acts of Parliament were introduced, each one responding to changes in life expectancy by changing the State Pension age.
+S0021 In light of these changes, and projected continued increases in life expectancy, the Government recognised the need for a structured framework to provide clarity for future pensioners on what State Pension they could expect from the State and when, and assurance that the State Pension would remain affordable without forcing future taxpayers to shoulder a much greater burden than their predecessors.
+S0022 These elements were delivered through the Pensions Act 2014.
+S0023 This Act introduced the simpler new State Pension, so everyone knows what they will get from the State, and a framework for regular reviews of the State Pension age – in light of changes in life expectancy.
+Providing people with dignity and security in retirement
+S0024 I want Britain to be the best country in the world in which to grow old, where everyone enjoys the dignity and security they deserve in retirement.
+S0025 To achieve this, I believe we need to respond positively to rising longevity so we can deliver our objective of enabling people who have worked hard all their lives to have the retirement they aspire to.
+S0026 This report details our policy on one of the key building blocks in meeting that objective: setting the future State Pension age.
+S0027 As our society ages the costs of caring for older generations – pensions, pensioner benefits, health and social care – rise.
+S0028 The State Pension is paid for by working people through their National Insurance contributions.
+S0029 As the relative number of younger people is falling these costs increase, not just in total
+S0030 but also for individuals.
+S0031 So if we are to give older people the dignity they deserve and younger people the opportunities they deserve, we need to respond to these changes.
+Providing fairness across the generations
+S0032 We need to balance the costs of an ageing society across the generations.
+S0033 No grandparent wants to see their grandchildren worse off than they were.
+S0034 In 1948, when the modern State Pension was introduced, a 65-year-old could expect to live for a further 13½ years, or 23% of their adult life, assuming adult life starts at 20.
+S0035 In 1995, when the first changes were enacted to equalise State Pension age, a 65-year-old could expect to live for 18½ years, or 29% of their adult life.
+S0036 This had risen to around 21 years by 2007, or 32% of their adult life, when further legislation was introduced to increase State Pension age.
+S0037 Increased longevity is a triumph of improved health and better living standards.
+S0038 But an ageing population also presents us with some profound challenges.
+S0039 4 State Pension age review It means that if we are to be fair to our children and ensure our society continues to be able to care properly for older people, we need to ensure that people spend on average the same proportion of time over State Pension age.
+S0040 This is important – if we do this successfully the prize is ensuring prosperity and wellbeing for all in later life, and delivering sustainable public services that support this.
+S0041 This first Government review links the State Pension age to increasing life expectancy.
+S0042 In this way, current and future generations can expect to spend broadly the same proportion of their lives entitled to State Pension.
+S0043 This enduring link is fair and transparent.
+S0044 It is a notice of intent across the generations which will ensure the system remains affordable and sustainable.
+What we will do to ensure dignity and security in retirement
+S0045 The Government intends to follow the recommendation John Cridland made in his independent review to increase the State Pension age from 67 to 68 in 2037–39, bringing it forward by seven years from its current legislated date of 2044–46.
+S0046 This is the fair thing to do.
+S0047 It is also the responsible course of action.
+S0048 As John Cridland pointed out, between now and 2036/37, annual State Pension spending is set to rise by an extra 1% of GDP, from 5.2% to 6.2%.
+S0049 If that same rise in spending was faced today, this would be equivalent to a rise in taxation of £725 per household per year.
+S0050 While an ageing population means State Pension spending will rise under any of the possible timetables we have considered, the action we are taking reduces this rise by 0.4% of GDP in 2039/40, the equivalent to a saving of around £400 per household based on the number of households today.
+S0051 It will save £74 billion to 2045/46 when compared to current plans, and more than £250 billion to 2045/46 when compared with capping the rise in State Pension age at 66 in 2020.
+S0052 The alternatives for controlling costs of this magnitude would be to pay lower State Pensions, with an inevitable impact on pensioner poverty, or to ask the working generation to pay an ever larger share of their income to support pensioners.
+S0053 Our timetable achieves the right balance.
+S0054 Because life expectancy is increasing, people affected by this rise will be spending longer on average in receipt of the State Pension than people have spent over the age of 65 over the last 25 years, and on average will receive more in State Pension over their retirement than previous generations.
+S0055 In order to keep the State Pension sustainable and maintain fairness between generations in the future, the Government will aim for ‘up to 32%’ in the long run as the right proportion of adult life to spend in receipt of State Pension.
+S0056 A 32% timetable is consistent with the average proportion of adult life spent above State Pension age experienced by people over the last 25 years. ** (Reference: 1)
+To give people certainty so that they can plan for old age
+S0057 The Government is determined to achieve this change.
+S0058 In doing so it will ensure that people who are enjoying growing life expectancy have certainty about what State Pension they can expect from the State in retirement, when they can expect it, and the fact that the new State Pension provides a firm foundation on which to base decisions around saving for retirement.
+S0059 But this is a big decision with significant consequences.
+S0060 We will ensure that we have made the right choice by carrying out a further review before bringing forward the rise in State Pension age to 68, to enable consideration of the latest life expectancy projections and to allow us to evaluate the effects of current rises in State Pension age.
+S0061 State Pension age review 5 The Government recognises the need to provide certainty and transparency for future pensioners and this review provides a clear signal that the State Pension age will change.
+S0062 We will build on our communication strategies, making the most of digital technologies, to ensure we have a clear plan for communicating future changes to State Pension age, and to assist with wider financial and later life employment planning.
+S0063 We will also seek to provide a minimum of ten years’ notice for individuals affected by changes to their State Pension age.
+The wider picture
+S0064 Our policy on setting State Pension age is part of a broad programme of action designed to deliver security for older people.
+S0065 The Government has already made significant progress in improving outcomes for pensioners since 2010 by:
+S0066  introducing the triple lock;
+S0067  helping people save enough for retirement through Automatic Enrolment, so people can have the retirement they would like to achieve;
+S0068  reducing the complexity of the State Pension so that people can make informed decisions about whether, when and how much to save;
+S0069  maintaining the value of the contributory State Pension, by setting the full rate of the new State Pension above the basic level that can be received via the means test; and  supporting people to enjoy the benefits of fuller working lives, including the abolition of the statutory Default Retirement Age to ensure that people cannot be required to leave their jobs purely on grounds of age.
+S0070 The Government agrees with John Cridland that increases to the State Pension age timetable must form part of a wider system that enables older people to have fulfilling employment or self-employment, while also supporting those whose work prospects are limited or curtailed by disability, health conditions, or caring responsibilities.
+S0071 We will assess the possibilities for building on the current system of welfare support as we evaluate the operation and effects of both Universal Credit and the new State Pension, and the effects of future State Pension age increases already legislated for.
+S0072 In this context, we will also take account of the Government’s recent consultation on health and work.
+S0073 In respect of John Cridland’s specific recommendations, these, alongside other evidence, will form the basis of future consideration on how we manage the effects of rises in State Pension age.
+S0074 These policies mean that most people now have the opportunity to build a retirement income that suits their aspirations for later life.
+S0075 This is vitally important.
+S0076 More and more of us will reach State Pension age and will live on average up to a decade longer than our grandparents with every likelihood that our children and grandchildren will live longer than us.
+S0077 This creates a meaningful “third age” where people can live well because of the income they have built up over a lifetime.
+S0078 Our policy on State Pension age set out in this report is centred on the principle of fairness between the generations.
+S0079 But our overall objectives are rooted in a series of practical measures that encourages people to plan for their retirement, enables them to work for longer where they can, and supports those people who cannot work.
+S0080 This Government believes that everyone deserves dignity and security in retirement.
+S0081 I am confident our pensions strategy – the new State Pension, the State Pension age review framework, action on workplace pensions, and action in support of fuller working lives – will strengthen and sustain the UK’s pensions system for many decades to come.
+S0082 6 State Pension age review
+Executive summary
+S0083 This is the Secretary of State for Work and Pension’s report on the first Government review of State Pension age, as required under the Pensions Act 2014. ** (Reference: 2)
+S0084 The review is forward looking and focusses on the period after 2028.
+S0085 Rising life expectancy is a cause for celebration.
+S0086 The Government is determined to make sure that people can continue to enjoy growing life expectancy with certainty about what they can expect from the State in retirement, and with the assurance that a full new State Pension will provide a firm foundation on which to base decisions around saving for retirement.
+S0087 If current assumptions prove broadly right, after 2028 we will see:
+S0088  a higher proportion of the population surviving to State Pension age; and  people receiving more State Pension over their lifetime than generations before them. ** (Reference: 3,4)
+A fair and sustainable State Pension system
+S0089 It is vitally important for the future of the State Pension system that we take account of increasing life expectancy.
+S0090 In 1948, when the modern State Pension was introduced, a 65-year-old could expect to spend 13½ years, or 23%, of their adult life in receipt of the State Pension, assuming adult life starts at 20. In 1995, when the first changes were enacted to increase State Pension age, a 65-year-old could expect to live for 18½ years, or 29% of their adult life. ** (Reference: 5,6)
+S0091 This had risen to 21 years by 2007, or 32% of their adult life, when further legislation was introduced to increase State Pension age.
+S0092 This trend looks set to continue in the future.
+S0093 In addition, the significant increase in the population after the Second World War, which is the generation often referred to as the ‘baby boomers’ (born between 1945 and 1965), is now feeding through to an increase in the pensioner population.
+S0094 This will have a significant impact over the next 25 years because the number of people over State Pension age in the UK is expected to grow by one third, from 12.4 million to 16.9 million, whilst the proportion of the population which consists of working age people who support them will start to decrease. ** (Reference: 7)
+S0095 The old age dependency ratio, which shows the number of pensioners per thousand working age individuals, is projected to increase from 301 pensioners for every 1,000 people of working age in 2017, to 375 pensioners for every 1,000 people of working age by 2042. It is important to respond to these significant demographic changes because the National Insurance contributions of today’s working-age population provide for today’s State Pensions on a ‘pay as you go’ basis. ** (Reference: 8)
+S0096 The costs they face are set to rise: John Cridland’s independent report, which was commissioned State Pension age review 7 to inform this State Pension age review, sets out that by 2036/37 spending on the State Pension will increase by 1% of GDP, equivalent to £20bn in today’s terms. ** (Reference: 9)
+S0097 If the same rise in spending was faced today, this would be equivalent to a rise in taxation of £725 per household.
+S0098 So if we are to give older people the dignity we owe them and younger people the opportunities they deserve, we face some difficult decisions.
+S0099 The Government is committed to providing a fair and resilient State Pension system, which can withstand demographic fluctuations and which gives people security in retirement.
+S0100 To this end, in 2013 the Government proposed increasing the State Pension age to reflect changes in life expectancy, and the State Pension age review mechanism in the Pensions Act 2014 was introduced, requiring the Government to conduct periodic reviews of State Pension age arrangements. ** (Reference: 10)
+S0101 The Government set out the following principles underpinning the review:
+S0102  future changes to State Pension age will ensure that people can expect to spend on average “up to one third” of their adult life in receipt of the State Pension to reflect the experience of recent generations; and  the Government will seek to provide a minimum of 10 years’ notice for individuals affected by new changes to their State Pension age.
+S0103 While the costs of the State Pension and of ageing more broadly will continue to rise, this review process will help to ensure the system becomes more sustainable in a way that is fair across generations of pensioners and taxpayers.
+Recent changes to the pensions system
+S0104 The State Pension age review is part of a series of measures that Government has introduced since 2010 to improve outcomes for pensioners and place the UK pension system on a simpler and more sustainable footing:
+S0105  To ensure pensioner incomes are maintained, the triple lock increases for the basic and new State Pensions were introduced.
+S0106 
+S0107 The new State Pension is designed to provide a clearer foundation upon which individuals can save for a private pension.
+S0108 By 2030 over 80% of individuals reaching State Pension age will be receiving the full rate of the new State Pension.  ** (Reference: 11)
+S0109 The Government has also taken action to address some of the most pressing issues facing the pensions system, including: supporting older people to work for longer by abolishing the Default Retirement Age and introducing the right to request flexible working; and tackling under-saving for retirement by introducing Automatic Enrolment.
+S0110 We have witnessed gradual increases in life expectancy of the population at age 65 for over a century. The Government has already taken decisive action to improve the sustainability of the State Pension system for the period up to 2028, recognising the imperative to act quickly in the light of strong evidence that a changing demography and future life expectancy projections put increasing pressure on the system. ** (Reference: 12)
+S0111 We:
+S0112  accelerated the equalisation of women and men’s State Pension age by up to 18 months;
+S0113 8 State Pension age review  brought forward the increase from age 65 to age 66 by five and a half years (so it is completed by 2020); and  brought forward the increase in State Pension age from 66 to age 67 by eight years (now 2026 to 2028).
+S0114 In the past, the UK has been slow to fully take account of these increases, with the State Pension age remaining fixed at 65 for men and 60 for women until 2010.
+S0115 This meant that the period someone spent in work, as a proportion of their adult life, slowly decreased; at the same time, the proportion of adult life spent in receipt of the State Pension grew.
+S0116 As a result, in the last 10 years there have been changes to the State Pension age in three separate Acts of Parliament.
+S0117 Thanks to the action we have taken, the UK’s State Pension is now on a firmer footing, and the State Pension age review framework should maintain that position, through its greater responsiveness to changing life expectancy projections.
+S0118 It is evident that to ensure a more stable State Pension system in the future, there will need to be further changes to State Pension age, as life expectancy is projected to continue to rise.
+S0119 In twenty years’ time, life expectancy at age 65 is projected to have increased by a further two years for both men and women. ** (Reference: 13)
+The evidence base
+S0120 The Pensions Act 2014 requires the Government to commission two independent reports to inform the State Pension age review:
+S0121  analysis by the Government Actuary of future possible State Pension age timetables, calculated from the latest life expectancy projections and based on specified proportions of adult life that individuals in the future could expect to spend in receipt of State Pension; and  a report on wider factors relevant to the pensionable age as specified by the Government, such as variations in life expectancy.
+S0122 For the 2017 Review, this report was written by John Cridland CBE.
+S0123 The two reports were published on 23 March 2017. ** (Reference: 14)
+S0124 The Government is grateful for the analysis produced by the Government Actuary and John Cridland.
+The Government Actuary’s Report
+S0125 The Government Actuary’s report shows how State Pension age could change in order that individuals spend on average up to either 32.0% or 33.3% of their adult life in receipt of State Pension.
+S0126 Both timetables would bring the increase from age 67 to age 68 forward compared to current legislation.
+S0127 The report also highlights the considerable uncertainty in future life expectancy projections.
+S0128 The timetables are shown below.
+S0129 Calculated timetables under specified parameters and assumptions for State Pension age changes
+S0130 State Pension Age Changes: Current Legislation; 33.3% Scenario 32.0% Scenario.
+S0131 67 to 68 68 to 69 69 to 70: 2044–46 n/a n/a; 2039–41 2028–30 2053–55 2040–42 n/a 2054–56.
+S0132 State Pension age review 9
+John Cridland’s Report
+S0133 John Cridland made a number of recommendations relating specifically to State Pension age, including that:
+S0134  The State Pension age should continue to be universal across the UK, increasing over time to reflect improvements in life expectancy.
+S0135  The State Pension age should increase to age 68 between 2037 and 2039, at which point the proportion of adult life in receipt of State Pension would have reached roughly the average over the last decade.
+S0136 
+S0137 The pace of change should be steady and evenly spread across generations and on this basis State Pension age should not increase by more than one year in any 10-year period (assuming there are no exceptional changes to the data used).
+S0138  Individuals should get 10 years’ notice of any new changes to State Pension age to provide certainty for individuals and allow for ‘windows of stability’ where the impact of each change can be monitored and mitigations introduced if appropriate.
+S0139 The Government agrees with the strategy underpinning John Cridland’s timetable: to have a clear baseline and managed pace of change that will ensure adequate notice.
+The Government’s conclusions
+S0140 People are living longer.
+S0141 This is a good thing but we should not ignore the consequences.
+S0142 We need to respond to the realities of an ageing society, giving people security in old age, whilst making sure we are fair to younger generations.
+S0143 This Government will ensure that State Pension age reflects increases in life expectancy, while protecting each generation fairly.
+S0144 And increasing State Pension age will help to manage the fiscal challenge associated with an increasingly ageing society – a one year increase in State Pension age saves around 0.3% of GDP per year in State Pension expenditure, and the expectation is that increasing State Pension age would also lead to increased employment rates. ** (Reference: 15)
+S0145 If everyone worked for one year longer, it would add 1% to GDP. The Pensions Act 2014 provides that the State Pension age review must have “regard to life expectancy and other factors that the Secretary of State considers relevant”. ** (Reference: 16)
+S0146 For this review, the other factors we have considered are:
+S0147  Fairness between the generations: future generations of pensioners should spend on average broadly the same proportion of their adult life with entitlement to the State Pension as pensioners living now This ensures the State Pension remains above the basic level of the means test to give people security in their retirement whilst remaining affordable for the taxpayers of the future, in light of demographic changes and the costs of an ageing society.
+S0148  How the pace and notice of change can best provide a firm foundation for planning and saving in light of the uncertainty of future life expectancy: we are committed to supporting individuals to plan and save for the retirement that they want and to reduce the likelihood that back to back State Pension age rises will be needed in the future.
+S0149 We need to reconcile these factors.
+S0150 We have weighed them carefully and decided that this review can best balance them by following John Cridland’s recommendation and increasing the State Pension age from 67 to 68 in 2037–39, seven years earlier than its currently legislated date of 2044–46.
+S0151 There is a good case for earlier action on grounds of affordability and the evidence on the proportion of adult life spent in retirement.
+S0152 However, this needs to be balanced against John Cridland’s recommendations on 10 State Pension age review the pace of change.
+S0153 The Government agrees with John Cridland that future increases should be appropriately spaced; and does not therefore consider that a rise to 68 immediately after a rise to 67 is desirable, as would be required, for example, under the 32% timetable outlined in the Government Actuary’s report.
+S0154 An increase to 68 in 2037–39 would save £74bn by 2045/46 compared to the currently legislated State Pension age timetable. We will carry out a further review before legislating to bring forward the rise in State Pension age to 68, to enable consideration of the latest life expectancy projections and to allow us to evaluate the current rises in State Pension age. ** (Reference: 17)
+S0155 This is in line with John Cridland’s principles as he took account of both the 2012-based and 2014-based ONS life expectancy projections when making his recommendation on the timing of the increase to 68, in order to reflect these uncertainties.
+S0156 New life expectancy projections are published every two years and it makes sense to base the rise to age 68 on the most recent data, whilst allowing time for adequate notice.
+S0157 But under the 2037–39 timetable, everyone born on or before 5th April 1970 will see no change to their State Pension age.
+Maintaining fairness in the longer term
+S0158 As has been shown in recent decades, life expectancy projections are uncertain, and more so over longer projection periods.
+S0159 Given this uncertainty, and the fact that there will be at least three further State Pension age reviews before the transition to age 68 begins, we do not intend to formalise policy beyond 2037–39 at this stage.
+S0160 However, in the long run, the Government is minded to commit to ‘up to 32%’ as the right proportion of adult life to spend in receipt of State Pension.
+S0161 This is because:
+S0162  The State Pension age timetable resulting from a 32% scenario is consistent with the average proportion of adult life spent above State Pension age experienced by people reaching State Pension age over the last 25 years; and  ** (Reference: 18)
+S0163 It will provide a firm foundation for planning and saving, by maintaining the value of the State Pension at a level that provides people with security in retirement but ensures that it remains affordable for future taxpayers.
+S0164 Under a 32% scenario, as people live longer, the average amount of time they spend in retirement will increase.
+S0165 We should be clear that the next rise will not bring us to our preferred proportion.
+S0166 But if we are to ensure that the State Pension remains affordable for taxpayers of the future, subsequent reviews will need to consider carefully when it can be reached.
+S0167 Demographic change is a key long-term pressure on the public finances and it is important that we are realistic when setting the longer term timetable, so that we can give future pensioners the reassurance that the State Pension will remain above the basic level of the means test.
+Support in later life
+S0168 The Government is clear that rises in the State Pension age must be part of a wider package that encourages people to plan for their retirement, enables people to work for longer where they can, and supports people who cannot work.
+S0169 The Government recognises the need to provide certainty and transparency for future pensioners.
+S0170 In addition to seeking to provide adequate notice for individuals affected by new changes to their State Pension age, we agree with John Cridland that the Government must have a clear strategy for communicating future changes to State Pension age, and to assist with wider financial and later life employment planning.
+S0171 State Pension age review 11
+S0172 The Government believes a communications strategy could:
+S0173  deliver messages about changes in State Pension age through a range of communication mechanisms, taking advantage of emerging technologies in the coming years;
+S0174  encourage individuals to find out and review regularly their own personalised State Pension position – for instance by using the online Check your State Pension service;
+S0175  encourage greater engagement in pensions and financial planning for later life by supporting new developments such as the Pensions Dashboard, wider digital delivery and the creation of a single financial guidance body; and  make extensive use of stakeholders’ communications channels, plus wider digital and conventional media, to raise and ensure continuing awareness of any changes in State Pension age.
+S0176 The Government agrees with John Cridland that increases to the State Pension age timetable must form part of a wider system that supports people in employment or self-employment, while also supporting those whose work prospects are limited or curtailed by disability, health conditions, or caring responsibilities.
+S0177 We are reviewing long term carers’ ability to take leave and will set out our plans in due course.
+S0178 We will assess the other possibilities for building on the current system of welfare support as we evaluate the operation and effects of both Universal Credit and the new State Pension, and the effects of future State Pension age increases already legislated for.
+S0179 In this context, we will also take account of the Government’s recent consultation on health and work.
+S0180 In respect of John Cridland’s specific recommendations, these, alongside other evidence, will form the basis of future consideration on how we manage the effects of rises in State Pension age.
+Conclusion
+S0181 This report explains that the Government has decided to raise State Pension age on a regular, planned basis in the future, because we are all living longer and we need to keep the State Pension sustainable whilst maintaining it above the basic level of the means test.
+S0182 We plan to do this by maintaining a given proportion of time in receipt of State Pension as life expectancy increases in line with experience over the last 20 to 30 years.
+S0183 Carrying through the plan for State Pension age outlined above means:
+S0184  we will have a resilient system that is sensitive to changes in life expectancy while maintaining the value of the State Pension at a level above the basic level of the means test;
+S0185  we will have clarity and certainty, and people can plan their finances in later life on the solid basis of knowing, some way from State Pension age, what they will get and when they will get it; and  based on current projections, a greater number of people are predicted to reach State Pension age in the future than today, and they will receive more State Pension over their lifetime than previous generations before them.
+S0186 12 State Pension age review
+1. Setting the context
+1.1 Introduction
+S0187 All pension systems need entitlement rules – how contributions count and cost; who is covered and who is excluded; how much pension income people build; and, for state pensions, where the National Insurance contributions of today’s working-age population provide for today’s State Pension on a ‘pay as you go’ basis, what is the long-term strategic objective.
+S0188 Pension systems by their nature also need a minimum qualifying age.
+S0189 In terms of the State Pension, which in different forms has been in existence for over a century, almost all of the policy focus has been on the other entitlement rules and hardly any on State Pension age.
+S0190 So while we now have a State Pension with a very clear objective – to provide an effective foundation for private saving – policies on State Pension age have until recently been indistinct.
+S0191 The link to increasing life expectancy means State Pension age policy now has a clear rationale.
+S0192 It gives certainty to those who fund the State Pension today that broadly the same State Pension deal will be in place for them as is in place for current pensioners.
+S0193 The main alternative would be to disregard increases in life expectancy and leave State Pension age unchanged but reduce the value of the new State Pension.
+S0194 All other things being equal this would increase pensioner poverty and mean that people could see their hard earned savings caught up in the basic Pension Credit means test.
+S0195 This is the opposite of where we need to be.
+S0196 This chapter explains how the Government’s approach to State Pension age has evolved since the modern State Pension was first created in the 1940s.
+S0197 It also covers how the link to longevity as a measure and the review framework set out in the Pensions Act 2014 provide a delivery mechanism for what is now a long-term strategy for State Pension age policy; the impact of other factors, such as demographic change, on sustainability; and summarises the Government’s overall pension strategy.
+1.2 Legislative and historical context
+S0198 The starting point is the considerable recent improvements in life expectancy.
+S0199 In the fifty years between 1940 and 1990 average life expectancy at age 65 had improved by five years for women and by almost four years for men. ** (Reference: 19)
+S0200 Alongside these increases in life expectancy there has been a significant change in the demographic make-up of the UK population.
+S0201 Increasing life expectancy and the ‘baby boomer’ generation reaching retirement means that more people will be entitled to their State Pension for a longer period.
+S0202 The ‘pay as you go’ system for financing the State Pension means that these structural demographic changes have to be taken into account.
+S0203 Despite these increases in life expectancy, the policy on State Pension age remained unchanged between 1940 (when women’s pension age in the pre-1948 system was reduced to age 60 from 65) and the Pensions Act 1995.
+S0204 The changes introduced by this Act addressed the inequality between men’s and women’s State Pension ages.
+S0205 The 1995 Act specified how women’s State Pension age would be increased to age 65 between 2010 and 2020.
+S0206 State Pension age review 13 Further changes were recommended by the Pensions Commission in 2005 as it became clear that a State Pension age fixed at age 65 was not affordable or sustainable.
+S0207 They recommended that in the future State Pension age should increase in line with life expectancy and also recommended the introduction of a State Pension age timetable that reflected this. Following those recommendations, the Pensions Act 2007 introduced an increase in State Pension age to ages 66, 67 and 68, starting from 2024, 2034 and 2044 respectively. ** (Reference: 20)
+S0208 In light of substantial improvements in life expectancy in the 1990s and 2000s, the then Government identified the need to accelerate increases in State Pension age further in the Pensions Act 2011 and 2014.
+S0209 These changes set the current timetable:
+S0210  Equalisation at 65 being achieved by November 2018 (brought forward in the Pensions Act 2011 by 18 months, compared to the previous timetable).
+S0211  Increase to age 66 from December 2018 – October 2020 (brought forward in the Pensions Act 2011 by five and a half years, compared to the previous timetable).
+S0212  Increase to age 67 from April 2026 – April 2028 (brought forward in the Pensions Act 2014 by eight years, compared to the previous timetable).
+S0213  Increase to age 68 from April 2044 – April 2046 (remains as set out in the Pensions Act 2007).
+S0214 Setting aside the need to equalise State Pension age for men and women it will have taken until December 2018, over 70 years since the modern State Pension system was introduced, to take the first step in changing State Pension age to reflect increases in life expectancy.
+S0215 In contrast, over the last decade three Pensions Acts were introduced in quick succession, which deal with record increases in life expectancy for men and women.
+S0216 The original timetable set out in the Pensions Act 2007, where the increase to age 66 was due to take effect between 2024 and 2026, could no longer ensure that the costs of the State Pension system remained manageable in light of continuing rises in life expectancy.
+S0217 The Coalition Government therefore took immediate action to accelerate the increase in State Pension age to age 66 by 2020, in the Pensions Act 2011, and to age 67 by 2028, in the Pensions Act 2014, to offset the impact of increasing life expectancy that had built up over several decades.
+S0218 This approach, where the changing demographics of the UK were not acted on for many years and then a rapid response was needed to remedy this, has led to people spending very significant proportions of their adult lives over State Pension age – for example, in 2009, women with a State Pension age of 60 were projected to spend an additional 27.6 years above this, equating to 41% of their adult lives. In light of this and the continuing increases in life expectancy, Government recognised the need for a structured framework to lock State Pension age into a coherent strategy for the whole of the pensions system. ** (Reference: 21)
+S0219 This was delivered through the Pensions Act 2014.
+S0220 This introduced a framework for regular reviews of State Pension age.
+S0221 The 2014 Act requires the Government to conduct periodic reviews of State Pension age.
+S0222 This document is the report of the first Government State Pension age review.
+S0223 14 State Pension age review
+1.3 Purpose of the State Pension age review
+S0224 The periodic review provides the Government with an opportunity to consider whether the rules relating to State Pension age are appropriate in light of changes in life expectancy.
+S0225 This includes considering whether the rules on State Pension age mean that, on average, a person who reaches that age can expect to spend a specified proportion of their adult life in receipt of the State Pension.
+S0226 The purpose of the review is to consider the evidence on whether the State Pension age rules are appropriate.
+S0227 If this is not the case, the review can put forward ways in which the rules can be changed to attain that result.
+S0228 Prior to the Pensions Act 2014, elements of the approach the Government has adopted for this review were outlined in the White Paper ‘The single-tier pension: a simple foundation for saving’, published in January 2013, which set out the framework for considering changes to State Pension age in the future, as follows: ** (Reference: 22)
+S0229  it should be based on maintaining a given proportion of adult life in receipt of
+S0230 State Pension;  it should take into account the latest demographic data available and be informed by wider factors that could be taken into account when setting State Pension age; and  it should seek to provide a minimum of 10 years’ notice for individuals affected by changes to State Pension age. ** (Reference: 23)
+S0231 The White Paper said that “A more structured framework will help to ensure the costs of increasing longevity are shared fairly between the generations, and provide greater clarity around how State Pension age will change in future”.
+S0232 The scope of the review was further clarified by the Government in the Autumn Statement 2013 by introducing a guiding principle that people should expect to spend, on average, “up to one third” of their adult life in receipt of the State Pension. ** (Reference: 24)
+S0233 The State Pension age review framework will take account of the impact of increasing life expectancy on those contributing to the State Pension and those receiving it.
+S0234 The objective is a stable and transparent State Pension age policy that is underpinned by a longevity link that is fair and sustainable in the long term. ** (Reference: 25)
+S0235 Further changes to the State Pension age require primary legislation and as such would be subject to full scrutiny by Parliament.
+S0236 State Pension age review 15
+1.4 Supporting evidence
+S0237 To inform the Government review and ensure that it is based on the most recent data, the Pensions Act 2014 requires the Government to commission both a report by the Government Actuary and a report by an Independent Reviewer.
+S0238 The Government Actuary’s report provides indicative timetables on when State Pension age should rise to take account of projected increases in life expectancy.
+S0239 For this review the Government commissioned two timetables (for further details see section 2.2), both reflecting the principle that an individual should spend on average “up to one third” of their adult life over State Pension age.
+S0240 The period of time covered by the timetables is 2028 to 2064.
+S0241 John Cridland, Chair of the Board of Transport for the North and former Director General of the Confederation of British Industry, was appointed as the Independent Reviewer and commissioned to produce the Independent Report on wider factors relevant to the pensionable age, taking account of fairness, affordability and fuller working lives.
+S0242 The Government specified that the report should be forward looking, focussing on the period beyond 2028.
+S0243 The Government Actuary’s report and the Independent Report were published on 23 March 2017.
+S0244 Both reports were laid before Parliament and have been carefully considered as part of the present report.
+1.5 Demographic change and impact on sustainability
+S0245 Life expectancy at birth has been increasing since records began in the 1840s, and we have witnessed gradual increases in the life expectancy of the population at age 65 for over a century. ** (Reference: 26)
+S0246 With the State Pension age remaining stable at 65 for men and 60 for women until 2010, these increases meant that the period someone spent in work, as a proportion of their adult life, slowly decreased; at the same time, the proportion of adult life spent in receipt of the State Pension grew.
+S0247 Without further changes to State Pension age, this trend will continue in the future as life expectancy is projected to continue to rise.
+S0248 In twenty years’ time, life expectancy at age 65 is projected to have increased by a further two years for both men and women.
+S0249 Box 1.1 below summarises some key figures on life expectancy, and figure 1.1 shows how life expectancy at age 65 has increased over time and how it is expected to continue to increase in the future.
+S0250 16 State Pension age review Box 1.1: Life expectancy and an ageing population Life expectancy is increasing – at birth and at older ages:
+S0251  A girl born in 1951 was expected to live to 82.4 and a boy to 77.8.
+S0252 By 2017 these figures had increased by over 11 years for newly born girls and by almost 13 years for boys, to 93.6 and 90.8.
+S0253 By 2064 the figures are expected to rise by more than 6 years for both genders, an increase of a little over one year every 8 years.*
+S0254  Life expectancy at older ages is also increasing.
+S0255 In 2017 a 65-year-old woman is expected to live for a further 23.8 years, whilst a man of the same age can expect to live for a further 21.6 years.
+S0256 These figures are 8 years higher than in 1951 for women and 9 years higher for men.
+S0257 Future years are projected to see improvements of a little over one year each decade for both genders.* … which is leading to a growing older population:
+S0258 
+S0259 The number of people over State Pension age in the UK is expected to grow by one third over a 25 year period from 2017 to 2042, from 12.4 million to 16.9 million.
+S0260 ** 
+S0261 The old age dependency ratio is projected to increase substantially over the coming decades – from 301 pensioners for every 1,000 people of working age in 2017, to 375 pensioners for every 1,000 people of working age by 2042.
+S0262 ** … and this is particularly noticeable at the ‘oldest’ ages:
+S0263 
+S0264 In 2015 almost 6,000 people in the UK turned 100, compared to 3,000 people in 2002*** when the Office for National Statistics began collecting information on centenarians.
+S0265 By 2032 there will be three times as many people aged 100 and over as there are now.
+S0266 **** State Pension age review 17 Figure 1.1:
+S0267 Cohort life expectancy at age 65, in years, UK, 1951–2064 ** (Reference: 27)
+S0268 The life expectancy increases described above have meant that over the last thirty years, the proportion of adult life people are expected to spend over age 65 has steadily increased, as shown in Figure 1.2.
+S0269 Figure 1.2:
+S0270 Proportion of adult life over 65, UK, 1981–2017 ** (Reference: 28)
+S0271 In addition to increases in life expectancy, which are contributing to an ageing population, other demographic characteristics are at play in determining the future number of pensioners as a proportion of the overall population.
+S0272 The old age dependency ratio illustrates the number of pensioners per thousand working age individuals.
+S0273 Changes in the old age dependency ratio over time can give an indication of any significant changes in 18 State Pension age review the structure of the population in terms of the ratio of numbers of people over State Pension age, who will be receiving State Pension, to those under State Pension age, who will be supporting them.
+S0274 Figure 1.3 shows how previous increases in the State Pension age have helped to keep the State Pension system on a more sustainable footing in terms of the old age dependency ratio.
+S0275 Increasing the female State Pension age to age 65 between 2010 and 2018, and increasing the State Pension age for both genders to age 66 by 2020 and age 67 by 2028, will result in the old age dependency ratio being around the same in 2028 as it was in 1990.
+S0276 However, beyond 2030 the old age dependency ratio rises considerably to levels never seen before, driven by the large cohorts born in the 1960s reaching State Pension age, and not being replaced by similarly large cohorts entering the working age population from childhood.
+S0277 By 2042, there will be 375 pensioners for every thousand working age people, an increase in pensioners of one quarter compared to the figure of 301 today.
+S0278 Figure 1.3: Old Age Dependency Ratio, UK, 1990–2064 ** (Reference: 29)
+S0279 The demographic shift described above means that we will need to spend more on the State Pension in decades to come.
+S0280 John Cridland pointed out that, the latest Office for Budget Responsibility (OBR) principal spending projections show that, between now and 2036/37 alone, annual State Pension spending is set to rise by an extra 1% of GDP, which is approximately £20bn in today’s terms, and if the same rise in spending was faced today, it would be equivalent to a rise in taxation of £725 per household. ** (Reference: 30)
+S0281 The natural population increase as the ‘baby boomers’ reach State Pension age alongside increasing life expectancy for those reaching State Pension age are the main contributing factors to increasing expenditure in the coming decades.
+S0282 Costs are also projected to increase as the value of the State Pension rises faster than earnings.
+S0283 State Pension age review 19 to 7.6% of GDP by 2066/67 under the currently legislated State Pension age timetable, or to 7.1% of GDP under the 33.3% longevity link assumed in the latest Fiscal Sustainability Report from the Office for Budget Responsibility. Figure 1.4: ** (Reference: 31)
+S0284 State Pension expenditure as % GDP, UK, 2016/17–2066/67 ** (Reference: 32)
+S0285 However, it is also important to note that these societal changes do not only affect the affordability of the pension system.
+S0286 An ageing population also has a considerable impact on the wider demand for public services and social security, in particular health and social care.
+S0287 In their latest Fiscal Sustainability Report the Office for Budget Responsibility project that total age related expenditure, if left unaddressed, will increase by 7.9% of GDP between 2021/22 and 2066/67.
+S0288 This is driven by a 5.7% of GDP increase in health spending, combined with a 0.9% of GDP increase in long-term care spending, and a 2.1% of GDP increase in State Pension spending.
+S0289 These spending pressures will present difficult decisions, if the country is to maintain sustainable public finances and prevent a rising burden of debt being passed onto future generations.
+1.6 The Government’s pension strategy
+S0290 The State Pension age review is part of a strategy that the Government has introduced since 2010 to improve outcomes for pensioners and place the UK pension system on a simpler and more sustainable footing:
+S0291  Supporting people to enjoy the benefits of fuller working lives by abolishing the statutory Default Retirement Age to ensure that people cannot be required to leave their jobs purely on grounds of age; introducing the right to request flexible working so that people can combine paid work with caring responsibilities, adjust to health conditions, or ease into retirement without facing a cliff edge; introducing pension flexibilities to help people plan for a graduated retirement; and embarking on a Fuller Working Lives Strategy in partnership with employers to promote retention, retraining and recruitment of older workers.
+S0292 20 State Pension age review  Highlighting the benefits of longer work.
+S0293 For those who can work longer, doing so brings benefits both for individuals and the economy.
+S0294 For individuals, the right work can boost health and wellbeing in later life as well as increasing subsequent retirement income.
+S0295 There are also significant advantages for the overall economy.
+S0296 As an example, GDP could be 1% higher per year if everyone worked one year longer (which is equivalent to £20bn today).
+S0297 There is evidence that State Pension age increases are having a direct and positive impact on employment rates: employment rates for women aged 60 and 61 increased by 6.3 percentage points when the State Pension age was increased from age 60 to 62 as part of the equalisation of women’s State Pension age.  ** (Reference: 33)
+S0298 Helping people save enough for retirement, so people can have the retirement they would like to achieve.
+S0299 The introduction of Automatic Enrolment from October 2012 extends to millions the opportunity of workplace pension saving – with the National Employment Savings Trust (NEST) playing a key role in ensuring that employers have access to a good quality, low-cost scheme.
+S0300 It is estimated that around 10 million people will be newly saving or saving more by the end of its staged roll out in 2018.
+S0301 It has already reversed the decline in private pension saving seen in the decade prior to its introduction and it is estimated that it will result in an additional £17bn private pension saving per year by 2019/20. ** (Reference: 34)
+S0302 The Department is undertaking a review of Automatic Enrolment.
+S0303 This review is focused on how to ensure that Automatic Enrolment continues to meet the needs of individuals saving for their retirement in the future.
+S0304 As part of the review we are looking at those not already benefitting from Automatic Enrolment.
+S0305 This includes how the growing and diverse group of self-employed people can be supported to save for a more secure retirement.
+S0306  Reducing complexity, so that people can make informed decisions about whether, when and how much to save.
+S0307 April 2016 saw the introduction of the new State Pension, which replaced the complex two tiered system that had been in place in different forms since the 1960s.
+S0308 The new State Pension gives younger people a clear idea of what their State Pension will be worth when they retire (the full rate is around £8,300 a year in 2017–18), to ensure that people of working age have a solid foundation for saving.
+S0309  Maintaining the value of the State Pension, by setting the full rate of the new State Pension above the basic level of the means test.
+S0310 By 2030 over 80% of those reaching State Pension age will be entitled to at least the full rate of the new State Pension.
+S0311 We are confident that the new State Pension, the State Pension age review framework, workplace pensions through Automatic Enrolment, and development of policies and action in support of fuller working lives, will provide for a coherent strategy that will strengthen the UK’s pensions’ system for many decades to come.
+S0312 This report is an important part of that strategy.
+S0313 In the next chapter we set out more detail about the findings of the review, and how it will contribute to achieving our aims of:
+S0314  fairness between generations of pensioners and taxpayers; and  providing a firm foundation for planning and saving in light of uncertainty over future life expectancy.
+S0315 State Pension age review 21
+2. What we will do and why
+2.1 What we will do and why
+S0316 Rising life expectancy is a cause for celebration.
+S0317 The challenge for Government is delivering a sustainable State Pension which underpins private savings so that people can enjoy a longer life in retirement on an income that suits their aspirations.
+S0318 If current assumptions prove broadly right, this review should ensure that, from 2028 we will see:
+S0319  a higher proportion of the population surviving to the State Pension age; and  people receiving more State Pension over their lifetime than generations before them.
+S0320 In this chapter we reflect on the findings of the Government Actuary and John Cridland; and we set out how we propose to balance our key considerations of fairness between the generations and how the pace and notice of change can best provide a firm foundation for planning and saving in light of the uncertainty of future life expectancy.
+2.2 The evidence base
+S0321 At the Autumn Statement 2013, the Government specified that people should spend, on average, “up to one third” of their adult life over State Pension age.
+S0322 This principle will ensure that the State Pension system remains sustainable and fair across the generations.
+S0323 The Government Actuary’s and John Cridland’s reports set out a range of choices as to how that principle might be reflected in future State Pension age timetables.
+2.2.1 Supporting evidence
+S0324 The Government commissioned the Government Actuary to model two State Pension age timetables with average proportions of adult life spent over State Pension age of up to 32.0% and up to 33.3%, with adult life beginning at age 20. ** (Reference: 35)
+S0325 Both scenarios satisfy the “up to one third” principle, thereby factoring in intergenerational experiences:
+S0326  32.0% reflects the average proportion of adult life people reaching the age of 65 over the last 20 years (1997 – 2016) were expected to spend in receipt of the State Pension; and  33.3% is the maximum proportion possible under the “up to one third” principle (and recent Office for Budget Responsibility forecasts have assumed a timetable consistent with this scenario).
+S0327 The Government Actuary’s report produced the following timetables in relation to the two scenarios.
+S0328 Figure 2.1: Calculated State Pension age timetables
+S0329 State Pension Age Changes: Current Legislation; 33.3% Scenario 32.0% Scenario.
+S0330 67 to 68 68 to 69 69 to 70: 2044–46 n/a n/a; 2039–41 2028–30 2053–55 2040–42 n/a 2054–56.
+S0331 22 State Pension age review John Cridland’s report considered what a fair and affordable State Pension age is and recommended the following timetable:
+S0332  State Pension age should increase to age 68 over the two year period 2037–39, at which point the proportion of adult life in receipt of State Pension would have reached roughly the average over the last decade; and  that any changes beyond age 68 should not be implemented for at least a decade after the rise to age 68 has started; and that there should be at least a decade between all subsequent increases. ** (Reference: 36)
+S0333 John Cridland recognised the economic and social imperative to further increase the State Pension age in the medium and long term future and the rationale for his timetable is contained in Box 2.1.
+S0334 Box 2. Rationale for John Cridland’s Proposal Setting State Pension age is a balance between three principles: ** (Reference: 1)
+S0335 
+S0336 The proportion of adult life spent with entitlement to State Pension.
+S0337  Notice of change – ten years’ notice allows for greater certainty for individuals and allows for “windows of stability” where the impact of each change can be monitored and mitigations introduced if appropriate.
+S0338 
+S0339 The pace of change – the pace of change should be steady to maintain balance.
+S0340 An increase in State Pension age of one year in every ten is appropriate based on current estimates of life expectancy.
+S0341 This approach creates a gap of 11 years between the completion of age 67 to age 68 and 10 years between age 68 and age 69.
+2.3 The Government’s conclusion
+S0342 Both the Independent Review and the Government Actuary’s reports show that unless the State Pension age rises to take account of increases in life expectancy, the proportion of adult life spent in receipt of the State Pension will continue to increase.
+S0343 The Government agrees that increasing State Pension age is necessary, as people are living longer and if left unaddressed, State Pension spending will become unsustainable.
+S0344 In reaching its conclusions on the timing of the rise, the Government has carefully considered the broader factors outlined in the independent reports and has concluded that it must take account of the following key considerations:
+S0345  Fairness between the generations: future generations of pensioners should spend on average broadly the same proportion of their adult life with entitlement to the State Pension as pensioners living now.
+S0346 This ensures the State Pension remains above the basic level of the means test to give people security in their retirement whilst remaining affordable for the taxpayers of the future, in light of demographic changes and the costs of an ageing society.
+S0347  How the pace and notice of change can best provide a firm foundation for planning and saving in light of the uncertainty of future life expectancy: we are committed to supporting individuals to plan and save for the retirement that they want and to reducing the likelihood that back to back rises are needed in the future.
+S0348 This Government will ensure that State Pension age reflects increases in life expectancy, while protecting each generation fairly.
+S0349 If we are to control State Pension spend, the alternative is to pay lower pensions, but we have discounted this option as it would increase pensioner poverty.
+S0350 By increasing State Pension age in line with life expectancy we can protect each generation fairly and provide a State Pension that remains sustainable in the long term.
+S0351 A one year increase in State Pension age saves State Pension age review 23 around 0.3% of GDP per year, and increases in State Pension age should also lead to increased employment rates.
+S0352 If everyone worked for one year longer, it would add 1% to GDP.
+S0353 These factors are sometimes in tension, but we have weighed them carefully and given the speed of rises in recent years we have decided that they are best balanced by following John Cridland’s recommendation and increasing the State Pension age to age 68 over the period 2037–2039.
+S0354 We will carry out a further review before legislating to bring forward the rise in State Pension age to 68, to enable consideration of the latest life expectancy projections.
+S0355 This is because recent decades have shown that life expectancy projections are uncertain, and more so over longer projection periods.
+S0356 John Cridland took account of both the 2012-based and 2014-based ONS life expectancy projections when making his recommendation on the timing of the increase to 68, in order to reflect these uncertainties.
+S0357 New life expectancy projections are published every two years and it makes sense to base the rise to age 68 on the most recent data, whilst allowing time for adequate notice.
+S0358 The rest of this section describes the key factors that the Government has considered in reaching this conclusion in more detail.
+2.3.1 Fairness between the generations
+S0359 Ensuring the system is more sustainable for the taxpayers of the future whilst ensuring dignity and security in retirement John Cridland’s independent report clearly demonstrates how moving slowly on State Pension age increases might further accentuate fiscal pressures brought about by the increased costs of an ageing society, which extend beyond the State Pension – described in chapter 1.
+S0360 State Pension age expenditure will increase under all the potential timetables we have considered, but to different degrees.
+S0361 While an ageing population means State Pension spending will rise under any of the possible timetables we have considered, the action we are taking reduces this rise by 0.4% of GDP in 2039/40, the equivalent to a saving of around £400 per household based on the number of households today. The Government’s recommended timetable for the increase in State Pension age to 68 would save £74bn by 2045/46 compared to the currently legislated timetable (see Annex) – but overall this still involves a substantial rise in spending on the State Pension. ** (Reference: 37)
+S0362 The overall evidence available to this review on costs suggests that after the rise to 68 the proportion of adult life in retirement should stabilise at ‘up to 32%’ to ensure the system is more sustainable for the future, especially given the Government’s determination to keep the new State Pension above the level of the basic means test.
+S0363 We will carry out a further review before legislating to bring forward the rise in State Pension age to 68, to enable consideration of the latest life expectancy projections and to allow us to evaluate the effects of current rises in State Pension age.
+S0364 Spreading the rises across the generations The Government agrees with John Cridland that it is important to take account of the pace of change, by ensuring that changes to State Pension age are appropriately spaced.
+S0365 The increase to age 67 will complete between 2026–2028; and if the change to age 68 were to come immediately after that, as would be required, for example, under the 32.0% timetable outlined in the Government Actuary’s report, it would place the burden of a further State Pension age rise on the same later cohorts of ‘baby boomers’, who have already seen their State Pension age rise three times in quick succession.
+S0366 This timetable will allow for evaluation of the increases in State Pension age to 66 and 67, which will inform support mechanisms required for future increases.
+S0367 Under the 2037–39 timetable, everyone born on or before 5th April 1970 will see no change to their State Pension age.
+S0368 24 State Pension age review
+2.3.2 Providing a firm foundation for planning and saving in light of uncertainty
+S0369 The Government agrees with John Cridland that individuals should have sufficient warning of State Pension age changes, to facilitate effective retirement planning.
+S0370 In the past, the UK has been slow in taking action to address the issue of life expectancy increases, thus leading to frequent State Pension age increases in the last few years.
+S0371 We want to prevent this from happening again in the future but recognise how sensitive State Pension age decisions are to changes in life expectancy.
+S0372 For example, in his report the Government Actuary states that using the 2012-based Office for National Statistics (ONS) population projections rather than the 2014-based projections would have the effect of bringing the increase in State Pension age to age 68 forward by 5 years based on a timetable where people spend on average up to 33.3% of adult life in retirement.
+S0373 Setting a State Pension age change which gives people the required amount of notice for sensible financial planning and saving means that life expectancy projections could change over the course of that notice.
+S0374 This creates a risk that taxpayers will have to pick up the costs if life expectancy increases faster than expected or that State Pension age would need to change again with less notice.
+S0375 As mentioned above, we do not intend to legislate for the increase in State Pension age to 68 until a further State Pension age review has taken place, to enable consideration of future life expectancy projections and to allow us to evaluate the current rises in State Pension age.
+S0376 In addition to suitable notice, we also believe our proposed timetable allows us to retain the State Pension at a level above the basic means test.
+S0377 This is vital to the overall strategy of ensuring people have confidence in the value of private pension saving.
+2.4 Maintaining fairness in the longer term
+S0378 Aiming for comparable experiences across the generations The core principle set out at Autumn Statement 2013 is that the State Pension age should increase with life expectancy so that people spend “up to one third” of their adult lives above State Pension age.
+S0379 Underlying this principle is the desire to provide a similar experience to those reaching State Pension age in the future as to those in the past, so that everyone gets a similar deal.
+S0380 It seeks to avoid a situation where a generation fortunate enough to experience particularly significant increases in life expectancy spends a much larger proportion of their lives over State Pension age than others.
+S0381 To best achieve this, this review has in view a 32% scenario for the longer term, as a longevity link based on the 32% principle is consistent with the average proportion of adult life spent above State Pension age experienced by people reaching State Pension age over the last 25 years; and 20–30 years is the classic view of a ‘generation’. ** (Reference: 38)
+S0382 Under a 32% scenario, as people live longer, the average amount of time they spend in retirement will increase.
+S0383 Using the 32% proportion of adult life over State Pension age as our longer term bench mark also balances the need to maintain an affordable State Pension against the need to give people clarity about what they can expect from the State, security in retirement, and confidence in the value of private pension saving.
+S0384 For this reason, we do not support John Cridland’s proposal to commit to only one year’s rise every ten years as this would limit the Government’s ability to respond to future changes in life expectancy; and goes too far in removing the link between when we change State Pension age and the proportion of life people can expect to spend in receipt of State Pension.
+S0385 State Pension age review 25 We should be clear that the next rise will not bring us to 32%.
+S0386 But if we are to ensure that the State Pension remains affordable for taxpayers of the future, subsequent reviews will need to consider carefully when it can be reached.
+2.5 Conclusion
+S0387 In summary this change more fairly balances the need to help maintain the affordability of the State Pension and the proportion of adult life spent in retirement across the generations on the one hand, with the need to minimise the number of rises one generation experiences in quick succession on the other.
+S0388 The key considerations are as follows:
+S0389  Fairness between generations of pensioners and taxpayers.
+S0390 
+S0391 The principles set by John Cridland regarding the pace of change, as the increases in State Pension age to 67 and 68 are spread out, and it creates a ‘window of stability’ providing time to evaluate the increase in State Pension age to 66.
+S0392  By controlling the increases in pension expenditure driven by increasing life expectancy and the demographic make-up of the UK, this proposal improves the sustainability of the State Pension, reducing the total expenditure by over £70bn by 2046.
+S0393  In the longer term the average proportion of adult life that new pensioners would be expected to spend over State Pension age would be broadly equivalent to the average experience of those reaching State Pension age over the past 25 years.  ** (Reference: 39)
+S0394 The need to provide a firm foundation for planning and saving in light of uncertainty.
+S0395 It will be possible to give adequate notice to people affected that they will retire on a new State Pension set above the basic level of the means test.
+S0396 As has been shown in recent decades, life expectancy projections are uncertain, and particularly over longer projection horizons.
+S0397 Given this uncertainty, the Government agrees with John Cridland that it is too early to set a formal timetable beyond age 68 at this stage.
+S0398 The Pensions Act 2014 provides a mechanism to ensure regular reviews of State Pension age so that changes are smooth, predictable and well-flagged in advance.
+S0399 The next review, which will conclude by 2023, will consider whether rises beyond 68 are needed and when.
+S0400 However, the Government believes that setting some parameters for the future is important for individuals and for Government planning.
+S0401 In the long run, the Government is minded to commit to ‘up to 32%’ as the right proportion of adult life spent in receipt of State Pension.
+S0402 Given what we already know about the costs of an ageing population, this seems the option which best enables the Government to plan future State Pension age rises with sufficient assurance that they should be deliverable in line with the principles of clarity and certainty we have committed ourselves to.
+S0403 We will carry out a further review before legislating to bring forward the rise in State Pension age to 68, to enable consideration of the latest life expectancy projections and to allow us to evaluate the current rises in State Pension age.
+S0404 26 State Pension age review
+3. Support in Later Life
+3.1 A universal State Pension age
+S0405 The State Pension age is the earliest point at which individuals can access their State Pension, and a universal State Pension age creates a simple system around which people can plan.
+S0406 The purpose of the rules on State Pension age is to clearly define who is entitled to receive State Pension and under which conditions.
+S0407 In recent years, the universality of the State Pension age has been repeatedly called into question (and some people have called for a more flexible State Pension age to take into account various different socio-economic factors, such as the fact that some people work and contribute longer than others or that certain groups have a lower life expectancy).
+S0408 As a result, when John Cridland was asked to complete an independent report as part of the State Pension age review, he was asked to consider the issue in some depth.
+S0409 John Cridland’s conclusions are clear.
+S0410 As he has pointed out, some groups of people already fare less well than others – due to eligibility and life expectancy factors – and as such might be more vulnerable to future State Pension age changes.
+S0411 However, the strengths of maintaining a universal State Pension age are the simplicity and clarity a single State Pension age provides both for individual and public planning purposes.
+S0412 We know the consequences of complexity in the State Pension from our experience of the pre-2016 system.
+S0413 People struggle to plan and therefore many fail to make adequate provision for their retirement.
+S0414 That is not a world we can afford to go back to.
+S0415 Furthermore, the information available to us shows life expectancy has increased across all socio- economic groups. Even with State Pension age rises, the available data suggests that, in future a higher proportion of the population will reach their State Pension age and survive to draw their State Pension than do now. ** (Reference: 40)
+S0416 This helps show why the arguments for a universal State Pension age continue to outweigh arguments for change; therefore the Government strongly endorses John Cridland’s independent report’s findings on this issue.
+S0417 As John Cridland pointed out, there is greater variation in life expectancy within countries of the UK than between them, and there is greater variation in life expectancy within local areas of those countries than between local areas – and trying to account for this when setting a State Pension age would be complex.
+S0418 On the subject of those with lower life expectancies being disadvantaged, John Cridland referred to analysis from the Pensions Policy Institute, which “suggests that, even accounting for lower life expectancy amongst socioeconomically disadvantaged groups, on average people reaching State Pension age can expect to draw significantly more State Pension than they have contributed.
+S0419 This remains true for the lowest income and the highest income quintiles, although unsurprisingly the proportion contributed increases as income increases.
+S0420 ” See box 3.1 below for a summary of John Cridland’s conclusions on a universal State Pension age. ** (Reference: 41)
+S0421 State Pension age review 27 Box 3.1:
+S0422 Independent Report – John Cridland’s conclusions on a universal State Pension age 
+S0423 The Independent Report identified the groups most likely to be disadvantaged by an increase to State Pension age; and considered early access options as alternatives to a universal State Pension age.
+S0424  But John Cridland concluded that disadvantaged groups should be assisted through the working age benefit system rather than through changes to the State Pension age, as  Using State Pension to cover gaps in working age provision would be a completely new element of social insurance.
+S0425 The dependency ratio is increasing and, as a nation, we will be asking a progressively smaller amount of people to pay for an increasing number of pensioners.
+S0426 It seems likely that extending the scope and costs of State Pension in this way will erode some of the goodwill between generations that is intrinsic in a pay as you go system;
+S0427  There are no practical or workable ways to factor in variations in life expectancy and there is no evidence of regional options being any fairer or more targeted at disadvantaged groups; and  Allowing early access to the State Pension on a reduced basis would risk leaving people with an inadequate pension.
+S0428  Consequently the review considers that the spirit behind these ideas, of targeting help on the most disadvantaged, can be tackled through support through the benefit system rather than through variations to the State Pension Age.
+S0429  For these reasons, we believe that the principle of having a State Pension age that is the same for everybody has a fundamental place in the UK’s model of social insurance.
+S0430 It has the merit of simplicity and clarity, and provides an important trigger moment for planning purposes.
+S0431  His report also referenced analysis from the Pensions Policy Institute which shows that on average people reaching State Pension age can expect to draw significantly more State Pension than they have contributed in National Insurance.
+3.2 Notice period and communications
+S0432 This Government believes that rises in the State Pension age must be part of a wider package that encourages people to plan for their retirement, enables people to work for longer where they can, and supports people who cannot work.
+3.2.1 Notice
+S0433 Providing certainty and transparency to allow planning by both individuals and future Governments is important.
+S0434 There is no legislative requirement for the Government to provide notice of changes to State Pension age within a specified period.
+S0435 However, in practical terms individuals need time to prepare for a new change in State Pension age.
+S0436 We will also seek to provide a minimum of ten years’ notice for individuals affected by changes to their State Pension age.
+S0437 28 State Pension age review
+3.2.2 Communications
+S0438 John Cridland recognised that good communication will be at the heart of any successful State Pension age strategy.
+S0439 He recommended that the Government communicates directly with each of those affected by new changes to the State Pension age; and that the Government should seek to use partnerships with stakeholders to reach a wide range of people.
+S0440 The Government believes a communications strategy could:
+S0441  deliver messages about changes in State Pension age through a range of communications, taking advantage of emerging technologies in the coming years;
+S0442  encourage individuals to find out and review regularly their own personalised State Pension position – for instance by using the online Check your State Pension service;
+S0443  look to build greater engagement in pensions and financial planning for later life and encourage this by supporting new developments such as the Pensions Dashboard, wider digital delivery and the creation of a new single financial guidance body; and  make extensive use of stakeholders’ communications channels, plus wider digital and conventional media, to raise awareness and promote greater regular engagement with government digital services to ensure continuing awareness of any changes in State Pension age.
+S0444 State Pension age review 29
+3.3 Supporting people to save and work
+S0445 The Government is actively supporting strategies that will help people save for retirement and to enjoy the benefits of fuller working lives, as referenced in Box 3.2 below.
+S0446 Box 3. Helping people save enough for retirement Encouraging workplace pensions through Automatic Enrolment has seen over 8.1 million people automatically enrolled into a workplace pension by more than 640,000 employers by the end of June 2017.* ** (Reference: 2)
+S0447 This has reversed the decline in private pension saving seen in the decade prior to its introduction.
+S0448 When the roll out of the programme is complete in February 2018, we expect that around 10 million people will be newly saving or saving more as a result of Automatic Enrolment, generating around £17billion a year more in workplace pension saving by 2019/20.
+S0449 **
+S0450 A report by the Institute of Fiscal Studies published in November 2016*** found that Automatic Enrolment increased participation across all groups of eligible employees, but increases have been larger amongst those who started with lower levels of participation, in particular those aged 22 to 29 and those in the lowest earnings quartile, narrowing the gap in workplace pension provision.
+S0451 Additionally, we have seen positive progress for other under-represented groups in pension saving,**** such as women, for whom we have seen an increase in participation since its introduction.
+S0452 The decision to freeze the earnings trigger at £10,000 for the 2017/18 tax year is also estimated to bring in an additional 70,000 savers, 75% of whom are women.
+S0453 *****
+S0454 A DWP review of the policy and operation of Automatic Enrolment is currently underway to ensure that it continues to meet the needs of individual savers over the longer term.
+S0455 We will look at the existing coverage of the policy and consider the needs of those not currently benefiting from Automatic Enrolment, for example employees with low paid multiple jobs who do not meet the criteria for Automatic Enrolment in any of their jobs.
+S0456 We will also use the Automatic Enrolment review to consider how the growing group of self-employed people can be helped to save for their retirement.
+S0457 We are also using this review to develop a stronger evidence base to inform future contributions, and to examine how individual savers’ engagement with workplace pensions can be strengthened.
+S0458 This review is due to report by the end of 2017.
+S0459 30 State Pension age review Box 3.3: Supporting People to enjoy the benefits of fuller working lives In February this year the Government published “Fuller Working Lives – A Partnership Approach”, which sets out an ambition to increase the retention, retraining and recruitment of older workers – by bringing about a change in the perceptions and attitudes of employers, and to challenge views of working in later life and retirement amongst individuals.
+S0460 The Strategy adopts a new approach – it is led by employers who rightly see themselves as the ones who understand the business case and can drive change.
+S0461 It sets out why Fuller Working Lives is important to employers, individuals and the economy and the action Government is taking to support older workers to remain in the labour market.
+S0462 In parallel we published our evidence base which clearly outlines the business case for taking action.
+S0463 This has to be a key priority for business, the economy, and also individuals, so they can plan and enjoy a secure later life.
+S0464 The Government does not underestimate the challenges older workers face.
+S0465 These include the difficulty of combining work and informal caring; keeping skills up to date and relevant in a rapidly changing labour market; transitions when physical jobs become too demanding and the unconscious bias that can work against those over 50 looking for work.
+S0466 The Government has also committed to monitor Fuller Working Lives.
+S0467 The measures identified below will allow individuals, employers, stakeholders and Government to track our progress:
+S0468  employment rate of 50 year olds and over, by five-year age bands and gender;
+S0469  average age of exit from the labour market; and  employment rate gap between 50–64 year olds and 35–49 year olds.
+S0470 Increasing numbers of employers are recognising the need to address the issues that come with an ageing workforce and are looking to make their places of work more age-friendly.
+S0471 Polices in this area will be for the next Review to consider.
+3.4 Supporting people who can’t work
+S0472 The Government agrees with John Cridland that increases to the State Pension age timetable must form part of a wider system that supports people in employment or self-employment, while also supporting those whose work prospects are limited or curtailed by disability, health conditions, or caring responsibilities.
+S0473 We are reviewing long term carers’ ability to take carers leave and will set out our plans in due course.
+S0474 The welfare system already provides protection for those who fall out of the labour market for these reasons.
+S0475 Current spending on benefits to support disabled people and people with health conditions is around £50 billion a year which equates to over 6% of all government spending. The Government will have the opportunity to evaluate the impact of increases in State Pension age to 66 and 67 before the rise to 68 comes into effect. ** (Reference: 42)
+S0476 State Pension age review 31
+3.5 The next State Pension age review
+S0477 The legislation provides for the next State Pension age review to be conducted by July 2023, which will confirm when State Pension age will increase to 68, and will allow for consideration of more recent life expectancy projections whilst ensuring adequate notice.
+S0478 In the interim period the Government will analyse the impact of changes to State Pension age already in train – i.e. the equalisation of men’s and women’s State Pension ages to 65 and the rise from age 65 to age 66 – which will provide additional evidence to help the Government to assess the best course of action.
+S0479 The Government has registered the importance John Cridland placed on understanding and acting on the effects of changing State Pension age on individuals and on disadvantaged groups.
+S0480 In respect of his specific recommendations, these, alongside other evidence, will form the basis of future consideration on how we manage the effects of rises in State Pension age.
+3.6 Conclusion
+S0481 This review is the first exercise of its kind, and takes place as the new State Pension arrangements are in their second year of operation.
+S0482 The Government intends to continue to monitor the effects of State Pension age rises alongside the reforms to the state and private pension systems, the welfare system, and the labour market.
+S0483 In this context, it is important to emphasise that:
+S0484 
+S0485 The timing of our recommended increase in State Pension age to age 68 is designed to ensure that the State Pension can be relied on in future, as it has been in the past, as a crucial part of most people’s retirement planning and eventual income.
+S0486 That is something the Government is determined to safeguard.
+S0487  State Pension age needs to rise because people are living longer, but future generations will still, on average, receive more over their lifetime from the State through their State Pension than those reaching State Pension age at any point before them.
+S0488  Even with these rises, the proportion of the population reaching State Pension age will continue to increase.
+S0489 32 State Pension age review
+Annex – Costs of proposed State Pension age timetable for the rise to 68 only
+S0490 Table A. below shows the State Pension age timetables and expenditure on pensioner benefits for the currently legislated State Pension age timetable and the timetable proposed by the Government for the increase in State Pension age to 68 only. Figures shown are for the UK and for the period 2037/38 to 2045/46. ** (Reference: 1,43)
+S0491 Table A.1: State Pension age timetables and expenditure on pensioner benefits for the rise to 68 only Year 2037/ 2038/ 2039/ 2040/ 2041/ 2042/ 2043/ 2044/ 2045/ Total 2037/38 2038 2039 2040 2041 2042 2043 2044 2045 2046 to 2045/46 67 67 67 67 67 67 67 Transition to 2038 2039 2040 2041 2042 2043 2044 2045 2046 to 2045/46 State Pension age Legislated 67 67 67 67 67 67 67 Transition to timetable age 68 age 68 Transition to 68 68 68 68 68 68 68 Proposed timetable age 68 £197 £205 £212 £218 £224 £230 £236 £240 £240 £2,003 Expenditure on pensioner benefits (UK, £ billions, 2017/18 prices) Legislated £197 £205 £212 £218 £224 £230 £236 timetable £195 £196 £201 £208 £214 £220 £226 £232 £238 £1,929 Proposed timetable Difference -£3 -£8 -£11 -£11 -£10 -£10
+S0492 -£10 -£8 -£3 -£74
+S0493 Notes:
+S0494 Figures include expenditure on State Pensions and other pensioner benefits (including Pension Credit) but exclude housing and disability benefits.
+S0495 Forecasts are consistent with the economic assumptions used for the long-term projections in the January 2017 FSR, though the FSR assumed a different State Pension age timetable. ** (Reference: 44)
+S0496 The forecasts use OBR long-term uprating assumptions for pensioner benefits.
+S0497 An increase to State Pension age would also be expected to result in additional expenditure on Working Age benefits, as well as additional income tax and National Insurance receipts, though these impacts would be expected to be considerably smaller than the State Pension expenditure savings.
+S0498 Estimates of these have not been produced at this time.
+S0499 These will be produced for an impact assessment accompanying legislation at the appropriate time.

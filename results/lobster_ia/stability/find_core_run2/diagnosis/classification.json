@@ -1,0 +1,77 @@
+{
+  "themes": [
+    {
+      "name": "Overfishing of lobster and crawfish stocks",
+      "ids": [
+        "S0018",
+        "S0019",
+        "S0383"
+      ]
+    },
+    {
+      "name": "Risk to future viability and EU/biodiversity obligations",
+      "ids": [
+        "S0020",
+        "S0103",
+        "S0106",
+        "S0109",
+        "S0110",
+        "S0111",
+        "S0112"
+      ]
+    },
+    {
+      "name": "Market failure from common-pool resource exploitation",
+      "ids": [
+        "S0124",
+        "S0125",
+        "S0126",
+        "S0127",
+        "S0128",
+        "S0130",
+        "S0131",
+        "S0132",
+        "S0133",
+        "S0134"
+      ]
+    },
+    {
+      "name": "Inadequacy and inconsistency of existing local measures",
+      "ids": [
+        "S0024",
+        "S0114",
+        "S0119",
+        "S0120",
+        "S0121"
+      ]
+    },
+    {
+      "name": "Economic and employment significance of the shellfish sector",
+      "ids": [
+        "S0092",
+        "S0093",
+        "S0094",
+        "S0095",
+        "S0096",
+        "S0097",
+        "S0098"
+      ]
+    },
+    {
+      "name": "Biological characteristics and management mechanisms for berried lobsters and crawfish",
+      "ids": [
+        "S0104",
+        "S0105",
+        "S0115",
+        "S0116",
+        "S0117"
+      ]
+    },
+    {
+      "name": "Regulatory framework and obligations",
+      "ids": [
+        "S0102"
+      ]
+    }
+  ]
+}

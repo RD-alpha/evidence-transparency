@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Overfishing and Stock Sustainability",
+      "reason": "This directly establishes the core diagnosis: evidence that lobster and crawfish stocks are overfished and not meeting MSY, which is the central problem the policy addresses.",
+      "weight": "core"
+    },
+    {
+      "theme": "Economic Value and Employment of the Shellfish Sector",
+      "reason": "Provides background context on the scale and value of the sector, explaining why overfishing matters economically, but the diagnosis of overfishing itself does not depend on this data.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Legal Obligations and Sustainability Targets (MSY, CFP, MSFD, UK BAP)",
+      "reason": "Sets out the legal/administrative framework and definitions (MSY, CFP, UK BAP) that contextualize the overfishing problem, but is background detail rather than the substance of the diagnosis.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Protection of Berried Lobsters and Crawfish",
+      "reason": "Describes the specific mechanism (berried females) through which overfishing harms future stock recruitment, directly supporting why current practices are unsustainable and central to the diagnosis of the problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Market Failure and Economic Rationale for Intervention",
+      "reason": "Explains the underlying economic cause of overfishing (common resource market failure) and why landing berried females imposes external costs, forming the causal explanation at the heart of the diagnosis.",
+      "weight": "core"
+    }
+  ]
+}

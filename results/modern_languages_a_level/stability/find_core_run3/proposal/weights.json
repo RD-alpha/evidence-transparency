@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Modern languages as academically rigorous and interdisciplinary",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Transferable skills and wider value",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Universal relevance and progression route",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

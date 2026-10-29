@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "theme": "Using landlords' stronger market position to realign incentives",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope and design of the ban, including exceptions",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scottish precedent as evidence for the policy's likely effects",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Acceptable trade-off of possible rent increases",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Benefits to tenants from improved transparency and affordability",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Limitations of transparency requirements as alternative approach",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Government objectives and commitment to the ban",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Safeguards against discrimination",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Agent business model adjustments and fairness",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Related developments in Northern Ireland",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

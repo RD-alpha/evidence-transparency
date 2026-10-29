@@ -1,0 +1,53 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Commercial unviability of small schemes",
+        "claim": "Many of the 117 individual court schemes, around half, handle very low volumes of work that are unlikely to be commercially viable for providers, making the current per-court contracting approach unsustainable."
+      },
+      {
+        "name": "Provider withdrawals and re-tendering burden",
+        "claim": "Providers have repeatedly withdrawn from contracts, forcing 13 schemes to be retendered and adding administrative burden and cost to the LAA, providers and taxpayer."
+      },
+      {
+        "name": "Court estate reform",
+        "claim": "HMCTS closures and relocations of work mean a number of existing schemes will no longer exist, so the current scheme structure cannot continue."
+      },
+      {
+        "name": "Quality-only tendering and administratively set fees",
+        "claim": "Previous tenders based only on quality criteria led to costly litigation and fees were set administratively rather than reflecting the cost of delivery."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Consolidation into fewer, larger schemes",
+        "claim": "Reducing schemes from 117 to 48 larger contracts covering wider areas will make provision more sustainable and efficient for providers, give economies of scale and value for the taxpayer, better serve clients and accommodate court estate changes."
+      },
+      {
+        "name": "Competitive tendering on price and quality",
+        "claim": "Because larger contracts increase competition with one winner per scheme, adding price to quality criteria provides an objective way to distinguish bidders and lets rates reflect local costs and economies of scale, securing sustainable provision and best value for money."
+      }
+    ],
+    "note": "The proposal is a package of two linked measures (consolidation and price-quality tendering), and the document's expected-impact claims in the proposal rest on assertion and an impact assessment summary rather than costed estimates."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Design of the consolidated scheme areas",
+        "claim": "New court groupings were drawn up by reviewing work volumes, court locations and existing groupings, local authority areas and HMCTS estate changes, with schemes set out in Annex A and new schedules starting April 2018."
+      },
+      {
+        "name": "Tender eligibility and capacity requirements",
+        "claim": "Bidders must hold a 2018 Standard Civil Contract in Housing and Debt and meet quality and capacity criteria to deliver larger contracts, with awards to single legal entities and possible use of sub-contracting or agents."
+      },
+      {
+        "name": "Fixed-fee remuneration based on bid price",
+        "claim": "Each provider will be paid a unique fixed fee based on its bid price covering all costs of advice and representation, with travel and waiting time unpaid and follow-on work funded under the relevant fee schemes."
+      }
+    ],
+    "note": "Implementation is largely descriptive of design details, with open questions on sub-contracting, other criteria and remuneration left to consultation."
+  }
+}

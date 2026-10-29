@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Judicial time spent on routine work",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The figure 'Around 890,000 cases a year are summary-only, non-imprisonable offences' is a statistic offered to show scale, but it has no reference or source, while the claim that judges spend too much time on routine matters is bare assertion."
+    },
+    {
+      "theme": "Outdated and burdensome tribunal arrangements",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Reference 5 (MoJ Tribunal statistics, Jan-Mar 2016) supports only the 'c. 83,000 in 2015/16' claims volume, which says nothing about complexity or slowness, and the claims about panel composition rest on the 2008 Order and a social security example, which are descriptive and unsourced."
+    },
+    {
+      "theme": "Current system can be faster, easier and better value",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines such as 'Our current system does all this, but... it can be made faster and more accessible' and the probate and bereavement lines are assertions with no statistic, source or finding behind them."
+    }
+  ],
+  "reasoning": "All three themes are core, and none reaches a cited, linked level. The strongest evidence is thin. In 'Judicial time spent on routine work' (level 1), the line 'Around 890,000 cases a year are summary-only, non-imprisonable offences' gives a scale figure, but it has no reference. Nothing shows how much judicial time goes on routine work, so 'Judges spend too much of their time...' is assertion. In 'Outdated and burdensome tribunal arrangements' (level 1), Reference 5 (MoJ tribunal statistics) is a followable source, but it supports only 'c. 83,000 in 2015/16' claims. That figure shows volume and does not show that tribunals are 'complicated and slow'. The panel-composition point cites the 2008 Order and a social security example, which describe current rules and do not evidence harm. In 'Current system can be faster, easier and better value' (level 0), the claims about speed, cost and the distress of probate or bereavement are plausible reasoning with no data, such as waiting times, costs or user survey results. The mean of the core levels is (1+1+0)/3 = 0.67, which rounds to 1. The strongest counter-example to this level is that the document may deserve 0, because Reference 5 does not support the diagnostic claim and the 890,000 figure is uncited. To reach level 2, the document would need to cite the source for the 890,000 figure, and it would need evidence on delay, cost, paper burden and judicial time use. It would also need to explain what each figure shows about the problem. Level 3 would require the document to assess the quality and limits of that evidence.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

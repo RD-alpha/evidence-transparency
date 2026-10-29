@@ -1,0 +1,52 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Safe but falling short of potential",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Stillbirth/neonatal mortality decline figures (Ref 3) and the Lancet Stillbirth Series ranking (24/49) with UK 1.4% vs Netherlands 6.8% reduction rates (Refs 4,5) are specific, cited and linked to the claim that progress is too slow, but no assessment of the evidence's limitations is offered."
+    },
+    {
+      "theme": "Quality of care drives outcome variation",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The '>50% of term antepartum stillbirths had care that required improvement' and MBRRACE-UK sepsis finding are cited (Refs 6,7) and clearly linked to the claim, though the uncited Atain '20% of admissions avoidable' claim and jaundice/hypoglycaemia line (Ref 9) are less tightly linked and no uncertainty is discussed."
+    },
+    {
+      "theme": "Public health risk factors are a major driver",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Specific stats (BMI>40 doubles stillbirth risk; quarter of stillbirths linked to smoking; perinatal mental illness prevalence 10-20%) are cited to Refs 1,2,10 and linked to the diagnosis, but the 'single most important modifiable risk factor' smoking claim is uncited and no evidence appraisal is given."
+    },
+    {
+      "theme": "Workforce skills and staffing consistency gaps",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "HEE's workforce supply forecast is the department's own analysis but no methodology is given for how it was derived, and the claim about inconsistent multi-professional training has no cited source at all."
+    },
+    {
+      "theme": "Clinical leadership and safety culture",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "References to Morecambe Bay and general assertions of 'great practice' and 'inspiring progress' carry no named evidence or citation."
+    },
+    {
+      "theme": "Socioeconomic and geographical disparities",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The 'we know that there are variations...' line is an unnamed-research claim with no source, reaching only level 1."
+    },
+    {
+      "theme": "Data collection and monitoring",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line about trusts not submitting comparable data states a gap but offers no evidence or citation."
+    }
+  ],
+  "reasoning": "The diagnosis draws on a reasonable amount of named evidence but rarely assesses it critically. The core theme 'Safe but falling short of potential' cites the Lancet Stillbirth Series (Refs 4,5) with specific comparative figures (UK 1.4% vs Netherlands 6.8% annual stillbirth reduction) and ONS mortality data (Ref 3), reaching level 2. 'Quality of care drives outcome variation' links MBRRACE-UK findings (Refs 6,7) on avoidable stillbirths and maternal sepsis deaths to the claim that care quality explains variation, also level 2, though the Atain programme's '20% of admissions avoidable' claim is uncited. 'Public health risk factors' cites specific statistics (BMI>40 doubling stillbirth risk, a quarter of stillbirths linked to smoking - Refs 1,2) and perinatal mental illness prevalence (Ref 10), reaching level 2. 'Workforce skills and staffing consistency gaps' relies on HEE's own forecast data but gives no detail on methodology, and the training-inconsistency claim is wholly uncited, so it only reaches level 1. None of the four core themes assess the strength, limitations or contradictions of their evidence - for instance, the Lancet ranking is presented without discussing comparability issues between countries - so none reach level 3. The mean of 2, 2, 2, 1 is 1.75, rounding to 2. The strongest counter-example to a higher score is the lack of any critical appraisal of the Lancet or MBRRACE evidence. To reach level 3, the document would need to discuss uncertainties or limitations in this evidence, and to reach a clean level 2 overall it would need to cite the HEE workforce methodology and the Atain programme figure properly.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

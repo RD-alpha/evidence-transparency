@@ -1,0 +1,101 @@
+{
+  "themes": [
+    {
+      "name": "Apprenticeships as the skills solution",
+      "ids": [
+        "S0005",
+        "S0037",
+        "S0038",
+        "S0167",
+        "S0170"
+      ]
+    },
+    {
+      "name": "Numerical growth commitment",
+      "ids": [
+        "S0007",
+        "S0028",
+        "S0030",
+        "S0096"
+      ]
+    },
+    {
+      "name": "Social mobility and diversity vehicle",
+      "ids": [
+        "S0006",
+        "S0025",
+        "S0044",
+        "S0046",
+        "S0056",
+        "S0107",
+        "S0142",
+        "S0175",
+        "S0179"
+      ]
+    },
+    {
+      "name": "Economic and business case for apprenticeships",
+      "ids": [
+        "S0024",
+        "S0049",
+        "S0050",
+        "S0051",
+        "S0052",
+        "S0053",
+        "S0054"
+      ]
+    },
+    {
+      "name": "Leading by example and quality over quantity",
+      "ids": [
+        "S0009",
+        "S0010",
+        "S0031",
+        "S0032",
+        "S0054",
+        "S0099",
+        "S0100",
+        "S0138",
+        "S0145",
+        "S0146",
+        "S0147",
+        "S0148"
+      ]
+    },
+    {
+      "name": "Apprenticeship integration into Civil Service workforce strategy",
+      "ids": [
+        "S0013",
+        "S0034",
+        "S0035",
+        "S0036",
+        "S0058",
+        "S0059",
+        "S0116",
+        "S0163",
+        "S0172",
+        "S0226",
+        "S0229",
+        "S0234"
+      ]
+    },
+    {
+      "name": "Quality outcomes and apprentice engagement",
+      "ids": [
+        "S0104",
+        "S0110",
+        "S0113",
+        "S0208",
+        "S0214",
+        "S0219"
+      ]
+    },
+    {
+      "name": "Government apprenticeship agenda alignment",
+      "ids": [
+        "S0027",
+        "S0056"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Enforcement through local Trading Standards",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that enforcement should build on 'the existing work of Trading Standards ... enforcing the requirement for letting and managing agents to belong to a redress scheme and the transparency requirements of the Consumer Rights Act 2015' is pure assertion with no data on how effective that existing enforcement has been."
+    },
+    {
+      "theme": "Tenant empowerment and education as enforcement mechanism",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The line 'Tenant empowerment and education has helped to improve compliance in other areas of the sector, for example, deposit protection' offers a comparable-policy precedent as evidence, with some explanation of the deposit-protection mechanism, but it is uncited and gives no figures on compliance improvement."
+    },
+    {
+      "theme": "Additional enforcement infrastructure options",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The detailed description of NTSEAT's powers and activities ('NTSEAT engages productively with a number of enforcement partners...') explains what the lead authority does but gives no evidence that this model actually improved enforcement outcomes in the Estate Agent sector."
+    },
+    {
+      "theme": "Penalties for non-compliance",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The reasoning that a \u00a330,000 banning-order-level fine 'would arguably act as a considerable deterrent' compares existing statutory fine levels but presents no evidence that higher fines change agent behaviour."
+    }
+  ],
+  "reasoning": "The four core themes score poorly because the document mostly reasons from first principles rather than presenting evidence. Enforcement through Trading Standards (level 0) simply asserts continuity with existing redress/transparency enforcement with no data on its success. Additional enforcement infrastructure (level 0) describes NTSEAT's functions in detail ('NTSEAT is responsible for issuing formal prohibition or warning orders...') but never shows that this lead-authority model improved outcomes in the Estate Agent sector, so it is description, not evidence. Penalties (level 0) cites existing fine levels (\u00a35,000, \u00a330,000) but only to argue by analogy that a similar fine 'would arguably act as a considerable deterrent' - reasoning, not evidence of deterrent effect. The best-performing theme, Tenant empowerment (level 1), at least names a comparable precedent - 'Tenant empowerment and education has helped to improve compliance in other areas of the sector, for example, deposit protection' - but gives no citation or figures, so it cannot reach level 2. The strongest counter-example to a score of 0 overall is this deposit-protection analogy, which is why the mean is pulled slightly above zero: (0+1+0+0)/4 = 0.25, rounding to 0. To reach level 1 across the board, and level 2 overall, the document would need to cite data (e.g. compliance rates before/after deposit protection, or NTSEAT case outcomes) linked explicitly to the enforcement choices being proposed.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.25,
+  "score_consistent": true,
+  "missing_core": []
+}

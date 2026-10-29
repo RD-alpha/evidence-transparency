@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Notice period and communications",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only grounds offered are John Cridland's recommendation on direct communication and partnerships and the unreferenced life-expectancy-change risk (lines on 'life expectancy projections could change'), with no reference or link, so it reaches level 1 at most and does not assess the evidence."
+    },
+    {
+      "theme": "Supporting people to save, work and cope with ill health",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claims are statements of principle and commitments, with an uncited mention of Cridland's recommendations and the 'recent consultation on health and work' given no indication of what it shows, and no references."
+    },
+    {
+      "theme": "Legislation and review process",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Pensions Act 2014 process, the Government Actuary's timetables and the 'up to one third' principle explain the route and the independent report, but no reference or link is carried and there is no assessment of uncertainties."
+    }
+  ],
+  "reasoning": "All three core themes are scored, and none carries a single reference or link, because the <references> and <links> blocks are empty throughout. Notice period and communications reaches level 1: the document points to John Cridland's recommendation ('he recommended that the Government communicates directly with each of those affected') and acknowledges a risk that 'life expectancy projections could change over the course of that notice'. Those are the grounds for the ten-year minimum, but the document gives no figures or sources. Supporting people to save, work and cope with ill health is level 0: it is mostly commitment and principle ('must be part of a wider package'). It mentions a 'recent consultation on health and work' and says Cridland's recommendations 'will form the basis of future consideration', but never says what either shows. Legislation and review process is level 1: it explains the statutory route under the Pensions Act 2014, the Government Actuary's timetables for 2028 to 2064 and the 'up to one third' principle, but names no source a reader could follow. The mean is (1 + 0 + 1) / 3 = 0.67, which rounds to 1. The strongest counter-example is for a lower score: the legislation theme describes the process and describes rather than evidences, and the notice period theme is largely a commitment, so either could be judged level 0. To reach level 2, the document would need to cite the Actuary's report, the Cridland report and the consultation with links, and show how each leads to the ten-year notice and the 2037-39 timetable. It would also need to show costs and benefits, with the alternatives it rejected. Level 3 would additionally need the document to assess the uncertainty in the life expectancy projections.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Establishing a Public Service Ombudsman",
+  "alias": "public_service_ombudsman",
+  "uploaded_at": "2026-10-13T15:12:03.129396+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "15:12:03 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "ombudsman_src_1",
+      "title": "Establishing a Public Service Ombudsman (source 1)",
+      "sentence_count": 1757,
+      "first_sentence": "S0001",
+      "last_sentence": "S1757",
+      "reference_count": 1,
+      "first_reference": "1",
+      "last_reference": "1",
+      "link_count": 0
+    },
+    {
+      "alias": "ombudsman_src_2",
+      "title": "Establishing a Public Service Ombudsman (source 2)",
+      "sentence_count": 142,
+      "first_sentence": "S1758",
+      "last_sentence": "S1899",
+      "reference_count": 2,
+      "first_reference": "2",
+      "last_reference": "3",
+      "link_count": 0
+    },
+    {
+      "alias": "ombudsman_src_3",
+      "title": "Establishing a Public Service Ombudsman (source 3)",
+      "sentence_count": 753,
+      "first_sentence": "S1900",
+      "last_sentence": "S2652",
+      "reference_count": 55,
+      "first_reference": "4",
+      "last_reference": "58",
+      "link_count": 0
+    },
+    {
+      "alias": "ombudsman_src_4",
+      "title": "Establishing a Public Service Ombudsman (source 4)",
+      "sentence_count": 199,
+      "first_sentence": "S2653",
+      "last_sentence": "S2851",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 2
+    }
+  ],
+  "appendix2_date": "5 December 2016; 25 March 2015; October 2014; 17 December 2015",
+  "appendix2_type": "policy paper + consultation + independent report + government response (combined in Appendix order)",
+  "extraction_note": "Draft Bill (source 1) has a corrupted text layer (59% garbled), so it was OCR'd with Mistral (all 86 pages); other sources: PDF table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

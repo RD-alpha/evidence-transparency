@@ -1,0 +1,82 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rules for changing licensing Administration",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 12-month rule, conditions and suspension mechanism are described in detail (e.g. '12 months prior to any application') but no data, consultation finding or precedent is offered for why 12 months or these specific conditions were chosen."
+    },
+    {
+      "theme": "Further Administration talks on the economic link condition",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line simply states Administrations 'will be reviewing this link' with no evidence given for why further talks are the chosen method."
+    },
+    {
+      "theme": "Administration-specific FQA transfer rules with transitional assumptions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that transfers will be presumed permitted during a transitional period rests entirely on restating the Concordat text, with no data or analysis cited to justify the transitional design."
+    },
+    {
+      "theme": "Paragraph-by-paragraph consequential amendments",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The deletion of paragraphs 7d, 7e and 8 is explained by reference to 'recorded landings of vessels in the period 2008-2012', which is the department's own data, but no detail is given on how this landings data was collected or verified, so it stays at level 1."
+    },
+    {
+      "theme": "Concordat structure and governance",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements about timing and legal status (e.g. 'non-legislative', 'early 2017') are asserted with no supporting evidence."
+    },
+    {
+      "theme": "Foundational principles and vessel licensing conditions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Principles such as licence conditions not discriminating unfairly are stated as rules with no evidence of why they were set this way."
+    },
+    {
+      "theme": "Quota allocation and management",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The allocation formula for under-10m vessels again cites 'recorded landings... in the period 2008-2012' as its basis, giving some explanation but no citation or methodological detail."
+    },
+    {
+      "theme": "FQA register and transfer restrictions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The register's rules and prohibition mechanisms are described without any evidence of their necessity or effectiveness."
+    },
+    {
+      "theme": "Producer Organisations",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single sentence on PO recognition responsibility cites Article 14 of EU Regulation 1379/2013 only to define the rule, not as evidence for a choice."
+    },
+    {
+      "theme": "Effort allocation and enforcement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "References to EU Regulations 1415/2004 and 1224/2009 describe existing obligations rather than evidence justifying the delivery approach."
+    },
+    {
+      "theme": "Crown Dependencies and Islands",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The treatment of Crown Dependency vessels as part of the English fleet is asserted with no supporting evidence."
+    },
+    {
+      "theme": "Administration discretion and case-by-case arrangements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Case-by-case discretion for authorisations like Albacore Tuna is described procedurally with no evidence for why discretion rather than a fixed rule was chosen."
+    }
+  ],
+  "reasoning": "The four core themes score very low. 'Rules for changing licensing Administration' (0) sets detailed thresholds (e.g. 'sustained for a period of 12 months prior to any application') but gives no data or precedent for why 12 months, rather than any other period, was chosen. 'Further Administration talks on the economic link condition' (0) is a single unsupported sentence. 'Administration-specific FQA transfer rules with transitional assumptions' (0) restates Concordat provisions without justification. 'Paragraph-by-paragraph consequential amendments' reaches level 1 because it cites the department's own landings data ('recorded landings of vessels in the period 2008-2012') as the basis for deleting paragraphs 7d, 7e and 8, though the document never explains how this data was gathered or verified, so it cannot reach level 2. The mean of the four core levels (0, 0, 0, 1) is 0.25, rounding to 0. The strongest counter-example is the 2008-2012 landings data used twice (also in the non-core 'Quota allocation' theme) to justify an allocation formula, which shows some primary evidence is present but is too thinly described to lift any core theme past level 1. To reach level 1 across the board, the document would need to explain, even briefly, what evidence underpinned the 12-month rule and the FQA transfer presumption; to reach level 2 it would need to cite the landings data's methodology and link it explicitly to the paragraph amendments.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.25,
+  "score_consistent": true,
+  "missing_core": []
+}

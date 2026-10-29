@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Rebalancing market incentives toward landlords",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Improving tenant transparency and comparability",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope of the ban and limited carve-outs",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Likely effect on rents and overall cost",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Clarity and simplicity of the ban",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Access and affordability for tenants",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Scottish precedent and evidence",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Regulatory context in other parts of the UK",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Overall policy framework",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

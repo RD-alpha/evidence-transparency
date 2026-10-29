@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Rising life expectancy and time in retirement",
+        "claim": "Life expectancy at 65 has risen steadily for decades and is projected to keep rising, so with State Pension age fixed or slow to change, the share of adult life spent in receipt of the State Pension has grown (from 23% in 1948 to 32% by 2007)."
+      },
+      {
+        "name": "Demographic shift and rising dependency",
+        "claim": "The baby-boomer cohort reaching pension age and falling relative numbers of workers will push the old age dependency ratio to unprecedented levels (301 to 375 per 1,000 by 2042), which matters because the pay-as-you-go State Pension is funded by current workers' National Insurance."
+      },
+      {
+        "name": "Rising fiscal cost and intergenerational burden",
+        "claim": "State Pension spending will rise by about 1% of GDP (£20bn, equivalent to £725 per household) by 2036/37, within wider age-related spending pressures, placing an unfair and unsustainable burden on future taxpayers."
+      },
+      {
+        "name": "Past slow and reactive policy and uncertainty of projections",
+        "claim": "The UK was slow to adjust State Pension age to longevity, forcing rapid successive Acts to catch up, and life expectancy projections remain highly uncertain over long horizons."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Linking State Pension age to life expectancy for fairness between generations",
+        "claim": "State Pension age should rise with life expectancy so that each generation spends broadly the same proportion of adult life (up to 32% in the long run, reflecting the last 25 years) in receipt of the State Pension, a fair and transparent rule that gives the pension system a clear rationale."
+      },
+      {
+        "name": "Rise to 68 in 2037–39 and the pace of change",
+        "claim": "The Government will adopt John Cridland's timetable raising the age to 68 in 2037–39, seven years earlier than legislated, because it balances affordability against spacing rises so that the same cohorts do not face back-to-back increases, while rejecting the faster 32% timetable and capping at one year per decade."
+      },
+      {
+        "name": "Affordability and rejection of lower pensions",
+        "claim": "Raising the age saves £74bn to 2045/46 and about 0.4% of GDP in 2039/40, and is preferred to the alternatives of paying lower pensions (which would increase pensioner poverty and push savers into means-testing) or asking workers to pay more, thereby keeping the pension above the means-test level."
+      },
+      {
+        "name": "Maintaining a universal State Pension age",
+        "claim": "A single State Pension age for everyone should be retained because of its simplicity and clarity for planning, the practical difficulty of varying it by life expectancy, and the view that disadvantaged groups are better helped through the benefit system."
+      },
+      {
+        "name": "Further review before legislating and no formal timetable beyond 68",
+        "claim": "Because life expectancy projections are uncertain, the Government will hold a further review before legislating for 68, will not formalise policy beyond 2037–39, and leaves later rises to future reviews."
+      }
+    ],
+    "note": "The aspect combines the long-run principle, the specific timetable, the cost case and a retained universal age, so some themes overlap."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Notice and communication of changes",
+        "claim": "The Government will give at least ten years' notice of State Pension age changes and run a digital and stakeholder-based communications strategy so individuals can plan their saving and retirement."
+      },
+      {
+        "name": "Wider support package for saving and working longer",
+        "claim": "Rises in State Pension age must come with measures that encourage saving (Automatic Enrolment, new State Pension) and enable fuller working lives, including the Fuller Working Lives strategy and the abolition of the Default Retirement Age."
+      },
+      {
+        "name": "Support for those unable to work and future evaluation",
+        "claim": "Those whose work prospects are limited by disability, health or caring will be supported through the welfare system, with the Government evaluating Universal Credit, earlier rises and John Cridland's recommendations before the rise to 68 takes effect."
+      }
+    ],
+    "note": "Implementation is a package of separate supporting measures rather than a single delivery method, and the document says little about why these methods were chosen over others."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Scale and exposure of the UK to laundering",
+        "claim": "The UK's large, open financial and professional services sector and London property market make it unusually exposed to money laundering, terrorist financing and overseas corruption proceeds that threaten national security."
+      },
+      {
+        "name": "Ineffective SARs regime and private-sector compliance",
+        "claim": "The SARs regime is seen as ineffective, with defensive, low-quality reporting, inadequate UKFIU IT and capability, and legal barriers to sharing information, so heavy private-sector compliance spend does not translate into effective defence."
+      },
+      {
+        "name": "Gaps in law enforcement powers under POCA",
+        "claim": "POCA and existing law enforcement capabilities leave gaps: weak intelligence on high-end laundering, reliance on foreign cooperation for overseas offences, a 31-day moratorium that is too short, and no effective tool to forfeit funds in bank accounts or moveable property."
+      },
+      {
+        "name": "Inconsistent supervisory regime",
+        "claim": "The National Risk Assessment found the UK's many supervisors inconsistent in applying the risk-based approach, guidance, enforcement and deterrence, which weakens the regime."
+      }
+    ],
+    "note": "The document is a package of Action Plan, consultation summary, supervisory call for information and Government response; the diagnosis rests mainly on the National Risk Assessment and consultation views, with the supervisory material belonging to a separate Treasury workstream."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "SARs reform and consent regime",
+        "claim": "The Government will keep the consent regime but extend the moratorium period up to 186 days and give the NCA power to obtain further information, because no consensus emerged on a replacement and removal risked weakening offences and legal certainty, while entity-focused reporting will be pursued without legislation."
+      },
+      {
+        "name": "Private sector information-sharing gateway",
+        "claim": "A new legal safe-harbour gateway for sharing suspicions and joint SARs between regulated firms will be legislated, building on the JMLIT pilot and strong consultation support, with data protection safeguards."
+      },
+      {
+        "name": "New asset recovery powers",
+        "claim": "The Government will introduce Unexplained Wealth Orders built into civil recovery, plus civil forfeiture of bank account funds and moveable property in magistrates' courts with lower thresholds, because existing POCA powers have de minimis thresholds, no seizure power and are rarely used."
+      },
+      {
+        "name": "Rejected or deferred options",
+        "claim": "The illicit enrichment offence is dropped because it reverses the burden of proof, would interfere with rights and has limited reach, and a US-style designation power is deferred until a model with judicial oversight and source protection is found, with only modest changes to POCA investigative powers."
+      }
+    ],
+    "note": "The proposal is a package of separate legislative measures, each with its own case and weighing of consultation responses; costs and benefits are largely not quantified."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "SARs reform programme and delivery",
+        "claim": "Delivery is through a SARs reform programme covering IT, operational and guidance changes alongside legislation in the Criminal Finances Bill, working with the regulated sector to shift towards high-risk entities, with the cost of the new IT shared by beneficiaries."
+      },
+      {
+        "name": "Action Plan actions, leads and deadlines",
+        "claim": "Implementation is organised through numbered actions with named lead bodies and completion dates, including a permanent JMLIT, a register of bank specialisms, Prevent campaigns and NCA capability building."
+      },
+      {
+        "name": "Supervisory review and consultation process",
+        "claim": "Reform of the supervisory regime is to be decided through the Treasury review, drawing on the Call for Information and the Cutting Red Tape Review, with proposed reforms announced later."
+      }
+    ],
+    "note": "Little is said about why these delivery methods were chosen over alternatives or about costs; the Action Plan's schedule and the Treasury review are separate delivery tracks."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Phased rollout schedule",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Expert-led collaborative drafting process",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Mandatory specification framework for awarding organisations",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

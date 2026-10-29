@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Interdisciplinary and academic value of language study",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Transferable skills and wider benefit",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Universal relevance and progression foundation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

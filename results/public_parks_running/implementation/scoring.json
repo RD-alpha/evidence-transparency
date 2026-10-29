@@ -1,0 +1,16 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Secretary of State's regulation-making powers",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Lines on section 151 of the 1989 Act, section 152(4) and section 5(3) of the Localism Act 2011 name the legal routes, and the line on the earlier tips prohibition offers a precedent, but no references or links are given and nothing weighs alternatives or compares costs."
+    }
+  ],
+  "reasoning": "The extract has one core theme, the Secretary of State's regulation-making powers, and I scored it at level 1. It explains that the prohibition can be delivered through regulations under section 151 of the Local Government and Housing Act 1989, which need the affirmative procedure. It adds that extending this to parish councils needs a separate negative-procedure instrument under section 152(4), and that section 5(3) of the Localism Act 2011 offers a further route. Because these laws are cited to show why this route is available, they count as evidence of a legal constraint. The line that the powers were \"previously exercised... in a narrow, specific manner, by preventing local authorities charging for residents to use tips\" is a precedent from a comparable policy. These lines give some explanation of how the evidence supports the route. However, no reference or link is attached to any of them, and the tips precedent is not cited or described in enough detail to find. The extract also does not say why legislation was chosen over alternatives, what the costs and benefits are, or what the timetable is. The mean of the core themes is 1.0, so the score is 1. The strongest counter-example is that a reader could treat the statutory provisions as checkable public law, which would argue for level 2. But the extract gives no citation a reader can follow, and the legal route is only described, with no weighing against other options. To reach level 2, the document would need to cite the provisions and the tips regulations, explain why this route was chosen over others, and give costs and assumptions. Level 3 would need it to assess the precedent and acknowledge uncertainties.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

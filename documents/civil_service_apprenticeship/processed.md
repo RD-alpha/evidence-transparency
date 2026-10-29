@@ -1,0 +1,272 @@
+The Civil Service Apprenticeship Strategy
+Ensuring the Civil Service delivers 30,000+ high quality apprenticeships by 2020.
+January 2017
+Foreword
+S0001 As the Prime Minister made clear on the steps of Downing Street in July 2016, this Government’s driving mission is to create a country where everyone has the chance to go as far as their talent and hard work will allow, regardless of background.
+S0002 The Civil Service is dedicated to the same vision and recognises that we will only achieve this by improving our culture to embrace diversity and attract individuals based on merit and potential.
+S0003 The opportunities of the Civil Service must be open to all.
+S0004 At the same time, unprecedented changes to the modern world require a Civil Service that can keep pace, whilst retaining that which makes it the best in the world.
+S0005 Apprenticeships are a crucial way to develop the skills required by employers and to provide people, from all backgrounds, with the opportunity to obtain both job-specific and transferable skills that will contribute to their achievement in the workplace.
+S0006 They are a significant route through which we can ensure opportunities for progression are open to all, not just the few, and in practice, not in theory.
+S0007 That is why this Government will ensure at least 30,000 apprenticeship starts in the Civil Service by 2020, annually delivering 2.3% of the workforce in England as apprenticeship starts, with similar levels of growth in the wider UK Home Civil Service workforce outside England.
+S0008 We are also working with the Devolved Administrations (DAs) to ensure that high-quality apprenticeship opportunities are available to all civil servants, regardless of their place of work.
+S0009 We are leading by example in the public sector and have been instrumental in the design, development and delivery of at least fifteen new apprenticeship standards to date, including co-chairing two industry-wide employer groups, encouraging both public and private employers to engage and support apprenticeship growth.
+S0010 Our apprentices will gain the transferable skills needed to succeed in the modern economy, while contributing to our manifesto commitment to create three million high quality new apprenticeships across the country by 2020.
+S0011 This commitment is not just about achieving numbers however.
+S0012 We want to change how we view modern employment routes into the Civil Service and across the wider economy.
+S0013 By embedding apprenticeships in our people strategies, talent management and career pathways, we can ensure they provide a modern employment offer and viable route into and up through the Civil Service for both new and existing staff.
+S0014 As the Department responsible for the Civil Service, we are extremely proud of the progress made so far.
+S0015 But there is always more we can do, which is why we are
+S0016 determined to see this strategy implemented in full so we strengthen the skills of our civil servants, improve the diversity of our workforce and lead the way in the public sector.
+S0017 Only by doing so will we successfully build a country, economy and society that work for everyone.
+S0018 JOHN MANZONI Chief Executive of the Civil Service and
+S0019 RT HON BEN GUMMER MP Chief Executive Minister for the Cabinet Office & Permanent
+S0020 Permanent Secretary of the Cabinet
+S0021 Paymaster General
+S0022 Office
+Our Commitment
+S0023 The Government’s manifesto commitment to achieve three million apprenticeship starts by 2020 is driven by an ambition to address our nation’s skill shortages and stimulate economic growth.
+S0024 Greater numbers of higher quality apprenticeships that meet employers’ needs and enable the full potential of individuals will drive up national productivity.
+S0025 They will provide people of all backgrounds with opportunities to develop successful careers, enabling social mobility whilst strengthening the labour market.
+S0026 The public sector has been asked to achieve a greater proportion of apprenticeship growth to bring us in line with the private sector where an estimated three-quarters of apprentices work.
+S0027 In response to this, the Civil Service has pledged an unprecedented increase in apprenticeships.
+S0028 We will achieve 30,000 apprenticeship starts in England by 2020, annually delivering 2.3% of our workforce in England as apprenticeship starts, with similar levels of growth in the wider UK Home Civil Service workforce outside of England, particularly those departments that employ UK Home civil servants based in Wales, Scotland and Northern Ireland.
+S0029 We introduced a single apprenticeship target for the Civil Service from 1 January 2016.
+S0030 This was significantly ahead of the legislative target coming into force in April 2017 and the former Department for Business, Innovation & Skills (BIS) recognised our role in leading the way in their 2020 Vision.
+S0031 The Civil Service Apprenticeship Strategy is about more than just numbers.
+S0032 It is our commitment to improve social mobility and strengthen the skills base of the Civil Service, through high quality learning opportunities that are embedded in professional career paths and accessible to all prospective and existing staff.
+S0033 The Business Case The business case for apprenticeships is three-fold.
+S0034 First, it will deliver on all of our areas covered in our Civil Service Workforce Plan.
+S0035 The Workforce Plan sets out our commitment to ready the Civil Service’s workforce to respond to challenges the UK will face both immediately, and in years to come.
+S0036 It is our commitment to build the capability of the Civil Service and ensure our people flourish in their careers.
+S0037 Our Apprenticeship Programme will respond to this by maximising workforce capability, through building our own and bringing in a diverse pipeline of talent to meet existing and future skills gaps.
+S0038 This means building skills that are transferable and support the development of modern careers (both short and long term movement in and out of the Civil Service).
+S0039 We will develop a breadth of experience and depth of expertise through a variety of apprenticeships, from entry-level skills to higher and degree level apprenticeships, open to both new recruits and existing staff as an opportunity to retrain or learn new skills.
+S0040 Growth in apprenticeships will further support our ambition to improve the regional spread of opportunities, with a wealth of locations across the UK already offering apprenticeships.
+S0041 The Workforce Plan also sets an ambition for the Civil Service to be the most inclusive employer in the UK.
+S0042 Traditionally, the public sector has struggled to get right the diversity of its workforces and applicant pools.
+S0043 Whilst the Civil Service is the most diverse it has ever been, we still have more to do to ensure true representation and inclusivity across the organisation.
+S0044 Apprenticeships present an opportunity to improve the diversity and inclusivity of workforces, by providing people from all backgrounds the possibility to take a step on professional career ladders.
+S0045 Our drive for social mobility is about giving every talented individual the opportunity to progress.
+S0046 By opening up jobs without requirements for educational attainment and by offering retraining opportunities, we remove some of the barriers in place, both for potential new civil servants and for our existing workforce.
+S0047 Improving social mobility can unlock the potential of individuals, whether they are based in Whitehall or elsewhere in the UK; whether they work in policy, operations or any other area; whether they attended university or not; and whatever their family background or characteristics.
+S0048 Diversity of other protected characteristics should improve if we achieve our ambition to strengthen inclusivity of opportunities.
+S0049 A second reason why the Civil Service is committed to apprenticeships is that it makes business sense.
+S0050 The evidence speaks for itself.
+S0051 In 2014, 81% of apprenticeship employers said that apprentices have increased the productivity of their business and 85% of apprentices stated that their ability to do the job had improved. ** (Reference: 1,2)
+S0052 This translates into return on investment from the training within a few years of completion.
+S0053 For our apprentices these benefits result in significant monetary returns over their working life,
+S0054 adding up to between £77,000 and £117,000 for level 3 apprenticeships. Those completing an apprenticeship at level 4 or above could earn £150,000 more on average over their lifetime. Third, the Civil Service Apprenticeship Programme should be leading by example in the public sector and championing the Government’s wider agenda on apprenticeships by ensuring all stakeholders are striving towards the same strategic aims and effectively deploying their resources to maximise outcomes that benefit the economy as a whole. ** (Reference: 3,4)
+S0055 This involves:
+S0056 • supporting the Government’s vision for young people to get the best start in life, by promoting apprenticeships as a high quality and prestigious path to successful careers, available at all levels, in all sectors, in all parts of the country; • encouraging employers to take ownership of apprenticeships and act as the main advocate for apprentices among their partners, peers and supply chains; • raising our national productivity by effectively training our workforce and fitting apprenticeships into the wider plan for economic growth and strategy to fill national skill gaps; • enhancing the diversity of our workforce and ensuring increased social mobility, with more accessible entry routes into and up through the economy; and • supporting the wider Government commitment to halve the employment gap between disabled and non-disabled people.
+S0057 This is a significant challenge for some disabled groups, with only 15% of people who have autism currently in full time employment.
+S0058 The Civil Service will spend millions of pounds each year from April 2017 paying into the apprenticeship levy.
+S0059 This money can only be used on training and assessing apprentices and this long-term investment will improve the quality of training opportunities and the skills of our people.
+S0060 Methods We have three main routes through which we will create apprenticeships:
+S0061 • converting planned external recruitment.
+S0062 This means assessing whether roles that are presented to the external market could be offered as apprenticeships.
+S0063 Going one step further, we will also establish gaps in existing apprenticeship frameworks and standards and, where there is a need, we will work with employers to develop new apprenticeships for the wider economy; • offering our current workforce increased opportunities to retrain and upskill.
+S0064 We will target apprenticeships at key capability gaps within the existing Civil Service workforce.
+S0065 We have already co-chaired the development of a number of new standards at varying levels in Digital and Leadership & Management, which are now available to those in existing roles or for internal applicants; and • enhancing our current apprenticeship schemes.
+S0066 As part of the talent pipeline we will build on our current corporate schemes, such as the Civil Service Fast Track, increasing involvement from the professions, and strategically aligning this to career paths.
+S0067 In order for these routes to be successful, the Civil Service will need to rethink some of its existing recruitment practices.
+S0068 First, we need the right model on apprenticeship pay, in line with the overall Civil Service reward strategy detailed in the Civil Service Workforce Plan.
+S0069 To achieve this we are developing a fair, coherent and appropriate reward structure that is able to attract and retain talent.
+S0070 Second, we need the right recruitment and selection processes, which allow us to attract and identify talent based on potential rather than the finished product.
+S0071 As part of our Talent Action Plan 2016, we are piloting alternative approaches to competency based recruitment and critically evaluating our definition of ‘talent’, as part of an ambition to attract and retain people from a range of sectors and all walks of life.
+S0072 Third, as part of our commitment in the Workforce Plan, we are building career paths that develop breadth of experience and depth of expertise.
+S0073 Apprenticeships will be at the heart of this, ensuring they are embedded into professional career ladders, functional plans and talent management strategies.
+S0074 Our Vision Our vision is to offer apprenticeships to everyone - of all ages, all backgrounds, all grades, all professions, across the UK.
+S0075 We are already making great strides in doing this through the development of a suite of new apprenticeship standards and a campaign to promote these to our existing workforce.
+S0076 Offering our current employees opportunities to refresh or gain new skills is a fundamental part of our strategy.
+S0077 There should be no limits put on opportunities to gain investment in personal and professional development through high quality transferrable training and we encourage existing employees to embrace apprenticeships as part of their learning and development.
+S0078 We have more progress to make in changing the traditional view of apprenticeships, to ensure that equity of opportunity is achieved.
+S0079 We are committed to promoting apprenticeship opportunities to individuals from lower socio-economic backgrounds, through targeted approaches to processes such as recruitment, outreach, marketing and location strategy.
+S0080 We will integrate other Government initiatives and programmes, such as Movement to Work and Traineeships, into the apprenticeship agenda, to make sure we are effectively tapping into targeted talent pools, such as the NEET (not in education, employment or training) population.
+S0081 The Cabinet Office will support departments to achieve the Civil Service vision for apprenticeships, through driving the delivery of the programme in their capacity as Senior Responsible Officer (SRO).
+S0082 This includes programme management, governance, setting the strategic direction, and assurance on delivery of numbers and quality.
+S0083 The Cabinet Office will additionally deliver on key areas such as resourcing the Apprenticeship Programme, delivering corporate schemes, procuring training and providing departments with guidance.
+S0084 It is the departments that will ultimately deliver the numbers and quality of apprenticeships and they have agreed to achieve 2.3% of their workforce in England each year as apprenticeship starts, with similar levels of growth in their UK Home Civil Service workforce outside of England.
+S0085 Departments and professions are taking an enthusiastic pro-active approach to apprenticeships, building them into workforce plans and ensuring high quality training and development opportunities to all those who take part.
+S0086 Our commitment to this agenda goes beyond the Civil Service and includes supporting apprenticeship growth in the wider economy.
+S0087 We are working with our Arms Length Bodies across the public sector to support and align our strategic aims.
+S0088 We will actively engage with other Civil Service and public sector organisations to share best practice and facilitate an open forum on apprenticeship growth.
+S0089 This strategy is intended to apply to the UK Home Civil Service.
+S0090 Whilst the legislative and Civil Service target of 2.3% of the workforce as apprenticeship starts annually is England only, the Civil Service has an expectation to see similar levels of growth amongst UK Home civil servants employed in Wales, Scotland and Northern Ireland.
+S0091 Civil servants working for the Scottish Government and Welsh Government are part of
+Our commitment to this agenda goes beyond the Civil Service and includes supporting | 
+apprenticeship growth in the wider economy. | We are working with our Arms Length
+S0092 the UK Home Civil Service. We are engaging with the Devolved Administrations, as well as UK Government departments that employ UK Home civil servants based in Wales, Scotland and Northern Ireland, to ensure that high-quality apprenticeship opportunities are available to all civil servants, regardless of their place of work.! ** (Reference: 5)
+S0093 Our apprenticeship strategy spans this Parliament and our goal to achieve at least 30,000 more high-quality apprenticeships starts at a range of levels and standards will be measured from 2015 to 2020.
+S0094 At this point we will re-evaluate our strategy and set new goals and ambitions to build upon what has been achieved.
+S0095 However, success is not simply measured by the number of apprenticeship starts.
+S0096 The target is in place to progress this agenda and drive parity of esteem for apprenticeships in our workforce strategy.
+S0097 We have therefore developed a number of interim goals and measures to ensure we are striving for quality, as well as quantity.
+S0098 This is further explored further in the next section.
+S0099 Measuring Success Beyond the Numerical Target In the Office for Standards in Education, Children's Services and Skills (Ofsted)’s 2013/14 Annual Report, Her Majesty’s Chief Inspector emphasised that “future reforms must focus on raising the quality, rigour and profile of all apprenticeships and not on simply increasing the numbers of apprentices”.
+S0100 This document is intended to do exactly that, guiding departments in their development of apprenticeship strategies and setting the level of ambition for apprenticeship programmes across the Civil Service.
+S0101 The success of the Apprenticeship Programme is focused around five main areas.
+S0102 A list of measures and goals to monitor progress against the below strategic aims can be found at Annex A.
+S0103 Developing Skills.
+S0104 We will help apprentices develop strong professional capabilities and be part of a highly capable, skilled and engaged Civil Service with effective leaders.
+S0105 This includes developing profession-oriented apprenticeships, at a variety of levels (including higher, degree and masters level) and in areas where the Civil Service has identified skill gaps (e.g. commercial and digital).
+S0106 Enhancing Diversity and Social Mobility.
+S0107 We will ensure that apprenticeships are a key component of an inclusive Civil Service that reflects the society it serves.
+S0108 This includes promoting apprenticeships to those from underrepresented groups and low socio-economic backgrounds and improving recruitment processes accordingly, to emphasise the importance of potential rather than the finished product.
+S0109 Embedding Apprenticeships.
+S0110 We will create apprenticeships that provide a modern employment offer and viable route into and up through the Civil Service and the wider economy.
+S0111 This includes considering apprenticeships as part of strategic workforce planning, location strategies, talent management, people strategies and career pathways.
+S0112 Ensuring Quality Experiences.
+S0113 We will make sure apprentices receive high quality training and feel engaged with the Civil Service and the work it does.
+S0114 This includes working with reputable training providers, complying with apprenticeship standards and securing senior and line management engagement to ensure accountability for the quality of the apprenticeship schemes.
+S0115 Delivering Return on Investment.
+S0116 We will build apprenticeship schemes that achieve the best mix of quality and economic efficiency.
+S0117 This includes working collaboratively across the Civil Service to ensure apprenticeships fit efficiently within workforce planning and maximise strategic outcomes of delivering apprenticeships within the resources available.
+S0118 So far in this Parliament, the Civil Service has made substantial progress through the creation of a Cabinet Office led Apprenticeship Programme and governance structure, reflecting the importance of this agenda.
+S0119 This has allowed us to make significant headway in setting the strategic direction for the policy and understanding the practicalities of the commitment.
+S0120 But, we still have more to do.
+S0121 There are some key challenges that the Civil Service must get to grips with, in order to ensure the success of the Apprenticeship Programme.
+S0122 •
+S0123 Data Collection
+S0124 It is critical that reliable data on apprenticeships is collected to allow the Civil Service to report and publish its contribution towards the national target of three million apprenticeship starts.
+S0125 It will also be used to inform and evaluate policy and delivery initiatives, allowing us to make data-driven strategic decisions on a regular basis.
+S0126 With such ambitions to improve skills, diversity and quality, we need a baseline of data to understand where we are now, so we can plan where we need to be in the future and how we are going to get there.
+S0127 To monitor progress, the Civil Service is undertaking a detailed data collection, which will be collected on a quarterly basis.
+S0128 This will be coordinated by the Cabinet Office through commissioning data requests to departments.
+S0129 •
+S0130 Long-Term Tracking We need to be able to track what happens to an apprentice after they successfully complete the programme, to understand the impact that training has had on the apprentice’s career outcomes and the benefits it has brought to the business.
+S0131 Either through end of programme interviews and follow-ups, through their interaction with Civil Service Learning or Civil Service Jobs, we ideally want to know what the apprentice progresses on to do, in what profession, at what grade and in what organisation (whether they stay in the Civil Service or not).
+S0132 This will allow us to assess whether we have successfully built our own talent and capability to fill skill gaps, rely less on contingent labour and increase social mobility throughout the organisation.
+S0133 •
+S0134 Cross-Sector Collaboration By working across the economy, we are more likely to further the agenda at pace and on a large scale.
+S0135 We should be collaborating on developing standards, raising the reputation of apprenticeships, marketing apprenticeships and procuring training.
+S0136 Just as the Civil Service has partnered with other employers to lead the development of a national set of measures of socio-economic background, industries should be collaborating to share best practice and encourage apprenticeship growth in areas where the country has skill shortages.
+S0137 •
+S0138 Wider Government Vision The Civil Service Apprenticeship Programme should ensure it is contributing to the wider Government apprenticeship agenda, so that all stakeholders are striving towards the same strategic aims and effectively deploying their resources to maximise outcomes that benefit the economy as a whole.
+S0139 This involves supporting the Government to phase out previous apprenticeship frameworks and for all new
+S0140 apprenticeships by 2020 in England to have started on standards.
+S0141 The shift from frameworks to standards means that apprentices will develop transferrable skills, knowledge and professional behaviours (as defined by the apprenticeship standard), which will be tested through a rigorous and holistic end-point assessment.
+S0142 Diversity of underrepresented groups and social mobility are also key elements of the Government’s wider apprenticeship agenda.
+S0143 We will therefore support aims to increase the percentage of apprentices from BAME backgrounds, monitor the socio-economic background of all our apprentices and halve the employment gap between disabled and non-disabled people.
+S0144 In order to achieve this, we need to have data-driven procedures in place to inform the right policy interventions, allowing for enhanced diversity and social mobility.
+S0145 The National Audit Office (NAO) published a report 6 September 2016, evaluating the value delivered through the Apprenticeship Programme.
+S0146 The report states “there is a clear risk that the drive to deliver greater numbers is delivered at the expense of delivering maximum value”. It encourages the Department for Education to consider: productivity levels and the skill gaps across the economy; the range of apprenticeship levels and implementation of standards; and the quality of training providers and satisfaction rates of apprentices. ** (Reference: 6)
+S0147 The Civil Service is leading by example by addressing these risks and is supporting the Government by devising a strategy that encourages both the growth and quality of apprenticeships in the organisation and across the wider economy.
+S0148 By building on the success we have had so far and with plans to improve apprenticeships for the future, the Civil Service is confident that it will deliver at least 30,000 high quality apprenticeships by 2020 and will strengthen skills, improve diversity and lead by example in the public sector.
+S0149 Annex A – Success Measures Ambition Delivering… Measure…
+S0150 It is critical that reliable data on apprenticeships is collected to allow the Civil Service to report and publish our contribution towards the national target of three million apprenticeship starts.
+S0151 Our ability to measure success is reliant on robust baseline data that allows us to understand where we are now, so we can accurately assess and inform our ambitions for the future.
+S0152 Therefore our principle success measure will be to develop and embed a high quality data collection across the Civil Service, aiming for 100% coverage and completion of the data request.
+S0153 This process has begun and we will continue to strengthen the process ahead of the legislative target coming into force in April 2017.
+S0154 The ambitions and measures below are areas we have highlighted as important to measure as an indication of success.
+S0155 Specific measurables and metrics will be developed and implemented through departmental and functional/professional delivery plans.
+S0156 These measures will be internally reviewed at the end of the financial year 2016/17, when we have a clear and reliable set of baseline data.
+S0157 Progress will then be monitored on a financial yearly basis.
+S0158 In order to monitor and track progress, the Cabinet Office will maintain clear governance and a structured approach to the Civil Service Apprenticeship Programme, which assures senior and line manager engagement and accountability of these measures.
+S0159 Additionally, departments and Civil Service organisations are expected to develop and maintain delivery plans for apprenticeships.
+ | Ambition | Delivering… | Measure…
+1. | To develop and embed a high
+quality data collection across
+the Civil Service, aiming for
+100% coverage and completion
+of the data request. | …a robust baseline of
+data in order to develop
+strong targets and
+metrics of success. | … apprenticeship
+level/type/profession/
+location, as well as
+demographic data of
+apprentices.
+S0160 1.
+S0161 Developing Skills
+S0162 What does success look like?
+S0163 Apprentices with strong professional capabilities, to be part of a highly capable, skilled and engaged Civil Service with effective leaders.
+S0164 Ambition Delivering… Measure…
+S0165 …the number of apprenticeships we deliver across Commercial, Digital, Data and Technology and Project Delivery.
+S0166 1. Where the Civil Service has a skills gap (as referenced in the Civil Service Workforce Plan), for the professions and functions to develop and run apprenticeship schemes by 2020.
+S0167 …apprenticeships that are targeted in priority areas to meet existing and future skills gaps and help develop world-class leaders and experts at all levels of the organisations.
+S0168 …the spread of apprenticeship levels for annual apprenticeship starts.
+S0169 …training at all levels across the Civil Service.
+S0170 This will raise the profile of apprenticeships and allow departments to build them into workforce plans to address specific skill gaps at a range of grades.
+S0171 …employer responses as part of a Civil Service Apprenticeship Employer Survey.
+S0172 … a reduction in the reliance on contingent labour in areas where the Civil Service has a shortage of skills.
+S0173 3.
+S0174 For a sample of employers to agree that apprentices have allowed the department to reduce their reliance on contingent labour, in areas where the Civil Service has skill gaps.
+S0175 …a diverse workforce that reflects the society it serves and contributes to the Civil Service’s aspiration to be the most inclusive employer in the UK.
+S0176 …diversity data for apprentices and the divergence of representation against the economically active population.
+S0177 2.
+S0178 Enhancing Diversity and Social Mobility What does success look like?
+S0179 Apprenticeships to be a key component of an inclusive Civil Service that reflects the society we serve.
+S0180 Ambition Delivering… Measure… 1.
+S0181 In line with wider Civil Service …a diverse workforce that …diversity data for ambitions, for apprentices to reflects the society it serves apprentices and the match the economically active and contributes to the Civil divergence of population for BAME, gender, Service’s aspiration to be representation against disability, LGB&T and socio- the most inclusive the economically active economic background by employer in the UK.
+S0182 population.
+S0183 2020.
+S0184 2.
+S0185 To monitor the diversity and inclusiveness of all apprenticeship starts from 1 April 2016.
+S0186 … data that will enable a more inclusive workforce and social mobility throughout the organisation.
+S0187 …the evolution of the diversity of the apprentice intakes and the inclusivity of the Civil Service.
+S0188 3.
+S0189 For apprenticeships to be embedded in the Civil Service Diversity and Inclusion Strategy, 2017.
+S0190 …specific elements of the strategy such as, outreach, recruitment and representation.
+S0191 …an assurance that apprenticeships are recognised as pivotal to changing the demographic of our workforce.
+S0192 Execution of the strategy will specifically ensure: • targeted engagement with young people from low socio-economic areas, inspiring them to consider apprenticeships.
+S0193 • recruitment processes that are based on an inclusive definition of talent, identifying and attracting people from a range of backgrounds, recognising potential, rather than the finished product.
+S0194 3.
+S0195 Embedding Apprenticeships
+S0196 What does success look like?
+S0197 Apprenticeships to provide a modern employment offer and viable route into, and up through, the Civil Service and the wider economy.
+S0198 Ambition Delivering… Measure…
+S0199 …delivery plans and progress of the professions and functions.
+S0200 …new entry routes into the professions, with clear talent pipelines and career pathways in areas where the Civil Service aims to increase capability.
+S0201 1.
+S0202 All professions to have developed an apprenticeship scheme and for apprenticeships to be included in functional plans and functional career ladders by 2020.
+S0203 …the progress of the apprentices on an annual basis.
+S0204 2.
+S0205 To increase the number of apprentices that move onto the Fast Stream Talent Scheme and to monitor their progress, such as to Grade 7 and Senior Civil Service by 2020 and beyond.
+S0206 …clear career paths, which set out experiences, skills and qualifications required at each level and structured opportunities to develop these, so that we can retain and develop our people.
+S0207 …the engagement of apprentices on an annual basis through the People Survey.
+S0208 …a Civil Service where every apprentice feels valued, an integral part of the organisation and a contributor to the brilliant work that it delivers.
+S0209 3.
+S0210 Annually, for apprentices to score at least in line with the Civil Service benchmark for “I understand how my work contributes to my organisation’s objectives” in the People Survey.
+S0211 4.
+S0212 Ensuring Quality Experiences
+S0213 What does success look like?
+S0214 Apprentices that receive high quality training and feel engaged with the Civil Service and the work it does.
+S0215 Ambition Delivering… Measure…
+S0216 …engagement of apprentices on an annual basis through the People Survey.
+S0217 1.
+S0218 Annually, for apprentices to score above the Civil Service benchmark for employee engagement index in the People Survey.
+S0219 …engaged apprentices that are interested in their work and comfortable in their working environment, allowing them to learn and deliver at their best.
+S0220 …delivery plans and progress of Civil Service employers.
+S0221 … partnering with training providers that, as deemed by an external regulator, offer high quality training and support for apprentices.
+S0222 This will ensure quality of training is consistently high across the Civil Service.
+S0223 2. Where possible, to work with training providers who, at the point of procurement, are rated ‘outstanding’ or ‘good’ by Office for Standards in Education, Children's Services and Skills (Ofsted) or the equivalent body in Wales, Scotland and Northern Ireland.
+S0224 3.
+S0225 To be externally recognised for the quality of Civil Service apprenticeships by 2018.
+S0226 … an enhanced reputation and brand for Civil Service apprenticeships, therefore improving our ability to attract talented individuals.
+S0227 3.
+S0228 To be externally recognised … an enhanced reputation …the esteem and for the quality of Civil Service and brand for Civil Service reputation of Civil Service apprenticeships by 2018.
+S0229 apprenticeships, therefore apprenticeships through improving our ability to the most appropriate attract talented individuals.
+S0230 forum.
+S0231 …the progress of the apprentices on an annual basis.
+S0232 5.
+S0233 Delivering Return on Investment What does success look like?
+S0234 Implementing apprenticeship schemes that achieve the best mix of quality and economic efficiency, by working collaboratively across the Civil Service to maximise strategic outcomes within the resources available.
+S0235 Ambition Delivering… Measure… 1.
+S0236 To monitor the number of …an assurance that …the progress of the apprentices that complete apprenticeships are apprentices on an their apprenticeship and, delivering a return on annual basis.
+S0237 directly after, remain investment by continuing to employed in the Civil Service.
+S0238 contribute to the Civil
+S0239 …an assurance that apprenticeships are delivering a return on investment by continuing to contribute to the Civil Service.
+S0240 …an insight into the added value that apprentices have in their departments.
+S0241 2.
+S0242 For a sample of employers to agree that apprentices have improved productivity in their department.
+S0243 …a strategy to ensure that money the organisation is paying into the levy is effectively funding Civil Service apprenticeships.
+S0244 …the breakdown of spend by apprenticeship level and starts, as well as the amount of levy not utilised.
+S0245 2.
+S0246 For a sample of employers to …an insight into the added …employer responses agree that apprentices have value that apprentices have as part of a Civil Service improved productivity in their in their departments.
+S0247 Apprenticeship department.
+S0248 Employer Survey.
+S0249 3.
+S0250 To monitor and evaluate, at a …a strategy to ensure that …the breakdown of Civil Service level, spend of money the organisation is spend by apprenticeship the apprenticeship levy and, paying into the levy is level and starts, as well where appropriate, for effectively funding Civil as the amount of levy departments to procure Service apprenticeships.
+S0251 not utilised.
+S0252 learning that is within the funding cap (for standards in England) of the apprenticeship levy, as set by the Skills Funding Agency.

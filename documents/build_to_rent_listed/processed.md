@@ -1,0 +1,633 @@
+Planning and Affordable Housing for Build to Rent
+A consultation paper
+S0001 February 2017 Department for Communities and Local Government
+S0002 © Crown copyright, 2017
+S0003 Copyright in the typographical arrangement rests with the Crown.
+S0004 You may re-use this information (not including logos) free of charge in any format or medium, under the terms of the Open Government Licence.
+S0005 To view this licence,http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/ **(Link: 1) or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.
+S0006 **(Link: 2)
+S0007 This document/publication is also available on our website at www.gov.uk/dclg **(Link: 3)
+S0008 If you have any enquiries regarding this document/publication, complete the form at http://forms.communities.gov.uk/ **(Link: 4) or write to us at:
+S0009 Department for Communities and Local Government Fry Building 2 Marsham Street London SW1P 4DF Telephone: 030 3444 0000
+S0010 For all our latest news and updates follow us on Twitter: https://twitter.com/CommunitiesUK **(Link: 5)
+S0011 February 2017
+S0012 ISBN: 978-1-4098-4992-6
+S0013 Scope of the consultation 4
+S0014 1. Introduction 5
+S0015 2. Background 7
+S0016 3. Build to Rent - Overview of Policy Proposals 12
+S0017 4.
+S0018 Implementing Build to Rent and Affordable Private Rent 20
+S0019 Annex A: Summary Equalities Statement 30
+S0020 Annex B: Consultation Questions 32
+S0021 Annex C: About this consultation 41
+Scope of the consultation
+Topic of this
+consultation: | This consultation seeks views on planning and affordable
+housing policies intended to speed up the development of
+large-scale, purpose-built privately rented housing – an
+emerging housing sector known as ‘Build to Rent’.
+Geographical
+scope: | These proposals relate to England only.
+Impact
+Assessment: | The proposed policies do not impose a regulatory burden on
+business, so no Impact Assessment has been prepared.
+Duration: | This consultation will last for twelve weeks from 7th February
+2017 until 1st May 2017.
+Enquiries: | For any enquiries about the consultation please contact -
+BTRconsultation@communities.gsi.gov.uk
+How to respond: | You may respond by completing an online survey at:
+https://www.surveymonkey.co.uk/r/5YTPVT3
+This is the preferred method for responding to this consultation.
+Alternatively you can email your response to the questions in
+this consultation to BTRconsultation@communities.gsi.gov.uk
+If you are responding in writing, please make it clear which
+questions you are responding to.
+Written responses should be sent to:
+Housing Led Regeneration and Investment Team, 3rd Floor,
+Fry Building, 2 Marsham Street, London SW1P 4DF
+When you reply it would be useful if you confirm whether
+you are replying as an individual or submitting an official
+response on behalf of an organisation and include:
+- your name,
+- your position (if applicable),
+- the name of organisation (if applicable),
+- an address (including post-code),
+- an email address, and
+- a contact telephone number
+1. Introduction
+S0022 Recent years have seen the emergence of a new sector in the housing market, namely large-scale developments purpose-built for private rent – often referred to as ‘Build to Rent’.
+S0023 In part, the emergence of this sector is due to actions taken by the Coalition Government following the 2012 Montague Review but it also reflects underlying demographic and economic conditions of high demand for rented housing and the abundant availability of institutional capital for investment in residential property. ** (Reference: 1)
+S0024 The Government welcomes Build to Rent as a desirable and enduring feature of the housing market.
+S0025 This support is set out in the 2017 Housing White Paper. ** (Reference: 2)
+S0026 The number of new Build to Rent homes constructed is steadily increasing, but the Government has heard from developers and investors that barriers to development remain and that the capital available for investment could be deployed faster if those barriers are overcome.
+S0027 Acquisition of land, the predictability and speed of planning decisions for this emerging sector and the negotiation of planning obligations relating to affordable housing are frequently cited as key barriers.
+S0028 This consultation paper seeks views on planning measures intended to support Build to Rent through the planning system and make the benefits of Build to Rent more widespread.
+S0029 These include the availability of longer tenancies (to those tenants who want one) and facilitating a new form of affordable housing, known as Affordable Private Rent. We want to hear the views of developers and investors in the Build to Rent industry, local authorities and also developers and landlords of other housing tenures. ** (Reference: 3)
+S0030 This consultation will also be of interest to individuals living or intending to live in rented housing.
+S0031 All responses to the paper should be submitted no later than 1st May 2017.
+S0032 We encourage respondents to use the online survey available at https://www.surveymonkey.co.uk/r/5YTPVT3 **(Link: 6) although written responses can also be emailed to BTRconsultation@communities.gsi.gov.uk **(Link: 7).
+S0033 To help us analyse the consultation responses, we would ask you to answer the following questions.
+S0034 Questions:
+S0035 Q 1: Please provide your name and contact details in the box provided, and identify whether you are responding (please tick one):
+S0036 • as a private individual?
+S0037 • on behalf of an organisation?
+S0038 Q 2.
+S0039 If you are responding as a private individual, please identify in what capacity you are replying and whether your main interest is as:
+S0040 •
+S0041 A person living in private rented accommodation?
+S0042 •
+S0043 A person living in affordable housing?
+S0044 •
+S0045 A private landlord?
+S0046 •
+S0047 Other?
+S0048 (Please specify) Q 3.
+S0049 If you are responding on behalf of an organisation, please identify in what capacity you are replying and the main interest of your organisation (tick all that apply):
+S0050 • An investor in Build to Rent schemes •
+S0051 A developer of Build to Rent homes • A lender to Build to Rent schemes • A supplier of management and/or other services to Build to Rent homes • Other private landlord • Social landlord (either Registered Provider or local authority) •
+S0052 A developer of other housing tenures besides Build to Rent •
+S0053 A trade or other representative body • Local authority • Other?
+S0054 (please specify) Q 4.
+S0055 Please specify the part(s) of England in which you live, or your organisation’s activities (or members) are principally located (you may tick more than one):
+S0056 • London • South East • East of England • South West • East Midlands • West Midlands • Yorkshire & Humber •
+S0057 North East • North West • Other (please specify)
+2. Background
+Introduction - The emergence of Build to Rent
+S0058 The sector that we now refer to as ‘Build to Rent’ originally started in the 1920s and 30s when financial investors, such as insurance companies, started to develop and own purpose-built housing for private rent.
+S0059 The sector declined in the post-war era as a result of rent controls and other regulations on tenancies.
+S0060 These undermined the financial viability of new privately rented housing and led to deterioration of privately rented properties, as rents barely covered maintenance costs.
+S0061 Institutions stopped developing, and gradually sold off their portfolios, with the result that, by 2010, landlords owning 100 or more rented properties accounted for just one tenth of one per cent of all landlords. In the place of institutional investors, local authorities and housing associations became large scale developers and owners of rented housing. ** (Reference: 4)
+S0062 Despite the relaxation of rent controls and regulations in the 1980s, the institutional housing sector failed to revive.
+S0063 Key reasons for this include long-term memories of the risks of adverse regulation, the decline in the reputation of the private rented sector, and other factors such as the greater availability of mortgages for owner occupiers.
+S0064 Recognising the supply and other potential benefits of the Build to Rent sector, as evidenced by the “multifamily housing” industry in the US and elsewhere, the Coalition Government instituted a review into the barriers to institutional investment in housing (the Montague Review) in 2012. ** (Reference: 5)
+S0065 A number of measures were undertaken following the Montague Review.
+S0066 These included:
+S0067 •
+S0068 The formation of a time-limited task force charged with kick-starting the sector.
+S0069 •
+S0070 Publication of guidance for industry and also for local authorities. • ** (Reference: 6)
+S0071 Facilitating access to short-term and long-term debt finance through the Build to Rent Fund, the Private Rented Sector housing guarantee scheme, and more recently the Home Building Fund.
+S0072 • Amendments to national planning guidance, in particular viability assessment. ** (Reference: 7)
+S0073 The demographic and market drivers of Build to Rent are strong.
+S0074 With household formation outstripping house building, demand for rented housing is high.
+S0075 PWC, a consultancy firm, has predicted that 25 per cent of households will be living in the private rented sector by 2025, up from 19 per cent in 2014-15. ** (Reference: 8,9)
+S0076 The attractive returns from residential property, compared with other investments, have also attracted institutional investment.
+S0077 The British Property Federation estimates that there is almost £50 billion of capital available for Build to Rent. ** (Reference: 10)
+S0078 The main benefits of Build to Rent Boosting supply.
+S0079 Build to Rent can boost housing supply for a number of reasons.
+S0080 The availability of institutional investment creates an additional and, compared to building for sale, less cyclical source of capital to support housing development.
+S0081 On larger sites, Build to Rent schemes can be developed faster than homes built for sale because they can be absorbed by the market more quickly.
+S0082 The investor’s desire for a rapid income stream means they are likely to utilise modern methods of construction (such as offsite construction) that can complement and enhance the supply chain for housing development.
+S0083 Build to Rent developers will also tend to favour town-centre sites that are less attractive for housebuilders and, where permitted, will be aiming for higher housing density than housebuilders, because they are usually aiming at a younger client base than traditional housebuilders.
+S0084 Quality and choice.
+S0085 Whilst most individual private landlords offer an acceptable service, Build to Rent schemes are built and professionally managed on a scale that typically allows a higher level of services (e.g. on-site concierge) and amenities (e.g. communal space) to be offered to their customers.
+S0086 For apartments, the investor is incentivised to maintain not only the apartment itself, but also the building and the wider public realm; and, because the business model is primarily based on income rather than capital gains, to attract and retain customers by offering a good service.
+S0087 That income-driven model also means that Build to Rent landlords are typically willing to offer longer term tenancies to those customers who want one.
+S0088 This is particularly helpful for families with children.
+S0089 Economic growth.
+S0090 By speeding up development on sites that might not otherwise come forward, Build to Rent schemes can contribute to town centre regeneration and accelerate local authority revenues in the form of council tax, new homes bonus and business rates and monetising surplus public sector land.
+S0091 A number of cities have seen Build to Rent as a way to attract and retain the skilled mobile labour force that their local economy needs.
+S0092 Investment appetite.
+S0093 Once completed, Build to Rent schemes provide a relatively low-risk and predictable income stream, which is well suited to the needs of investors such as pension funds seeking to match their inflation-linked pension liabilities.
+S0094 As a result of these demographic and market conditions, and the measures implemented following the Montague Review, the Build to Rent market has started to grow.
+S0095 The British Property Federation estimates that 10,400 Build to Rent homes have been completed in England since 2012, with 26,200 under construction and a further 35,600 with planning permission. Around half of these homes are in London, although the proportion outside London (mainly the wider south east and major regional cities such as Manchester, Liverpool and Birmingham) is growing. ** (Reference: 11)
+S0096 The outlook for Build to Rent
+S0097 Given the progress made over the past four years, the Government considers that Build to Rent is now becoming established and that it will continue to develop and spread out across a broader customer base and geography.
+S0098 Industry sources have referred to the potential, with the right level of government support, for supply of Build to Rent homes to reach 10,000 homes per year by 2020 and for the level of investment appetite to grow beyond the £50 billion that has been posited by Knight Frank and others. ** (Reference: 12,13)
+S0099 The growth of the industry in the USA over the past three decades gives an indication of the potential.
+S0100 However, we have also heard clear concerns expressed by the growing industry that there are still barriers that are getting in the way of Build to Rent development.
+S0101 The Government wants to increase the rate of housebuilding and considers that there are policy changes that could help speed up delivery of Build to Rent and increase the number of houses built each year, as well as unlocking the wider benefits that Build to Rent has to offer.
+S0102 Barriers and the case for intervention
+S0103 As an emerging industry facing a number of market and regulatory failures, Build to Rent is not yet sufficiently established to compete to its full potential against established housing developers.
+S0104 A number of barriers have been cited by industry.
+S0105 These include:
+S0106 requirements and housing mix can make it difficult for Build to Rent developers to bid for land in competition with housebuilders intending to build homes for sale.
+S0107 •
+S0108 Finally, the methodology for ascertaining viability for Build to Rent is less well understood by local planning authorities than for other tenures.
+S0109 The Build to Rent model differs from build for sale in that it is based on a long term income stream and does not generate an early capital sum to pay for affordable housing.
+S0110 This creates difficulties in assessing viability at the outset.
+S0111 Market and regulatory failure Market failure arises where the market does not and cannot be expected to deliver an efficient outcome.
+S0112 In the case of Build to Rent, this is a new sector of the housing market where barriers to entry are high and established “build for sale” developers may therefore be able to exert significant market power.
+S0113 Another market failure is imperfect information, i.e. the absence of the information needed for the market to operate efficiently and / or the unavailability of that information to all participants.
+S0114 For example:
+S0115 • As a new product, with low customer awareness, it is difficult for Build to Rent investors to build into their financial modelling the rental premium the services and amenities provided should command, relative to the private rented sector as a whole.
+S0116 • Since this is a new market in this country the cost of capital to Build to Rent schemes, and the terms on which capital will be available, are not yet well understood, and these terms are themselves exacerbated by lack of information based on long term financial performance.
+S0117 The establishment over time of a secondary market (as is happening for purpose built student accommodation) and greater familiarity in the lending markets (following on from government-led lending schemes)
+S0118 will assist this.
+S0119 A secondary market should also help establish income-based valuation methodologies, and so avoid the need for investors to record their assets at a discount to vacant possession.
+S0120 Finally, Build to Rent schemes may generate benefits for other parties which are not fully priced into the income received by the investor.
+S0121 Examples of such externalities could include: earlier tax revenues for local authorities from faster development; the macro- economic benefit arising from a cyclically resilient form of investment; and, on larger regeneration schemes, the catalytic role of Build to Rent in galvanising development on the site and nearby town centres, and the stewardship role of the owner in the public realm.
+S0122 Regulatory failure arises where the regulatory environment creates unintended barriers to the market.
+S0123 A lack of familiarity of planning authorities with the characteristics of Build to Rent might be an example of regulatory failure, as it can lead to delays in obtaining planning approval (with a consequential impact on viability).
+S0124 This can reduce investors’ willingness to invest, creating a more uncertain planning outcome compared to more established forms of housing.
+S0125 Marginal financial viability does not, by itself, provide a case for intervention.
+S0126 Build to Rent is a form of market housing which ought to compete on a level playing field with other forms of market housing.
+S0127 However, the Government recognises that, as a new market, Build to Rent may be subject to some market and regulatory failures (see box on previous page) which either merit time-limited intervention, or where policy needs adjusting to remove blockages.
+S0128 Question:
+S0129 Q 5: Do you consider there are market and regulatory failures impeding the rapid development of the Build to Rent market that merit national policy intervention?
+S0130 Please add comments.
+Policy measures to support Build to Rent
+S0131 The 2017 Housing White Paper sends a clear message of the Government’s support for Build to Rent.
+S0132 This consultation seeks views on several measures which should help to improve the financial viability and the predictability of planning outcomes for the sector.
+S0133 The main proposed measures are:
+S0134 • Placing further emphasis on Build to Rent through planning policy; • encouraging an alternative approach to affordable housing for Build to Rent called Affordable Private Rent (sometimes referred to as Discounted Market Rent); and
+S0135 • strengthening the expectation on Build to Rent schemes to offer a Family Friendly Tenancy of three years or more, to those tenants who want one.
+S0136 The measures contained in this consultation will not by themselves address all of the teething issues faced by an emerging industry, such as supply chains, benchmarking data, and valuation.
+S0137 These are essentially issues for industry to resolve.
+S0138 However, the Government intends to establish a joint committee with industry to provide a forum in which the Government, industry, and the wider public sector can work together to ensure all play their part in overcoming hurdles within their own areas of responsibility, and address wider barriers to Build to Rent.
+3. Build to Rent - Overview of Policy Proposals
+Introduction and existing policy
+S0139 This chapter sets out the high level proposals the Government wishes to take forward.
+S0140 The main objective is for planning policy to be recast to specifically support Build to Rent.
+S0141 Alongside that the Government also wants to promote an emerging form of affordable housing provision called “Affordable Private Rent", which is well suited to Build to Rent schemes.
+S0142 The Government wants the planning system to play its part in supporting Build to Rent, alongside a broader set of planning reforms that are already underway to bring more land into the development system and speed up the conversion of applications into development activity.
+S0143 Case study: London Borough of Wandsworth
+S0144 The London Borough of Wandsworth’s core strategy, adopted in March 2016, includes a policy on Build to Rent.
+S0145 It says:
+S0146 “The Council supports the development of private rented sector housing and schemes offering a mixture of private and intermediate rented housing aimed at working households.
+S0147 Where developers are willing to enter into legal agreements securing such housing for local needs or lower to middle income households with security of tenure, any impacts on the market value of such developments will be taken into account in viability assessments.”
+S0148 Local authorities already have tools and powers at their disposal to support Build to Rent.
+S0149 For example, as part of their plan-making and decision taking processes, authorities can:
+S0150 • Assess the need for market rented housing as part of preparing Strategic Housing Market Assessments.
+S0151 • Identify sites in their Strategic Land Availability Assessments which might be well suited to particular types of development.
+S0152 • Include policies in their local plans on particular forms of housing (see box above).
+S0153 • Differentiate policies on Planning Obligations (whether S106 or Community Infrastructure Levy) by tenure.
+S0154 (See the box overleaf on affordable housing and viability).
+S0155 • Choose whether or not to deploy the nationally described space standard, taking into account viability and need considerations.
+S0156 Build to Rent developers have
+S0157 called for greater flexibility on space standards.
+S0158 The Housing & Planning White Paper commits to a review of the Nationally Described Space Standard to consider how it is working in practice and how it fits with new ways of meeting housing demand.
+S0159 The Government encourages responses to the forthcoming consultation from across the Build to Rent sector.
+S0160 Affordable housing and viability The requirement, in many parts of the country, to provide affordable housing alongside market housing can be a significant cost affecting the financial viability of development.
+S0161 Section 106 planning obligations, which may include affordable housing, have to meet statutory tests in order to be taken into account in planning decisions.
+S0162 Decision taking on planning applciations does not normally require an assessment of viability.
+S0163 However, local planning authorites may ask for a viability appraisal from applicants, or the applicant may submit one if it considers that the scale of planning obligations sought may threaten the viability of its proposals.
+S0164 Where the viability of a proposal is in question, national planning guidance states that local planning authorities should be flexible in applying their policy requirements where possible.
+S0165 This may result in a proposal proceeding with a lower level of affordable housing provision than specified in the local plan.
+S0166 However, the viability process can be protracted – especially where (as for Build to Rent) the economic model is not well understood or catered for in existing viability methodology and uncertainty over the outcome of that process puts Build to Rent developers at a disadvantage in bidding for land.
+S0167 In 2015, the viability section of national planning guidance was amended to refer to the private rented sector. The guidance states: “Some privately rented homes can come from purpose built schemes held in single ownership which are intended for long term rental. ** (Reference: 14)
+S0168 The economics of such schemes differ from build to sale and should be determined on a case by case basis.
+S0169 To help ensure these schemes remain viable while improving the diversity of housing to meet local needs, local planning authorities should consider the appropriate level of planning obligations, including for affordable housing, and when these payments are required.
+S0170 So these homes remain available to rent only, local planning authorities may choose to explore using planning obligations to secure these schemes for a minimum period of time.
+S0171 Local planning authorities should enforce these planning obligations in the usual way.”
+S0172 Local authorities also have non-planning powers at their disposal through which they can support Build to Rent – such as using their own local authority land holdings.
+S0173 The Government published guidance for local authorities on Build to Rent in March 2015 and this featured a number of examples of how local authorities are supporting Build to Rent. ** (Reference: 15)
+S0174 Following this consultation we will consider whether that guidance will need to be updated.
+S0175 Re-aligning National Planning Policy
+S0176 The Government believes authorities should be considering the potential of the Build to Rent sector to help meet the housing needs of their area.
+S0177 The Government considers, therefore, that it would be helpful to revise the National Planning Policy Framework to refer to Build to Rent as a form of housing which planning authorities should consider.
+S0178 This revision is necessary to ensure planning authorities are provided with clear policy guidance on how to apply the approach in their plans and in development management decisions.
+S0179 The issue of how to define Build to Rent, for the purposes of the National Planning Policy Framework, is discussed in the next Chapter.
+S0180 Question Q 6: Do you agree with the proposal to refer explicitly to Build to Rent in the National Planning Policy Framework?
+S0181 Affordable Private Rent The Government is aware of an emerging planning practice by some London boroughs, and elsewhere, of Build to Rent schemes offering a proportion of homes available at a discounted level of rent (sometimes referred to as “Discounted Market Rent”) as an alternative to other forms of affordable housing provision. ** (Reference: 16)
+S0182 This offer is made using existing policy but would be greatly assisted if national policy was realigned as stated above.
+S0183 A big advantage of Affordable Private Rent is that, by combining all of the market and discounted units into a single development under common control, without the separate involvement of a social landlord, efficiencies can be realised in the design, density, construction and management of schemes.
+S0184 These efficiencies improve financial viability.
+S0185 They also enable a greater number of affordable units to be provided in total than would normally be the case for an equivalent scheme delivered under conventional construction approaches.
+S0186 By ‘pepper-potting’ the physically indistinguishable discounted homes throughout the scheme, there may also be a broader social benefit of creating a mixed and well integrated community within the development.
+S0187 The Government recognises the arguments in favour of allowing Affordable Private Rent in place of other forms of planning for affordable housing on Build to Rent schemes.
+S0188 The proposed revision to the National Planning Policy Framework will, therefore, make it explicit that Affordable Private Rent can count as a form of affordable housing, and that it is also particularly well suited to Build to Rent.
+S0189 The revision will set an expectation that
+S0190 Case Study: The Rehearsal Rooms, Ealing
+S0191 planning authorities should give consideration to asking for Affordable Private Rent in place of other forms of affordable housing in Build to Rent schemes.
+S0192 This revision would not replace the need for Build to Rent developments to meet any other agreed planning obligations.
+S0193 A potential definition of Affordable Private Rent is set out in Chapter 4.
+S0194 Case Study: The Rehearsal Rooms, Ealing
+S0195 In 2015, the London Borough of Ealing converted a conventional residential for sale planning consent into a consent for private rented sector properties in North Acton.
+S0196 Ealing has been keen to facilitate the development of institutionally funded volume private rented sector housing and North Acton is an ideal location.
+S0197 The new planning consent included a section106 agreement which provided for the affordable housing contribution to be in the form of 30 discounted private rented sector units, and managed as part of the scheme, without involving a separate Registered Provider.
+S0198 Eligibility for living in the discounted homes is determined on the basis of tenants’ household income and a lettings and management plan is contained within the revised Section 106 agreement, that gives further clarity to how the apartments will be allocated and managed.
+S0199 This 173 home development (known as The Rehearsal Rooms) is currently under construction by Hub Residential, and will be owned by M&G (an institutional investor).
+S0200 In 2015, the London Borough of Ealing converted a conventional residential for sale planning consent into a consent for private rented sector properties in North Acton.
+S0201 Ealing has been keen to facilitate the development of institutionally funded volume private rented sector housing and North Acton is an ideal location.
+S0202 The new planning consent included a section106 agreement which provided for the affordable housing contribution be in the form of 30 discounted private rented sector units, and managed as part of the scheme, without involving a separate Registered Provider.
+S0203 Eligibility for living in the discounted homes is determined on the basis of tenants’ household income and a lettings and management plan is contained within the revised Section 106 agreement, that gives further clarity to how the apartments will be allocated and managed.
+S0204 This 173 home development (known as The Rehearsal Rooms) is currently under construction by Hub Residential, and will be owned by M&G (an institutional investor).
+S0205 Delivering Affordable Private Rent We think the take up of Affordable Private Rent could be assisted if the Government specified the terms under which, if offered as part of a planning application, it should be accepted as a Build to Rent development’s contribution to affordable housing.
+S0206 Developers would then be able to calculate the cost of offering a certain proportion of the homes at a
+S0207 given level of discount and be able to factor that cost into their calculations when bidding for land.
+S0208 This would help level the playing field across the various ways in which affordable homes are provided.
+S0209 The Government’s proposed terms for the provision of Affordable Private Rent are a mininimum of 20% of the homes, at a minimum of 20% discount, provided in perpetuity.
+S0210 More details about the discount calculation are set out in Chapter 4.
+S0211 To meet this aim the Government intends to set an expectation in the National Planning Policy Framework that, where Affordable Private Rent is offered, consideration should be given to accepting it instead of other forms of affordable housing.
+S0212 The intention is that this should provide a sufficiently robust expectation that local authorities do not seek to require alternative affordable housing products to Affordable Private Rent in Build to Rent schemes.
+S0213 Where a scheme cannot sustain the level of provision indicated above, then it would be for the local planning authority to determine what type and level of affordable housing provision is warranted – whether Affordable Private Rent or otherwise.
+S0214 The effect of explicitly referring to Affordable Private Rent in the National Planning Policy Framework will also be to give planning authorities confidence that Affordable Private Rent counts as a form of affordable housing in Build to Rent schemes, and enable them to confidently consider this tenure as affordable housing in plan-making and decision taking.
+S0215 Changing the National Planning Policy Framework this way will also allow sufficient flexibility for developers to offer alternative approaches where appropriate.
+S0216 For example:
+S0217 • developers could seek different Affordable Private Rent terms (e.g. greater discount but fewer discounted homes), in negotiation with planning authorities; • developers would not necessarily be obliged to offer Affordable Private Rent homes in the first place and instead could negotiate to provide different affordable housing products on site as they deem necessary.
+S0218 If it becomes evident that changing the National Planning Policy Framework is insufficiently robust as a vehicle for ensuring planning authorities only seek Affordable Private Rent in Build to Rent schemes, the Government may consider if further measures such as legislation are needed.
+S0219 Notwithstanding the benefits arising from this new tenure for Build to Rent schemes, risks could potentially arise if Affordable Private Rent is widely adopted in other contexts besides Build to Rent, e.g. if widespread uptake on other types of development meant that fewer new affordable homes were made available as Affordable Private Rent or as other types of affordable housing.
+S0220 The Government is therefore interested to hear whether there might be unintended consequences of Affordable Private Rent and whether these would be mitigated by limiting its acceptability as affordable housing to situations where it is provided as part of a Build to Rent scheme.
+S0221 Questions:
+S0222 Q 7: Do you think that Government should set a policy expectation on Affordable Private Rent in the National Planning Policy Framework, or not?
+S0223 (Please state your reasons.)
+S0224 Q 8: Will a policy expectation in the National Planning Policy Framework send a sufficiently strong signal to support Affordable Private Rent as the main vehicle for affordable housing in Build to Rent?
+S0225 (Please state your reasons) Q 9: Do you consider that Affordable Private Rent could play a useful role in the delivery of affordable housing in the area(s) where you live or operate?
+S0226 Q 10: Do you consider that the efficiencies arising through on-site provision of Affordable Private Rent can materially improve the viability of Build to Rent, compared to other affordable housing tenures?
+S0227 Q 11: Do you consider that there could be unintended consequences of Affordable Private Rent if it is accepted as a form of affordable housing?
+S0228 Q 12: If your answer to Q11 is yes, would these consequences be mitigated by limiting Affordable Private Rent only to Build to Rent schemes?
+Family Friendly Tenancies
+S0229 As a business model based on a long term income stream, Build to Rent lends itself well to offering longer tenancies to those tenants who want one, especially families with children.
+S0230 Meeting this need has become more important as the proportion of households in the private rented sector with dependent children has increased from 29 per cent in 2003-04 to 37 per cent in 2014/15. The Government expects that family friendly tenancies of three years (or more) will become the norm (for those tenants who want one) in Build to Rent. ** (Reference: 17)
+S0231 We are working with the British Property Federation and National Housing Federation to consolidate this approach across the sector.
+S0232 There are no plans to legislate that particular types of private landlord must offer longer tenancies.
+S0233 However, Build to Rent schemes taking up the proposals on Affordable Private Rent set out in this document should be expected to offer family friendly tenancies (to those tenants who want one, and who are eligible to live in the country for that period under the right to rent) and this can be secured through planning obligations.
+S0234 Family Friendly Tenancies Many Build to Rent landlords already offer their customers
+S0235 Assured Shorthold Tenancies with a longer fixed period than the statutory minimum period of six months.
+S0236 The Government wants to see longer term tenancies of three (or more) years offered more routinely to those tenants who want one.
+S0237 The features of such an offer would be:
+S0238 • There is no obligation on the customer to take up the offer of a three year tenancy.
+S0239 They may prefer a tenancy of six months or perhaps one or two years.
+S0240 • Where the rent is to be reviewed during the period of the tenancy, the basis of calculating the increase (whether as a fixed percentage or tied to inflation) should be clearly set out in the agreement.
+S0241 Case Study: East Village, Newham
+S0242 •
+S0243 The tenant should not be locked into the tenancy for the full period of the tenancy.
+S0244 The tenant should have the option to terminate at one months’ notice, after the first six months, without a break fee being payable.
+S0245 Case Study: East Village, Newham In 2013, Get Living London launched its first homes for rent at the former London Olympic and Paralympic Athletes’ Village.
+S0246 Spread across 75 acres, the East Village provides 1,439 homes for market rent.
+S0247 Long-term tenancies of up to three years are available, with index-linked rental increases and the flexibility of resident-only break clauses and no fees or hidden costs to pay.
+S0248 At least three-quarters of residents now take up three year tenancies.
+S0249 The scale of the development allows Get Living to offer a range of initiatives to help build a strong community; from supporting the E20 Football Foundation, East Village Playgroup and ‘Echo’ time-bank project through to offering free outdoor fitness classes
+S0250 In 2013, Get Living London launched its first homes for rent at the former London Olympic and Paralympic Athletes’ Village.
+S0251 Spread across 75 acres, the East Village provides 1,439 homes for market rent.
+S0252 Long-term tenancies of up to three years are available, with index-linked rental increases and the flexibility of resident-only break clauses and no fees or hidden costs to pay.
+S0253 At least three-quarters of residents now take up three year tenancies.
+S0254 The scale of the development allows Get Living to offer a range of initiatives to help build a strong community; from supporting the E20 Football Foundation, East Village Playgroup and ‘Echo’ time-bank project through to offering free outdoor fitness classes and hosting community events such as Easter egg hunts and Eid fun days.
+S0255 Larger scale events also take place throughout the year, including the annual Summer fair, outdoor 18 cinema season, fireworks evening and Christmas makers market.
+S0256 Questions:
+S0257 Q 13: Do you think it is reasonable for Planning Authorities to specify minimum tenancy lengths in Build to Rent schemes?
+S0258 Please add your reasons, and give examples of such agreements where appropriate.
+S0259 Q 14: Do you agree that Build to Rent tenancies should be for at least three years (with a one month break option for the tenant after the first six months), for all customers in the development who want one?
+S0260 Alternative planning policy support for Build to Rent There have been a number of other suggestions from the Build to Rent industry at various times on how to promote Build to Rent via the planning system (aside from proposals on affordable housing covered in the next section).
+S0261 The Government has considered these suggestions and does not think that any of them are desirable or workable, for the reasons given below.
+S0262 The Government therefore has no plans to consult on, or to implement them.
+S0263 The suggestions include -
+S0264 • Permission in principle in favour of Build to Rent schemes meeting certain characteristics.
+S0265 As currently configured, permission in Principle cannot be used to specify tenure, so it would not be effective in planning for Build to Rent.
+S0266 • Presumption in favour of Build to Rent schemes meeting certain characteristics.
+S0267 There is already a concept of presumption in favour of sustainable development embedded within the National Planning Policy Framework.
+S0268 • Permitted development rights for Build to Rent schemes meeting certain characteristics.
+S0269 Build to Rent developments are generally quite large and so should be considered through the planning system as per normal.
+S0270 •
+S0271 Creation of a restrictive zone or specific planning use class for Build to Rent.
+S0272 This option is likely to have perverse outcomes and would limit the flexible use of land for housing.
+4. Implementing Build to Rent and Affordable Private Rent
+Introduction
+S0273 This chapter sets out the key issues which will need to be addressed in order to implement the policy proposals set out in Chapter 3.
+S0274 Definition of Build to Rent We have heard calls from the Build to Rent industry for a definition of Build to Rent to be set in policy.
+S0275 Having such a definition could help the planning system support and adjust to this new type of tenure and policy, and provide more certainty for developers in negotiations on land bids and with local authorities.
+S0276 The Government does not consider a detailed definition is necessary since it could be over- rigid or inflexible and constrain options in operating this new sector.
+S0277 However, the Government agrees that some form of definition will be needed to give effect to the policy proposals.
+S0278 We think that the definition will need to incorporate the following features and principles, and would like your views as to whether these encompass all the necessary characteristics: • tenure – Build to Rent buildings will typically be 100 percent rented out, albeit they may form part of a wider multi-tenure development; • typology – schemes can be either flats or houses, but will have to be on the same site and/or contiguous; • tenancy length – schemes will as a norm offer longer tenancy agreements of three years or more (to those tenants who want a longer tenancy); • management and ownership – schemes will typically be professionally managed stock in single ownership and management control; • Affordable Private Rent – this will be the normal vehicle for providing the affordable homes element in schemes (as opposed to other forms negotiated through S106).
+S0279 It has been proposed by some people that a definition should include a covenant to ensure that schemes should remain as rented housing for a minimum period.
+S0280 The Government is interested in views on this but is not minded to include a minimum covenant period in the definition.
+S0281 As explained in the “clawback” section on page 24, covenants may work in some parts of the country but could be too rigid an imposition universally, which is why a more flexible clawback arrangement may be more appropriate.
+S0282 The Government is interested to explore whether the definition should include any quantifiable elements relating to minimum scheme size (eg. 50 units), and the pros and cons of including or excluding them.
+S0283 Build to Rent is a tenure that lends itself to development at scale, but viable schemes will vary in size across the country.
+S0284 Similarly the costs of
+S0285 managing schemes and for including elements of Affordable Private Rent (or not) will differ widely according to circumstance.
+S0286 Question:
+S0287 Q 15: Does the definition of Build to Rent set out on page 20 capture all of the appropriate elements?
+S0288 (If not, please state why, and what criteria should apply).
+S0289 Definition of Affordable Private Rent
+S0290 The existing definition of affordable housing in the National Planning Policy Framework implicitly allows Affordable Private Rent to count as intermediate housing where the following conditions apply:
+S0291 •
+S0292 The housing is provided to eligible households whose needs are not met by the market.
+S0293 •
+S0294 Eligibility is determined with regard to local incomes and local house prices.
+S0295 •
+S0296 The homes should include provisions to remain at an affordable price for future eligible households or for the subsidy to be recycled for alternative affordable housing provision.
+S0297 •
+S0298 The housing is provided at a cost above social rent but below market levels.
+S0299 The Government proposes to put beyond doubt that Affordable Private Rent counts as a form of affordable housing by referring to it explicitly in the National Planning Policy Framework.
+S0300 The Government is considering the following definition for the specific purposes of Build to Rent, which should also be read alongside the wider affordable housing definition changes proposed in the 2017 Housing White Paper:
+S0301 “Affordable Private Rent housing is housing that is particularly suited for providing affordable housing as part of Build to Rent Schemes.
+S0302 It is made available for rent at a level at least 20 per cent below local market rent.
+S0303 Eligibility is determined with regard to local incomes and local house prices.
+S0304 It should include provisions to remain at a discount for future eligible households or for alternative affordable housing provision to be made if the discount is to be withdrawn.
+S0305 Questions:
+S0306 Q 16: Do you agree that the National Planning Policy Framework should put beyond doubt that Affordable Private Rent qualifies as affordable housing in Build to Rent schemes?
+S0307 (If not, please state why.)
+S0308 Q 17: Do you agree with the proposed definition of Affordable Private Rent set out on page 21?
+S0309 (If not, please state why, and what criteria should apply).
+Parameters of Affordable Private Rent
+S0310 Since Government is minded to support Affordable Private Rent as a national planning policy, it is also necessary, alongside providing a definition, to decide the parameters under which an offer of Affordable Private Rent should be acceptable to local authorities in place of other affordable housing.
+S0311 There are several elements to this:
+S0312 •
+S0313 The minimum proportion of homes that are to be offered at a discount.
+S0314 •
+S0315 The minimum level of discount that should be offered on those homes.
+S0316 • What happens if, for any reason, the Affordable Private Rent homes should cease to be available (if, for example, homes are sold off within the development, leaving it unfeasible to manage the discounted housing on an ongoing basis).
+S0317 There are trade-offs between these different elements.
+S0318 The Government’s aim is to provide for a reasonable level of affordable housing provision without placing an undue burden on Build to Rent schemes.
+S0319 In the interests of simplicity and predictability, the Government is not attracted to differentiating these elements across the country, although the very specific nature of the rental market in London means that a different level could potentially be set there, in consultation with the Mayor (see page 27).
+S0320 The Government is consulting on the following propositions for a national approach:
+S0321 • All tenants in the development (whether paying market rent or Affordable Market Rent) are to be offered (but not required to take up) a family friendly tenancy of three or more years (see page 17).
+S0322 •
+S0323 A minimum of 20 per cent of the homes within the scheme would be offered at Affordable Private Rent, and (to the extent practicable) the homes offered at a discount should be broadly representative of the overall development, in terms of numbers of bedrooms.
+S0324 Consistent with the tenure-blind ethos of Affordable Private Rent, the specific homes within the development that would be provided at a discount could be flexed over time.
+S0325 •
+S0326 The average discount to be offered across any development would be at least 20 per cent relative to local market rent levels (i.e. the comparator would not be the market rent homes within the scheme itself).
+S0327 The discount would be calculated when a discounted home is rented out (or the tenancy renewed), and the rent on the discounted home would then increase at no more than inflation during the period of the tenancy.
+S0328 Where the level of discount is to be flexed across the scheme (e.g. some units discounted by more than 20 per cent, others at less, so as to preserve an average of 20 per cent), then this would be agreed with the local authority.
+S0329 •
+S0330 The discount on the Affordable Private Rent homes would apply indefinitely.
+S0331 If, at any time, it became necessary to withdraw the discount (for example because the homes were to be sold out of the private rented sector), then there would be a requirement to make alternative provision for affordable housing in place of the Affordable Private Rent homes, by way of a commuted sum.
+S0332 This recognises that Build to Rent
+S0333 investors need to have the possibility of an exit from the private rented sector but preserves the availability of affordable housing in perpetuity.
+S0334 The commuted sum payable on the Affordable Private Rent homes would be calculated according to the formula below and would need to be spent on the provision of alternative affordable housing.
+S0335 Commuted sum = D x E, where: D is the price at which the home(s) withdrawn from Affordable Private Rent are sold; E is the percentage discount that had been applied to the rent in respect of the Affordable Private Rent home(s) being sold.
+S0336 So for example – if the home had a sale value of £500,000, and the discount level is 20%, this would generate a clawback of £100,000.
+S0337 Questions:
+S0338 Q 18: The Government intends to set the parameters of Affordable Private Rent as: • a minimum of 20 per cent of the homes to be discounted; • the discount to be set at minimum of 20 per cent relative to the local market; • an offer of longer tenancy of three years or more; • the discount to apply indefinitely (subject to a “claw-back” arrangement if Affordable Private Rent homes are withdrawn).
+S0339 Taken as a whole, are these parameters: (i) reasonable; (ii) too onerous; (iii) insufficient?
+S0340 Which, if any of them, would you change and why?
+S0341 Q 19: Should the parameters for Affordable Private Rent appear on the face of the National Planning Policy Framework or within Planning Practice Guidance?
+S0342 Eligibility
+S0343 Potentially, Affordable Private Rent can serve as a suitable form of housing both for households who are unable to afford suitable accommodation at market rent and also households saving up a deposit for the purchase of a future home.
+S0344 The ability to agree different levels of discount for different homes within a scheme (subject to the average meeting the minimum parameters) creates the potential to tailor Affordable Private Rent to different household income levels, further reinforcing the suitability of this tenure for people in a range of circumstances.
+S0345 The Government is minded to leave the determination of income bands to be eligible for Affordable Private Rent to be negotiated between the developer and local planning authority.
+S0346 In some cases, local authorities that have accepted Affordable Private Rent instead of other affordable housing have not only set the household income bands to which different levels of discount should apply but have also retained the right to nominate people to live in the discounted homes from their housing register.
+S0347 The Government considers that the nominations approach provides less flexibility for a Build to Rent operator, working within a private market, to attract and select its customers.
+S0348 The Government is interested in hearing views about how this would affect the take up of the policy.
+S0349 Question:
+S0350 Q 20: The Government is minded to leave determination of eligibility and nomination criteria for Affordable Private Rent to negotiation between the developer and the local authority.
+S0351 Do you support this position?
+S0352 Will it affect take-up of the policy?
+S0353 Please give your reasons.
+S0354 Change of Use and “clawback”
+S0355 The Government is aware of an emerging practice whereby Build to Rent schemes enter into a covenant with local authorities to remain in the Private Rented Sector for a minimum period, e.g. 15 years.
+S0356 The Government has considered this issue and:
+S0357 • Recognises that Build to Rent schemes are different, in viability terms (as already referenced in planning guidance) and that local authorities want to be reassured about the purpose of the development in order to take this into account in viability calculations; • Does not think it necessary to specify a minimum covenant period for homes to remain in the Private Rented Sector at a time when investors may still need an exit route (particularly in locations where the market for Build to Rent is not yet proven); • Does not want to create a perverse incentive to developers to game the system by rapidly converting a Build to Rent planning application into a for-sale scheme (which is one reason for the practice of adopting covenants). ** (Reference: 18)
+S0358 An alternative to specifying a fixed minimum covenant period is to make sure that there are “claw-back” arrangements in place where the developer wants to switch out of the Private Rented Sector and into other tenures.
+S0359 The arrangement would enable developers or owners to change use at any stage provided they make an appropriate contribution towards affordable housing provision in the area.
+S0360 The claw-back arrangements would be designed to reflect the contribution that would have been made towards affordable housing had the original planning application been a for-sale scheme.
+S0361 This is particularly relevant if the change happens before the homes are built and rented out.
+S0362 The Government therefore proposes that:
+S0363 • Affordable Private Rent homes are to be provided in perpetuity, by definition, and the sale of individual homes from a Build to Rent scheme to other tenures should not normally lead to the withdrawal of the Affordable Private Rent homes.
+S0364 Where sale of the market rented homes within the development means that it is no longer practical to manage those homes as Affordable Private Rental properties, then alternative provision should be made for affordable housing in place of the homes by way of a commuted sum.
+S0365 This would be calculated by reference to the percentage discount on the rent at which Affordable Private Rent properties are offered multiplied by the price at which the Affordable Private Rent homes are sold (see the formula on page 23).
+S0366 •
+S0367 Where homes are to be sold out of the private rented sector before they are first occupied, then the local authority should require the scheme’s contribution to affordable housing to be re-calibrated based on the local plan affordable housing policies that were in place at the time of the original planning permission.
+S0368 If the developer claims that the scheme would be unviable at that level of contribution, then viability should be determined as of the time at which the application is made to remove the S106 agreement, so avoiding the need to review retrospectively market conditions at the time the permission was originally granted.
+S0369 •
+S0370 Where homes are sold out of the private rented sector at a later date, then it would be appropriate for the local authority to seek an appropriate “claw-back” arrangement, taking into account the contribution that new homes for sale should be expected to make to affordable housing under local planning policies, and the affordable housing that has already been provided by the scheme (in the form of Affordable Private Rent or otherwise).
+S0371 The Government is interested in views on how best to give effect to this.
+S0372 Claw-back arrangements should be specified in the S106 agreement so as to give certainty to investors as to the terms under which, if it proves necessary, a Build to Rent scheme could be converted to other tenures.
+S0373 Potentially, the Government could set out or give guidance on a formula for calculating the amount of claw-back, perhaps even providing model clauses for S106 agreements.
+S0374 Alternatively this could be left to be agreed between the loal authority and the applicant.
+S0375 Questions:
+S0376 Q 21:
+S0377 The Government considers there is no need for a fixed minimum covenant period, so long as appropriate claw-back arrangements are provided for.
+S0378 Do you agree?
+S0379 Q 22: Do you think Government should (a) prescribe the basis for calculating the amount of claw-back, (b) set a possible basis for calculating the amount of claw-back in guidance, or (c) leave the amount of claw-back to be agreed between the local authority and the applicant?
+Affordable Private Rent within HCA programmes.
+S0380 It should be noted that under the Housing and Regeneration Act 2008, the Homes and Communities Agency (and, in London, the Greater London Authority) can only carry out the following activities where the landlord of low cost rental accommodation is a Registered Provider: ** (Reference: 19)
+S0381 • Acquire, construct or convert any housing or other land for use as low cost rental accommodation.
+S0382 • Dispose of any housing or other land to a person on condition that the person provides low cost rental accommodation (whether in the same or different housing or other land).
+S0383 • Provide infrastructure to a person on condition that the person provides low cost rental accommodation.
+S0384 • Give financial assistance on condition that the recipient provides low cost rental accommodation.
+S0385 This means the Homes and Communities Agency (or, in London, the Greater London Authority) would not be able to stipulate that rented housing arising from the above activities should be used for Affordable Private Rent unless it also ensures that the landlord is a Registered Provider.
+S0386 There are no current plans for the Homes and Communities Agency to stipulate that Affordable Private Rent must be incorporated on sites within its programmes or to amend the above legislation to permit this.
+S0387 London
+S0388 The Government is aware that the Greater London Authority (GLA) has recently published Supplementary Planning Guidance for consultation on viability and Build to Rent. ** (Reference: 20)
+S0389 The GLA’s approach has some similarities and differences to the proposals in this consultation.
+S0390 Some of the key similarities are:
+S0391 •
+S0392 A recognition of the viability challenges faced by Build to Rent and the need for a way to provide planning predictability for Build to Rent and housing in general.
+S0393 •
+S0394 Recognition of Affordable Private Rent (referred to as Discounted Market Rent) as a form of affordable housing well suited to Build to Rent. •
+S0395 Encouragement of offering longer tenancies as a feature of Build to Rent schemes.
+S0396 There are, however, some differences in approach.
+S0397 The Government’s approach is designed to provide predictability by identifying the key characteristics of Build to Rent, and by setting out the Affordable Private Rent parameters which must be accepted in Build to Rent schemes (in place of other affordable housing).
+S0398 By contrast, the Greater London Authority’s approach is that whereas viability appraisals will not ordinarily be required for build-for-sale schemes offering at least 35 per cent affordable housing (ie. the so-called “threshold approach”), viability appraisals should always be required for all Build to Rent schemes.
+S0399 A further difference with the Government’s approach is that the Greater London Authority proposes a covenant period of 15 years for Build to Rent schemes, albeit with a mechanism allowing claw-back arrangements if buildings or individual units are sold out of the Build to Rent market during the covenant period.
+S0400 There are a number of reasons why it might be appropriate for the arrangements in London to differ from a national approach.
+S0401 In particular:
+S0402 •
+S0403 The viability of Build to Rent relative to other tenures may be different in London, reflecting the generally high values of land and property and low rental yields in the capital; •
+S0404 The attractiveness of London as a destination for investment, and the scale of the PRS market in London, may make a 15 year covenant less of a deterrent for investors than in parts of the country where Build to Rent is less well established.
+S0405 The Government is therefore interested in views on whether a different approach should be taken in London as opposed to the rest of the country.
+S0406 Questions:
+S0407 Q 23: Should the Government’s Build to Rent and Affordable Private Rent policy be identical across the whole of England or does it need to be set differently between London and the rest of England?
+S0408 If it should be set differently, please use the comments box to tell us how and why the policy should vary in London from the rest of England.
+S0409 Other Implementation Issues
+S0410 The Government wants to set the right balance between creating a predictable and workable framework for Affordable Private Rent and allowing local innovation to thrive.
+S0411 One possibility would be for the Government to work with Build to Rent developers and the planning community to produce model clauses (which would not be mandatory) that could be used in Section 106 agreements to give effect to Affordable Private Rent approaches.
+S0412 The Government is interested to know whether this would be helpful.
+S0413 The Government recognises that developers and local authorities will need some time to reflect the approaches outlined above into their planning applications and decision taking processes.
+S0414 The Government is minded to set a transitional period of six months from the
+S0415 date on which the policy is incorporated into the National Planning Policy Framework for the policy to take effect.
+S0416 Assuming the benefits posited for Build to Rent and Affordable Private Rent are realised, then it is likely that local authorities will become familiar with the approaches set out in this consultation and more inclined to plan proactively for these tenures in their local plans without the need for national policy prescription to remain in place.
+S0417 The Government considers it is right to review progress of these proposals after a period of five years, with a view to discontinuing, revising or renewing them.
+S0418 Questions:
+S0419 Q 24: Would it be helpful for Government to produce model clauses (which would not be mandatory) that could be used in Section 106 agreements to give effect to Affordable Private Rent?
+S0420 Q 25: Is a transitional period of six months appropriate for the introduction of the policies proposed in this consultation?
+S0421 (If not, why not?) Equalities
+S0422 The measures proposed above, whether legislative or to be set out in planning policy, are intended to encourage more Build to Rent development to come forward over time.
+S0423 The measures will have the effect of increasing the provision of both Build to Rent and Affordable Private Rent and so may, at the margins, reduce the provision of other forms of affordable housing, including starter homes, affordable rent, shared ownership and other affordable housing tenures.
+S0424 Given the current size of the Build to Rent market and the affordable housing sector, the Government believes that the overall impact of the policy proposals on the composition of the affordable housing stock should be very modest.
+S0425 Nonetheless, it is recognised that this could potentially have some impact on the provision of housing for people with protected characteristics under the equalities legislation.
+S0426 Given the range of possible outcomes to this consultation, it is premature to be too definitive about these impacts.
+S0427 However, the Government has prepared a summary equalities statement (see Annex A) and is interested in views on this.
+S0428 The equalities statement will be updated in light of the responses to this consultation and the final policy decisions taken.
+S0429 Question:
+S0430 Q 26: Does the summary Equalities Statement in Annex A represent a fair assessment of the equalities impacts of the policy proposals in this consultation?
+S0431 Please provide any further evidence on this issue, including how any negative impacts might be minimised and positive impacts enhanced.
+Families
+S0432 A family test is to be carried out when policies impact upon families (as distinct from individuals and communities).
+S0433 If there are impacts, then a series of questions is to be considered. The Government considers that, in overall terms, the impact of these proposals on families will be positive. ** (Reference: 21)
+S0434 The private rented sector is a flexible form of housing that can help household formation and help families adapt to anticipated and unanticipated changes in circumstances.
+S0435 The promotion of longer term tenancies, through the policies being consulted upon, will help provide greater security and stability to families with children. ** (Reference: 22)
+Annex A: Summary Equalities Statement
+Purpose of this assessment
+S0436 The Equality Act 2010 requires government to assess the impact of new or revised policies against the requirements of the public sector equality duty.
+S0437 The duty requires Ministers to have due regard to the need to eliminate unlawful discrimination, advance equality of opportunity and foster good relations.
+S0438 It covers people who share certain protected characteristics (age, disability, gender reassignment, marriage & civil partnership, pregnancy & maternity, race, religion or belief, sex and sexual orientation).
+S0439 An Equalities Impact Assessment helps to ensure the needs of people are taken into account during the development and implementation of a new policy or service or when a change is made to a current policy or service.
+S0440 This is a summary statement based on proposals set out in the consultation on Planning and Affordable Housing for Build to Rent – a Consultation Paper.
+S0441 It provides a summary of the initial assessment of the impacts on people with protected characteristics. It will be revised and updated based on evidence gathered through responses to the consultation and the final policy decisions taken. ** (Reference: 23)
+S0442 The policy proposals
+S0443 The policies being consulted on are changes to planning policy to promote the uptake of Build to Rent by:
+S0444 • Encouraging local authorities to plan proactively for Build to Rent
+S0445 •
+S0446 Facilitating Affordable Private Rent as a form of affordable housing on Build to Rent schemes in place of other types of affordable housing, together with the offer of longer, family friendly tenancies.
+S0447 These policies are intended to result in additional Build to Rent housing being built, a significant proportion of which should be additional to other market housing supply that would otherwise have come forward.
+S0448 It will also result in more Affordable Private Rent homes – an affordable housing rental tenure provided by the private landlord rather than a Registered Provider or local authority landlord.
+S0449 The policies also encourage the provision of longer tenancies (with flexibility on the part of the tenant), both for homes provided at market rent and at Affordable Private Rent.
+S0450 The effects of the policies are therefore expected to be:
+S0451 • An increase in the number of Build to Rent homes (only a proportion of which will displace housing that would otherwise have been built for sale); • An increase in the number of homes built for Affordable Private Rent;
+S0452 • Some reduction in the proportion of homes built under other affordable housing tenures (including affordable rent, shared ownership and starter homes); • Greater availability of longer tenancy agreements (for those tenants who want one).
+S0453 Summary impact It is difficult to give precise estimates of the numbers of each of the above effects at this stage, in advance of receiving responses to this consultation.
+S0454 However, the British Property Federation estimates that around £15bn of capital has already entered this market, resulting in around 68,000 Build to Rent homes across the UK.
+S0455 The BPF also estimate that approximately £50bn of further investment capital could enter this market, which could imply and additional 200,000 new homes in England.
+S0456 If half of these schemes were to take up the Affordable Private Rent proposals over the next 10 years, with 20% of homes rented at a discount, this could amount to some 2,000 new Affordable Private Rent homes per annum.
+S0457 Affordable Private Rent homes are likely to represent only a very small proportion of total affordable housing provision, and not to have any negative impact on overall affordable housing provision.
+S0458 The Government considers that the greater availability of rented homes as a result of these policies, both at market rent and Affordable Private Rent, will improve housing outcomes for people living in rented housing, including people with protected characteristics, notwithstanding some level of reduction in the number of affordable homes to be delivered by Build to Rent schemes under other tenures. ** (Reference: 24)
+S0459 Further development of the Equalities Statement
+S0460 The Government will continue to develop its thinking on the equalities aspects of the policies in light of responses to the consultation, and welcomes further evidence on the issues raised above.
+S0461 Whilst it is considered that the policies are generally positive for people with protected characteristics, the Government is interested to hear how any negative impacts might be minimised and the positive impacts enhanced.
+Annex B: Consultation Questions
+S0462 Q 1: Please provide your name and contact details in the box provided, and identify whether you are responding as (please tick one):
+S0463  A private individual?
+S0464 
+S0465 On behalf of an organisation?
+S0466 Q 2.
+S0467 If you are responding as a private individual, please identify in what capacity you are replying and whether your main interest is as:
+S0468  A person living in private rented accommodation?
+S0469 
+S0470 A person living in affordable housing?
+S0471 
+S0472 A private landlord?
+S0473 
+S0474 Other?
+S0475 (Please specify) Q 3.
+S0476 If you are responding on behalf of an organisation, please identify in what capacity you are replying and the main interest of your organisation (tick all that apply):
+S0477  An investor in Build to Rent schemes 
+S0478 A developer of Build to Rent homes 
+S0479 A lender to Build to Rent schemes 
+S0480 A supplier of management and/or other services to Build to Rent homes  Other private landlord  Social landlord (either Registered Provider or local authority) 
+S0481 A developer of other housing tenures besides Build to Rent  A trade or other representative body  Local authority  Other (please specify)
+S0482 Q 4.
+S0483 Please specify the part(s) of England in which you live, or your organisation’s activities (or members) are principally located (you may tick more than one):
+S0484  London  South East  East of England  South West  East Midlands  West Midlands  Yorkshire & Humber 
+S0485 North East  North West  Other (please specify) Q 5: Do you consider there are market and regulatory failures impeding the rapid development of the Build to Rent market that merit national policy intervention?
+S0486 Please add comments.
+S0487 
+S0488 Yes 
+S0489 No  Don’t know Q 6: Do you agree with the proposal to refer explicitly to Build to Rent in the National Planning Policy Framework?
+S0490 
+S0491 Yes 
+S0492 No  Don’t know
+S0493 Q 7: Do you think that Government should set a policy expectation on Affordable Private Rent in the National Planning Policy Framework, or not?
+S0494 (Please state your reasons).
+S0495 
+S0496 Yes 
+S0497 No  Don’t know Q 8: Will a policy expectation in the National Planning Policy Framework send a sufficiently strong signal to support Affordable Private Rent as the main vehicle for affordable housing in Build to Rent?
+S0498 (Please state your reasons)
+S0499 
+S0500 Yes 
+S0501 No  Don’t know Q 9: Do you consider that Affordable Private Rent could play a useful role in the delivery of affordable housing in the area(s) where you live or operate?
+S0502 
+S0503 Yes 
+S0504 No  Don’t know
+S0505 Q 10: Do you consider that the efficiencies arising through on-site provision of Affordable Private Rent can materially improve the viability of Build to Rent, compared to other affordable housing tenures?
+S0506 
+S0507 Yes 
+S0508 No  Don’t know Q 11: Do you consider that there could be unintended consequences of Affordable Private Rent if it is accepted as a form of affordable housing?
+S0509 
+S0510 Yes 
+S0511 No  Don’t know Q 12: If your answer to Q11 is yes, would these consequences be mitigated by limiting Affordable Private Rent only to Build to Rent schemes?
+S0512 
+S0513 Yes 
+S0514 No  Don’t know
+S0515 Q 13: Do you think it is reasonable for Planning Authorities to specify minimum tenancy lengths in Build to Rent schemes?
+S0516 Please add your reasons, and give examples of such agreements where appropriate.
+S0517 
+S0518 Yes 
+S0519 No  Don’t know Q 14:
+S0520 Do you agree that Build to Rent tenancies should be for at least three years (with a one month break option for the tenant after the first six months), for all customers in the development who want one?
+S0521 
+S0522 Yes 
+S0523 No  Don’t know Q 15: Does the definition of Build to Rent set out on page 20 capture all of the appropriate elements?
+S0524 (If not, please state why, and what criteria should apply).
+S0525 
+S0526 Yes 
+S0527 No  Don’t know
+S0528 Q 16: Do you agree that the National Planning Policy Framework should put beyond doubt that Affordable Private Rent qualifies as affordable housing in Build to Rent schemes?
+S0529 (If not, please state why).
+S0530 
+S0531 Yes 
+S0532 No  Don’t know Q 17: Do you agree with the proposed definition of Affordable Private Rent set out on page 21?
+S0533 (If not, please state why, and what criteria should apply).
+S0534 
+S0535 Yes 
+S0536 No  Don’t know Q 18: The Government intends to set the parameters of Affordable Private Rent as:
+S0537 • a minimum of 20 per cent of the homes to be discounted; • the discount to be set at minimum of 20 per cent relative to the local market; • an offer of longer tenancies of three years or more; • the discount to apply indefinitely (subject to a “claw-back” arrangement if Affordable Private Rent homes are withdrawn).
+S0538 Taken as a whole, are these parameters: (i) reasonable; (ii) too onerous; (iii) insufficient?
+S0539 Which, if any of them, would you change and why?
+S0540  Reasonable  Too onerous  Insufficient  Don’t know
+S0541 Q 19: Should the parameters for Affordable Private Rent appear on the face of the National Planning Policy Framework or within Planning Practice Guidance?
+S0542  National Planning Policy Framework  Guidance  Not helpful to specify parameters  Don’t know Q 20:
+S0543 The Government is minded to leave determination of eligibility and nomination criteria for Affordable Private Rent to negotiation between the developer and the local authority.
+S0544 Do you support this position?
+S0545 Will it affect take-up of the policy?
+S0546 Please give your reasons.
+S0547  Support position  Do not support position  Will affect policy take-up  Will not affect policy take-up  Don’t know Q 21:
+S0548 The Government considers there is no need for a fixed minimum covenant period, so long as appropriate claw-back arrangements are provided for.
+S0549 Do you agree?
+S0550 
+S0551 Yes 
+S0552 No  Don’t know
+S0553 Q 22: Do you think Government should (a) prescribe the basis for calculating the amount of claw-back, (b) set a possible basis for calculating the amount of claw-back in guidance, or (c) leave the amount of claw-back to be agreed between the local authority and the applicant?
+S0554  (a)  (b)  (c)  Don’t know Q 23: Should the Government’s Build to Rent and Affordable Private Rent policy be identical across the whole of England or does it need to be set differently between London and the rest of England?
+S0555 If it should be set differently, please use the comments box to tell us how and why the policy should vary in London from the rest of England.
+S0556  Identical across the whole of England  Different for London  Don’t know Q 24: Would it be helpful for Government to produce model clauses (which would not be mandatory) that could be used in Section 106 agreements to give effect to Affordable Private Rent?
+S0557 
+S0558 Yes 
+S0559 No  Don’t know
+S0560 Q 25: Is a transitional period of six months appropriate for the introduction of the policy?
+S0561 (If not, why not?)
+S0562 
+S0563 Yes 
+S0564 No  Don’t know Q 26: Does the summary Equalities Statement in Annex A represent a fair assessment of the equalities impacts of the policy proposals in this consultation?
+S0565 Please provide any further evidence on this issue, including how any negative impacts might be minimised and positive impacts enhanced.
+S0566 
+S0567 Yes, a fair assessment  No, not a fair assessment  Don’t know
+Annex C: About this consultation
+S0568 This consultation document and consultation process have been planned to adhere to the Consultation Principles issued by the Cabinet Office.
+S0569 Representative groups are asked to give a summary of the people and organisations they represent, and where relevant who else they have consulted in reaching their conclusions when they respond.
+S0570 Information provided in response to this consultation, including personal information, may be published or disclosed in accordance with the access to information regimes (these are primarily the Freedom of Information Act 2000 (FOIA), the Data Protection Act 1998 (DPA) and the Environmental Information Regulations 2004.
+S0571 If you want the information that you provide to be treated as confidential, please be aware that, under the FOIA, there is a statutory Code of Practice with which public authorities must comply and which deals, amongst other things, with obligations of confidence.
+S0572 In view of this it would be helpful if you could explain to us why you regard the information you have provided as confidential.
+S0573 If we receive a request for disclosure of the information we will take full account of your explanation, but we cannot give an assurance that confidentiality can be maintained in all circumstances.
+S0574 An automatic confidentiality disclaimer generated by your IT system will not, of itself, be regarded as binding on the Department.
+S0575 The Department for Communities and Local Government will process your personal data in accordance with DPA and in the majority of circumstances this will mean that your personal data will not be disclosed to third parties.
+S0576 Individual responses will not be acknowledged unless specifically requested.
+S0577 Your opinions are valuable to us.
+S0578 Thank you for taking the time to read this document and respond.
+S0579 Are you satisfied that this consultation has followed the Consultation Principles?
+S0580 If not or you have any other observations about how we can improve the process please contact us via the complaints procedure.
+S0581 **(Link: 8)

@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Core language skills and communicative competence",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Cultural and thematic content study",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Literary and film works study",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Grammar specification and cross-language comparability",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Special provisions for Chinese language",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Overview and integration of content",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

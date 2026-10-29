@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Consumer risk from travel company insolvency",
+        "claim": "Because holidays are paid for months ahead, entry barriers are low and consumers can be stranded abroad, travel company failure creates real consumer detriment that requires statutory protection, which ATOL has provided effectively for decades."
+      },
+      {
+        "name": "Market change and gaps in protection",
+        "claim": "Internet-based mix-and-match and dynamic packaging moved sales outside the scope of ATOL and PTD 1990 (ATOL share of leisure flights fell from over 90% to under 50%), creating inconsistent protection, consumer and trade confusion and detriment in failures such as XL."
+      },
+      {
+        "name": "New EU obligation to transpose PTD 2015",
+        "claim": "PTD 2015 widens the definition of package, adds linked travel arrangements and moves to place of establishment, and the UK remains bound to transpose it by January 2018 despite the Brexit vote, so ATOL as currently defined no longer fits."
+      },
+      {
+        "name": "Inconsistent protection for flight-only sales and overlapping protections",
+        "claim": "Flight-only sales are protected inconsistently (airlines excluded, some sellers licensed), which confuses consumers and leaves gaps, while ATOL overlaps with Section 75 and the flat levy ignores risk, adding costs and fund sustainability concerns."
+      }
+    ],
+    "note": "The diagnosis is spread across the consultation text, the history annex and the impact assessment, and includes longer-term issues (flight-only, levy fairness, overlap) beyond the PTD 2015 gap."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Retain and amend ATOL (preferred option 2)",
+        "claim": "The government chose to keep ATOL and amend it to match PTD 2015 because doing nothing risks legal challenge and non-compliance, and a full market approach is unfeasible by 2018 given limited appetite and capacity in the finance and insurance sectors."
+      },
+      {
+        "name": "Alignment of ATOL scope with PTD 2015",
+        "claim": "ATOL should be re-scoped to the broader package definition (absorbing Flight-Plus and agent-for-consumer models), to place of establishment rather than place of sale, and to exempt general-agreement business travel, so that protection is consistent with the Directive and eases cross-border trade."
+      },
+      {
+        "name": "Linked travel arrangements and information provisions",
+        "claim": "Linked travel arrangements involving a flight could be covered either through ATOL or through the market, with government leaning to a market solution, and pre-sale and post-sale insolvency information duties will be met partly through a modified ATOL Certificate."
+      },
+      {
+        "name": "Costs and benefits of the proposals",
+        "claim": "The impact assessment estimates a net present value of -£8.45m, with business costs mainly from upgrading systems for information provision and the APC burden on agent-for-consumer sales, largely offset by transfers, and with uncertainty over firms relocating."
+      },
+      {
+        "name": "Longer-term ATOL reform direction",
+        "claim": "The government aims to put protection on a more commercial, sustainable and fairer footing, and seeks evidence on risk-based levies, market involvement, streamlining, flight-only treatment and overlapping protections, without yet proposing a specific option."
+      }
+    ],
+    "note": "The proposal is a package of separate measures plus open longer-term options on which the document only seeks views; the review of the 2012 reforms is labelled Testing, not Proposal."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Legislative route and timetable",
+        "claim": "Aligning ATOL requires amending the section 71 Civil Aviation Act tax-raising power through primary legislation (planned early 2017, likely the Modern Transport Bill) followed by secondary legislation, to meet transposition by January 2018 with compliance by summer 2018."
+      },
+      {
+        "name": "Two-stage consultation with BEIS",
+        "claim": "DfT and BEIS are implementing PTD 2015 jointly, consulting first on ATOL changes needing primary legislation and later on Package Travel Regulation changes for non-air packages, which can be done faster through secondary legislation."
+      },
+      {
+        "name": "CAA delivery and transition support for business",
+        "claim": "The CAA will operate the amended scheme, exercising discretion over repatriation and requesting security where exposure rises, while small businesses are supported through existing licence types, accredited bodies and guidance, as maximum harmonisation and state aid rules rule out exemptions or financial aid."
+      }
+    ],
+    "note": "Implementation is mostly procedural and sparse on costs; the main themes concern the legislative path, the joint consultation process and delivery arrangements."
+  }
+}

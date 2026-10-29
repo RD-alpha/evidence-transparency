@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Rising life expectancy and time spent in retirement",
+        "claim": "Life expectancy at 65 has risen steadily and is projected to keep rising, so without State Pension age changes people spend an ever larger proportion of adult life receiving the State Pension (23% in 1948 to 32% by 2007)."
+      },
+      {
+        "name": "Ageing population and pay-as-you-go cost pressure",
+        "claim": "Baby boomers reaching pension age and a rising old age dependency ratio mean a shrinking working-age base must fund rising State Pension spending (1% of GDP more by 2036/37, equal to £725 per household), alongside wider age-related health and care costs."
+      },
+      {
+        "name": "Past failure to adjust State Pension age",
+        "claim": "The UK was slow to adjust State Pension age to longevity, forcing rapid, repeated legislative rises over the last decade and leaving some cohorts spending very large shares of life above pension age."
+      },
+      {
+        "name": "Uncertainty in life expectancy projections",
+        "claim": "Life expectancy projections are uncertain, especially over long horizons, and timetables are highly sensitive to them (e.g. 2012- versus 2014-based projections shift the rise to 68 by five years)."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Raising State Pension age to 68 in 2037-39",
+        "claim": "The government will follow Cridland and raise State Pension age to 68 in 2037-39, seven years earlier than legislated, because this saves £74bn to 2045/46 and is a responsible balance, whereas lower pensions would increase pensioner poverty and higher taxes would burden workers."
+      },
+      {
+        "name": "Fairness between generations via a longevity link",
+        "claim": "State Pension age should be linked to life expectancy so each generation spends broadly the same share of adult life (aiming for up to 32%, matching the last 25 years) receiving the pension, keeping it affordable and above the means-test level."
+      },
+      {
+        "name": "Pace of change and spacing of rises",
+        "claim": "Rises should be spaced to avoid back-to-back increases for the same cohorts and to allow evaluation, so the government rejects the faster 32% timetable and Cridland's rigid one-year-per-decade rule while not formalising policy beyond 2037-39."
+      },
+      {
+        "name": "A universal State Pension age",
+        "claim": "State Pension age should remain the same for everyone because it is simple and clear for planning, variation by life expectancy is impractical, early access risks inadequate pensions, and disadvantaged groups are better helped through the benefit system."
+      },
+      {
+        "name": "Further review before legislating",
+        "claim": "Because the rise to 68 is a significant decision under uncertain projections, a further review will update life expectancy data and evaluate current rises before legislation is brought forward."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Ten years' notice and communications",
+        "claim": "The government will seek to give at least ten years' notice of changes and will communicate them through digital tools and stakeholder channels so people can plan and save."
+      },
+      {
+        "name": "Wider package of support for work and those who cannot work",
+        "claim": "Raising State Pension age must come with support for fuller working lives and for those limited by disability, health or caring, which will be developed by evaluating Universal Credit, the new State Pension, the health and work consultation and Cridland's recommendations."
+      },
+      {
+        "name": "Review and legislative process for delivering the rise",
+        "claim": "Delivery runs through the Pensions Act 2014 review framework, with independent reports, primary legislation under parliamentary scrutiny and a further review by 2023 using the latest projections to confirm the timing of the rise."
+      }
+    ],
+    "note": "Implementation is largely a set of separate supporting measures, with most detail on how support will work deferred to future decisions."
+  }
+}

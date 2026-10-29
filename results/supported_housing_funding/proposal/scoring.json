@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Housing Benefit/UC up to LHA plus protection of funding level",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines describe the funding model and cite only the Written Ministerial Statement (Ref 1), which announces the commitment rather than evidencing why the model will work, so no evidence supports the choice."
+    },
+    {
+      "theme": "Devolved ring-fenced local top-up fund",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The only evidence is the uncited, unquantified line that 'many local authorities have also told us that they would welcome an enhanced local commissioning role', with no method given, while the other lines are argument and description of the policy."
+    },
+    {
+      "theme": "Different approach for short-term accommodation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The three lines only assert that a different mechanism may be needed and that protection will be the same, with no evidence offered."
+    },
+    {
+      "theme": "Devolved administrations and wider benefits",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "DCLG analysis (Ref 5 Frontier Economics) and Refs 63-66 give benefit figures, but 63-66 are undefined and nothing links the figures to the top-up design; the line 'there is scope to undertake further research' acknowledges a gap but does not assess the evidence."
+    },
+    {
+      "theme": "Stability, quality and transition of supported housing",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Lines report views from research participants and commissioners ('Over the past months, we have talked extensively...'), but give no sample, method or citation."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Mostly descriptive statements of existing rules and exemptions, with only links to case study examples that are not tied to any claim."
+    }
+  ],
+  "reasoning": "The four core themes score 0, 1, 0 and 1, a mean of 0.5, which rounds to 1. The funding-model theme rests only on a Written Ministerial Statement (Ref 1), which announces the commitment rather than evidencing that it will resolve funding uncertainty. The short-term accommodation theme offers pure assertion: 'a different approach may be needed'. The local top-up theme argues that local authorities are 'best placed' and 'know local needs', which is reasoning rather than evidence. Its only evidence is that 'many local authorities have also told us that they would welcome an enhanced local commissioning role', which is uncited and gives no number of respondents or method. The devolved administrations and wider benefits theme is the strongest. It cites DCLG analysis built on Frontier Economics (Ref 5, \u00a33.53bn net fiscal benefit) and supported-housing research figures (\u00a33.4bn against \u00a31.6bn). Refs 63-66 are undefined, though, and these benefits concern supported housing generally, not a devolved top-up compared with alternatives. The strongest counter-example to a score of 1 is that Ref 5 is properly cited with a stated figure, which could suggest level 2. But the document never links it to the choice of the top-up model. The document admits that 'there is scope to undertake further research', yet it does not assess the evidence. To reach level 2 it would need to cite sources, with working references, showing why a ring-fenced local top-up addresses funding uncertainty, set out consultation methods and respondent numbers, and explain why the alternative approaches were rejected.",
+  "score": 0,
+  "model_score": 1,
+  "core_mean": 0.5,
+  "score_consistent": false,
+  "missing_core": []
+}

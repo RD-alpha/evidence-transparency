@@ -1,0 +1,30 @@
+{
+  "themes": [
+    {
+      "name": "Mandatory use-of-force data recording and publication",
+      "ids": [
+        "S0001",
+        "S0002",
+        "S0004",
+        "S0010"
+      ]
+    },
+    {
+      "name": "Comparison of techniques and tactics",
+      "ids": [
+        "S0005",
+        "S0013"
+      ]
+    },
+    {
+      "name": "Safeguards for the new Taser X2",
+      "ids": [
+        "S0003"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Tax Avoidance Promoters",
+  "alias": "tax_avoidance_promoters",
+  "uploaded_at": "2026-10-12T17:46:36.472422+01:00",
+  "uploaded_date": "2026-10-12",
+  "uploaded_time": "17:46:36 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "tax_promoters_policy",
+      "title": "Tax Avoidance Promoters Policy Paper",
+      "sentence_count": 32,
+      "first_sentence": "S0001",
+      "last_sentence": "S0032",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 1
+    },
+    {
+      "alias": "tax_promoters_clause",
+      "title": "Tax Avoidance Promoters Draft Clause",
+      "sentence_count": 63,
+      "first_sentence": "S0033",
+      "last_sentence": "S0095",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 0
+    },
+    {
+      "alias": "tax_promoters_notes",
+      "title": "Tax Avoidance Promoters Explanatory Notes",
+      "sentence_count": 58,
+      "first_sentence": "S0096",
+      "last_sentence": "S0153",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 0
+    }
+  ],
+  "appendix2_date": "8 March 2017",
+  "appendix2_type": "policy paper + draft clause + draft explanatory notes (combined in Appendix order)"
+}

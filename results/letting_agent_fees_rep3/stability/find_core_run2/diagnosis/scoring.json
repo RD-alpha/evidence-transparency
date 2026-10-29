@@ -1,0 +1,64 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Scale and growth of fees",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "EHS 2014/15 figures (40% vs 34% charged, \u00a3223/\u00a3200 fees, 60% median rise) are named but uncited, while NALS/Generation Rent/Shelter comparisons and the Generation Rent fee-range data are properly linked via References 4, 5 and 6, giving traceable sources for the variability claim."
+    },
+    {
+      "theme": "Lack of tenant control and weak competitive pressure",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claims that landlords/agents lack incentive to control tenant fees ('Landlords will be motivated to find the agents with the lowest landlord fees but...little...incentive to find agents with low fees for tenants') are pure assertion with no data, survey or citation anywhere in the extract."
+    },
+    {
+      "theme": "Opacity and difficulty comparing fees",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "DCLG's own 50-agent website survey is described with method ('randomly chose 50 agents...searched their website') and finding, and this is reinforced by a Shelter citation (footnote 12 URL), giving a clear, linkable evidence chain, though the NALS 98%/69%/31% stats and the OFT 2013 study remain named but uncited."
+    },
+    {
+      "theme": "Financial and behavioural harm to tenants",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The central EHS 2014-15 stat (35%/34% on moving decisions) is named but uncited, and claims about deterring moves from poor housing and undermining saving have no evidence at all; only the Citizens Advice 64%/42% figure carries a reference marker (Reference 13), whose footnote text is not shown."
+    },
+    {
+      "theme": "Regulatory context and agent practices",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Claims about double-charging and confusion over fees draw on the NALS/ARLA/Citizens Advice/Generation Rent survey (Reference 3) and the NLA Q4 2016 survey (Reference 11) and Shelter 2013 (Reference 12), all properly cited and linked to specific statistics."
+    },
+    {
+      "theme": "Tenant behaviour and constraints in rental market",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The claim about tenancy length draws on 'The English Housing Survey 2014-15' but carries no reference marker, and the market-competition reasoning ('renters cannot take time to shop around') has no evidence behind it at all."
+    },
+    {
+      "theme": "Landlord fees and comparison with tenant fees",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The Citizens Advice finding (60% vs 88% charged by agent-managed lets) is properly cited via Reference 9, though the NLA Q4 2016 survey of 360 landlords is described but uncited and the '39.' line relies on vague 'anecdotal evidence'."
+    },
+    {
+      "theme": "Deposit and payment requirements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme is purely descriptive of deposit and holding-fee practice with no statistic, survey or citation offered anywhere."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The PRS growth figures (4.3 million households, 19% up from 11%) are properly cited to Reference 1 (English Housing Survey 2014/5), while the landlord-discrimination sentence has no evidence."
+    }
+  ],
+  "reasoning": "The diagnosis rests on four core themes. 'Scale and growth of fees' (level 2) uses EHS figures (uncited) alongside NALS/Generation Rent/Shelter data properly linked via References 4-6, e.g. 'average fee charged is \u00a3172...Shelter found that one in seven renters pay \u00a3500 or more (Reference: 4,5)'. 'Opacity and difficulty comparing fees' (level 2) rests on DCLG's own 50-agent website review, whose method is described ('randomly chose 50 agents...searched their website'), reinforced by a Shelter footnote link. 'Financial and behavioural harm to tenants' (level 1) leans mainly on the uncited EHS stat that 34% said fees 'would stop them moving', with only the Citizens Advice 64%/42% figure carrying a reference marker (13) whose source text is not shown. 'Lack of tenant control and weak competitive pressure' (level 0) is pure reasoning - 'Landlords will be motivated to find the agents with the lowest landlord fees but...little...incentive to find agents with low fees for tenants' - with no evidence anywhere in the extract. The mean of 2, 2, 1 and 0 is 1.25, rounding down to 1. The strongest counter-example is the DCLG primary research, which comes close to level 3 rigour, but it isn't matched across the other core themes, and no theme assesses the evidence's strengths or limits. To reach level 2 overall, the document would need to cite the EHS figures directly and give at least some evidential grounding for the 'weak competitive pressure' theme.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.25,
+  "score_consistent": true,
+  "missing_core": []
+}

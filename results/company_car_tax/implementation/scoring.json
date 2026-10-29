@@ -1,0 +1,22 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Open consultation to decide unresolved design questions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The theme lists consultation questions (e.g. Q2-Q6) inviting views but provides no evidence or analysis for why these options are proposed or how they will be evaluated, only stating 'the government will consider all responses before finalising the policy design'."
+    },
+    {
+      "theme": "Separation of structural design from rate-setting",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme asserts a procedural division between structure and rate-setting via the normal Budget process but offers no evidence or data to support this choice of approach."
+    }
+  ],
+  "reasoning": "Both core themes describe a process -- an open consultation to decide unresolved design questions, and a stated separation between structural design and rate-setting -- but neither offers evidence for why this is the right method of implementation. The 'Open consultation' theme (31 lines) is entirely procedural: it lists questions (Q1-Q6) and states that 'the government will consider all responses before finalising the policy design and publishing the new bands in the autumn,' but gives no data, research finding, or named analysis justifying why consultation is the right mechanism, why these specific options (zero emission miles, banding structures) are on the table, or how responses will be weighed. The 'Separation of structural design from rate-setting' theme (3 lines) similarly just asserts that 'the Chancellor will continue to set specific tax rates as part of the normal Budget process,' a description of procedure, not evidence for it. No references or links appear in either theme, and no comparable policy, consultation data, or modelling is cited. This is level 0 for both: reasoning and description of method without evidence. The mean of two level-0 core themes is 0. A counter-example would be if the document had cited past consultation response patterns or modelling of band impacts to justify this approach, but none appears here. To reach level 1, the document would need to explain, even without citation, some basis (e.g. prior consultation experience, stakeholder modelling) for choosing this consultative method over alternatives.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

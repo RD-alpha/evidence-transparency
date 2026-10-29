@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Multiple routes to compliance for cover fabric testing",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Clarifying scope through consultation-tested exclusions",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Strengthened traceability and record-keeping requirements",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Extended transition period to limit business disruption",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Cost assumptions underpinning implementation choices remain provisional",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Business guidance and support for compliance transition",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Regulatory implementation and enforcement",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

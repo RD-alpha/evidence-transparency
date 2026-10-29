@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Banning fees to rebalance market power",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The rationale about landlords' stronger market position is asserted repeatedly with no evidence in the theme itself, but the claim that a ban sharpens competition is partly supported by the uncited line in the Scottish theme that 'the number of letting agents in Scotland has increased since the ban indicating that the sector has become more competitive.'"
+    },
+    {
+      "theme": "Scope and exceptions of the ban",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The design choices on holding deposits and tenant-caused charges are justified only by unevidenced reasoning (e.g. 'to mitigate the risk of tenants speculating'), with no statistic, study or consultation finding offered anywhere in the extract."
+    },
+    {
+      "theme": "Scottish precedent as supporting evidence",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "The theme cites the Shelter/Rettie/BDRC report (Reference 16) with specific findings (e.g. '1% and 2% of rent rises... inconclusive', '56% of private tenants agreed') and explicitly flags uncertainty and limits of comparability ('It is difficult to directly compare the English and Scottish markets')."
+    },
+    {
+      "theme": "Anticipated costs and benefits, including possible rent effects",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim about rent and fee pass-through is directly supported by the cited Scottish evidence ('early evidence from Scotland indicates that rents may increase... but agents... are unlikely to pass the full costs'), though the parallel claim that 'some agents are double charging' rests on unnamed, uncited 'evidence'."
+    },
+    {
+      "theme": "Transparency and existing regulation",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The theme cites the Generation Rent survey (Reference 10, '912 agents', '12% did not publically display their fees') and describes the department's own 2016 CMP call for evidence methodology ('stakeholders were asked whether the requirements have been effective'), while also acknowledging contradictory findings ('majority... welcomed the requirements but said they are not sufficient')."
+    },
+    {
+      "theme": "Tenant benefits and market impacts",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "All claims here (e.g. tenants will 'at a glance' compare costs, longer tenancies may result) are asserted with no supporting data or study cited."
+    },
+    {
+      "theme": "Additional sector regulation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The detailed description of the Scottish Housing (Scotland) Act 2014 regime is descriptive of current rules, not evidence that such regulation works, and no outcome data is given."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single sentence is a policy intention with no evidence attached."
+    }
+  ],
+  "reasoning": "The four core themes vary widely in evidentiary strength. 'Banning fees to rebalance market power' (level 1) rests mainly on unevidenced assertion, borrowing only the uncited Scottish line about agent numbers increasing. 'Scope and exceptions' (level 0) offers no evidence at all for why holding deposits or tenant-caused charges were chosen as exceptions. 'Scottish precedent' (level 3) is the strongest: it names and cites the Shelter/Rettie/BDRC report (Reference 16), gives specific statistics, and explicitly weighs uncertainty ('this is inconclusive', 'difficult to directly compare the English and Scottish markets'). 'Anticipated costs and benefits' (level 2) draws on that same cited Scottish evidence for its rent-effects claim but also leans on an unnamed, uncited claim that 'some agents are double charging landlords and tenants', keeping it below level 3. The mean of 1, 0, 3 and 2 is 1.5, which rounds down to 1. The strongest counter-example to a higher score is the Scottish-evidence theme itself, which alone reaches level 3 but cannot lift the section because two core themes (scope, and the market-power rationale) are essentially unevidenced. To reach level 2 overall, the document would need to cite evidence for why specific exceptions (holding deposits, tenant-caused charges) were set as they are, and ground the market-power/competition rationale in a cited source rather than repeated assertion.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

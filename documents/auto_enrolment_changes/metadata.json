@@ -1,0 +1,19 @@
+{
+  "title": "Auto Enrolment changes",
+  "alias": "auto_enrolment_changes",
+  "uploaded_at": "2026-10-08T13:59:48.492568+01:00",
+  "uploaded_date": "2026-10-08",
+  "uploaded_time": "13:59:48 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "notes": "this is a draft consultation - not the response",
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "consultation_invitation",
+    "type_listed_in_2018_appendix": "consultation",
+    "matches_2018_listed_source": "yes",
+    "basis": "Draft consultation on draft regulations, not the response (human note in metadata; S0002 \"This consultation is seeking views\").",
+    "source_check": "Listed document(s) retrieved on 2026-10-08 and compared with the ingested text: 98% found in the listed consultation PDF."
+  }
+}

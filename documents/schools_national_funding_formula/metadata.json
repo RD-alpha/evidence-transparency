@@ -1,0 +1,57 @@
+{
+  "title": "Schools national funding formula",
+  "alias": "schools_national_funding_formula",
+  "uploaded_at": "2026-10-13T15:52:02.578881+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "15:52:02 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "nff_src_1",
+      "title": "Schools national funding formula (source 1)",
+      "sentence_count": 1004,
+      "first_sentence": "S0001",
+      "last_sentence": "S1004",
+      "reference_count": 49,
+      "first_reference": "1",
+      "last_reference": "49",
+      "link_count": 29
+    },
+    {
+      "alias": "nff_src_2",
+      "title": "Schools national funding formula (source 2)",
+      "sentence_count": 393,
+      "first_sentence": "S1005",
+      "last_sentence": "S1397",
+      "reference_count": 9,
+      "first_reference": "50",
+      "last_reference": "58",
+      "link_count": 21
+    },
+    {
+      "alias": "nff_src_3",
+      "title": "Schools national funding formula (source 3)",
+      "sentence_count": 254,
+      "first_sentence": "S1398",
+      "last_sentence": "S1651",
+      "reference_count": 14,
+      "first_reference": "59",
+      "last_reference": "72",
+      "link_count": 6
+    },
+    {
+      "alias": "nff_src_4",
+      "title": "Schools national funding formula (source 4)",
+      "sentence_count": 638,
+      "first_sentence": "S1652",
+      "last_sentence": "S2289",
+      "reference_count": 17,
+      "first_reference": "73",
+      "last_reference": "89",
+      "link_count": 10
+    }
+  ],
+  "appendix2_date": "14 December 2016; 14 December 2016; 14 December 2016; 14 December 2016",
+  "appendix2_type": "consultation + executive summary + equalities Impact Assessment + technical note (combined in Appendix order)",
+  "extraction_note": "PDF table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

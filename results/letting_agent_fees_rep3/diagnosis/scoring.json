@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Scale and variability of tenant fees",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "DCLG's own survey of 50 agents is described with method (random sample, searched websites) and cross-referenced external surveys (NALS/ARLA Ref 3, Generation Rent Ref 4/6, Shelter Ref 5) give linked, cited figures on fee size and variability, though some EHS stats lack a reference marker."
+    },
+    {
+      "theme": "Weak tenant market power and misaligned incentives",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The OFT 2013 market study is named in prose ('Office of Fair Trading found in their 2013 market study') but carries no reference number or link, so it stays uncited; the rest is unevidenced reasoning about incentives."
+    },
+    {
+      "theme": "Failure of existing transparency requirements",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only the NLA Q4 2016 survey (Reference 11, 'a quarter of landlords... did not know whether their letting agent charged fees') is properly cited; claims about inconsistent display and double-charging are asserted without supporting data."
+    },
+    {
+      "theme": "Financial and behavioural harm to tenants",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "EHS 2014-15 figures (60% median fee rise, \u00a3223 mean) and Citizens Advice findings (Reference 13: 64% had problems paying, 42% borrowed) are clearly linked to the claim of financial hardship and deterred moves."
+    },
+    {
+      "theme": "Sector growth and characteristics",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "EHS 2014/15 (Reference 1) gives figures on sector growth and tenancy length but with little explanation of how this supports the fee problem beyond description."
+    },
+    {
+      "theme": "Deposit and up-front requirements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Descriptive statements about deposits and holding fees carry no citation or data at all."
+    },
+    {
+      "theme": "Landlord fees and cost structures",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "NLA survey and Citizens Advice (Reference 9: 60% vs 88% fee incidence) are mentioned with some explanation but method detail for the NLA anecdotal claim is thin."
+    },
+    {
+      "theme": "Agent conduct and market issues",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Shelter's 2013 finding (Reference 12: 'one in four... charged unfair fees') is named with a citation but minimal explanation of methodology or how it links to the diagnosis."
+    }
+  ],
+  "reasoning": "The diagnosis section is built on four core themes. 'Scale and variability of tenant fees' reaches level 2: DCLG's own agent survey is described methodologically and is reinforced by cited external data (NALS/ARLA Ref 3, Generation Rent Ref 4/6, Shelter Ref 5) showing fee ranges (\u00a330-\u00a3780) and median/mean figures, clearly linked to the claim of high, variable fees. 'Financial and behavioural harm to tenants' also reaches level 2, citing EHS 2014-15 (60% median rise) and Citizens Advice (Ref 13: 64% had problems paying, 42% borrowed), directly linked to the harm claim. By contrast, 'Weak tenant market power' stays at level 1: the only evidence, the OFT 2013 market study, is named in prose but never given a reference number or link, so a reader cannot trace it; the rest is argument about incentives, not evidence. 'Failure of existing transparency requirements' also sits at level 1: only the NLA survey (Ref 11) is properly cited, while claims about inconsistent display and double-charging remain unevidenced assertions. The mean of the four core levels (2,1,1,2) is 1.5, which rounds down to 1. A strong counter-example is the 50-agent fee comparison table, which is genuinely linked and quantified, pulling against a low score, but the unlinked OFT citation and uncited 'confusion/double-charging' claims pull the average down. To reach level 2 overall, the document would need to properly cite the OFT study and substantiate the transparency-failure claims with named, traceable sources.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

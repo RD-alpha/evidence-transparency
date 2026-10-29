@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analyse document</title>
+    {% include '_site_head.jinja' %}
+</head>
+<body class="analyse-page">
+    {% set active = 'analyse' %}{% include '_site_nav.jinja' %}
+    <main class="analyse-card" aria-labelledby="analyse-title">
+        <div class="upload-eyebrow">Analysis workspace</div>
+        <h1 id="analyse-title">Preparing your document analysis</h1>
+        <p id="analyse-message">Start analysis to generate any missing result files.</p>
+
+        <label class="analyse-policy-select" for="policy-name">
+            <span>Document to analyse</span>
+            <select id="policy-name" {% if not policies %}disabled{% endif %}>
+                {% for policy in policies %}
+                <option value="{{ policy }}" {% if policy == selected_policy %}selected{% endif %}>{{ policy }}</option>
+                {% endfor %}
+            </select>
+        </label>
+
+        <ol id="analyse-steps" class="analyse-steps" aria-live="polite">
+            <li>Waiting to start</li>
+        </ol>
+
+        <div class="analyse-actions">
+            <button id="analyse-button" class="upload-submit" type="button">Start analysis</button>
+            <a id="view-results-button" class="analyse-view-results is-disabled" href="{{ url_for('index') }}" aria-disabled="true">View results</a>
+        </div>
+    </main>
+
+    <script>
+        const analyseButton = document.getElementById('analyse-button');
+        const viewResultsButton = document.getElementById('view-results-button');
+        const message = document.getElementById('analyse-message');
+        const steps = document.getElementById('analyse-steps');
+        const policyName = document.getElementById('policy-name');
+
+        policyName.addEventListener('change', () => {
+            viewResultsButton.classList.add('is-disabled');
+            viewResultsButton.setAttribute('aria-disabled', 'true');
+            message.textContent = 'Ready to analyse the selected document.';
+        });
+
+        function formatUsage(usage) {
+            if (!usage) return '';
+            const tokens = `${usage.input_tokens}in / ${usage.output_tokens}out`;
+            const cost = usage.cost_usd.toFixed(4);
+            return ` <span class="analyse-step-usage">(${tokens} tokens, $${cost})</span>`;
+        }
+
+        function addStep(label, status, usage) {
+            const item = document.createElement('li');
+            item.className = status === 'Success' ? 'is-success' : 'is-error';
+            item.innerHTML = `<span>${label}</span><strong>${status}</strong>${formatUsage(usage)}`;
+            steps.appendChild(item);
+            return item;
+        }
+
+        analyseButton.addEventListener('click', async () => {
+            analyseButton.disabled = true;
+            analyseButton.classList.add('is-loading');
+            message.textContent = 'Analysis is running. This can take a moment while the language-model tasks complete.';
+            steps.innerHTML = '';
+
+            let totalCost = 0;
+            let sawError = false;
+
+            try {
+                const response = await fetch('{{ url_for("analyse.analyse_run") }}', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ policy_name: policyName.value })
+                });
+
+                const reader = response.body.getReader();
+                const decoder = new TextDecoder();
+                let buffer = '';
+
+                while (true) {
+                    const { value, done } = await reader.read();
+                    if (done) break;
+                    buffer += decoder.decode(value, { stream: true });
+
+                    let newlineIndex;
+                    while ((newlineIndex = buffer.indexOf('\n')) !== -1) {
+                        const line = buffer.slice(0, newlineIndex).trim();
+                        buffer = buffer.slice(newlineIndex + 1);
+                        if (!line) continue;
+
+                        const event = JSON.parse(line);
+                        if (event.status === 'error') {
+                            sawError = true;
+                            addStep(event.label || 'Analysis', 'Error');
+                            message.textContent = `Analysis failed: ${event.error}`;
+                        } else if (event.status === 'complete') {
+                            // Terminal marker, no step to render.
+                        } else {
+                            addStep(event.label, event.status, event.usage);
+                            if (event.usage) totalCost += event.usage.cost_usd;
+                        }
+                    }
+                }
+
+                if (!response.ok && !sawError) {
+                    throw new Error('Analysis could not be completed.');
+                }
+
+                if (!sawError) {
+                    message.textContent = `Analysis complete (total cost $${totalCost.toFixed(4)}). Your persisted results are ready to view.`;
+                    viewResultsButton.classList.remove('is-disabled');
+                    viewResultsButton.removeAttribute('aria-disabled');
+                } else {
+                    analyseButton.disabled = false;
+                }
+            } catch (error) {
+                message.textContent = `Analysis failed: ${error.message}`;
+                if (!steps.children.length) {
+                    steps.innerHTML = '<li class="is-error">No results were changed.</li>';
+                }
+                analyseButton.disabled = false;
+            } finally {
+                analyseButton.classList.remove('is-loading');
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+{
+  "diagnosis": {
+    "core_themes": [],
+    "note": "No sentences are labelled Diagnosis; the document never sets out evidence on the scale, causes or effects of the transparency problem, only implying it through the minister's statements, which are labelled None."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Mandatory use-of-force data recording and publication",
+        "claim": "Forces will be required to record and publish detailed data on all use of force, including Taser location, outcome and the ethnicity and age of those involved, following the Shaw review's recommendations, to give transparency and safeguards."
+      },
+      {
+        "name": "Comparison of techniques and tactics",
+        "claim": "Published data will allow meaningful comparison of the effectiveness of different techniques for the first time, strengthening police training, tactics, decision-making and equipment procurement."
+      },
+      {
+        "name": "Safeguards for the new Taser X2",
+        "claim": "The new rules provide the added safeguards and transparency needed to introduce the Taser X2 device."
+      }
+    ],
+    "note": "The proposal is a single data-publication measure with several stated purposes; no alternatives or costs are discussed."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Rollout timetable and local publication",
+        "claim": "Forces have prepared the new data collection system for 1 April 2017 and will publish information locally each quarter, with an annual snapshot of key data going to the Home Office through the Annual Data Requirement for 2017/18."
+      }
+    ],
+    "note": "Implementation is described briefly with no reasoning for the chosen delivery method, alternatives or costs; the sharing of Taser deployment data with SACMILL is labelled Testing, not Implementation."
+  }
+}

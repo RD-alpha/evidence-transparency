@@ -1,0 +1,1035 @@
+# Assisted Digital Consultation
+Transforming our justice system: summary of reforms and consultation
+S0001 September 2016
+Transforming our justice system: summary of reforms and consultation
+Presented to Parliament by the Lord Chancellor and Secretary of State for Justice by Command of Her Majesty September 2016
+S0002 Cm 9321
+S0003 © Crown copyright 2016
+S0004 This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated.
+S0005 To view this licence, visit nationalarchives.gov.uk/doc/open-government- **(Link: 1) licence/version/3 **(Link: 2) or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.
+S0006 **(Link: 3)
+S0007 Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+S0008 This publication is available at www.gov.uk/government/publications **(Link: 4)
+S0009 Any enquiries regarding this publication should be sent to us at:
+S0010 Courts Reform Policy Ministry of Justice Post point 3.41 102 Petty France London SW1H 9AJ
+S0011 Tel: 020 3334 3555
+S0012 Fax: 020 3334 2233
+S0013 Email: CourtsReformPolicy@justice.gsi.gov.uk
+S0014 Print ISBN 9781474136471 Web ISBN 9781474136488 ID 13071611 09/16
+S0015 Printed on paper containing 75% recycled fibre content minimum
+S0016 Printed in the UK by the Williams Lea Group on behalf of the Controller of Her Majesty’s Stationery Office
+S0017 Foreword 3
+S0018 Transforming our justice system: summary of reforms 4
+S0019 1 Chapter One: overview – a modern justice system 4
+S0020 2 Chapter Two: Criminal 6
+S0021 3 Chapter Three: Civil 8
+S0022 4 Chapter Four: Family 9
+S0023 5 Chapter Five: Tribunals 10
+S0024 6 Chapter Six: Conclusion and Next Steps 11
+S0025 Transforming our justice system: Consultation 12
+S0026 About this consultation 12
+S0027 7 Chapter Seven: Consultation 13
+S0028 8 Summary of questions 22
+S0029 About you 24
+S0030 Contact details/How to respond 25
+S0031 Consultation principles 27
+Foreword
+S0032 Today the Lord Chancellor, Lord Chief Justice, and the Senior President of Tribunals have published a joint statement on their shared vision for the future of Her Majesty’s Courts & Tribunal Service.
+S0033 The justice system in England and Wales is internationally revered as one of the finest in the world; our strong and independent judiciary, world-class legal profession and adherence to the rule of law are the basis of a civilized society and strong economy.
+S0034 The Government is investing over £700m in the courts and tribunals and more than £270m in the criminal justice system, a sign of our commitment to building on our strengths and maintaining our international reputation.
+S0035 The world is moving on and our justice system must keep up to meet the changing needs and expectations of everyone who uses our courts and tribunals.
+S0036 The statement by the Lord Chancellor, Lord Chief Justice, and Senior President of Tribunals explains how the work we are doing will provide the public with a justice system that is:
+S0037  Just: decisions and outcomes are fair, the judiciary are supported by processes that
+S0038 are modern, transparent and consistent, and like cases are treated alike.
+S0039 A strong judiciary and meritocratic legal professions draw on the widest available pool of talents, to maintain public confidence and strengthen the rule of law.
+S0040  Proportionate: the cost, speed, complexity, and degree of adversarial protection
+S0041 make sense and are appropriate to the nature and value of the dispute at issue.
+S0042 An effective system will save people time and money, and shrink the impact of legal proceedings on their lives.
+S0043  Accessible: the system is affordable, intelligible and available for use by all,
+S0044 convenient for those who cannot easily attend in person, and supportive of those not comfortable with the law or technology.
+S0045 In practice, these principles will deliver swift and certain justice.
+S0046 The Ministry of Justice, in partnership with the judiciary, is working hard to ensure we can deliver the ambitious vision laid out by the Lord Chancellor, Lord Chief Justice, and Senior President of Tribunals today.
+S0047 Their joint statement demonstrates the strong and sustained commitment of the judiciary to supporting the reform programme, but it falls to the Ministry of Justice to develop and implement the policy proposals that will change the system and realise that vision.
+S0048 This document outlines what the Ministry of Justice is doing to achieve reform of the justice system, and invites the public and interested stakeholders to give their views on certain specific measures.
+S0049 Where required, we will bring forward legislation in due course.
+S0050 Sir Oliver Heald QC MP Minister of State
+Transforming our justice system: summary of reforms
+1 Chapter One: overview – a modern justice system
+S0051 1.1 A fair and functional justice system underpins every civilised society.
+S0052 It determines guilt in criminal cases, adjudicates on disputes between individuals, families and businesses, protects vulnerable children and allows the public to hold the Government to account.
+S0053 1.2 Our current system does all of this, but we want it to be even stronger; faster and easier to use, with improved experiences for those who use it, and better value for the taxpayer.
+S0054 There are many changes needed to realise the vision of a modern day justice system set out in the joint statement of the Lord Chancellor, Lord Chief Justice and the Senior President of Tribunals.
+S0055 1.3 This summary of reforms outlines all of the changes we are making to improve our system and achieve that vision.
+S0056 We are inviting views on certain specific measures – more detail on these proposals is available in Chapter 7 of this document.
+S0057 1.4
+S0058 The measures set out in this document all adhere to the principles of reform; just, proportionate and accessible.
+S0059 1.5 To deliver a system that is proportionate and tailored for the complexity and seriousness of individual cases, we are taking a consistent approach across jurisdictions, including:
+S0060 i. More use of case officers for routine tasks: Judges spend too much of their time
+S0061 dealing with uncontroversial, routine or straightforward matters which could just as effectively be dealt with by court staff under judicial authorisation.
+S0062 Where it is appropriate, specially trained staff will be able to carry out some of this work to help justice move faster.
+S0063 ii.
+S0064 More decisions made “on the papers”: Where a case is relatively straightforward or
+S0065 routine, representations will be made online in writing for a judge to consider outside of a traditional court room, without the need for a physical hearing, meaning a more convenient experience for everyone involved.
+S0066 iii.
+S0067 More virtual hearings: Where a judge needs to listen to the parties make their
+S0068 arguments, it will be possible in many cases to hold the hearings over telephone or video conference, without the need for the parties to travel to a court building.
+S0069 There will still be an important place for physical court hearings for criminal trials and other serious or complex cases, but where they are appropriate, virtual hearings offer an easy and convenient alternative for everybody.
+S0070 iv.
+S0071 More cases resolved out of court: In appropriate cases, we will encourage parties
+S0072 to settle their disputes themselves, without the intervention of the courts.
+S0073 1.6 We are also working to make our processes accessible and straightforward to make them easier for to use, with many of our services moving online – for example:
+S0074 i. Putting probate applications online:
+S0075 Dealing with probate affairs can be difficult and
+S0076 complicated at a time when people are often coping with bereavement.
+S0077 We are digitising the probate system to allow the entire process to be managed online, from application to resolution, making it an easier and faster process when cases are uncontested.
+S0078 ii.
+S0079 Managing divorce online:
+S0080 Work has already begun to allow divorce applications to
+S0081 be made and managed online, removing some of the bureaucracy from often stressful and lengthy proceedings and simplifying cumbersome administrative processes.
+S0082 iii.
+S0083 Digitising applications for Lasting Powers of Attorney: Allowing people to make
+S0084 arrangements for a time in the future when they may not be able to make decisions by themselves is a helpful but often emotionally stressful process.
+S0085 Applications have been partially digitised since 2014, resulting in fewer application forms being returned because of errors.
+S0086 We will build on this by making the system fully digital to deliver a quicker service.
+S0087 1.7 Across the board, we will be simplifying forms and making our processes more straightforward so they are easier for everyone to understand.
+S0088 1.8 Many of these changes are designed to bring the justice system up to date for the modern world and take advantage of advances in technology to provide a faster, more accessible service for users of the courts and tribunals.
+S0089 It is important, however, that we also consider the unintended effects of this technology to make sure that the system remains just.
+S0090 We will:
+S0091 i. Provide a system that works for everyone: Digital and online processes are easy
+S0092 and efficient for many people, but the justice system must also work for people who do not or cannot access services online.
+S0093 We must provide an alternative route of access for every service that moves online.
+S0094 We would welcome your views and suggestions on how to make sure that nobody is excluded from justice in this way.
+S0095 Further details can be found later in Chapter 7.1 where we also seek views on our proposed approach.
+S0096 ii.
+S0097 Continue to ensure open justice: It is a core principle of our justice system that
+S0098 justice is open.
+S0099 “It is not merely of some importance, but of fundamental importance that justice should not only be done, but should be manifestly and undoubtedly seen to be done,” as Lord Chief Justice Hewart said in 1924.
+S0100 The principle of open justice will be upheld and the public will still be able to see and hear real-time hearings, whilst we continue to protect the privacy of the vulnerable.
+Changes by jurisdiction
+S0101 1.9 Chapters 2 – 5 outline the changes that have already begun and those we plan to make in the crime, civil and family court jurisdictions, as well as in the tribunals system.
+S0102 These changes will work together to bring to life the vision of a just, proportionate and accessible justice system, fit for modern times.
+2 Chapter Two: Criminal
+S0103 2.1 In the criminal courts, we are working with our criminal justice partners including the CPS and the police to simplify the system, particularly with the introduction of new IT platforms, to make sure that criminal offences are dealt with in the most proportionate and appropriate way.
+S0104 This will reduce reoffending as well as improving experiences for victims and witnesses in the system.
+S0105 We will do this by:
+S0106 2.2 Making the courts more flexible
+S0107 i. Aligning the criminal courts: Magistrates’ courts and the Crown Court deal with
+S0108 different levels of criminal offence, but they must work better together to provide a more efficient service.
+S0109 We are working with the judiciary on structural and procedural changes that will give the senior judiciary clearer oversight of, and flexibility to manage, judicial leadership in the criminal jurisdiction.
+S0110 This will enable the Crown Court and magistrates’ courts to operate more closely together – stronger leadership and alignment will improve court performance for everyone involved.
+S0111 To support this, we will bring the structures of the courts closer by reforming existing local justice areas and making it easier to transfer cases between the Crown Court and Magistrates’ Court when appropriate – starting in the right place will make the process simpler and easier for victims and defendants.
+S0112 ii.
+S0113 Making it easier for vulnerable and intimidated witnesses (including victims) to give
+S0114 evidence: We will roll out the use of pre-trial cross-examination in Crown Court trials, allowing vulnerable and intimidated witnesses to pre-record their cross- examination, meaning the witness does not always need to attend the trial itself.
+S0115 A pilot found that this procedure meant witnesses gave evidence in half the time it would take at trial. We believe that expanding this will reduce distress for victims and witnesses and improve their overall experience of the justice system. ** (Reference: 1)
+S0116 2.3 Addressing offender behaviour
+S0117 i. Introducing problem solving courts: We are exploring the opportunities for problem
+S0118 solving methods further with the judiciary and collecting the evidence base.
+S0119 We are continuing to trial this approach in locations across the UK.
+S0120 ii.
+S0121 Using out of court disposals: We will use out of court disposals in appropriate cases,
+S0122 to help change offenders’ behaviour at the earliest possible opportunity– with swift and certain consequences for offenders who do not comply with the conditions attached.
+S0123 2.4 Improving process and technology for more efficient and digital justice
+S0124 i. Streamlining process: We are making changes to the way cases progress through
+S0125 the criminal courts, including removing unnecessary appearances in court (such as first appearances in magistrates’ courts for cases which can only be tried in the Crown Court), introducing a more efficient process to allocate cases to the Crown Court or magistrates’ courts and allowing simple decisions to be made via a new online system (see below).
+S0126 i. Using technology to make processes more efficient: We will increase the use of video link and telephone and video conferencing technology to make hearings easier and more convenient for all, including victims and witnesses and criminal justice system agencies.
+S0127 We will work with the police to hold bail hearings by video link from police stations to reduce the need for some offenders to be held in police cells overnight.
+S0128 In appropriate cases offenders will be able to plead guilty, be convicted and sentenced all on the same day by live video link from police stations.
+S0129 ii.
+S0130 Introducing a new collaborative IT system: The Common Platform is already being developed to provide a single case management IT system for use throughout the Crown Court and magistrates’ courts.
+S0131 It will provide access to case material and information to many agencies within the criminal justice system as well as the defence, victims and witnesses.
+S0132 Many current paper and court-based processes will be moved online, saving time and increasing efficiency for all court users.
+S0133 iii.
+S0134 Enabling online convictions and fixed fines: For certain routine, low-level summary, non-imprisonable offences with no identifiable victim, we propose to introduce a system which resolves cases entirely online.
+S0135 Defendants would log on to an online system to see the evidence against them before entering a plea.
+S0136 If they plead guilty, they can opt in to (and can always opt out of) the online system which allows them to view the penalty, accept the conviction and penalty, and pay their fine.
+S0137 Cases would be resolved immediately and entirely online, without the involvement of a magistrate.
+S0138 We would welcome views on this proposal– further details are available in Chapter 7.2.
+3 Chapter Three: Civil
+S0139 3.1
+S0140 The civil justice system deals with a huge range of cases – from low monetary value but passionate disputes between neighbours, to complex commercial cases worth millions.
+S0141 We already deal with these disputes in different ways but can go further in ensuring that we are taking a just, proportionate and accessible approach, to lead to swifter decision making.
+S0142 i. Introducing a new online process for resolving claims: In line with plans across all jurisdictions, we will move more cases away from physical court rooms.
+S0143 Building on Lord Justice Briggs’ proposals in his Civil Court Structures Review, we will create a new process to resolve many disputes entirely online, using innovative technology and specialist case officers to progress routine cases through the system and reserving judicial time for the most complex cases. ** (Reference: 2)
+S0144 We will create a new, streamlined Rules Committee to design this new system and keep the processes simple.
+S0145 When hearings are required, they may be held over the telephone or video conference, focusing court resources on the most complex and difficult cases.
+S0146 This will mean that cases should reach a quicker resolution.
+S0147 ii.
+S0148 Encouraging parties to resolve disputes themselves where possible: We will increase signposting to mediation and alternative dispute resolution services to help people avoid court for minor disputes that would be better handled privately, without needing the court to intervene.
+S0149 iii.
+S0150 Extending the fixed recoverable costs regime: Fixed recoverable costs are legal costs which can be recovered from the losing side by the successful party to a claim, at a prescribed rate.
+S0151 (For civil claims, these are set out in the Civil Procedure Rules).
+S0152 We will build on measures introduced in the last Parliament for low value personal injury claims, to limit the level of legal costs recoverable.
+S0153 These measures provide transparency and certainty for all parties and are designed to ensure that the amount of legal work done is proportionate to the value of the claim.
+S0154 We are keen to extend the fixed recoverable costs regime to as many civil cases as possible.
+S0155 The senior judiciary will be developing proposals on which we will then consult.
+S0156 iv.
+S0157 Civil enforcement: We will give the High Court powers to issue attachment of earnings orders to the High Court to create a simpler, more consistent approach to enforcement, and make sure more people can get the money they are owed.
+S0158 We will also commence the fixed deductions scheme (fixed table) provisions in the Tribunals, Courts and Enforcement Act 2007 in the County Court and introduce fixed tables in the High Court, providing transparency and certainty of the rate of deductions from debtors’ earnings to pay back their creditors.
+S0159 v. Replacing statutory declarations in county court proceedings with a witness statement verified by a statement of truth: We will replace outdated and currently inconsistent procedures, which are inconvenient for people to use and resource intensive to administer, with a more modern digital approach but keeping strong penalties where a statement of truth is found to be false.
+4 Chapter Four: Family
+S0160 4.1 Family proceedings deal with some of the most sensitive issues in the justice system, including parental disputes over where children should live and spend their time, protecting vulnerable children from abuse and neglect, and dealing with divorce and separation.
+S0161 Since the Family Justice Review in 2011, there have been major reforms with the creation of the Single Family Court and changes to legal aid eligibility in private law cases. ** (Reference: 3, 4)
+S0162 4.2 There is more work to be done, however, to make sure that the family justice system is tailored to the individual needs of the many people who use it, and to make sure that those people feel that their views are heard and considered in deciding the best outcome.
+S0163 We are working to consider what further changes are needed and will bring forward proposals in due course.
+5 Chapter Five: Tribunals
+S0164 5.1 Tribunals were originally introduced to provide a proportionate and easy to use service, mainly for citizens appealing decisions of the state, but over time they have become complicated and slow to deal with, burdened with paper and unnecessary bureaucracy.
+S0165 In line with our principles of just, proportionate and accessible, we are working to create a system that is easier to use and delivers better value for money.
+S0166 i.
+S0167 Streamlining procedures and encouraging a balanced approach: We are
+S0168 working to simplify our procedures and put entire services online where possible, carefully designed to be intuitive and easy to follow.
+S0169 Many relatively straightforward tribunal decisions do not require full physical hearings, so where appropriate, judges will be making decisions based on written representations, hearings will be held over telephone or video conference and specially trained case officers will help cases progress through the system.
+S0170 All of these changes will make the process quicker and easier to deal with for all parties involved in a case.
+S0171 ii.
+S0172 Digitising the Social Security and Child Support Tribunal: This will be one of the
+S0173 first services to be moved entirely online, with an end-to-end digital process that will be faster and easier to use for people that use it.
+S0174 iii.
+S0175 Simplifying panel composition: Another factor in taking a balanced, tailored
+S0176 approach to tribunal cases is making sure the panels that make decisions in tribunals are designed to best suit the circumstances of the case.
+S0177 Most tribunals currently reflect historic arrangements that may be out of date and do not tailor the expertise of the panel according to the case.
+S0178 We propose to revise the current arrangements for setting panel composition to make sure that that appropriate expertise is focussed on those cases that need it.
+S0179 We would welcome views on how best to achieve this – more details are available later in Chapter 7.3.
+S0180 iv.
+S0181 Reforming employment tribunals: The Employment Tribunals deal with a huge
+S0182 volume of claims every year – c. 83,000 in 2015/16. ** (Reference: 5)
+S0183 They work on similar principles to many other tribunals and the civil courts, but currently have an entirely separate structure, including a specific appeals tribunal.
+S0184 We are considering whether the new approaches being adopted elsewhere in the justice system could be applied to the employment jurisdiction.
+S0185 5.2 Whilst any reform to the courts would be limited to England and Wales only, HMCTS is also currently responsible for managing reserved tribunals in Scotland.
+S0186 Responsibility for managing reserved tribunals in Scotland will be transferred to the Scottish Courts and Tribunals Service as part of the implementation of the Scotland Act 2016 and the Scottish Government will be responsible for deciding how those tribunals are managed in future.
+6 Chapter Six: Conclusion and Next Steps
+S0187 6.1 These reforms work together to make the vision of the Lord Chancellor, Lord Chief Justice and Senior President of Tribunals a reality.
+S0188 In making these changes, we will establish a just, proportionate and accessible system that is fit for modern times and provides a better experience for everyone who needs it.
+S0189 6.2 The Government will bring forward legislation in due course to enable these reforms where necessary.
+S0190 6.3 At this stage, views are invited on three specific elements:
+S0191 i. Assisted digital facilities;
+S0192 ii.
+S0193 Online conviction and statutory fixed fine; and
+S0194 iii. Panel composition in the tribunals.
+Transforming our justice system: Consultation
+About this consultation
+S0195 Duration: From 15/09/16 to 27/10/2016
+S0196 Enquiries (including requests for the paper in an alternative format) to:
+S0197 Courts Reform Policy Ministry of Justice 102 Petty France London SW1H 9AJ
+S0198 Tel: 020 3334 3555
+S0199 Fax: 020 3334 2233
+S0200 Email: CourtsReformPolicy@justice.gsi.gov.uk
+S0201 How to respond: Please respond online at: https://consult.justice.gov.uk **(Link: 5) by 11.59pm on Thursday 27 October, or send your response (also to arrive by Thursday 27 October) to:
+S0202 Courts Reform Policy Post Point 3.41 Ministry of Justice 102 Petty France London SW1H 9AJ
+S0203 Tel: 020 3334 3555
+S0204 Email: CourtsReformPolicy@justice.gsi.gov.uk
+S0205 Response paper: A response to this consultation exercise will be published in due course at: https://consult.justice.gov.uk/ **(Link: 6)
+S0206 A Welsh language consultation paper will be available in due course.
+S0207 We are also separately consulting on a range of issues related to the way that judges will work in a reformed system and the future provision they need to enable them to do so.
+S0208 This summary of reforms does not consider the implications for court and tribunal fees or legal aid.
+S0209 This fundamental reform of the way the justice system works may well demand consequential changes in the future, on which we will consult separately in due course where appropriate.
+7 Chapter Seven: Consultation
+S0210 7.1 Assisted digital
+S0211 7.1.1 Improving technology and putting more services and processes online is key to our reforms; for most people, this will make court and tribunal services more accessible and easier to deal with, and will fundamentally change the way in which people interact with the justice system.
+S0212 7.1.2
+S0213 We recognise that not everyone will be able to engage with these new processes, and we need to take steps to provide support to those people who need it to interact with the new system.
+S0214 7.1.3 There is a range of ability and comfort in using technology across the UK.
+S0215 It is estimated that of the UK population who use government digital services: ** (Reference: 6)
+S0216  30% are “digital self-servers” – these are people who have the skills, access
+S0217 and motivation to use digital services unaided.
+S0218  52% can be “digital with assistance” – these are people who are able and can
+S0219 choose to engage digitally, but may need some help to do so.
+S0220 Over time, they should gain the confidence to become part of the “self-server” group.
+S0221  18% are “digitally excluded” – these people cannot or choose not to engage
+S0222 digitally at all, due to difficulty in accessing IT facilities, lack of basic digital skills or confidence, or low motivation.
+S0223 These people will continue to need a lot of support, but the size of the group is shrinking with time as digital services become more common.
+S0224 7.1.4 Everyone must be able to use our services, regardless of which of these groups they fall into.
+S0225 The number of people in the third group will vary across the different jurisdictions and they may be disproportionately represented in some parts of the system – in designing different services we will need to tailor the solutions based around the needs of the people using that service.
+S0226 A one-size-fits-all approach is not appropriate.
+S0227 7.1.5 To make sure that our services can be used by everyone, we expect to include the following as part of our approach:
+S0228  Face-to-face assistance – for example, aiding completion of an online form.
+S0229 This type of service may be supplied by a third party organisations in some cases.
+S0230 
+S0231 A telephone help service offering similar advice, which we would expect to be
+S0232 staffed by Her Majesty’s Court and Tribunal System (HMCTS).
+S0233  Web chat to guide people through online processes.
+S0234 
+S0235 Access to paper channels for those who require it.
+S0236 7.1.6
+S0237 We are testing some elements of this in the development of two new services – the ability to make a plea online for low level traffic offences and applying online for financial help towards court fees, for those on low incomes.
+S0238 7.1.7 A number of recent Government initiatives have delivered assisted digital support to smaller groups of people, and we are learning the lessons from these to inform our approach.
+S0239 Given how many services we are modernising, the number of people who will be affected by the changes across the courts and tribunals will be on a much greater scale.
+S0240 7.1.8 We will continue to develop our approach to assisted digital support as we develop our services, piloting and testing proposed solutions and taking account of user research to tailor our provision.
+S0241 This will be an ongoing process.
+S0242 A dedicated team in HMCTS will work to make sure that we are providing intuitive, easy-to-use digital services for everybody, including the digitally excluded and those who may have other difficulties such as impaired vision or low literacy.
+S0243 Question 1: Do you agree that the channels outlined (telephone, webchat, face-to- face and paper) are the right ones to enable people to interact with HMCTS in a meaningful and effective manner?
+S0244 Please state your reasons.
+S0245 Question 2: Do you believe that any channels are particularly well suited to certain types of HMCTS service?
+S0246 Please state your reasons.
+S0247 7.2 Online conviction and statutory fixed fine
+S0248 7.2.1 Many of the low-level cases that magistrates’ courts deal with are relatively simple and straightforward, and should be dealt with in a more proportionate way.
+S0249 Around 890,000 cases a year are summary-only, non-imprisonable offences.
+S0250 Since April 2015, we have been implementing a new way of dealing with some of these cases, starting at Lavender Hill Magistrates’ Court.
+S0251 In appropriate cases, the Single Justice Procedure allows one magistrate to consider a defendant’s plea and the evidence, including any mitigating circumstances, “on the papers”, alone and outside a physical courtroom.
+S0252 The magistrate can convict the defendant and impose a penalty without the need for a court hearing.
+S0253 Neither the defendant nor the prosecution are inconvenienced by having to attend court for these proceedings (for some offences the defendant can even enter their plea online) and the case is dealt with quickly and efficiently, allowing magistrates to focus their valuable time on more complex and contested cases.
+S0254 By the end of 2016 we will complete the roll-out of this procedure across England and Wales.
+S0255 7.2.2 We have plans to digitise this process.
+S0256 Prosecutors will be able to enter details of the charge via an online portal.
+S0257 Defendants will view the charge and evidence against them, enter a plea and any mitigating circumstances or means information and (following consideration of the case by a magistrate) be informed of the magistrate’s decisions – all online.
+S0258 7.2.3 We want to simplify the process even further for some of the most routine and least serious cases.
+S0259 In future, we propose that some defendants in appropriate cases will be able to resolve their cases entirely online.
+S0260 Defendants will be able to log onto an online system and view the evidence against them before entering their plea.
+S0261 Under this proposal, defendants who plead guilty in these cases will be offered the option to accept a pre-determined penalty (plus any appropriate compensation and costs), be convicted and pay the resulting penalty immediately, without a magistrate’s involvement.
+S0262 This allows defendants to conclude their case faster and with greater certainty, and means magistrates can spend their time and the courts can focus their resources where they are most needed.
+S0263 We expect to implement this process from 2018.
+S0264 7.2.4 We propose that a number of safeguards are built into the process to ensure it is only used in appropriate circumstances:
+S0265 i. Only specified summary only, non-imprisonable offences would be eligible for this process; where the offence does not have an identifiable victim, is relatively straightforward and a fixed penalty may be appropriate.
+S0266 ii.
+S0267 The defendant would have to actively opt-in by entering a guilty plea online and agreeing to this process.
+S0268 If the defendant wishes to plead guilty but does not wish to accept the fixed fine or the online conviction (for example, because they want to explain mitigating circumstances or provide information about their means) they can instead choose to have a magistrate consider that information via the Single Justice Procedure or have their case heard in court.
+S0269 Pleading not guilty would mean the case is automatically listed for trial.
+S0270 iii.
+S0271 Prosecutors would have discretion as to whether a particular case is suitable for this process in light of the evidence or aggravating factors such as repeat offending.
+S0272 iv.
+S0273 All prosecutors will still be required to meet the statutory test for prosecution – that is there is sufficient evidence to prosecute and it is in the public interest.
+S0274 Prosecutors will remain accountable for their decisions.
+S0275 v. Defendants would be presented with all the relevant evidence against them and the potential consequences, such as the disclosure regime for the conviction.
+S0276 Before electing to go down this route, they would be given details of the prospective fixed fine (and any additional elements such as compensation or costs) to allow defendants to make an informed decision.
+S0277 vi.
+S0278 Defendants would be able to seek help to engage with the process through assisted digital channels if they wished.
+S0279 vii.
+S0280 The court would have the power to reverse a conviction and have the matter retried, in the event that the defendant did not understand the consequences of their decision to accept the conviction and total penalty.
+S0281 viii.
+S0282 Current early guilty plea discounts would continue to apply whether the guilty plea was entered online or in other ways (e.g. via post).
+S0283 ix.
+S0284 Defendants who are unable to pay the total penalty immediately would be able to agree a repayment plan.
+S0285 x.
+S0286 If, in the future, driving offences which carry penalty points are brought into scope of this process, there will be a system to handle points and the potential for disqualification via “totting up”, to remove cases that are not appropriate for the online system.
+S0287 7.2.5 Offences in scope
+S0288 7.2.6 Only certain specified offences will be eligible for this process.
+S0289 For a case to be appropriate for this process it must be relatively straightforward and simple to prove, with no complex grounds and no other potential for significant discretion from magistrates in a traditional setting.
+S0290 There should also be no likelihood of ancillary orders being relevant (for example, disqualification from driving or a parenting order).
+S0291 We propose to test the system with a small number of summary, non-imprisonable offences in the initial phase of introducing the online conviction and fixed fine scheme, which would be:
+S0292  Railway fare evasion
+S0293  Tram fare evasion
+S0294  Possession of unlicensed rod and line.
+S0295 7.2.7
+S0296 If this initial phase is successful, we plan to bring other offences, particularly certain road traffic offences, into the system in future.
+S0297 Question 3: Do you agree with the principle of an online conviction and statutory fixed fine process for those who enter an online guilty plea and are content to proceed with the process?
+S0298 Please state your reasons.
+S0299 Question 4: Do you think that there any additional considerations which we should factor into this model?
+S0300 Please list additional considerations.
+S0301 Question 5: Do you think that the proposed safeguards are adequate (paragraphs i- x above)?
+S0302 Please state your reasons.
+S0303 Question 6: Do you agree that the offences listed above are appropriate for this procedure and do you agree with our proposal to extend to further offences in the future, including driving offences?
+S0304 Please state your reasons.
+S0305 7.3 Panel composition in tribunals
+S0306 7.3.1
+S0307 As part of our commitment to simplifying tribunals, we are reviewing the current arrangements for panel composition in tribunals in the unified system.
+S0308 7.3.2 Non-legal members are a vital part of our judiciary, bringing unique skills and expertise that would not otherwise be available to the tribunal.
+S0309 They also help us make sure that our judicial system is truly representative, not only of society but of the people who appear in front of our tribunals.
+S0310 Having someone, when necessary, who is able to provide specialist expertise and knowledge about, for example, the impact of a medical problem in an appeal to the First-Tier Tribunal (Social Security and Child Support), or the appropriate rental value of a property in an appeal to the First-Tier Tribunal (Property Chamber), can be essential.
+S0311 Our system will continue to need and provide for the input of non-legal members with a wide range of skills to provide that necessary expertise where needed.
+S0312 7.3.3 As we streamline the tribunals system, we need to be more tailored and flexible in the way that non legal members are used.
+S0313 Panel composition will remain a matter for the Senior President of Tribunals (SPT), but we want to move away from a blanket approach of using non-legal members regardless of whether their specialist expertise and knowledge is relevant or required.
+S0314 Instead, they should only be part of the panel where their presence is relevant to the case.
+S0315 Their expertise and knowledge may also be used in innovative ways, with a greater focus on online engagement and ongoing conversation outside of traditional hearings between the parties and the tribunal.
+S0316 7.3.4 The terms of the First-tier Tribunal and Upper Tribunal (Composition of Tribunal) Order 2008 allow the SPT to set the composition of tribunal panels in the unified system via Practice Statements.
+S0317 They also require him to have regard to the arrangements that existed before the tribunal transferred into the unified system (which started on a rolling programme in 2008).
+S0318 This requirement in practice means that many tribunal panels are based on historical precedents rather than the most appropriate specialist expertise or knowledge for individual cases in 2016.
+S0319 In the First-tier Tribunal (Social Security and Child Support), for example, many cases must be heard by a judge, a medical member and a member with experience of providing or receiving care for disability, regardless of the circumstances of the case in question.
+S0320 7.3.5 Some change has already been introduced by way of revised Practice Statements, and has not been shown to have any negative effects on decisions.
+S0321 For example, cases in the First-Tier Tribunal (Immigration and Asylum) are now usually heard by a single judge unless the President of the Chamber or Resident Judge determines that further panel members are needed in the interests of justice.
+S0322 The number of appeals allowed in deportation cases has remained between 32% and 37% from 2012/13 to the first two quarters of 2015/16. There has also been a reduction in the number of additional panel members in the First-Tier Tribunal (Special Educational Needs and Disability), and the number of decisions appealed from the first tier has ** (Reference: 7)
+S0323 remained stable.
+S0324 Separately, in the Employment Tribunal, the Government has reduced panel members in most unfair dismissal claims, but outcomes have not been notably affected – the proportion of successful cases has stayed between 8% and 11% between 2007/8 and 2014/15. ** (Reference: 8)
+S0325 7.3.6 We therefore propose to amend the First-tier Tribunal and Upper Tribunal (Composition of Tribunal) Order 2008 to give the SPT greater freedom to adopt a more proportionate and flexible approach to panel composition, by:
+S0326  Providing that a tribunal panel in the First-tier Tribunal is to consist of a single
+S0327 member unless otherwise determined by the SPT; and ** (Reference: 9)
+S0328  Removing the existing requirement to consider the arrangements that were in
+S0329 place before the tribunal transferred into the unified system.
+S0330 7.3.7 The determination of panel composition will remain the responsibility of the SPT, and he will continue to be required to maintain access to justice, to ensure that proceedings are fair and proportionate, and to provide the necessary expertise. We can therefore be confident that people who rely on the tribunal to give them a fair decision will not suffer, but instead there will be an improvement in speed and efficiency as well as more scope for innovation. ** (Reference: 10)
+S0331 It will allow the SPT to consider the most appropriate way to deliver specialist expertise and knowledge in the transformed tribunals system, and to make decisions based on what is useful rather than historical precedents that may no longer be relevant.
+S0332 7.3.8 Where specialist expertise or knowledge is required, it will still be provided but the SPT will be able to consider more flexible allocation of the important specialist resource provided by non-legal members.
+S0333 For example, they could be used as a pool of specialist experts who could be deployed across various Chambers and jurisdictions who would benefit from their expertise, answering specific queries from judges or helping people work through the process by sharing their skills and knowledge.
+S0334 7.3.9
+S0335 The use of multiple panel members in the unified tribunals currently costs the taxpayer around £21m per year in fees alone, with daily fees for each member ranging from £200 - £500, plus additional costs for travel and subsistence, training, appraisal and general administration.
+S0336 By using NLMs in a more tailored, flexible way, we can make sure that more people in the tribunals will benefit from their specialist expertise and knowledge, while delivering better value for the taxpayer.
+S0337 Question 7: Do you agree that the SPT should be able to determine panel composition based on the changing needs of people using the tribunal system?
+S0338 Please state your reasons.
+S0339 Question 8: In order to assist the SPT to make sure that appropriate expertise is provided following the proposed reform, which factors do you think should be considered to determine whether multiple specialists are needed to hear individual cases?
+S0340 Please state your reasons and specify the jurisdictions and/or types of case to which these factors refer.
+S0341 7.4 Impact and equalities impact assessments
+S0342 7.5 To accompany this document we have published impact and equalities impact assessments for each of the measures we are inviting views on.
+S0343 Question 9: Do you agree that we have correctly identified the range of impacts, as set out in the accompanying Impact Assessments, resulting from these proposals?
+S0344 - Assisted Digital
+S0345 - Online conviction and statutory fixed fine
+S0346 - Panel composition in the tribunals
+S0347 Please state your reasons.
+S0348 Question 10: What do you consider to be the equalities impacts on individuals with protected characteristics of each of the proposed options for reform?
+S0349 Please state your reasons.
+S0350 Question 11: Do you agree that we have correctly identified the range of equalities impacts, as set out in the accompanying Equalities Impact Assessments, resulting from these proposals?
+S0351  Assisted Digital
+S0352  Statutory Fixed Fine
+S0353  Panel composition in the tribunals
+S0354 Please state your reasons.
+8 Summary of questions
+S0355 We would welcome responses to the following questions set out in this consultation paper.
+S0356 Assisted digital
+S0357 Question 1: Do you agree that the channels outlined (telephone, webchat, face-to-face and paper) are the right ones to enable people to interact with HMCTS in a meaningful and effective manner?
+S0358 Please state your reasons.
+S0359 Question 2: Do you believe that any channels are particularly well suited to certain types of HMCTS service?
+S0360 Please state your reasons.
+S0361 Online convictions and statutory fixed fines
+S0362 Question 3: Do you agree with the principle of a statutory fixed fine process for those who enter an online guilty plea and are content to proceed with the process?
+S0363 Please state your reasons.
+S0364 Question 4: Do you think that there any additional considerations which we should factor into this model?
+S0365 Please list additional considerations.
+S0366 Question 5: Do you think that the proposed safeguards are adequate (paragraphs i-x above)?
+S0367 Please state your reasons.
+S0368 Question 6: Do you agree that the offences listed above are appropriate for this procedure and do you agree with our proposal to extend to further offences in the future, including driving offences?
+S0369 Please state your reasons.
+S0370 Panel composition in tribunals
+S0371 Question 7: Do you agree that the SPT should be able to determine panel composition based on the changing needs of people using the tribunal system?
+S0372 Please state your reasons.
+S0373 Question 8: In order to assist the SPT to make sure that appropriate expertise is provided following the proposed reform, which factors do you think should be considered to determine whether multiple specialists are needed to hear individual cases?
+S0374 Please state your reasons and specify the jurisdictions and/or types of case to which these factors refer.
+S0375 Impacts and equalities impacts
+S0376 Question 9: Do you agree that we have correctly identified the range of impacts, as set out in the accompanying Impact Assessments, resulting from these proposals?
+S0377 - Assisted Digital
+S0378 - Online Conviction and Statutory Fixed Fine
+S0379 - Panel composition in the tribunals
+S0380 Please state your reasons.
+S0381 Question 10: What do you consider to be the equalities impacts on individuals with protected characteristics of each of the proposed options for reform?
+S0382 Please state your reasons.
+S0383 Question 11: Do you agree that we have correctly identified the range of equalities impacts, as set out in the accompanying Equalities Impact Assessments, resulting from these proposals?
+S0384  Assisted Digital
+S0385  Statutory Fixed Fine
+S0386  Panel composition in the tribunals
+S0387 Please state your reasons.
+S0388 Thank you for participating in this consultation exercise.
+About you
+S0389 Please use this section to tell us about yourself
+S0390 Full name
+S0391 Job title or capacity in which you are responding to this consultation exercise (e.g. member of the public etc.)
+S0392 Date
+S0393 Company name/organisation (if applicable):
+S0394 Address
+S0395 Postcode
+S0396 If you would like us to acknowledge receipt of your response, please tick this box
+S0397 (please tick box)
+S0398 Address to which the acknowledgement should be sent, if different from above
+S0399 If you are a representative of a group, please tell us the name of the group and give a summary of the people or organisations that you represent.
+Contact details/How to respond
+S0400 Please respond online at: https://consult.justice.gov.uk **(Link: 7) by 11.59pm on Thursday 27 October, or send your response (also to arrive by Thursday 27 October) to:
+S0401 Courts Reform Policy Post Point 3.41 Ministry of Justice 102 Petty France London SW1H 9AJ
+S0402 Tel: 020 3334 3555
+S0403 Email: CourtsReformPolicy@justice.gsi.gov.uk
+S0404 Complaints or comments
+S0405 If you have any complaints or comments about the consultation process you should contact the Ministry of Justice at the above address.
+S0406 Extra copies
+S0407 Further paper copies of this consultation can be obtained from this address and it is also available on-line at https://consult.justice.gov.uk/. **(Link: 8)
+S0408 Alternative format versions of this publication can also be requested from this address.
+S0409 Publication of response
+S0410 A paper summarising the responses to this consultation will be published in due course.
+S0411 The response paper will be available on-line at https://consult.justice.gov.uk/. **(Link: 9)
+S0412 Representative groups
+S0413 Representative groups are asked to give a summary of the people and organisations they represent when they respond.
+S0414 Confidentiality
+S0415 Information provided in response to this consultation, including personal information, may be published or disclosed in accordance with the access to information regimes (these are primarily the Freedom of Information Act 2000 (FOIA), the Data Protection Act 1998 (DPA) and the Environmental Information Regulations 2004).
+S0416 If you want the information that you provide to be treated as confidential, please be aware that, under the FOIA, there is a statutory Code of Practice with which public authorities must comply and which deals, amongst other things, with obligations of confidence.
+S0417 In view of this it would be helpful if you could explain to us why you regard the information you have provided as confidential.
+S0418 If we receive a request for disclosure of the information we will take full account of your explanation, but we cannot give an assurance that confidentiality can be maintained in all circumstances.
+S0419 An automatic confidentiality disclaimer generated by your IT system will not, of itself, be regarded as binding on the Ministry.
+S0420 The Ministry will process your personal data in accordance with the DPA and in the majority of circumstances, this will mean that your personal data will not be disclosed to third parties.
+Consultation principles
+S0421 The principles that Government departments and other public bodies should adopt for engaging stakeholders when developing policy and legislation are set out in the consultation principles.
+S0422 https://www.gov.uk/government/publications/consultation-principles-guidance **(Link: 10)
+S0423 ISBN 978-1-4741-3647-1
+S0424 9 781474 136471
+# Assisted Digital Court Reform IA
+|  Title: Assisted Digital: Court Reform IA No: MoJ019/2016 RPC Reference No: Lead department or agency: Ministry of Justice Other departments or agencies: HMCTS | Impact Assessment (IA)  |
+| --- | --- |
+|   |  Date: 15/09/2016  |
+|   |  Stage: Development/Options  |
+|   |  Source of Intervention: Domestic  |
+|   |  Type of measure: Primary legislation  |
+|   |  Contact for enquiries:  |
+|  Summary: Intervention and Options | RPC Opinion: N/A  |
+
+|  Cost of Preferred (or more likely) Option  |   |   |   |   |
+| --- | --- | --- | --- | --- |
+|  Total Net Present Value £m | Business Net Present Value £m | Net cost to business per year (EANDCB in 2014 prices) £m | One-In, Three-Out? Not in scope | Business Impact Target Status Not Applicable  |
+|  What is the problem under consideration? Why is government intervention necessary? Improving technology and putting more services and processes online is key to the proposed reforms to HM Courts and Tribunal Service (HMCTS); for most people, this will make court and tribunal services more accessible and easier to deal with, and will fundamentally change the way that users interact with the justice system. To maintain access to justice, steps need to be taken by HMCTS to ensure support is provided to those people who need it to interact with the reformed justice system.  |   |   |   |   |
+
+|  What are the policy objectives and the intended effects? The objective is to allow members of digitally excluded groups to access digital justice system services, helping these groups to participate in modern, streamlined processes and so at least maintain, if not improve, current levels of access to justice. This will also enable planned court reform measures to be implemented more extensively than if no support was put in place.  |
+| --- |
+
+|  What policy options have been considered, including any alternatives to regulation? Please justify preferred option (further details in Evidence Base) The following options have been assessed in this impact assessment: - Option 0/Do nothing - assume that those who are digitally excluded will access justice services via traditional in-person and paper routes, or be helped by others to access them digitally. - Option 1 - Put in place a range of assisted digital options to support people access digital channels, including 'face to face', telephone and 'webchat' services. Option 1 is the preferred option as it best meets the policy objectives.  |
+| --- |
+
+|  Will the policy be reviewed? It will be reviewed iteratively. If applicable, set review date: N/A  |   |   |   |   |
+| --- | --- | --- | --- | --- |
+|  Does implementation go beyond minimum EU requirements? |   | N/A  |   |   |
+|  Are any of these organisations in scope? | Micro N/A | Small N/A | Medium N/A | Large N/A  |
+|  What is the CO₂ equivalent change in greenhouse gas emissions? (Million tonnes CO₂ equivalent) |   | Traded: N/A | Non-traded: N/A  |   |
+
+S0425 I have read the Impact Assessment and I am satisfied that, given the available evidence, it represents a reasonable view of the likely costs, benefits and impact of the leading options.
+S0426 Signed by the responsible Minister:
+S0427 N. Head
+S0428 14/9/16
+Summary: Analysis & Evidence
+S0429 Policy Option 1
+S0430 Description: Put in place a range of assisted digital options
+S0431 FULL ECONOMIC ASSESSMENT
+|  Price Base Year | PV Base Year | Time Period Years 10 | Net Benefit (Present Value (PV)) (£m)  |   |   |
+| --- | --- | --- | --- | --- | --- |
+|   |   |   |  Low: | High: Optional | Best Estimate: -£61m  |
+|  COSTS (£m) |   | Total Transition (Constant Price) Years |   | Average Annual (excl. Transition) (Constant Price) | Total Cost (Present Value)  |
+|  Low |   | Optional |  | Optional | Optional  |
+|  High |   | Optional |   | Optional | Optional  |
+|  Best Estimate |   |  |   | £6m |   |
+|  Description and scale of key monetised costs by 'main affected groups' The basic administrative running costs of a 'face to face' assisted digital service and paper channel have been estimated as averaging between £5m-£9m per annum.  |   |   |   |   |   |
+|  Other key non-monetised costs by 'main affected groups' HMCTS may incur additional costs from implementing and setting up the proposed assisted digital services and from running a webchat service above the basic administrative costs identified for the 'face to face' service and paper channels. Assisted digital services may make court users more aware of the support available elsewhere in the justice system, organisations that offer this may incur resource costs if they see an increase in demand. Legal service providers may lose business if court users decide to become 'litigants in person' due to becoming more confident and digitally self-sufficient  |   |   |   |   |   |
+|  BENEFITS (£m) |   | Total Transition (Constant Price) Years |   | Average Annual (excl. Transition) (Constant Price) | Total Benefit (Present Value)  |
+|  Low |   | Optional |  | Optional | Optional  |
+|  High |   | Optional |   | Optional | Optional  |
+|  Best Estimate |   |  |   |  |   |
+|  Description and scale of key monetised benefits by 'main affected groups' None identified.  |   |   |   |   |   |
+|  Other key non-monetised benefits by 'main affected groups' Assisted digital would be an 'enabler' of savings for HMCTS as it would allow a large number of court users to move from the current paper channel to the more cost effective and efficient digital channel. Assisted digital would allow court users who are not digitally self-sufficient to have effective and timely access to justice, enable them to experience the benefits of a modernised court system and help give them the confidence to become digitally self-sufficient users both in the justice system and for other online services. Legal service providers may decide to rival the government offered assisted digital service with a private sector alternative. Firms may use this a loss leader to gain assisted digital users as clients to advise/represent or, if there is enough demand, they may offer it as a paid-for service. If some users gain the confidence to become digitally self-sufficient, legal firms may have to provide less pro-bono services.  |   |   |   |   |   |
+|  Key assumptions/sensitivities/risks |   |   |   | Discount rate % | 3.5%  |
+|  That the demand for assisted digital services may be higher or lower than anticipated. Demand for assisted digital services may not drop off as quickly or as consistently as assumed. Assisted digital services may not be flexible or nuanced enough to provide the most efficient and cost effective assistance to court users.  |   |   |   |   |   |
+
+S0432 BUSINESS ASSESSMENT (Option 1)
+|  Direct impact on business (Equivalent Annual) £m: |   |   | Score for Business Impact Target (qualifying provisions only) £m:  |
+| --- | --- | --- | --- |
+|  Costs: | Benefits: | Net: |   |
+A. Background
+S0433 The Government's reform of HM Courts and Tribunal Services (HMCTS) is looking to modernise and streamline the justice system, and will fundamentally change the way users interact with these services.
+S0434 Many of these changes will involve the use of digital services, including online communications through mechanisms including portals and email and remote technology such as video conferencing.
+S0435 Access to justice is also essential to enable people and businesses to realise and protect their rights, and has long been recognised in the common law.
+S0436 As the courts and tribunals move towards digital channels, the Government is committed to ensuring that access to justice is maintained for all users.
+S0437 It is estimated that across the UK, when engaging with government services, 30% of the population are 'digital self-servers', meaning 70% will require varying level of assistance to use digital services. ** (Reference: 11)
+S0438 Whilst this rate may differ among users, it is clear a large number will require assistance to access a new digitally driven court service in a meaningful way.
+S0439 This means making sure that users are supported to access digital services through the provision of 'assisted digital' support.
+S0440 The Government recognises that there is no such thing as an 'average user' of the justice system, and so a blanket approach to digital support would not be appropriate.
+S0441 The Government also recognises that the number of digitally excluded users will vary by case type, and that these users may be disproportionately represented in some parts of the courts and tribunals system.
+S0442 This is why we will need to be designing and building tailored solutions around the needs of our users.
+S0443 The arrangements we will put in place will need to help users interact with us digitally with confidence and success, either through 'light touch' assistance, such as telephone support, through to more intensive face to face assistance.
+S0444 Based on our research and our findings from other government departments, we expect our assisted digital approach to include:
+S0445 'Face to face' assistance
+S0446 A telephone help service, staffed by HMCTS
+S0447 Web chat to guide people through online processes while encouraging them to remain engaged digitally; and,
+S0448 Access to paper channels for those users who require them.
+S0449 A number of recent initiatives across Government have delivered assisted digital support to smaller user groups, and we will learn from these as we develop our approach.
+S0450 Our assisted digital approach will be developed iteratively, with extensive input from service users.
+S0451 We will carry out extensive piloting, user research and testing across the digital skills spectrum to make sure that our services meet the needs of our users, and continue to be improved following their launch.
+S0452 The HMCTS Reform Programme also has a dedicated Accessibility & Inclusion team who will ensure that new digital services
+S0453 are intuitive and simple to use for all users, including those who experience barriers such as impaired vision or low literacy.
+S0454 All our services will be assessed by the Government Digital Services to ensure our assisted digital support meets government standards.
+S0455 This consultation is looking to gather opinion on which channels may be best suited to particular user types, and if the proposed channels are appropriate or if any further options need consideration.
+B. Policy Rationale and Objectives
+S0456 The policy objective is to allow members of digitally excluded groups to access digital justice services, helping these groups to participate in modern, streamlined processes and also enabling planned court reform measures to be implemented.
+S0457 HMCTS have developed the following key principles for their delivery model, which assisted digital arrangements will aid and align to:
+S0458 Built around the needs of those who use it
+S0459 A unified operating model
+S0460 An easy to access justice system
+S0461 Built to optimize take up of our 'preferred', digital channels
+S0462 Appropriate, proportionate, and segmented
+S0463 Transparent and accountable
+S0464 Financially viable and efficient
+S0465 Built on the strong, independent and trusted Justice brand
+S0466 Intelligence led
+S0467 Responsive
+S0468 These principles will lead to a transformed model for our criminal, civil, family and tribunal service, delivering better access to justice at lower cost – moving away from a "one size fits all" service.
+S0469 These principles will also allow us significantly to improve the experience for all users by providing greater accessibility to court services, better navigation of these services and removing work from courts which does not have to be managed in a physical paradigm.
+C. Affected Stakeholder Groups, Organisations and Sectors
+S0470 The parties mainly affected by the proposal are listed below:
+S0471 Her Majesty's Court and Tribunal Service (HMCTS), which administers the justice system.
+S0472 Court Users, including members of the public, businesses and legal service professionals.
+S0473 Assisted Digital Providers, who will supply assisted digital services for the digitally excluded.
+S0474 Legal Service Providers who provide advice and representation to parties involved in a legal dispute.
+S0475 • 3rd Sector Organisations, who offer help and support to people in the justice system.
+D. Description of Option Considered
+S0476 In meeting the policy objectives, the following two options have been assessed in this Impact Assessment (IA):
+S0477 Option 0 'base case': do not implement assisted digital arrangements - users who find using digital services difficult would need to continue to engage with paper and in-person processes across the justice system.
+S0478 Option 1: implement assisted digital package - put in place a range of assisted digital options to allow those who are digitally excluded to access services.
+S0479 These are likely to include telephone, face to face and webchat options.
+Option 0: Base case (no change)
+S0480 Under this option, assisted digital services would not be provided meaning that the full benefits of a digital service would not be realised.
+Option 1: Implement Assisted Digital Package
+S0481 The 'assisted digital' proposal can be encapsulated by two main strands:
+S0482 Provide assisted digital support to enable those who are not digitally self-sufficient to access the digital channels offered by the court service; and
+S0483 Where court users are unable to use digital services, even with support, defined as the digitally excluded, paper channels will remain to ensure they can still access the justice system.
+S0484 For the purposes of this IA, it has been assumed that the Assisted Digital package would comprise of a 'face to face', a telephone and webchat strand of assisted digital services.
+S0485 The 'face to face', telephone and webchat services would offer those who need digital assistance the chance to ask questions, be given assistance on how to fill out forms, and how to navigate the online process.
+S0486 For those users who are unable to use digital channels, even with assisted digital services, a paper channel will still be available.
+S0487 This will be a 'data entry and scanning' service put in place to support this process.
+S0488 These users could fill in forms as they do now and send them to a team that will enter data and documents on behalf of the user in to the system as a digitally self-sufficient user would.
+S0489 The following section provides broad estimates on the basic running costs of the 'face to face' assisted digital service and the paper channel.
+S0490 It has been assumed that the costs of a telephone assisted digital service has been incorporated into the 'business as usual' jurisdictional work and as such has not been costed here.
+S0491 The cost of operating a webchat service has also not been included as it requires further discussions with stakeholders
+E. Costs and Benefits Analysis
+S0492 This IA identifies both monetised and non-monetised impacts of the proposed policy on individuals and groups in the UK.
+S0493 The costs and benefits of the policy option are compared to the "do nothing" option.
+S0494 IAs place a strong emphasis on valuing costs and benefits in monetary terms.
+S0495 However, there are important aspects that cannot readily be monetised - e.g., the effects on particular groups of society or changes in equity and fairness.
+S0496 As the 'do nothing' option is compared against itself, the costs and benefits are necessarily zero.
+S0497 The costs and benefits of Option 1 are measured relative to those of the 'do nothing' option.
+Costs of Option 1
+HMCTS
+S0498 HMCTS would incur the implementation and running costs of offering an assisted digital service and concurrent paper channel.
+S0499 Whether the service is offered by HMCTS or part/all of it contracted out, resources will need to be made available.
+S0500 The basic administrative running costs to HMCTS associated with a 'face to face' assisted digital service and a paper channel for the digitally excluded is currently estimated to cost between £5m and £9m a year, depending on the demand for assisted digital services.
+S0501 These estimates are an indicative economic appraisal rather than a detailed financial assessment of the resources required.
+S0502 The year by year profile of costs may also differ depending on when different jurisdictions start offering assisted digital services and if assisted digital users become more digitally confident over time.
+S0503 This estimate takes into account the number of potentially digitally excluded users, the potential for a digital update within each jurisdiction, and what proportion of non-digitally self-sufficient users will use each channel.
+S0504 These assumptions have taken into account a number of case studies from other government assisted digital services.
+S0505 The total cost to HMCTS of offering assisted digital services (face to face', telephone and webchat), whether they are contracted out in part or in full, and a paper channel may vary from the above estimate as the service requirements continue to be defined.
+S0506 For example, further costs may come from setting up and implementing all the services, the running costs of the webchat service and any additional costs above the basic administrative costs identified for the 'face to face' service and paper channel.
+S0507 There may also be cost to HMCTS of promoting the existence and use of assisted digital services, to ensure those who need assistance are aware of it and know how it can help them.
+3rd Party Assisted Digital Providers
+S0508 If third parties are contracted to deliver assisted digital services but they also offer other court user services, such as legal advice, then they may see an increase in demand for these additional services.
+S0509 If these organisations did not provide assisted digital services, then court users may not have interacted with the organisations and not known they offered additional services.
+S0510 Any increase in demand for services outside of assisted digital could create resource pressures.
+Legal Service Providers
+S0511 If those users who can and want to engage with digital services gain the confidence to become digitally self-sufficient, they may choose to be 'litigants in person' instead of procuring advice and representation from legal service providers.
+S0512 If legal service providers offer their own assisted digital services then they will incur one-off set up and training costs as well as ongoing administrative costs.
+S0513 These costs may be offset by charging for the service or using it to obtain more clients.
+3rd Sector Organisations
+S0514 In some jurisdictions, the existence of assisted digital may make some court users more aware of various other support services that are offered throughout the justice system.
+S0515 Any increase in demand for 3rd sector organisations service could put pressure on their resources.
+Benefits of Option 1
+HMCTS
+S0516 Assisted digital services would benefit HMCTS by enabling all court users to benefit from the new digital channels whilst meeting its commitment to maintain access to justice.
+S0517 HMCTS's current paper based operation is also expensive so the digitisation of the service would create savings and efficiencies leading to reduced operating costs.
+S0518 Assisted digital would be an 'enabler' of these savings by allowing people who are not digitally self-sufficient to move from the current system to the more cost effective and efficient digital channel.
+S0519 As well as lower operating costs, providing assisted digital services may lead to lead to higher customer satisfaction and better customer engagement.
+Court and Tribunal Users
+S0520 All court and tribunal users would, regardless of their digital ability, have equal opportunity of access to the new services that HMCTS will offer.
+S0521 Assisted digital would enable those who are not digitally self-sufficient to be included in the modernisation of the court services and to experience the benefits of a simpler, faster and more efficient service.
+S0522 It is also hoped that the assisted digital support would help those people who can and choose to engage digitally but need some help to do so to eventually become self-serving.
+S0523 This may, in turn, encourage these individuals to use other government and non-government digital services and enable them to access benefits these services offer.
+S0524 Court users also encompass businesses and legal service professionals.
+S0525 The majority of business and legal professional users will be digitally self-sufficient and all efforts will be made to encourage these organisations to interact with the services digitally.
+3rd Party Assisted Digital Providers
+S0526 If third parties are contracted to provide all or part of the assisted digital service, they would receive payment from HMCTS/MoJ to deliver such services.
+Legal Service Providers
+S0527 Whilst a HMCTS endorsed assisted digital service would be provided free of charge, private sector legal service providers may choose to offer similar services.
+S0528 Such a service could be offered for free by legal service providers to convince assisted digital users to use their firm for legal advice and/or representation.
+S0529 Legal service providers may judge there is sufficient demand for a paid-for assisted digital service as a means of
+S0530 generating profit.
+S0531 As all court users would have access to a free at the point of use, HMCTS sponsored, assisted digital service, any individual using private sector assisted digital services would be choosing to do so instead of using the free government provided service.
+S0532 If those users, in some jurisdictions, who can and want to engage with digital services gain the confidence to become digitally self-sufficient then legal service providers may have to provide less pro-bono services and thus use this extra resource to pursue profitable activity.
+F. Risks and Assumptions
+S0533 The costs and benefits included in this IA are based on certain assumptions on the expected level of take-up by court and tribunal users.
+S0534 Therefore estimating the volume of users who require assisted digital services or the paper channel comes with an element of risk.
+S0535 The main risks are:
+S0536 Higher uptake: it could be that more court users than assumed take up these services which could potentially leave them underfunded.
+S0537 Lower uptake: there could be fewer court users than estimated who require assisted digital services.
+S0538 Whilst ongoing operations can be scaled down to recover money, any initial overinvestment cannot.
+S0539 Slower drop-off rate: it has been assumed that repeat users of assisted digital services would become more confident over time and move to being categorised as digitally self-sufficient users.
+S0540 It has also been assumed the proportion of digitally self-sufficient users follows the upward trend in general digital uptake.
+S0541 If less users than anticipated move to being self-sufficient then this will require higher long term investment.
+S0542 The level and 'make up' of assisted digital services may also affect the overall impacts.
+S0543 Some jurisdictions may require lower or higher levels of assisted digital services.
+S0544 Assisted digital is not a one-size fits all service and the support required will vary by case type.
+S0545 For example; personal injury claims may require low levels of assisted digital as the vast majority of claimants and defendants have legal representations.
+S0546 Where as in the 'Employment' or 'Social Security and Child Support' Tribunals there may be a higher proportion of litigants in person, a large number of whom may require assisted digital services.
+S0547 If assisted digital services are not nuanced and flexible enough to deal with the wide variety of users that require the service, then some users may not get the support they need whilst others may get more assistance than they require.
+G. Implementation
+S0548 Our assisted digital approach will be developed iteratively, with extensive input from service users.
+S0549 We will carry out extensive piloting, user research and testing across the digital skills spectrum to make sure that our services meet the needs of our users, and continue to be improved following their launch.
+S0550 HMCTS has a dedicated Accessibility & Inclusion team who will ensure that new digital services are intuitive and simple to use for all users, including those who experience barriers such as impaired vision or low
+S0551 literacy.
+S0552 All our services will be assessed by the Government Digital Services to ensure our assisted digital support meets government standards.
+H. Monitoring and Evaluation
+S0553 As above, services will be developed iteratively.
+**Equalities Statement – Assisted Digital Support**
+**1. Policy change summary**
+S0554 1.1.
+S0555 The HMCTS Reform Programme is modernising the court system: many of the changes take advantage of advances in technology to provide a faster, more accessible service for users of the courts and tribunals.
+S0556 1.2.
+S0557 It is intended to move some courts and tribunal processes to digital by default services – for example:
+S0558 1.2.1.
+S0559 Probate applications: We are digitising the probate system to allow the entire process to be managed online, from application to resolution, making it an easier and faster process when cases are uncontested.
+S0560 1.2.2.
+S0561 Divorce: Work has already begun to allow divorce applications to be made and managed online, removing some of the bureaucracy from often stressful and lengthy proceedings and simplifying cumbersome administrative processes.
+S0562 1.2.3.
+S0563 Introducing a new online process for resolving money claims: We will create a new process that seeks to resolve many disputes entirely online, using innovative technology and specialist case officers to progress cases through the system.
+S0564 1.2.4.
+S0565 Piloting our new approach in the Social Security and Child Support Tribunal: This will be one of the first services to be moved online, with an end-to-end digital process that will be faster, easier to engage with and more accessible for all users.
+S0566 The pilots will begin in 2017 and national roll-out is expected in early 2018.
+S0567 1.3.
+S0568 Access to justice is essential to enable people and businesses to realise and protect their rights, and has long been recognised in law.
+S0569 As we move towards digital services, we must ensure that we maintain access to justice for all users.
+S0570 This means making sure that users are supported to access our digital services - we call this 'assisted digital' support.
+S0571 1.4.
+S0572 To make sure we are meeting the needs of everyone who engages with the system, we expect to include a range of support options as part of our transformed digital services, including:
+S0573 1.4.1.
+S0574 Face to face assistance – for example, completion and submission of an online application form on behalf of a member of the public.
+S0575 We envisage this would be contracted to one or more third party organisations, and managed by HMCTS.
+S0576 1.4.2.
+S0577 A telephone help service offering similar assistance, which we would expect to be staffed by HMCTS.
+S0578 1.4.3.
+S0579 Web chat to guide people through online processes.
+S0580 1.4.4.
+S0581 Access to paper channels for users who require it.
+S0582 1.5.
+S0583 Our assisted digital support will be built, tested and implemented at the same time as the digital service offering.
+S0584 Informed by user research and user testing throughout the service development phases, the assisted digital support provided to services will be built around the needs of the users of that particular service.
+S0585 1.6.
+S0586 We will consider whether we need to amend our equality considerations in light of the responses to the consultation.
+2. Equality duties
+S0587 2.1.
+S0588 The Public Sector Equality Duty comprises three limbs, set out in section 149(1) of the Equality Act 2010 whereby a public authority must, in the exercise of its functions, have due regard of the need to:
+S0589 2.1.1.
+S0590 Eliminate discrimination (both direct and indirect), harassment, victimisation and any other conduct that is prohibited by the Act;
+S0591 2.1.2.
+S0592 Advance equality of opportunity between persons sharing a relevant protected characteristic and persons who do not.
+S0593 This includes removing or minimising disadvantages suffered by people due to their protected characteristic (PC), taking steps to meet the needs of people who share a particular PC, and encouraging participation in public life.
+S0594 2.1.3.
+S0595 Foster good relations between persons sharing a relevant PC and persons who do not.
+S0596 This includes tackling prejudice and promoting understanding.
+S0597 2.1.4.
+S0598 Paying "due regard" needs to be considered against the nine protected characteristics under the Act, namely: race, sex, disability, sexual orientation, religion and belief, age, marriage and civil partnership, gender reassignment, pregnancy and maternity.
+3. Equality considerations
+S0599 3.1.
+S0600 Direct discrimination.
+S0601 Our assessment is that the proposed assisted digital support would not be directly discriminatory within the meaning of the Act as the support would apply equally to all service users who need help to access digital services, irrespective of whether or not they have a protected characteristic.
+S0602 We do not consider that assisted digital support would result in people being treated less favourably because of their protected characteristic, as listed in paragraph 7.
+S0603 3.2.
+S0604 Indirect discrimination.
+S0605 We do not believe that assisted digital support will result in any indirect discrimination against users of the justice system: the support is instead designed to prevent those who have difficulty engaging with digital services from being excluded from them.
+S0606 3.3.
+S0607 From the information available, we have assessed the impact of digitising services on users with protected characteristics below.
+S0608 Our assisted digital services will mitigate the risk of courts and tribunal users with protected
+S0609 characteristics being excluded from access to justice as a result of digitisation:
+S0610 3.3.1.
+S0611 Race: Information indicates that there are a higher proportion of Asian/Asian British and Black/Black British claimants in the Civil Justice system than the general population (14% and 4% of claimants compared to 5% and 2% of the general population respectively). ** (Reference: 12)
+S0612 Also, there are slightly higher proportions of those of Black and Mixed ethnicity in private and public Family proceedings than the general population. Around 9% of people who are the subject of criminal proceedings are Black compared to around 3% of the general population. This information indicates that these groups may be proportionally more likely to have to engage with online services, We do not have information on whether individuals with this characteristic would be more likely to require help in accessing those services however, as of quarter 1 2015, data from the Office of National Statistics suggests that the ethnic group with the highest level of recent internet users was the mixed or multiple ethnic background. ** (Reference: 13, 14, 15, 16)
+S0613 3.3.2.
+S0614 Sex: More males than females are proceeded against in the Magistrates court (68% compared to 25%) and tried in the Crown Court (89% compared to 11%). ** (Reference: 17, 18)
+S0615 More males than females are also claimants (excluding corporate claimants) in the Civil Court (56% compared to 44%) and subjects of both public and private Family proceedings (51% compared to 49%). ** (Reference: 19, 20)
+S0616 Compared to the general population, it is possible that digitising services will affect males more than females, though either positive or negative implications of this cannot be determined at this point. ** (Reference: 21)
+S0617 However, a slightly higher proportion of men have digital skills than women (80% vs 74%), which suggests that women may be more likely to require help to access online services. ** (Reference: 22)
+S0618 3.3.3.
+S0619 Disability: Disability is a criteria for some Social Security benefits so digitising the Social Security Tribunal process is proportionately more likely to affect those with disabilities than the general population.
+S0620 Individuals with a disability are approximately four times more likely to have never used the Internet than individuals without a disability and so are also more likely to require Assisted Digital support to engage with online services – design of the Assisted Digital services will have a particular focus on how to address their specific needs. ** (Reference: 23)
+S0621 3.3.4.
+S0622 Sexual orientation: We do not collect data for court users by sexual orientation, though digitising processes for those separating from marriages or civil partnerships would impact these groups more than the general population.
+S0623 3.3.5.
+S0624 Religion or belief:
+S0625 In Family, Children, applicant and respondents with no religion are over-represented in public and private law cases compared to the general population.
+S0626 Information is not available by religion or other belief for Civil, Family, Tribunal or Crime. ** (Reference: 24)
+S0627 Some practising members of religious societies or orders have beliefs that are incompatible with the use of electronic communications (that is, forbid the use of computers) e.g. Amish, Seventh Day Adventists.
+S0628 The assisted digital support will ensure other methods of interaction other than digital interaction are available to these court and tribunal users.
+S0629 3.3.6.
+S0630 Age:
+S0631 In a 2013 survey by the Office of National Statistics (ONS), almost all adults aged 16 to 24 years (99%) had used a computer while a 2015 survey by the ONS showed 82% of this age group using one on a daily basis. ** (Reference: 25)
+S0632 In contrast, only 64% of adults aged 65 years and over had ever used a computer based on that 2013 ONS survey, with less than half (45% using one on a daily basis) based on the 2015 ONS survey. ** (Reference: 26, 27)
+S0633 This suggests that older people are more likely to require Assisted Digital services to access online services, and the design of Assisted Digital services will take account of this.
+S0634 3.3.7.
+S0635 Marriage and civil partnership: Information is not available on court users by marriage or civil partnership status.
+S0636 Digitising divorce processes will naturally affect those who are married or in a civil partnership more than the general population.
+S0637 As of quarter 1 2012 16% of the married or civil partnered population did not use the internet, down from 21% in quarter 1 2011.
+S0638 Within divorced or separated marriages or civil partnerships, rates of internet non-use stood at 19% in quarter 1 2012, down from 25% in quarter 1 2011. ** (Reference: 28)
+S0639 3.3.8.
+S0640 Gender reassignment: We do not collect information on court users by gender reassignment characteristics, though individuals with cases heard by the Gender Recognition Panel would be affected more than the general population if processes are digitised.
+S0641 3.3.9.
+S0642 Pregnancy and maternity: Information is not available on court users by pregnancy and maternity.
+S0643 Digitising child support tribunals will affect those who are parents more than the general population.
+S0644 However, as of 2015 97% of households with children had internet access. ** (Reference: 29)
+S0645 3.4.
+S0646 Additionally, as the majority of more serious cases involve represented defendants/parties, particularly in the criminal and family courts, is has been assumed that the assisted digital support will be aimed towards professional users who represent these users.
+S0647 It has been assumed that professional users are likely to need less assistance than the general population.
+S0648 This assumption will be monitored and tested as we develop our digital services.
+4. Discrimination arising from disability and duty to make reasonable adjustments
+S0649 4.1.
+S0650 The proposal to implement Assisted Digital support is a reasonable adjustment in itself.
+S0651 The assisted digital services will address the digital access needs of individuals who are unable to engage with online services, ensuring they will not be denied access to justice, and will mitigate any risk of discrimination arising from digitising our services.
+5. Harassment and victimisation
+S0652 5.1.
+S0653 We do not consider there to be a risk of harassment or victimisation as a result of the assisted digital support that will be implemented.
+6. Advancing equality of opportunity
+S0654 6.1.
+S0655 Consideration has been given to how the proposal impacts on the duty to advance equality of opportunity.
+S0656 The assisted digital support will help to ensure equality of opportunity is advanced for those with protected characteristics.
+7. Fostering good relations
+S0657 7.1.
+S0658 Consideration has been given to how assisted digital support impacts on the duty to advance the fostering of good relations between people who have a protected characteristic and those who do not.
+S0659 Those providing the service will need to understand requirements of those with protected characteristics who may engage; the development and design of the new service and ongoing support will be user focused to ensure this.
+8. Summary
+S0660 8.1.
+S0661 Our assessment of equality impacts is that the implementation of assisted digital services will not result in any direct discrimination of courts and tribunal users with protected characteristics, but could be used by some groups with protected characteristics more than the general population.
+S0662 As the assisted digital support will be designed to assist all users who have difficulty interacting with the justice system digitally, not just those with protected characteristics, this is not viewed as problematic
+9. Analysis
+S0663 Table 1: Internet Use by Age Group (%)
+|   | Age  |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |  16-24 | 25-34 | 35-44 | 45-54 | 55-64 | 65+  |
+|  Sending/receiving emails | 82 | 88 | 88 | 78 | 72 | 50  |
+|  Finding information about goods and services | 69 | 77 | 82 | 76 | 73 | 45  |
+|  Reading online news, newspapers or magazines | 73 | 77 | 74 | 63 | 53 | 32  |
+|  Social networking (eg Facebook or Twitter) | 92 | 85 | 72 | 56 | 44 | 15  |
+|  Internet banking | 60 | 76 | 69 | 59 | 46 | 26  |
+|  Consulting wikis to obtain knowledge or information | 61 | 60 | 59 | 53 | 45 | 26  |
+|  Looking for health-related information | 46 | 62 | 63 | 52 | 47 | 27  |
+|  Using services related to travel or travel related accommodation | 45 | 53 | 53 | 53 | 48 | 27  |
+|  Uploading content created by you to a website to be shared | 55 | 56 | 54 | 42 | 32 | 16  |
+|  Telephoning or making video calls over the internet via a webcam | 48 | 53 | 46 | 30 | 27 | 15  |
+|  Looking for information about education, training or courses | 59 | 47 | 48 | 36 | 24 | 8  |
+|  Downloading software (other than games software) | 41 | 36 | 31 | 22 | 21 | 10  |
+|  Looking for a job or sending a job application | 50 | 35 | 28 | 24 | 9 | 1  |
+|  Selling goods or services over the internet | 23 | 28 | 32 | 20 | 15 | 6  |
+|  Professional networking | 15 | 22 | 24 | 16 | 9 | 2  |
+|  Posting opinions on civic or political issues | 19 | 19 | 17 | 15 | 10 | 4  |
+|  Taking part in online consultations or voting on civic or political issues | 9 | 9 | 12 | 9 | 8 | 4  |
+S0664 Table 2: Frequency of computer use by age group, 2006 and 2013
+S0665 %
+|   | Used within the last three months |   |   |   |   |   | Used over 3 months ago |   | Never used  |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |  Daily |   | Weekly |   | Less than once a week |   |  |   |   |   |
+|   |  2006 | 2013 | 2006 | 2013 | 2006 | 2013 | 2006 | 2013 | 2006 | 2013  |
+|  16-24 | 63 | 88 | 15 | 8 | 10 | 1 | 10 | 2 | 2 | 1  |
+|  25-34 | 61 | 84 | 17 | 11 | 8 | 2 | 10 | 2 | 5 | -  |
+|  35-44 | 63 | 80 | 16 | 12 | 5 | 4 | 7 | 2 | 9 | 2  |
+|  45-54 | 56 | 76 | 13 | 11 | 8 | 4 | 8 | 3 | 15 | 6  |
+|  55-64 | 36 | 67 | 17 | 12 | 8 | 6 | 11 | 4 | 28 | 11  |
+|  65 + | 9 | 37 | 8 | 11 | 6 | 4 | 12 | 11 | 65 | 36  |
+|  All | 45 | 70 | 14 | 11 | 7 | 3 | 10 | 4 | 24 | 11  |
+
+S0666 Base: Adults (aged 16+) in Great Britain
+S0667 Percentages may not sum to 100 due to independently rounded components
+S0668 Source: Internet Access - Households and Individuals: 2013, http://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/bulletins/internetaccesshouseholdsandindividuals/2013-08-08
+S0669 Table 3: Internet Use by Disability Status (%)
+|   | Q1 2011 | Q2 2011 | Q3 2011 | Q4 2011 | Q1 2012 | Q2 2012 | Q3 2012 | Q4 2012 | Q1 2013 | Q2 2013  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  DDA disabled1 | 35.8 | 36.8 | 36.3 | 34.5 | 34.6 | 33.7 | 33.4 | 32.8 | 31.9 | 32.9  |
+|  Work limiting disability only | 11.2 | 11.4 | 11.1 | 10.8 | 10.3 | 10.0 | 9.6 | 8.7 | 8.0 | 7.0  |
+|  No disability | 11.9 | 11.6 | 10.8 | 10.9 | 10.6 | 10.1 | 9.6 | 9.3 | 8.6 | 8.4  |
+|  1 DDA disabled refers to those who self-assess that they have a disability in line with the Disability Discrimination Act (DDA) definition of disability.  |   |   |   |   |   |   |   |   |   |   |
+S0670 \( \therefore m = \frac{3}{11} \)
+S0671 \( \therefore m = \frac{3}{11} \)
+S0672 \( \therefore m = \frac{3}{11} \)
+S0673 \( \therefore m = \frac{3}{11} \)
+S0674 \( \therefore m = \frac{3}{11} \)
+S0675 \( \therefore m = \frac{3}{11} \)
+S0676 \( \therefore m = \frac{3}{11} \)
+S0677 \( \therefore m = \frac{3}{11} \)
+S0678 \( \therefore m = \frac{3}{11} \)
+S0679 \( \therefore m = \frac{3}{11} \)
+S0680 \( \therefore m = \frac{3}{11} \)
+S0681 \( \therefore m = \frac{3}{11} \)
+S0682 \( \therefore m = \frac{3}{11} \)
+S0683 \( \therefore m = \frac{3}{11} \)
+S0684 \( \therefore m = \frac{3}{11} \)
+S0685 \( \therefore m = \frac{3}{11} \)
+S0686 \( \therefore m = \frac{3}{11} \)
+S0687 \( \therefore m = \frac{3}{11} \)
+S0688 \( \therefore m = \frac{3}{11} \)
+S0689 \( \therefore m = \frac{3}{11} \)
+S0690 \( \therefore m = \frac{3}{11} \)
+S0691 \( \therefore m = \frac{3}{11} \)
+S0692 \( \therefore m = \frac{3}{11} \)
+S0693 \( \therefore m = \frac{3}{11} \)
+S0694 \( \therefore m = \frac{3}{11} \)
+# Transforming Our Justice System Overarching IA
+|  Title: Transforming our justice system – Overarching IAIA No: MOJ018/2016Lead department or agency: Ministry of Justice (MoJ)Other departments or agencies: HM Court and Tribunal Service (HMCTS) | Impact Assessment (IA)  |
+| --- | --- |
+|   |  Date: 15 September 2016  |
+|   |  Stage: Consultation  |
+|   |  Source of intervention: Domestic  |
+|   |  Type of measure: Primary legislation  |
+|   |  Contact for enquiries: Courts Reform Policy – courtsreformpolicy@justice.gsi.gov.uk  |
+|  Summary: Intervention and Options | RPC Opinion: Not Applicable  |
+
+|  Cost of Preferred (or more likely) Option  |   |   |   |   |
+| --- | --- | --- | --- | --- |
+|  Total Net Present Value | Business Net Present Value | Net cost to business per year (EANCB on 2014 prices) | In scope of One-In, Two-Out? | Measure qualifies as  |
+|  -£61m | N/A | N/A | No |   |
+
+S0695 What is the problem under consideration?
+S0696 Why is government intervention necessary?
+S0697 A fair and functional justice system underpins every civilized society.
+S0698 It determines guilt and innocence in criminal cases, adjudicates on disputes between individuals or businesses, protects vulnerable children and allows the public to hold the Government to account.
+S0699 Our current system does all this, but the Government, in partnership with the senior judiciary, believes it can be made faster and more accessible with better outcomes for users while providing better value for the taxpayer.
+S0700 Many changes are needed to realise this vision of a modern day justice system.
+S0701 Government intervention is required because many of the required reforms would require legislative changes which only the Government can deliver.
+S0702 What are the policy objectives and the intended effects?
+S0703 The Government's proposed reforms are intended to ensure our courts and justice system remains:
+S0704 Just: decisions and outcomes are fair, the judiciary are supported by processes which are modern, transparent and consistent, and like cases are treated alike;
+S0705 Proportionate: the cost, speed, complexity, and degree of adversarial protection are appropriate;
+S0706 Accessible – the system is affordable, intelligible and available for use by all, convenient for those who cannot easily attend in person, and supports those not comfortable with the law or technology.
+S0707 What policy options have been considered, including any alternatives to regulation?
+S0708 Please justify preferred option (further details in Evidence Base)
+S0709 Base Case/Option 0: HMCTS would continue to function as at present.
+S0710 Option 1: Provide additional assistance to court users who have difficulty using digital services;
+S0711 Option 2: Allow online guilty pleas and fixed fines for some minor offences; and
+S0712 Option 3: Change the rules on the composition of tribunals to reduce average number on a panel.
+S0713 Options 1-3 are preferred as they best meet the policy objectives.
+|  Does implementation go beyond minimum EU requirements? |   |   | No  |   |   |
+| --- | --- | --- | --- | --- | --- |
+|  Are any of these organisations in scope? If Micros not exempted set out reason in Evidence Base. | Micro No | < 20 No | Small No | Medium No | Large No  |
+|  What is the CO2 equivalent change in greenhouse gas emissions?(Million tonnes CO2 equivalent) |   |   | Traded:N/A | Non-traded:N/A  |   |
+
+S0714 I have read the Impact Assessment and I am satisfied that, given the available evidence, it represents a reasonable view of the likely costs, benefits and impact of the leading options.
+S0715 Signed by the responsible
+S0716 SELECT SIGNATORY:
+Summary: Analysis & Evidence
+S0717 Policy Option 1
+S0718 Description: Providing extra assistance to people who have difficulties using digital services
+S0719 FULL ECONOMIC ASSESSMENT
+|  Price Base Year | PV Base Year | Time Period Years | Net Benefit (Present Value (PV)) (£m)  |   |   |
+| --- | --- | --- | --- | --- | --- |
+|   |   |   |  Low: Optional | High: Optional | Best Estimate: -£61m  |
+|  COSTS (£m) |   | Total Transition (Constant Price) Years |   | Average Annual (excl. Transition) (Constant Price) | Total Cost (Present Value)  |
+|  Low |   | Optional |  | Optional | Optional  |
+|  High |   | Optional |   | Optional | Optional  |
+|  Best Estimate |   |  |   | £6m |   |
+|  Description and scale of key monetised costs by 'main affected groups' The basic administrative running costs of a 'face to face' assisted digital service and paper channel have been estimated as averaging between £5m-£9m per annum.  |   |   |   |   |   |
+|  Other key non-monetised costs by 'main affected groups' HMCTS may incur additional costs from implementing and setting up the proposed assisted digital services and from running a webchat service above the basic administrative costs identified for the 'face to face' service and paper channels. Assisted digital services may make court users more aware of the support available elsewhere in the justice system, organisations that offer this may incur resource costs if they see an increase in demand. Legal service providers may lose business if court users decide to become 'litigants in person' due to becoming more confident and digitally self-sufficient  |   |   |   |   |   |
+|  BENEFITS (£m) |   | Total Transition (Constant Price) Years |   | Average Annual (excl. Transition) (Constant Price) | Total Benefit (Present Value)  |
+|  Low |   | Optional |  | Optional | Optional  |
+|  High |   | Optional |   | Optional | Optional  |
+|  Best Estimate |   |  |   |  |   |
+|  Description and scale of key monetised benefits by 'main affected groups' None identified.  |   |   |   |   |   |
+|  Other key non-monetised benefits by 'main affected groups' Assisted digital would be an 'enabler' of savings for HMCTS as it would allow a large number of court users to move from the current paper channel to the more cost effective and efficient digital channel. Assisted digital would allow court users who are not digitally self-sufficient to have effective and timely access to justice, enable them to experience the benefits of a modernised court system and help give them the confidence to become digitally self-sufficient users both in the justice system and for other online services. Legal service providers may decide to rival the government offered assisted digital service with a private sector alternative. Firms may use this a loss leader to gain assisted digital users as clients to advise/represent or, if there is enough demand, they may offer it as a paid-for service. If some users gain the confidence to become digitally self-sufficient, legal firms may have to provide less pro-bono services.  |   |   |   |   |   |
+|  Key assumptions/sensitivities/risks Discount rate % 3.5% That the demand for assisted digital services may be higher or lower than anticipated. Demand for assisted digital services may not drop off as quickly or as consistently as assumed. Assisted digital services may not be flexible or nuanced enough to provide the most efficient and cost effective assistance to court users.  |   |   |   |   |   |
+
+S0720 BUSINESS ASSESSMENT (Option 1)
+|  Direct impact on business (Equivalent Annual) £m: |   |   | Score for Business Impact Target (qualifying provisions only) £m:  |
+| --- | --- | --- | --- |
+|  Costs: | Benefits: | Net:  |   |
+Summary: Analysis & Evidence
+S0721 Policy Option 2
+S0722 Description: Allow online guilty pleas and fixed fines for some minor offences
+S0723 FULL ECONOMIC ASSESSMENT
+|  Price Base Year | PV Base Year | Time Period Years | Net Benefit (Present Value (PV)) (£m)  |   |   |
+| --- | --- | --- | --- | --- | --- |
+|   |   |   |  Low: Optional | High: Optional | Best Estimate:  |
+|  COSTS (£m) |   | Total Transition (Constant Price) Years |   | Average Annual (excl. Transition) (Constant Price) | Total Cost (Present Value)  |
+|  Low |   | Optional |  | Optional | Optional  |
+|  High |   | Optional |   | Optional | Optional  |
+|  Best Estimate |   |  |   |  |   |
+|  Description and scale of key monetised costs by 'main affected groups' None identified  |   |   |   |   |   |
+|  Other key non-monetised costs by 'main affected groups' The cost to HMCTS associated with the development and maintenance of the online plea and automated fixed fine sentencing tool. At this early stage of policy development, it has not been possible to quantify costs and benefits: instead we have provided qualitative assessment of the impact. There may be increased costs to prosecutors resulting from new tasks around the decision to decide on plea / sentencing pathway.  |   |   |   |   |   |
+|  BENEFITS (£m) |   | Total Transition (Constant Price) Years |   | Average Annual (excl. Transition) (Constant Price) | Total Benefit (Present Value)  |
+|  Low |   | Optional |  | Optional | Optional  |
+|  High |   | Optional |   | Optional | Optional  |
+|  Best Estimate |   |  |   |  |   |
+|  Description and scale of key monetised benefits by 'main affected groups' None Identified  |   |   |   |   |   |
+|  Other key non-monetised benefits by 'main affected groups' HMCTS would accrue savings from the reduction in Magistrate's and court staff's workload, and from reductions in estate space needed: Magistrates' time would be freed up for more complex cases, and space made available in the courts' estate. As above, these have not been quantified at this point. Faster process for defendants: sight of expected penalty before accepting the charge/fine Time saved by defendants no longer having to wait for sentencing related correspondence and decisions to be made. Increased choice of routes in the justice system.  |   |   |   |   |   |
+|  Key assumptions/sensitivities/risks Discount rate (%) o Effective safeguards are needed to the mitigate risk of defendants making uninformed decisions, or being inappropriately channelled into the process. If some of those who want to engage digitally are unable to, access to justice would be compromised and volumes would be impacted: assisted digital arrangement will need to be put in place. It is assumed that a prosecutor will make the decision to filter cases into this process. The concept of an 'algorithm' to determine suitability of cases for the process / penalty (i.e. driving offences) may invite challenge.  |   |   |   |   |   |
+
+S0724 BUSINESS ASSESSMENT (Option 2)
+|  Direct impact on business (Equivalent Annual) £m: |   |   | Score for Business Impact Target (qualifying provisions only) £m:  |
+| --- | --- | --- | --- |
+|  Costs: | Benefits: | Net:  |   |
+Summary: Analysis & Evidence
+Policy Option 3
+S0725 Description: Change the rules for tribunal panel composition so that some cases that currently require non-legal members no longer do so.
+S0726 FULL ECONOMIC ASSESSMENT
+|  Price Base Year 2014/15 | PV Base Year 2016/17 | Time Period Years 10 | Net Benefit (Present Value (PV)) (£m)  |   |   |
+| --- | --- | --- | --- | --- | --- |
+|   |   |   |  Low: Optional | High: Optional | Best Estimate: 0  |
+|  COSTS (£m) |   | Total Transition (Constant Price) Years |   | Average Annual (excl. Transition) (Constant Price) | Total Cost (Present Value)  |
+|  Low |   | Optional |  | Optional | Optional  |
+|  High |   | Optional |   | Optional | Optional  |
+|  Best Estimate |   |  |   |  |   |
+|  Description and scale of key monetised costs by 'main affected groups' Reduced costs paid to non-legal panel members would financially benefit HM Courts and Tribunals Service (HMCTS). Such costs are currently £21m. Scenarios suggest that a 75% reduction in the non-legal member (NLM) sitting days would result in costs of around £16m, £11m with a 50% reduction and £5m with a 25% reduction in NLM sitting days.  |   |   |   |   |   |
+|  Other key non-monetised costs by 'main affected groups' There may be costs to HMCTS associated with supplementary training for judges in order to mitigate the risk that judges take longer in making a decision due to a lack of expertise on the panel. However this risk would also be mitigated by the intended flexibility in requesting additional panel members where it is required.  |   |   |   |   |   |
+|  BENEFITS (£m) |   | Total Transition (Constant Price) Years |   | Average Annual (excl. Transition) (Constant Price) | Total Benefit (Present Value)  |
+|  Low |   | Optional |  | Optional | Optional  |
+|  High |   | Optional |   | Optional | Optional  |
+|  Best Estimate |   |  |   |  |   |
+|  Description and scale of key monetised benefits by 'main affected groups' Benefits to HMCTS could be around £16m if there was a 75% reduction in the number of NLM sitting days. Other scenarios could include savings of around £11m with a 50% reduction and £5m with a 25% reduction.  |   |   |   |   |   |
+|  Other key non-monetised benefits by 'main affected groups' A reduction in the use of multi-member panels may mean appeals could be dealt with more quickly due to less discussion. Cases could also be listed more quickly as there is only the need to find availability for a single rather than multiple panel members. This could improve the end-to-end process time of the appeal so benefitting users. There would also be a reduction in costs to HMCTS associated with lower expenditure on travel and subsistence, training, appraisal and general administration.  |   |   |   |   |   |
+|  Key assumptions/sensitivities/risks |   |   |   | Discount rate(%) | 3.5  |
+|  The scenarios above assume that panels would generally have fewer members but there is a risk that there could be an increase. It has also been assumed that fewer members would speed up decision making. Further risks include an increase in the number of appeals to the Upper Tribunal, a change in the number of successful appeals or an adverse impact on the experience of panel users. However, examples from the SEND and Immigration and Asylum Chamber (IAC) suggest these should not be significant.  |   |   |   |   |   |
+
+S0727 BUSINESS ASSESSMENT (Option 3)
+|  Direct impact on business (Equivalent Annual) £m: N/A |   |   | Score for Business Impact Target (qualifying provisions only) £m: N/A  |
+| --- | --- | --- | --- |
+|  Costs: | Benefits: | Net:  |   |
+A. Background
+S0728 A fair and functional justice system underpins every civilized society.
+S0729 It determines guilt and innocence in criminal cases, adjudicates on disputes between individuals or businesses, protects vulnerable children and allows the public to hold the Government to account.
+S0730 Our current system does all this, but we want it to be better; faster and more accessible, and with better outcomes for users, and providing better value for the taxpayer.
+S0731 There are also many changes needed to realise the vision of a modern day justice system which have been set out in the joint statement of the Lord Chancellor, the Lord Chief Justice and the Senior President of Tribunals.
+S0732 The Court Reform consultation document outlines all of the changes we are making to improve our system and achieve that vision.
+S0733 As part of this consultation, the Government is inviting views on certain specific measures.
+S0734 This overarching Impact Assessment (IA), which accompanies the consultation document, sets out the main issues associated with the specific measures on which the Government is seeking views during the consultation period.
+S0735 The specific measures are:
+S0736 Providing 'assisted digital' facilities;
+S0737 Allowing on-line guilty pleas and fixed fines for some minor offences; and
+S0738 Simplifying tribunal panel composition.
+S0739 The rest of this IA begins by explaining the policy rationale and objectives which underpins the consultation and described the key stakeholders that would be affected.
+S0740 It then provides an overview of each measure and summarises the impact of each of the proposals on society, focusing on the monetised and non-monetised impacts
+S0741 Further detailed discussion of each of the Government's proposals are set out in the individual IAs.
+B. Policy Rationale and Objectives
+S0742 All the measures in the Court Reform consultation are based on a clear set of principles.
+S0743 These are that the justice system should be:
+S0744 Just: decisions and outcomes are fair, the judiciary are supported by processes which are modern, transparent and consistent, and like cases are treated alike;
+S0745 Proportionate: the cost, speed, complexity, and degree of adversarial protection make sense and are appropriate to the nature and value of the dispute at issue;
+S0746 Accessible – the system is affordable, intelligible and available for use by all, convenient for those who cannot easily attend in person, and supportive of those not comfortable with the law or technology.
+S0747 In practice, for most court and tribunal users, these principles will deliver swift and certain justice.
+S0748 Further details of how each of the specific measures described in this IA meet with the wider principles and objectives of Justice and Court reform consultation can be found in the individual IAs.
+C. Affected Stakeholder Groups, Organisations and Sectors
+S0749 A list of the main groups and stakeholders who would be affected by the proposals described in this IA is shown below:
+S0750 HM Court and Tribunal Service (HMCTS), which administers the justice system;
+S0751 The judiciary, including magistrates and judges who preside over trials in the criminal and civil courts, and the Non-Legal Members (NLM) of tribunal panels;
+S0752 Civil and criminal court and tribunal users including members of the public and businesses;
+S0753 Legal Service Providers, especially barristers and solicitors, who provide advice and representation to parties involved in legal disputes in the civil and criminal courts;
+S0754 3rd Sector bodies and commercial organisations who offer help and support to people in the justice system;
+S0755 Assisted Digital Providers, who will supply assisted digital services for the digitally excluded; and
+S0756 Taxpayers, who ultimately meet the costs of HMCTS.
+D. Description of Options Considered
+Base Case
+S0757 IA guidance requires that policy and legislative proposals are assessed against a defined 'base case'.
+S0758 For the purposes of this IA, the base case comprises of the following elements:
+S0759 Court users who find using digital services difficult would need to continue to engage with paper and in-person processes across the justice system.
+S0760 Guilty pleas for some criminal minor offences would continue to be made at Magistrates Courts.
+S0761 Cases in the First-tier Tribunal and the Upper Tribunal would be heard by panels with the existing member composition.
+Option 1: Provide 'assisted digital' facilities
+S0762 Improving technology and putting more services and processes online is key to our reforms; for most people, this will make court and tribunal services more accessible and easier to deal with, and will fundamentally change the way that users interact with the justice system.
+S0763 We recognise that not everyone will be able to engage with these new processes, and that to maintain access to justice for everyone will require taking steps to provide support to those people who need it to interact with the new system.
+S0764 To ensure we meet the needs of everyone who engages with the system, we are seeking views on a package of 'assisted digital' support which is likely to comprise of the following elements: face to face assistance, for example, in completing and submitting online applications on behalf of a member of the public; a telephone help service offering similar advice; 'web chat' services to guide people through online processes; and access to paper channels for users who require it.
+Option 2: Create online convictions and statutory fixed fines
+S0765 For certain routine, low-level summary, non-imprisonable offences with no identifiable victim, we propose to implement a system whereby defendants will be able to resolve their cases entirely online.
+S0766 They will log on to an online system to see the evidence against them before entering a plea.
+S0767 Defendants who plead guilty will have the option to go through the online system where they can view the penalty, accept the conviction and penalty, and pay their fine online, allowing their cases to be resolved immediately and entirely online, with no need for the involvement of a magistrate.
+Option 3: Simplify tribunal panel composition
+S0768 One factor in taking a proportionate approach to tribunal cases is related to the panels that make decisions in tribunals.
+S0769 Most tribunals currently reflect historic arrangements that may be out of date and do not tailor the expertise of the panel according to the case.
+S0770 We propose to revise the current arrangements for setting panel composition to make sure that this reflects the needs of the individual case and that appropriate expertise is focussed on those cases that need it.
+Preferred Options
+S0771 The Governments preferred options are 1-3 inclusive as these best meet the policy objectives.
+E. Cost and Benefit Analysis
+S0772 This overarching IA summarises the main monetised and non-monetised impacts of the above policy options on individuals and groups in the UK.
+S0773 The costs and benefits of each policy option are compared to the "do nothing" option.
+S0774 IAs place a strong emphasis on valuing costs and benefits in monetary terms.
+S0775 However, there are often important aspects of a policy that cannot readily be monetised - e.g., the effects on particular groups of society or changes in equity and fairness.
+S0776 More detailed analyses of the costs and benefits for each option can be found in the individual IAs.
+Net Impact of options 1-3
+S0777 Table 1 summarises the net impact of the preferred options.
+S0778 Table 1: Summary of Main Impacts
+|  Table 1: Summary of Main Impacts, Best Estimates, Options 1-3  |   |   |   |   |
+| --- | --- | --- | --- | --- |
+|   |   | Costs | Benefits | Net Impact (10 year NPV)  |
+|  **Assisted Digital** | *Monetised* | There would be a monetary cost to HMCTS of between £5m-9m from implementing and running assisted digital support. It is too early to estimate these costs precisely. | None at this stage | -£61m  |
+|   |  *Non-Monetised* | Legal service providers might experience a fall in demand as more court users carry out proceedings themselves. | HMCTS would benefit from more people being able to use digital services, which generally are cheaper to run. These have not been quantified at this point. Court users with difficulty using digital services would gain access to HMCTS digital services, and therefore benefit from a simpler, faster and more efficient service. | Positive  |
+|  **Online Convictions & Fixed Fines** | *Monetised* | None at this stage. | None at this stage | N/A  |
+|   |  *Non-Monetised* | HMCTS would need to design, produce and maintain software to allow guilty pleas to be entered on-line. HMCTS and prosecutors may have to do more work to determine if a defendant is suitable for an online guilty plea. Defendants may seek support from 3rd sector organisations and assisted digital providers for help when making an online | HMCTS would benefit from a fall in court demand and from better case management. Magistrates, legal service providers and 3rd sector organisations would spend less time on more simple cases. Defendants would benefit from the quicker resolution of their cases and from not having to travel to court. Defendants might find the justice system easier to understand and would have greater certainty as to the | Positive  |
+|   |  | plea which may impose a burden | punishment they would receive. |   |
+| --- | --- | --- | --- | --- |
+|  Tribunal Panel Membership | Monetised | Depending on the reduction in sitting days, NLMs would receive between £0-21m in lower fees. | Depending on the reduction in sitting days, HMCTS would save between £0-21m in lower fees. | Neutral  |
+|   |  Non-Monetised | Panel judges would have to receive supplementary training There may be an increase in the number of appeals. | HMCTS would benefit from paying less NLM expenses. Tribunal cases could be listed more quickly allowing for swifter justice. Tribunal users would benefit from quicker decision-making. | Neutral/Positive  |
+|  Net Impact | Monetised | N/A | -£61m | -£61m  |
+
+F. Assumptions and Risks
+S0779 All of the above estimates are based on assumptions and are therefore subject to an elements of risk.
+S0780 The individual IAs for each measure provide further information on these for each specific issue.
+G. Wider Impacts
+S0781 While the four options described in this IA would apply to all, it is important to consider whether they would put those sharing a protected characteristic at a particular disadvantage when compared to those who do not share that characteristic.
+S0782 Such an effect could amount to indirect discrimination.
+S0783 The IAs and EIAs for each of the options considered in this document consider the wider impact of the proposals in light of the MoJ's duty to pay due regard to the Public Sector Equality Duty.
+H. Implementation
+S0784 The IAs for each of the specific options described in this document provide more information about how the preferred options would be implemented.
+I. Monitoring & Evaluation
+S0785 The IAs for each of the specific options described in this document provide more information about how the preferred options would be monitored and evaluated.

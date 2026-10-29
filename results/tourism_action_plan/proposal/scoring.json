@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Co-ordination and funding to build regional tourism",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only evidence offered is the uncited claim that events strengthen local economies and 'there is evidence that delegates at conferences are more likely to return'; the \u00a340m Discover England Fund and the co-ordination measures are described with no evidence they will work, and Reference 4 is only a programme overview link."
+    },
+    {
+      "theme": "Transport and connectivity to reach the regions",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Figures such as the Manchester\u2013Beijing route worth '\u00a3250 million' (Manchester Airport estimate), 'regional airports increased by 5%' (Reference 7 only defines which airports) and Virgin's 70,000 extra passengers are given without a followable source or method, and Reference 8 only explains APD devolution."
+    },
+    {
+      "theme": "Skills, small business support and deregulation",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Figures like '6,000 training places', '95% superfast' and '\u00a314.5 million' and the Local Authority Regulation review evidence are mostly targets or descriptions with no method, and Reference 6 is just a link to a tool, so no measure is shown to work with cited evidence."
+    },
+    {
+      "theme": "Welcoming visa service and promotion",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Claims of 'record breaking levels of satisfaction' and 'over 400 British destinations' signing the Charter are statistics offered as grounds but uncited or unexplained, and Reference 9 is only the Charter website, with no link to why the visa measures address regional concentration."
+    }
+  ],
+  "reasoning": "All four core themes reach level 1: evidence is mentioned but is not linked to the problem of tourism spend being concentrated in London, and it is not properly cited or assessed. Co-ordination and funding (level 1) relies on the line 'there is evidence that delegates at conferences are more likely to return for tourism, work or study', which names no source. The \u00a340m Discover England Fund is justified only by its aim. Transport (level 1) gives figures such as the Manchester\u2013Beijing route being 'worth at least \u00a3250 million' and regional airports 'increased by 5%', but References 7 and 8 only define airports or explain APD devolution, and no method is given. Skills and deregulation (level 1) lists targets and descriptions, such as 6,000 training places and the 95% superfast broadband goal, and offers little evidence that the four deregulatory measures will work. Visa and promotion (level 1) cites 'record breaking levels of satisfaction' and 400 Charter signatories, with Reference 9 only a website. The mean of the core themes is 1.0, giving a score of 1. The strongest counter-example is the transport theme, whose specific route figures and the Manchester Airport estimate come closest to level 2, though the document gives no source or method. To reach level 2 the document would need to cite sources or give methods for these figures and show how each leads to regional spread. For level 3 it would need to assess the evidence, including uncertainty, and say what was tried before.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

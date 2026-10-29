@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Rationale for Banning Letting Agent Fees",
+      "reason": "This theme directly states why the government has chosen this intervention: to improve competition, give tenants clarity, and shift market incentives toward landlords who can better negotiate fees. It is the central justification for the proposal and the case cannot stand without it.",
+      "weight": "core"
+    },
+    {
+      "theme": "Evaluation of Existing Transparency Requirements",
+      "reason": "This explains why a lesser alternative (transparency rules) was assessed and found insufficient, supporting the should-explain point on other options considered and why they were rejected; without this the case for why a ban (rather than improved transparency) is needed would be weaker.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope and Implementation of the Fee Ban",
+      "reason": "This details what the intervention actually consists of and what remains to be decided (e.g. deposit caps), addressing the should-explain point on implementation details and undecided elements, but it is elaboration of the chosen policy rather than the core justification itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Market and Tenant Impacts of the Ban",
+      "reason": "This addresses the costs and benefits and underlying assumptions (e.g. rent pass-through, reduced homelessness risk), which is a key should-explain point; the argument for the ban's net benefit relies on this reasoning.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scottish Precedent and Evidence Base",
+      "reason": "This provides the empirical evidence base from a comparable precedent, addressing the should-explain point about what evidence the choice is based on and what has been tried before; it underpins confidence in the policy's likely effects.",
+      "weight": "core"
+    }
+  ]
+}

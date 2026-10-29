@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Local enforcement via Trading Standards, strengthened by new mechanisms",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Penalties for non-compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant empowerment and education",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Permitted exceptions to the ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Legislation and regulatory framework",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Scottish legal precedent and comparison",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

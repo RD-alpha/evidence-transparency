@@ -1,0 +1,52 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Local authority (Trading Standards) enforcement",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that Trading Standards is the right enforcer rests only on the unsupported assertion that 'this builds on the existing work of Trading Standards...enforcing the requirement...to belong to a redress scheme and the transparency requirements of the Consumer Rights Act 2015', with no data on how effective that existing enforcement has been and no citation."
+    },
+    {
+      "theme": "Tenant empowerment and education",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim leans on the uncited assertion 'Tenant empowerment and education has helped to improve compliance in other areas of the sector, for example, deposit protection', described but not sourced or quantified."
+    },
+    {
+      "theme": "Additional enforcement mechanisms under consideration",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The detailed description of NTSEAT's powers and remit is used as a comparator to justify considering a lead authority, and 'the government recognises the appetite for wider regulation' implies consultation responses, but neither is cited nor is the consultation method described."
+    },
+    {
+      "theme": "Civil versus criminal penalties",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The proposal to set fines 'similar' to or higher than the existing \u00a35,000 redress-scheme penalty and the \u00a330,000 Housing and Planning Act 2016 banning-order penalty uses those named statutory benchmarks as reasoning for the new fine level, but with no citation or link to the Act provisions."
+    },
+    {
+      "theme": "Scope and coverage of the fee ban",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements about bespoke services and tenant passports are asserted policy intentions with no supporting data or source."
+    },
+    {
+      "theme": "Holding deposits and alternative deposit models",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Proposed alternative deposit models (instalments, credit-card blocks) are described as options with no evidence of feasibility or impact."
+    },
+    {
+      "theme": "Fee provisions in other jurisdictions",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Detailed description of Scotland, Wales and Northern Ireland regimes (e.g. \u00a31,000/\u00a350,000 fines, Rent Smart Wales licensing) is offered as comparator evidence with explanation of how each scheme works, but without citation or link."
+    }
+  ],
+  "reasoning": "The four core themes each show only thin, uncited evidence. 'Local authority enforcement' rests on the bare claim that Trading Standards already enforces redress and transparency rules, with no data on how well that works (level 1). 'Tenant empowerment' cites the deposit-protection analogy ('has helped to improve compliance...for example, deposit protection') but gives no figures or source (level 1). 'Additional enforcement mechanisms' draws on the NTSEAT model in the Estate Agent sector and an unquantified claim of 'appetite' from consultation responses, again uncited (level 1, flagged as relying on unexplained primary evidence). 'Civil versus criminal penalties' reasons from the existing \u00a35,000 and \u00a330,000 statutory penalty levels under named Acts, but without citation or link to verify (level 1). The mean of 1, 1, 1, 1 is 1, giving a section score of 1. The strongest counter-example to a higher score would be the NTSEAT description, which is reasonably detailed, but it still lacks any citation or outcome data showing the model actually improves compliance. To reach level 2, the document would need to cite its sources (e.g. link the Housing and Planning Act 2016 provisions, name and link any consultation data behind the 'appetite' claim, and provide a reference for the deposit-protection compliance comparison) so a reader could trace each delivery choice back to a verifiable source.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,35 @@
+Your task is to group these sentences into main themes. Under each theme title give a list of relevant sentence codes.
+
+WHAT A THEME IS
+A theme is one line of the argument that the document makes, broad enough to hold several related points. It is not a topic label for a single detail. Group sentences by the part of the argument they play, not by shared words: sentences about different details of the same question belong together. The number of themes is not fixed. Let the document decide, but expect a handful for most extracts and fewer for short ones. If you have many themes of only a few sentences each, you have almost certainly split one line of argument into its parts, so merge them.
+
+Sentences can appear in more than one theme. Where a sentence doesn't fit any main theme, put it in a final theme named "Other".
+
+NAMING THEMES
+Name each theme after a general area of policy, not after a named scheme, programme, group or detail. A good theme name could head a section of the document. If a name only fits a handful of sentences, it is too narrow: use the broader area it belongs to instead.
+
+EXAMPLES OF THE BREADTH WANTED
+Each example gives the broad theme to write, followed by the narrower themes you might be tempted to write that it should absorb. Write the broad theme, not the narrow ones. The examples are from other documents; do not reuse their names unless they genuinely fit.
+
+From an extract on how a tourist levy will be implemented:
+Broad theme: "Scope, Exemptions and Coverage". Absorbs: "Scope of Accommodation Types", "National Exemptions", "Local Exemptions and Flexibility", "Threshold for Liability", "Geographic Application and Partial Area Coverage", "Extension to Foundation Strategic Authorities".
+Broad theme: "Rate Setting and Structure". Absorbs: "Rate Type - Flat vs Percentage", "Rate Setting and Flexibility", "Rate Caps and Night Limits", "Percentage Rate Application and Packages", "Seasonal and Geographic Rate Variation".
+Broad theme: "Collection, Administration and Enforcement". Absorbs: "Liability and Collection Responsibility", "Self-Assessment Administration", "Tax Point and Payment Timing", "Registration Systems", "Compliance Framework and Enforcement", "Appeals Process", "Data Sharing and Administration".
+Broad theme: "Equalities Impact". Absorbs: "Equalities Impact - Age", "Equalities Impact - Disability", "Equalities Impact - Gender and Socioeconomic", "Equalities Impact Assessment Requirements".
+
+From an extract on how a steel strategy will be implemented:
+Broad theme: "Financial and Investment Support". Absorbs: "Direct Financial Support and Investment in Steel Companies", "Financing Mechanisms and Investment Support", "Tax Incentives and Fiscal Support".
+Broad theme: "Trade and Carbon Protection". Absorbs: "Trade Measures and Protection from Global Competition", "Carbon Border Adjustment and Emissions Trading", "International Partnerships and Agreements".
+Broad theme: "Energy, Infrastructure and Planning". Absorbs: "Electricity Costs and Energy Support", "Infrastructure and Grid Connections", "Planning Reform and Land Access", "Hydrogen and Low Carbon Steel Development".
+Broad theme: "Supply Chain, Procurement and Demand". Absorbs: "Public Procurement and Demand Support", "Supply Chain and Scrap Steel Security", "Primary Steelmaking and Production Capacity".
+
+From a short extract (19 sentences) on why a tourist levy is needed:
+Broad theme: "Centralisation and Local Fiscal Powers". Absorbs: "Centralization of Power and Decision-Making", "Fiscal Decentralization and Local Tax Control", "Regional Variation and Local Needs", "International Comparisons", "Policy Implementation and Devolution".
+Broad theme: "Local Investment and Growth". Absorbs: "Local Economic Growth and Investment".
+Broad theme: "Tourism Benefits and Local Pressures". Absorbs: "Tourism Economy and Local Benefits".
+A short extract needs only two or three themes. A theme with one or two sentences is usually evidence for a larger theme, not a theme of its own: keep it with the claim it supports.
+
+Housekeeping that is not part of the argument (contact details, how to respond to a consultation, and so on) belongs in "Other".
+
+CHECKING YOUR ANSWER
+List only sentence codes that appear in the input, each one copied exactly. Never list a range of codes, or a code you have not seen in the input. Aim to place every sentence in a theme: before you answer, check your list of codes against the input and put any you have missed in "Other". Present your classification as a json containing a list of themes where each theme has a name and a list of sentence ids.

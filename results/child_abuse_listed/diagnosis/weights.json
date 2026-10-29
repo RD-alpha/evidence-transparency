@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "High-profile failures expose multi-causal system breakdowns",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Absence of a general legal duty to report or act",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Abuse continues to go undetected despite rising referrals",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Inherent difficulty of identifying abuse and judging the right response",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Current legislative and procedural framework for child protection",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Existing accountability and enforcement mechanisms",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Need for system improvement and transformation",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

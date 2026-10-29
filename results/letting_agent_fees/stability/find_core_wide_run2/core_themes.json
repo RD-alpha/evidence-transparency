@@ -1,0 +1,73 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Scale and variability of tenant fees",
+        "claim": "Letting agent fees charged to tenants are substantial, vary considerably between agents for broadly similar services, and have risen significantly in recent years."
+      },
+      {
+        "name": "Weak tenant market power",
+        "claim": "Because landlords, not tenants, choose and appoint letting agents, tenants have little or no ability to negotiate, compare or opt out of agent fees, leaving competitive pressure on tenant-facing fees very weak."
+      },
+      {
+        "name": "Failure of transparency and fairness safeguards",
+        "claim": "Existing fee-transparency requirements have not made it easy for tenants to find, understand or compare fees, and some agents engage in double-charging or unfair practices, undermining confidence that disclosure alone solves the problem."
+      },
+      {
+        "name": "Financial harm to tenants",
+        "claim": "High, repeated and often unpredictable upfront fees create real financial hardship for tenants, deterring moves, forcing borrowing, and making it harder to save for a home deposit."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Rebalancing market power toward landlords",
+        "claim": "Because landlords, not tenants, have genuine ability to choose and negotiate with agents, shifting fees onto landlords will sharpen agents' incentives to compete on price and quality for landlord business."
+      },
+      {
+        "name": "Insufficiency of transparency-only measures",
+        "claim": "Stakeholder feedback and evidence show that the Consumer Rights Act transparency requirements have not materially improved standards or enabled shopping around, justifying a stronger intervention than disclosure alone."
+      },
+      {
+        "name": "Scottish precedent as supporting evidence",
+        "claim": "Scotland's long-standing ban on letting fees paid by tenants shows only minimal negative effects on the sector and some positive effects on competition, supporting the case that a similar ban can work in England."
+      },
+      {
+        "name": "Improved tenant transparency and choice via all-in rent pricing",
+        "claim": "By removing hidden fees, tenants will be able to see and compare the true, all-in cost of a property via the advertised rent, improving their ability to shop around and reducing barriers to moving and saving."
+      },
+      {
+        "name": "Acceptable and transparent cost pass-through to rent",
+        "claim": "Although some agent costs may be passed on to landlords and partly reflected in rents, this is preferable to hidden tenant fees because it is more visible and easier for tenants to plan around."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Local authority (Trading Standards) enforcement",
+        "claim": "The ban will be enforced primarily by local authorities, building on Trading Standards' existing experience enforcing redress-scheme membership and fee-transparency rules."
+      },
+      {
+        "name": "Strengthening enforcement infrastructure",
+        "claim": "Enforcement could be made more robust through a dedicated lead enforcement authority (as used for estate agents), increased data-sharing among regulators, and wider sector regulation, though these remain options for consultation rather than settled plans."
+      },
+      {
+        "name": "Penalties to deter non-compliance",
+        "claim": "Non-compliance should carry a meaningful deterrent, potentially a civil penalty aligned with or higher than existing fines, or a criminal/banning-order route under the Housing and Planning Act 2016."
+      },
+      {
+        "name": "Tenant empowerment and education",
+        "claim": "Educating and empowering tenants to recognise unlawful charges and report or challenge agents directly will reduce the burden on local authorities and support effective enforcement of the ban."
+      },
+      {
+        "name": "Defining the scope of permitted charges",
+        "claim": "Clear rules are needed on what remains chargeable to tenants (e.g. refundable holding deposits and charges arising from tenant actions) to prevent circumvention of the ban while keeping it simple to communicate."
+      }
+    ],
+    "note": "Several implementation elements (lead authority, data sharing, wider regulation, penalty type) are presented as open options for consultation rather than decided policy."
+  }
+}

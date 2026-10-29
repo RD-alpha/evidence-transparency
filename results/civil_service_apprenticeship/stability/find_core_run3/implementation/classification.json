@@ -1,0 +1,105 @@
+{
+  "themes": [
+    {
+      "name": "Three Delivery Routes",
+      "ids": [
+        "S0061",
+        "S0062",
+        "S0063",
+        "S0064",
+        "S0065",
+        "S0066"
+      ]
+    },
+    {
+      "name": "Governance and Multi-Level Delivery",
+      "ids": [
+        "S0008",
+        "S0081",
+        "S0082",
+        "S0083",
+        "S0084",
+        "S0085",
+        "S0087",
+        "S0088",
+        "S0089",
+        "S0090",
+        "S0091",
+        "S0092"
+      ]
+    },
+    {
+      "name": "Enabling Reforms and Targeted Outreach",
+      "ids": [
+        "S0067",
+        "S0068",
+        "S0069",
+        "S0070",
+        "S0071",
+        "S0079",
+        "S0080",
+        "S0108",
+        "S0143",
+        "S0144",
+        "S0192",
+        "S0193"
+      ]
+    },
+    {
+      "name": "Apprenticeship Content and Career Pathways",
+      "ids": [
+        "S0029",
+        "S0039",
+        "S0040",
+        "S0072",
+        "S0073",
+        "S0075",
+        "S0076",
+        "S0105",
+        "S0111",
+        "S0166",
+        "S0200",
+        "S0202",
+        "S0205",
+        "S0206"
+      ]
+    },
+    {
+      "name": "Quality Assurance and Standards",
+      "ids": [
+        "S0114",
+        "S0139",
+        "S0140",
+        "S0141",
+        "S0221",
+        "S0222",
+        "S0223"
+      ]
+    },
+    {
+      "name": "Cross-Sector Collaboration and Best Practice",
+      "ids": [
+        "S0134",
+        "S0135",
+        "S0136"
+      ]
+    },
+    {
+      "name": "Diversity, Inclusion and Socio-Economic Measurement",
+      "ids": [
+        "S0181",
+        "S0189",
+        "S0190",
+        "S0243"
+      ]
+    },
+    {
+      "name": "Workforce Planning and Departmental Delivery",
+      "ids": [
+        "S0159",
+        "S0169",
+        "S0252"
+      ]
+    }
+  ]
+}

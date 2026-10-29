@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "Transferable skills and interdisciplinary value",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Universal relevance and progression",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

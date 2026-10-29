@@ -1,0 +1,27 @@
+<root>
+<theme sentences="2" weight="core">
+<name>Reform rationale for HE/employment readiness</name>
+<claim>The document argues that qualifications are being reformed because higher education institutions have raised concerns that students lack the knowledge and skills needed for undergraduate success, and the reforms aim to fix this.</claim>
+<text>
+<line id="S0021">The government is reforming qualifications at GCSE, AS and A level, to ensure that students are well-equipped for further and higher education, and for employment.</line>
+<line id="S0045">The changes we are making to these qualifications will ensure that they remain fit for purpose, and in particular respond to the concerns of higher education institutions – that students lack some of the knowledge and skills necessary for undergraduate success. ** (Reference: 2)</line>
+</text>
+<references>
+<reference number="2">2012 Ipsos MORI Social Research Institute, Fit for Purpose? The view of the higher education sector, teachers and employers on the suitability of A levels, http://www.ofqual.gov.uk/files/2012-04-03-fit-for- purpose-a-levels.pdf; Cambridge Assessment, What are the impacts of qualifications for 16 to 19 year olds on higher education? A survey of 633 university lecturers, http://www.cambridgeassessment.org.uk/images/116010-cambridge-assessment-he-research-survey-of- lecturers-executive-summary.pdf.</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="core">
+<name>Linear, decoupled assessment structure</name>
+<claim>The document argues that the old modular structure (with AS marks counting toward A level) undermined depth of study, so the new qualifications are made linear and the AS is fully decoupled to give more teaching time and deeper understanding.</claim>
+<text>
+<line id="S0046">The new A levels are linear, which means that all examinations will be at the end of the two-year course, allowing more time for teaching and for students to deepen their understanding of the subject.</line>
+<line id="S0047">The AS is entirely decoupled from the A level, so that the marks do not count towards the A level grade.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

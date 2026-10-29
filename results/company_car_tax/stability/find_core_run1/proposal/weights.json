@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Retaining CO2 as the core basis",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Whether to add zero emission miles as a secondary metric",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Choice of band structure (continuous vs wider bands)",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Company car market as a lever for wider fleet decarbonisation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Background and consultation scope",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Policy objectives for ULEV band reform",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Stakeholder expectations for policy certainty",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

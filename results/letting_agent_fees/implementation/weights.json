@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Local authority/Trading Standards enforcement, strengthened by a lead authority and data sharing",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant empowerment and education as an enforcement mechanism",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Penalty regime for non-compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Defining permitted exceptions to make the ban workable",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Premium market and bespoke services",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Tenant choice and protections",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Legislative framework and compliance",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

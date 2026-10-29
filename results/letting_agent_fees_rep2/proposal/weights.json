@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Rebalancing market power toward landlords",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope and design of the ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scottish precedent as supporting evidence",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Benefits to tenants and the rental market",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Regulatory context and comparisons",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Government objectives and announcement",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

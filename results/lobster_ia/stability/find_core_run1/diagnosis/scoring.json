@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Overfishing and EU sustainability obligations",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The claim that 'stock assessments... indicate overfished' is repeated at 5.1 ('the evidence indicates that both European lobster and crawfish stocks... are overfished') with a specific, linked citation (Reference: 1, MMO UK Sea Fisheries Annual Statistics 2014), though no actual figures or trend data are quoted and no assessment of the assessment's limitations is given."
+    },
+    {
+      "theme": "Market failure from removing berried females",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that landing berried females imposes a 'particularly large external cost' is pure economic reasoning with no empirical data or study cited specifically to it; Reference 12 is only a definition and Reference 1 is attached to the general common-good theory, not to the berried-lobster claim."
+    },
+    {
+      "theme": "Inconsistent and unevaluated local bans",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The lines 'There haven\u2019t been any assessments on the effectiveness of these local bans' and 'IFCAs have received several anecdotal reports of an increase in the lobster population' mention and partly explain evidence (anecdotal reports) but carry no citation at all, so cannot exceed level 1."
+    },
+    {
+      "theme": "Economic value and employment",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Specific figures (\u00a317.7m lobster landings, \u00a3218,115 crawfish, 4000+4000 employment) are each tied to named, linked references (1,2,3,4), giving a clear figure-to-source chain though without discussion of data quality."
+    },
+    {
+      "theme": "Biology and reproductive characteristics of berried lobsters and crawfish",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Descriptive biological facts (9-month external egg carrying, eggs scraped off) are asserted with no citation or source at all."
+    },
+    {
+      "theme": "Conservation and biodiversity context",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Biodiversity 2020 strategy objective is quoted and cited (Reference 6) but the key claim that recruitment 'is now coming from populations at a residual level' is unsupported by any source."
+    }
+  ],
+  "reasoning": "The diagnosis rests on three core themes. 'Overfishing and EU obligations' reaches level 2: line 5.1 ('the evidence indicates that both European lobster and crawfish stocks in English waters are overfished') is tied to a specific, linked source (Reference 1, MMO Sea Fisheries Statistics), though no actual landing-trend figures are shown and the stock-assessment claim itself is never directly cited. 'Market failure from removing berried females' is level 0: the claim that removing berried females is 'a particularly large external cost' is argued entirely through economic reasoning (common-good theory, Reference 12 merely defining terms) with no data specific to berried lobsters. 'Inconsistent and unevaluated local bans' reaches level 1: it candidly notes 'there haven't been any assessments on the effectiveness of these local bans' and mentions 'anecdotal reports of an increase in the lobster population', but nothing here is cited to a traceable source. The mean of (2, 0, 1) is 0.67, rounding to 1. The strongest counter-example against a higher score is that the central empirical claim \u2014 stocks are overfished \u2014 is never shown with actual assessment data, only asserted and loosely linked to a general statistics report. To reach level 2 overall, the market-failure and local-ban themes would need specific, cited data (e.g. recruitment studies, IFCA monitoring reports); to reach level 3, the document would need to explicitly weigh the quality of the stock assessments and the landing-trend data it relies on.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

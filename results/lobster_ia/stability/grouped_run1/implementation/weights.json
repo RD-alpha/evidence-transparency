@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Scope and Application of the Ban",
+      "reason": "Defines exactly which vessels and waters the ban covers and justifies exclusions (e.g. foreign vessels), which is central to what is actually being implemented and why; without this the implementation proposal has no defined boundaries.",
+      "weight": "core"
+    },
+    {
+      "theme": "Legal Mechanism and Implementation",
+      "reason": "Explains the chosen method for delivering the intervention (amending existing SI rather than creating a new one) and the reasoning for this choice, directly addressing why this method was chosen over alternatives.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enforcement Costs and Resources",
+      "reason": "Provides the detailed cost estimates and assumptions for enforcement, which is a should-explain point about costs and benefits, but the core implementation case (what method, why, and scope) could still stand without these specific figures.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Consultation and Stakeholder Engagement",
+      "reason": "Describes procedural next steps and evidence-gathering plans, which support refining the policy but are not themselves the basis for why this implementation method was chosen.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Enforcement through local authorities building on existing practice",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that Trading Standards should enforce the ban rests only on the assertion that it 'builds on the existing work of Trading Standards' enforcing redress scheme membership and transparency requirements, with no data or finding showing that this existing enforcement has been effective."
+    },
+    {
+      "theme": "Additional enforcement infrastructure options",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The detailed description of NTSEAT's role in the Estate Agent sector is used as comparable-policy evidence for why a lead enforcement authority 'could make enforcement of regulations more consistent and effective,' but no reference or link is given for this account."
+    },
+    {
+      "theme": "Empowering and educating tenants to drive compliance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that 'tenant empowerment and education has helped to improve compliance in other areas of the sector, for example, deposit protection' offers a comparable-policy example with some explanation of the deposit protection mechanism, but carries no citation."
+    },
+    {
+      "theme": "Choice and design of penalties for non-compliance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The existing \u00a35,000 civil penalty for redress/transparency breaches and the \u00a330,000 Housing and Planning Act 2016 banning-order penalty are used as explicit benchmarks for setting the new fine level, but neither figure carries a reference number."
+    }
+  ],
+  "reasoning": "The four core themes concern how the fee ban will be enforced, who enforces it, how tenants are empowered, and what penalty regime applies. None of the supporting material is properly cited: every <references> and <links> block in the extract is empty, so no theme can reach level 2. 'Enforcement through local authorities' (score 0) only asserts that Trading Standards' existing redress and transparency role justifies giving it the new enforcement job, with no evidence this existing work is effective. 'Additional enforcement infrastructure options' (score 1) draws on NTSEAT's role in the Estate Agent sector as a comparable-policy precedent, explaining its powers and reach before concluding a similar body 'could make enforcement...more consistent and effective' -- a real evidential link, but uncited. 'Empowering and educating tenants' (score 1) similarly points to deposit-protection enforcement as a precedent where tenant empowerment 'has helped to improve compliance,' again uncited. 'Choice and design of penalties' (score 1) uses the existing \u00a35,000 and \u00a330,000 (Housing and Planning Act 2016) penalty levels as explicit benchmarks for calibrating the new fine, an evidenced comparison but not referenced. Mean = (0+1+1+1)/4 = 0.75, rounding to 1. The strongest counter-example is the NTSEAT discussion, which comes closest to a genuine comparator analysis. To reach level 2, the document would need to cite sources for the NTSEAT, deposit-protection and penalty-level comparisons, and show explicitly how each maps onto the proposed letting-agent regime.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Proposed Ban on Berried Lobster and Crawfish",
+      "reason": "Defines the core intervention mechanism itself (the legal instrument, scope, vessels and waters covered), which is the foundation for how implementation will proceed and explains why this method of amending existing SI was chosen.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation and Evidence Gathering",
+      "reason": "Explains the process for deciding and refining implementation details, including testing assumptions and gathering stakeholder input, directly addressing the should-explain point about the method for deciding how to deliver the intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enforcement and Implementation Mechanisms",
+      "reason": "Describes how the ban will actually be enforced (testing kits, routine inspections, regulatory amendment) and who is responsible, which is central to explaining how the intervention will be rolled out.",
+      "weight": "core"
+    },
+    {
+      "theme": "Costs of Testing and Enforcement",
+      "reason": "Provides the detailed cost estimates and assumptions behind enforcement implementation, directly addressing the should-explain point about costs and the assumptions behind those calculations.",
+      "weight": "core"
+    },
+    {
+      "theme": "Cost Savings and Regional Impacts",
+      "reason": "Notes potential offsetting savings for some IFCAs, contributing to the cost-benefit picture but as an unquantified side note rather than a load-bearing part of the argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Legislative Framework",
+      "reason": "A brief remark about simplifying legislation that supports but does not carry the core implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Government Simplification Agenda",
+      "reason": "A passing remark repeating the legislative simplification point, background context rather than a point the implementation argument rests on.",
+      "weight": "not core"
+    }
+  ]
+}

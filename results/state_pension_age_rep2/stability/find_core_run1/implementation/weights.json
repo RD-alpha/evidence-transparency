@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Notice and communications strategy",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Wider support for working and non-working later life",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Review process and legislation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Fee variation and opacity",
+        "claim": "Letting agent fees charged to tenants vary enormously between agents for similar services and are often poorly or inconsistently displayed, making them hard to understand or compare despite existing transparency rules."
+      },
+      {
+        "name": "Tenant lack of market power",
+        "claim": "Because agents are appointed and paid by landlords, tenants have little or no ability to choose, negotiate or opt out of the fees charged to them."
+      },
+      {
+        "name": "Weak competitive pressure on tenant fees",
+        "claim": "Landlords and agents have strong incentives to compete on landlord-side fees but little or no incentive to minimise fees charged to tenants, which explains why tenant fees have risen and vary so widely, including cases of double-charging."
+      },
+      {
+        "name": "Financial and behavioural harm to tenants",
+        "claim": "High, repeated and unpredictable letting fees impose a significant financial burden on tenants, deterring moves, causing debt, and making it harder to save for a deposit or home purchase."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Choice of an outright ban over strengthened transparency",
+        "claim": "Because transparency requirements alone have not curbed excessive or opaque fees given landlords' stronger market position, the government has chosen to ban letting fees to tenants rather than rely on further transparency or disclosure measures."
+      },
+      {
+        "name": "Scope of the ban and limited exceptions",
+        "claim": "The ban will cover all fees, premiums and charges linked to granting, renewing or continuing a tenancy, charged by agents, landlords or third parties, leaving tenants liable only for rent, a refundable deposit, and tightly defined exceptions such as holding deposits and tenant-caused charges."
+      },
+      {
+        "name": "Scottish precedent as supporting evidence",
+        "claim": "Evidence from Scotland's long-standing ban on letting fees, including its effects on rents, agent numbers and tenant sentiment, is used to support the case that a similar ban in England will not seriously damage the sector."
+      },
+      {
+        "name": "Expected pass-through of costs to rents",
+        "claim": "The proposal argues that letting agents will need to charge landlords fairly for their services rather than tenants, and while some costs may be reflected in higher rents, this is preferable because it is transparent and allows tenants to compare properties on an all-in basis."
+      }
+    ],
+    "note": "Some design details of the ban (e.g. holding deposits) are argued partly under Proposal and partly under Implementation, reflecting overlap between the policy choice and its detailed rules."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Permitted exceptions within the ban",
+        "claim": "The ban's implementation will allow agents to continue charging holding deposits and tenant-caused in-tenancy charges, with safeguards such as refund rules and possible caps, to balance tenant protection against the risk of abuse or unnecessary cost to landlords and agents."
+      },
+      {
+        "name": "Deposit burden reduction",
+        "claim": "Implementation will explore capping deposit levels and alternative models (such as instalment payments or credit-based deposits) to reduce the upfront financial burden on tenants."
+      },
+      {
+        "name": "Enforcement architecture built on local authorities, with possible lead authority and data sharing",
+        "claim": "The ban will primarily be enforced by local authority Trading Standards, building on their existing role, but the government is exploring whether a lead enforcement authority, increased data sharing, or wider sector regulation are needed to make enforcement more consistent and effective."
+      },
+      {
+        "name": "Penalties and tenant empowerment as compliance drivers",
+        "claim": "Compliance will be secured through a combination of civil or criminal penalties for non-compliant agents and measures to educate and empower tenants to challenge unlawful fees, mirroring approaches used for deposit protection and estate agency regulation."
+      }
+    ],
+    "note": "Much of this aspect is presented as still open for consultation, with several enforcement options (lead authority, data sharing, penalty type) left undecided rather than fully specified."
+  }
+}

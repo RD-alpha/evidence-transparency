@@ -1,0 +1,58 @@
+{
+  "themes": [
+    {
+      "name": "Scope and definition of the ban",
+      "ids": [
+        "S0117",
+        "S0118",
+        "S0149",
+        "S0150",
+        "S0014"
+      ]
+    },
+    {
+      "name": "Phased timetable for manufacture and sale",
+      "ids": [
+        "S0119",
+        "S0120",
+        "S0122",
+        "S0123",
+        "S0136"
+      ]
+    },
+    {
+      "name": "Devolved and collaborative legislative approach",
+      "ids": [
+        "S0121",
+        "S0124",
+        "S0125",
+        "S0126",
+        "S0127",
+        "S0128",
+        "S0129"
+      ]
+    },
+    {
+      "name": "Enforcement through civil sanctions",
+      "ids": [
+        "S0130",
+        "S0131",
+        "S0132",
+        "S0133",
+        "S0166"
+      ]
+    },
+    {
+      "name": "Geographic exclusions",
+      "ids": [
+        "S0015"
+      ]
+    },
+    {
+      "name": "Consultation and implementation details",
+      "ids": [
+        "S0163"
+      ]
+    }
+  ]
+}

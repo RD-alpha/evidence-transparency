@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "National skills gap and economic growth imperative",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that three million apprenticeship starts address skill shortages and stimulate growth is asserted with no statistic, source, or finding behind it."
+    },
+    {
+      "theme": "Public sector lagging private sector uptake",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The figure that 'an estimated three-quarters of apprentices work' in the private sector is offered as grounds for the public sector needing to catch up, but it is unsourced (no reference or link given)."
+    },
+    {
+      "theme": "Workforce diversity, inclusivity and social mobility gap",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that diversity/inclusivity gaps persist is supported by the specific statistic that 'only 15% of people who have autism [are] currently in full time employment', but this figure carries no citation."
+    },
+    {
+      "theme": "Changing perceptions of apprenticeships",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that traditional views of apprenticeships need changing is asserted with no evidence of scale or cause."
+    }
+  ],
+  "reasoning": "The three core themes score unevenly. 'National skills gap and economic growth imperative' sits at level 0: it asserts a manifesto-driven rationale ('driven by an ambition to address our nation's skill shortages and stimulate economic growth') with no statistic, study, or data on the scale of skill shortages or the growth impact. 'Public sector lagging private sector uptake' reaches level 1, since the claim that the public sector must accelerate is grounded in a figure -- 'an estimated three-quarters of apprentices work' in the private sector -- but this is unsourced, with no reference or link, so it cannot reach level 2. 'Workforce diversity, inclusivity and social mobility gap' also reaches level 1: the diagnosis that disabled groups face employment gaps is backed by the concrete statistic '15% of people who have autism currently in full time employment', again with no citation attached. None of the three core themes have their evidence base assessed for strengths, weaknesses or uncertainty, so none reach level 3. The mean of 0, 1, and 1 is 0.67, which rounds down to 0. The strongest counter-example is the autism employment statistic, which is specific and clearly linked to the diversity claim, but even this falls short of level 2 for want of a citation. To reach level 1 overall, the growth/skills-shortage claim would need at least an unsourced statistic or finding; to reach level 2, all three would need properly cited sources a reader could follow.",
+  "score": 1,
+  "model_score": 0,
+  "core_mean": 0.666667,
+  "score_consistent": false,
+  "missing_core": []
+}

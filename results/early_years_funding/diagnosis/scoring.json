@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Historic central-to-local allocation",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The \u00a33.24 to \u00a39.17 range, the Stoke/Sandwell, Liverpool/Middlesbrough and Sunderland/Darlington comparisons and the chart are the department's own allocation data, with no source and no stated method; only Reference 3 notes that rates are unadjusted, and the document never questions its own data."
+    },
+    {
+      "theme": "Local authority retention and provider funding",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The NAO figures (Reference 5) and the Cost of Childcare Review (References 15) are cited and clearly linked to the claims on retention and provider-type disparity (\u00a34.25 v \u00a34.37), though the Section 251 example is uncited and the document offers only limited assessment, such as 'we do not have evidence that higher rates of central spend drive a greater sufficiency'."
+    },
+    {
+      "theme": "Provider incentives for 30 hours",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims such as 'market rates exceed government funding rates' and 'manifestly not capable' are asserted with no statistic, source or finding behind them."
+    },
+    {
+      "theme": "Support for children with SEND",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "References 6, 7, 19, 20, 21, 22 and 25 give cited, linked findings (41% of parent carers, the gap widening from 47.1 to 50.4 points, the Isos finding on unclear responsibility), but the document does not assess the strengths or limits of this evidence."
+    },
+    {
+      "theme": "Early years market context",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The take-up and Ofsted quality figures carry References 1 and 4 and are clearly linked, but no assessment of the evidence is offered."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The only line is the stray number '144.', which is not evidence."
+    }
+  ],
+  "reasoning": "Four core themes carry the diagnosis of unfair historic funding. Historic central-to-local allocation scores 1: the key figures ('from \u00a33.24 to \u00a39.17 per hour', Sandwell \u00a33.71 v Stoke \u00a35.00, Liverpool \u00a35.24 v Middlesbrough \u00a33.62) are the department's own allocation data, but no source or method is given. Reference 3 only explains that the rates are unadjusted. The document never examines the limits of its own data. Local authority retention scores 2: the NAO quote on 105, 34 and remaining authorities (Reference 5) and the Cost of Childcare Review cost comparison of \u00a34.25 v \u00a34.37 (References 15) are cited and clearly linked to the claims. Provider incentives for 30 hours scores 0, because 'market rates exceed government funding rates' and 'manifestly not capable' are bare assertion. Support for SEND scores 2, with cited parliamentary inquiry, Isos and EYFSP evidence (References 6, 7, 19-22, 25). Mean is (1+2+0+2)/4 = 1.25, which rounds to 1. The strongest counter-example is the retention and SEND themes, which are properly cited and reasoned and could justify a 2. Some of the department's own retention evidence also acknowledges the document's limits ('we do not have evidence that higher rates of central spend drive a greater sufficiency'). To reach level 2 overall, the document would need to cite and explain the method behind its own allocation data and support the incentive claims with evidence; level 3 would need explicit assessment of the strengths and uncertainties of that evidence.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.25,
+  "score_consistent": true,
+  "missing_core": []
+}

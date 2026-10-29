@@ -1,0 +1,35 @@
+{
+  "title": "Combating electoral fraud",
+  "alias": "electoral_fraud",
+  "uploaded_at": "2026-10-13T15:01:32.777181+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "15:01:32 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "electoral_fraud_src_1",
+      "title": "Combating electoral fraud (source 1)",
+      "sentence_count": 428,
+      "first_sentence": "S0001",
+      "last_sentence": "S0428",
+      "reference_count": 2,
+      "first_reference": "1",
+      "last_reference": "2",
+      "link_count": 0
+    },
+    {
+      "alias": "electoral_fraud_src_2",
+      "title": "Combating electoral fraud (source 2)",
+      "sentence_count": 1389,
+      "first_sentence": "S0429",
+      "last_sentence": "S1817",
+      "reference_count": 19,
+      "first_reference": "3",
+      "last_reference": "21",
+      "link_count": 2
+    }
+  ],
+  "appendix2_date": "27 December 2016; 12 August 2016",
+  "appendix2_type": "policy paper + independent report (combined in Appendix order)",
+  "extraction_note": "PDF table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

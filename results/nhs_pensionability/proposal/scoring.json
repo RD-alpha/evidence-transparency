@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Making new care model contracts pensionable",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The only evidence is the 2015 access review finding that sub-contractors \"were keen to offer the NHS pension scheme\" and that the Department \"listened carefully\", with no method, numbers, source or reference given, so it stays at level 1."
+    },
+    {
+      "theme": "Standard sub-contracts with controls",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The justification rests on the 2015 consultation precedent (References 4 and 5) and the April 2016 checks, but the references only point to guidance and a consultation page without showing results, and the control rationale is asserted rather than evidenced."
+    },
+    {
+      "theme": "National minimum wage exclusion from regulation D3",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The Department says it \"has therefore decided\" to exclude NMW-driven pay rises, but no data, finding or source is offered for the problem or for the fix, only the amending text."
+    },
+    {
+      "theme": "Technical corrections and refinements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The amendments are described, with References 1, 2, 3 and 6 being unrelated links or a definition, and no evidence is given that the corrections are needed or will work."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The theme describes the instrument, procedures and eligibility rules and offers no evidence for any claim."
+    }
+  ],
+  "reasoning": "The four core themes are mostly descriptions of draft regulations, with little evidence for why each measure was chosen or that it will work. Making new care model contracts pensionable (level 1) offers one piece of evidence: \"Following the access review conducted throughout 2015... it became very clear that NHS clinical service sub-contractors were keen to offer the NHS pension scheme\". That is the Department's own primary evidence, but it gives no method, sample size, report name or reference. Standard sub-contracts with controls (level 1) refers back to \"the same reasons established in the 2015 consultation\" (Reference 5) and the April 2016 checks and balances (Reference 4). These point to a consultation page and sub-contract guidance but do not show what the consultation found or whether the controls worked. Other references are generic personal-information charter links. The control rationale, such as \"Requiring use of the standard sub-contract ensures that only NHS work is pensioned\", is argument without data. The national minimum wage exclusion (level 0) and the technical corrections (level 0) give no evidence beyond the Department's decision. The mean of the core themes is (1+1+0+0)/4 = 0.5, which rounds down to 0 under the rounding rule. The strongest counter-example is that the 2015 access review and consultation do supply some grounds, which could argue for level 1. To reach level 1, the document would need to report what the 2015 review and consultation found, how many responded and what they were asked, with working links, and to give evidence for the minimum wage and other changes.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.5,
+  "score_consistent": true,
+  "missing_core": []
+}

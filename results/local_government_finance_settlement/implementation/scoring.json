@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Revaluation adjustment method",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The proxy choice is reasoned with a worked example (\u00a3100m to \u00a3122m, \u00a320m top up) and explanations of why direct measurement is impractical (31 March alterations, provisions, bad debt), but no data, modelling or analysis of the proxy's accuracy is shown and no references are given; the admission that SBRR impact is 'marginal' is asserted without evidence."
+    },
+    {
+      "theme": "Multi-year offer process",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The process (14 October deadline, email, efficiency plan) is described with Reference 1 (the offer letter) and Reference 2 (statute sections 78 and 78A), but these only describe the offer and the rules, and no evidence is given for why this process was chosen."
+    },
+    {
+      "theme": "Better Care Fund allocation formula",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The stepwise methodology (steps i-v) describes the allocation procedure and points to illustrative allocations (Links 9, 10), but gives no evidence for why the 2013 relative needs formula or this scaling was chosen."
+    },
+    {
+      "theme": "Pilot and devolution funding mechanics",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The two pilot options, formulas and transfer routes are described as procedures, with Reference 4 only noting that 100% will be split across tiers, and no evidence is given for why the details were set as they are."
+    }
+  ],
+  "reasoning": "All four core themes are mostly descriptions of procedure, with little evidence behind why the delivery method was chosen. The strongest is Revaluation adjustment method (level 1). It shows its reasoning with a worked example (\"\u00a3100m to \u00a3122m... It has a \u00a320m top up\") and explains why direct measurement was rejected (\"too complicated and too sensitive to refunds, backdated alterations and subjective allocations\"). It also names the alternative of measuring income over the two days around the revaluation. It does not show any data or modelling that tests how accurate the proxy is. The claim that the SBRR impact is \"marginal\" is asserted, and no references are given, so it cannot reach level 2. Multi-year offer process (level 0) cites Reference 1 (the offer letter) and Reference 2 (statute), but these only describe the offer and the rules. Better Care Fund allocation formula (level 0) sets out steps i-v and links to illustrative allocations (Links 9, 10), but gives no grounds for using the 2013 needs formula. Pilot and devolution funding mechanics (level 0) is formulas and conditions only. The mean is 0.25, which rounds to 0. The strongest counter-example is the revaluation theme's reasoned rejection of the alternative, which arguably deserves level 1 and shows the section is not wholly empty. To reach level 1 overall, the other themes would need to give evidence for why these routes, formulas and timetables were chosen. To reach level 2, the document would also need to cite its sources and publish the modelling that tests the proxy's accuracy.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.25,
+  "score_consistent": true,
+  "missing_core": []
+}

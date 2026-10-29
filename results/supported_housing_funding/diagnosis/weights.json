@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Universal Credit roll-out",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Higher costs and complex funding of supported housing",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Weak local oversight, quality and value for money",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Funding uncertainty and risk to supply",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "themes": [
+    {
+      "name": "Residual infection and recurrence in the High Risk Area",
+      "ids": [
+        "S0070",
+        "S0071",
+        "S0072"
+      ]
+    },
+    {
+      "name": "Skin test insensitivity and inconsistent severe interpretation",
+      "ids": [
+        "S0089",
+        "S0090",
+        "S0091",
+        "S0093",
+        "S0096"
+      ]
+    },
+    {
+      "name": "Inconclusive reactors as an undetected infection risk",
+      "ids": [
+        "S0098",
+        "S0099",
+        "S0100",
+        "S0102",
+        "S0103",
+        "S0104",
+        "S0105",
+        "S0106",
+        "S0107",
+        "S0108",
+        "S0109",
+        "S0110",
+        "S0111"
+      ]
+    },
+    {
+      "name": "Gaps in controls on movements and testing schedules",
+      "ids": [
+        "S0119",
+        "S0120",
+        "S0121",
+        "S0123",
+        "S0124",
+        "S0125",
+        "S0126",
+        "S0127",
+        "S0128",
+        "S0129",
+        "S0131",
+        "S0132",
+        "S0133",
+        "S0134",
+        "S0135",
+        "S0136",
+        "S0142",
+        "S0143",
+        "S0145"
+      ]
+    },
+    {
+      "name": "Disease threat and scope of the problem",
+      "ids": [
+        "S0009",
+        "S0010"
+      ]
+    },
+    {
+      "name": "Tracing of cattle from infected herds",
+      "ids": [
+        "S0087",
+        "S0088"
+      ]
+    },
+    {
+      "name": "Complexity of the existing testing landscape",
+      "ids": [
+        "S0330"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": [
+        "S0092",
+        "S0144"
+      ]
+    }
+  ]
+}

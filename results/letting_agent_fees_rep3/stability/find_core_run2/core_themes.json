@@ -1,0 +1,69 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Scale and growth of fees",
+        "claim": "Tenant letting fees are widespread, vary enormously between agents (from tens to hundreds of pounds) and have risen significantly in recent years despite broadly similar services being provided."
+      },
+      {
+        "name": "Lack of tenant control and weak competitive pressure",
+        "claim": "Because landlords, not tenants, appoint and pay agents, tenants have no ability to negotiate or opt out of fees, and agents and landlords have little incentive to keep tenant fees low, so competitive pressure on tenant fees is very weak."
+      },
+      {
+        "name": "Opacity and difficulty comparing fees",
+        "claim": "Agents display and itemise fees inconsistently, making it very difficult for tenants to find, understand or compare fees, and existing transparency rules have failed to fix this."
+      },
+      {
+        "name": "Financial and behavioural harm to tenants",
+        "claim": "High, repeated, upfront letting fees create real financial hardship for tenants, deterring moves, trapping people in poor housing and undermining their ability to save for deposits or homeownership."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Rationale for a fee ban based on market power",
+        "claim": "Because landlords hold the stronger market position and choose agents, a ban on tenant fees will redirect competitive pressure onto landlord fees, improving transparency and value without removing agents' role."
+      },
+      {
+        "name": "Insufficiency of existing transparency regulation",
+        "claim": "Current transparency requirements under the Consumer Rights Act 2015 have not improved standards or enabled effective shopping around, justifying a stronger intervention than transparency alone."
+      },
+      {
+        "name": "Scope of the ban and treatment of exceptions",
+        "claim": "The ban will cover all fees, premiums and charges facilitating a tenancy (including those routed via landlords or third parties), while permitting limited exceptions such as capped holding deposits and tenant-caused charges, to keep the policy simple yet fair."
+      },
+      {
+        "name": "Likely effect on rents and landlord behaviour",
+        "claim": "Agents will reimburse their costs from landlords rather than tenants, and while some costs may be passed into rents, this will be more transparent and let tenants compare properties on a single visible price."
+      },
+      {
+        "name": "Scottish precedent as supporting evidence",
+        "claim": "Scotland's long-standing ban on letting fees provides evidence that such a ban causes minimal harm to the sector, with only limited rent effects and continued market health, supporting the case for an English ban."
+      }
+    ],
+    "note": "The proposal also contains several undecided sub-elements (e.g., deposit caps, premium-market treatment) presented as open consultation questions rather than settled arguments."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Enforcement through local Trading Standards",
+        "claim": "The ban should be enforced primarily by local authorities/Trading Standards, building on their existing role enforcing redress and transparency requirements, though they may need extra support."
+      },
+      {
+        "name": "Tenant empowerment and education as enforcement mechanism",
+        "claim": "Educating and empowering tenants to challenge agents and seek redress (e.g., via courts) will reduce the burden on local authorities and support effective compliance, drawing on the precedent of deposit protection enforcement."
+      },
+      {
+        "name": "Additional enforcement infrastructure options",
+        "claim": "A lead enforcement authority (modelled on the Estate Agent sector's NTSEAT) and increased data sharing between regulators could strengthen and centralise enforcement consistency."
+      },
+      {
+        "name": "Penalties for non-compliance",
+        "claim": "Non-compliance should carry a civil penalty, potentially higher than the existing £5,000 fine (drawing on the £30,000 banning-order precedent) and possibly escalate to criminal/banning-order status to deter breaches."
+      }
+    ],
+    "note": ""
+  }
+}

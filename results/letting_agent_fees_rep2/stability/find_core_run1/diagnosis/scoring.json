@@ -1,0 +1,64 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Scale and growth of fee charging",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Multiple cited sources (EHS 2014/15, NALS, ARLA, Generation Rent, Shelter - References 3-6) give specific average/median fee figures and a DCLG market-research table, and the document explicitly compares and reconciles their differing estimates (e.g. \u00a3172 vs \u00a3223 vs \u00a3400 averages), amounting to the document assessing its own evidence base."
+    },
+    {
+      "theme": "Lack of tenant control and market power imbalance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only the Citizens Advice figures (60% vs 88%, Reference 9) are cited and linked to part of the claim, while the central assertions about inability to negotiate/opt-out and weak competitive pressure are pure unevidenced reasoning."
+    },
+    {
+      "theme": "Opacity and difficulty comparing fees",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "DCLG's own market research is described methodologically ('randomly chose 50 agents... searched their website') and combined with cited Generation Rent (Reference 10, 12% non-display) and NALS survey figures (98% charge fees, 69% flat/31% itemised), each clearly linked to the opacity claim."
+    },
+    {
+      "theme": "Financial and behavioural harm to tenants",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "EHS 2014-15 figures (35%/34% on moving decisions) and Citizens Advice data (Reference 13: 64% experienced problems, 42% borrowed money) are directly linked to the harm claim, though no uncertainty or conflicting evidence is discussed."
+    },
+    {
+      "theme": "Agent practices and exploitation",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Shelter's 2013 finding (Reference 12, one in four felt charged unfairly) is cited and explained, but most claims about double-charging and exploitation are asserted without evidence."
+    },
+    {
+      "theme": "Tenant decision-making and choice constraints",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The OFT 2013 market study is named and its finding (tenants focus on rent not fees) is explained, but uncited and not linked to further data."
+    },
+    {
+      "theme": "Transparency requirements and their limitations",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "References the 2016 Client Money Protection call for evidence and summarises stakeholder views ('majority... said not sufficient') but gives no numbers, methodology, or citation for how responses were counted."
+    },
+    {
+      "theme": "Landlord fees and incentives",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "NLA Quarter 4 survey (Reference 11) and specific commission rates are given but mostly as description rather than linked evidence for a diagnosis claim, with 'anecdotal evidence' explicitly flagged as weak."
+    },
+    {
+      "theme": "Tenancy structure and fee frequency",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "EHS 2014/15 (Reference 7) data on tenancy length supports fee-frequency claims but the further inference about incentives for short-term lets is reasoning without separate evidence."
+    }
+  ],
+  "reasoning": "The diagnosis rests on four core themes. 'Scale and growth of fee charging' reaches level 3: it cites EHS 2014/15, NALS, ARLA, Generation Rent and Shelter (References 3-6) with specific, linked figures, and explicitly compares their differing averages ('\u00a3172... \u00a3223... \u00a3400'), which counts as the document assessing its own evidence base. 'Opacity and difficulty comparing fees' reaches level 2: DCLG's own market research is described methodologically ('randomly chose 50 agents... searched their website'), reinforced by Generation Rent's 12% non-disclosure finding (Reference 10) and NALS's itemisation data, all clearly linked to the opacity claim, but without critical assessment of that evidence's limits. 'Financial and behavioural harm to tenants' also reaches level 2, using EHS and Citizens Advice figures (Reference 13: 64% struggled, 42% borrowed) directly tied to the harm claim. 'Lack of tenant control and market power imbalance' is weaker, level 1: only the Citizens Advice 60%/88% stat (Reference 9) is cited and linked, while the central argument about inability to negotiate or exert competitive pressure is asserted with no supporting data. The mean of (3+1+2+2)/4 = 2.0, giving a section score of 2. The strongest counter-example is the control theme, which drags the average down despite strong evidence elsewhere. To reach level 3 overall, the document would need comparable critical assessment of evidence quality across all four core themes, particularly evidence (not just assertion) for tenants' inability to negotiate or exert competitive pressure.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.0,
+  "score_consistent": true,
+  "missing_core": []
+}

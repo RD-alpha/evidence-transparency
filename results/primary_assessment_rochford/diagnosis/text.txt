@@ -1,0 +1,164 @@
+S0008 There is a proportion of pupils who have not completed the relevant programmes of study when they reach the appropriate age for statutory national assessments, and are therefore not able to sit national curriculum tests.
+S0035 There is a proportion of pupils who have not completed the relevant programmes of study when they reach the appropriate age for statutory national assessments, and are therefore not able to sit the national curriculum tests.
+S0036 This is a diverse group, with above average numbers of pupils with special educational needs and disabilities (SEND), pupils from disadvantaged backgrounds and pupils with English as an additional language.
+S0038 P scales were introduced in 1998 to sit below level 1 of the old national curriculum, because teachers working with children with complex needs found that the national curriculum level descriptors started at too high a point for their pupils.
+S0039 There are eight levels within the P scales and each level contains broad descriptions of the performance expected of pupils working at that level.
+S0040 P1 represents the lowest level of attainment and P8 the highest.
+S0041 P1 to P3 describe early learning and development before pupils begin to engage in subject-specific learning.
+S0042 P4 is the entry point to subject-specific learning and the remaining four P scales, P5 to P8, are subject-specific.
+S0043 It is currently a statutory requirement to use P scales to assess and report the attainment of pupils with SEND who are not working at the standard of mainstream statutory assessments.
+S0044 The removal of levels and the introduction of the new national curriculum in 2014, and wider changes to statutory assessment arrangements, prompted the government to establish the independent Rochford Review.
+S0046 Following the removal of national curriculum levels, interim teacher assessment frameworks were introduced in the 2015 to 2016 academic year to enable schools to report end of key stage statutory assessment for pupils who are working at the standard of national curriculum tests.
+S0047 These frameworks are being used again for the 2016 to 2017 academic year.
+S0082 P scales were intended to create a common language around pupil attainment (for use, for example, by local authorities when making and evaluating the impact of their commissioning decisions for pupils for whom they have responsibility because they had Statements of SEN) and to help schools know what to expect of pupils working at that standard.
+S0083 However, the Review concluded that P scales are no longer fit for purpose.
+S0084 This is because they are based on the old national curriculum and therefore do not support pupils’ progression onto the new national curriculum.
+S0085 Also, they are not formally moderated and, like national curriculum levels, they have not always been used in the way they were intended, which can confuse the distinction between curriculum and assessment.
+S0107 There is a small number of pupils whose special educational needs and disabilities are such that they will not be engaged in subject-based learning by the time they reach the end of key stage 1 or 2.
+S0108 The pre-key stage standards could not be used to assess these pupils.
+S0154 Schools currently have a statutory duty to submit P scale data to the department.
+S0155 This data is made available at local and national level only.
+S0174 The Review also focused on there being a number of pupils who are not yet working at the standard of national curriculum tests because they do not speak English as their first language.
+S0225 Too often, assessment for these pupils has been too narrow.
+S0226 Existing arrangements for assessing pupils have come to be used as a curriculum, restricting the kind of creativity and innovation that should be used to engage these pupils and to tailor teaching and learning to their unique needs.
+S0255 The Department for Education (DfE) has been reforming primary assessment to align with the high expectations set by the new national curriculum that schools have been teaching since September 2014.
+S0256 National curriculum levels have been removed and replaced by new forms of statutory assessment at the end of key stages.
+S0257 There has always been a proportion of pupils for whom we cannot use these statutory assessments as they have not completed the relevant programmes of study when they reach the appropriate chronological age.
+S0263 The Rochford Review recognises that age-related expectations are not appropriate for a significant proportion of pupils working below the standard of the national curriculum tests, many of whom have SEND that affect their rate of cognitive development or speed of learning.
+S0272 Performance scales (P scales) were designed to sit below the level descriptors used to assess the old national curriculum.
+S0273 It is currently a statutory requirement to use P scales to assess and report the attainment of pupils with SEND who are not working at the standard of mainstream statutory assessments.
+S0274 The group considered whether P scales remain fit for purpose and whether they are the best way of assessing pupils with SEND.
+S0282 There is a small number of pupils nationally whose learning difficulties mean that they will not be engaged in subject-based learning by the time they reach the end of key stage 1 or 2.
+S0289 There are some pupils who have not completed the relevant key stage programmes of study, and are therefore working below the standard of statutory testing arrangements, because they have EAL.
+S0319 The reforms to primary assessment have included the introduction of new national curriculum tests at the end of key stages 1 and 2, designed to assess the new national curriculum that schools have been teaching since September 2014.
+S0320 The government has discontinued the use of national curriculum levels for reporting the outcomes of both statutory tests and statutory teacher assessments.
+S0321 Levels were designed for the old national curriculum and the government felt they were no longer fit for purpose.
+S0326 There has always been a minority of pupils who have not completed the relevant programmes of study when they reach the appropriate chronological age for end of key stage statutory assessments.
+S0327 As a result, these pupils are working below the standard of the national curriculum tests and teachers are able to exercise their professional judgement in deciding whether to enter them.
+S0329 Currently, many of these pupils with recognised SEND are assessed using P scales.
+S0330 Previously, pupils not on P scales who were working below the standard of the national curriculum tests have been teacher assessed using levels.
+S0331 The removal of levels and wider changes to statutory assessment arrangements prompted the government to look again at assessment arrangements for these pupils to ensure they are as appropriate and effective as they can be and that they allow for, and support, progression on to the new mainstream forms of statutory assessment.
+S0332 We know that the group of pupils in question is diverse, but we also know it is characterised by a disproportionate number of pupils with SEND, pupils from disadvantaged backgrounds and pupils with EAL compared to the averages for the overall pupil population.
+S0334 Page 8 Table 1: Pupil characteristics for the whole pupil population and population working below the standards of the national curriculum tests for key stage 1. ** (Reference: 8)
+S0335 Table 2: Pupil characteristics for the whole pupil population and population working below the standards of the national curriculum tests for key stage 2. ** (Reference: 9)
+S0347 Pupils with SEND: English (reading) Pupils below standard of the test: 83%; Total pupil population: 16%; Mathematics Pupils below standard of the test: 90%; Total pupil population: 16%.
+S0348 Pupils who are disadvantaged: English (reading) Pupils below standard of the test: 45%; Total pupil population: 26%; Mathematics Pupils below standard of the test: 45%; Total pupil population: 26%.
+S0349 Pupils with EAL: English (reading) Pupils below standard of the test: 29%; Total pupil population: 20%; Mathematics Pupils below standard of the test: 27%; Total pupil population: 20%.
+S0350 Pupils with SEND: English (reading) Pupils below standard of the test: 78%; Total pupil population: 19%; Mathematics Pupils below standard of the test: 83%; Total pupil population: 19%.
+S0351 Pupils who are disadvantaged: English (reading) Pupils below standard of the test: 51%; Total pupil population: 32%; Mathematics Pupils below standard of the test: 52%; Total pupil population: 32%.
+S0352 Pupils with EAL: English (reading) Pupils below standard of the test: 29%; Total pupil population: 18%; Mathematics Pupils below standard of the test: 26%; Total pupil population: 18%.
+S0376 Age-related expectations are not appropriate for a significant proportion of these pupils, many of whom have SEND that affect their rate of cognitive development or speed of learning.
+S0377 The new national curriculum tests set expected standards of attainment, which will be represented by a score of 100 on the scale used to report test outcomes.
+S0378 Pupils working below the standard of the tests will not be participating in the tests, so it is important that it is possible to demonstrate attainment at the standards they are working at.
+S0379 It is also important that we are able to measure the progress they make in a way which takes into Page 10 account the nature of progress for these pupils.
+S0380 Those with SEND can often make progress in different ways to the majority of pupils.
+S0381 Both attainment and progress have a role in national accountability measures.
+S0382 Because these pupils will not achieve the age-related ‘expected standards’ of attainment against which school performance is measured, an appropriate progress measure is particularly important if these pupils are to be included fairly in national accountability measures.
+S0415 As national curriculum levels have already been removed from statutory assessment arrangements, this work focused on P scales and their utility and effectiveness for assessing pupils with SEND.
+S0416 P scales were introduced in 1998 to sit below level 1 of the old national curriculum because teachers working with children with complex needs found that the national curriculum level descriptors started at too high a level for their pupils.
+S0417 As P scales were designed to sit below level descriptors, it is unsurprising that they are similar to level descriptors in nature and form.
+S0418 There are 8 levels within the P scales and each level contains broad descriptions of performance expected of pupils working at that level.
+S0419 P1 represents the lowest level of attainment and P8 the highest.
+S0420 P1 to P3 describe early learning and development before pupils begin to engage in subject-specific learning.
+S0421 P4 is the entry point to subject specific learning and the remaining 4 P scales, P5 to P8, are subject-specific.
+S0422 It is currently a statutory requirement to use P scales to assess and report the attainment of pupils with SEND who are not working at the standard of mainstream statutory assessments.
+S0423 This means schools all over the country are using the same language and milestones to evaluate the progress of relevant pupils with SEND.
+S0424 This was intended to facilitate discussions and comparisons across pupils and schools, helping teachers to understand what to expect from their pupils and helping those holding schools to account to judge whether schools are making acceptable progress with their pupils.
+S0425 Review group members had a number of discussions about whether P scales use the right language and milestones and whether setting expectations according to comparisons with other pupils and schools is the right approach to assessment for all pupils with SEND.
+S0426 Unlike wider statutory teacher assessment arrangements, including arrangements for the new interim teacher assessment frameworks, assessments using P scales are not formally moderated.
+S0427 This means that whilst different teachers and schools are using the same language and milestones in principle, their understanding and application of the language and milestones may differ considerably.
+S0428 This undermines the usefulness of P scales for sharing information and for making valid comparisons of pupil progress.
+S0429 Like the old national curriculum levels, assessments using P scales rely on best-fit judgements.
+S0430 Teachers make on-balance evaluations about which P level best describes a pupil’s attainment.
+S0431 This means that 2 pupils can be assessed as being at the same P level, but each can have different attainment profiles.
+S0432 This also undermines the reliability and validity of expectations and comparisons based on P scale data because pupils who have achieved a particular profile of attainment within a P level may well progress differently to pupils who have achieved a different combination at the same P level.
+S0436 P scales were designed to sit alongside, and complement, the old national curriculum, which was significantly different to the new one.
+S0437 The content of the new curriculum is organised by year group or key stage, rather than being thematically or sequentially based.
+S0438 The Rochford Review had an important role to play in evaluating whether P scales remain fit for purpose in supporting pupils’ progression onto the new national curriculum and onto the statutory national assessments used to evaluate pupils’ knowledge and understanding of it.
+S0440 Members of the review group have also expressed serious concerns that many schools use P scales as a curriculum, instead of for their intended purpose as an assessment tool.
+S0441 They felt that where P levels define specific tasks or activities these are often being applied narrowly.
+S0442 Rather than following the letter of the P scales, it is much more important that knowledge, concepts and skills are acquired in a range of contexts and situations, according to a varied and stimulating curriculum.
+S0444 The risk of using P scales as a curriculum is that education becomes a tick-box exercise instead of an exciting and evolving exchange between teacher and pupil.
+S0445 P scales presume linear progression; they presume that pupils will move on from one skill or concept to a more challenging or advanced skill or concept in a linear fashion.
+S0446 Whilst this is an appropriate assumption for most pupils, it does not acknowledge that for pupils with severe or profound and multiple learning difficulties, progress can often look quite different.
+S0447 P scales combine this linear assessment framework with a best-fit approach to assessment.
+S0448 This means that, as with national curriculum levels, there is an in-built incentive for schools to encourage progression onto the next P level before pupils have acquired or consolidated all the elements of the previous P level.
+S0449 Ensuring greater depth of understanding and practical application of new knowledge can sometimes be more beneficial to a pupil’s longer term progress than moving on to new things.
+S0450 Approaches which recognise lateral progress, improvements in pupils’ depth of understanding or in the range of contexts to which they apply new concepts and skills would be particularly beneficial for pupils with more severe or profound special needs, who can have greater difficulty retaining and building on new milestones.
+S0451 The data from the survey carried out by the Rochford Review showed mixed views about P scales.
+S0452 The majority (78%) of respondents felt that P scales are not fit for purpose in their current form, but opinions varied as to whether they should be revised (32%), replaced with a new framework (21%) or removed for teachers to develop their own approaches to assessing pupils with SEND (25%).
+S0453 Over 60% of parents and carers who responded did not think P scales provided useful information about their child.
+S0477 A small number of pupils nationally are not engaged in subject-based learning by the time they reach the end of key stage 1 or 2.
+S0478 It would not be appropriate to assess them using the pre-key stage standards as they do not yet have assessable literacy or numeracy skills.
+S0508 For these pupils it takes longer to acquire new concepts and skills and to establish them in a range of different contexts.
+S0547 It is widely acknowledged that the attainment and progress of pupils with severe or profound and multiple learning difficulties can be inconsistent, presenting an atypical or uneven profile.
+S0548 Each pupil’s unique profile of needs can make it very difficult to draw the kind of comparisons with other pupils that make it possible to set age-related expectations for attainment.
+S0549 Any individual child’s needs and disabilities can interact in different ways, so that even though he or she may share some of those needs or disabilities with other pupils, their progress pathways will be different.
+S0550 Pupils with the most severe or profound and multiple difficulties frequently do not make progress in a linear way.
+S0551 That is not to say that they cannot make linear progress, but that linear progress is not typical.
+S0552 There may be a period of lateral progress, in which, for example, a pupil does not gain new concepts or skills, but learns to apply existing concepts or skills to a broader range of contexts.
+S0553 For a pupil with complex needs, this can be a significant achievement and demonstrate real progress.
+S0554 It would not, however, be captured by a framework, like that of the P scales, which is premised on an expectation of linear progress.
+S0555 Pupils may also make progress for a period of time, but then either plateau or appear to lose some of the gains they have made for a while before progress starts to pick back up again.
+S0556 These kinds of patterns of progress are normal for pupils with severe or profound and multiple learning difficulties.
+S0660 There are some pupils who have not completed the relevant key stage programmes of study and are therefore working below the standard of statutory testing arrangements, because they have EAL.
+S0661 Pupils with EAL can fit a wide range of profiles.
+S0662 Some may be newly arrived to the country and may have come from difficult circumstances in their home country.
+S0663 Others may always have lived in the UK, but may come from homes where English is not spoken.
+S0664 Others may already be bilingual or multilingual.
+S0665 The right approach to supporting assessment for all these pupils may be different.
+S0743 The review group was asked to advise whether existing arrangements remained fit for purpose in the light of wider changes to curriculum and assessment.
+S0744 There is a proportion of pupils who have not completed the relevant programmes of study when they reach the appropriate age for statutory national assessments, and are therefore not able to sit the national curriculum tests.
+S0745 This is a diverse group, with above- average numbers of pupils with special educational needs and disabilities (SEND), pupils from disadvantaged backgrounds and pupils with English as an additional language (EAL).
+S0765 P4 is the entry point for subject-specific learning, and the remaining four P scales, P5 to 8, are subject-specific.
+S0767 P scales were intended to create a common language around pupil attainment and to help schools know what to expect of pupils working at that standard.
+S0768 However, P scales are based on the old (pre- 2014) national curriculum and therefore do not support pupils’ progression onto the current national curriculum tests.
+S0769 As a result, the Review concluded that P scales were no longer fit for purpose.
+S0778 A number of respondents also felt that P scales were too focused on linear progress, which did not always reflect the reality of how this pupil group progresses.
+S0791 As they are based on the old national curriculum, they do not support pupils to progress onto the new national curriculum.
+S0792 In addition, they replicate the old system of levels, which over time came to dominate teaching, and prioritised pace over consolidation.
+S0829 There are a small number of pupils whose special educational needs or disabilities are such that they will not be engaged in subject-specific learning by the time they reach the end of key stage 1 or 2.
+S0830 Currently, these pupils are assessed using the lowest P scales; however, the Review recommended that the statutory duty to assess pupils using P scales be removed.
+S0831 The pre-key stage standards discussed above are subject-specific, and therefore could not be used to assess these pupils.
+S0876 Those pupils who are not engaged in subject-specific learning have particularly complex, individual needs.
+S0967 The Rochford Review also focused on the number of pupils who are not yet working at the standard of national curriculum tests because they do not speak English as their first language.
+S0974 Pupils with EAL can fit a wide range of profiles.
+S0975 Some may be newly-arrived to the country and may have come from difficult circumstances in their home country.
+S0976 Others may always have lived in the UK, but may come from homes where English is not spoken.
+S0977 Others may already be bilingual or multilingual.
+S0978 The right approach to supporting assessment for all these pupils may be different.
+S1051 It also considers groups of children that are not covered specifically by the Equality Act, but are shown to be over represented among pupils working below the standard of national curriculum tests.
+S1052 These include some pupils with SEND and pupils with English as an additional language (EAL).
+S1070 The group of pupils working below the standard of national curriculum tests is diverse, however it is characterised by a disproportionate number of pupils with SEND, pupils from disadvantaged backgrounds, and pupils with EAL.
+S1089 At the end of key stage 2, around 3% of pupils nationally are typically working below the standard of national curriculum tests (this rises to approximately 6% in the case of English writing). As a result, these pupils cannot be assessed using mainstream national curriculum assessments. ** (Reference: 27)
+S1090 Instead, these pupils are currently assessed using P scales (from P1 to P8) or using the interim pre-key stage standards.
+S1091 This section refers to those pupils who are currently assessed using P scales, but are engaged in subject-specific learning. P4 is the entry point for subject specific learning, and P5 to 8 are subject-specific. ** (Reference: 28)
+S1092 We agree with the Rochford Review that P scales are no longer fit for purpose.
+S1093 As they are based on the pre-2014 national curriculum, they do not support pupils to progress onto the new national curriculum.
+S1094 In addition, they replicate the old system of levels, which over time came to dominate teaching, and prioritised pace over consolidation.
+S1104 However we also heard concerns that, as P scales relate to the pre-2014 national curriculum and they do not align with current national curriculum assessments, they do not support inclusive assessment.
+S1120 There are a small number of pupils whose special educational needs or disabilities are such that they will not be engaged in subject-based learning by the time they reach the end of key stage 1 or 2. ** (Reference: 31)
+S1121 The interim pre-key stage standards are subject-specific, and would therefore not be an appropriate tool for assessing these pupils.
+S1126 It is widely acknowledged that the attainment and progress of pupils with severe or profound and multiple learning difficulties can be inconsistent, presenting an atypical or uneven profile.
+S1127 Each pupil’s unique profile of needs can make it very difficult to draw the kind of comparisons with other pupils that make it possible to set age-related expectations for attainment.
+S1128 The Review concluded that the non-linear nature of development of some of the conditions affecting pupils not engaged in subject-specific learning is also incompatible with the linear nature of P scales and the pre-key stage standards.
+S1129 In some cases, a characteristic of the pupil’s disability may cause specific elements in the P scales to be more challenging than others.
+S1130 Other pupils may have degenerative conditions, while others may experience prolonged periods of poor health, or be subject to changes in their medication that could affect their performance.
+S1131 It is important that these pupils have the opportunity to demonstrate both attainment and progress, and that the way we measure their progress accounts for potential differences in the way these pupils learn.
+S1134 Some respondents favoured the removal of P scales, criticising their prescriptive, ‘one size fits all,’ linear approach.
+S1135 The population with special needs is particularly diverse, even among pupils with similar needs. ** (Reference: 33)
+S1136 The population is also complex, with many children having multiple disabilities – physical as well as cognitive and behavioural – which need to be accommodated.
+S1180 There are some pupils who have not completed the relevant key stage programmes of study, and are therefore working below the standard of national curriculum tests because they have English as an additional language (EAL).
+S1181 According to the 2014 schools census, 18.7% of pupils in state-funded primary schools in England have EAL.
+S1182 This proportion is increasing in both primary and secondary schools. Pupils with EAL can fit a wide range of profiles. ** (Reference: 37)
+S1183 Some may be newly-arrived to the country and may have come from difficult circumstances in their home country.
+S1184 Others may always have lived in the UK, but may come from homes where English is not spoken.
+S1185 Others may already be bilingual or multilingual.
+S1186 There is significant diversity in attainment within pupils with EAL, more so than between pupils with EAL and those with English as their first language. The right approach to supporting assessment for all these pupils may be different. ** (Reference: 38)
+S1191 EAL is not a special educational need or disability, and the needs of these two groups of pupils should not be conflated.
+S1192 A review of provision for pupils with EAL indicated that there is often a blurring between SEND and EAL.
+S1193 It showed that the SEND coordinator was often the lead teacher on EAL provision and case studies showed examples of pupils being withdrawn from mainstream classes for additional support, which took place in mixed SEND support groups. This may not be appropriate for meeting the needs of pupils with EAL. ** (Reference: 42)
+S1195 However, there can be challenges identifying SEND within pupils with EAL.
+S1196 Genuine SEND could wrongly be assumed to be a problem involved with learning English that will be overcome as the pupil increases their fluency. There is the potential for SEND to be ignored or confused as merely a language problem in pupils with EAL, with issues arising purely from language differences being attributed to SEND, or vice versa. ** (Reference: 43)
+S1197 This is particularly true for language or communication-based SEND, such as dyslexia.
+S1198 Some have argued that a ‘wait and see approach’ is often taken in the classroom regarding pupils with EAL and dyslexia, which undermines the potential for early identification and can delay support. Evidence from a 2015 systematic review suggests that strategies which aim to teach and improve English language skills, particularly vocabulary and academic vocabulary, in pupils with EAL can result in short and long-term benefits. ** (Reference: 44, 45)

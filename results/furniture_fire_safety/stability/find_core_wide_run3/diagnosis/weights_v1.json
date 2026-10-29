@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Outdated match test and FR overuse",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Health and environmental harm from flame retardants",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "FFRs' proven safety record as the baseline to protect",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope and traceability weaknesses undermine clarity and enforcement",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Non-compliant imports and market context",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Stakeholder engagement and regulatory history",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Emerging regulatory developments",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Unregulated product components and safety gaps",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Outdated Concordat requires simplification",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Vessel mobility mismatches with licensing administration",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Economic link condition needs re-examination",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "FQA trading creates tension with their legal status",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "UK fisheries governance framework",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "EU membership status and rights",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Unfair, inconsistent funding between similar schools and areas",
+        "claim": "The current system gives similar schools and local authorities very different funding with little or no justification, because patchy local formulae and decisions made over many years leave resources not reaching the pupils who need them most."
+      },
+      {
+        "name": "Out-of-date and unexplained historic funding base",
+        "claim": "Current funding levels rest on 2005-06 spending patterns, rolled-over grants and unrevisited deprivation data, so there is no rationale for why any school receives what it does and changes in need, such as falling deprivation in London, are ignored."
+      },
+      {
+        "name": "Funding and disadvantage determine opportunity",
+        "claim": "Socio-economic background still strongly shapes pupils' later opportunities, underfunded schools struggle to attract teachers and support, and funding must be targeted at disadvantage and low attainment to break that link."
+      },
+      {
+        "name": "Wide variation in local formula choices",
+        "claim": "Local authorities make very different choices on deprivation values, lump sums, sparsity and primary-secondary ratios, and some route deprivation money through basic funding, so current spending masks real need and cannot simply be averaged."
+      }
+    ],
+    "note": "Diagnosis sentences recur in the stage-one summary and equalities documents, mostly repeating the same unfairness claims and examples such as Barnsley/Hackney."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "A single national formula built on local practice and evidence",
+        "claim": "Funding every school through one consistent national formula, anchored in the average of local authority choices and adjusted using the best available evidence, would give a fair, transparent system in which the same pupil attracts the same funding wherever they live."
+      },
+      {
+        "name": "Greater weighting for additional needs and broader disadvantage",
+        "claim": "Spending on deprivation, low prior attainment and EAL should rise to 18% of the budget, using pupil-level and area-level measures, because prior attainment and disadvantage are strong predictors of outcomes and basic funding currently hides disadvantage funding, including for just-about-managing families."
+      },
+      {
+        "name": "Pupil-led basic funding with a maintained primary-secondary ratio",
+        "claim": "Funding should be mostly pupil-led, with basic rates stepped by key stage and the current 1:1.29 primary-secondary ratio kept, because evidence gives no compelling reason to shift the balance between phases."
+      },
+      {
+        "name": "School-led factors: lower lump sum, sparsity, premises and area costs",
+        "claim": "A lower £110,000 lump sum with extra sparsity funding for small remote schools, historic-spend premises funding, and a hybrid area cost adjustment would cover genuine fixed and local costs while freeing money for pupil-led factors."
+      },
+      {
+        "name": "Floor for stability alongside fairness",
+        "claim": "A minus 3% per-pupil funding floor and minimum funding guarantee are justified as the right balance between fairness and stability, limiting losses for schools funded generously under the old system."
+      }
+    ],
+    "note": "The proposal is a package of separate formula components plus a separate central school services block formula, so the themes are separate measures rather than one argument."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Phased transition: soft formula in 2018-19, hard formula from 2019-20",
+        "claim": "Moving through a soft formula where local authorities still set school budgets and then a hard national formula, with a ring-fenced schools block and limited high-needs flexibility, gives certainty and time to prepare."
+      },
+      {
+        "name": "Gains cap, funding floor and minimum funding guarantee",
+        "claim": "Capping gains at 3% then 2.5% while limiting losses through the floor and MFG, funded by about £200 million above flat cash, lets under-funded schools move to formula quickly while keeping losses manageable."
+      },
+      {
+        "name": "Historic spend interim and later approach for premises, mobility and growth",
+        "claim": "Premises, mobility and growth are allocated on historic spend in 2018-19 because data is not robust enough, with lagged growth and a better mobility indicator considered after rejecting SCAP and ONS forecasts and with further consultation planned."
+      },
+      {
+        "name": "Efficiency support for schools",
+        "claim": "Schools can manage cost pressures of around 8% through guidance, tools, a procurement strategy and the Strategic School Improvement Fund, which the Department chose instead of an invest-to-save fund."
+      },
+      {
+        "name": "Central school services block formula and transition",
+        "claim": "Local authority central services should be funded through a per-pupil and deprivation formula with historic commitments funded at actual cost, and with transition protection limiting reductions to 2.5% per pupil."
+      }
+    ],
+    "note": "Implementation covers several separate delivery mechanisms, including a distinct arrangement for central school services, and the evidence for choosing them is mostly practical reasoning."
+  }
+}

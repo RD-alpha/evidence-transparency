@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Notice and communications strategy",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The ten-year notice and communications plan are commitments and descriptions of what the policy will do, with only Cridland's recommendation (lines 4, 11-12) offered as a view, and no figure, finding or reference showing the approach will work; the only legal point (line 8) is a description of rules and not a constraint on the choice."
+    },
+    {
+      "theme": "Wider support for working and non-working later life",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claims rest on agreement with Cridland and on assertions such as \"The welfare system already provides protection\" with no data or findings, and the 'recent consultation on health and work' is named without any result or method."
+    },
+    {
+      "theme": "Review process and legislation",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Pensions Act 2014 is cited as the review mechanism and the Government Actuary timetables (\"up to one third\" of adult life, 2028-2064) and two-yearly life expectancy projections are explained, but there are no references, and the lines on projection risk give no figures."
+    }
+  ],
+  "reasoning": "All three themes are core, so the section score is their mean. Notice and communications scores 0: the commitment to \"a minimum of ten years' notice\" and the proposed communications channels are descriptions of what the policy will do, and the document admits \"There is no legislative requirement\" for notice. The only supporting reference is that \"John Cridland recognised that good communication will be at the heart\" of the strategy. That is an opinion, with no evidence on whether notice or digital channels change people's planning. Wider support scores 0: it relies on agreement with Cridland, the assertion that \"The welfare system already provides protection\", and a named health and work consultation with no findings or method. Review process and legislation scores 1: it explains how the Pensions Act 2014 requires the Government Actuary's timetables and the independent report. It also explains that the timetables use \"up to one third\" of adult life over 2028 to 2064, and that projections are refreshed every two years. This shows the logic of the route, but it carries no references or links, and the risk that projections change is stated without any figures. The mean is (0+0+1)/3 = 0.33, which rounds to 0. The strongest counter-example is the review theme, which could justify a 1 across the section because the Act and actuarial basis are described. To reach level 1 overall, the notice and support themes would need to cite actual evidence, such as research on how much notice people need or the results of the health and work consultation. To reach level 2, they would also need references and a clear link to the chosen route.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

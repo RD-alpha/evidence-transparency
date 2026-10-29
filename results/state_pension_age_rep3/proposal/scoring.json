@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Linking State Pension age to life expectancy and bringing the rise to 68 forward",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The \u00a374bn, 0.4% of GDP and \u00a3400-per-household figures come with cost-model sourcing (Reference 43, Reference 37, Table A with Reference 1,43) and are linked to the choice of 2037-39, but the '\u00a3250bn vs capping at 66' figure and the 'see Annex' pointer (Reference 17) are weaker, and there is no assessment of the evidence's weaknesses."
+    },
+    {
+      "theme": "Fairness between generations",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 32% proportion is tied to the last 25 years' experience with cited sources (Reference 1, 18, 38, 39, 24, 3) and DWP modelling (Reference 4), and the document acknowledges life expectancy uncertainty and that the next rise will not reach 32%, but it does not assess the evidence base itself, so it stays at level 2."
+    },
+    {
+      "theme": "Pace of change and a universal State Pension age",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The universality argument cites ONS life expectancy by socio-economic group (Reference 40) and Pensions Policy Institute analysis, but the PPI analysis is not referenced, the Cridland reasoning is largely assertion, and the 10-year spacing rests on judgement (Reference 36 only explains the timing)."
+    },
+    {
+      "theme": "Costs, savings and benefits",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Claims such as 0.3% of GDP per year saved, 1% GDP from working a year longer and the 6.3 point employment rise are mostly uncited here (only Reference 33 on employment), and the document admits that tax, NI and working-age benefit effects 'have not been produced'."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Mostly describes the legal framework and the timetables commissioned, with citations to the 2013 White Paper (Reference 22, 23, 35, 44) used for background rather than as grounds for the choice."
+    }
+  ],
+  "reasoning": "Four core themes were weighed. The first, bringing the rise to 68 forward, reaches level 2: the savings are quantified (\"save \u00a374bn by 2045/46\", \"0.4% of GDP in 2039/40\"), the method is explained in Reference 37 (dividing the modelled \u00a311 billion difference by ONS household numbers), the model is described in Reference 43, and the year-by-year Table A is shown. The alternatives of lower pensions or leaving the age unchanged are explicitly rejected on poverty grounds. Fairness between generations also reaches level 2: the 32% benchmark is linked to the last 25 years' experience (Reference 1, 18, 38, 39) and to the Government Actuary's report (Reference 3), and the document concedes that \"the next rise will not bring us to 32%\" and that life expectancy projections are uncertain. Pace of change and universal pension age sits at level 1: it relies on ONS data (Reference 40), but the Pensions Policy Institute analysis is quoted without a reference, and much of the case is argument that \"there is no evidence of regional options being any fairer\". Costs, savings and benefits is level 1: the employment and GDP claims (0.3% and 1% of GDP) are uncited in this theme, and it admits income-tax, NI and benefit effects \"have not been produced\". Mean = (2+2+1+1)/4 = 1.5, which rounds down to 1. The strongest counter-example is that two core themes reach level 2 and the cited modelling is clear; but the document never assesses the strength of that modelling or of the contested claims. To reach level 2 overall it would need to cite the PPI and employment/GDP evidence and publish the omitted tax and benefit effects; to reach level 3 it must assess the evidence's limits.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

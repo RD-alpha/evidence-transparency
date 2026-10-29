@@ -1,0 +1,127 @@
+S0024 But the way in which criminal cases are brought is changing.
+S0025 As society changes, the nature of criminal evidence changes too.
+S0029 Our current payment system does not focus enough on the skilled advocacy that barristers and solicitor advocates demonstrate in the Crown Court.
+S0040 The current AGFS scheme was last subject to major change in 2007 and the Government considers it needs to be modernised.
+S0042 The Government considers the current arrangements are in need of reform.
+S0043 The AGFS relies too heavily on Pages of Prosecution Evidence (PPE), served by the Crown Prosecution Service, as a means of deciding how complex individual cases are - and therefore how much a defence advocate should be paid.
+S0044 The current scheme also relies on the number of witnesses to help determine the fee to be paid.
+S0046 Our justice system is changing, and new forms of evidence are becoming critical features of many criminal cases.
+S0047 The counting of pages, and counting of new forms of electronic evidence, converted to “pages” is no longer the most effective way of assessing how much work an advocate needs to do in an individual case, and therefore how much that advocate should be paid.
+S0075 The current scheme has been in place for around twenty years, and was last subject to significant reform in 2007, following recommendations made by Lord Carter.
+S0080 The Government considers that the AGFS requires reform for a number of reasons.
+S0081 Since the scheme was last reformed, there have been considerable changes to the way criminal cases are run, and the way that evidence in them is served.
+S0082 Modernising reforms such as the Crown Court Digital Case System, and an increase in the use of electronic evidence, are not effectively provided for in the current scheme.
+S0083 As a result of the changing environment, the Government considers that the volume of evidence is no longer necessarily reflective of the amount of work an advocate has to undertake on an individual case.
+S0084 1.5 The Government also considers that the existing arrangements are unnecessarily complicated, for advocates and administrators alike.
+S0085 We understand that it can often be unclear to an advocate what their fee will be at the point of taking on a case.
+S0086 The current scheme can be inflexible, especially when new offences are established.
+S0087 A large miscellaneous class of offences has undermined confidence in the fairness of the current scheme.
+S0091 1.6 Better Case Management (BCM) reforms, being put in place as a result of Sir Brian Leveson’s Review of Efficiency in Criminal Proceedings are also transforming the way our criminal courts operate. ** (Reference: 2)
+S0101 1.9 One of the additional aspirations articulated by the Bar Council in their original proposal was sustainability.
+S0102 In their assessment, career progression is limited for advocates under the current scheme.
+S0103 The current scheme and proposed reforms 1. The existing AGFS uses a series of proxies to categorise the likely complexity of the case, and the fee that should therefore be paid. ** (Reference: 10)
+S0104 These proxies include the number of witnesses and amount of evidence.
+S0105 One of the most important proxies is Pages of Prosecution Evidence (PPE) served.
+S0106 Over the last few years there have been significant changes in the way that evidence is served.
+S0107 Electronic evidence, including video footage, and mobile phone and hard-drive data, is increasingly served.
+S0108 The current payment arrangements, whereby some of this material is “converted” into pages, no longer fully reflects the work required of advocates in the Crown Court.
+S0143 Current Advocates’ Graduated Fee Scheme i. Calculation of fees: The total fee paid to the trial advocate is made up of two components: The graduated fee, and a number of ‘fixed’ fees dependent on the volume (and nature) of the individual hearings attended.
+S0145 The graduated fee is currently made up of four components:
+S0146 Basic fee (based on offence and category of advocate).
+S0147 + Daily attendance fee for each trial day after second day, i.e. from day 3 to day 40 + Uplifts for number of pages of evidence after 50, up to 10,000.
+S0148 + Uplifts for witnesses after first 10.
+S0150 A basic fee which varies dependent on:
+S0151 o the classification of the offence 
+S0152 This is dependent on the nature of the offence (there are eleven categories of case to which offences are allocated).
+S0154 And, the category of the trial advocate (i.e. junior or QC).
+S0155 o The graduated fee also includes “bundled” payments for 
+S0156 Attendance at days 1 and 2 of trial 
+S0157 Attendance at the Plea and Trial Preparation Hearing (PTPH) 
+S0158 Attendance at four Standard Appearances  ** (Reference: 4)
+S0159 Attendance at three conferences and views 
+S0160 50 pages of prosecution evidence  10 prosecution witnesses.
+S0162 These “bundled” payments are paid as part of the graduated fee, regardless of whether they occur in the case or not (i.e. if there are only two standard appearances, the graduated fee still includes payment for four appearances).
+S0164 An additional uplift is paid for attendance, dependent on:
+S0165 o The nature of the offence; o The category of the trial advocate; and o The number of trial days upon which the advocate attends at court.
+S0166 v. An additional uplift is paid for evidence, dependent on:
+S0167 o The category of the trial advocate; and o
+S0168 The number of pages of prosecution evidence (after the first 50, and up to 10,000).
+S0170 An additional uplift is paid for witnesses, dependent on:
+S0171 o The category of the trial advocate; and o
+S0172 The number of prosecution witnesses (after the first 10).
+S0174 Fixed fees are paid for other individual appearances, and for standard appearances (after the first four, which are included in the brief fee).
+S0176 The level of the individual fixed fees are dependent on:
+S0177 o the length of the appearance (i.e. half day or full day), o the nature of the appearance (i.e. type of hearing); and o the category of advocate.
+S0179 There are also other potential payments under the scheme dependent on the nature of the case (i.e. an additional uplift for additional defendants/indictments, special preparation, different attendance fees for days in excess of forty, travel expenses etc.)
+S0180 x. Payment for guilty pleas, and cracked trials are dependent on:
+S0181  when the guilty plea is submitted, or the trial cracks;  the nature of the offence;  the category of the advocate; and  the volume of pages of prosecution evidence (up to 10,000).
+S0183 Currently a guilty plea is paid where the defendant pleads at the Plea and Trial Preparation Hearing (PTPH) or at any time in the first “third” based on time between PTPH and date listed for trial.
+S0184 A cracked trial fee is paid when the defendant pleads in the second or final third of the same period.
+S0186 Following the conclusion of the proceedings, the ‘Trial Advocate’ (i.e. the advocate who undertook the trial itself) will submit a claim for payment to the LAA.
+S0187 This is submitted on paper, or via the ‘Claim for Crown Court Defence’ (CCD) online application.
+S0188 These applications are required to evidence each aspect of the graduated fee highlighted above (including PPE).
+S0189 Bills are assessed via the ‘Crown Court Remuneration’ system (CCR).
+S0192 Current offence categories.
+S0193 Offence category: Description.
+S0194 A: Homicide and related grave offences.
+S0195 B: Offences involving serious violence or damage, and serious drug offences.
+S0196 C: Lesser offences involving violence or damage, and less serious drug offences.
+S0197 D: Sexual offences and offences against children.
+S0198 E: Burglary etc.
+S0199 F: Offences of dishonesty up to £30,000.
+S0200 G: Offences of dishonesty between £30,001- £100,000.
+S0201 H: Miscellaneous other offences.
+S0202 I: Offences against public justice and similar offences.
+S0203 J: Serious sexual offences, offences against children.
+S0204 K: Offences of dishonesty where the value is in excess of £100,000.
+S0291 Currently, the graduated fee is determined in accordance with the following formula: ** (Reference: 6)
+S0292 Current AGFS formula for graduated trial fee G = B + (d x D) + (e x E) + (w x W)
+S0294 G is the amount of the graduated fee; B is the basic fee specified as appropriate to the offence for which the assisted person is tried and the category of trial advocate;
+S0295 d is the number of days or parts of a day on which the advocate attends at court by which the trial exceeds 2 days but does not exceed 40 days; D is the fee payable in respect of daily attendance at court for the number of days by which the trial exceeds 2 days but does not exceed 40 days, as appropriate to the offence for which the assisted person is tried and the category of trial advocate; e is the number of pages of prosecution evidence excluding the first 50, up to a maximum of 10,000; E is the evidence uplift specified as appropriate to the offence for which the assisted person is tried and the category of trial advocate; w is the number of prosecution witnesses excluding the first 10; and W is the witness uplift specified as appropriate to the offence for which the assisted person is tried and the category of trial advocate.
+S0304 The existing graduated fee includes payment for attendance at the Plea and Trial Preparation Hearing (PTPH), attendance at the first two days of trial, attendance at four other standard appearances, attendance at three conferences and views, fifty pages of prosecution evidence, and up to ten witnesses.
+S0306 This fee is paid in all cases that qualify, including those featuring less evidence and fewer trial days, standard appearances, conference and views, and witnesses than the bundle accounts for.
+S0307 Depending on the nature of the case, the advocate will, quite legitimately, undertake more work in some cases, and less work in others, yet be paid the same fee.
+S0308 4.3 Additional payments are made for trial days in excess of two, for other standard appearances in excess of four (i.e. the PTPH and four other standard hearings), for in excess of three conferences and views, PPE in excess of page fifty, and for each witness in excess of the first ten. 4. ** (Reference: 4, 7)
+S0317 The existing position also means that there is considerable cost uncertainty for both the individual advocate and the LAA.
+S0332 Currently the Bar operate a fee sharing protocol, which apportions the bundled fee in cases with multiple hearings and multiple advocates. ** (Reference: 10)
+S0333 Although this protocol is owned by the Bar, and the Government has no role in this, some fees are “depleted” in certain cases when apportioned between the trial advocate and substitute advocates.
+S0427 In the current scheme, the period between the date of the PTPH and the date that the first day of the trial is listed for is used to decide whether a guilty plea fee or cracked trial fee is paid.
+S0428 Cases that plea in the first third of this period receive a guilty plea fee; cases that plea in the second two thirds of this period receive a cracked trial fee.
+S0431 In reality, the Bar and experts in the field have suggested that the trigger point in the existing AGFS, for a guilty plea becoming a crack, is too early.
+S0433 6.3 Currently over 90% of cases crack in the final third. The exact length of the final third will vary depending on the length of the case. ** (Reference: 13)
+S0455 In the current scheme, special preparation can be claimed where a case requires substantially excessive preparation because of a very unusual or novel point of law or factual issue.
+S0456 Alternatively, special preparation can be claimed if the case involves more than 10,000 pages of prosecution evidence.
+S0488 The current scheme pays a fixed fee of £130 per day for a junior, £195 for a leading junior, and £281 for a QC.
+S0492 In the current scheme, these are not remunerated separately (other than where sentencing is deferred).
+S0823 The Advocates’ Graduated Fee Scheme (AGFS) is used to remunerate criminal defence advocates in the Crown Court.
+S0824 The current scheme was last subject to major change in 2007, and the government considers it is in need of reform.
+S0825 The AGFS uses proxies for complexity to determine the appropriate fee, and places a heavy reliance on factors that are increasingly unsuitable in terms of advocacy.
+S0826 The advent of court modernisation reforms such as the Crown Court Digital Case System are changing our justice system for the better and we need to ensure the way we remunerate advocates supports this.
+S0887 The Advocates’ Graduated Fee Scheme (AGFS) is used to remunerate criminal defence advocates in the Crown Court.
+S0888 The current scheme has been in place for around twenty years, and was last subject to significant reform in 2007, following recommendations made by Lord Carter.
+S0890 The current scheme determines fees through a complex formula that is reliant on the advocate type, the offence, the length of trial, the number of pages of prosecution evidence and the number of prosecution witnesses amongst others.
+S0891 This is supplemented through additional discrete fees for other work.
+S0892 It also “bundles” certain hearings into the graduated brief fee, rather than paying for them individually.
+S0893 The bundled fee includes 2 days of trial and 5 standard appearances.
+S0894 Daily attendance fees are paid at a reduced rate between 40 and 60 days.
+S0895 There is heavy reliance on pages of prosecution evidence (PPE), which represents a significant administrative burden on advocates and administrators alike.
+S0896 This is becoming increasingly burdensome, given the movement towards more electronic evidence (with reforms such as the Crown Court Digital Case System), and will only become more so in the future.
+S0897 Under the current scheme the client may make a contribution to their defence costs.
+S0898 The amount that is contributed is based on the case cost and disposable income.
+S0900 The government considers that the AGFS requires reform for a number of reasons.
+S0901 Since the scheme was last reformed, there have been considerable changes to the way criminal cases are run, and the way that evidence in them is served.
+S0902 Due to modernising reforms such as the Crown Court Digital Case System, there has been an increase in the use of electronic evidence.
+S0903 The current payment arrangements, whereby some of this material is “converted” into pages from electronic formats, no longer fully reflects the work required of advocates in the Crown Court.
+S0905 The government also considers that the existing arrangements are unnecessarily complex and complicated for advocates and administrators alike.
+S0906 We understand that it can often be unclear to an advocate what their fee will be at the point of taking on a case, and the current arrangements compound the issue.
+S0907 Indeed, the current scheme can be inflexible and rigid, especially in instances when new offences are established, and they have to be incorporated in the scheme.
+S0908 A large miscellaneous class of offences undermines confidence in the accuracy of payments for new offence types and may not accurately reflect the actual work done by an advocate.
+S0911 Better Case Management (BCM) Reforms, being put in place as a result of Sir Brian Leveson’s Review of Efficiency in Criminal Proceedings, are also transforming the way our criminal courts operate.
+S0912 The volume of overall Crown Court cases, and the distribution of cases between offences, have all changed since the scheme was last refreshed.
+S0983 Table 1 shows that in 2014-15 and 2015-16, around £213m and £226m respectively was spent on the AGFS.
+S0984 There were around 112,900 bills in 2014-15, with a slight decrease in volumes to around 111,000 bills in 2015-16.
+S0985 Table 1: Total volumes and expenditure on AGFS in 2014-15 and 2015-16 AGFS Volumes Expenditure (including VAT)
+S0986 2014 - 15 112,900 £213m 2015 - 16 111,000 £226m Source: Legal aid statistics England and Wales, April to June 2016 25.
+S0987 Table 2 illustrates the majority of providers are self-employed advocates, receiving £175m of expenditure in 2015-16, and employed advocates receive around £50m. In terms of overall AGFS expenditure, self-employed and employed advocates received around 78% and 22% of expenditure in 2015-16 from the AGFS respectively.
+S0988 Table 2: Providers by advocate type 2014-15 and 2015-16 2014-15 2015-16 Expenditure Percentage Expenditure Percentage Self-employed Advocates £162m 76% £175m 78% Employed Advocates £51m 24% £50m 22% Total £213m 100% £225m 100% Note, the total expenditure in Table 2 (£225m) is less than the total in Table 1 (£226m) for 2015-16, because the annual expenditure was updated in the latest publication.
+S0989 The provider statistics are published annually and have not been updated since the quarterly release.

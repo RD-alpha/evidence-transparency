@@ -1,0 +1,140 @@
+{
+  "themes": [
+    {
+      "name": "Multiple routes to compliance for cover fabric testing",
+      "ids": [
+        "S0204",
+        "S0205",
+        "S0206",
+        "S0207",
+        "S0208",
+        "S0209",
+        "S0210",
+        "S0211",
+        "S0212",
+        "S0213",
+        "S0214",
+        "S0215",
+        "S0216",
+        "S0217",
+        "S0218",
+        "S0219",
+        "S0220",
+        "S0221",
+        "S0222",
+        "S0223",
+        "S0224",
+        "S0225",
+        "S0195",
+        "S0196",
+        "S0197",
+        "S0198",
+        "S0199",
+        "S0200",
+        "S0201",
+        "S0202",
+        "S0203"
+      ]
+    },
+    {
+      "name": "Clarifying scope through consultation-tested exclusions",
+      "ids": [
+        "S0148",
+        "S0232",
+        "S0233",
+        "S0234",
+        "S0235",
+        "S0236",
+        "S0237",
+        "S0238",
+        "S0239",
+        "S0240",
+        "S0241",
+        "S0242"
+      ]
+    },
+    {
+      "name": "Strengthened traceability and record-keeping requirements",
+      "ids": [
+        "S0244",
+        "S0245",
+        "S0246",
+        "S0247",
+        "S0248",
+        "S0249",
+        "S0250",
+        "S0251",
+        "S0252",
+        "S0253",
+        "S0343",
+        "S0344",
+        "S0345",
+        "S0346",
+        "S0347",
+        "S0378"
+      ]
+    },
+    {
+      "name": "Extended transition period to limit business disruption",
+      "ids": [
+        "S0179",
+        "S0254",
+        "S0255",
+        "S0256",
+        "S0257",
+        "S0327",
+        "S0328",
+        "S0329",
+        "S0330",
+        "S0331",
+        "S0332",
+        "S0333",
+        "S0334",
+        "S0335",
+        "S0336",
+        "S0337",
+        "S0340",
+        "S0341"
+      ]
+    },
+    {
+      "name": "Cost assumptions underpinning implementation choices remain provisional",
+      "ids": [
+        "S0080",
+        "S0096",
+        "S0269",
+        "S0279",
+        "S0280",
+        "S0356",
+        "S0360",
+        "S0361",
+        "S0368",
+        "S0371",
+        "S0389",
+        "S0423",
+        "S0442",
+        "S0463",
+        "S0520",
+        "S0522"
+      ]
+    },
+    {
+      "name": "Business guidance and support for compliance transition",
+      "ids": [
+        "S0505",
+        "S0506",
+        "S0507",
+        "S0508",
+        "S0509",
+        "S0523"
+      ]
+    },
+    {
+      "name": "Regulatory implementation and enforcement",
+      "ids": [
+        "S0259",
+        "S0540"
+      ]
+    }
+  ]
+}

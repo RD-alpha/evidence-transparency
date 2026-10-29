@@ -1,0 +1,138 @@
+{
+  "themes": [
+    {
+      "name": "Opaque and highly variable tenant fees",
+      "ids": [
+        "S0013",
+        "S0014",
+        "S0015",
+        "S0016",
+        "S0136",
+        "S0142",
+        "S0143",
+        "S0150",
+        "S0151",
+        "S0152",
+        "S0153",
+        "S0154",
+        "S0155",
+        "S0162",
+        "S0163",
+        "S0164",
+        "S0165",
+        "S0167",
+        "S0168",
+        "S0169",
+        "S0193",
+        "S0194",
+        "S0195",
+        "S0196",
+        "S0197",
+        "S0199"
+      ]
+    },
+    {
+      "name": "Tenants' lack of market power over agent selection",
+      "ids": [
+        "S0015",
+        "S0030",
+        "S0031",
+        "S0131",
+        "S0181",
+        "S0182",
+        "S0201",
+        "S0202",
+        "S0205",
+        "S0209",
+        "S0223",
+        "S0224",
+        "S0226",
+        "S0227",
+        "S0230",
+        "S0231",
+        "S0232",
+        "S0233",
+        "S0235",
+        "S0236",
+        "S0238"
+      ]
+    },
+    {
+      "name": "Perverse incentives from short tenancies",
+      "ids": [
+        "S0134",
+        "S0138",
+        "S0145",
+        "S0146",
+        "S0147",
+        "S0148",
+        "S0170",
+        "S0250",
+        "S0251",
+        "S0254",
+        "S0256",
+        "S0257",
+        "S0258"
+      ]
+    },
+    {
+      "name": "Financial harm to tenants",
+      "ids": [
+        "S0150",
+        "S0152",
+        "S0210",
+        "S0265",
+        "S0266",
+        "S0267",
+        "S0268",
+        "S0271",
+        "S0272",
+        "S0273",
+        "S0274",
+        "S0276",
+        "S0277"
+      ]
+    },
+    {
+      "name": "Growth and regulation of the private rental sector",
+      "ids": [
+        "S0006",
+        "S0007"
+      ]
+    },
+    {
+      "name": "Agent misconduct and market failures",
+      "ids": [
+        "S0207",
+        "S0208"
+      ]
+    },
+    {
+      "name": "Tenant confusion about who pays for what",
+      "ids": [
+        "S0201",
+        "S0202",
+        "S0205"
+      ]
+    },
+    {
+      "name": "Landlord fees and their relationship to tenant fees",
+      "ids": [
+        "S0173",
+        "S0174",
+        "S0175",
+        "S0177",
+        "S0178",
+        "S0184",
+        "S0185",
+        "S0186"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": [
+        "S0317"
+      ]
+    }
+  ]
+}

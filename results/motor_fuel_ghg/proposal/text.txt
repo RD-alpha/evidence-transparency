@@ -1,0 +1,639 @@
+S0051 8 Reducing the life cycle emissions of transport fuels can be achieved in a number of ways, such as through substituting renewable fuels and renewable electricity for fossil fuels, and investing in projects aimed at reducing upstream emissions associated with the oil extraction processes.
+S0052 We expect that, collectively, suppliers will meet the majority of the 6% reduction in greenhouse gas emissions through the supply of renewable fuel.
+S0055 To be credible means taking account of the fact that some crop based biofuels can increase greenhouse gas emissions.
+S0056 It also means ensuring accurate reporting of the greenhouse gas emissions of the fossil fuels.
+S0057 After lengthy negotiation, directives implementing Article 7a of the FQD (Directive 2015/652) and addressing indirect land-use change (ILUC) (Directive 2015/1513) provide to some degree a framework for reporting by suppliers of the greenhouse gas intensity of fossil fuels and measures to address ILUC.
+S0061 These proposals will implement measures to support UK emissions reductions required to meet the UK Climate Change Act.
+S0062 11 This consultation proposes amendments to the UK Motor Fuel (Road Vehicle and Mobile Machinery) Greenhouse Gas Emissions Reporting Regulations 2012 (the GHG Reporting Regulations).
+S0063 We are proposing three key sets of changes to the GHG Reporting Regulations which are necessary to meet both the 6% greenhouse gas reduction target on suppliers, and new reporting requirements on the greenhouse gas intensity of fossil fuels agreed last year.
+S0065 • A 6% greenhouse gas emissions reduction obligation on suppliers, to be met through acquiring GHG credits under a certificate trading scheme similar to the RTFO.
+S0066 • Rewards for greenhouse gas emissions savings in the form of GHG credits.
+S0067 This will include savings from upstream emission reductions projects, and for switching to fuels with lower greenhouse gas emissions.
+S0068 • Improvements in the transparency of the UK oil supply chain and the greenhouse gas intensity of fuel imported into the UK.
+S0069 This will be achieved by suppliers reporting, where this information is available to them, on the source of the crude used to make their fuels and on the country and name of the processing facility where the fuel was refined.
+S0070 Simplified reporting requirements for small and medium-sized enterprises (SMEs) will be also introduced.
+S0071 12 This consultation examines six different policy options to introduce a greenhouse gas emissions reduction obligation to support UK fuel suppliers in meeting their 6% GHG reduction targeting 2020.
+S0072 The options differ based on the level of buy-out price, estimated between a minimum of £7/tCO2 and a maximum of £146/tCO2 - where 'tCO2' means 'tonnes of carbon dioxide' - and whether a greenhouse gas obligation is set only in 2020 or over three years to 2020.
+S0073 Setting an obligation of three years would mean there would be a gradual incremental greenhouse obligation, or target, for 2018, 2019 and 2020.
+S0074 13 The Government's preferred option sets a mid-range buy-out price (£74/tCO2) over a three year implementation which is intended to help industry prepare and encourage investment in lower carbon fuels.
+S0077 • Delivering GHG savings in transport and non-road mobile machinery (NRMM) by introducing a greenhouse gas emissions reduction obligation on fuel suppliers.
+S0078 • Setting gradually increasing GHG emissions reduction targets of 2% for 2018 and 4% on 2019, in order to deliver GHG savings of 6% by 2020.
+S0079 • Providing flexibility to suppliers in meeting their GHG obligation through a system of tradeable GHG credits.
+S0080 • Supporting investments in reducing upstream emissions from crude extraction by awarding GHG credits.
+S0083 A proposal to credit greenhouse gas savings from the use of electricity in electric vehicles.
+S0084 • Protection for consumers and end users of fuel from increased costs through a buy-out mechanism for the GHG obligation.
+S0085 The proposed buy-out price is £74/tCO2 which caps the additional cost of meeting the 6% GHG target.
+S0086 • Ensuring compliance of suppliers with the new requirements through dissuasive measures including modifications to existing civil penalty powers and a system for revoking GHG credits which should not have been issued, similar to that in the RTFO scheme.
+S0087 • Encouraging renewable fuels used in aviation and renewable fuels from non- biological origin, including hydrogen, by making them eligible for the award of GHG credits.
+S0088 • Improving transparency of the fossil fuel supply chain and providing better information on the GHG emissions of UK fuels by collecting information, where available, on ‘origin’ information (where ‘origin’ refers to the feedstock trade name of the crude oil) and the place of purchase of fossil fuels.
+S0102 19 It is clear, therefore, that low carbon liquid fuels are likely to be required to support the decarbonisation of transport alongside a wide range of other measures, including electrification and the promotion of sustainable travel such as cycling and public transport.
+S0104 Achieving this requires, in part, accurate reporting of their greenhouse gas emissions.
+S0110 21 Reducing the life cycle emissions of transport fuels can be achieved in a number of ways, such as through substituting renewable fuels and renewable electricity for fossil fuels, and investing in projects aimed at reducing upstream emissions associated with the oil extraction processes.
+S0111 We expect collectively suppliers will meet the majority of the 6% reduction in greenhouse gas emissions through the supply of renewable fuel.
+S0113 In addition to the emissions savings provided by renewable fuels, there is potential for fossil fuels to contribute significant reductions.
+S0114 One of the ways they can do this is to reduce the emissions generated upstream of the refinery or processing plant where the final products, such as petrol and diesel, are produced.
+S0115 Most (but not all) upstream emissions arise from the flaring and venting of associated petroleum gases (APG), which are generated during oil extraction.
+S0117 The flaring and venting of APG is estimated to result in GHG emissions of around 400 MtCO2e per year - where 'MtCO2e' means 'mega tons of carbon dioxide equivalent'.
+S0118 This is the same as the annual emissions from 125 medium sized coal plants in the USA, or the total emissions of France or Italy. By contrast, as set out in the cost benefit analysis, suppliers in the UK are likely to need to save around 2. MtCO2e in 2020 beyond that delivered by biofuels. ** (Reference: 5)
+S0119 The cheapest option is likely to be through delivering UERs (see figure 2) and the scale of what is needed is only a small fraction of the total global UER potential.
+S0120 UERs therefore offer significant emissions abatement potential.
+S0121 24 Suppliers have the flexibility to make the required GHG savings in a number of ways.
+S0122 However, reducing upstream emissions is likely to be the most cost-effective way of meeting the target.
+S0123 Research suggests that the marginal cost of reducing these emissions ranges from €0-200 per tonne of carbon, lower than other potential sources, which also either deliver relatively low volumes of emissions savings, such as electricity, or are already making a significant contribution, such as biofuels.
+S0124 Moreover, increasing the supply of biofuels beyond the proposed level risks increasing crop biofuel use which could lead to increased emissions due to indirect land-use change.
+S0125 This is addressed in the parallel consultation on proposals to amend the Renewable Transport Fuel Obligations.
+S0126 Figure 2: Marginal abatement costs and potential ** (Reference: 6)
+S0127 25 A long-term, joined-up strategy is required to ensure that the UK captures the significant industrial opportunity presented by the world-wide shift to low-carbon transportation.
+S0128 A stable, sustainable policy environment is an essential enabler of investment in renewable, low carbon fuel production infrastructure, and will be crucial if we are to position ourselves at the forefront of a lucrative global industry.
+S0130 The domestic market for low carbon fuels has been created by the Renewable Transport Fuel Obligations.
+S0131 Since the Obligation was created in 2008, the UK has benefitted from over £1 billion of private investment in biodiesel and bioethanol facilities.
+S0132 27 Increases in the overall target set under the RTFO, as well as a specific sub-target for fuels of most strategic importance, will create long-term certainty for industry, helping stimulate further investment in advanced production technologies, and encouraging the utilisation of existing capacity.
+S0133 The increase in overall supply is reinforced by the creation of a greenhouse gas savings target to reward the supply of those fuels delivering the greatest greenhouse gas savings.
+S0135 The industrial benefits of a domestic industry are already being felt.
+S0136 For instance, we are now producing over a quarter of a billion pounds worth of low-carbon, primarily waste-derived, biodiesel in the UK each year, reducing our reliance on imported fuel and creating jobs.
+S0137 In addition, the increased demand for waste feedstocks created by the RTFO has led to business and employment opportunities, such as in the collection of used cooking oil from restaurants.
+S0139 This demand has also brought forward new sources of wastes and new technologies to help convert more challenging materials, such as the 'fat-bergs' which are clogging up our sewer and waste water treatment network, into valuable transport fuel.
+S0140 Indeed, the new £75 million Argent facility at Stanlow will be capable of converting these 'fat-bergs' into biodiesel.
+S0141 30 Other benefits include reducing reliance on imports of animal feed, particular soy- meal: the majority of the estimated 333 million litres of bioethanol produced in the UK uses animal feed-wheat and produces an important animal protein feed. ** (Reference: 7)
+S0142 31 Looking ahead, the global imperative to radically reduce the carbon impacts of transport, particularly air travel, presents a window of opportunity for the UK.
+S0143 With our world-class research and engineering capacity we are well-positioned to claim a significant portion of a global advanced fuels market that could be worth up to £15 billion in 2030.
+S0144 32 Exploiting our competitive advantage to establish a successful, world-leading domestic industry would boost growth, create highly skilled jobs, and see UK technology and intellectual property exported around the world.
+S0158 In order to implement Directive 2015/65 and the ILUC Directive we are proposing to amend the Motor Fuel (Road Vehicle and Mobile Machinery) Greenhouse Gas Emissions Reporting Regulations 2012 (the GHG Reporting Regulations). ** (Reference: 2)
+S0161 35 The GHG Reporting Regulations came into force in January 2013 and apply to parties supplying over 450,000 litres of liquid or kilograms of gaseous fuel used for road transport and non-road mobile machinery.
+S0162 36 They were introduced as a means to enable both the Government and fuel suppliers to monitor progress towards reducing the life cycle greenhouse gas intensity of fuels for use in road transport and non-road mobile machinery, as mandated by the FQD.
+S0163 37 To this end, the GHG Reporting Regulations currently require fuel suppliers to report the amount and type of fuel they supply and its greenhouse gas intensity.
+S0164 38 The RTFO scheme started on 15 April 2008, as a means to support the supply of sustainable biofuels in the UK, and to meet our EU obligations to increase the use of renewable energy in transport.
+S0165 It is the mechanism through which the transport elements of the RED have been implemented in the UK.
+S0167 The FQD and the RED contain the same mandatory sustainability criteria for biofuels, including the requirements for independent verification.
+S0168 These have been implemented in the RTFO.
+S0170 41 For suppliers obligated under the RTFO the majority of information required under the GHG Reporting Regulations is the same as that reported under the RTFO, and, in general, suppliers can use the information reported under the RTFO to meet the requirements of the GHG Reporting Regulations.
+S0171 The information common to both schemes includes the amount of fuel, the fuel type, the greenhouse gas intensity of the renewable fuel, whether the renewable fuels meet the sustainability criteria, and the additional sustainability information in respect of each type of biofuel.
+S0172 The RTFO and GHG Reporting schemes apply to the same suppliers with the exception of fossil gas suppliers who are not covered by the RTFO.
+S0173 The fact that the RTFO and GHG Reporting schemes are designed to operate in parallel, and are jointly administered, means that the burden on suppliers in terms of reporting and verifying information is minimised.
+S0174 42 In developing the proposals outlined in this consultation, the Department has engaged extensively with a broad range of stakeholders using an open and inclusive approach to policy development.
+S0175 In 2014 the Transport Energy Taskforce **(Link: 11) was formed by the Department and the Low Carbon Vehicle Partnership.
+S0176 It comprised representatives from fuel suppliers, vehicle manufacturers, motoring organisations, non-governmental organisations, farming and independent experts.
+S0177 43 The Taskforce considered a range of policy objectives including ensuring the sustainability of renewable fuels, the importance of long term certainty for industry and the needs of consumers.
+S0178 We agree with its assessment that fossil fuels will remain dominant in transport energy to 2030 and beyond.
+S0179 We also agree that sustainable biofuel is crucial to meeting our carbon reduction commitments.
+S0182 44 A long term, joined up strategy is required to provide a stable, sustainable policy environment to support investment in renewable low carbon fuel production and supply.
+S0183 This will ensure that the UK benefits from the industrial opportunities available from the decarbonisation of transport and fulfils our climate change commitments.
+S0184 45 The Motor Fuel Greenhouse Gas Emissions Reporting Regulations complements the Renewable Transport Fuel Obligations Order, which is the UK’s primary mechanism for increasing the supply and sustainability of renewable transport fuels.
+S0185 46 While increasing the volume of renewable fuels used in the UK is essential, we must also ensure that UK policy promotes those renewable fuels that offer genuine greenhouse gas emissions savings.
+S0186 This goal will be supported by the creation of a mechanism to reward those who supply transport fuels with lower greenhouse gas intensities.
+S0188 This mechanism will provide a cost effective tool to enable us to realise savings in GHG emissions from:
+S0189 • the extraction of crude oil, which will remain the dominant source of transport fuel to 2030 and beyond;
+S0190 • the supply of renewable electricity to electric vehicles, to support the Government's goal that all new cars and vans are electric from 2040;
+S0191 • suppliers sourcing better GHG performing biofuels including wastes and/or investing in efforts to improve GHG savings such as efficient processing technologies will receive the most reward; and • the development of advanced renewable fuels including those used for aviation, which cannot easily be electrified.
+S0193 We are proposing three key sets of changes to the GHG Reporting Regulations which are necessary to meet both the 6% greenhouse gas reduction target on suppliers in Article 7a of the amended FQD, and the new reporting requirements on the greenhouse gas intensity of fossil fuels agreed last year.
+S0195 • A 6% greenhouse gas emissions reduction obligation on suppliers, to be met through acquiring GHG credits under a certificate trading scheme similar to the RTFO, with a buy-out mechanism to act as a cap on pump price impact;
+S0196 • Rewards for greenhouse gas emissions savings in the form of GHG credits.
+S0197 This will include savings from upstream emission reductions projects, and for switching to fuels with lower greenhouse gas emissions;
+S0198 • Improvements in the transparency of the UK oil supply chain and the greenhouse gas intensity of fuel imported into the UK.
+S0199 This will be achieved by suppliers reporting, where this information is available to them, on the source of the crude used to make their fuels and on the country and name of the processing facility where the fuel was refined.
+S0200 Simplified reporting requirements for small and medium-sized enterprises (SMEs) will also be introduced.
+S0201 49 This consultation examines six different policy options to introduce a greenhouse gas emissions reduction obligation to support UK fuel suppliers in meeting their 6% GHG reduction target in 2020.
+S0202 As illustrated in table 1 below the options differ based on the level of buy-out price, and whether a greenhouse gas obligation is set only in 2020 or over three years to 2020.
+S0203 Setting an obligation for three years would mean there would be a gradual incremental greenhouse obligation, or target, for 2018, 2019 and 2020.
+S0204 50 The Government’s preferred option is 2b, which would set a mid-range buy-out price over a three year implementation intended to help industry prepare and encourage investment in lower carbon fuels.
+S0206 To secure reductions in emissions of greenhouse gases from transport fuels we propose to implement a mechanism that rewards the supply of fuels with GHG intensities lower than the 2020 target level of 88.45 gCO2e/MJ - where 'gCO2e/MJ' means 'grams of carbon dioxide equivalent per megajoule'.
+S0207 Suppliers who supply fuels with a GHG intensity above the target level will incur an obligation, while those supplying fuel with an intensity below that level will receive credits.
+S0208 52 The GHG credits can be traded with those suppliers that need them to meet their obligation – providing a reward for those that have made investments in sourcing the best low carbon fuels whilst providing maximum flexibility and cost effectiveness for suppliers in meeting their obligation.
+S0211 While the increased supply of biofuels is expected to meet the majority of the 6% GHG reduction target, the most cost effective way of meeting the remaining target is to reduce the emissions that result from the extraction of crude oil, such as the venting and flaring of gaseous byproducts.
+S0212 Supporting the uptake of electric vehicles 55 Increasing the uptake of electric vehicles is a key element of the Government’s strategy to reduce the environmental impact of transport.
+S0213 We propose to allow electricity suppliers to claim credits for the electricity used to charge electric vehicles.
+S0214 Supporting the decarbonisation of aviation and freight 56 Transport modes such as aviation and freight cannot easily be electrified and will require liquid fuels over the long term.
+S0215 To support the production and supply of renewable and advanced fuels that the UK needs over the long term we propose to make a number of fuels eligible for reward under the GHG scheme.
+S0216 We propose to allow suppliers to claim credits for renewable aviation fuel, and classify biodiesel made from hydrotreated vegetable oil as 100% renewable to align its treatment with
+S0217 1a: buy-out price (nominal prices): £7/tCO 2; implementation period: 1 year; max pump price impact in 2020 (undiscounted, 2015 prices): 0.03 ppl; max policy cost (discounted, 2015 prices): £12m.
+S0218 1b: buy-out price (nominal prices): £7/tCO 2; implementation period: 3 years; max pump price impact in 2020 (undiscounted, 2015 prices): 0.03 ppl; max policy cost (discounted, 2015 prices): £13m.
+S0219 2a: buy-out price (nominal prices): £74/tCO 2; implementation period: 1 year; max pump price impact in 2020 (undiscounted, 2015 prices): 0.42 ppl; max policy cost (discounted, 2015 prices): £148m.
+S0220 2b: buy-out price (nominal prices): £74/tCO 2; implementation period: 3 years; max pump price impact in 2020 (undiscounted, 2015 prices): 0.42 ppl; max policy cost (discounted, 2015 prices): £166m.
+S0221 3a: buy-out price (nominal prices): £146/tCO 2; implementation period: 1 year; max pump price impact in 2020 (undiscounted, 2015 prices): 0.84 ppl; max policy cost (discounted, 2015 prices): £293m.
+S0222 3b: buy-out price (nominal prices): £146/tCO 2; implementation period: 3 years; max pump price impact in 2020 (undiscounted, 2015 prices): 0.84 ppl; max policy cost (discounted, 2015 prices): £327m.
+S0223 other forms of biodiesel and how it is treated under the RTFO.
+S0224 Promoting advanced renewable fuels 57 To support proposals to update the RTFO to reward the supply of advanced fuels – with the potential for significant GHG savings – we propose to allow suppliers to claim GHG credits for them as well.
+S0225 Fuels such as renewable hydrogen and non- biological renewable fuels are at an early stage and need support to bring to market.
+S0227 As the source and methods of crude oil extraction vary widely and have an impact on their GHG emissions, greater clarity about these will support measures to understand and reduce these emissions.
+S0228 We propose to require suppliers to report, where available, the origin of the crude oil they use by providing the source of the crude oil, and the place of purchase.
+S0229 Reducing burdens 59 The GHG Reporting Regulations and the RTFO are designed as complementary measures which operate in parallel.
+S0230 Data reported under the RTFO is also used for the GHG Reporting Regulations (where fuels are covered by both legislation) meaning data on fuel supply and volumes, and biofuel sustainability need only be reported and verified once.
+S0231 This is intended to minimise the administrative burden and cost to suppliers.
+S0232 60 With the creation of a GHG obligation and tradeable certificates, the importance of this sharing of data has increased, and further harmonisation of the two schemes is required to ensure suppliers are not unduly burdened and the scheme operates effectively.
+S0233 In both this consultation and the one on the RTFO we propose to make changes to the reporting deadlines and align them along a calendar year cycle.
+S0234 This will aid suppliers by ensuring the two schemes work effectively in tandem and that information reported can be used for the same period under both schemes.
+S0235 61 The RTFO was introduced to support the supply of sustainable biofuels in the UK.
+S0236 The objectives of the RTFO are to increase the supply of biofuel with the aim of reducing transport greenhouse gas emissions and demonstrating compliance with targets for renewable energy including UK Carbon Budgets.
+S0246 64 As mentioned above, whilst the policy proposals outlined in this consultation will fulfil current EU requirements, the underlying policy driver - climate change - is relevant to the UK at domestic, EU and international level.
+S0247 The measures outlined will not just help transport meet its share of the Carbon Budget reductions - they also offer UK industry the long term certainty it needs to invest and be in a position to take advantage of the growing global advanced fuels market.
+S0248 Leaving the EU is therefore not expected to have a material effect on the direction of the policy outlined in this consultation.
+S0336 This would limit the maximum impact of the GHG targets on 2020 pump prices to 0.42ppl (2015 prices).
+S0391 1.1 We are proposing to implement a 6% greenhouse gas savings target to decarbonise transport and meet the requirements of the amended fuel quality directive.
+S0392 We propose to do so by using a mechanism which is similar in nature to the Renewable Transport Fuel Obligations Order and which will operate in parallel to it.
+S0394 • An obligation on fuel suppliers, which acts to reduce the overall greenhouse gas emissions of the fuels they supply.
+S0395 • Rewards for low carbon fuels i.e. the issue of certificates, or ‘GHG credits’, which will have a cash value determined by the market.
+S0396 • Allowing these GHG credits to be traded to provide flexibility for suppliers and enable the obligation to be met cost effectively.
+S0397 • A process for measuring and verifying greenhouse gas savings claimed, and therefore the amount of GHG credits earnt.
+S0398 • Measures to minimise any burden on small and medium sized enterprises.
+S0399 • An option for suppliers to buy-out of their GHG obligation which would act as a consumer protection mechanism should the costs and impacts of accumulating GHG credits be unsustainable.
+S0401 1.3 The above features are all similar to those of the RTFO.
+S0402 The key difference is that certificates will be issued on the basis of greenhouse gas savings for fuel or energy supplied, as opposed to volumes of renewable fuel supplied.
+S0403 Under the greenhouse gas saving mechanism, these certificates, known as GHG credits, may be earned for switching to lower carbon fossil fuels, supplying biofuels and other renewable fuels, securing reductions in upstream emissions (chapter 2) and for electricity used in transport (chapter 3).
+S0404 A GHG reduction target is proposed to be applied to fuel suppliers.
+S0405 This is intended to deliver a reduction of 6% in the average GHG intensity of transport fuels in the UK by 2020.
+S0406 We are also proposing to introduce reduction targets of 2% for 2018 and 4% for 2019 to allow industry time to adjust to the new system before the higher target is applied.
+S0407 These reductions will contribute to the decarbonisation of transport and meet the requirements of the FQD, as amended.
+S0408 1.4 In 2012, the UK implemented the reporting aspects of the FQD by creating the GHG Reporting Regulations.
+S0409 At this time, a GHG reduction target was not set because the method for calculating fossil fuel carbon intensities and the way in which ILUC would be addressed were still the subject of negotiations at EU level.
+S0415 1.6 We propose to amend the GHG Reporting Regulations to set a GHG reduction obligation on all fuel suppliers which fall within the scope of the FQD.
+S0416 The target will be to achieve a minimum 6% reduction in average GHG intensity in 2020 compared to the 2010 baseline value.
+S0420 1.9 It is anticipated that over the scheme as a whole biofuels will deliver around three quarters (7. MtCO2e) of the GHG savings needed in 2020. ** (Reference: 9)
+S0421 These biofuels will be delivered through increasing the obligation level for supply of renewable fuels under the Renewable Transport Fuel Obligations Order, as set out in the parallel consultation.
+S0422 1.10 It is envisaged that the bulk of the remaining GHG reductions required will be delivered through upstream emission reductions (see chapter 2).
+S0423 Setting the greenhouse gas target level 1.11 Although the FQD 7a implementing measure gives flexibility for a savings target of up to 10% we are not proposing a target at this level as this might incentivise an increased supply of crop derived biodiesel.
+S0424 Risks associated with this include increases in carbon emissions from ILUC and increases in food and fuel prices.
+S0425 There are also significant uncertainties about the methods of delivering savings other than through renewable fuels.
+S0426 We therefore propose to set the target on fuel suppliers in the UK at the minimum 6% value.
+S0427 1.12 We are not proposing to impose GHG reduction targets beyond 2020 at this time.
+S0428 We are consulting separately on extending support provided for renewable transport fuels through the RTFO to 2030.
+S0429 These proposals to amend the RTFO, combined with work underway through the Department’s Advanced Biofuel Demonstration Competition, will encourage the supply in the UK of renewable fuels which deliver high greenhouse gas emissions savings whilst managing the risk of negative indirect impacts.
+S0434 In order to help prepare industry to deliver the 6% target in 2020, we also propose to introduce binding interim GHG reduction targets of 2% in 2018 and 4% in 2019.
+S0436 Table 2: Proposed GHG obligation levels 1. Analysis suggests that a 2% target can be met through the supply of renewable fuels that we are proposing will be required under the RTFO. ** (Reference: 12)
+S0438 1.15 A 4% reduction in GHG intensity will be slightly above that which would be expected from the fuels delivered by the RTFO in the absence of this measure (see chart 2 in the cost benefit analysis).
+S0439 This might be achieved through supplying renewable fuels with higher GHG savings, supplying electricity to electric vehicles, increasing supply of low carbon fossil fuels and/or delivering upstream emission reductions.
+S0440 There is scope for improvements in the carbon intensity of the renewable fuels delivered by the RTFO through switching to lower carbon feedstocks, or greater use of actual rather than default carbon intensities, for example, through improvements in production and processing.
+S0441 Given this, a 4% target in 2019 does not mean that more biofuels than the RTFO requires will need to be delivered, although in practice fuel suppliers will be free to determine how to meet their obligations.
+S0443 1.17 It is expected that putting in place a GHG obligation target in 2018 and 2019, in addition to 2020, would enable the Government to better assess the merits of the mechanism for potential extension beyond 2020, for example as a cost effective means to meet future Carbon Budgets.
+S0444 This will also provide greater certainty to industry and consumers that the greenhouse gas emissions reduction targets will be met in a managed gradual way.
+S0456 Other options considered 1. Options for using one scheme alone to deliver both the renewable energy target (as set out in the RED) and the GHG target (as set out in the amended FQD) were considered. ** (Reference: 18)
+S0457 However, it was determined that this had significant risks of being unsuccessful.
+S0458 For example, setting a GHG target could not guarantee the renewable energy target would be met, and setting a volume or energy target could not guarantee the GHG target would be met.
+S0459 1.21 The initial options were discussed with stakeholders during meetings held in September 2015, the material which was discussed contains further details on the options, and can be found on our website.
+S0461 Proposal for a new greenhouse gas savings scheme 1. It was concluded that it would be preferable to run two systems that work together and in parallel, keeping as much in common as possible. ** (Reference: 20)
+S0462 Therefore, the proposal set out in this document is to implement a GHG obligation and a mechanism for its delivery which will work in parallel with the RTFO, and which will be designed to minimise any additional administrative burden on fuel suppliers.
+S0463 This trading mechanism is intended to encourage reductions in greenhouse gas emissions as the best performing fuels receive the greatest reward.
+S0464 It also provides flexibility for suppliers in meeting the obligation and means the target can be met cost effectively.
+S0466 The RTFO places an obligation on fuel suppliers to ensure that a specified amount of renewable transport fuel is supplied.
+S0467 This is demonstrated at the end of each obligation period by the redemption of renewable transport fuel certificates (RTFCs).
+S0468 The RTFO also includes a mechanism whereby suppliers can buy-out of their obligation, rather than meet it through redeeming RTFCs.
+S0469 The RTFO creates a market for renewable transport fuel through the trade in RTFCs and ensures that, should the cost of these be too high, the consumer is protected through a buy-out option.
+S0470 1.24 The GHG mechanism is proposed to operate in a similar way to the RTFO, except that it gives reward for GHG savings made rather than for volume of renewable fuels supplied.
+S0471 Both systems will have an obligation which can be met using tradeable certificates or through a buy-out option.
+S0488 It is proposed that the GHG obligation will represent the amount of CO2e which has been emitted above the target level (88.45 gCO2e/MJ).
+S0489 All fuels with a GHG intensity above this will therefore be subject to an obligation.
+S0490 For example, this includes diesel, petrol, unsustainable renewable fuels where the fossil fuel equivalent is above the target level, and compressed hydrogen used in a fuel cell derived from coal.
+S0491 All fuels with a GHG intensity below this will be rewarded with GHG credits.
+S0492 1.30 The GHG credit is proposed to represent an amount of CO2e saved (e.g. one kilogram).
+S0493 One GHG credit will be required to offset each unit of obligation incurred, and may be earned in one of the following ways:
+S0494 • By supplying sustainable renewable fuels (to note that all will have a GHG intensity below the target level);
+S0495 • By supplying fossil fuels which have a GHG intensity below the target level, such as liquid petroleum gas (LPG) or compressed natural gas (CNG);
+S0496 • By reporting applicable upstream emission reductions (UERs) – see chapter 2 for detail;
+S0497 • For electricity used in road transport – see chapter 3 for detail.
+S0498 1.31 This means that companies which supply only diesel and petrol will incur an obligation and will need to acquire GHG credits to meet their obligation.
+S0499 Those which supply only sustainable renewable fuels will not incur an obligation and will be able to sell the GHG credits earned.
+S0503 1.33 As credits will be rewarded on the basis of greenhouse gas savings made, we do not propose to double reward renewable fuels made from waste feedstocks.
+S0504 The development fuels sub-target and the limit on crop based biofuels are all proposed for implementation in the RTFO and it is proposed that they will not apply to the GHG mechanism.
+S0530 In 2010, the flaring of natural gas was equivalent to the annual emissions from 125 medium-sized (63 gigawatt in total) coal plants in the USA (over 400 million metric tonnes of CO2e emissions per year).
+S0532 There is significant potential for reducing greenhouse gas emissions from upstream processes related to crude extraction and other processes before the crude is refined.
+S0533 These may offer a cost-effective means of delivering greenhouse gas reductions in transport and meeting the proposed 6% GHG reduction target.
+S0536 We intend to use a system which should incentivise UERs, and in sufficient quantities to allow fuel suppliers to make up the estimated one and a half percentage points needed to deliver the 6% GHG target in the FQD alongside renewable fuels supplied under the proposed revisions to the RTFO.
+S0537 2.1 As set out in chapter 1, in reducing the GHG intensity of their fuels, fuel suppliers can meet the 6% reduction target in a number of ways, including increasing the supply of renewable fuels, improving GHG savings from renewable fuels, switching to low carbon fossil fuels or electricity, and purchasing 'credits' from projects which reduce GHG emissions from fossil oil extraction processes, known as upstream emission reductions (UERs).
+S0538 2.2 Whilst the use of natural gas, hydrogen and electricity has a role to play in contributing to the 6% GHG reduction target, we estimate they will play a limited role in GHG abatement in 2020, due to technical and infrastructure-related barriers.
+S0539 2.3 As set out above, in the UK we anticipate that biofuels supplied under the RTFO will deliver around 4.5% GHG savings.
+S0540 It is up to suppliers how they meet their 6% GHG reduction target, and whilst there is no requirement to use UERs we anticipate them to be a cost effective solution to delivering much of the remaining 1.5% GHG savings needed.
+S0541 We anticipate that suppliers in most other Member States will also need a similar contribution from UERs.
+S0542 2.4 Upstream emissions are defined as: “all greenhouse gas emissions occurring prior to the raw material entering a refinery or a processing plant where the fuel, as referred to in Annex 1, was produced”. 2. Most (though not all) upstream emissions arise from the flaring and venting of associated petroleum gas (APG) produced during oil extraction. ** (Reference: 5, 10)
+S0543 This typically results from circumstances where it is not economically attractive to capture the gas for other uses.
+S0544 A typical UER project could therefore be one that results in a reduction of APG flaring.
+S0545 This could represent an economic opportunity: the UERs generated would be eligible for crediting, and gas which is captured and successfully brought to market can provide an additional revenue stream.
+S0546 2.6 Analysis undertaken for the European Commission suggests that the flaring and venting of APG is estimated to result in GHG emissions, globally, of around 400 MtCO2e per year.
+S0547 By contrast, as set out in the cost benefit analysis, suppliers in the need to deliver 10. Mt of GHG savings in 2020 to deliver the 6% GHG reduction target which is a small fraction of the total potential from UERs. ** (Reference: 4)
+S0548 Although what is likely to be deliverable through a UER scheme may be considerably lower, we consider nevertheless that a large pool of potential emissions reductions is available.
+S0549 2.7 The use of UERs therefore represents a GHG offsetting mechanism.
+S0550 One of the most well-known GHG offsetting systems globally is the Clean Development Mechanism (CDM) under the United Nations' Kyoto Protocol (whereby a country with an emission-reduction or emission-limitation commitment under the Kyoto Protocol may implement emission-reduction projects in developing countries.
+S0551 Such projects can earn saleable certified emission reduction (CER) credits, each equivalent to one tonne of CO2, which can be counted towards meeting Kyoto targets.
+S0553 2.8 Whilst some CDM projects are projects to abate emissions from oil production, we estimate that there are insufficient numbers of this type of project accredited under the CDM to supply UERs.
+S0554 Further, using credits generated from CDM projects for the FQD target would amount to double-claiming and this must be avoided.
+S0555 A separate mechanism for the FQD is therefore required.
+S0602 The Clean Development Mechanism and Joint Implementation Background Countries with commitments under the Kyoto Protocol to limit or reduce greenhouse gas emissions must meet their targets primarily through national measures.
+S0603 However, as an additional means of meeting these targets, the Kyoto Protocol introduced three market-based mechanisms, creating what is now known as the 'carbon market.'
+S0604 The mechanisms comprise a) the Clean Development Mechanism (CDM); b) Joint Implementation (JI); and c) Emissions Trading.
+S0605 CDM and JI are project-based mechanisms which feed the carbon market.
+S0606 The CDM involves investment in emission reduction or removal enhancement projects in developing countries that contribute to their sustainable development.
+S0607 JI enables developed countries to carry out emission reduction or removal enhancement projects in other developed countries.
+S0608 How the CDM and JI work The CDM allows emission-reduction projects in developing countries to earn certified emission reduction (CER) credits, each equivalent to one tonne of CO2.
+S0609 CERs can be traded and sold, and used by industrialized countries to meet a part of their emission reduction targets.
+S0610 The mechanism stimulates sustainable development and emission reductions, while giving industrialized countries some flexibility in how they meet their emission reduction limitation targets.
+S0611 CDM projects are subject to CDM methodologies, as a way of ensuring that projects meet the required project, validation and verification standards.
+S0612 The CDM methodologies draw on International Standards including ISOs 14064, 14065 and 14066.
+S0613 Under Joint Implementation, countries with commitments under the Kyoto Protocol are eligible to transfer and/or acquire emission reduction units (ERUs) and use them to meet part of their emission reduction target.
+S0614 JI projects are subject to the JI guidelines, which include eligibility requirements and criteria for baseline setting and monitoring.
+S0626 The preferred policy option to deliver the requirements of the FQD (option 2b) set out in the accompanying cost benefit analysis runs from 2018 to 2020 and has a buy-out price of £74/tonne CO2 (which is based on the 2020 'non-traded sector' central carbon value). ** (Reference: 14)
+S0627 At this level, the buy-out price is thought to be sufficient to support a wide range of FQD compliance measures including existing CDM- approved UER projects, existing non-CDM-approved UER projects, new UER projects, alternative fuels and improved biofuel GHG savings.
+S0628 We estimate the maximum potential cost associated with this option to be £170m (2015 prices) in 2020 which equates to an additional 0.42 ppl (including VAT, 2015 prices) on the pump price.
+S0629 In reality, the cost is likely to be lower as fuel suppliers are expected to source GHG credits at a cost lower than the buy-out price.
+S0630 2.18 We believe that this proposal presents the most balanced approach, because a £74/tCO2 buy-out price gives fuel suppliers access to a wide range of GHG saving options, places moderate costs on suppliers and does not encourage the need for additional biofuel consumption.
+S0631 Setting the buy-out price in line with the 'non- traded' carbon value should align the incentives provided through this mechanism with wider Government climate change policy.
+S0632 2.19 In addition, this option should allow us to build towards longer-term stability post- 2020.
+S0633 By trialling this mechanism to deliver genuine GHG reductions through UERs, we are more likely to be able to assess its potential usefulness post-2020.
+S0634 UERs could also be helpful in the longer-term if the availability of sustainable renewable fuels turns out to be less than anticipated, and also in mitigating concerns around an increase in more polluting unconventional fossil fuels in the mix.
+S0770 The FQD as amended allows electricity used in electric vehicles to contribute towards fuel suppliers’ 6% GHG reduction targets.
+S0771 We propose that suppliers of electricity used in electric vehicles (EVs) can choose to claim GHG credits which can be traded with fuel suppliers who need GHG credits to meet their GHG obligations.
+S0772 This will provide additional support to the electrification of the vehicle fleet.
+S0773 Whilst the proposed GHG target ends after 2020, we are also seeking views on whether this, or a similar mechanism, could be used to provide support for the electrification of the vehicle fleet post-2020, for example through the inclusion of electricity in the Renewable Transport Fuel Obligation (RTFO).
+S0775 We estimate that in 2020, the use of electricity in road vehicles in the UK will deliver GHG savings of up to approximately 125,000 tonnes CO2e to meet the 6% GHG target.
+S0776 This is approximately one hundredth of the total GHG savings that need to be delivered by fuel suppliers in the UK in order to meet their 6% GHG reduction targets.
+S0777 3.2 Using a buy-out price of £74/tonne CO2e (the central scenario from the cost benefit analysis), the maximum reward available for electricity in 2020 would be ~£9.25 million.
+S0778 The actual reward will be determined by the market for GHG credits.
+S0779 3.3 Enabling electricity suppliers to become contributors to fuel suppliers' 6% GHG reduction targets means giving electricity suppliers the option to claim GHG credits.
+S0780 There will be no requirement to claim GHG credits.
+S0781 Any credits claimed can then be traded with fuel suppliers needing credits to meet their obligations.
+S0782 Any commercial transaction associated with that transfer will be a matter for the parties concerned to negotiate.
+S0785 3.5 Note that policies such as the Renewables Obligation (RO) and Feed-in Tariff (FiT) already have the objective of encouraging electricity suppliers to lower the GHG intensity of grid electricity.
+S0786 Our policy objective is to support the use of this lower carbon energy source in transport.
+S0787 3.6 The GHG emissions resulting from grid electricity are a function of the fuel mix from which the electricity is generated.
+S0788 In the UK, electricity from coal, natural gas, nuclear and renewables combines to produce an average GHG emission value per unit of delivered electrical energy.
+S0789 3.7 The Department for Business, Energy and Industrial Strategy (BEIS) predicts that in 2020, grid electricity for domestic applications (which will constitute the majority of electricity used in EVs) will have GHG emissions of 0.265 kgCO2e/kWh. 3. The FQD applies an electric powertrain efficiency multiplier of 0.4. ** (Reference: 8, 17)
+S0790 This is because the powertrain (the main components in a vehicle that generate power and deliver it to the road surface) in an electric vehicle achieves a more efficient energy conversion than the powertrain in an internal combustion engine vehicle.
+S0791 3.9 Using this efficiency multiplier, electric road vehicles charged using UK grid electricity are predicted to produce 29.4 gCO2e/MJ in 2020.
+S0792 This represents a saving of 69% below the FQD fuel baseline standard of 94.1 gCO2e/MJ. Enabling the greenhouse gas savings delivered by electric vehicles to contribute towards suppliers' targets 3.10 As set out above, we propose that suppliers of electricity for electric vehicles would be eligible to participate in the GHG reduction mechanism and receive reward – in the form of GHG credits – for savings delivered beyond what is needed for the GHG target. ** (Reference: 18)
+S0793 Electricity suppliers could then trade such credits with fuel suppliers.
+S0901 3.47 GHG credits will be a tradeable commodity.
+S0902 Suppliers who have obligations will need them to demonstrate they have met those obligations.
+S0915 The GHG saving from electricity can receive GHG credits in 2018 – 2020.
+S0916 However, we have considered whether this policy could help deliver GHG savings and support the UK’s EV sector in the longer-term.
+S0917 A possibility could be to include electricity in the Renewable Transport Fuel Obligation.
+S0920 We are proposing to introduce a buy-out mechanism as part of the GHG obligation which means that suppliers can choose to pay a sum for any GHG savings not delivered.
+S0921 The buy-out mechanism places an upper limit on additional costs to protect customers.
+S0922 In normal circumstances we would expect the buy-out mechanism to provide a commercial incentive to meet the obligation through acquiring GHG credits.
+S0923 It will also offer protection for consumers against unintended impacts: should the costs of obtaining GHG credits be higher than expected, it would protect the consumer from significant increases in fuel prices, thereby minimising costs to consumers.
+S0924 This will operate in a similar way to the buy-out under the RTFO.
+S0926 Background 4. Under the RTFO, certificates are awarded for renewable fuel supplied and used by suppliers as evidence of meeting their obligations to supply renewable fuel. ** (Reference: 1)
+S0927 The proposed GHG credit schemes would work in a similar manner.
+S0928 The RTFO gives obligated fuel suppliers the option to ‘buy-out’ of their obligation (i.e. pay a sum of money) rather than meet it by redeeming RTFCs.
+S0929 4.2 The buy-out price under the RTFO is set at a level to protect the consumer against excessive price increases at the pump.
+S0930 The buy-out price effectively sets a maximum price for RTFCs as it is assumed that a supplier will choose to pay the buy-out rather than supply renewable fuel or purchase RTFCs at a higher cost.
+S0931 4.3 In normal circumstances the obligation is met through the use of RTFCs, which are rewarded for the supply of sustainable biofuel.
+S0932 It is our experience that buy-out has not been used by suppliers as a commercial alternative to redeeming RTFCs.
+S0933 4.4 We propose to introduce a buy-out provision under the GHG obligation that acts in a similar manner, namely, as a protection mechanism for consumers.
+S0934 The GHG obligation buy-out price will therefore be set at a level that in normal circumstances encourages suppliers to meet their GHG obligation by redeeming GHG credits because there is a commercial incentive to do so.
+S0936 We anticipate that suppliers will achieve the majority of the 6% reduction in GHG emissions through acquiring GHG credits issued for the supply of sustainable biofuel (in particular biofuels with higher greenhouse gas emissions savings) and the remainder would be met by claiming credits for UERs (see chapter 2 for detail on UERs).
+S0937 4.6 We expect only a small contribution towards the 6% GHG reduction target to come from electrification and/or suppliers switching to fossil fuels with lower greenhouse gas emissions.
+S0938 Suppliers will have flexibility in meeting their GHG obligation through acquiring and redeeming GHG credits awarded to fuel and energy products supplied which have a lower greenhouse gas intensity than the target in the proposed GHG obligation, and through GHG credits rewarded to UERs.
+S0940 In order to provide a scheme suppliers are familiar with, the GHG obligation buy- out will mirror, as far as possible, the buy-out mechanism in the RTFO.
+S0941 We propose that there will be no recycling of buy-out under the GHG Regulations.
+S0942 We are similarly proposing to remove recycling of any buy-out monies paid under the RTFO.
+S0943 4.8 We are proposing an annual calendar year GHG obligation starting in 2018 and ending in 2020.
+S0951 Setting the right buy-out price 4. The cost benefit analysis sets out options considered by the Department in respect of the buy-out price (expressed in terms of pounds sterling per tonne of CO2 above the target). ** (Reference: 10)
+S0952 The proposed option is for a medium buy-out price of £74/tCO2.
+S0953 The anticipated effect of that buy-out price would be to limit the maximum impact of the GHG targets on 2020 pump prices to 0.42 ppl (based on 2015 prices) over the entirety of suppliers' GHG obligations.
+S0954 It is important to note that this is a maximum additional cost.
+S0955 The purpose of the buy-out mechanism and certificate trading is to minimise costs.
+S0957 4.14 The GHG obligation operates on a greenhouse gas emissions basis and the RTFO operates on a volume basis, and the obligations under the two schemes would be met in slightly different ways.
+S0958 As a consequence it is not possible to provide a like for like comparison for the relative buy-out prices under the two schemes.
+S0959 However, as the buy-out price for the GHG obligation is set at a margin above the estimated costs of UERs, rather than at a margin above the costs of supplying more lower carbon fuels (which are more expensive), the buy-out price proposed for the GHG obligation is significantly lower than the RTFO buy-out price.
+S0960 4.15 The preferred buy-out price is based upon the central Department for Business, Energy and Industrial Strategy (BEIS) ‘non-traded’ sector carbon value projection for 2020. ** (Reference: 27)
+S0961 The non-traded carbon value is intended to reflect the marginal cost of achieving a global emissions trajectory consistent with an objective of limiting global surface warming to no more than 2 degrees above pre- industrial times by the end of the century.
+S0962 Therefore, setting the buy-out price in line with the ‘non-traded’ carbon value is intended to align the incentives with wider climate change objectives.
+S0964 In considering these options our policy aim has been to set a level of buy-out price that provides a commercial incentive to acquire GHG credits whilst protecting consumers from significant price rises at the pump.
+S0965 In addition, we have considered the level of buy-out price that would be most cost effective in promoting the reduction of greenhouse gas emissions required by the amended FQD.
+S0966 4.17 We also considered the costs and benefits of running a GHG obligation from 2018 (as opposed to just in 2020) and the optimum buy-out price.
+S0967 4.18 A full set of options on the buy-out price and analysis of potential market impacts across a range of buy-out price levels are set out in the cost benefit analysis at Annex A.
+S0968 We are proposing Option 2b, i.e. a multi-year GHG obligation (2% in 2018, 4% in 2019, and 6% in 2020) with a medium (£74/tCO2) buy-out price.
+S0969 4.19 We consider that option 2b – which aligns the buy-out price with the ‘non-traded’ carbon price – is the most appropriate level at which to set the buy-out price, to achieve reductions in greenhouse gas emissions required by the amended FQD and to establish a market for UERs.
+S0970 Interaction between the buy-out price paid in the Renewable Transport Fuel Obligations and Greenhouse Gas obligation 4. We expect that the proposed GHG obligation buy-out price will incentivise suppliers to meet their obligation by purchasing credits from existing UER projects, improving biofuel GHG savings and other measures, rather than buying out of their obligation. ** (Reference: 18)
+S0972 However, should a supplier fail to acquire sufficient RTFCs (rewarded for the supply of biofuel under the RTFO)
+S0973 it is likely they will similarly have a shortfall of GHG credits and therefore incur a buy-out payment under both the RTFO and the GHG obligation.
+S0974 4.22 Given the GHG obligation is a separate requirement from a supplier’s obligation under the RTFO, we propose to make no provision to deduct any buy-out owed under the GHG obligation where a buy-out has been paid in the equivalent year under the RTFO.
+S0975 To do so puts at risk the effectiveness of the GHG obligation in 23The non-traded sector refers to UK CO2 emissions which are not covered under the EU ETS carbon trading system (e.g. transport sector and household emissions).
+S0976 securing the reductions in greenhouse gas emissions necessary to meet the GHG target, as there would be a potentially much reduced commercial incentive to meet the obligation by acquiring GHG credits.
+S0986 5.1 As set out in chapter 1 we are proposing to introduce an obligation on designated suppliers to demonstrate that they have achieved a 6% reduction in the greenhouse gas intensity of the fuel they supply through redeeming GHG credits.
+S0987 5.2 As set out in chapter 4, we are also proposing to introduce a buy-out provision under the GHG obligation.
+S0988 5.3 The new GHG obligation will be met by acquiring GHG credits.
+S0989 GHG credits will be awarded for:
+S0990 • supplying sustainable renewable fuels, including biofuels, renewable fuels of non- biological origin (RFNBOs) such as hydrogen, renewable avtur and renewable avgas used in aviation;
+S0991 • supplying fossil fuels which have a GHG intensity below the target level, such as LPG or CNG;
+S0992 • reporting applicable upstream emission reductions (UERs); and/or • for electricity used in transport.
+S1051 • promoting the development of sustainable renewable fuel for aviation by making renewable avtur and avgas eligible for GHG credits;
+S1052 • aligning the treatment of hydrotreated vegetable oil (HVO) under the GHG Reporting Regulations with treatment of another form of biodiesel;
+S1053 • extending the scope of the GHG Reporting Regulations to include renewable fuels of non-biological origin (RFNBOs).
+S1054 6.2 It also sets out our approach to preventing double reward of the same renewable fuel.
+S1055 We wish to promote the development of sustainable renewable fuel for aviation, a transport mode that appears unlikely to be electrified.
+S1056 We propose to make both renewable avtur and renewable avgas eligible for GHG credits.
+S1057 They will be subject to the same sustainability criteria as other renewable fuels.
+S1058 Fossil aviation fuels will not be subject to the GHG obligation.
+S1060 6.3 The UK aviation industry has for some time expressed the view that eligibility for aviation biofuels to claim RTFCs under the RTFO would give the support needed to kick-start the use of aviation biofuels, which at present are not produced or supplied in the UK.
+S1062 Renewable fuels are considered to be the only viable energy source available to significantly reduce aviation emissions to 2050.
+S1063 6.5 The UK supports a global agreement on a market-based measure at the International Civil Aviation Organisation (ICAO) as the most effective way of addressing the growth in aviation emissions.
+S1064 However, other measures are likely to be required if aviation is to make a significant contribution towards reducing emissions.
+S1069 6.7 In the parallel consultation on the RTFO we are proposing that these fuels are eligible for RTFCs.
+S1070 For consistency and to further help promote their use, we propose that both renewable avtur and renewable avgas become eligible for reward under the GHG scheme.
+S1072 Other measures relating to aviation fuels 6. In the separate consultation on the RTFO Order, we set out our proposals to extend eligibility for RTFCs to renewable aviation fuels. ** (Reference: 8)
+S1075 We intend to enable the Administrator of the GHG Reporting Regulations to deem hydrotreated vegetable oil (HVO) to be wholly renewable for the purpose of determining the GHG intensity.
+S1076 This is necessary to align the treatment of HVO under the GHG Reporting Regulations with treatment of another form of biodiesel – fatty-acid-methyl-ester (FAME) and is consistent with how these fuels are treated under the RTFO.
+S1077 Further this will provide a level playing field for suppliers by ensuring consistency with the treatment of biodiesel in other EU Member States and under EU Directives applicable to biofuel.
+S1079 6.10 Fatty-acid-methyl-ester (FAME), a form of biodiesel, is a renewable transport fuel that is derived from around 90% biomass and around 10% methanol from fossil sources.
+S1080 It is proposed to deem HVO to be wholly renewable under the GHG Reporting Regulations for the purpose of determining the greenhouse gas intensity of HVO supplied.
+S1081 This mirrors the treatment of HVO under the RTFO and our understanding of how these fuels are treated under the RED.
+S1082 6.11 Hydrotreated vegetable oil (HVO) is another form of biodiesel that, like FAME, involves some non-renewable inputs in its production process.
+S1083 The amount of renewable inputs to the production process for HVO is similar to that of FAME, and in many cases higher.
+S1084 6.12 In 2015 we amended the RTFO Order so that HVO would also be deemed to be wholly renewable, in the same way as FAME.
+S1085 Doing so aligned the treatment of biodiesel in the UK with its treatment in other EU Member States under EU Directives applicable to biofuel.
+S1087 We intend to similarly align the treatment of FAME and HVO under the GHG Reporting Regulations.
+S1090 We intend to extend the scope of the GHG Reporting Regulations to include renewable fuels of non-biological origin (RFNBOs) as:
+S1091 • RFNBOs can provide a contribution towards decarbonisation of the transport sector and therefore suppliers’ GHG targets •
+S1092 This contribution can be done sustainably given the potential for these fuels to deliver high GHG savings with a low risk of ILUC or competition with food • Policy support is needed now to help bring them to market and encourage investment and further development.
+S1094 6.16 RFNBOs are renewable transport fuels that do not have any biological content.
+S1095 These fuels are considered renewable where the energy content of the fuel comes from non-biomass derived renewable energy sources as defined in the amended RED (Article 2(u)).
+S1096 Energy from renewable energy is defined in Article 2(a). This means that RFNBOs could be made using power from wind, solar, aerothermal, geothermal, hydrothermal and ocean energy, or hydropower. ** (Reference: 22)
+S1097 6.17 These fuels are novel and mostly at laboratory or demonstration stage of development, though some are ready to come to market.
+S1098 Our view is that they will be more expensive than fossil fuels up to 2030 and therefore will require support to come to market and to stimulate further development and investment.
+S1099 6.18 RFNBOs are typically based on hydrogen.
+S1100 Hydrogen can be used directly in an internal combustion engine or a fuel cell vehicle.
+S1101 Alternatively a range of fuels can then be generated by reacting hydrogen with carbon dioxide which can come from a waste source, for example, waste flue gases from power generation or similar combustion process.
+S1102 Our proposal 6. The proposed change involves bringing RFNBOs (including renewable hydrogen), into the scope of the GHG Reporting Regulations and therefore making them eligible for GHG credits and subject to the reporting requirements. ** (Reference: 17)
+S1117 Non-renewable hydrogen 6. Non-renewable hydrogen is also eligible for GHG credits as the default GHG emissions (when the adjustment factor included in the FQD 7a implementing measure is applied) are below the target level (except where the hydrogen is derived from coal without carbon capture and storage). ** (Reference: 22)
+S1256 As set out in chapter 1 we are proposing to introduce an obligation on designated suppliers to achieve a 6% reduction in the greenhouse gas emissions of the fuel or energy they supply by 2020.
+S1262 In transposing the FQD, a greenhouse gas reduction obligation was not set. This was due to the absence of an EU-wide agreed methodology for accounting for the greenhouse gas intensity of fossil fuels under the FQD. ** (Reference: 24)
+S1263 8.2 Instead, the Government placed an ongoing legal duty on the Secretary of State for Transport to propose further measures necessary to ensure delivery of the requirements of the FQD.
+S1264 8.3 In 2015, an agreement was reached at EU level on amendments to the RED and FQD.
+S1265 In advance of these changes the Department for Transport and Low Carbon Vehicle Partnership established the Transport Energy Taskforce.
+S1266 The Taskforce considered options for the UK to meet its 2020 RED and FQD targets, in the Renewable Energy and Fuel Quality Directives and published its report in March 2015. 8. The amendments proposed in this consultation document, which include introducing a greenhouse gas reduction obligation and GHG certificate trading scheme in chapter 1 are key to transposing amendments to the FQD. ** (Reference: 4, 25)
+S1273 As we are proposing significant amendments to the GHG Reporting Regulations we will discharge the current duty on the Secretary of State under Regulation 26, to assess the extent to which they have achieved their objectives since introduced in 2013, through this consultation.
+S1274 We will publish a report of findings alongside the Government's response to this consultation.
+S1275 8.10 The GHG Reporting Regulations operate in parallel with the RTFO Order 2007.
+S1276 The RTFO Unit in the Department for Transport, administers both schemes.
+S1277 The legislation and its administration has been designed with the objective of reducing burdens on suppliers in reporting and providing assurance on the greenhouse gas intensity of fuel supplied.
+S1278 For example, where possible, information required from suppliers on the fuel they supply does not have to be provided twice, under both the GHG Reporting Regulations and the RTFO Order 2007.
+S1279 8.11 This has meant that since the GHG Reporting Regulations came into force in January 2013, fuel suppliers who are obligated under the RTFO will have noticed little or no difference in their reporting.
+S1280 8.12 An exception is in respect of suppliers of fossil gas who are obligated to report information on fuel supply under the GHG Reporting Regulations but are not obligated under the RTFO.
+S1282 8.13 In introducing the GHG Reporting Regulations, the Department estimated the impact on business of complying with the above Regulations to be between an additional £4,000 and £17,500 per year, per obligated supplier.
+S1283 8.14 Taking a conservative assumption that all 53 firms registered under the RTFO in 2012, plus five additional fossil gas suppliers, would need to open new accounts and bear these additional costs to the full extent, the industry-wide increase in administrative burden was estimated at around £623,500 annually, starting from the point at which the GHG reporting obligation is introduced.
+S1284 We anticipate that actual costs for the operation of the GHG reporting obligation since January 2013 will be significantly lower than that but we would welcome views from suppliers.
+S1330 We are now proposing to include this target through amendments to the GHG Reporting Regulations.
+S1331 Fuel suppliers have a number of options for meeting this target, including biofuels, low carbon fossil fuels and emissions reduction in ‘upstream’ oil production (e.g. reduced flaring and venting of methane which is often released as a co-product alongside oil).
+S1332 1.2 Suppliers can demonstrate they have met their GHG reduction target by redeeming GHG credits equivalent to the GHG emissions they needed to save.
+S1333 GHG credits are awarded to suppliers for delivering low carbon fuels directly to the market or providing evidence of upstream emission reductions (UERs).
+S1334 Suppliers can also purchase surplus GHG credits from other suppliers.
+S1335 Alternatively suppliers can opt to buyout of their GHG obligation 1. This consultation looks at six different policy options for imposing a greenhouse gas (GHG) reduction obligation (with a 6% target in 2020) on UK fuel suppliers. ** (Reference: 30)
+S1336 The options differ in two key respects: 1) the level of the buy-out price, and 2) whether a greenhouse gas target is set for one year only in 2020 or over a three-year period (2018 to 2020).
+S1339 1a: Buy-out price (nominal prices in 2020): £7/tCO 2; Implementation period: 1 year; Max pump price impact in 2020 (undiscounted, 2015 prices): 0.03 ppl; Max policy cost (discounted, 2015 prices): £12m.
+S1340 1b: Buy-out price (nominal prices in 2020): £7/tCO 2; Implementation period: 3 years; Max pump price impact in 2020 (undiscounted, 2015 prices): 0.03 ppl; Max policy cost (discounted, 2015 prices): £13m.
+S1341 2a: Buy-out price (nominal prices in 2020): £74/tCO 2; Implementation period: 1 year; Max pump price impact in 2020 (undiscounted, 2015 prices): 0.42 ppl; Max policy cost (discounted, 2015 prices): £148m.
+S1342 2b: Buy-out price (nominal prices in 2020): £74/tCO 2; Implementation period: 3 years; Max pump price impact in 2020 (undiscounted, 2015 prices): 0.42 ppl; Max policy cost (discounted, 2015 prices): £166m.
+S1343 3a: Buy-out price (nominal prices in 2020): £146/tCO 2; Implementation period: 1 year; Max pump price impact in 2020 (undiscounted, 2015 prices): 0.84 ppl; Max policy cost (discounted, 2015 prices): £293m.
+S1344 3b: Buy-out price (nominal prices in 2020): £146/tCO 2; Implementation period: 3 years; Max pump price impact in 2020 (undiscounted, 2015 prices): 0.84 ppl; Max policy cost (discounted, 2015 prices): £327m.
+S1346 If the cost of compliance through delivering low carbon fuels (or UERs) exceeds the buy-out price, suppliers would be expected to buy-out of their obligation.
+S1347 Therefore the buy-out price effectively determines the maximum cost of the policy and the maximum potential impact on pump prices (as compliance costs are assumed to be passed through to fuel consumers).
+S1348 Three different buy-out levels are considered.
+S1349 Under options 1a and 1b the buy-out price is £7/tCO2 (2020 nominal prices) which equates to a maximum 2020 pump price impact of 0.03 pence per litre (2015 prices).
+S1350 Options 2a and 2b have a buy-out price of £74/tCO2 (0.42 ppl) and options 3a and 3b have a buy-out price of £146/tCO2 (0.84 ppl).
+S1351 1.5 The buy-out price also affects the range of compliance options which will be available to fuel suppliers.
+S1352 The £74/tCO2 buy-out price in the preferred option is considered to be sufficient to support a wide range of compliance measures including GHG savings from existing upstream emissions reduction (UER) projects, new investments in UER projects and improved biofuel GHG savings.
+S1353 £74/tCO2 is the central 2020 'non- traded' carbon value (in 2020 prices) which should also ensure consistency with wider government climate policy.
+S1354 In normal circumstances we would expect the buyout at this level to provide a commercial incentive to meet the obligation through acquiring GHG credits.
+S1355 1.6 We have also looked at the possibility of implementing the GHG obligation over a one year period in 2020 (options 1a, 2a and 3a) and over a 3 year period between 2018 and 2020 (options 1b, 2b and 3b).
+S1356 The preferred option (2b) is to implement over 3 years as this will give suppliers time to adapt to new regulations.
+S1357 Setting targets from 2018 will allow investors to recoup any capital costs from new investments over a longer period and enable the government to better assess the merits for any potential extension of a GHG savings scheme beyond 2020.
+S1359 Whilst it is expected that overall suppliers will be able to deliver around three-quarters of their GHG obligations through the supply of biofuels, there is some uncertainty around how suppliers will choose to meet the remainder of their obligations.
+S1360 It has therefore been necessary to model a wide range of potential cost-benefit outcomes.
+S1361 1.8 'Low additionality' scenarios assume limited new (additional) GHG savings result from the policy (for the purposes of the modelling we have made the conservative assumption that there are zero GHG savings in the 'low additionality' scenario) and the 'high additionality' scenario assumes that the policy is 100% effective in delivering GHG savings, which would not have occurred otherwise.
+S1362 This wide range reflects the range of potential compliance options which suppliers have open to them in meeting the target.
+S1363 1.9 Similarly, a wide range of potential costs have been assessed.
+S1364 The maximum potential cost for a given buy-out price has been taken to form the high end of the cost range and the administrative cost of generating a certificate (which is assumed to be £0.12/tCO2) has been taken as the low end of the cost range. ** (Reference: 29)
+S1366 1.10 It should be noted that the risk of the suppliers not delivering the 6% GHG reduction target as required by the FQD is higher at lower levels of buy-out price.
+S1367 This is because fewer options for delivering GHG savings in transport will be economically viable at low buy-out prices.
+S1369 Option 1a (1 year, low buyout): Net present cost (£m): 0.3 to 12; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.00; 2020 pump price impact (ppl inc VAT) (max): 0.03; GHG savings (MtCO e) 2: 0 to 1.3; Net present benefits (£m): 0 to 74; NPV (£m): -12 to 62.
+S1370 Option 1b (3 years, low buyout): Net present cost (£m): 0.3 to 13; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.004; 2020 pump price impact (ppl inc VAT) (max): 0.03; GHG savings (MtCO e) 2: 0 to 1.4; Net present benefits (£m): 0 to 82; NPV (£m): -13 to 69.
+S1371 Option 2a (1 year, medium buyout): Net present cost (£m): 0.3 to 148; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.00; 2020 pump price impact (ppl inc VAT) (max): 0.42; GHG savings (MtCO e) 2: 0 to 2.5; Net present benefits (£m): 0 to 148; NPV (£m): -148 to 136.
+S1372 Option 2b (3 years, medium buyout): Net present cost (£m): 0.3 to 166; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.05; 2020 pump price impact (ppl inc VAT) (max): 0.42; GHG savings (MtCO e) 2: 0 to 2.8; Net present benefits (£m): 0 to 165; NPV (£m): -166 to 152.
+S1373 Option 3a (1 year, high buyout): Net present cost (£m): 0.3 to 293; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.00; 2020 pump price impact (ppl inc VAT) (max): 0.84; GHG savings (MtCO e) 2: 0 to 2.5; Net present benefits (£m): 0 to 148; NPV (£m): -293 to 136.
+S1374 Option 3b (3 years, high buyout): Net present cost (£m): 0.3 to 327; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.09; 2020 pump price impact (ppl inc VAT) (max): 0.84; GHG savings (MtCO e) 2: 0 to 2.8; Net present benefits (£m): 0 to 165; NPV (£m): -327 to 152.
+S1386 3.2 Fuel suppliers have a number of options for meeting the GHG reduction target.
+S1388 • Switching to lower GHG energy sources – alternative transport energy fuels such as biofuels, electricity, natural gas, and liquid petroleum gas (LPG)
+S1389 have lower GHG emissions per unit energy relative to fossil fuels.
+S1390 • Improving biofuel GHG savings – significant volumes of biofuels are already supplied due to blending targets set under the Renewable Transport Fuel Obligations.
+S1391 These biofuels deliver GHG savings which can be counted towards the GHG target.
+S1392 Improving the GHG saving characteristics of these biofuels (e.g. using less fertiliser on crops, improving efficiency of refining processes, capturing processing plants CO2 emissions, switching feedstocks) can increase the biofuel contribution towards meeting the GHG target.
+S1393 • Upstream emission reductions (UERs) – GHG emissions from ‘upstream’ production of fossil fuels such as flaring and venting of methane are a significant component of the emissions associated with transport fossil fuel use.
+S1394 If suppliers are able to demonstrate that they have been responsible for reducing these emissions (e.g. through investments in gas grid infrastructure or liquefaction facilities) they can use this to demonstrate compliance with their GHG reduction target.
+S1395 Suppliers can also submit evidence of UER projects delivered by other suppliers.
+S1396 3.3 Article 7a of the amended FQD also requires transport sector fuel suppliers in EU Member States to report information on the characteristics of the fuel which they supply into the UK transport fuel market, and requires Member States to lay down the rules on penalties applicable to infringements of national provisions adopted to transpose the Directive.
+S1409 LQVWHDG RI FRPSO\LQJ ZLWK WKH *+* REOLJDWLRQ WKURXJK WKH VXSSO\ RI ORZ FDUERQ fuels or UERs.
+S1410 If the cost of delivering low carbon fuels or UERs exceeds the buy- out price, suppliers would be expected to buy-out of their obligation.
+S1411 The buy-out price performs two functions: (1) it serves as a compliance enforcement mechanism by effectively acting as a financial penalty for failing to deliver low carbon fuels or UERs; and (2) it limits the overall cost of the obligation as suppliers will opt to pay the buy-out price if the cost of compliance rises above that level.
+S1412 • Certificate trading scheme – a certificate trading scheme will give suppliers flexibility to meet their obligation (i.e. they can buy GHG credits from other suppliers if cost effective).
+S1413 Increasing supplier flexibility in this way should minimise the overall costs of the scheme as individual suppliers facing relatively high compliance costs will be able to reduce costs by buying certificates from those able to reduce emissions at relatively low costs.
+S1414 4.1 Option 0 – do nothing – this baseline scenario assumes that the preferred option for amending the RTFO (which is required by the Renewable Energy Directive), as proposed in a parallel consultation, is implemented. ** (Reference: 31)
+S1416 Table 3: Breakdown of policy options in relation to buy-out-price and duration 4. Option 1a – a 6% GHG target in 2020 with a low (£7/tCO2, nominal prices) buy-out price. ** (Reference: 29, 32)
+S1417 4.3 Option 1b - a multi-year GHG target trajectory (2% in 2018, 4% in 2019, and 6% in 2020) with a low (£7/tCO2) buy-out price.
+S1418 4.4 Option 2a – a 6% GHG target in 2020 with a medium (£74/tCO2) buy-out price.
+S1419 4.5 Option 2b - a multi-year GHG target trajectory (2% in 2018, 4% in 2019, and 6% in 2020) with a medium (£74/tCO2) buy-out price.
+S1420 This is the preferred option.
+S1421 4.6 Option 3a – a 6% GHG target in 2020 with a high (£146/tCO2) buy-out price.
+S1422 4.7 Option 3b - a multi-year GHG target trajectory (2% in 2018, 4% in 2019, and 6% in 2020) with a high (£146/tCO2) buy-out price.
+S1423 4.8 The BEIS 'traded' sector carbon value (£7/tCO2 in 2020) has been chosen as the low buy-out price as it reflects the expected carbon price in the EU ETS market where credits from some existing upstream emission reduction (UER) projects are currently traded. ** (Reference: 33)
+S1424 The high buy-out price (£146/tCO2 in 2020) is based upon an analysis of the estimated cost of paying (with capital costs recovered over a one year period) for investment in new UER projects.
+S1425 These upper and lower buy-out price boundaries are intended to capture the range of possible GHG target compliance costs across all potential technology options.
+S1426 In the preferred option, the buy-out price has been set in line with the 'non-traded' carbon value.
+S1427 The non-traded carbon values represent the Government's estimate of the marginal global cost of reducing a tonne of carbon in each year consistent with global climate goals.
+S1428 Setting the buy-out price at this level is intended to align the incentives provided through this mechanism with wider government climate change policy.
+S1429 Duration: 1a Low: 1 year; 1b Low: 3 years; 2a Medium: 1 year; 2b Medium: 3 years; 3a High: 1 year; 3b High: 3 years.
+S1454 ZKLFK LV SURGXFHG DV D FR SURGXFW LQ RLO extraction) are a major potential source of GHG savings for suppliers looking to comply with FQD targets.
+S1455 However, proving that a UER project is ‘additional’ and has led to genuine GHG savings (i.e. the investment in GHG saving process occurred as a direct result of the financial incentive made available through the policy and would not have occurred otherwise) typically relies on economic/financial assumptions which may be open to debate.
+S1456 The FQD also allows for UER GHG savings from existing investments which may have occurred irrespective of the FQD policy (and therefore may not be considered 'additional').
+S1458 5.7 To take account of the inherent uncertainty around additionality we have carried out a ‘high additionality’ scenario and a 'low additionality' scenario when evaluating carbon benefits in this cost-benefit analysis.
+S1459 Furthermore, to take account of the different GHG saving characteristics of UER projects, we have split them into three categories (see below) when evaluating carbon benefits in this cost-benefit analysis.
+S1461 • non CDM-approved UER projects (no GHG savings) – as these investments have already taken place prior to a financial incentive being available from the FQD, the reported GHG savings for these projects are not considered to be additional.
+S1462 • existing CDM-approved UER projects (positive GHG savings) – although the investment for these projects has already taken place prior to a financial incentive from the FQD, they can be used to demonstrate compliance with the EU Emissions Trading System (ETS).
+S1463 Using them to demonstrate FQD compliance therefore means they cannot be used in the ETS and more carbon savings must be found elsewhere to meet ETS targets.
+S1464 • new UER projects (positive GHG savings) – if the investment in new UER projects takes place directly as a result of the financial incentive from the FQD then the GHG savings can be considered to be additional.
+S1466 5.8 As there is significant uncertainty around the options available to suppliers to reduce emissions and the associated costs, a wide range of potential costs have been modelled.
+S1467 5.9 For each option the maximum potential cost has been calculated using the buy-out price.
+S1468 For example, a 6% target in 2020 implies that suppliers will have to deliver 2. MtCO2e savings. ** (Reference: 32)
+S1469 If the buy-out price is £10/tCO2, then the maximum potential cost would be £25 million (i.e. £10 * 2,500,000).
+S1470 5.10 Minimum policy costs vary with assumptions on additionality.
+S1471 Under the 'low additionality' scenario (where we make the conservative assumption that the policy does not generate any 'additional' GHG savings), we assume that the minimum potential compliance cost is determined by the administrative cost of generating a certificate.
+S1472 Under the 'high additionality' scenario (where we assume the policy generates a high level of 'additional' GHG savings), we assume that the minimum potential compliance cost is determined by the cost of purchasing an EU ETS certificate (which we use to proxy the minimum cost of purchasing savings from CDM-accredited UER projects).
+S1473 5.11 There may also be some familiarisation and compliance costs associated with the implementation of new regulation.
+S1474 We have not estimated these at this stage due to a lack of evidence.
+S1476 5.12 The only benefits that we have sought to quantify are the reduced greenhouse emissions associated with the option relative to the baseline.
+S1477 The change in greenhouse gas emissions in each year has been valued using the non-traded sector carbon values published in the Green Book supplementary guidance on valuing energy use and greenhouse gas emissions for appraisal. 5.13 As noted in the section on upstream emission reductions and 'additionality' scenarios, we have looked at 2 different additionality scenarios to reflect the significant uncertainty around the additionality of GHG savings associated with upstream emissions reduction projects. ** (Reference: 34)
+S1478 5.14 Potential benefits have only been assessed for the period 2018 to 2020.
+S1479 It is possible that (in the case of capital investment in new upstream emission reduction projects) GHG saving benefits could run further into the future.
+S1480 However, given the significant uncertainty in how suppliers will choose to comply with a GHG obligation we have not been able to quantify these potential benefits.
+S1481 5.15 For the purposes of this cost benefit analysis, we have assessed the impact of policy options across a three year evaluation period (2018 to 2020) which reflects the maximum duration of the proposed policy options.
+S1482 All costs, prices and benefits are given on a 2015 price base, excepting buy-out prices, which are given as the nominal values which form the basis of revisions to UK legislation.
+S1483 Present value calculations have been discounted to 2016 using the standard 3.5% discount factor given in HM Treasury's Green Book appraisal guidance. ** (Reference: 35)
+S1484 Put in place a 6% greenhouse gas target in 2020 with a low (£7/tCO2 - nominal prices) buy-out price Table 4: Option 1a, CBA summary Table 5: Option 1a, pros/cons Table 6: Option 1a, expected market impact Option 1a +++ 0 0 0 0
+S1487 It is possible that some GHG credits for existing UER projects could be available at prices below £7/tCO2.
+S1488 This is on the basis that the investment has already taken place (i.e. no additional costs are incurred other than the administrative cost of
+S1489 High additionality: Net present cost (£m): 12; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.000; 2020 pump price impact (ppl inc VAT) (max): 0.034; Total GHG savings 2018-20 (MtCO e) 2: 1.27; Net present benefits (£m): 74.1; NPV (£m): 62.1.
+S1490 Low additionality: Net present cost (£m): 0.3 to 12; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.000; 2020 pump price impact (ppl inc VAT) (max): 0.034; Total GHG savings 2018-20 (MtCO e) 2: 0.00; Net present benefits (£m): 0; NPV (£m): -12 to -0.3.
+S1491 Pros: • lowest buy-out price therefore lowest potential cost.
+S1492 Cons: • least likely to generate 'additional' GHG savings; • significant risk of suppliers not delivering the full 6% GHG reductions required due to low buy-out price.
+S1493 Option 1a: Existing UERs: +++; New UERs: 0; Biofuel GHG savings: 0; Alt fossil fuels: 0; More biofuels: 0.
+S1494 generating a GHG credit).
+S1495 However, it is also possible that competition from other EU Member States (also seeking to meet FQD GHG targets) could drive prices above this level.
+S1496 6.2 It is unlikely that a £7/tCO2 buy-out price will incentivise investment in new UER projects as investment costs associated with these projects are estimated to be considerably higher than £7/tCO2.
+S1497 6.3 Similarly, it is considered unlikely that a £7/tCO2 buy-out price will be sufficient to drive any significant change in biofuel GHG savings attributed to biofuels supplied under the RTFO; any significant increase in the supply of alternative low GHG fossil fuels; or any increase in the volume of biofuels supplied (over and above what is supplied in the baseline).
+S1498 6.4 Having a low buy-out price creates a significant risk of suppliers not delivering the 6% GHG savings required by the FQD as it may result in fuel suppliers opting to pay the buy-out price rather than pay for GHG savings.
+S1499 Estimated cost 6. Our central estimate of the additional GHG savings needed to meet the GHG target (over and above the GHG savings which are delivered in the baseline by the RTFO) is 2. MtCO2e in 2020. ** (Reference: 32)
+S1500 6.6 At a £7/tCO2 buy-out price, this implies a maximum (undiscounted) cost of £14m in 2020, which equates to an additional 0.03ppl (including VAT) on the pump price.
+S1501 The maximum present value cost (i.e. discounted) estimated for this option is £12m. It is important to note that these cost estimates represent a maximum potential compliance cost for a £7/tCO2 buy-out price, and that actual costs could come at a lower level if suppliers are able to identify compliance options which cost less than £7/tCO2.
+S1502 6.7 For the 'low additionality' scenario, we assume that the minimum potential compliance cost is determined by the administrative cost of generating a certificate.
+S1503 We estimate this to be £0.12/tCO2 which implies a maximum (undiscounted) cost of £0.3m in 2020, which has a negligible impact on pump prices. ** (Reference: 36)
+S1504 The minimum present value (i.e. discounted) cost under the 'low additionality' scenario estimated for this option is £0.3m.
+S1505 6.8 For the 'high additionality' scenario, we assume that the minimum potential compliance cost is determined by the cost of purchasing an EU ETS certificate (which we use to proxy the minimum cost of purchasing savings from CDM- accredited UER projects).
+S1506 Therefore the minimum cost is equal to the maximum cost and there is no cost range under the 'high additionality' scenario.
+S1507 There is a significant risk under this option that suppliers are unable to acquire GHG credits that cost less than the £7/tCO2 ‘buy-out’ price, and so choose to actually ‘buy out’ rather than pay for emission savings.
+S1508 If this were the case, the Government would accrue revenue to offset the costs from fuel suppliers buying out but would also bear the risk of infraction and any associated fines.
+S1509 Estimated benefits 6. It is likely that with a £7/tCO2 buy-out price in place, suppliers will either purchase credits from existing UER projects or 'buy out' of their obligation. ** (Reference: 35)
+S1510 It is not possible to say to what extent these credits will come from CDM-accredited projects (which we assume generate 'additional' GHG savings) and non-CDM-accredited projects (which we assume do not generate 'additional' GHG savings).
+S1511 It is also possible that a £7/tCO2 buy-out price could lead to significant levels of buy-out, with suppliers opting to pay the buy-out price rather than delivering GHG savings.
+S1512 For these reasons we take a range of potential GHG savings with 0% 'additional' GHG savings forming the 'low additionality' scenario and 50% GHG savings forming the 'high additionality' scenario.
+S1513 This gives a GHG saving estimate of 0 - 1.27 MtCO2e in 2020.
+S1514 Put in place a multi-year greenhouse gas target trajectory (2% in 2018, 4% in 2019, 6% in 2020) with a low (£7/tCO2 - nominal prices) buy-out price Table 7: Option 1b, CBA summary Table 8: Option 1b, pros/cons Table 9: option 1b, expected market impact Option 1b ++ 0 0 0 0
+S1517 Estimated cost 6. Our central estimate of the additional GHG saving requirement needed to meet the GHG target (over and above the GHG savings which are delivered in the baseline by the RTFO) is 2. MtCO2e in 2020. ** (Reference: 32, 37)
+S1518 High additionality: Net present cost (£m): 13; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.004; 2020 pump price impact (ppl inc VAT) (max): 0.034; Total GHG savings 2018-20 (MtCO e) 2: 1.41; Net present benefits (£m): 82; NPV (£m): 69.
+S1519 Low additionality: Net present cost (£m): 0.3 to 13; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.004; 2020 pump price impact (ppl inc VAT) (max): 0.034; Total GHG savings 2018-20 (MtCO e) 2: 0.00; Net present benefits (£m): 0; NPV (£m): -13 to -0.3.
+S1520 Pros: The same as option 1a plus: • targets in 2018 and 2019 give suppliers time to adapt to new regulations and allow the government to better assess the merits for potential extension beyond 2020; and • delivers higher GHG emissions savings.
+S1521 Cons: The same as option 1a plus: • targets in 2018 and 2019 slightly increase costs relative to 1a.
+S1522 Option 1b: Existing UERs: ++; New UERs: 0; Biofuel GHG savings: 0; Alt fossil fuels: 0; More biofuels: 0.
+S1523 6.12 At a £7/tCO2 buy-out price, this implies a maximum (undiscounted) annual cost of £14 in 2020, which equates to an additional 0.03ppl (including VAT) on the pump price.
+S1524 The maximum present value (i.e. discounted) cost estimated for this option is £12m.
+S1525 6.13 For the 'low additionality' scenario, we assume that the minimum potential compliance cost is determined by the administrative cost of generating a certificate.
+S1526 We estimate this to be £0.12/tCO2 which implies a maximum (undiscounted) cost of £0.3m in 2020, which has a negligible impact on pump prices.
+S1527 The minimum present value (i.e. discounted) cost under the 'low additionality' scenario estimated for this option is £0.3m.
+S1528 6.14 For the 'high additionality' scenario, we assume that the minimum potential compliance cost is determined by the cost of purchasing an EU ETS certificate (which we use to proxy the minimum cost of purchasing savings from CDM- accredited UER projects).
+S1529 Therefore the minimum cost is equal to the maximum cost under the 'high additionality scenario'.
+S1530 Estimated benefits 6.15 As for option 1a, we assume that (with a £7/tCO2 buy-out price in place) fuel suppliers will either purchase credits from existing UER projects or buy-out of their obligation.
+S1531 It is not possible to say to what extent these credits will come from CDM- accredited projects (which we assume generate 'additional' GHG savings) and non- CDM-accredited projects (which we assume do not generate 'additional' GHG savings).
+S1532 For this reason we take a range of potential GHG savings with 0% 'additional' GHG savings forming the low scenario and 50% GHG savings forming the high end.
+S1533 This gives a total GHG saving estimate of 0 - 1.41 MtCO2e over 2019 and 2020.
+S1534 6.16 As with option 1a, there is a significant risk that suppliers are unable to acquire GHG credits that cost less than £7/tCO2, and choose to ‘buy-out’, rather than pay for emission savings.
+S1535 If this were the case, the Government would accrue revenue to offset the costs from fuel suppliers buying out but would also bear the risk of infraction and any associated fines.
+S1536 Put in place a 6% greenhouse gas target in 2020 with a medium (£74/tCO2 - nominal prices) buy-out price Table 10: Option 2a, CBA summary Table 11: Option 2a, pros/cons Table 12: Option 2a, expected market impact Option 2a +++ + ++ 0 0
+S1539 It is likely that significant volumes of credits for existing UER projects could be supplied at a £74/tCO2 buy-out price level.
+S1540 6.18 It is also possible that a £74/tCO2 buy-out price could incentivise some investment in (relatively low cost) new UER projects.
+S1541 However, uncertainty over certificate prices is likely to diminish investment incentives for these projects.
+S1542 6.19 Similarly, it is possible that suppliers would be able to deliver increased GHG savings from biofuels supplied under the RTFO for less than £74/tCO2.
+S1543 High additionality: Net present cost (£m): 12 to 148; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.00; 2020 pump price impact (ppl inc VAT) (max): 0.42; Total GHG savings 2018-20 (MtCO e) 2: 2.53; Net present benefits (£m): 148; NPV (£m): 0 to 136.
+S1544 Low additionality: Net present cost (£m): 0.3 to 148; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.00; 2020 pump price impact (ppl inc VAT) (max): 0.42; Total GHG savings 2018-20 (MtCO e) 2: 0.00; Net present benefits (£m): 0; NPV (£m): -148 to - 0.3.
+S1545 Pros: • higher buy-out price likely to significantly reduce risk of not delivering the GHG target and generate higher GHG savings relative to option 1.
+S1546 Cons: • higher buy-out price increases potential costs relative to option 1; • level of buy-out price less likely to be sufficient to incentivise investment in new upstream emission reduction projects than option 3.
+S1547 Option 2a: Existing UERs: +++; New UERs: +; Biofuel GHG savings: ++; Alt fossil fuels: 0; More biofuels: 0.
+S1548 6.20 It is unlikely that a £74/tCO2 buy-out price delivered over a one-year period would be sufficient to incentivise any significant increase in the supply of alternative low GHG fossil fuels or to drive any increase in the volume of biofuels supplied (over and above what is supplied in the baseline).
+S1549 6.21 It is unlikely that an obligation with £74/tCO2 buy-out price would be sufficient to pay for the supply of additional biofuels.
+S1550 Estimated cost 6.22 Our central estimate of the additional GHG savings needed to meet the FQD target (over and above the GHG savings which are delivered in the baseline by the RTFO) is 2. MtCO2e in 2020. ** (Reference: 32)
+S1551 6.23 At a £74/tCO2 buy-out price, this implies a maximum cost of £170m (undiscounted) in 2020, which equates to an additional 0.42ppl (including VAT) on the pump price.
+S1552 The maximum present value cost estimated for this option is £148m. It is important to note that these cost estimates represent a maximum potential compliance cost for a £74/tCO2 buy-out price, and that actual costs could come at a lower level if suppliers are able to identify compliance options which cost less than £74/tCO2.
+S1553 The actual costs of this option would be no greater than under option 1a if there were sufficient compliance options available at a price below the £7/tCO2 buy-out price to meet the target.
+S1555 For the 'low additionality' scenario, we assume that the minimum potential compliance cost is determined by the administrative cost of generating a certificate.
+S1556 We estimate this to be £0.12/tCO2.
+S1557 This implies a minimum (undiscounted) cost of £0.3m in 2020, which has a negligible impact on pump prices.
+S1558 The minimum present value (i.e. discounted) cost under the 'low additionality' scenario estimated for this option is £0.3m.
+S1559 6.25 For the 'high additionality' scenario, we assume that the minimum potential compliance cost is determined by the cost of purchasing an EU ETS certificate (which we use to proxy the minimum cost of purchasing GHG credits savings from CDM-accredited UER projects).
+S1560 This implies a minimum (undiscounted) cost of £14m in 2020, which equates to an additional 0.03ppl (including VAT) on the pump price.
+S1561 The minimum present value (i.e. discounted) cost under the 'high additionality' scenario estimated for this option is £12m.
+S1562 6.26 There remains a risk under this option that suppliers are unable to acquire GHG credits that cost less than the £74/tCO2 buy-out price, and so choose to ‘buy out’ of their obligation, but this risk is likely to be significantly smaller than under option 1.
+S1563 If this were the case the Government would accrue revenue to offset the costs from fuel suppliers buying out but would also bear the risk of infraction and any associated fines.
+S1564 Estimated benefits 6.27 Under this option we assume that suppliers can meet their obligation using credits from a range of sources including existing UER projects, new UER projects, alternative fuels and improved biofuel GHG savings.
+S1565 6.28 As there is significant uncertainty over how suppliers will choose to meet the obligation and to what extent GHG savings will be 'additional', we have modelled a wide range of potential benefits.
+S1566 For the high additionality scenario we assume that 100% of GHG savings are additional while the low additionality scenario assumes that 0% of GHG savings under this scenario are actually additional (i.e. all credits come from existing UER projects which are not accredited under the CDM).
+S1567 This gives a GHG saving estimate of 0-2. MtCO2e in 2020. ** (Reference: 32)
+S1568 6.29 Potential benefits have only been assessed for the period to 2018 to 2020.
+S1569 It is possible that (in the case of capital investment in new upstream emission reduction projects) GHG saving benefits could run further into the future.
+S1570 However, given the significant uncertainty in how suppliers will choose to comply with a GHG obligation we have not been able to quantify these potential benefits.
+S1571 Put in place a multi-year greenhouse gas target trajectory (2% in 2018, 4% in 2019, 6% in 2020) with a medium (£74/tCO2 - nominal prices) buy-out price Table 13: Option 2b, CBA summary Table 14:
+S1573 The market impact is expected to be the same as for option 2a although a longer target 'lead in' period to 2020 could improve incentives for investment in new UER projects as investors could potentially recoup their capital costs over two years instead of one.
+S1575 High additionality: Net present cost (£m): 13 to 166; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.05; 2020 pump price impact (ppl inc VAT) (max): 0.42; Total GHG savings 2018-20 (MtCO e) 2: 2.81; Net present benefits (£m): 165; NPV (£m): -1 to152.
+S1576 Low additionality: Net present cost (£m): 0.3 to 166; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.05; 2020 pump price impact (ppl inc VAT) (max): 0.42; Total GHG savings 2018-20 (MtCO e) 2: 0.00; Net present benefits (£m): 0; NPV (£m): -166 to -0.3.
+S1577 Pros: The same as option 2a plus: • targets in 2018 and 2019 give suppliers time to adapt to new regulations, spread the costs of any investments and allow the government to better assess the merits for potential extension beyond 2020; and • delivers higher GHG emissions savings.
+S1578 Cons: The same as option 2a plus: • targets in 2018 and 2019 increase costs relative to 2a.
+S1579 Option 2b: Existing UERs: +++; New UERs: +; Biofuel GHG savings: ++; Alt fossil fuels: 0; More biofuels: 0.
+S1580 Estimated cost 6.30 Our central estimate of the additional GHG saving requirement needed to meet the GHG target (over and above the GHG savings which are delivered in the baseline by the RTFO) is 2. MtCO2e in 2020. ** (Reference: 32)
+S1581 6.31 At a £74/tCO2 buy-out price, this implies a maximum annual cost of £170m (undiscounted) in 2020, which equates to an additional 0.42ppl (including VAT) on the pump price.
+S1582 The (discounted) net present cost estimated for this option is £166m. It is important to note that these cost estimates represent a maximum potential cost for a £74/tCO2 buy-out price and that actual costs could come at a lower level if suppliers are able to acquire GHG credits which cost less than £74/tCO2.
+S1583 The actual costs of this option would be no greater than under option 1b if there were sufficient compliance options available at a price below the £7/tCO2 buy-out price to meet the target.
+S1584 6.32 For the 'low additionality' scenario, we assume that the minimum potential compliance cost is determined by the administrative cost of generating a certificate.
+S1585 We estimate this to be £0.12/tCO2.
+S1586 This implies a minimum (undiscounted) cost of £0.3m in 2020, which has a negligible impact on pump prices.
+S1587 The minimum present value (i.e. discounted) cost under the 'low additionality' scenario estimated for this option is £0.3m.
+S1588 6.33 For the 'high additionality' scenario, we assume that the minimum potential compliance cost is determined by the cost of purchasing an EU ETS certificate (which we use to proxy the minimum cost of purchasing GHG credits savings from CDM-accredited UER projects).
+S1589 This implies a minimum (undiscounted) cost of £14m in 2020, which equates to an additional 0.03ppl (including VAT) on the pump price.
+S1590 The minimum present value (i.e. discounted) cost under the 'high additionality' scenario estimated for this option is £13m.
+S1591 6.34 As under option 2a, there remains a risk under this option that suppliers are unable to find sufficient GHG credits that cost less than the £74/tCO2 buy-out price, and so choose to ‘buy out’, but this risk is likely to be small and significantly smaller than under option 1.
+S1592 If this were the case the Government would accrue revenue to offset the costs from fuel suppliers buying out but would also bear the risk of infraction and any associated fines.
+S1593 Estimated benefits 6.35 As there is significant uncertainty over how suppliers will choose to meet the obligation and to what extent GHG savings will be 'additional', we have modelled a wide range of potential benefits.
+S1594 For the high additionality scenario we assume that 100% of the savings are additional and for the low additionality scenario we assume that 0% of the emissions reductions are additional (i.e. all credits come from existing UER projects which are not accredited under the CDM).
+S1595 This gives a GHG saving range of 0-2. MtCO2e in 2019 and 2020. ** (Reference: 34)
+S1596 Potential benefits have only been assessed for the period to 2018 to 2020.
+S1597 It is possible that (in the case of capital investment in new upstream emission reduction projects) GHG saving benefits could run further into the future.
+S1598 However, given the significant uncertainty in how suppliers will choose to comply with a GHG obligation we have not been able to quantify these potential benefits.
+S1599 Put in place a 6% greenhouse gas target in 2020 with a high (£146/tCO2 - nominal prices) buy-out price Table 16: Option 3a, CBA summary Table 17: Option 3a, pros/cons Table 18: Option 3a, expected market impact Option 3a +++ ++ ++ + + Please note, the number of + signs (3 max) indicates assumed likelihood of given abatement pathway being used to achieve FQD target under this policy option.
+S1601 As with option 2, it is likely that significant volumes of credits for existing UER projects could be supplied at a £146/tCO2 buy-out price level.
+S1602 The extent to which these credits will be available is unclear.
+S1603 6.37 It is also possible that a £146/tCO2 buy-out price could be sufficient to drive some investment in new UER projects which will generate CO2 savings in 2020 and beyond (as the new UER projects are assumed to remain in place after 2020).
+S1604 6.38 It is also likely that suppliers would be able to deliver biofuel GHG savings from biofuels supplied under the RTFO for less than £146/tCO2.
+S1605 6.39 GHG savings from increased supply of alternative low GHG fossil fuels and savings from an increase in the volume of biofuels (over and above what is supplied in the baseline) could also be supplied for less than £146/tCO2.
+S1606 High additionality: Net present cost (£m): 12 to 293; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.00; 2020 pump price impact (ppl inc VAT) (max): 0.84; Total GHG savings 2018-20 (MtCO e) 2: 2.53; Net present benefits (£m): 148; NPV (£m): -145 to 136.
+S1607 Low additionality: Net present cost (£m): 0.3 to 293; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.00; 2020 pump price impact (ppl inc VAT) (max): 0.84; Total GHG savings 2018-20 (MtCO e) 2: 0.00; Net present benefits (£m): 0; NPV (£m): -293 to - 0.3.
+S1608 Pros: • lowest risk of suppliers buying out and UK not complying with GHG target.
+S1609 Cons: • highest buy-out price therefore highest potential costs.
+S1611 Option 3a: +++; ++; ++; +; +.
+S1613 Our central estimate of the additional GHG saving requirement needed to meet the GHG target (over and above the GHG savings which are delivered in the baseline by the RTFO) is 2. MtCO2e in 2020. ** (Reference: 32)
+S1614 6.41 At a £146/tCO2 buy-out price, this implies a maximum annual cost of £336m (undiscounted) in 2020, which equates to an additional 0.84 ppl (including VAT) on the pump price.
+S1615 The (discounted) maximum present value cost estimated for this option is £293m. It is important to note that these cost estimates represent a maximum potential cost for a £146/tCO2 buy-out price and that actual costs could come at a lower level if suppliers are able to identify compliance options which cost less than £146/tCO2.
+S1616 The actual costs of this option would be no greater than under option 1a if there were sufficient compliance options available at a price below £7/tCO2, and no greater than under option 2a if there were sufficient compliance options available at a price below £74/tCO2, to meet the target.
+S1617 6.42 For the 'low additionality' scenario, we assume that the minimum potential compliance cost is determined by the administrative cost of generating a certificate.
+S1618 We estimate this to be £0.12/tCO2.
+S1619 This implies a minimum (undiscounted) cost of £0.3m in 2020, which has a negligible impact on pump prices.
+S1620 The minimum present value (i.e. discounted) cost under the 'low additionality' scenario estimated for this option is £0.3m.
+S1621 6.43 For the 'high additionality' scenario, we assume that the minimum potential compliance cost is determined by the cost of purchasing an EU ETS certificate (which we use to proxy the minimum cost of purchasing GHG credits savings from CDM-accredited UER projects).
+S1622 This implies a minimum (undiscounted) cost of £14m in 2020, which equates to an additional 0.03 ppl (including VAT) on the pump price.
+S1623 The minimum present value (i.e. discounted) cost under the 'high additionality' scenario estimated for this option is £12m.
+S1624 6.44 There remains a risk under this option that suppliers are unable to acquire sufficient GHG credits that cost less than the £146/tCO2 buy-out price, and so choose to ‘buy out’.
+S1625 If this were the case the Government would accrue revenue to offset the costs from fuel suppliers buying out but would also bear the risk of infraction and any associated fines.
+S1626 However, due to the high buy-out price this risk is lower than under options 1 and 2.
+S1627 There remains a risk under this option that suppliers are unable to acquire sufficient GHG credits that cost less than the £146/tCO2 buy-out price, and so choose to ‘buy out’.
+S1628 If this were the case the Government would accrue revenue to offset the costs from fuel suppliers buying out but would also bear the risk of infraction and any associated fines.
+S1629 However, due to the high buy-out price this risk is lower than under options 1 and 2.
+S1630 Estimated benefits 6.45 As there is significant uncertainty over how suppliers will choose to meet the obligation and to what extent GHG savings will be 'additional', we have modelled a wide range of potential benefits.
+S1631 For the high additionality scenario we assume that 100% of GHG savings are additional while the low additionality scenarios assume that 0% of GHG savings under this scenario are actually additional (i.e. all credits come from existing UER projects which are not accredited under the CDM).
+S1632 This gives a GHG saving estimate of 0-2. MtCO2e in 2020. ** (Reference: 32)
+S1633 6.46 Potential benefits have only been assessed for the period to 2018 to 2020.
+S1634 It is possible that (in the case of capital investment in new upstream emission reduction projects) GHG saving benefits could run further into the future.
+S1635 However, given the significant uncertainty in how suppliers will choose to comply with a GHG obligation we have not been able to quantify these potential benefits.
+S1636 Put in place a multi-year greenhouse gas target trajectory (2% in 2018, 4% in 2019, 6% in 2020) with a high (£146/tCO2 - nominal prices) buy-out price Table 19: option 3b, CBA summary Table 20: Option 3b, pros/cons Table 21: Option 3b, expected market impact Option 3a +++ ++ ++ + + Same as for option 3a.
+S1638 High additionality: Net present cost (£m): 13 to 327; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.09; 2020 pump price impact (ppl inc VAT) (max): 0.84; Total GHG savings 2018-20 (MtCO e) 2: 2.81; Net present benefits (£m): 165; NPV (£m): -162 to 152.
+S1639 Low additionality: Net present cost (£m): 0.3 to 327; 2018 pump price impact (ppl inc VAT) (max): 0.00; 2019 pump price impact (ppl inc VAT) (max): 0.09; 2020 pump price impact (ppl inc VAT) (max): 0.84; Total GHG savings 2018-20 (MtCO e) 2: 0.00; Net present benefits (£m): 0; NPV (£m): -327 to - 0.3.
+S1640 Pros: as option 3a plus: • targets in 2018 and 2019 give suppliers time to adapt to new regulations, spread the costs of any investments and allow the government to better assess the merits for potential extension beyond 2020; and • delivers higher estimated GHG savings than 3a.
+S1641 Cons: as option 3a plus: • targets in 2018 and 2019 increase costs relative to 3a.
+S1643 Option 3a: +++; ++; ++; +; +.
+S1644 Estimated cost 6.47 Our central estimate of the additional GHG saving requirement needed to meet the GHG target (over and above the GHG savings which are delivered in the baseline by the RTFO) is 2. MtCO2e in 2020. ** (Reference: 32)
+S1645 6.48 At a £146/tCO2 buy-out price, this implies a maximum annual cost of £336m (undiscounted) in 2020, which equates to an additional 0.84ppl (including VAT) on the pump price.
+S1646 The present value (discounted) cost estimated for this option is £327m. It is important to note that these cost estimates represent a maximum potential cost for a £146/tCO2 buy-out price and that actual costs could come at a lower level if suppliers are able to acquire GHG credits which cost less than £146/tCO2.
+S1647 The actual costs of this option would be no greater than under option 1b if there were sufficient compliance options available at a price below £7/tCO2, and no greater than under option 2b if there were sufficient compliance options available at a price below £74/tCO2, to meet the target.
+S1648 6.49 For the 'low additionality' scenario, we assume that the minimum potential compliance cost is determined by the administrative cost of generating a certificate.
+S1649 We estimate this to be £0.12/tCO2.
+S1650 This implies a minimum (undiscounted) cost of £0.3m in 2020, which has a negligible impact on pump prices.
+S1651 The minimum present value (i.e. discounted) cost under the 'low additionality' scenario estimated for this option is £0.3m.
+S1652 6.50 For the 'high additionality' scenario, we assume that the minimum potential compliance cost is determined by the cost of purchasing an EU ETS certificate (which we use to proxy the minimum cost of purchasing GHG credits savings from CDM-accredited UER projects).
+S1653 This implies a minimum (undiscounted) cost of £14m in 2020, which equates to an additional 0.03ppl (including VAT) on the pump price.
+S1654 The minimum present value (i.e. discounted) cost under the 'high additionality' scenario estimated for this option is £13m.
+S1655 6.51 As under option 3a, there remains a risk that suppliers are unable to acquire sufficient GHG credits that cost less than the £146/tCO2 buy-out price, and so choose to actually ‘buy out’.
+S1656 If this were the case the Government would accrue revenue to offset the costs from fuel suppliers buying out but would also bear the risk of infraction and any associated fines.
+S1657 However, this risk is likely to be small and significantly smaller than under options 1 or 2.
+S1658 Estimated benefits 6.52 As there is significant uncertainty over how suppliers will choose to meet the obligation and to what extent GHG savings will be 'additional', we have modelled a wide range of potential benefits.
+S1659 As with option 3a, we assume that fuel suppliers will preferentially purchase credits from existing UER projects.
+S1660 These could be from either CDM-accredited (which we assume generate 'additional' GHG savings) or non- CDM-accredited projects (which we assume do not generate 'additional' GHG savings).
+S1661 However, it is possible that insufficient volumes of these credits will be available, so fuel suppliers may also choose to use credits from other sources (e.g. new UER projects, increased biofuel GHG savings, increased supply of biofuels).
+S1662 6.53 For the high additionality scenario we assume that 100% of these savings are additional, while the low additionality scenarios assume that only 0% of GHG savings under this scenario are actually additional (i.e. all credits come from existing UER projects which are not accredited under the CDM).
+S1663 This gives a GHG saving estimate of 0-2. MtCO2e in 2019 and 2020. ** (Reference: 34)
+S1664 6.54 While the quantified GHG savings are exactly the same as under option 2b, it should be noted that option 3b would deliver higher GHG savings if there were insufficient credits available at a buy-out price of £74/tCO2.
+S1665 6.55 Potential benefits have only been assessed for the period to 2018 to 2020.
+S1666 It is possible that (in the case of capital investment in new upstream emission reduction projects) GHG saving benefits could run further into the future.
+S1667 However, given the significant uncertainty in how suppliers will choose to comply with a GHG obligation we have not been able to quantify these potential benefits.
+S1730 Our assessment of Upstream Emissions Reduction project abatement cost is based upon analysis carried out by the International Council for Clean Transportation (ICCT) on behalf of the EU (http://www.theicct.org/reduction-upstream-greenhouse- gas-emissions-flaring-and-venting).
+S1731 The first chart below shows estimated UER abatement costs with a 1 year payback period and the second chart shows estimated UER abatement costs with a 10 year payback period.

@@ -1,0 +1,22 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Complex fares system undermining trust",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line \"the fares system is complicated and hard to navigate, and the impact this has on people\u2019s trust in the railway\" is a bare assertion with no statistic, survey, finding or reference."
+    },
+    {
+      "theme": "Historical origins of complexity",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The line that complexity \"has developed over time\" and will take time to undo without significant costs is reasoning and assertion, with no data, source or analysis behind it."
+    }
+  ],
+  "reasoning": "The extract has two core themes, and both rest on assertion alone. In \"Complex fares system undermining trust\", the document says \"the fares system is complicated and hard to navigate, and the impact this has on people\u2019s trust in the railway\". It gives no passenger survey, complaints data, trust measure or example of the complexity. It also gives no consultation response, although a claim about passengers' trust reads as though it should have one. In \"Historical origins of complexity\", the document says the complexity \"has developed over time\" and that undoing it risks \"significant costs for passengers or taxpayers\". It offers no history of how the fares structure grew and no cost estimate. The extract has no references or links. Neither theme cites evidence or the department's own analysis. A citizen cannot see what is known about the scale, causes or effects of the problem. Both core themes score 0, so the mean is 0 and the section scores 0. The strongest counter-example is that the statements are plausible and widely shared, and the document may have discussed the evidence in sentences not shown here. Plausibility is reasoning, not evidence, so it does not reach level 1. To reach level 1 the document would need to offer some evidence for these claims. That could be passenger survey results on trust and understanding, complaints figures, or a count of fare types and rules. To reach level 2 it would also need to cite the sources or describe how its own data were collected.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

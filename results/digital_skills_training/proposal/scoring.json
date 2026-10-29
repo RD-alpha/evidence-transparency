@@ -1,0 +1,16 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Free basic digital skills training",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The three lines only describe the policy (free training for adults who need it) and assert it will help people get 'on the ladder of opportunity', with no statistic, finding, source or primary evidence and no references or links."
+    }
+  ],
+  "reasoning": "The only core theme, 'Free basic digital skills training', scores level 0. Its three lines announce the measure: 'publicly-funded basic digital skills training being offered free of charge to adults in England who need it', 'We will make sure all adults who need it can receive free training', and 'people who lack basic digital skills will get the training they need to get on the ladder of opportunity for the jobs of the future'. These describe what the policy will do and state its intended benefits. They are commitments and reasoning, not evidence. No statistic, research finding, named report, consultation response or comparison with earlier schemes is offered, and the references and links blocks are empty. A citizen cannot see why free training was chosen over other options, how many adults lack basic digital skills, whether similar training has worked before, or what it will cost and deliver. The mean of the core themes is 0, so the section scores 0. The strongest counter-example is that the claim that people lacking skills will reach the jobs of the future implies a causal link between training and employment, which a generous reader might treat as an unnamed finding at level 1. It is stated as an expected outcome with nothing offered as grounds, so I do not count it. To reach level 1 the document would need to give evidence on the scale of the skills gap or on what such training achieves, and explain how that led to this intervention. Level 2 would need those sources cited and linked to the policy design.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

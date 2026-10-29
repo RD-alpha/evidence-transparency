@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Outdated match test",
+        "claim": "The current match test requires covers to be tested over a highly flammable, unrepresentative foam that no longer reflects how modern furniture is actually constructed, forcing unnecessarily heavy use of flame retardants."
+      },
+      {
+        "name": "Flame retardant health and environmental harms",
+        "claim": "Growing scientific and regulatory evidence (REACH, Stockholm Convention, academic studies) shows that brominated and other flame retardants used to meet the Regulations can harm human health and the environment."
+      },
+      {
+        "name": "Scope ambiguity",
+        "claim": "Thirty years of changing furniture design and fashions have left the scope of the Regulations unclear, creating 'grey areas' for products such as scatter cushions, outdoor furniture, sleeping bags and baby items."
+      },
+      {
+        "name": "Traceability and enforcement gaps",
+        "claim": "Existing traceability requirements lack the supply-chain information Trading Standards need to trace non-compliant products back through the supply chain and enforce the Regulations effectively."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Revised match test and routes to compliance",
+        "claim": "The Government proposes a new match test (combustion-modified foam plus fibre wrap), with protective-cover and components-close-to-cover testing routes and removal of the cigarette test for compliant covers, to maintain fire safety while enabling reduced flame retardant use and lower costs, replacing the more complex 2014 proposals after stakeholder and technical panel feedback."
+      },
+      {
+        "name": "Clarified scope with targeted exclusions",
+        "claim": "The Government proposes a simplified 'everything in scope unless excluded' definition together with specific exclusions (certain baby products, washable sleeping bags/mattress protectors, unsuitable outdoor furniture, clarified cushion/seat-pad definitions, labelled second-hand furniture) to remove ambiguity while largely preserving the current status quo."
+      },
+      {
+        "name": "Strengthened traceability and enforcement",
+        "claim": "The Government proposes requiring manufacturers to keep technical files, simplifying the permanent label to include flame-retardant information, dropping temporary display labels, and extending Trading Standards' prosecution window to 12 months, in order to improve supply-chain traceability and enforcement."
+      },
+      {
+        "name": "Choice of regulatory update over alternatives",
+        "claim": "Updating the Regulations (Option 1) is preferred over doing nothing or revoking them to rely on weaker EU standards, because only this option meets the objectives of maintaining safety, cutting flame retardant use and reducing business costs."
+      }
+    ],
+    "note": "The proposal is a package of three linked reform strands (testing, scope, traceability) justified together with an overarching choice to update rather than scrap or leave the Regulations unchanged."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Transition period design",
+        "claim": "A 24-month transition period for manufacturers to adopt the new test and for retailers to sell off non-compliant stock was chosen, extended from an originally proposed 18 months, to balance business adaptation costs (especially for SMEs) against the need for timely implementation."
+      },
+      {
+        "name": "Statutory mechanism for delivery",
+        "claim": "The changes will be delivered by revoking the 1988 Regulations and replacing them with a new consolidated 2016 Statutory Instrument that includes transitional/savings provisions and a built-in five-year review (sunset) clause."
+      },
+      {
+        "name": "Technical file and labelling specification",
+        "claim": "Detailed requirements for the content of manufacturers' technical files and the simplified permanent label are specified as the practical means of embedding the traceability and enforcement objectives, building on existing industry good practice and other product-safety regimes."
+      }
+    ],
+    "note": "Much of the material tagged as implementation consists of detailed technical test and label specifications that elaborate the proposal design rather than the delivery process itself."
+  }
+}

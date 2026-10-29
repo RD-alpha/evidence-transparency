@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Link State Pension age to life expectancy",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 32% proportion is tied to the past 25 years' experience via Reference 1/38/39 (31.3% for 2028-2060 vs 1992-2016), the \u00a374bn/\u00a3250bn savings are given, and alternatives (lower pensions, higher taxes) are explained, but the poverty and burden claims are asserted without evidence and uncertainty is assessed elsewhere only for the timetable."
+    },
+    {
+      "theme": "Rise to 68 in 2037\u201339",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Table A with References 43, 44, 37 and 17 shows the \u00a374bn saving, the \u00a311bn/household method and the modelling basis (OBR assumptions, FSR January 2017), and the 32% timetable is rejected with reasoning, but the document does not assess the model's limitations, and the omitted working-age benefit and tax effects are only noted as 'considerably smaller' without estimates; lines on uncertainty from the Uncertainty theme (GAD 5-year shift under 2012 vs 2014 ONS projections) were counted from outside."
+    },
+    {
+      "theme": "Uncertainty and deferred decisions",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The document acknowledges that projections are uncertain, gives the Government Actuary example of the 2012- vs 2014-based projections bringing the rise forward 5 years, and commits to further reviews, but it carries no citations and does not rigorously assess the evidence base."
+    },
+    {
+      "theme": "Universal State Pension age",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "It relies on Cridland's findings, PPI analysis and one ONS reference (40) for life expectancy across socio-economic groups, but most claims (complexity, regional options impractical, early access inadequate) are reasoned or attributed with no source, so only a single line is cited."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Cited sources such as References 15, 16, 22, 24, 33 and 35 back the 0.3% and 1% GDP claims and the employment effect (6.3 points), but many lines on process are uncited and little assessment of the evidence is given."
+    }
+  ],
+  "reasoning": "The two core themes that most directly justify raising the State Pension age to 68 both reach level 2. 'Link State Pension age to life expectancy' relies on the 32% benchmark, which is explained and cited (Reference 1/38/39: 31.3% of adult life for those reaching SPA 2028-2060, compared with the 1992-2016 experience at age 65). The \u00a374bn and \u00a3250bn savings are given, and alternatives are discussed, though the claims that lower pensions would raise poverty or higher taxes would burden workers are asserted with no figures. 'Rise to 68 in 2037\u201339' is the best-evidenced theme: Table A sets out year-by-year expenditure under both timetables, with References 43, 44, 37 and 17 explaining the model, its assumptions (OBR uprating, January 2017 FSR) and the \u00a3400 per household calculation. 'Uncertainty and deferred decisions' also reaches level 2, since it acknowledges that projections are uncertain and cites the Government Actuary's finding that a different ONS projection moves the rise forward 5 years, but it has no references. 'Universal State Pension age' reaches only level 1. Mean of the core themes: (2+2+2+1)/4 = 1.75, which rounds to 2. The strongest counter-example is that the document never assesses weaknesses in its own modelling, such as the omitted tax and benefit effects, which are only called 'considerably smaller' without estimates, and the evidence is mostly the department's own model; this argues for level 1. To reach level 3 the document would need to assess the quality of the evidence, quantify the omitted effects and the sensitivity of the savings to different projections, and cite its uncertainty claims.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

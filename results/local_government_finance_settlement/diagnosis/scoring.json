@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Flat funding and move to self-sufficiency",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Line 1.2.1 asserts that core funding is 'broadly flat, in cash terms' with no figures, source or method, and nothing in the extract supports the claim that self-sufficiency reform is needed."
+    },
+    {
+      "theme": "Rising parish precepts",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Line 3.3.1 gives a 6.1% average Band D increase for 2016/17 'notably higher' than the previous 5 years (Table 1) and about 8,800 parishes, but the table values are not shown, there is no citation, no method for the department's own data, and no acknowledgement of limitations."
+    },
+    {
+      "theme": "Revaluation effects outside local control",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 3.4.1-3.4.2 describe how the 2017 revaluation works and assert it creates change outside local control, with no statistic, finding, source or modelling shown."
+    }
+  ],
+  "reasoning": "The two core themes in this extract are 'Flat funding and move to self-sufficiency' and 'Revaluation effects outside local control'. The third theme, 'Rising parish precepts', is also treated as core in the input (all three carry weight=core). Levels: flat funding 0, parish precepts 1, revaluation 0. The mean is 0.33, which rounds to 0. The flat funding claim rests on a single uncited assertion, 1.2.1 ('broadly flat, in cash terms'), with no figures or time series. The revaluation theme (3.4.1-3.4.2) describes a mechanism and reasons about its effect, but offers no statistics or modelling of how much individual authorities' income would shift. The strongest counter-example to a score of 0 is the parish theme, which does offer numbers: the 6.1% average Band D rise in 2016/17, a comparison with the previous five years (Table 1), and the figure of around 8,800 parishes. That is why it reaches level 1. It still falls short of level 2 because the table values are not visible, there is no reference or link, and the document does not say how the data were collected. It also does not assess the data or its limits. To move up, the document would need to state the flat-funding figures and their source, quantify the revaluation effects on authorities, and cite the parish precept data with its collection method. It would then need to acknowledge uncertainties, such as variation among parishes.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

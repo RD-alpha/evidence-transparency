@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "High, variable and opaque tenant fees",
+        "claim": "Letting agent fees charged to tenants vary considerably between agents for broadly similar services and are displayed inconsistently, making them hard for tenants to understand or compare."
+      },
+      {
+        "name": "Misaligned market incentives between landlords and tenants",
+        "claim": "Because landlords, not tenants, choose and pay letting agents, agents have little incentive to keep tenant fees low and may even keep landlord fees down by charging tenants more, so competitive pressure on tenant fees is weak."
+      },
+      {
+        "name": "Existing regulation has failed to solve the problem",
+        "claim": "Current measures such as mandatory redress scheme membership and the Consumer Rights Act 2015 transparency requirements have not been effective or consistently enforced and have not curbed high or opaque fees."
+      },
+      {
+        "name": "Financial harm and barriers to tenants",
+        "claim": "High, repeated and unpredictable letting fees impose significant financial burdens on tenants, deterring house moves, causing debt, and making it harder to save for a home deposit."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Using landlords' stronger market position to realign incentives",
+        "claim": "Because landlords can shop around for agents while tenants cannot, banning tenant fees shifts cost responsibility to landlords, sharpening agents' incentives to compete on price and quality for landlord business rather than extracting fees from tenants."
+      },
+      {
+        "name": "Scope and design of the ban, including exceptions",
+        "claim": "The ban will cover all agent, landlord and third-party fees charged to tenants beyond rent and a refundable deposit, while allowing limited exceptions such as holding deposits and tenant-caused charges to protect agents and landlords from unreasonable risk."
+      },
+      {
+        "name": "Scottish precedent as evidence for the policy's likely effects",
+        "claim": "Evidence from Scotland's long-standing ban on tenant fees shows that negative effects on rents and market health have been minimal, supporting confidence that a similar ban in England will not seriously harm the sector."
+      },
+      {
+        "name": "Acceptable trade-off of possible rent increases",
+        "claim": "Although some landlords may pass agent costs on through higher rents, this is a preferable and more transparent arrangement for tenants than hidden upfront fees."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Enforcement through local authorities building on existing practice",
+        "claim": "The ban should be enforced primarily by local authority Trading Standards, extending their existing role enforcing redress scheme membership and transparency requirements."
+      },
+      {
+        "name": "Additional enforcement infrastructure options",
+        "claim": "Because Trading Standards may need extra support, the Government is considering a lead enforcement authority (modelled on the Estate Agent sector), increased data sharing, and wider regulation of letting agents to make enforcement more consistent and effective."
+      },
+      {
+        "name": "Empowering and educating tenants to drive compliance",
+        "claim": "Educating tenants about their rights and encouraging them to challenge unlawful fees, including via local authorities or the county court, will reduce the burden on enforcement bodies and improve compliance."
+      },
+      {
+        "name": "Choice and design of penalties for non-compliance",
+        "claim": "Non-compliance should carry a civil penalty, potentially set at a higher level than existing fines (drawing on the £30,000 banning order precedent) or even become a criminal banning order offence, to provide an effective deterrent."
+      }
+    ],
+    "note": ""
+  }
+}

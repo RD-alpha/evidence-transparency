@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Escalating and diversifying threat actors",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Incident figures (TalkTalk: 157,000 customers, \u00a360m, 95,000 lost; Bangladesh Bank US$951m attempted, US$101m through; Ukraine outage over 220,000 consumers) and a BAE conclusion are given with their significance, but no line carries a reference or link and the trend claims are asserted without sources."
+    },
+    {
+      "theme": "Growing dependency and vulnerability of systems",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims such as 'We are critically dependent on the Internet' and 'it continues to be the vulnerability of the victim, rather than the ingenuity of the attacker' are argument and assertion with no statistic, finding or source; the only reference is to the 2015 NSS Tier One rating, with no detail on what it shows."
+    },
+    {
+      "theme": "Market failure and weak cyber behaviour",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "'The market is not valuing, and therefore not managing, cyber risk correctly' and 'Too many organisations are still suffering breaches at even the most basic level' are asserted with no data, survey or source."
+    },
+    {
+      "theme": "Skills and sector gaps",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines such as 'We lack the skills and knowledge to meet our cyber security needs' and 'Too few graduates...' are asserted without any figures, surveys or sources."
+    },
+    {
+      "theme": "International cooperation and state threats",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines are reasoning and description of international agreement, with no figures, named reports or citations."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only evidence is the sector employment figure ('1.6 million people in over 40,000 organisations') and the TalkTalk reporting example, both uncited; the rest is assertion."
+    }
+  ],
+  "reasoning": "The extract offers some evidence for the diagnosis of growing cyber threats and insecure systems, but almost none of it can be traced. Four core themes were scored. 'Escalating and diversifying threat actors' reaches level 1. It gives concrete incident figures, such as TalkTalk's 157,000 customers at risk, \u00a360m cost and 95,000 lost customers, Bangladesh Bank's US$951 million attempted fraud with US$101 million completed, and the Ukraine outage affecting 'more than 220,000 consumers', plus a BAE conclusion. These are used to illustrate the trend, but no line carries a reference or link and the claims about rising frequency and sophistication are asserted. 'Growing dependency and vulnerability of systems' (0), 'Market failure and weak cyber behaviour' (0) and 'Skills and sector gaps' (0) rest on reasoning and assertion, for example 'The market is not valuing, and therefore not managing, cyber risk correctly' and 'We lack the skills and knowledge to meet our cyber security needs'. They have no statistics, surveys or sources. The mean of the core levels is 0.25, which rounds to 0. The strongest counter-example is the incident theme, whose specific figures would justify level 1 on their own, but one theme at level 1 cannot lift the mean. To reach level 1 the document would need to back its claims on market failure, skills and system vulnerability with data or named findings. To reach level 2 it would also need to cite sources and say how any survey or analysis was carried out. Level 3 would need the document to assess the strength and limits of that evidence.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.25,
+  "score_consistent": true,
+  "missing_core": []
+}

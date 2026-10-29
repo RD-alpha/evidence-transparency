@@ -1,0 +1,22 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Regulatory definition of categories and offence list",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines only describe how the list would be set out in regulations and how categories would be labelled (e.g. Category One, band 1.1), with no evidence that this approach will work or why it was chosen."
+    },
+    {
+      "theme": "Bar fee-sharing protocol",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The line 'We understand that the Bar would amend their fee sharing protocol...' is an unsourced assertion of understanding with no named source, data or explanation of the basis for the 'small minority' claim."
+    }
+  ],
+  "reasoning": "Both core themes in this extract describe delivery mechanics without offering evidence for them. The first, 'Regulatory definition of categories and offence list', is scored 0. Lines such as 'The final version of this list would be set out in regulations and would be determinative' and 'All statutory offences are proposed to be listed in Regulations by offence category and band' describe what will happen. The labelling lines ('Category One', 'band 1.1') are also descriptions. No regulation is cited as a constraint that forced this route, and no alternatives or reasons for rejecting them are given. The second, 'Bar fee-sharing protocol', is scored 0. 'We understand that the Bar would amend their fee sharing protocol' is an assertion with no named source, such as a consultation response or correspondence. The claim that fees 'would only deplete in the small minority of cases featuring in excess of six standard appearances' is a quantitative-sounding claim with no data, no source and no method. The strongest counter-example is that 'We understand' hints at some underlying engagement with the Bar, and 'small minority' implies a case-mix analysis. That reaches level 1 only if it were presented as evidence, but nothing is shown of what was obtained or how, so it stays at 0. The mean of the core themes is 0, giving a score of 0. To reach level 1, the document would need to state the evidence behind the fee-sharing assumption (for example the proportion of cases with more than six appearances, or the Bar's confirmation) and explain how it supports the chosen delivery route. Level 2 would also require this to be cited or its method set out.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

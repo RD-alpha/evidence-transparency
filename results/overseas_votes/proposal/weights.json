@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "Votes for life / enfranchising long-term expatriates",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Costs of the policy",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Market failure in cultural provision",
+        "claim": "Museums and galleries maintain objects and educate people about culture and local history, but because of the positive externalities of these activities they would be under-provided without government intervention."
+      }
+    ],
+    "note": "The diagnosis is very short, consisting of two sentences that assert a market failure without presenting scale, causes or evidence on exhibitions specifically."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Corporation tax relief modelled on existing creative reliefs",
+        "claim": "A tax relief on qualifying exhibition costs, modelled as closely as possible on existing creative sector reliefs for simplicity and fairness, will encourage more and higher quality temporary and touring exhibitions across the UK and abroad."
+      },
+      {
+        "name": "Targeting to charitable and educational institutions",
+        "claim": "The relief should be limited to non-commercial museums and galleries (including charities' trading subsidiaries and local authority companies) because the market failure lies in charitable and educational objectives, and commercial businesses are therefore excluded."
+      },
+      {
+        "name": "Definitions and eligible costs",
+        "claim": "Broad but abuse-resistant definitions of museum, gallery, exhibition and touring exhibition, and a restriction to direct core expenditure, will ensure the relief meets its objective by covering the diverse sector while excluding sales, promotion, running and indirect costs."
+      },
+      {
+        "name": "Design criteria and open questions",
+        "claim": "The relief will be judged against criteria of effectiveness, affordability, simplicity, sustainability, resistance to abuse and EU law compliance, with the rate and unresolved design details settled after consultation."
+      }
+    ],
+    "note": "The costs and benefits are asserted qualitatively in the impact assessment, with no estimates, and no alternative interventions are considered."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Claims mechanism through corporation tax",
+        "claim": "The relief will be delivered as an additional corporation tax deduction surrenderable for a payable credit, with each exhibition treated as a separate trade and charities or local authority bodies claiming through trading subsidiaries, following the model of previous creative reliefs."
+      },
+      {
+        "name": "Limits on relief and State aid compliance",
+        "claim": "The relief will be capped at 80% of core expenditure with at least 25% incurred in the EEA and kept within General Block Exemption Regulation limits, because the UK remains bound by EU State aid obligations until exit."
+      },
+      {
+        "name": "Anti-abuse safeguards",
+        "claim": "Rules to prevent inflated claims, artificial transactions and avoidance must be built in from the outset to keep the relief sustainable and avoid the regime being replaced, as happened with the old film tax scheme."
+      },
+      {
+        "name": "Timetable and consultation to settle details",
+        "claim": "The relief will commence on 1 April 2017 with draft legislation published in autumn 2016, while the sector is consulted on the definitions and the remaining design points are decided after the consultation."
+      }
+    ],
+    "note": "Much of the implementation material is procedural detail and worked examples; the consultation is also shorter than the 12 weeks the document's own code of practice recommends."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Devolved vessel licensing with managed mobility",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Reform of the economic link condition",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Administration discretion over FQA transfers",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Minor and consequential updates",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation scope and context",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "A single national formula built on local practice and evidence",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Rests on the department's own analysis of local authority formulae (Reference 2, 'Schools block funding formulae 2016 to 2017') and unnamed 'best available evidence' (lines 1.6, 'crucially... best available evidence'), but the link from evidence to a single formula is largely asserted and uncertainty is only briefly noted ('averages can only be a starting point', 'like for like comparison... not possible').}, {"
+    },
+    {
+      "theme": "Greater weighting for additional needs and broader disadvantage",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Specific LA spend figures (\u00a34.1bn/13%, 80% of LAs at 5%+), Hackney example (Reference 18), EEF toolkit (Reference 20), EPPSE and Sutherland et al. (Reference 22) and gain figures with defined groups (References 32-36, 57) are cited and linked to the 18% weighting, though the 18% figure itself is not derived and evidence quality is not assessed.}, {"
+    },
+    {
+      "theme": "Pupil-led basic funding with a maintained primary-secondary ratio",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Gibbons and McNally 2013 (Reference 10) is cited and its conclusions about similar impact across phases and no case for change are explained and linked to keeping the 1:1.29 ratio (lines 2.4-2.5), with LA data on the ratio and pupil-led share (References 11, 15, 28); there is little critical assessment and the 91%/73% splits are only partly justified.}, {"
+    },
+    {
+      "theme": "School-led factors: lower lump sum, sparsity, premises and area costs",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Consultation support is reported (2.77 'strong support', 'majority of respondents') without response numbers or question wording, and the \u00a3110,000 lump sum is set with an acknowledgement that 'no consensus' exists on costs (2.53) but no evidence that it is the right level; references 6 and 12 only support RPIX and historic spend details.}, {"
+    },
+    {
+      "theme": "Floor for stability alongside fairness",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The department's own modelling gives counts of schools gaining and losing (10,740; 9,128; 5,500 benefiting from floor; 3.13, 3.22; Reference 31 caveats) but the document says little about why -3% was chosen, and no method for the modelling is explained in this theme beyond a note on 2016-17 data.}, {"
+    }
+  ],
+  "reasoning": "Two of the five core themes reach level 2, three reach level 1; the mean is (1+2+2+1+1)/5 = 1.4, which rounds to 1.\n\nThe strongest themes are additional needs and the primary-secondary ratio. For additional needs, the document cites the EEF Toolkit (Reference 20), EPPSE and Sutherland et al. (Reference 22) and gives a Hackney example (Reference 18) for why 'basic per-pupil funding' hides disadvantage funding, alongside the figures '\u00a34.1 billion, or 13%' and the gain percentages with defined groups (References 32-36). For the ratio, Gibbons and McNally (Reference 10) is cited and its conclusion is used explicitly (2.4-2.5).\n\nThe weaker themes largely assert. The single-formula theme leans on 'the best available evidence' without naming it, and the floor and lump sum themes describe values (-3%, \u00a3110,000) with little evidence for why they were set there; line 2.53 even concedes 'no consensus' on fixed costs. Consultation support is reported without response numbers or question wording.\n\nThe strongest counter-example to level 1 is the additional needs theme, which could be read as level 3 because the document acknowledges that a like-for-like comparison with local authority factors is not possible and that local authority averages give 'a false picture'. But it never assesses the quality of the evidence behind the 18% weighting, and the choice of 18% is not derived from it.\n\nTo reach level 2 overall, the document would have to cite sources and show the chain of reasoning for the single formula, lump sum and floor choices, and explain how the figures were obtained. Level 3 would need an explicit assessment of the strength and limits of the evidence.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.4,
+  "score_consistent": true,
+  "missing_core": []
+}

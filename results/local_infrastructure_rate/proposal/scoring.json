@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Discounted Local Infrastructure Rate",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 1-7 only assert that infrastructure raises productivity and that cheaper borrowing will help; they offer no statistic, finding or source, and the lines restating the Autumn Statement 2016 announcement and the rate are descriptions, not evidence."
+    },
+    {
+      "theme": "Complementing wider infrastructure funding",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Figures such as central investment rising from \u00a314 billion to \u00a322 billion, \u00a323 billion local capital spend including \u00a38 billion on transport, the \u00a32.3 billion Housing Infrastructure Fund and \u00a31.8 billion Growth Deals are uncited and mostly describe commitments, giving only weak level 1 context for how the rate fits."
+    },
+    {
+      "theme": "Expected impacts",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Reference 2 (Fixing the foundations) is cited for the productivity link and the impact assessment acknowledges crowding-out and reprioritisation risks, but the expectation of significant take-up is unsupported and the source is linked only loosely to the rate, so it does not reach level 2."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The operational and equalities statements are bare assertions with no evidence or method shown."
+    }
+  ],
+  "reasoning": "The three core themes are the Discounted Local Infrastructure Rate (level 0), Complementing wider infrastructure funding (level 1) and Expected impacts (level 1); the mean is 0.67, which rounds to 1. The rate theme rests on reasoning: 'Investing in infrastructure that raises productivity could drive long-term improvements in wages and living standards' and 'The new rate would make it easier for authorities to finance infrastructure projects' carry no statistic, finding or source. The complementary-funding theme cites figures (\u00a314bn to \u00a322bn, \u00a323bn local capital spend, \u00a32.3bn Housing Infrastructure Fund, \u00a31.8bn Growth Deals) but without references, and these mostly describe commitments rather than show the rate will work. The impacts theme gives the only citation, Reference 2, the 2015 productivity plan 'Fixing the foundations', which is said to show the wage-productivity relationship and the contribution of long-term infrastructure investment. It also acknowledges that lending 'may reduce demand for private sector finance', a small nod to uncertainty. The strongest counter-example to level 1 is that Reference 2 is a followable source, which might suggest level 2 for the impacts theme. However, it supports the general productivity case, not why discounted lending at gilts + 60bp is the right tool, and the expected take-up is unevidenced. To reach level 2, the document would need to cite evidence on local borrowing costs, barriers to investment and past schemes, and explain how that evidence led to this rate and size. Level 3 would require assessing that evidence and its limits.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

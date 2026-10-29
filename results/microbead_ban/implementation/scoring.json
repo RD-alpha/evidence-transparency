@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Scope and definition of the ban",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines describing the <5mm threshold and product categories (exfoliating scrubs, shower gels, toothpastes) merely define the ban's scope with no evidence or data offered for why these thresholds or product categories were chosen."
+    },
+    {
+      "theme": "Phased timetable for manufacture and sale",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that phasing 'is designed to provide sufficient time for small- and medium-sized enterprises to comply' is pure reasoning with no supporting data, survey, or analysis of SME compliance timescales."
+    },
+    {
+      "theme": "Devolved and collaborative legislative approach",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines describing coordination with Devolved Administrations and their own legislative timetables are procedural description with no evidence offered for why this collaborative method was chosen over alternatives."
+    },
+    {
+      "theme": "Enforcement through civil sanctions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Reference 12 links to the Regulatory Enforcement and Sanctions Act 2008 only to describe what civil sanctions are available (sections 39, 42, 46), not to justify why civil sanctions were chosen as the enforcement route over other options."
+    },
+    {
+      "theme": "Geographic exclusions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line stating territories are excluded is a bare assertion with no evidence given."
+    },
+    {
+      "theme": "Consultation and implementation details",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This line merely cross-references another page of the document and offers no evidence itself."
+    }
+  ],
+  "reasoning": "All four core themes describe what will happen -- scope, timetable, devolved coordination, and enforcement mechanism -- but none offer evidence for why these particular delivery choices were made. The scope theme (lines on <5mm size and product list) is purely definitional. The timetable theme asserts that phasing 'is designed to provide sufficient time for small- and medium-sized enterprises to comply' but cites no data on SME burden or consultation findings to support this. The devolved approach theme describes a procedural arrangement ('will introduce legislation according to their own legislative processes and timetables') without evidence this coordination method was tested or justified. The enforcement theme is the strongest candidate for evidence: it cites Reference 12, linking to the Regulatory Enforcement and Sanctions Act 2008 sections 39, 42 and 46. However, this citation only describes what civil sanctions are available under existing law, not evidence that civil sanctions are the best enforcement route for microbeads compared to alternatives -- it describes current rules rather than justifying the choice, so it does not clear level 1. With all four core themes at 0, the mean is 0, giving a section score of 0. The strongest counter-example is the cited Act underpinning enforcement, but it functions as a definitional reference rather than evidence of effectiveness. To reach level 1, the document would need to show, for example, consultation responses or analysis explaining why civil sanctions, this timetable, or this devolved process were chosen over alternatives.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

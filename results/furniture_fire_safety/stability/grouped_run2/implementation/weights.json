@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Testing Regime and Routes to Compliance",
+      "reason": "This theme lays out the core mechanism of implementation—the new match test and multiple routes to compliance—detailing how the intervention will actually work, the choices between methods, and how costs/benefits are estimated for each route; remove it and there is no implementation method left to describe.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope and Exemptions",
+      "reason": "Defines which products the new regime applies to and which are excluded, bearing on how the intervention is delivered in practice, but the implementation case could still stand on the testing regime and transition arrangements without this scoping detail.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Record-Keeping, Labelling and Traceability Requirements",
+      "reason": "Adds administrative detail on documentation and traceability that supports enforcement but is a supplementary implementation detail rather than the central mechanism of delivering the policy change.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Transition Period and Implementation Timing",
+      "reason": "Specifies the timing and phasing of rollout (24-month transition), directly addressing how the intervention will be rolled out and the cost/benefit tradeoffs of different transition lengths, making it a central pillar of the implementation argument alongside the testing regime.",
+      "weight": "core"
+    },
+    {
+      "theme": "Cost Assessment and Strengthening the Evidence Base",
+      "reason": "Consists of generic statements about gathering better data through consultation; it acknowledges evidentiary gaps but does not itself carry the substantive argument for how implementation will proceed.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Guidance and Support for Business",
+      "reason": "Describes ancillary support measures (guidance, trade associations) to help businesses adapt, which are helpful but not the core justification for the chosen implementation method.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Master trust pension scheme regulations",
+  "alias": "master_trusts",
+  "uploaded_at": "2026-10-13T14:06:28.673538+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "14:06:28 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "master_trusts_press_release",
+      "title": "Master Trusts Press Release",
+      "sentence_count": 20,
+      "first_sentence": "S0001",
+      "last_sentence": "S0020",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 5
+    },
+    {
+      "alias": "master_trusts_notes",
+      "title": "Pension Schemes Bill Explanatory Notes",
+      "sentence_count": 440,
+      "first_sentence": "S0021",
+      "last_sentence": "S0460",
+      "reference_count": 3,
+      "first_reference": "1",
+      "last_reference": "3",
+      "link_count": 5
+    },
+    {
+      "alias": "master_trusts_bill",
+      "title": "Pension Schemes Bill",
+      "sentence_count": 471,
+      "first_sentence": "S0461",
+      "last_sentence": "S0931",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 0
+    }
+  ],
+  "appendix2_date": "19-20 October 2016",
+  "appendix2_type": "press release + explanatory notes + bill (combined in Appendix order)",
+  "extraction_note": "PDF table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

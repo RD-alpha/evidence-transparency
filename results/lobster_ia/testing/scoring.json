@@ -1,0 +1,5 @@
+{
+  "reasoning": "The extract contains only a single line: \"It will be reviewed.\" This gives no indication of what success measures will be used, no explanation of outcomes to be tracked, no testing plans, no evaluation timetable, and no mention of consultation. It does not even specify who will review, when, or against what criteria. There is no evidence of a process for developing success measures, nor any justification for why testing or evaluation might be unnecessary. The strongest counter-example to awarding even level 1 is that there is no measure of success mentioned at all - merely a vague promise of review, which is weaker than an indication of success measures. To reach level 1, the document would need to at least specify some outcome or metric that will be examined when it is 'reviewed'. To reach level 2, it would need to detail the review process, methodology, and timetable, or explain why testing is inapplicable. As it stands, this sentence conveys almost no substantive information about how success will be judged.",
+  "score": 0,
+  "block": true
+}

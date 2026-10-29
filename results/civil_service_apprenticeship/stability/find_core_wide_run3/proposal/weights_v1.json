@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Numerical apprenticeship target",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Workforce capability and skills development",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Diversity and social mobility",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Economic and business case",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Leading the wider Government apprenticeship agenda",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Quality over quantity",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Implementation and embedding in Civil Service structures",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Inclusive and modern employment offer",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

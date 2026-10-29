@@ -1,0 +1,35 @@
+{
+  "title": "Unexplained wealth orders",
+  "alias": "unexplained_wealth_orders",
+  "uploaded_at": "2026-10-13T14:06:28.681461+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "14:06:28 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "uwo_consultation_response",
+      "title": "Action Plan for AML and CTF: Consultation on Legislative Proposals",
+      "sentence_count": 300,
+      "first_sentence": "S0001",
+      "last_sentence": "S0300",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 3
+    },
+    {
+      "alias": "uwo_action_plan",
+      "title": "Action Plan for Anti-Money Laundering and Counter-Terrorist Finance",
+      "sentence_count": 1045,
+      "first_sentence": "S0301",
+      "last_sentence": "S1345",
+      "reference_count": 17,
+      "first_reference": "1",
+      "last_reference": "17",
+      "link_count": 0
+    }
+  ],
+  "appendix2_date": "13 October 2016 / 21 April 2016",
+  "appendix2_type": "government response + policy paper (combined in Appendix order)",
+  "extraction_note": "PDF table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

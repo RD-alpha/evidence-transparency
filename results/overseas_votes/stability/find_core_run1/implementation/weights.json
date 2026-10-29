@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Identity verification",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Address verification",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Annual renewal process",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Unchanged scope of the franchise",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Application process and special provisions",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Policy implementation and complexity",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

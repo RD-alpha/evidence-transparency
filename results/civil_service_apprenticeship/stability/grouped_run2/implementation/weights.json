@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Routes and Methods for Creating Apprenticeships",
+      "reason": "This theme directly specifies the three core delivery routes (converting external recruitment, upskilling existing staff, enhancing current schemes) that constitute the method for rolling out apprenticeships - without this the implementation aspect has no concrete mechanism to explain.",
+      "weight": "core"
+    },
+    {
+      "theme": "Recruitment, Pay and Talent Processes",
+      "reason": "Explains necessary supporting changes (pay models, recruitment/selection processes) needed to make the chosen routes work, bearing on how the intervention is operationalised, but is a supporting detail rather than the central delivery mechanism.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Career Paths, Professional Development and Talent Pipelines",
+      "reason": "Describes how apprenticeships are embedded into career structures and professional pathways, which is an important implementation detail but builds on the core routes rather than being itself the chosen method of delivery.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Governance, Delivery and Accountability",
+      "reason": "Sets out who is responsible for delivery (Cabinet Office SRO role, departmental targets, governance structures), directly addressing how the intervention will be rolled out and accountability for delivery - this is central to explaining the implementation method.",
+      "weight": "core"
+    },
+    {
+      "theme": "Geographic Coverage and Devolved Administrations",
+      "reason": "Clarifies scope across UK nations, a should-explain detail about where the policy applies but not a central pillar of how the intervention itself is implemented.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Diversity, Inclusion and Social Mobility",
+      "reason": "Addresses how implementation will target underrepresented groups to tackle the stated problem of low diversity/social mobility, forming a key explicit strategy for delivery against one of the two named problems.",
+      "weight": "core"
+    },
+    {
+      "theme": "Quality Assurance, Standards and Training Providers",
+      "reason": "Details quality mechanisms (standards, training provider accreditation) which support implementation but are procedural/administrative safeguards rather than the core delivery method.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Cross-Sector Collaboration and Wider Economy",
+      "reason": "Describes extending the agenda beyond the Civil Service to the wider economy, a supplementary ambition rather than a core mechanism for delivering the Civil Service apprenticeship intervention itself.",
+      "weight": "not core"
+    }
+  ]
+}

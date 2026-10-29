@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Evidence-Based Policy and Evaluation",
+      "reason": "Directly addresses plans for evaluation, timetable (autumn 2017), and building an evidence base to measure impact of pilots, which is central to the testing and evaluation aspect.",
+      "weight": "core"
+    },
+    {
+      "theme": "Monitoring Equality and Staff Impact",
+      "reason": "Describes monitoring of impact on staff and offenders and evidence requirements for equality, which relates to measuring outcomes but is a secondary consideration rather than the core testing/evaluation mechanism.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Workforce Development and Training",
+      "reason": "Discusses using pilots to explore training and apprenticeship opportunities, a tangential operational detail rather than core to measuring or evaluating policy impact on reoffending or violence.",
+      "weight": "not core"
+    }
+  ]
+}

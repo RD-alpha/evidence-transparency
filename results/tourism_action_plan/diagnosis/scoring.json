@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Tourism's economic importance and record growth",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Figures of 1.6 million jobs, \u00a322.1bn overseas spend, \u00a319.6bn domestic spend and \u00a362bn GVA are tied to claims of record growth, with References 1 and 2 (one a DCMS statistics link) giving a followable source, though the lines on 2.3% GVA growth are fragmentary and no uncertainty is assessed beyond the footnote caveat on overnight spend."
+    },
+    {
+      "theme": "Spending concentrated in London",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The over 50% London share and regional growth faster than London are statistical claims linked to the problem but carry no reference, link, source name or method, so they stay at level 1."
+    },
+    {
+      "theme": "Barriers to exploring beyond London",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The line 'In 2015, 73% of international visits to the UK were made by air' is the only figure and is uncited, while the claims about fear of driving and difficulty finding information and booking tickets are asserted without evidence."
+    },
+    {
+      "theme": "Fragmented industry and structural constraints",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claims that the sector is 'diverse, fragmented and competitive' and 'overwhelmingly comprised of SMEs' are asserted with no statistic, source or finding."
+    },
+    {
+      "theme": "Government coordination and policy levers",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines on multiple departments and devolved versus reserved levers describe institutional arrangements with no evidence offered."
+    }
+  ],
+  "reasoning": "The diagnosis is that tourism spend is concentrated in London. Four core themes were scored. 'Tourism's economic importance and record growth' reaches level 2: figures such as '1.6 million jobs' and 'over \u00a362bn in GVA' carry References 1 and 2, one pointing to the DCMS sector estimates, and the footnote caveats what the overnight spend covers. However, this theme concerns the sector's size rather than the London concentration itself. 'Spending concentrated in London' reaches only level 1: 'over 50% of their spending is in the capital' and the claim that the South East, South West, West Midlands and North East grew faster than London have no reference, named dataset or method, so a reader cannot check them. 'Barriers to exploring beyond London' is level 1: '73% of international visits to the UK were made by air' is the only figure and is uncited. The explanations about driving fears and ticketing difficulty are reasoning without any survey or finding behind them. 'Fragmented industry and structural constraints' is level 0, being pure assertion. The mean of the core levels is (2+1+1+0)/4 = 1.0, so the score is 1. The strongest counter-example is the first theme, which is properly cited and reaches level 2, yet it does not evidence the London concentration. To reach level 2, the document would need to cite the source of the 50% London share and the regional growth rates (e.g. the International Passenger Survey), cite evidence on visitor barriers, and then assess the limitations of that data.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

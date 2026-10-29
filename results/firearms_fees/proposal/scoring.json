@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Full cost recovery from licence holders",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The rationale rests on Managing Public Money (References 20 and 41, both only to sections 6.2-6.3) and on assertions about licensing principle, and the do-nothing option is rejected with only a cited reference to media and Parliamentary criticism that gives no source; no evidence is assessed."
+    },
+    {
+      "theme": "Fee levels and costing method",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Fees derive from the department's own activity-based costing (\u00a3691,400 budget, References 25, 31, 32, 34, 36-39) with stated method, workshops of 4 caseworkers and 2 supervisors, a sample of forces for police costs, and stated assumptions, though the unit costs behind the police estimates are only cited by link (References 7, 28) and the sensitivity analysis sits with another theme."
+    },
+    {
+      "theme": "Estimated costs and benefits",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Costs and benefits are quantified with a stated discount rate and assumptions (Reference 14), and the document itself tests them in sensitivity analysis (Figures H1-H3, 844 applications in 2013 vs 734 average, +15% upper bound), acknowledges uncertainty on application volumes, and flags the risk that low-value activities stop."
+    },
+    {
+      "theme": "Enabling charging powers",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Policing and Crime Bill is cited (Reference 5) and the clauses are quoted, but they describe the legal power rather than evidence for why this option was chosen, with a thin link to the 2010 Home Affairs Select Committee recommendation and 2014 consultation that is uncited."
+    }
+  ],
+  "reasoning": "The core themes are full cost recovery (1), fee levels and costing (2), estimated costs and benefits (3) and enabling powers (1), a mean of 1.75, which rounds to 2. The strongest part is the costing. Lines such as 'A time driven activity-based costing exercise was then carried out' (Reference 25, workshops of 4 caseworkers and 2 supervisors) and the footnoted calculations (References 32, 34, 36-39) let a citizen trace the fees. The sensitivity analysis (Figures H1-H3, 'overall costs could vary between \u00a3712,000 and \u00a3819,000') and the stated assumptions show the department assessing its own numbers. The weakest part is the case for the intervention. It rests on principle ('in common with many other licensing regimes...') and on Managing Public Money, cited only to sections 6.2-6.3, with no evidence of what was tried before or whether charging works. The do-nothing option is rejected by reference to 'media and Parliamentary criticism' with no source. The strongest counter-example to a score of 2 is that the main choice, charging full cost rather than a partial subsidy, has little evidence behind it, and the consultation on subsidy groups is not evidenced here, so a score of 1 could be argued. To reach 3, the document would have to cite and assess evidence for choosing full cost recovery over alternatives, including precedent from the April 2015 police fee increase and its effects, and acknowledge contrary evidence.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

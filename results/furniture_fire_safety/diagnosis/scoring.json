@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Outdated match test drives excess FR use",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The theme gives a detailed mechanistic description of how the match test works (foam, flame, air gap) to argue it over-states ignition risk, but the only reference attached (4, the ONS Business Survey/SIC codes) does not actually support this technical claim, leaving the causal argument uncited."
+    },
+    {
+      "theme": "Health and environmental harm from flame retardants",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Numerous findings are cited (endocrine disruption, firefighter cancer, house dust, FSA food-chain research) but Reference 2 and the repeated 'see Annex for sources' are generic pointers that do not link specific findings to specific sources."
+    },
+    {
+      "theme": "Existing regulations' proven safety record",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 54 lives/800 injuries/\u00a3140m figures are drawn from a named, dated, BIS-commissioned report (Reference 1, Greenstreet Berman Ltd 2009), giving a clear traceable source for the claim."
+    },
+    {
+      "theme": "Scope ambiguity and weak traceability undermine enforcement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The scatter-cushion example and traceability gap are asserted without any data or study; Reference 6 attached elsewhere concerns cost/salary data, not scope or traceability enforcement failures."
+    },
+    {
+      "theme": "Regulations outdated and lacking stakeholder support",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Claims of stakeholder lobbying and the 2010 Red Tape Challenge are mentioned with Reference 1 attached, but that reference is the effectiveness report, not evidence of stakeholder views or their methodology."
+    },
+    {
+      "theme": "Flame retardant chemical use and cost-effectiveness",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that FRs are the 'most cost-effective solution' is asserted with no supporting data or source."
+    },
+    {
+      "theme": "Consumer and regulatory threats from non-compliant imports",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Trading Standards 'regular exercises' are named as the source of the import-threat claim, with some explanation, but no citation or figures are given."
+    },
+    {
+      "theme": "Testing regime weaknesses and modern manufacturing changes",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Test houses are cited as informants about flammable materials appearing in unregulated parts, giving some explanation, but no reference or data is attached."
+    }
+  ],
+  "reasoning": "The diagnosis rests on four core themes. 'Outdated match test drives excess FR use' offers a detailed technical explanation of the 1988 test's flaws, but its only citation (Reference 4, an ONS business survey) does not actually support the claim, leaving the mechanism unsourced (level 1). 'Health and environmental harm' cites a 'growing body of literature' and repeatedly points to 'see Annex for sources' (Reference 2) rather than specific, traceable studies, which per the framework keeps it at level 1 despite the volume of findings listed. 'Existing regulations' proven safety record' is well-evidenced: the 54 lives/800 injuries/\u00a3140m figures come from a named, dated BIS-commissioned report (Reference 1, Greenstreet Berman Ltd 2009), giving a clear, followable source, reaching level 2 though without any assessment of its limitations, so not level 3. 'Scope ambiguity and weak traceability' is asserted (e.g. the scatter-cushion example) with no evidence at all, and Reference 6 elsewhere is about cost/salary data, not enforcement, so it scores 0. The mean of 1, 1, 2 and 0 is 1.0, giving a section score of 1. The strongest counter-example to a higher score is the safety-record theme's clean citation; the strongest counter-example to a lower score is that same theme. To reach level 2 overall, the document would need to replace 'see Annex' pointers and mismatched references with specific, clearly linked citations for the match-test mechanism and the traceability/scope claims.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

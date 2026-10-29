@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Policy Context and Objectives",
+      "reason": "Establishes why the government is undertaking this consultation and reform, framing the objective of refocusing incentives on the cleanest cars - directly explains why this intervention is being chosen.",
+      "weight": "core"
+    },
+    {
+      "theme": "Evidence of Success of CO2-Based System",
+      "reason": "Provides the evidentiary basis showing the existing CO2-based approach has worked, which underpins the decision to retain CO2 as the primary measure going forward.",
+      "weight": "core"
+    },
+    {
+      "theme": "Company Car Market Effectiveness",
+      "reason": "Explains why the company car market is an effective vehicle for driving ULEV uptake, supporting the rationale for why this intervention targets company cars specifically, but is background context rather than the core design choice.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Stakeholder Engagement and Transparency",
+      "reason": "Describes administrative/procedural commitments around predictability and announcement timing rather than the substantive case for the chosen intervention design.",
+      "weight": "not core"
+    },
+    {
+      "theme": "CO2 as Primary Measure Going Forward",
+      "reason": "Directly explains the government's chosen approach of retaining CO2 as the main factor, a central part of 'why the government has chosen this intervention'.",
+      "weight": "core"
+    },
+    {
+      "theme": "Zero Emission Miles as Additional Measure",
+      "reason": "Sets out the alternative/additional option being considered to differentiate ULEVs, directly addressing 'whether there are other options' and the evidence behind this part of the proposal.",
+      "weight": "core"
+    },
+    {
+      "theme": "Complexity and Consistency Considerations",
+      "reason": "Weighs strengths and weaknesses of adding zero emission miles versus CO2 alone, bearing on the should-explain point about assessing the evidence base and trade-offs of options.",
+      "weight": "core"
+    },
+    {
+      "theme": "Band Structure Design Options",
+      "reason": "Presents the two broad structural options for band design and their respective pros and cons, directly addressing alternative options considered and their assessment.",
+      "weight": "core"
+    },
+    {
+      "theme": "Implementation Example",
+      "reason": "A single illustrative example of how bands might be divided, useful detail but not load-bearing for the overall argument about choice of intervention.",
+      "weight": "not core"
+    }
+  ]
+}

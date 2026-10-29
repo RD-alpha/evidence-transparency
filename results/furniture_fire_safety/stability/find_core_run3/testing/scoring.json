@@ -1,0 +1,5 @@
+{
+  "reasoning": "The extract contains only two sentences: 'It will be reviewed.' and 'If applicable, set review date: 10/2021.' There is no mention of success measures, outcomes to be tracked, testing plans, or how evaluation will be carried out. A review date alone does not constitute an indication of what will be measured or how impact will be assessed - it is simply an administrative placeholder. There is no explanation of why testing or evaluation would or would not be appropriate, no outcomes specified, and no detail on consultation. This falls short of even level 1, which requires at least 'some indication of success measures'. The strongest counter-example to raising the score is that 'it will be reviewed' could imply an evaluation plan, but without any detail on what will be reviewed, against what criteria, or how, this cannot count as a success measure. To reach level 1, the document would need to specify at least one outcome or measure of success that the review would assess.",
+  "score": 0,
+  "block": true
+}

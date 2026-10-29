@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "TPR's inability to identify the trigger date",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Mismatch with industry understanding",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Administrative complexity for employers",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Delayed pension saving for workers",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Policy context and scope",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

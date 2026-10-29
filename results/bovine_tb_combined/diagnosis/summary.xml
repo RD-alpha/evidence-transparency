@@ -1,0 +1,136 @@
+<root>
+<theme sentences="3" weight="core">
+<name>Residual infection and recurrence in the High Risk Area</name>
+<claim>More than 20% of HRA breakdown herds retain infected animals after restrictions are lifted, driving high recurrence (nearly 60% within three years), although badger contact also triggers many new breakdowns.</claim>
+<text>
+<line id="S0070">This is important as it is estimated that more than 20% of all breakdown herds in the HRA retain infected animals after all skin testing has been completed and restrictions have been lifted.</line>
+<line id="S0071">This substantial residual herd infection contributes to the high rate of recurrence we see in the HRA where nearly 60% of breakdowns occur in herds that have sustained a breakdown in the previous three years.</line>
+<line id="S0072">On the other hand, a substantial proportion of new herd breakdowns in the HRA are triggered by direct or indirect contact between badgers and cattle.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="5" weight="core">
+<name>Skin test insensitivity and inconsistent severe interpretation</name>
+<claim>The standard skin test misses 20-25% of infected cattle, and applying it to traced cattle while breakdown herds are read at severe interpretation is an inconsistency that leaves infection undetected.</claim>
+<text>
+<line id="S0089">Initial skin tests of cattle on breakdown holdings are read using severe interpretation (see below), but the cattle traced from the herds are normally tested using standard interpretation.</line>
+<line id="S0090">This is an inconsistency which the Government wishes to put right.</line>
+<line id="S0091">6.2 The test used is the comparative tuberculin skin test, which measures an animal’s immune reaction to injections of both avian and bovine tuberculin.</line>
+<line id="S0093">Because of the limitations of the test and the nature of the response to the bovine TB bacterium we may miss 20 to 25 per cent of TB-infected cattle using the standard interpretation of the test (these animals are known as false negatives).</line>
+<line id="S0096">6.3 It is inconsistent to apply the standard interpretation to cattle traced from a herd that is undergoing testing at severe interpretation.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="13" weight="core">
+<name>Inconclusive reactors as an undetected infection risk</name>
+<claim>Animals that pass an inconclusive-reactor re-test are still at significantly higher risk of later becoming reactors, so they may carry undisclosed infection.</claim>
+<text>
+<line id="S0098">7.1 If an animal’s skin test result falls between the measurements for it to be classed negative or positive, the test result is deemed inconclusive and the affected animal is placed under movement restrictions, isolated and scheduled for a further skin test.</line>
+<line id="S0099">In extensive or explosive TB breakdowns IR animals not designated as reactors through</line>
+<line id="S0100">severe interpretation of the skin test can be removed at the discretion of APHA as ‘direct contacts’ without a re-test – if that happens compensation is paid.</line>
+<line id="S0102">If the second test is negative APHA will lift the movement restrictions and the animal can re-join the herd.</line>
+<line id="S0103">If the IR is either positive or inconclusive for a second time the animal will be considered test positive and will be compulsorily slaughtered and, if it has not already happened, restrictions would be placed on the herd.</line>
+<line id="S0104">7.3 Of 5,899 IRs disclosed in non-breakdown tests in England in 2013:</line>
+<line id="S0105"> 4,792 (81.2%) passed the re-test;</line>
+<line id="S0106"> 397 (6.7%) became reactors</line>
+<line id="S0107"> 602 (10.2%) had a second successive inconclusive reaction and were thus</line>
+<line id="S0108">removed.</line>
+<line id="S0109"> 108 (1.8%) were privately slaughtered by their owners or died before they could be</line>
+<line id="S0110">retested.</line>
+<line id="S0111">7.4 Importantly, of the 4,792 IRs with a negative result at the retest, 265 (6.1%) went on to be reactors or IRs and 20 more became TB slaughterhouse cases within the 15 months following their initial inconclusive result. Epidemiological studies of ‘resolved’ IRs in a high bTB prevalence country like Ireland have demonstrated that such animals have significantly higher odds of becoming reactors at a subsequent test in the same or another herd. ** (Reference: 1, 2)</line>
+</text>
+<references>
+<reference number="1">APHA (2015). Bovine tuberculosis: Infection status in cattle in England – annual surveillance report for the period January to December 2014 (section 8). Report available online at: https://www.gov.uk/government/publications/bovine-tb-surveillance-in-great-britain-2014</reference>
+<reference number="2">Clegg, T. A. et al. Shorter-term risk of Mycobacterium bovis in Irish cattle following an inconclusive diagnosis to the single intradermal comparative tuberculin test; Preventive Veterinary Medicine 102(4):255- 64 ·</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="19" weight="core">
+<name>Gaps in controls on movements and testing schedules</name>
+<claim>Movements between two restricted herds and inconsistently timed short interval tests create risks that infected cattle are released onto the open market or restrictions are lifted prematurely.</claim>
+<text>
+<line id="S0119">8.1 Applications for licences to allow the movement of cattle from one TB restricted herd to another are subject to a satisfactory veterinary risk assessment.</line>
+<line id="S0120">This APHA risk assessment will incorporate information known about the two herds (e.g. their TB testing history) at the time of the assessment.</line>
+<line id="S0121">However the understanding of the disease status of the herds may subsequently change and could potentially undermine the assessment.</line>
+<line id="S0123"> Cattle are moved from farm 1, which will be released from TB restrictions if its next</line>
+<line id="S0124">scheduled short interval test (SIT) gives a negative result.</line>
+<line id="S0125"> Farm 2 is in the same situation i.e. one more negative test is needed to allow TB</line>
+<line id="S0126">restrictions to be lifted.</line>
+<line id="S0127"> However, the SIT on farm 1 discloses test reactors with visible lesions of TB.</line>
+<line id="S0128">As a</line>
+<line id="S0129">result that herd now needs at least two further SITs at severe interpretation.</line>
+<line id="S0131">No reactors are disclosed on farm 2 following the SIT that included the cattle moved</line>
+<line id="S0132">from farm 1.</line>
+<line id="S0133">The holding reverts to OTF status (movement restrictions lifted) and cattle can be sold onto the open market.</line>
+<line id="S0134">8.4 It is not possible to quantify the risk accurately, but the worst case scenario would be infectious cattle from farm 2 being sold on the open market to other OTF herds.</line>
+<line id="S0135">8.5 There is another possible scenario, with farm 1 having a negative SIT and being released from TB restrictions, but with one or more of the cattle that moved from it found to be TB reactors at the SIT on farm 2.</line>
+<line id="S0136">The origin of the infection (farm 1 or farm 2) could be difficult to determine, but had those animals become infected on farm 1, it could mean that the movement restrictions had been lifted prematurely.</line>
+<line id="S0142">9.1 Currently some short interval tests (SITs) will be carried out 60 days or more after the reading of the last test where reactors were identified.</line>
+<line id="S0143">Whereas in other cases SITs are scheduled for 60 days (or more) after reactors identified at the previous test had been removed i.e. 60 days after the last possible day those cattle could have infected other animals on the farm.</line>
+<line id="S0145">However, the effectiveness of on-farm isolation for TB reactors can vary markedly between different farms.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="not core">
+<name>Disease threat and scope of the problem</name>
+<text>
+<line id="S0009">1.1 Bovine TB is the most pressing and costly animal health problem in the UK.</line>
+<line id="S0010">The disease threatens our cattle industry and presents a risk to other livestock and also to wildlife species (mainly badgers), pets and humans.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="not core">
+<name>Tracing of cattle from infected herds</name>
+<text>
+<line id="S0087">6.1 Tracing involves the identification of cattle that have been moved off a breakdown holding within a defined period of time.</line>
+<line id="S0088">Any animals that may have moved from a TB breakdown herd before the imposition of TB restrictions must be traced and, if still alive, TB tested to minimise the risk of disease spread to other herds.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="not core">
+<name>Complexity of the existing testing landscape</name>
+<text>
+<line id="S0330">The gradual introduction of new cattle controls, combined with the rigorous testing regimes for herds that are contiguous to TB breakdowns, cattle traced from other infected herds, check tests and various other risk-based testing arrangements already in place, has already resulted in a complex TB testing landscape.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="not core">
+<name>Other</name>
+<text>
+<line id="S0092">Depending on the degree of reaction to the test an animal is identified as: test positive (a reactor); test negative; or an inconclusive reactor (in which case a re-test is required).</line>
+<line id="S0144">9.2 TB test reactors and IRs must be isolated from the rest of the herd pending their removal or re-testing.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<ungrouped sentences="1">
+<text>
+<line id="S0101">7.2 The soonest an IR can be re-tested is 60 days after the previous test.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</ungrouped>
+</root>

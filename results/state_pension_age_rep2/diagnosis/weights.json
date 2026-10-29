@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Rising life expectancy",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Demographic shift and pay-as-you-go pressure",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Rising fiscal cost of ageing",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Uncertainty of projections",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Legislative timetable for State Pension age",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Fairness between generations and affordability",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

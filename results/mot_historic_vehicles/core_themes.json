@@ -1,0 +1,53 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "EU Directive conflicts with GB exemption",
+        "claim": "The new Directive 2014/45/EU replaces the pre-1960 exemption with conditions (at least 30 years old, out of production, not substantially changed), so GB law must be amended if historic vehicles are to stay exempt."
+      },
+      {
+        "name": "Road safety risk of older vehicles",
+        "claim": "Older vehicles often lack safety features and need to be safe and well maintained, so any exemption from testing carries a road safety risk that must be managed."
+      },
+      {
+        "name": "Exemption only for genuinely original vehicles",
+        "claim": "The 'not substantially changed' requirement is a useful safeguard ensuring that exempted vehicles are in the original condition they purport to be and that people cannot profit from exemption on altered vehicles."
+      }
+    ],
+    "note": "The diagnosis is mostly a description of the legal change; the safety evidence on vehicle age is argued mainly under the proposal."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "40-year rolling exemption with certification (Option 3)",
+        "claim": "The government prefers exempting 40-year-old vehicles from annual testing with a certification process for substantial change, rather than the 30-year EU minimum, testing or biennial test options, because of the higher failure rates and accident involvement of 30-40 year old vehicles and consistency with the 40-year VED exemption."
+      },
+      {
+        "name": "Costs and benefits of the options",
+        "claim": "The impact assessment estimates that the preferred option yields the largest net benefit among the options bar the 30-year option (about £89.6m), as savings in test fees outweigh certification costs and modelled safety costs under conservative assumptions."
+      },
+      {
+        "name": "Reduced regulation without undue burden",
+        "claim": "The proposal deregulates and increases the number of owners benefiting from exemption, with little burden on business because most business-used vehicles will still be tested voluntarily or under private hire rules."
+      }
+    ],
+    "note": "Option 3 is the preferred option, and the document admits that it goes beyond the EU minimum (gold plating) and that its safety modelling is limited by data."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Defining 'substantial change'",
+        "claim": "Because the Directive gives no definition, the government proposes using the DVLA 8-point rule, with a 5-point requirement for the chassis or frame and the disregarding of pre-1988 modifications, to decide whether a vehicle has been substantially changed."
+      },
+      {
+        "name": "Transposition timetable and scope",
+        "claim": "The Directive must be implemented by 20 May 2018, with motorcycles and three-wheelers covered from 2022, and GB can set the age threshold and any mileage restrictions."
+      },
+      {
+        "name": "Delivery of any VHI safety test and certification",
+        "claim": "If a basic VHI test is required, existing MOT garages can carry it out, covering identity, brakes, steering, tyres and lights, while details of the certification process and other design questions remain to be settled through consultation."
+      }
+    ],
+    "note": "Many implementation details are left undecided and are put to consultation questions."
+  }
+}

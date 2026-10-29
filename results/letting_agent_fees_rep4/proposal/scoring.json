@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rebalancing market power through a fee ban",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims that the ban will make landlords 'shop around' and sharpen agents' incentives to compete are asserted as reasoning about market dynamics with no statistic, study, consultation finding or citation offered anywhere in the extract."
+    },
+    {
+      "theme": "Scottish precedent as supporting evidence",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "The Shelter/Rettie/BDRC Continental research (Reference: 16) is cited, gives concrete figures (e.g. '1% and 2% of the rent rises', '17% of agencies', '56% of private tenants') and the document itself flags the evidence as 'inconclusive' and notes it is 'difficult to directly compare the English and Scottish markets'."
+    },
+    {
+      "theme": "Assessing the rent/cost trade-off",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim that landlords won't pass on full costs is partly supported by unnamed, uncited 'evidence that a number of agents are charging excessive fees' (level 1 on its own), but it is reinforced by the cited Scottish findings (Reference: 16) that agents are 'unlikely to pass the full costs of the fees onto landlords', directly linking the Scottish evidence to this claim."
+    },
+    {
+      "theme": "Reducing the up-front deposit burden",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The proposal to explore deposit caps and alternative models is stated as an intention with no data, research or consultation evidence given for why this approach was chosen or what effect it would have."
+    }
+  ],
+  "reasoning": "The four core themes vary sharply in evidential grounding. 'Rebalancing market power' (level 0) rests entirely on unevidenced reasoning about how agents and landlords will behave once fees are banned, with no statistic or source. 'Scottish precedent' (level 3) is the strongest: it cites a named, linked report (Reference: 16, Shelter/Rettie/BDRC Continental) with specific figures ('1% and 2% of the rent rises', '56% of private tenants agreed') and the document itself assesses the evidence's limits, calling findings 'inconclusive' and noting it is 'difficult to directly compare the English and Scottish markets'. 'Assessing the rent/cost trade-off' (level 2) mixes an uncited claim ('there is evidence that a number of agents are charging excessive fees') with a directly linked, cited finding from the Scottish report that agents are 'unlikely to pass the full costs of the fees onto landlords' - evidence is linked but not independently assessed for this specific claim, so it falls short of level 3. 'Reducing the deposit burden' (level 0) is pure policy intent with no supporting evidence. The mean of (0+3+2+0)/4 = 1.25, rounding down to 1. The strongest counter-example is the Scottish evidence itself, which could justify a higher score if it more explicitly underpinned the market-power and deposit themes. To reach level 2 overall, the document would need to cite evidence directly for the market-power and deposit claims, not just reasoning and intent.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.25,
+  "score_consistent": true,
+  "missing_core": []
+}

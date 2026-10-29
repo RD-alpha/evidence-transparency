@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Scale of the disability employment gap and its costs",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Headline figures (48% vs 80%, 32-point gap, \u00a3100bn cost, \u00a350bn/\u00a37bn/\u00a39bn) carry refs 1,2,31-34,36-38 to named ONS Labour Force Survey, Green Paper Data Pack and Black review, linked to the claim, but the Data Pack's method is not explained and there is no assessment of uncertainty."
+    },
+    {
+      "theme": "Work and health are linked in a downward spiral",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Refs 11, 16-23 (Waddell & Burton, Rueda, Paul & Moser, Roelfs, WHO, OECD, NICE) are cited for the claim that work benefits health and that time out of work worsens it, with ref 55 on ESA exit rates, but the document does not assess the strength or limits of this evidence, and several lines are bare assertion."
+    },
+    {
+      "theme": "Employment and Support Allowance and assessment system fails people",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Key claims about 1.5m in Support Group, 50% placed there, 69% on benefit 2+ years and 1% monthly exit cite refs 12,13,70,72,79-83 (DWP tabulation tool, WCA outcomes), clearly linked to the claim, though the document offers no assessment of data limits and only notes low take-up and limited evidence on what works."
+    },
+    {
+      "theme": "Fragmented health, employer and wider systems",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Statistics on occupational health access (refs 116,117), sickness absence (118), fit notes (125,126) and musculoskeletal waits (58) are cited and linked, but many lines are uncited assertion (e.g. employers' reluctance to hold conversations 'anecdotally') and the quality of evidence is only occasionally acknowledged."
+    },
+    {
+      "theme": "Attitudes, disadvantage and low expectations",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Refs 49,50 (Marmot, PHE outcomes), 148 (30% of claimants cite employer attitudes), 149-151 (4 in 10 GPs not confident, 23% think work beneficial) are cited and tied to the claim, but several attitude claims are asserted without sources and there is no appraisal of the evidence."
+    }
+  ],
+  "reasoning": "All five core themes reach level 2 and none reaches level 3, so the mean is 2.0 and the score is 2. The headline diagnosis is well supported and traceable. Examples include the 48% versus 80% employment rates and 32-point gap (refs 1,2,31-34), the \u00a3100 billion cost (ref 36), the ESA Support Group of 1.5 million with 50% of assessments placing people there (refs 12,70,79,80), and 'only 1 person in every 100... leave Employment and Support Allowance each month' (ref 82). The health-work link rests on named reviews (refs 11,16-23). Attitudes evidence cites the DWP claimant survey (refs 148,151). A motivated citizen can follow most figures to a named source and sees which claim each supports. The strongest counter-example is the document's own admission that 'there is limited evidence of what works best' and that Support Group employment support 'has historically received a very low take up'. These are acknowledgements of gaps, which could argue for level 3 on that theme. But they are isolated, and the document does not appraise the quality of its main datasets. It is also unclear how the Green Paper Data Pack was produced (refs 8,36,37,46), and several claims ('we know', 'anecdotally', 'we suspect') are uncited. To reach level 3 the document would need to assess the strengths and weaknesses of its core evidence, for example the causal direction of work and health and the limits of the Labour Force Survey and the Data Pack. It would also need to acknowledge contradictory findings.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.0,
+  "score_consistent": true,
+  "missing_core": []
+}

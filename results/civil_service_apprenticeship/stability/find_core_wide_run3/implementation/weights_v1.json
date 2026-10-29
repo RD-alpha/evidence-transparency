@@ -1,0 +1,59 @@
+{
+  "themes": [
+    {
+      "theme": "Routes to creating apprenticeships",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Recruitment and reward reform",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Embedding apprenticeships in career pathways",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Governance and departmental delivery structure",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Devolved administration and UK-wide coverage",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Targeting underrepresented groups",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Measurement and monitoring framework",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Civil Service apprenticeship targets and scope",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Strategic direction and wider collaboration",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Apprenticeship standards and quality assurance",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Financial planning and levy management",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

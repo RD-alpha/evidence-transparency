@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Scale of the digital skills gap",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Lines 2 and 3 give figures (5.3 million never used the Internet; more than 10 million adults in England lacking basic skills) tied to named, linked sources (Link 1 ONS, Link 2 Ipsos Mori/Go ON UK), though the first line carries no citation itself and no limitations are discussed."
+    },
+    {
+      "theme": "Groups most affected",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The 35% vs 13% socio-economic and 43% vs 93% age figures are specific and support the claim, but none of these lines carries a reference or link and the source is not named (the Ipsos Mori/Go ON UK report in Link 2 is likely but not stated)."
+    },
+    {
+      "theme": "Consequences of exclusion",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines on thriving in a digitised job market and services moving online are assertions with no statistic, finding or source behind them."
+    }
+  ],
+  "reasoning": "Three core themes were scored. The scale of the problem is the best evidenced: \"An ONS survey (Link: 1) shows that an estimated 5.3 million people in the UK have never used the Internet\" and \"A recent report by Ipsos Mori/Go ON UK (Link: 2) found: More than 10 million of the adult population in England lack basic digital skills\" give figures, named sources and followable links, so this reaches level 2. The opening line giving the ten million figure carries no citation, but the later lines fill that gap. The groups most affected theme gives precise figures (\"35 per cent of people in lower socio-economic groups\" versus 13 per cent; \"43 per cent of over 65s\" versus 93 per cent of 15 to 24 year olds), so it is evidence, but no reference or link sits on these lines and the source is not named. A reader may guess it is the Ipsos Mori report, but the document does not say so, which holds it at level 1. The consequences theme (\"stop people from thriving in a digitised workplace and job market\", \"increasingly moving online\") is assertion without any statistic or source, so level 0. The mean of the core levels is (2+1+0)/3 = 1.0, giving a score of 1. The strongest counter-example is that the scale theme alone reaches level 2 and the age and class figures probably come from the cited Ipsos Mori report, which would argue for a higher score. To reach level 2 overall, the document would need to cite the source of the group breakdowns and give evidence for the employment and service-access consequences, linking each figure to what it shows. Level 3 would also need an assessment of the survey data's limits, such as the definition of basic skills and the sample.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

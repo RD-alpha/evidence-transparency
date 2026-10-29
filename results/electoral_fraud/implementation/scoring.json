@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Delivery by guidance, secondary and primary legislation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines state which route each recommendation needs (e.g. 'It will require primary legislation to implement this recommendation') and note the Commission's supportive response, but offer no statistic, finding or cited source for why this route was chosen."
+    },
+    {
+      "theme": "Phased ID pilots at local elections",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Electoral Commission's identification of 18 high-risk authorities (Reference: 2) is used to select pilot areas and the Representation of the People Act 2000 s10 is cited as the legal route, but the reference is generic, the method behind the risk rating is not explained, and no evidence supports why these ID models were chosen."
+    },
+    {
+      "theme": "Consultation with devolved administrations and stakeholders",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Uses a Returning Officer's consultation response on proxy spot checks and the 78% online application figure, but with no citation, no account of how many were consulted or how responses were gathered, and no assessment of the evidence."
+    }
+  ],
+  "reasoning": "The three themes are all core, so each sets the score. The delivery-route theme reaches level 0: it asserts which route each recommendation needs, e.g. \"It will require primary legislation to implement this recommendation\" and \"This change can be effected through secondary legislation\", and notes the Electoral Commission's supportive response. These are statements of constraint and intent with no data, research or cited source behind the choice of route or timetable. The pilots theme reaches level 1. It uses the Electoral Commission's list of 18 high-risk authorities (Reference: 2) to pick pilot areas and cites section 10 of the Representation of the People Act 2000 as the legal vehicle. The reference is a generic Commission briefing, the basis of the risk rating is not explained, and no evidence supports the choice of ID models. The consultation theme reaches level 1. It draws on a Returning Officer's consultation response about proxy spot checks and the \"78%\" online application figure, but gives no citation, no count of respondents and no method, and it does not assess the evidence. The mean is (0+1+1)/3 = 0.67, which rounds to 1. The strongest counter-example to this level is the pilots theme's cited Commission reference, which comes closest to level 2. The document would need to cite its consultation responses and data with the method explained, link each delivery route and pilot design to specific evidence, and assess the uncertainties in that evidence to reach level 2.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "National skills gap and economic growth imperative",
+        "claim": "The manifesto commitment to three million apprenticeships, and the Civil Service's share of it, is driven by the need to address national skill shortages and stimulate productivity and economic growth."
+      },
+      {
+        "name": "Public sector lagging private sector uptake",
+        "claim": "The public sector is being asked to accelerate apprenticeship growth because it lags behind the private sector, where an estimated three-quarters of apprentices currently work."
+      },
+      {
+        "name": "Workforce diversity, inclusivity and social mobility gap",
+        "claim": "Despite being more diverse than ever, the Civil Service and public sector more broadly still fall short of true representation and inclusivity, including persistent employment gaps for disabled people such as those with autism."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Scale and timing of the apprenticeship target",
+        "claim": "The Civil Service commits to at least 30,000 apprenticeship starts by 2020 (2.3% of the England workforce annually, with comparable growth elsewhere in the UK), introduced ahead of the 2017 legislative target to lead by example."
+      },
+      {
+        "name": "Three-fold business case for apprenticeships",
+        "claim": "Apprenticeships are justified by a threefold business case: building workforce capability and closing skills gaps, enhancing diversity and social mobility, and delivering demonstrable productivity and earnings returns on investment."
+      },
+      {
+        "name": "Quality over quantity",
+        "claim": "The programme is designed to be about more than numerical targets, responding to Ofsted and NAO warnings that growth must not come at the expense of apprenticeship quality, through five strategic quality-focused aims."
+      },
+      {
+        "name": "Alignment with the wider Government apprenticeship agenda",
+        "claim": "The Civil Service strategy is designed to support and exemplify the Government's broader three-million apprenticeship agenda, including shared diversity targets (BAME, disability, socio-economic background) and the apprenticeship levy funding mechanism."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Three delivery routes for creating apprenticeships",
+        "claim": "Apprenticeships will be created through three methods: converting planned external recruitment, retraining and upskilling existing staff, and enhancing current apprenticeship schemes such as the Fast Track."
+      },
+      {
+        "name": "Enabling recruitment, pay and career-path reforms",
+        "claim": "Delivering these routes requires rethinking apprenticeship pay structures, shifting recruitment and selection towards potential-based rather than competency-based assessment, and embedding apprenticeships into career pathways."
+      },
+      {
+        "name": "Governance via Cabinet Office SRO and departmental/devolved delivery",
+        "claim": "The Cabinet Office, as Senior Responsible Officer, will set strategic direction and provide support while individual departments and the Devolved Administrations are responsible for delivering the numbers and quality of apprenticeships across the whole UK Home Civil Service."
+      },
+      {
+        "name": "Cross-sector collaboration and alignment with national standards agenda",
+        "claim": "Implementation includes collaborating with Arms Length Bodies and other employers on standards, best practice and diversity measures, and supporting the Government-wide shift from apprenticeship frameworks to standards by 2020."
+      }
+    ],
+    "note": ""
+  }
+}

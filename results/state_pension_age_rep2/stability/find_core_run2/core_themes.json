@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Rising life expectancy",
+        "claim": "Life expectancy at 65 has risen steadily and is projected to keep rising, so people spend an ever larger share of adult life in receipt of State Pension unless State Pension age changes."
+      },
+      {
+        "name": "Demographic change under pay-as-you-go",
+        "claim": "Baby-boomer retirement and a rising old age dependency ratio mean fewer workers fund more pensioners through pay-as-you-go National Insurance contributions."
+      },
+      {
+        "name": "Rising fiscal cost of an ageing society",
+        "claim": "State Pension spending is projected to rise by 1% of GDP by 2036/37 (about £725 per household), alongside rising health and care costs, which threatens sustainable public finances and fairness to younger generations."
+      },
+      {
+        "name": "Past inaction and reactive reform",
+        "claim": "State Pension age policy was left unchanged for decades and then rushed through in successive Acts, so a structured framework is needed to avoid repeated rapid rises."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Linking State Pension age to life expectancy at about 32% of adult life",
+        "claim": "Raising State Pension age in line with life expectancy, aiming for up to 32% of adult life in receipt, gives each generation a broadly similar deal as recent generations and keeps the pension affordable, and is preferred to the 33.3% scenario and to reducing pension values."
+      },
+      {
+        "name": "Rise to 68 in 2037-39",
+        "claim": "Following Cridland's timetable, bringing the rise to 68 forward to 2037-39 balances affordability against spacing the pace of change across generations, rejecting the immediate rise under the 32% Actuary timetable and a slower capped path."
+      },
+      {
+        "name": "Fiscal savings and benefits",
+        "claim": "The earlier rise reduces spending by 0.4% of GDP in 2039/40 and saves £74bn to 2045/46, and avoids lower pensions, pensioner poverty or a heavier tax burden on workers, with extra employment and GDP gains expected."
+      },
+      {
+        "name": "Universal State Pension age",
+        "claim": "A single State Pension age for everyone should be kept because it is simple and clear, and disadvantaged groups are better helped through the working-age benefit system than through varied pension ages."
+      },
+      {
+        "name": "Later decisions deferred to further reviews",
+        "claim": "Because life expectancy projections are uncertain, the Government will review again before legislating for 68, will not set policy beyond 2037-39, and will decide later how soon to reach the 32% aim."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Notice and certainty for individuals",
+        "claim": "The Government will seek to give at least ten years' notice of State Pension age changes so people can plan and save, and the review framework keeps changes predictable and well flagged."
+      },
+      {
+        "name": "Communications strategy",
+        "claim": "A communications strategy using digital tools, personalised pension checking and stakeholder channels will make people aware of State Pension age changes and help them plan."
+      },
+      {
+        "name": "Wider package of support for working and saving",
+        "claim": "State Pension age rises must come with support for people to save, work longer and for those who cannot work, with Cridland's recommendations to be considered along with other evidence."
+      }
+    ],
+    "note": "Implementation is mainly commitments and intentions rather than argued choices between delivery methods, and several support measures are left to be decided later."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Enforcement architecture and penalties",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The theme draws on the existing Estate Agent Act/NTSEAT regime and the Housing and Planning Act 2016 penalty levels (e.g. 'civil penalties of up to \u00a330,000 for breach of a banning order') as comparator evidence for why a lead authority and similar fine levels might work, but none of this carries a reference or link so it cannot be verified or exceed level 1."
+    },
+    {
+      "theme": "Tenant empowerment and education",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims such as 'there is a risk that tenants may feel that they are not able to challenge an agent' and the plan to update the 'How to Rent' guide are asserted with no data, study or consultation finding behind them."
+    },
+    {
+      "theme": "Permitted exceptions to the ban",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The rationale for holding deposits and in-tenancy charges ('to mitigate the risk of tenants speculating on a number of properties') is pure policy reasoning with no statistic, survey or external finding offered as support."
+    },
+    {
+      "theme": "Addressing residual deposit burden",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Unsourced factual claims such as 'Deposit levels have been increasing' and 'Not all landlords currently take deposits' are used to justify exploring capping and alternative models, but no source or data is cited for either."
+    }
+  ],
+  "reasoning": "The implementation evidence is thin across all four core themes. Enforcement architecture (level 1) leans on the existing Estate Agent Act/NTSEAT model and the Housing and Planning Act 2016's \u00a330,000 penalty as an analogy for a new fine level, but these are described only in prose with empty reference and link blocks, so the reader cannot verify the comparator figures. Tenant empowerment and education (level 0) and Permitted exceptions (level 0) consist almost entirely of policy reasoning - e.g. 'to ensure that there is a commitment from a tenant to a given property' - with no statistic, study or named source behind the design choices. Addressing residual deposit burden (level 1) cites the unsourced claim 'Deposit levels have been increasing' to justify exploring a cap, but gives no figures or source. The mean of the four core levels (1, 0, 0, 1) is 0.5, which rounds down to 0. The strongest counter-example is the enforcement theme's detailed description of NTSEAT's existing powers, which comes closest to evidence of a comparable policy, but even this stops short of a citation. To reach level 1 overall, the document would need to show some evidence behind the tenant-education and exceptions themes; to reach level 2 it would need reference numbers or links for the NTSEAT/penalty comparisons and the deposit-level claim.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.5,
+  "score_consistent": true,
+  "missing_core": []
+}

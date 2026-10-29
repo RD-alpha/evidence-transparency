@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Lower NICs for the self-employed",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Lines 1.7-1.9 give rates, thresholds and a worked \u00a332,000 example (\u00a3573 and \u00a33,870 differential), which is the department's own illustrative calculation, but the only citation (Reference 1, a 2002 Bank of England paper) supports the pass-through of employer NICs and not the figures, and the calculation method is not explained."
+    },
+    {
+      "theme": "Fiscal cost and growing self-employment",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The \u00a35.1bn cost carries Reference 5 (HMRC Main Reliefs publication) with an explanation of what it represents, and the 15.1% share and the OBR revision (~\u00a31bn a year by 2020-21) are clearly tied to the fiscal claim, though the latter two are uncited and the cost is not assessed for uncertainty."
+    },
+    {
+      "theme": "Narrowed benefit access gap",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Line 1.18 and the State Pension line cite Reference 35 (published weekly state pension rates) for the \u00a31,800 a year figure, and show this weakens the historical justification in 1.13, but the minor remaining differences are not evidenced and there is no assessment."
+    },
+    {
+      "theme": "Purpose and funding of National Insurance",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 1.11-1.12 describe how NICs are spent and who pays them (around 20% to the NHS) as background description with no cited evidence."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The single line carries Reference 36, an HMRC analysis estimating the Exchequer cost of the discretionary company population at over \u00a36bn in 2021-22, with the OBR November 2016 source named, though the method of the HMRC analysis is not described."
+    }
+  ],
+  "reasoning": "Three core themes were scored. 'Lower NICs for the self-employed' reaches level 1: lines 1.7-1.9 set out the rates and a worked example (\"\u00a37,073 ... whereas a self-employed person ... will pay \u00a36,500; a difference of \u00a3573\", total differential \u00a33,870), which is the department's own calculation. The method behind it is not explained, and the only reference (1, a 2002 Bank of England paper) is attached to the claim that employer NICs are passed on to wages, not to these figures. 'Fiscal cost and growing self-employment' reaches level 2: the \"\u00a35.1 billion in 2016-17\" estimate carries Reference 5 (HMRC Main Reliefs), which explains what it represents, namely the NICs payable if the self-employed were under Class 1. The 15.1% workforce share and the OBR revision of about \u00a31bn a year by 2020-21 are not cited. 'Narrowed benefit access gap' reaches level 2: the \u00a31,800 a year figure cites Reference 35 (published state pension rates) and is clearly linked to the claim in 1.13 and 1.18 that the historical justification has weakened. The mean of the core themes is (1+2+2)/3 = 1.67, which rounds to 2. The strongest counter-example is the first theme, where the central comparison is uncited and its method unexplained, which argues for 1. Nowhere does the document assess the strengths or limits of its evidence or acknowledge uncertainty. To reach level 3 it would need to discuss the reliability of the \u00a35.1bn estimate and OBR forecasts and address contradictory evidence, such as the remaining benefit differences and wage pass-through assumptions.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

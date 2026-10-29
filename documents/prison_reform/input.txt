@@ -1,0 +1,1503 @@
+S0001 November 2016
+S0002 Cm 9350
+S0003 © Crown copyright 2016
+S0004 This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated.
+S0005 To view this licence, visit nationalarchives.gov.uk/doc/open-government- **(Link: 1) licence/version/3 **(Link: 2) or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.
+S0006 **(Link: 3)
+S0007 Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+S0008 This publication is available at www.gov.uk/government/publications **(Link: 4)
+S0009 Any enquiries regarding this publication should be sent to us at PrisonSafetyandReform@justice.gsi.gov.uk **(Link: 5)
+S0010 Print ISBN 9781474138352 Web ISBN 9781474138369
+S0011 ID 2843418 11/16
+S0012 Printed on paper containing 75% recycled fibre content minimum.
+S0013 Printed in the UK by the Williams Lea Group on behalf of the Controller of Her Majesty’s Stationery Office
+S0014 Foreword 3
+S0015 Chapter 1: Introduction 5
+S0016 Chapter 2: The right framework for improvement 13
+S0017 Chapter 3: Raising standards 20
+S0018 Chapter 4: Empowered governors 26
+S0019 Chapter 5: Safe and secure prisons 40
+S0020 Chapter 6: Developing our leaders and staff 53
+S0021 Chapter 7: Building the right estate for reform 58
+S0022 In 1819, the social reformer Elizabeth Fry returned from a tour of violent and squalid prisons in England and Wales and branded them ‘the nurseries of crime’.
+S0023 ‘The better the actual state of our prisons is known and understood,’ she wrote, ‘the more clearly will all men see the necessity of these arrangements by which they may be rendered schools of industry and virtue’.
+S0024 The words of this great reformer echo through the generations and sadly remain all too relevant today.
+S0025 Few of us see what goes on behind the high walls of our prisons.
+S0026 Though we don’t know whether the offenders within are simply marking time or working hard to turn their lives around, we should all care.
+S0027 With a few exceptions, everyone who spends time in one of Her Majesty’s prisons will one day be back in our community.
+S0028 However currently nearly half of all prisoners go on to re-offend within a year.
+S0029 This revolving door of crime and prison costs society £15bn a year.
+S0030 Prisons are not working.
+S0031 We will never be able to address the issue of re-offending if we do not address the current level of violence and safety issues in our prisons.
+S0032 That is why I am determined to make prisons work.
+S0033 This requires a huge cultural and structural change within our prisons – a transformation away from offender warehouses to disciplined and purposeful centres of reform where all prisoners get a second chance at leading a good life.
+S0034 The change will be led by governors by putting them at the centre and giving them greater control to innovate and make the right changes for prisoners to reform, whether that be the provision of a specialist education course or access to support services.
+S0035 But we also need to make sure that governors are held to account for the progress prisoners make.
+S0036 We will publish league tables to show which prisons are making real progress in getting offenders off drugs and developing the education and skills they need to get work.
+S0037 This will highlight success and lay bare failure.
+S0038 Governors will be backed by prison staff who are not just security guards and minders but also mentors.
+S0039 Staff will have the resources, authority and tools needed to break through the road blocks to reform and take on the challenge of transforming lives.
+S0040 Greater levels of autonomy for the frontline will accompany greater transparency for the public and Parliament.
+S0041 For too long society has failed to look over those high walls and the result has been a catastrophic burden on the taxpayer and far too many lives shattered by crimes.
+S0042 This is a blueprint for the biggest overhaul of our prisons in a generation.
+S0043 This is a challenge that will take time and determination to deliver but society can no longer afford to ignore what goes on behind those high walls.
+S0044 We need to make prisons places of safety and reform.
+S0045 The Rt Hon Elizabeth Truss Lord Chancellor and Secretary of State for Justice
+S0046 The need for prison reform
+S0047 1.
+S0048 The first duty of government is to keep people safe, and prisons are vital to making sure this happens.
+S0049 2.
+S0050 Prisons deprive offenders of one of their most fundamental rights – liberty – in order both to punish offenders and protect the public.
+S0051 However for society to be safer, prisons must be more than criminal warehouses, they must be places of reform.
+S0052 3.
+S0053 Almost everyone we lock up will one day be released back into our communities.
+S0054 However, once released too many prisoners will go on to reoffend.
+S0055 Currently, almost half of all prisoners are reconvicted within a year of release.
+S0056 The cost of reoffending by former prisoners is estimated to be up to £15 billion a year. ** (Reference: 1)
+S0057 4.
+S0058 To tackle this, we are embarking on the most far-reaching prison reforms for a generation.
+S0059 Reforms that will transform how our prisons are run and give prisoners the skills they need to become law-abiding citizens when they are released.
+S0060 5.
+S0061 There is much good work that goes on in our prisons now to give offenders the support and skills they need to stay on the right track when they are released.
+S0062 However without the right framework to ensure not only greater authority for the frontline, but also accountability and transparency, reform will remain piecemeal and untested.
+S0063 6.
+S0064 As the foundation for these historic reforms, we will therefore enshrine in law for the first time what prisons should be delivering, and hold the Secretary of State to account for ensuring they do so.
+S0065 7. Governors in all prisons will be given more powers and more responsibility for running their prisons, so they can do more to help offenders turn their lives around: for example, by getting offenders off drugs and giving them the right education or work skills.
+S0066 Giving governors the authority they need will put real power in the hands of those who know best what will work in their prison.
+S0067 8.
+S0068 Frontline staff will be given the time and the tools they need to supervise and support offenders so they can turn our prisons into places of safety and reform.
+S0069 9.
+S0070 Putting power in the hands of those working on the frontline will sweep away the current centralised system.
+S0071 While setting detailed policies from the top has been important to improve conditions in prisons, it has become overly bureaucratic which can sap the initiative of staff and stifle innovation.
+S0072 10.
+S0073 Prisons will be judged not on a ‘one-size-fits-all’ standard but on a new set of criteria that allow governors to determine what works best to reform offenders and that measures their success in doing so.
+S0074 11.
+S0075 Independent scrutiny and monitoring of prison inspections will be strengthened and information on prison performance will be published in a clear and transparent way so the public can see which prisons lead the way in reform.
+S0076 There will be a clearer framework for the Secretary of State to intervene when prisons are judged to be failing.
+S0077 12.
+S0078 Our proposals are inspired from the success of other public sector reforms in education and health, which teach us that frontline staff are in the best position to make profound changes in the culture of the service they run and bring about lasting improvements.
+S0079 We already have hard-working and dedicated staff in our prisons.
+S0080 Working in prisons is a highly challenging but rewarding role, and we need to put our prison professionals in the driving seat of reform.
+S0081 13.
+S0082 To help meet these demands we will attract new staff from the ranks of our armed forces, men and women whose sense of duty and discipline will be invaluable in leading the change.
+S0083 In addition there will be a recruitment scheme aimed at recent graduates, encouraging them to carve out a career with the prison service.
+S0084 We will also be launching a new apprenticeship scheme so people can earn and learn at the same time, getting them into a rewarding area of work that plays such a vital role in transforming lives and protecting the public.
+S0085 14.
+S0086 The work of governors will be helped by our plans to close the most dilapidated and outdated prison buildings and invest £1.3 billion in new facilities that will be designed with reform and rehabilitation in mind.
+S0087 15.
+S0088 By 2020, we want to see prisoners who enter jail struggling to read, write and add up being taught the basics of maths and English to help them find work when they get out.
+S0089 We want prisoners who arrive dependent on drugs to get the treatment they need so when they leave they don’t need to commit crimes to feed their addiction.
+S0090 16.
+S0091 From 2020 and beyond this investment in reform will ensure all prisoners serve their sentences in stable and productive regimes.
+S0092 This White Paper sets out proposals to instil rigour into prison reform and monitor the achievements of the new purposeful regimes that will emerge.
+S0093 17.
+S0094 In this way we aim to bring down reoffending, cut the cost to society and spare many more people the shock, fear and trauma that comes from being a victim of crime.
+S0095 The current challenge
+S0096 18.
+S0097 Delivering this vision will not happen overnight and reform can only take hold in a safe and disciplined prison environment.
+S0098 However, the prison system is currently under sustained and serious pressure from security threats and rising levels of violence that are blocks to reform.
+S0099 19.
+S0100 Rates of violence and self-harm have increased significantly in recent years.
+S0101 Assaults on prison staff increased by 43% in the 12 months to June this year, while self-harm increased by just over a quarter.
+S0102 The number of self-inflicted deaths increased by 13% in the 12 months to September this year.
+S0103 20.
+S0104 Prisons are also facing new security challenges.
+S0105 In 2015 nearly 17,000 mobile phones and SIM card were found in prisons – an increase from just over 7,000 in 2013.
+S0106 Over the past year there has also been a sharp rise in the number of drones used to fly and drop contraband over the prison walls.
+S0107 21.
+S0108 The increase in violence has in part been fuelled by the recent flood of dangerous psychoactive drugs into our prisons.
+S0109 The Prisons and Probation Ombudsman (PPO) called these psychoactive substances a ‘game-changer’.
+S0110 22.
+S0111 In order to lay the right foundations to build prisons that are places of reform, we need to improve safety and security in our prisons so staff are able to drive forward change within a safe and disciplined environment.
+S0112 23.
+S0113 We are already working on new measures to combat the rise in drones and mobile phones in our prisons and have rolled out new drug testing to track down dangerous psychoactive substances.
+S0114 But we need to support this by introducing a new way of working in prisons to help prisoners spend more time on purposeful activity and less time in their cells.
+S0115 New dedicated officers, each responsible for supervising and supporting around six offenders, will make sure prisoners get the help they need to quit drugs and get the skills they need to turn their lives around.
+S0116 We will invest to strengthen the frontline with 2,500 additional prison officers by 2018.
+S0117 24.
+S0118 This will provide prisons with the men and women they need on the frontline to bring safety and discipline back to the wings.
+S0119 A framework for criminal justice reform
+S0120 25.
+S0121 This is the start of comprehensive reform of how we govern the criminal justice system, to improve outcomes and make our streets safer.
+S0122 Building on plans set out in the April 2015 Manifesto and the Queen’s Speech in May 2016, this White Paper explains how we will do this in prisons by providing greater autonomy, aligned with greater transparency and accountability.
+S0123 We will apply this approach more widely as we also embark on reforms to the youth justice system, women’s prisons and improving the performance of probation services.
+S0124 26.
+S0125 Only by making sure the whole system is reformed and working – from courts through prisons and out to probation – will we be able to build a justice system that works for society, for those employed on the frontline and for offenders who want to get their lives back on track.
+S0126 27.
+S0127 Our vision for court reform has already been published and we are putting £1 billion into building a more modern and open justice system.
+S0128 However, with prisons acting as the bridge between justice and reform, the need to make our prisons work is fundamental to building a better criminal justice system.
+S0129 28.
+S0130 A greater focus on outcomes in reforming offenders will lead to more tailored approaches.
+S0131 We know, for example, that many female offenders are often vulnerable members of society.
+S0132 There is evidence that a specific approach is most effective in helping women to address the issues that may be underlying their offending and to turn their lives around.
+S0133 In early 2017 we will publish a strategy setting out how we will improve the treatment of female offenders in custody and in the community.
+S0134 This will look at how we can reduce the number of women offending and ending up in custody, including through early and targeted interventions.
+S0135 29.
+S0136 Equally, we recognise that young adult men (between 18 and 20 years old) face different problems to older male offenders.
+S0137 Encouragingly, their number has decreased by 42% since 2011 and they now account for only one in twenty of the custodial population.
+S0138 However, once in custody they are over-represented in figures for assaults, both on other prisoners and on staff, and for self-harm.
+S0139 Once released, they are significantly more likely to reoffend than older adult males.
+S0140 With the majority now being held in ‘dual designated’ establishments, that are both prisons and young offender institutions (YOIs), the original purpose of their sentence – Detention in a Young Offenders Institution – has become less distinct.
+S0141 30.
+S0142 Following the publication of Lord Harris’ Review on self-inflicted deaths of young adults, and the changes anticipated to custody for those under 18, there is a fresh imperative to re-assess our treatment of this group.
+S0143 We are reflecting on the treatment of young adult men within the criminal justice system and will consider carefully the recent report of the Justice Select Committee (JSC) released on 26 October 2016, entitled ‘The Treatment of Young Adults in the Criminal Justice System’.
+S0144 We will consider the report’s recommendations within our wider efforts to provide a greater focus to young adults’ safety, their experience of rehabilitative activities and their education.
+S0145 We also need to better manage their transitions, either from prison to community, or, for a few on long sentences, their transition from the youth estate or YOI estate to full adult prison.
+S0146 31.
+S0147 Prison reform is a key part of the Prime Minister’s social reform programme.
+S0148 These reforms will tackle not only the operational strains on the dedicated and brave staff that work in our prisons but will overhaul the structural weaknesses that for too long have stifled innovation and widespread reform.
+S0149 Investing in the prison estate and staff will provide the foundations for safe and secure regimes as we press ahead with radical reform to unlock innovation, enhance accountability and improve outcomes.
+S0150 Structure of this White Paper
+S0151 32.
+S0152 These proposals relate to England and Wales unless otherwise stated.
+S0153 Prisons are a devolved matter in Scotland and Northern Ireland.
+S0154 The right framework for improvement
+S0155 33.
+S0156 Our reforms will overhaul how the system is configured to make lines of accountability clear, ensuring that prison governors and their staff have absolute clarity about their role, the aims of the various inspectorates and scrutiny bodies, and the consequences of failing to meet the requirements placed on them (chapter 2).
+S0157 34.
+S0158 We will do this, subject to the passage of legislation where necessary, by:
+S0159  clarifying the role of the Secretary of State, including accountability to Parliament;
+S0160  ensuring that inspection and other scrutiny arrangements are sharper, with provision for inspection reports to trigger action to improve the system from the Secretary of State and governors;
+S0161  introducing a new commissioning cycle from April 2017 to reflect the changes resulting from empowering governors;
+S0162  ensuring a transparent process overseen by Ministers for holding governors to account; and
+S0163  improving the use of evidence and data throughout the system.
+S0164 Raising standards
+S0165 35.
+S0166 We want to establish an overarching statutory purpose of the prison system, with a clear vision of what it is there to achieve.
+S0167 This vision should be shared by everyone working in the prison system from the Secretary of State down to prison staff (chapter 3).
+S0168 36.
+S0169 To do this, we will:
+S0170  from April 2017, set new performance measures for every prison so that governors are clear what they are expected to achieve;
+S0171  publish an annual league table for prison performance measures; and
+S0172  create a statutory purpose for the prison system by the end of this Parliament, subject to the passage of legislation.
+S0173 Empowered governors
+S0174 37.
+S0175 Strong leadership is essential to any organisation and a powerful force for driving change and improvement.
+S0176 Following our reforms, governors will have significantly greater authority and flexibility (along with greater accountability) in determining how their prisons are run, including how to prioritise and deliver services within their prisons (chapter 4).
+S0177 38.
+S0178 Building on the devolution of powers that have already been rolled out in six reform prisons, from April 2017 we will:
+S0179  give governors authority to do their own workforce planning and decide what structures best meet their local needs;
+S0180  give governors greater power over service provision in their prison, devolving control over education, work, family ties, offender behaviour and resettlement programmes, and greater influence over healthcare provision;
+S0181  give governors greater authority to decide how to spend their budget in order to deliver their strategy, removing many of the centralised restrictions on spending and devolving education and family budgets; and
+S0182  devolve decisions on key operational policies, allowing governors to make better use of tools such as Release on Temporary Licence (ROTL) to allow prisoners to engage in purposeful activity, such as work, as part of their sentence.
+S0183 Safe and secure prisons
+S0184 39.
+S0185 Governors and staff cannot lead and manage unless they are properly trained and well equipped.
+S0186 We want frontline prison officers and staff to operate not just as security guards and minders but also as mentors – with the time to invest in relationships and run effective interventions (chapter 5).
+S0187 40.
+S0188 To improve the way that prisoners are managed through the custodial part of their sentence, we will:
+S0189  give every prisoner a dedicated officer who can engage with them one-to-one;
+S0190  move responsibility for planning and supporting prisoners from the community to prison governors; and
+S0191  improve case management in prisons, to co-ordinate the delivery of interventions to the prisoner to increase their effectiveness.
+S0192 41.
+S0193 These reforms have already been introduced in 10 priority sites, and will be rolled out across the prison estate from April 2017.
+S0194 42.
+S0195 To tackle the most pressing threats to security in prisons, we will:
+S0196  introduce legislation, subject to Parliamentary approval, to simplify the framework for testing for psychoactive substances, in order to be more responsive as new substances emerge;
+S0197  strengthen search capability to stop contraband entering prison and uncover items smuggled in;
+S0198  fundamentally reassess our wider approach to tackling the supply and demand for drugs in prisons;
+S0199  reduce supply and demand for illicit mobile devices; and
+S0200  work with industry and other government departments to detect and block drones from entering the prison estate.
+S0201 43.
+S0202 To develop a more robust response to criminality in prison, we will:
+S0203  work closely with the police, Crown Prosecution Service and others across the criminal justice system to ensure a robust and swift approach to tackling criminality in prison;
+S0204  enhance our intelligence capability by investing £3 million to recruit an extra 50 intelligence staff in early 2017, to work in a new national command supported by regional units;
+S0205  invest in a number of dedicated Serious and Organised Crime and Gangs teams across the country;
+S0206  devise and implement a strategy to address staff corruption in 2017, making appropriate links to the cross government Anti-Corruption Strategy being developed following a UK commitment at the London Anti-Corruption Summit in May 2016; and
+S0207  work with the Home Office to strengthen our response to the risk of radicalisation and extremism in prisons.
+S0208 Developing our leaders and staff
+S0209 44.
+S0210 A dedicated and talented workforce will be essential to delivering our reforms.
+S0211 We will invest in the staff that we have, providing the right tools and support to enable them to do their job effectively in the reformed system; as well as boosting staff numbers by attracting new staff to come and work for us (chapter 6).
+S0212 45.
+S0213 We will improve the capability of our existing staff by:
+S0214  developing a capability strategy to support governors and senior managers to take on new responsibilities;
+S0215  developing a bespoke prison leadership programme by the end of 2017;
+S0216  introducing an improved induction and support programme for new staff; and
+S0217  training existing staff to take on new responsibilities such as providing one-to-one support to prisoners.
+S0218 46.
+S0219 We will increase the number of prison officers by 2,500 by the end of 2018.
+S0220 We will bring talented new people into the workforce by:
+S0221  introducing a new direct entry scheme for managers by the end of 2016, prioritising posts in London and the South East;
+S0222  launching a new campaign in early 2017 to increase the number of former armed forces personnel working in prisons;
+S0223  introducing a new graduate recruitment scheme in early 2017 for high achieving graduates to become prison officers; and
+S0224  introducing a new high level apprenticeship scheme for prison officers in 2017.
+S0225 Building the right estate for reform
+S0226 47.
+S0227 We will create a reformed estate that will be less crowded, better organised, more effective and comprise modern, fit for purpose accommodation (chapter 7).
+S0228 48.
+S0229 Over the next four years we will:
+S0230  simplify the organisation of the estate so prisoners are placed at the right level of security in prisons with appropriately tailored regimes;
+S0231  open HMP Berwyn, a new rehabilitative male prison in North Wales in February 2017;
+S0232  invest £1.3 billion to build up to 10,000 new adult prison places; and
+S0233  build and open five new community prisons for women.
+S0234 49.
+S0235 We have started the process to find suitable sites for new prisons and will apply for planning permission to redevelop the sites at HMP Wellingborough and HMP & YOI Glen Parva.
+S0236 We can confirm that the former Immigration Removal Centres at Dover and Haslar will not re-open as prisons.
+S0237 A further announcement about prison closures will be made in due course.
+S0238 50.
+S0239 These reforms are major changes that will result in sustained improvement over a decade.
+S0240 In particular, the complex task of combating the widespread violence in the estate will gain extra traction when we have recruited and trained new staff, built up our intelligence capability and rolled out new drug tests.
+S0241 51.
+S0242 Across the whole system we expect to see tangible improvements by 2020.
+S0243 By the end of this Parliament this strategy will have delivered much needed new facilities, empowered governors and introduced modern technology to improve regimes, support reform and combat security threats.
+S0244 Prison safety and reform
+S0245 52.
+S0246 In summary, a vital role of the justice system is to reduce the level of crime in our society by cutting reoffending.
+S0247 That is not possible in prisons where violence is too often the norm.
+S0248 Making our reform strategy a reality relies upon the continuing dedicated efforts of individual prison staff and officers on the ground.
+S0249 All staff members working in our prisons and young offender institutions are agents of reform.
+S0250 Without their support and engagement, and the leadership of governors, we will not achieve our vision of making prisons work.
+S0251 53.
+S0252 Transforming our prisons is long overdue but the deep-rooted problems within the system and the scale of culture change being proposed will take time to deliver.
+S0253 However there should be no doubt that reform is urgently needed to save society the huge financial burden and the incalculable human misery caused by the current failures of the criminal justice system to cut reoffending rates.
+S0254 As we improve the early interventions needed to stop people falling into crime, we now need to target those trapped in the revolving door of crime, prison and more crime.
+S0255 These proposals will break that cycle.
+S0256 These proposals will make prison work.
+S0257 Our starting point for making prisons places of safety and reform is to ensure the prison system has the right framework of accountability, scrutiny and support.
+S0258 We want everyone working in the prison system – from prison officers, through governors, up to the Secretary of State for Justice – to be clear that their common purpose is to protect the public and reform offenders.
+S0259 We want governors to be robustly and transparently held to account for keeping prisoners safe and for addressing the causes of prisoners’ offending.
+S0260 In turn, we want the Secretary of State to be clearly held to account by Parliament on how well the system is meeting its purpose.
+S0261 And we want strong, independent scrutiny and monitoring bodies, which can shine a light on failure and excellence alike, and which can trigger swift action where necessary by governors and the Secretary of State.
+S0262 Despite the vital job our prisons do in protecting the public, arrangements for how the prison system is overseen have grown in piecemeal fashion.
+S0263 As a result, the current system does not live up to this vision.
+S0264 There is nothing fundamentally wrong with how any of the bodies involved in commissioning, running or holding prisons to account currently operate when looked at in isolation.
+S0265 But taken together, accountability is blurred and this has to an extent blunted the teeth of commissioners and inspectors, and left too many distinct functions located in the Ministry of Justice and its agencies.
+S0266 To build the right framework for improvement, we will overhaul how the system is configured around governors so that:
+S0267  there is a statutory purpose for the prison system around which everyone working in it can unite;
+S0268  the role of the Secretary of State for Justice is clear, including how she will account to Parliament for her performance;
+S0269  there is a transparent process overseen by Ministers for holding governors to account; and
+S0270  inspection and other scrutiny arrangements are sharper and, where appropriate, trigger action to improve the system from the Secretary of State and governors.
+S0271 54.
+S0272 Different parts of the prison system have developed at different times and in different ways.
+S0273 As the political, financial and operational environment has changed, various parts of the system have been adapted and reformed.
+S0274 The result is that the running of all aspects of the system rests with the Secretary of State for Justice and, beneath her, the Ministry of Justice and its agencies act as commissioner, provider and route of accountability with no clear split between these different roles.
+S0275 55.
+S0276 In consequence, the structure of the prison system, the responsibilities within it and the way in which lines of accountability flow are blurred and unclear.
+S0277 The division of responsibilities between those who set the framework and the prisons themselves which deliver the service is confused, and accountability for the different aspects of the system poorly defined.
+S0278 This also makes the work of the independent oversight bodies, especially HM Inspectorate of Prisons (HMIP) but also the Prisons and
+S0279 Probation Ombudsman (PPO) and Independent Monitoring Boards, more difficult as the lack of clarity over responsibility blunts their ability to bring about change.
+S0280 56.
+S0281 To address this, we will reform the whole framework through which the prison system is run.
+S0282 We will begin by setting out for the first time a clear set of purposes that the prison system must deliver and make sure that the roles of commissioning, providing and performance assessment are clearly defined and brought in line with these purposes.
+S0283 In implementing the changes set out in this paper, we will modify our approach to make them work for private prisons as well, wherever possible.
+S0284 57.
+S0285 Those purposes will then feed down to individual prisons via a new and more streamlined commissioning model.
+S0286 This will be supplemented by performance agreements designed to support governors to exercise their new authority to make the right decisions for their prisons.
+S0287 The standards framework described in chapter 3 and reflected in each prison’s performance agreement and contract will allow the Secretary of State to understand and manage how prisons are performing within that framework and encourage continuous improvement.
+S0288 58.
+S0289 To support this data and provide a rounded picture, we want HMIP to take account of the extent to which prisons are achieving the purposes.
+S0290 HMIP should play a stronger role in holding prisons to account, so that the recommendations it makes have a real impact on improving the system, while retaining its independence.
+S0291 If a prison cannot improve its performance quickly and effectively, the Secretary of State, via the prison service, will intervene to address the situation.
+S0292 Strengthening the scrutiny that prisons receive will play a key role in making prisons safer and more effective at reforming offenders.
+S0293 Setting a clear direction
+S0294 59.
+S0295 As it stands, the prison system does not have clear objectives set out in law by Parliament.
+S0296 This is surprising, particularly given the importance of prisons in protecting the public and helping to prevent crime, and the cost of the system to the taxpayer.
+S0297 60.
+S0298 The existing legislation, the origins of which date back to the Victorian period, requires the Secretary of State simply to ‘make the contracts and do the other acts necessary for the maintenance of prisons and the maintenance of prisoners’ and focuses on the administrative running of the system.
+S0299 What is missing is clarity over what that system as a whole should be delivering.
+S0300 61.
+S0301 This is not just a symbolic change.
+S0302 To meet the challenges the prison system faces and transform the service, change needs to be properly embedded across the system.
+S0303 Reform that focuses on fixing specific parts of the system, however well-chosen, is doomed to fail because it does not bring that system together to deliver the changes it seeks.
+S0304 We need to go back to the beginning and make sure that it is crystal clear what the prison system exists to deliver, both to everyone who works in and with it and to society beyond.
+S0305 62.
+S0306 We therefore intend to legislate to introduce a clear statutory purpose for the prison system.
+S0307 This will provide an aim for the system as a whole to unite behind and a clear sense of what prisons will be held to account for.
+S0308 As we explore in more detail in chapter 3, this purpose will be based on the basics of what we expect prisons to
+S0309 deliver: public protection, safety and order, reform, and preparing prisoners for release.
+S0310 The role of the Secretary of State
+S0311 63.
+S0312 The current way in which the duty on the Secretary of State to superintend prisons and maintain prisons and prisoners is framed is outdated.
+S0313 It lacks a clear sense of the Secretary of State’s overarching responsibility for the prison system and what it achieves, concentrating instead on operations and process, issues that are for those providing services on the ground.
+S0314 We are looking at whether we need to be clearer in the Prison Act 1952 or the Prison Rules 1999 about the respective roles of the Secretary of State and governors.
+S0315 We also need to make clear to Parliament, and the public at large, who does what and who is ultimately responsible for delivering results.
+S0316 64.
+S0317 There will always be some functions that lie with the Secretary of State, either because they ensure fairness across the system or because they maintain the consistency that allows the prison system to function overall.
+S0318 The Secretary of State will remain responsible for:
+S0319  making provision for an efficient and effective prison system;
+S0320  funding the system, either providing and running prisons directly or making arrangements for others to do so;
+S0321  allocating prisoners to prisons;
+S0322  managing the capacity of the system – maintaining sufficient spaces within the estate to provide safe and secure accommodation for those placed in custody by the courts;
+S0323  setting the mandatory basic or cross-cutting rules and policies to ensure prisons are secure, safe and decent, run in accordance with the law and retain public confidence;
+S0324  appointing governors in public sector prisons (and a more limited role appointing the director in privately run prisons); and
+S0325  intervening where there are performance issues.
+S0326 65.
+S0327 To make sure accountability follows responsibility, we intend to legislate to reform the requirements for the Secretary of State to report to Parliament on the prison system.
+S0328 At the moment, the Secretary of State is required to report on a wide range of measures – from the prison population to offences and punishments – at the level of the individual prison.
+S0329 While some of this may be helpful management information, it is a tick-box exercise and not properly aligned with our vision of the Secretary of State’s role in the prison system.
+S0330 66.
+S0331 We intend to legislate to link the Secretary of State’s reporting duties to the new statutory purposes of the prison system, so that reporting focuses on progress that has been made in achieving those goals, rather than the minutiae of operations.
+S0332 This will be supported by the publication of league tables and the data underpinning them, providing a quick illustration to the public of a prison’s performance.
+S0333 67.
+S0334 Taken together, these reforms will make sure that people understand what the prison system should be doing and how well it is achieving that.
+S0335 68.
+S0336 Figure 1 explains our design for a reformed prison system.
+S0337 69.
+S0338 We need to change the way that prisons are commissioned to reflect the greater authority and role that governors are being given (as chapter 4 will set out) and to help drive continuous improvement.
+S0339 We need a transparent process nationally where standards and budgets are clearly set and measured and governors are held to account for meeting them.
+S0340 And locally, as responsibilities and budgets are devolved to prisons, governors will need to know the size of their budget, the standards expected of them and what services they can commission.
+S0341 70.
+S0342 We envisage a system where:
+S0343  the Secretary of State reviews the overall performance of prisons and makes decisions on priorities and resources based on this;
+S0344  a transparent funding formula allocates resources to prisons based on their function;
+S0345  each prison (publicly or privately-run) negotiates an appropriate performance agreement, which sets out the prison’s population, funding and performance expectations against each of the standards set out in chapter 3, agreed with Ministers;
+S0346  mandatory basic requirements are set in order to ensure prisons are secure, safe and decent and run in accordance with the law;
+S0347  delivery against the performance agreement is monitored;
+S0348  governors are held to account for their performance; and
+S0349  decisive action is taken if performance is of serious concern.
+S0350 71.
+S0351 Prisons do not exist in isolation from the rest of the criminal justice system.
+S0352 In setting the framework for the system, the Secretary of State will work closely with others across the criminal justice system, including partners on the national Criminal Justice Board, to ensure a joined-up, consistent approach to the shared goal of reducing crime and protecting the public.
+S0353 72.
+S0354 It will take some time to make this system a reality, but we are putting the building blocks in place now: clarity of accountability, defined purposes and performance standards for the system; an unequivocal mandate to governors, and the authority to deliver.
+S0355 By April 2017, we will have new three year performance agreements in place with a third of prisons, with the remaining prisons moving to this approach over the following two years.
+S0356 In the longer term, the performance agreement will be the vehicle for negotiating with prison governors, including about what expectations are set for the prison, and the budget allocated to it, based on a new funding formula.
+S0357 73.
+S0358 Private prisons are managed and held to account under detailed contracts, with an annual performance agreement supplementing this.
+S0359 We want our reforms to apply in as similar way as possible to private prisons and will work through on a prison by prison basis how and when to apply the changes we propose in this paper.
+S0360 An evidence and data-driven system
+S0361 74.
+S0362 For both commissioners and governors to be properly equipped to decide which services should be delivered in prisons, they need access to a robust evidence base.
+S0363 Historically, while the evidence base for some services is well-understood, there is scope to improve how we identify successful new approaches and share that information across the system.
+S0364 75.
+S0365 With greater control and responsibility, governors and other commissioners will need to know more than ever which approaches deliver the biggest ‘bang for their buck’.
+S0366 76.
+S0367 We already provide a range of sources of evidence and support to both governors and service providers.
+S0368 This includes evidence syntheses and summaries (such as the A–Z intranet resource published this year), new data tools, advice on delivering better results and on effective practice in reducing reoffending and providing safe environments.
+S0369 77.
+S0370 To build on this, we are exploring the option for a new ‘what works’ resource to further support the full and effective use of evidence.
+S0371 Its purpose could be:
+S0372  synthesising and building the evidence base, including supporting trials of new approaches, and continuing to make this accessible for prisons;
+S0373  better equipping prison governors and others involved in brokering relationships with businesses and employers to make informed judgements about what works; and
+S0374  building capability and driving system-wide culture change to use evidence and data as standard in decision-making.
+S0375 78.
+S0376 We are developing our approach by learning from best practice within the prison system as well as from other sectors.
+S0377 Sharper inspection and scrutiny
+S0378 79.
+S0379 In the prison system as it stands, we monitor prisons and provide assurance that they are operating effectively; HMIP scrutinises prisons and reports on the conditions and treatment of those in custody, and Independent Monitoring Boards (IMBs) monitor and report on the daily life within prisons.
+S0380 The PPO carries out independent investigations into deaths in custody and complaints made by prisoners.
+S0381 In addition to its remit in inspecting prisons in England and Wales, HMIP inspects prisons in Northern Ireland by invitation.
+S0382 As this arrangement is by invitation, the proposals below apply only in relation to England and Wales.
+S0383 80.
+S0384 This independent insight into what is happening in our prisons is essential.
+S0385 We want to preserve the independence and transparency of existing scrutiny arrangements, and to make sure that the combined influence of scrutiny provides clarity to prisons about priorities and purpose, and increases the impact of inspection.
+S0386 We believe it is essential that HMIP continues to provide independent and robust scrutiny of prisons and we intend to strengthen their statutory remit to support this role.
+S0387 We are also clear that HMIP must continue to report on the conditions for, and treatment of those in prison, and maintain its critical role as part of the preventative independent mechanism required under the Optional Protocol to the UN Convention Against Torture (OPCAT).
+S0388 Our proposed statutory purpose will make clear what the prison system is seeking to achieve.
+S0389 We want to add to the remit of HMIP so that in addition to their broad focus on the treatment of prisoners, they take account of the extent to which prisons are achieving those purposes.
+S0390 Recognising the importance of leadership and to support continuous improvement, inspections will also include consideration of how the leadership of a prison is contributing to the achievement of the outcomes it inspects.
+S0391 It will continue to be for HMIP to devise an independent inspection framework, including the specific inspection outcomes and criteria against which it inspects.
+S0392 As now, however, we would want HMIP to consult the Secretary of State and other relevant parties in devising this.
+S0393 81.
+S0394 We will also sharpen the responses to inspections so that action is taken swiftly and seriously.
+S0395 As a starting point, we will create a requirement for the Secretary of State or governor to respond to findings within a certain timescale.
+S0396 82.
+S0397 However, where a prison is failing to deliver, there has to be a clear mechanism for putting things right.
+S0398 This will be through a formal rectification process where the inspectorate’s findings can act as a trigger for the Secretary of State to intervene in the worst cases.
+S0399 This would be in addition to any intervention if a prison is performing poorly against their performance agreement or contract.
+S0400 83.
+S0401 The process taken to improve prison performance will depend on the circumstances and may involve:
+S0402  providing intensive support to the prison to rectify failings through the implementation of an improvement plan;
+S0403  providing a central improvement team to work with the prison to support improvement; or
+S0404  replacing the leadership of the prison or moving the senior leadership of the prison to a new management structure.
+S0405 84.
+S0406 We want IMBs to continue their critical role as the regular eyes and ears of the Secretary of State inside prisons.
+S0407 We will strengthen the governance arrangements and accountability for IMBs, to support them in providing high quality scrutiny.
+S0408 85.
+S0409 There have been longstanding calls for the PPO to be put on a statutory footing to enhance the organisation’s independence and credibility.
+S0410 While we think the PPO performs effectively and is widely respected in its current form, we recognise a statutory basis could bolster the status of the role and will explore ways of achieving this.
+S0411 Prisons exist to deprive people of their liberty and so punish them for crimes they have committed.
+S0412 However, the time people spend in prison is an important opportunity to prevent them going on to commit further crimes on release.
+S0413 To achieve that, there are four purposes that prisons need to deliver well:
+S0414  protect the public;
+S0415  maintain safety and order;
+S0416  reform offenders to prevent more crimes from being committed; and
+S0417  prepare prisoners for life outside the prison.
+S0418 We will make sure that prison governors and staff are absolutely clear about the purpose of prisons and how their roles support that, and have clear standards that they are expected to achieve.
+S0419 How well they have performed against those standards must be transparent not only within the system but beyond it, to Parliament and the public, so that governors can be held effectively to account.
+S0420 The statutory purpose we described earlier is an important starting point in putting these four standards at the heart of what prisons do.
+S0421 But we need to go further.
+S0422 The performance requirements that are set for prisons now focus too heavily on processes and box-ticking.
+S0423 We know there is a much more complex picture underlying how well our prisons perform, not least how well prisoners turn their lives around while in custody, which includes indicators such as how far they progress in education and in workplace skills, their health, and their progress in getting off drugs.
+S0424 To deliver this vision we will:
+S0425  set new performance measures for every prison, based on these four standards, so that governors know exactly what we want them to achieve; and
+S0426  publish a subset of these in an annual league table to provide a clear illustration to the public of how well each prison is performing.
+S0427 86.
+S0428 As we have already seen, prisons fulfil a number of important purposes, but at the moment it is not clear what the prison service as a whole should be delivering.
+S0429 A recent report by the think-tank Reform on the publicly available data on prison performance, for example, concluded that ‘this tells us little about how effectively the public are being protected and prisoners humanely housed.
+S0430 It also fails to capture whether prisons are rehabilitating offenders to desist from committing further crimes’.
+S0431 We mean to address this.
+S0432 This chapter sets out our vision for what we think effective prisons should deliver, and how we will measure their performance against those expectations.
+S0433 87.
+S0434 Punishing offenders for the crimes they have committed by depriving them of their freedom is a crucial element of what prisons are here for and a core part of our criminal justice system.
+S0435 We want them to deliver this vital function in a way that minimises risk to the public and prevents future crime.
+S0436 There are in the end four
+S0437 important things the prison system is responsible for: public protection; safety and order; reforming offenders; and preparing prisoners for life after prison.
+S0438 88.
+S0439 At the most fundamental level, prisons exist to give effect to the orders of the courts and deliver sentences imposed by them.
+S0440 Imprisonment is not a punishment that is imposed lightly.
+S0441 It reflects the seriousness of an offence and the harm that an offender has caused to the community.
+S0442 Public protection therefore remains a basic duty of prisons so that our streets are kept safe, that victims of crime and the general public see that crime is punished, and that we prevent more innocent people from being the victims of crime.
+S0443 But beyond this, we cannot hope to reform offenders unless we are able to hold them securely.
+S0444 Prisons need to be able to do this to command public confidence and to deliver any of the other purposes.
+S0445 89.
+S0446 Similarly, for prisons to be places of reform rather than just containment, they need to be safe for both prisoners and staff.
+S0447 This is key to running a full prison regime that gives prisoners the right opportunities to reform, and to enabling staff to work with and manage prisoners well.
+S0448 We know that prisons are facing significant challenges in this area and chapter 6 sets out how we will continue to support them to operate safely.
+S0449 Tackling safety rightly needs a national response but it must also be the responsibility of every governor in relation to the staff and prisoners they manage.
+S0450 90.
+S0451 However, if we ask prisons to focus only on being able to hold prisoners securely, we risk missing the opportunity to help offenders to change.
+S0452 Prison provides a unique chance to help prisoners reform by giving them the right support at the right time to help them change their behaviour and attitudes, and prepare for a crime-free life when they are released.
+S0453 So we must make sure that prisoners spend their time in custody constructively and that we provide the right services and opportunities in a coherent way.
+S0454 Supporting offenders to reform, so that they can contribute positively to society, must be a fundamental part of what prisons seek to achieve.
+S0455 91.
+S0456 We also know that a vital part of reform is preparing offenders properly for life after prison, creating the right conditions to help prevent a return to crime.
+S0457 This is not just the job of prisons, of course.
+S0458 They must work in partnership with probation to make sure that prisoners have a home to go to when they are released, a key factor in reducing the likelihood of them returning to crime.
+S0459 While we cannot expect them to be responsible for services outside the prison, governors should be able to work effectively as partners with probation, and with other important services such as Jobcentre Plus, local councils and healthcare providers.
+S0460 92.
+S0461 We want these four purposes to be built into the way all prisons are run and for all prisons and their staff to have the skills, authority and support to deliver them.
+S0462 They should inform the way the prison day is run, the opportunities that are offered to offenders, the relationships staff have with prisoners and the culture of the prison as a place to live and work.
+S0463 A big part of this will be giving prison governors freedom to manage their prison in a way that achieves this and the next chapter looks at how we will do that.
+S0464 But we also need to be clear from the outset that this is the standard we expect.
+S0465 Measuring performance to raise standards
+S0466 93.
+S0467 Prisons are currently assessed against their ability to hold prisoners securely, run safe and decent regimes, and rehabilitate prisoners in order to reduce reoffending.
+S0468 But beneath these headlines, the picture is less clear.
+S0469 Current performance measures are based on form-filling and on compliance with processes.
+S0470 It is not necessarily wrong to collect that data – good management information is essential for any leader to understand how their organisation is working and track the effect of change.
+S0471 But judging a prison’s performance by its ability to follow a process misses the point – we should be looking at the results they deliver, not the boxes they tick.
+S0472 94.
+S0473 Setting out in legislation what we want the prison system to achieve, through a statutory purpose, is a necessary step but is not enough on its own to drive the improvements we want to see.
+S0474 Governors should be held to account for the results they achieve in delivering the purposes of the prison system.
+S0475 To do this, we will set performance measures for each purpose and publish a subset of these in a new prisons league table.
+S0476 This will provide the public with an easy to understand illustration of how well each prison is performing.
+S0477 95.
+S0478 We recognise that this is not necessarily as simple in practice as it sounds.
+S0479 Prisons are part of a complex broader system where good results need coordinated contributions from a range of different organisations including probation, local authorities, and health and education providers.
+S0480 96.
+S0481 In recent years, our answer to this has been to narrow the responsibilities of prison governors and set them performance standards focused only on those issues which prisons can largely deliver themselves.
+S0482 We still think we should not hold governors to account for standards they do not have the control or power to deliver.
+S0483 But rather than seeing this as a reason to reduce their role, this is why we must strengthen their position so they are given new authority and tools to make a success of their prison, and develop a set of performance standards that can match this.
+S0484 97.
+S0485 We already have data that will give us a good understanding of how prisons perform against these standards.
+S0486 However, we also know we have room to improve our performance data.
+S0487 We therefore propose to develop further measures for future years which will give us a better overall picture of performance.
+S0488 We have looked afresh at the information we have now, and the potential it offers us to design a new set of measures focused on delivering the results we want.
+S0489 98.
+S0490 We set out below the performance measures we want to use for the prison system from 2017/18, although in some cases it will take us longer to develop effective measures.
+S0491 99.
+S0492 All standards will apply to all prisons but not equally: the level of progress we would expect a prison holding prisoners in custody for a very short period to make on, for example, education or effective use of Release on Temporary License (ROTL) will be different to one holding longer-sentenced prisoners.
+S0493 Similarly, prisons need a fair opportunity to make progress, and we will therefore only include in the ‘distance travelled’ measures listed below prisoners who have been in the prison in question for at least three months.
+S0494 Standard 1: public protection
+S0495 Holding prisoners securely is the core job of prisons – it protects the public from the risk offenders pose and is the basis of everything else prisons do.
+S0496 We therefore need to be clear on how well prisons are achieving this and that they are doing all they can to prevent security failures.
+S0497 Security
+S0498 We will use the number of escapes from closed prisons and the rate of absconds from open prisons as the key measures: minimising escapes is central to protecting the public and delivering the sentence of the court.
+S0499 Release on temporary licence (ROTL) allows eligible prisoners to be temporarily released for certain purposeful activities, like work.
+S0500 This is an important part of preparing them for release, but public protection remains paramount.
+S0501 So we will look at the rate of prisoner compliance with release on temporary licence as well as the number of offences committed while on ROTL.
+S0502 Escapes, absconds and failing to return from or committing an offence while on ROTL are rare events, largely because prisons have robust processes in place to prevent them.
+S0503 To give us a full picture and make sure prisons are doing all they can to prevent these serious incidents, the performance framework will include additional measures such as compliance with key parts of security processes, including searching, intelligence, control of prisoner movements and escorts.
+S0504 Standard 2: safety and order
+S0505 Prisons need to be and feel safe for both staff and prisoners.
+S0506 Violent incidents are the most obvious issue, but this is also about the wider culture and atmosphere of the prison and the support it provides to vulnerable prisoners.
+S0507 Safety
+S0508 We want to use the measure of the rate of assaults on prison staff and the rate of assaults on prisoners.
+S0509 This knowledge will also help us improve the stability and culture of our prisons and provide a safe working environment.
+S0510 To monitor the success of a prison’s strategy for dealing with vulnerable prisoners we will also include the rate of self-harm by prisoners in performance standards.
+S0511 Perceptions of safety
+S0512 We will supplement this through additional measures of staff and prisoner perceptions of safety measured through a structured survey to better understand the culture and atmosphere in our prisons.
+S0513 Order
+S0514 The rate of incidents of prison disorder (e.g. barricades) will give us a picture of the levels of control and order within prisons.
+S0515 Standard 3: reform
+S0516 To reform offenders, we need to be sure they are being given the right services and opportunities across the different areas we know support rehabilitation and help prevent a return to crime.
+S0517 Health and substance misuse
+S0518 We want to reduce the level of drug use in prisons, so we will develop for future years a measure to track ‘distance travelled’ by an offender in substance misuse via drug testing on entry and exit.
+S0519 In the meantime, we will include as a measure the average rate of positive drug tests.
+S0520 To make sure governors can be held to account for the access to health services for prisoners, performance standards will include the number of medical appointments cancelled due to non-availability of prisoners.
+S0521 For future years, we will develop further measures of each prison’s work to improve prisoners’ health.
+S0522 We will also work with NHS England, Public Health England and the Welsh Government to improve measurement of mental health outcomes and use this to develop a ‘distance travelled’ measure for prisoner mental health.
+S0523 Work
+S0524 To help prisons deliver full and purposeful regimes, the framework will include the number of hours worked in industry.
+S0525 We recognise we need to develop a more rounded assessment of each prison’s delivery of a full and purposeful regime.
+S0526 Initially, we will develop a measure of the quality of work opportunities offered by prisons.
+S0527 In future years, we intend to measure and publish the time prisoners spend out of their cells, including time spent out of their cells engaging in purposeful activity.
+S0528 Education
+S0529 To improve prisoners’ access to education and training, and help them find a job on release, we will compare measures of attainment in English and maths on release with those at the start of custody and look at the number of qualifications, or other employment-focused courses and accreditation, completed by prisoners.
+S0530 In future, we will improve how we measure education and training by developing measures that assess a prisoner’s progress against milestones in their individual learning plan.
+S0531 Families
+S0532 To support prisoners to maintain links back to the community, we will work to develop a measure of the quality of prisoners’ family relationships.
+S0533 Standard 4: preparing for life after prison
+S0534 Prisons need to support offenders to prepare for their release, working together with probation and with other services that support the transition through the prison gate.
+S0535 Work
+S0536 We will measure the rate of prisoners in employment on release compared to before they entered custody, so we can see how many offenders are entering full-time or part-time work on leaving prison.
+S0537 Housing
+S0538 We will look at the rate of prisoners in suitable accommodation on release, compared to before they entered custody, so we can use that information to increase the number of offenders that have somewhere to live when they are released and track progress.
+S0539 Education
+S0540 Similarly, the rate of prisoners in full or part-time education after release compared to reception into custody will show us how we have improved prisoners’ access to education.
+S0541 100.
+S0542 We propose to include each of these measures in prison performance agreements with specific standards set for every prison.
+S0543 This will take account of each prison’s specific situation and so allow us to hold governors to account in a fair way.
+S0544 101.
+S0545 We also need to make performance easier to understand for those who are not directly responsible for the system.
+S0546 To do that, we propose to publish the most important of the performance standards in a new prisons league table so it is quick and easy to see how each prison is performing.
+S0547 Prison League Table measures
+S0548 1. Public protection (indicator – escapes)
+S0549 2. Safety and order (indicators – assaults on staff; assaults on prisoners; self-harm)
+S0550 3.
+S0551 Progress made in education (indicators – improvements in English and maths on release compared to start of custody)
+S0552 4. Health progress (indicators – entry and exit tests (in future years) and the average rate of positive results from random drugs tests)
+S0553 5.
+S0554 Progress made on work (indicators – rate of prisoners in employment on entry and exit)
+S0555 6.
+S0556 Time spent out of cell
+S0557 102.
+S0558 These reforms will allow us to hold prisons to account for what matters, and enable other parts of the criminal justice system, such as Police and Crime Commissioners, similarly to hold prisons to account and work with them to improve results.
+S0559 With clarity on the standards they need to achieve, the leaders in our prisons need the levers, control and decision-making authority to deliver.
+S0560 We want governors to have the power and budget to determine how their prisons are run, including how to prioritise and deliver services within their prisons.
+S0561 That is not always the case at the moment.
+S0562 We have many highly capable leaders already working in our prisons.
+S0563 But to be effective leaders they need the control and authority to set the direction for their establishments.
+S0564 At present, they are held back by a system that is highly complex and centralised.
+S0565 There are tens of thousands of pages of instructions covering every conceivable aspect of prison life.
+S0566 At the moment, services in prison are sometimes poorly coordinated, and are often designed and commissioned above establishment level.
+S0567 Governors lack the levers they need to integrate these so that prisoners receive the right services at the right time.
+S0568 To tackle these problems we will:
+S0569  build on our new reform prisons by rolling out greater empowerment across the entire estate; and
+S0570  put the governor at the centre of all services in prison by devolving budgets and control, and providing them with the levers they need to hold other providers to account.
+S0571 103.
+S0572 Earlier this year, we began a trial giving significantly greater authority to governors in six reform prisons:
+S0573  HMP Wandsworth: a large, local prison in south-west London built in the Victorian era with an operational capacity of 1,628 men, will shortly re-role to become a reception prison.
+S0574 Ian Bickers is the Executive Governor;
+S0575  HMP Holme House: a large, local prison in Stockton-on-Tees built in 1992 with an operational capacity of 1,210 men, will shortly re-role to a Category C training prison with men serving sentences over 4 years, some sex offenders and some men serving short sentences.
+S0576 Ian Blakeman is the Executive Governor;
+S0577  HMP Kirklevington Grange: a Category D prison in Yarm, Stockton-on-Tees with a capacity of 283.
+S0578 Ian Blakeman is the Executive Governor;
+S0579  HMP Coldingley: a medium sized industrial prison in Surrey with a long term category C population of 512 men built in 1968.
+S0580 Nick Pascoe is the Executive Governor;
+S0581  HMP High Down: a large prison in Surrey built in 1992 with an operational capacity of 1,203 men, will shortly re-role to a Category C prison with medium and long-term male prisoners.
+S0582 Nick Pascoe is the Executive Governor;
+S0583  HMP Ranby: a large Category C industrial prison in Nottinghamshire built in 1972 with an operational capacity of 1,038 men mostly serving longer sentences.
+S0584 Neil Richards is the Executive Governor.
+S0585 104.
+S0586 We see these prisons and their executive governors as leading the changes we want to make to the prison system.
+S0587 They are the trailblazers for a governor-led approach to reforming prisoners and keeping them safe.
+S0588 Executive governors of reform prisons are clear what results they need to deliver, and are empowered to work out how to deliver them.
+S0589 They have unprecedented operational and financial authority to:
+S0590  spend budgets more flexibly to prioritise the issues that matter in their particular prison;
+S0591  design new strategies to recruit, manage, develop and recognise staff so they attract the right people and retain them;
+S0592  manage staff more flexibly to increase frontline numbers and support safety, security and rehabilitation;
+S0593  decide which goods and services they buy locally and who supplies them; and
+S0594  decide who they partner with and what services they commission.
+S0595 105.
+S0596 This is the change we want to bring about across all of our prisons.
+S0597 We will learn from what the reform prisons are doing and apply this to the rest of the estate, as we give greater decision-making authority to governors as they build capability in their prisons.
+S0598 Two of the executive governors are responsible for more than one prison.
+S0599 We will consider what benefits this cluster model brings and what the best scale is, including whether to move towards a cluster-based approach to managing the prison estate in the longer term.
+S0600 We will also look carefully at how well these governors have been able to set and implement their own workforce strategy, whether it is possible to do so within current structures or whether changes are required to create prisons as distinct, individual legal entities.
+S0601 Giving governors the power to deliver
+S0602 106.
+S0603 Any leader needs to be given enough authority to make decisions about the things that they think matter.
+S0604 We do not think this is the case for prison governors at the moment.
+S0605 They are subject to an extraordinary amount of prescription and control over what they can and cannot do, and their discretion to target resources on the things they think will make the difference for their prisoners is tightly constrained.
+S0606 We want to reverse this.
+S0607 107.
+S0608 National leadership, coordination and guidance is essential in some areas, such as security and intelligence-gathering, to manage risk, recognise and swiftly respond to any developing national trends, and make links between patterns in different prisons.
+S0609 Managing these cross-cutting issues in this way delivers the best results across the estate as a whole.
+S0610 However, governors are best able to manage the circumstances of their prison, and the offenders it holds, and should have much greater control over the how they reform the offenders in their prison.
+S0611 108.
+S0612 Prisons will always be complex institutions with a range of providers delivering different specialist activities and services.
+S0613 Offenders often have very acute problems across a range of these services, requiring careful coordination and sequencing.
+S0614 In recognition of this, the governor’s role is sometimes seen as a systems integrator – someone that can make sure that each service is designed and delivered in a coherent way so that they are more than the sum of their parts.
+S0615 109.
+S0616 However, we do not provide governors with the tools they need to perform this role and delivery falls short of where it needs to be:
+S0617  services and interventions are not always provided in the most effective order (or deliberately ordered at all);
+S0618  different service providers often compete to have the same prisoners because incentives are misaligned, or provide services which are likely to boost their performance rather than meet the needs of the prisoner; and
+S0619  services are not integrated with other aspects of running the prison so prisoners do not turn up at appointments or training, or are moved midway through a course.
+S0620 110.
+S0621 Across the standards we would like prisons to achieve, we have considered carefully where and how different functions should be delivered.
+S0622 Very often, this will be at the level of the individual prison and its governor but we are clear that responsibility and accountability should sit at the same level and that level should be where they are operationally most useful.
+S0623 In other cases, it may be right for some or all responsibilities to remain at regional or national level.
+S0624 111.
+S0625 It will take time to embed the changes and to build the capability within the system to realise the benefits fully.
+S0626 Our proposed phasing is set out below.
+S0627 From April 2017, we will give governors greater authority in the following areas:
+S0628  Accredited programmes: governors will be able to choose which programmes to run for prisoners to tackle their offending behaviour.
+S0629 They can focus on those most suited to the types of offenders in their prison, drawing on the improved national evidence base;
+S0630  Health: we will move to a joint approach to commissioning health services in England, with governors jointly involved in the decision making process at each stage of the commissioning cycle alongside local NHS commissioners;
+S0631  Work: governors will be able to develop local commercial relationships to provide meaningful work opportunities for prisoners.
+S0632 They will be able to reinvest the income they generate to deliver additional services or grow their employment offer;
+S0633  Staff: governors will be able to design their staffing structure from scratch and hire the senior leadership team, officers and specialists with the skills they think the prison needs;
+S0634  Budgets: governors will decide how they spend their money rather than being given specific budgets for different things, with tight restrictions on how they spend it;
+S0635  Operating framework: governors will be able to introduce operational policies that fit the prison, as long as they meet minimum national requirements, rather than having to comply to the letter with hundreds of detailed instructions.
+S0636 During the course of 2017 and 2018:
+S0637  Education: we will give governors the budget and responsibility for education once current contracts end so that they can overhaul education provision completely;
+S0638  Family ties: we will give governors the budget and responsibility for services to families so that prisoners can build and keep family ties;
+S0639  Contracts: we will review national contracts as they come to an end, to assess whether we should devolve responsibility to governors or (where we continue with a national approach) give governors greater flexibility to buy elsewhere if they choose.
+S0640 112.
+S0641 In Chapter 3 we looked at what standards we expect prisons to be working towards in four main areas: public protection, safety and order, reform, and resettlement.
+S0642 This chapter sets out proposals to give governors the authority to work out how to deliver those standards in their prison.
+S0643 Public protection
+S0644 113.
+S0645 Prisons cannot be places of safety and reform unless they are effective at preventing prisoners from escaping or absconding, and at stopping illicit or harmful material from entering the prison.
+S0646 114.
+S0647 There are many aspects of prison security that will continue to benefit from national leadership, to ensure that we act in a strategic and well-co-ordinated way to tackle threats as they emerge and prisons meet these challenges and share information in a consistent way across the estate.
+S0648 But in some areas we should expect governors to lead: for example, developing strong relationships with their local police force and Police and Crime Commissioner, and with their local CPS region, to allow a joined up approach to detecting and prosecuting offences in prisons.
+S0649 Similarly, intelligence and search functions are examples of responsibilities where we need governors to take a lead locally while supported by the right regional and national infrastructure.
+S0650 115.
+S0651 As we set out in more detail in chapter 5, we will move towards a tiered system of intelligence and security where we will empower governors to address the local causes of security threats, by giving them extra search capability, while boosting our regional and national infrastructure (for example, by increasing our national intelligence capabilities and creating a new joint unit with the Home Office to tackle radicalisation and extremism).
+S0652 Safety and order
+S0653 116.
+S0654 Bringing down the levels of assaults, self-harm and self-inflicted deaths in our prisons is critical to achieving a more stable estate, in which staff and prisoners have the time and headspace to address the causes of re-offending.
+S0655 To achieve this, we will move accountability for the management of all but short-sentenced prisoners to governors, alongside giving them the right levels of resource to support a new model in which dedicated officers can support and challenge a caseload of prisoners.
+S0656 We know that managing offenders this way, at a local level, and giving them targeted and individual support to address their behaviour is the most effective way of reducing violence in our prisons.
+S0657 117.
+S0658 Chapter 5 sets out how we are moving to this model in 10 prisons immediately, before rolling it out more widely in remaining prisons by the end of 2018.
+S0659 Reform
+S0660 Attitudes and behaviour
+S0661 118.
+S0662 We know interventions to address attitudes and behaviour can be important in supporting prisoners to reform, so a number of national programmes have been developed and accredited.
+S0663 These are currently commissioned centrally.
+S0664 While there will always need to be some cross-system oversight, we think governors should choose which offending behaviour programmes to run in their prison and how much they spend on them.
+S0665 Governors will, of course, be able to continue to use accredited programmes in line with the evidence.
+S0666 They will also be able to use the existing national evidence base on what is successful for whom, when, and how, and in future work with the ‘What works’ resource (described in chapter 2) to design and create their own programmes to meet the specific needs of their prison.
+S0667 We will devolve the budget and responsibility for these programmes from April 2017.
+S0668 Education
+S0669 119.
+S0670 Education is an important part of making our prisons places of safety and reform.
+S0671 Our current education services, delivered by Further Education colleges and training providers, have made an important start in improving provision.
+S0672 However, as Dame Sally Coates rightly identified in her recent review, much more could be done.
+S0673 Three-fifths of prisoners leave without an identifiable employment, education or training outcome.
+S0674 The total number of prisoners participating in learning has increased steadily since 2010, but participation in maths and English – which need to be at the core of prison education for many offenders – has remained steady.
+S0675 120.
+S0676 We agree that improving education levels is an important goal for offenders and we recognise that what this looks like will be different for different prisoners, and in different prisons.
+S0677 To enable quick progress, we have already stripped out unnecessary rules and governance from our education contracts to allow governors more oversight and control of existing services.
+S0678 Now we propose to go further.
+S0679 We will implement the following recommendations from the Coates review, and will set out our plans for how we will achieve this in a detailed education strategy next year:
+S0680  we will make prison governors fully responsible for education provision in their prisons once existing contracts end, commissioning the services they think are most appropriate in their individual prison.
+S0681 This means governors will be able to decide how to structure their educational regime, how it is sequenced and integrated with other services, who provides it, and how to spend not only this budget but other related budgets, like the one for library services.
+S0682 It has the potential to make a big difference.
+S0683 We have already done this in the six reform prisons;
+S0684  we will assess all prisoners’ education needs on entry into custody to create a personalised learning plan as part of their sentence plan;
+S0685  we will introduce a core common curriculum across the estate, focusing on maths and English, and seek to use the same awarding bodies for particular types of provision so those starting a course at one prison can bank and build on their progress if they move elsewhere;
+S0686  governors will be encouraged to work with local employers and use data on the local labour market gaps to choose the right vocational training to help offenders into employment, including better use of ROTL;
+S0687  we will challenge all the organisations working with prisoners in custody to offer opportunities for prisoners on release, whether that be interview practice or work experience if they are not able to offer full employment opportunities.
+S0688 We will also free governors to re-design the way probation, Prison Work Coaches and National Careers Service advisors work together to enable offenders who want to continue with education or training to do so; and
+S0689  we will make sure that those providing education in prisons have the right skills and capabilities to do so.
+S0690 We have asked the Education and Training Foundation to look at the longer term development needs of the education and training workforce and make recommendations.
+S0691 121.
+S0692 These changes will apply to prisons in England.
+S0693 Education in Wales is devolved to the Welsh Government and arrangements for Wales are considered later in this chapter.
+S0694 Health
+S0695 122.
+S0696 Healthcare and treatment provided in custody should be of an equivalent in quality and standard to what is available in the community.
+S0697 In many cases offenders will have healthcare needs that are linked directly or indirectly to their offending.
+S0698 Particularly relevant here are substance misuse and mental health issues.
+S0699 There are clear links, for example, between opiate dependence and re-offending, and between psychopathy and certain violent re-offences.
+S0700 An MoJ survey of prisoners found that 64% of offenders reported they had used Class A drugs at some point, compared to a general population figure of 14%; 49% were identified as suffering from anxiety and/or depression.
+S0701 123.
+S0702 We will look at how we can improve mental health and wellbeing across the male, female and youth estate, to ensure that the right services and treatments are being offered.
+S0703 We also want to ensure that every prison offers effective pathways to recovery for prisoners with substance misuse issues.
+S0704 We will set out our full approach to addressing the problem of drugs in prisons over the coming months but we need to do this in the context of wider reforms to healthcare in prisons to give governors more control.
+S0705 124.
+S0706 Given the specialist nature of healthcare provision, policy and delivery responsibility for healthcare in prisons in England has since 2003 sat with the Department of Health and its delivery agencies, NHS England and Public Health England.
+S0707 This is in line with international best practice, and we do not propose to alter it.
+S0708 However, delivering high quality healthcare for people in prisons requires a ‘whole prison approach’ and a need for governors to work more closely and effectively with healthcare commissioners and providers and public health to ensure that healthcare services meet the needs of the population in their prisons.
+S0709 To deliver this, we will start to introduce a joint approach to commissioning health services across all prisons in England from April 2017.
+S0710 Statutory responsibility for budgetary and clinical decisions and overall accountability for quality of the service will remain with health commissioners and providers.
+S0711 Governors will take joint responsibility at each stage of the commissioning cycle with a joint approach to:
+S0712  carrying out health needs assessments;
+S0713  co-design of service specifications that draw from evidence-based NICE guidelines and local needs assessment, that are co-designed and jointly signed off;
+S0714  appointment of health providers, following open tendering, agreed and signed off jointly; and
+S0715  a key role in performance and quality management of services, with access to the right information to support this.
+S0716 125.
+S0717 This approach is already being taken by some pioneering governors.
+S0718 At reform prison HMP Coldingley the executive governor and his senior team have co-authored the Invitation to Tender documents and are key members of the evaluation panel, while at HMP Wandsworth a number of joint project groups have been established to inform a new healthcare delivery model.
+S0719 126.
+S0720 These changes will apply to prisons in England.
+S0721 Health in Wales is devolved to the Welsh Government and arrangements for Wales are considered later in this chapter.
+S0722 Children and families
+S0723 127.
+S0724 Research has found that prisoners who report improved family relationships are significantly less likely to reoffend or use class A drugs on release from prison.
+S0725 There has been progress improving services in recent years and many prisons have a clearly developed family pathway where their approach involves families as a productive partner in helping to reduce reoffending.
+S0726 This good practice is by no means universal, however.
+S0727 128.
+S0728 Lord Farmer, working in partnership with Clinks, has been commissioned to build on this progress and chair a working party to investigate how supporting men in prison in England and Wales to engage with their families can reduce reoffending and assist in addressing intergenerational crime.
+S0729 129.
+S0730 We want governors to be held to account for the family services in their prison, and to have the levers to change the current provision.
+S0731 From autumn 2017, we will devolve the family service budgets to governors so that they have flexibility over what resource to allocate and how to spend it.
+S0732 Currently the funding for delivery of family services is distributed unevenly, so we propose to redistribute funding in a more targeted manner.
+S0733 130.
+S0734 In advance of that, we are in the process of re-procuring contracts so that governors have maximum flexibility and discretion to put in place the services that would best meet the needs of their prisoners.
+S0735 Preparing for life after release
+S0736 Work in prisons and the community
+S0737 131.
+S0738 Prisons have always had an important role to play in providing work activities to help prisoners prepare for their release and develop a positive attitude to the world of work.
+S0739 We know that prisoners who are in employment before or after custody are less likely to reoffend, yet many offenders have little or no employment experience or marketable skills.
+S0740 We need to prepare offenders to enter meaningful employment on release so that they are able to make an effective contribution towards society and break the cycle of re-offending.
+S0741 132.
+S0742 We need to be ambitious in our plans and are currently developing a detailed prisoner employment strategy which will provide a modern, employment focused approach, which we will bring forward in 2017 and which will set out in full how we will achieve the change we need to see.
+S0743 133.
+S0744 There is some good practice on which we can build.
+S0745 Through work in prisons we already deliver goods and services to:
+S0746  our internal market;
+S0747  other government departments, particularly the Ministry of Defence.
+S0748 This gives prisoners work experience, and taxpayers’ money remains in the public purse; and
+S0749  commercial organisations.
+S0750 We are accessing new markets and working with companies in ways we have not done before.
+S0751 A good example of this is call centres, which link offenders to work opportunities in the community where demand for resource is high.
+S0752 For example, Census Data, who run a call centre operation in seven prisons, have recruited 75 prisoners after release.
+S0753 134.
+S0754 Though our prisons provide prisoners valuable experience of basic employability requirements like turning up every day, punctuality, and delivering timely, good quality services and products which meet customer expectations, too much of the work and training we provide in prisons is outdated in today’s economy and does not meet local labour needs.
+S0755 135.
+S0756 We need a fundamental shift in approach so we are focused on preparing offenders for future employment in modern jobs.
+S0757 We need to provide prisoners with skills for which there is a real demand from employers.
+S0758 Prisoners should use their time in prison productively to gain employable skills, rather than equip them with skills that will not be useful in the job market on their release.
+S0759 HMP Bronzefield is leading the way in responding to local market needs by putting an end to the now defunct textile workshop, and instead giving prisoners barista work, training and qualifications.
+S0760 We want all of our prisons to follow suit to equip prisoners with skills that they can put to use to enter the labour market, whatever it looks like when and wherever they are released.
+S0761 Giving governors greater autonomy over decisions made in prisons will allow them to target training and work in prisons to match more closely the needs of the local labour market.
+S0762 136.
+S0763 As part of our approach to responding to local economy needs and grow our markets, we will introduce new pathways to employment that provide training focused on modern jobs, including the new Prisoner Apprenticeship Pathway, further details on our proposals are set out in this chapter.
+S0764 Just as importantly, we will work to change the culture of local communities so that they accept and employ ex-offenders.
+S0765 137.
+S0766 Governors should lead this change, and we are giving them the authority to do so.
+S0767 They will be able to design the prison day to meet commercial opportunities, rather than trying to shoehorn the work into a centrally prescribed timetable, and to recruit the right staff to train prisoners and oversee the work.
+S0768 They will be able to target training and work to match more closely the needs of the local labour market.
+S0769 They will be able to incentivise prisoners to advance through workshops as they learn new skills and can take on increased levels of responsibility – and reward prisoners appropriately in line with their policies.
+S0770 138.
+S0771 As governors gain greater decision-making authority and control over budgets, they will be better positioned to build commercial relationships with businesses and to put in place the arrangements which work best for both the prison and the business with which they are contracting.
+S0772 We will also allow governors to reinvest income which is generated through contracts to deliver additional services or to grow their work opportunities further.
+S0773 139.
+S0774 We want to see more work in prisons leading to jobs on the outside.
+S0775 Through the Employers Forum for Reducing Re-Offending (EFFRR), we already have a group of employers ready to work with offenders in custody, on ROTL and after release and we want more businesses to join us.
+S0776 For example, Greggs (the bakers) runs assessment centres tailored for prisoners to increase offenders’ experience of recruitment activities and offer employment to those considered suitable.
+S0777 140.
+S0778 We have identified some existing examples of good practice already happening across the estate.
+S0779 A number of our prisons now have railway tracks within their grounds.
+S0780 These are used to train prisoners in track maintenance, delivering a trade standard NVQ level 2 qualification and the necessary rail safety and other skills, so that they secure paid employment on key infrastructure projects, such as CrossRail, once they are released.
+S0781 141.
+S0782 For example, a scaffolding workshop has just opened at HMP Brixton in collaboration with Land Securities and Bounceback.
+S0783 The first four graduates of the programme have gone into full time work and there is a waiting list of employers keen to employ the next 20 prisoners.
+S0784 142.
+S0785 Clinks runs four fine dining restaurants across the estate with prisoners trained as chefs and front of house.
+S0786 The restaurant at HMP Cardiff has been voted 10th best fine dining restaurant in the UK and a graduate of the Clinks at Brixton has even gone on to be a sous-chef at Claridge’s.
+S0787 143.
+S0788 These examples demonstrate what can be possible, but we need to do more – this should be the norm, not the exception.
+S0789 Prisoners represent a pool of untapped talent that employers can utilise to meet skills gaps across the UK.
+S0790 Employers regularly tell us that once given that second chance, prisoners can be some of the most loyal and committed employees.
+S0791 We are committed to increasing the network of employers who work with us on this agenda both nationally and through governors engaging with businesses in their local communities.
+S0792 We want to give these employers the recognition they deserve and will introduce a national award for employers in 2017.
+S0793 Working closely with the Department for Work and Pensions (DWP), we will do more to identify both national skills gaps – such as in the construction and hospitality industries – and at local levels.
+S0794 This should help governors ensure that their education and vocational training, as well as their workshop delivery, supports and where possible matches local need.
+S0795 A new Prisoner Apprenticeship Pathway
+S0796 We intend to introduce a Prisoner Apprenticeship Pathway to offer prisoners opportunities that will count towards the completion of a formal apprenticeship on release.
+S0797 Prisoners will have access to the same high quality training and education that an apprentice could expect in the community, and will not need to repeat training that they have successfully completed in custody on release, if they can demonstrate competence in the activity they are being trained in during the apprenticeship.
+S0798 We want employers to be involved with the prisoners on this Pathway, to work with them and to develop training programmes, and to commit to taking on successful prisoners as apprentices for a minimum of 12 months on release.
+S0799 Governors are ideally placed to work with local employers, who can get to know the prisoners and be confident in the high quality of the Pathway, to engage them in taking on prisoners post release as apprentices.
+S0800 We expect the first prisoners to begin the Pathway in 2017.
+S0801 Finance, benefits and debt management
+S0802 144.
+S0803 Lack of funds on release can trigger an early return to offending.
+S0804 Working with the DWP, we can reduce the likelihood of this by helping prisoners get jobs lined up for when they are released or making sure they have access to money.
+S0805 DWP Work Coaches are based in all resettlement prisons and all prisoners have the opportunity to discuss options with them.
+S0806 They can give employment advice; help with advance claims to benefits to speed up access on release; and signpost offenders to other help and support, such as pensions assistance.
+S0807 145.
+S0808 The governor can play a crucial role here in allowing Work Coaches to maximise their impact.
+S0809 They can do this by managing the regime and sequencing the interventions of Work Coaches so that offenders access them at the right time to influence their post-custody pathway, and by providing the right tools and information for the Work Coaches themselves.
+S0810 146.
+S0811 Another significant factor in helping prisoners to successfully move into employment on release is ensuring that they have something as simple as a basic bank account into which a salary can be paid.
+S0812 The Offender Banking Programme establishes relationships between prisons and commercial banks to enable prisoners in the six months before release to open a basic bank account.
+S0813 Around 5,000 accounts are opened each year.
+S0814 The prison can complement this offer with training in financial management skills, so prisoners are better equipped to manage the money they access.
+S0815 147.
+S0816 For longer term prisoners, we also encourage governors to develop relationships with their local Credit Union.
+S0817 With a Credit Union savings account, prisoners can begin to save for their release and establish or improve their credit rating.
+S0818 We will encourage governors to focus on this as part of establishing their local links to support reform on release.
+S0819 The benefits of establishing these links can ensure a smoother transition for prisoners on release.
+S0820 Resettlement services in prisons
+S0821 148.
+S0822 We want the support prisoners receive before and after release to be seamlessly integrated.
+S0823 In May 2015, we introduced a nationwide resettlement service for all prisoners, and made probation responsible for reaching into prisons to prepare offenders for release, before following them through the prison gate to provide supervision in the community.
+S0824 149.
+S0825 It is vital that prisons and probation services work closely together to assess the support offenders require, plan for their release, and work with local authorities and others to make the necessary arrangements.
+S0826 We know there is more to do here.
+S0827 To help achieve this, we want to make sure prisons and probation services are, where appropriate, being held to account against the same outcomes.
+S0828 Reducing reoffending
+S0829 is already a common goal: we are now developing shared outcomes for accommodation, employment, and education and training at the point of release to drive collaborative delivery of resettlement services.
+S0830 150.
+S0831 In the longer term, and ahead of decisions on the future of probation provision following the expiry of the current contracts, we will consider the opportunities to improve resettlement services in prisons, including the roles and responsibilities of prison governors, and probation services.
+S0832 Finding stable accommodation
+S0833 151.
+S0834 Access to stable accommodation has long been understood to be important in reducing reoffending.
+S0835 Community Rehabilitation Companies (CRCs) already have a role in providing pre-release support to help offenders access accommodation services and we expect prisons and probation services to work closely with local housing authorities to ensure that existing tenancies are sustained where possible.
+S0836 However we want to see greater emphasis on getting offenders into suitable stable accommodation as a way to tackle reoffending.
+S0837 152.
+S0838 We will do this by improving the quality of accommodation support services in prison and in the community.
+S0839 One of the standards we are setting for governors is to increase the proportion of offenders that have suitable and settled accommodation on release, working with others.
+S0840 The action we described above to put in place shared outcomes for prisons and probation services, includes a shared outcome for accommodation to incentivise joint working.
+S0841 153.
+S0842 We will consider how to use ROTL better to support offenders looking for accommodation and whether there are ways we can use our existing estate to provide transitional accommodation as they do in the USA, Canada and New Zealand.
+S0843 Lord Farmer’s review of family services will also help us to understand how families can better support offenders.
+S0844 154.
+S0845 The government recently announced that we will defer the application of the Local Housing Allowance rates policy to supported housing, including supported housing for offenders, until April 2019.
+S0846 From that point we will bring in a new funding model that will ensure that the sector continues to be funded at current levels, taking account of government policy on social sector rents.
+S0847 We will continue to work closely with DCLG and DWP to develop the detail that underpins the new funding model to deliver a long term sustainable funding regime that will provide a secure quality service for those who need it.
+S0848 Local authorities
+S0849 155.
+S0850 One way of making sure that offender services are aligned with local services key to rehabilitation is through co-commissioning.
+S0851 For example, through a devolution deal the Ministry of Justice has committed to giving Greater Manchester a greater role in the commissioning of offender management services, to allow more local flexibility, innovation and better co-ordination with local services, including health and social care, education and accommodation.
+S0852 Prisons in Wales
+S0853 Health and learning and skills are devolved in Wales and we work closely with the Welsh Government to share best practice and learning points from both the implementation of prison reform and Welsh provision of these services.
+S0854 We will ensure that when both Welsh and English prisoners transition between prisons and back to their communities there is consistency and continuity of health treatment and learning and skills provision.
+S0855 In Wales all offender services for adults are managed (including private prisons and the single CRC) by a single Director for Wales.
+S0856 This means much closer partnership working and integration of services including with others in the criminal justice system (especially police forces and Police and Crime Commissioners) on issues such as Integrated Offender Management Services.
+S0857 There is a close working and productive relationship with the Welsh Government.
+S0858 Responsibility for education for offenders in custody and the community is devolved to the Welsh Government.
+S0859 We work closely with them to co-commission these services.
+S0860 In the future, we are looking to further develop our liaison and joint-working arrangements for prison education, particularly in advance of HMP Berwyn becoming fully operational in 2017.
+S0861 The largest public sector prison in Wales and England is due to take its first prisoners in February 2017 at HMP Berwyn.
+S0862 So far it has successfully tested many of the construction techniques we are looking at in our other new prisons.
+S0863 It is also developing a strong rehabilitative culture amongst new prison officers and other staff and the lessons learnt will be available to all prisons – especially those being built and due to open in this Parliament.
+S0864 We are committed to considering the implications for the Welsh language in the development and proposed implementation of our policies in line with our Welsh Language Scheme.
+S0865 In addition, governors’ recruitment practices will continue to comply with our Welsh Language Scheme.
+S0866 Giving governors authority to run prisons as they choose
+S0867 156.
+S0868 To give full effect to the new powers and responsibilities outlined above, there are a number of wider functions over which governors need to have control.
+S0869 They need to be able to reform their organisation and take the crucial decisions about how they are run.
+S0870 Privately-run prisons, by their nature, already control their own corporate policies such as budget management.
+S0871 We need to increase the flexibility in public sector prisons too.
+S0872 Finances
+S0873 157.
+S0874 From 1 April 2017, governors will be able to decide how to spend their money in order to deliver their strategy, so long as they live within budget.
+S0875 We will also:
+S0876  remove other restrictions on their spending, which stop them from taking action when they have an immediate shortage of basic items such as cell furniture, bedding and prisoner clothing, enabling governors to make local arrangements to purchase goods and services on items such as food, stationery, raw materials for use in industries, or spend more than the national target when they think this is necessary;
+S0877  review the spending restrictions placed on prisons by other Government Departments, like the controls on advertising and marketing spend, which can affect prison recruitment campaigns, and the specifications and controls on technical solutions, including internet and intranet design.
+S0878 Where these fetter a governor’s ability to implement their strategy, we will seek to remove them;
+S0879  devolve centrally-held the budget for accredited programmes that help offenders to change their behaviour, so that governors can design the support needed to reduce reoffending among their prison cohorts; and
+S0880  during 2017, devolve central budgets for education and families.
+S0881 158.
+S0882 We currently buy many goods and services nationally on behalf of all prisons.
+S0883 This enables us to exploit economies of scale but it gives governors very little discretion over what the prison receives.
+S0884 For example, we have found that many governors would like the ability support the local community by buying food locally, with local communities wanting to be able to work directly with governors.
+S0885 We want to change this but it will take time to do so affordably.
+S0886 159.
+S0887 As each national contract comes to an end, we will review whether it is right for it to remain a national contract or whether to devolve the responsibility to governors.
+S0888 Where we decide to continue with a national approach, we will explore whether we should give governors greater flexibility to buy elsewhere if they so wish.
+S0889 Staffing
+S0890 160.
+S0891 Staffing, and how staff are deployed, is crucial to improving safety and security and supporting reform of prisoners.
+S0892 Yet here prison governors are highly constrained in the choices they are able to make.
+S0893 161.
+S0894 Work has already started to simplify HR processes and reduce delay so that they can make decisions more quickly and with fewer restrictions.
+S0895 We want to go further faster.
+S0896 We are determined that governors will take full responsibility for their workforce strategy.
+S0897 From April 2017, governors will be able to decide the staff they need and hire them, as long as they meet their legal obligations and remain within their budget.
+S0898 This means governors will be able to identify what skills are needed, and in what numbers, and pick the right people for the job.
+S0899 And in places where recruitment is a problem, they will be able to change the way they recruit them so that they can address staff shortages quickly.
+S0900 How the prison is run
+S0901 162.
+S0902 We want governors to run their prisons in the way they think best to help prisoners to reform while in custody and keep them safe, and to prepare them for a crime-free life after prison.
+S0903 We need to make fundamental changes to make this happen.
+S0904 Firstly, we need to strip away the 562 policies prisons must comply with and which set out the policy in minute detail on every aspect of the running of the prison.
+S0905 These currently dictate that each prisoner can have a maximum of two shower caps, 10 pairs of socks and specifies the maximum size of a bath mat.
+S0906 This level of central provision cannot be right.
+S0907 163.
+S0908 We will look at each policy, and either replace it with the minimum mandatory requirements to ensure a safe, decent and lawful system, with consistency across the estate where this is deemed critical or get rid of it altogether.
+S0909 We will do this in phases, with the first tranche of policies revised or deleted by 1 April 2017.
+S0910 164.
+S0911 For example, the Incentives and Earned Privileges policy restricts governor discretion in recognising positive behaviour; as a result, too often the policy has become a punitive measure rather than a means of rewarding prisoners and encouraging rehabilitation.
+S0912 This is a priority for revision.
+S0913 165.
+S0914 The Prison Rules set out the important requirement for each prison to have a ‘system of privileges’ for prisoners.
+S0915 We will continue to set requirements to safeguard decency and to ensure a level of consistency across prisons, for example, in the number of privilege levels and having a process for reviews and appeals.
+S0916 The changes we propose would allow governors to introduce better tailored incentives for individual prisoners, removing numerical limits on the items they are allowed to have and deciding which items prisoners can receive from family and friends.
+S0917 We have already consulted on a revised policy which gives governors more authority, and anticipate publishing the new policy by the end of 2016.
+S0918 166.
+S0919 Another early focus is the policy on Release on Temporary Licence (ROTL).
+S0920 ROTL is a vital resettlement tool; it allows for the temporarily release of prisoners where it is safe to do so to complete purposeful activities that will benefit their resettlement, such as to work, potentially in a job they will retain on release, or maintain links with their family.
+S0921 The evidence shows that ROTL helps to reduce re-offending and there is a very low failure rate – few involve further offending and the ROTL compliance rate (i.e. successful ROTL with no breach) is well over 99% and has been for many years.
+S0922 167.
+S0923 Nevertheless, it is important that the system is tightly controlled so that the public have confidence they are being protected.
+S0924 We reviewed the approach in 2013 to ensure risks are being managed effectively and there is now a greater focus on: linking the ROTL activity to the individual’s sentence plan; countering any presumption to temporary release; and, an improved risk assessment and management approach, particularly with the most serious offenders.
+S0925 This has, however, had an unintended consequence – restrictions to improve risk management of the most serious offenders, have resulted in lower risk offenders not being able to benefit from ROTL.
+S0926 168.
+S0927 We therefore want to maintain the improvements made while allowing governors greater discretion in how they tailor their ROTL regime to the circumstances of each offender and the ROTL opportunities available locally.
+S0928 169.
+S0929 Of course, governors undertaking prison reform will continue to be required to meet the Public Sector Equality Duty in performing their role and through the implementation of any new or evolved policy, in line with the Equality Act 2010.
+S0930 We will ensure that the potential impact of the reforms on both offenders and staff is considered and monitored, and that opportunities to advance equality for both groups must be capitalised on.
+S0931 Throughout the reforms, governors must provide evidence of how equality has been integral to their decision-making and the standards agreed for staff and offenders.
+S0932 We want our prisons to be places where staff and prisoners feel safe and secure.
+S0933 To deliver this we need to have the right levels of properly-supported staff in place, with the right experience and skills to build effective relationships with prisoners.
+S0934 Only this way can prisoners get the constructive support and challenge to engage positively with the regime.
+S0935 We need to take decisive action to realise this vision.
+S0936 No one can be expected to change their behaviour and turn their life around while they are dependent on drugs, in fear of being assaulted, or considering harming themselves.
+S0937 Nor can our staff be expected to develop the kind of constructive relationships with prisoners we know make a difference when they are worried about being attacked, and when much of their time is spent responding to serious incidents.
+S0938 Making sure that prisons are safe, decent places to live and work is the foundation on which the rest of our reforms will be built.
+S0939 To make this happen, we will:
+S0940  improve the way that prisoners are managed through the part of their sentence they spend in prison – with all prisoners allocated dedicated officers to oversee their progression through custody;
+S0941  develop a much tougher response to the security threats we face – including from drugs, phones and drones – that makes the best use of intelligence, and deals effectively with both supply and demand; and
+S0942  work with the police, Crown Prosecution Service and others across the criminal justice system to crack down on criminality in prison.
+S0943 170.
+S0944 Prison safety has declined since 2012.
+S0945 Levels of total assaults across the prison estate and assaults on staff are the highest on record, and are continuing to rise.
+S0946 Comparing the 12 months to June 2016 with the calendar year 2012:
+S0947  total assaults in prisons increased by 64%;
+S0948  assaults on staff rose by 99%; and
+S0949  the number of self-harm incidents increased by 57%.
+S0950 171.
+S0951 In the 12 months to September 2016, there were 107 self-inflicted deaths in custody, a 75% increase on the 61 self-inflicted deaths during 2012.
+S0952 172.
+S0953 Our analysis identifies a number of personal and situational factors that have driven this increase in violence, self-harm and self-inflicted deaths since 2012.
+S0954 We know that younger, male prisoners are more likely to be involved in violent incidents, as are those with a history of violent offending as well as current or previous drug use and gang membership.
+S0955 Anti-social attitudes and poor self-control also increase the risk of violence in custody.
+S0956 Longer term shifts in the nature of the prison population are likely to have played some part in the increased violence in the prison estate.
+S0957 In 1993, violence against the person, sexual offences and drug offences together accounted for around two in every five sentenced prisoners (including the recall population).
+S0958 By 2016, this had increased to three in five.
+S0959 173.
+S0960 More recent developments have made these challenges much harder to manage.
+S0961 Since 2012, the use of psychoactive substances in prisons has risen dramatically, which presents our prison staff with real challenges.
+S0962 Their effects in prisons have made some already dangerous offenders even more volatile, and their reactions more difficult to manage.
+S0963 We know that local prisons with higher rates of drug finds have higher rates of violence.
+S0964 But until this year, there have been no effective tests available to establish whether prisoners have taken these drugs.
+S0965 174.
+S0966 Dealing with the effects of these substances has made it more difficult for many prisons to run full and purposeful regimes, occupying prisoners in activity to help their journeys to reform.
+S0967 It has made it more difficult for staff to build constructive relationships with prisoners, through which they can combine supervision with helping them to change their behaviour and attitudes.
+S0968 Conflict in prisons can also come about under highly controlling regimes, which prison staff may be forced to impose when they have to manage serious incidents.
+S0969 In turn that leads to frustration if rules are seen as being applied unevenly, or when prisoners do not accept the fairness of staff decisions.
+S0970 175.
+S0971 Levels of self-harm and self-inflicted deaths are also rising.
+S0972 Women are more likely to self-harm than men, and to do so more frequently – although the seriousness of self-harm is greater among men.
+S0973 People with mental health problems are also at greater risk of harming themselves in custody.
+S0974 Both violence and self-harm are more common in the early days of a custodial sentence, and prisons holding more short-sentenced prisoners have higher rates of violence.
+S0975 176.
+S0976 These changes have come after a period of change for the prison workforce as a result of making efficiencies.
+S0977 The number of Band 2 to 5 frontline operational staff reduced from 29,660 on 31 March 2012 to 23,080 on 31 March 2016.
+S0978 As violence has increased it has become harder to retain existing staff, thus creating a vicious cycle of staff pressure and violence.
+S0979 177.
+S0980 While it was right to seek to operate prisons more efficiently, the destabilising effect of changes in the operating environment, such as the introduction of new psychoactive substances – described as a ‘game-changer’ by the Prisons and Probation Ombudsman – means we must now reconsider staffing levels.
+S0981 Our analysis shows a statistical correlation between the numbers of staff and the level of violent incidents.
+S0982 We now need more frontline staff, and we need to change the way they work to better support offenders and respond to new threats as they arise.
+S0983 Existing steps to improve safety
+S0984 178.
+S0985 We have already taken urgent steps to tackle the growth in prison violence, self-harm and self-inflicted deaths.
+S0986 There was a net increase of 295 prison officers between 31 December 2014 and 30 June 2016 and we introduced a new and more extensive initial training course for prison officers, which is carried out at the Prison Service College at Newbold Revel and at other centres in England and Wales.
+S0987 In May of this year, we gave an additional £10 million to prison governors to help promote safety and provided them with discretion about how to spend that money.
+S0988 The approach they have taken varies, but many have used it to fund additional staff, buy new equipment, or to pay for particular training or interventions.
+S0989 Following a pilot of body worn video cameras in 2015–16, funding has been made available for the roll-out of the cameras across the estate.
+S0990 179.
+S0991 A number of initiatives have also been piloted and evaluated during the course of 2016.
+S0992 Research on the impact of the accredited cognitive skills programmes on custodial violence indicate success in addressing factors associated with violence such as poor emotional regulation, poor problem solving, and impulsiveness; and violence rates decrease for those people who complete the programme.
+S0993 A shorter cognitive skills programme which specifically focuses on prison violence (‘Timewise’) is also being piloted in six sites.
+S0994 Conflict resolution training for prisoners and staff has been piloted and is being further developed.
+S0995 180.
+S0996 These are all important interventions, but in themselves they cannot reverse the trend of worsening safety.
+S0997 They only address some of the causes of violence and self-harm and they do not fundamentally change the overall level of resource or approach.
+S0998 Our evidence is clear: to improve prison safety we need a fundamental shift in the way in which prison staff support and interact with prisoners.
+S0999 A new way of supporting prisoners to reform
+S1000 181.
+S1001 The way in which we currently plan and deliver purposeful activity to support prisoners to reform is not working.
+S1002 A supervisor based in the community currently has the lead responsibility for a prisoner not just once they are released, but also while they are in custody.
+S1003 182.
+S1004 The aim of this model was to have a single offender manager planning the prisoner’s sentence, and providing continuity if the prisoner changed establishment and once they were released.
+S1005 However, having an offender manager in the community, sometimes hundreds of miles away from the prisoner, has proven unworkable.
+S1006 In practice, it has resulted in many prisoners passing through their sentence without a thought-through sentence plan and, more importantly, with nobody they can easily talk to who has responsibility for their case.
+S1007 183.
+S1008 As important as planning and sequencing activities for prisoners are, having someone within the prison who is personally responsible for them also means much more than that.
+S1009 Our research suggests that prisons need to have a supportive and constructive culture if they are to be places of safety and reform.
+S1010 At the heart of this must be relationships between prisoners and staff that combine the right mix of authority and support through which staff can motivate and challenge the prisoner.
+S1011 This will ensure that they engage actively and willingly with opportunities that encourage them to turn away from crime.
+S1012 184.
+S1013 To build this culture, we need not just additional staff but a whole new way of working.
+S1014 We will ensure each prisoner has a dedicated officer to support, mentor and challenge them, with each such officer having a caseload of around six prisoners.
+S1015 In future, all prison officers working on residential units will carry out this dedicated officer role.
+S1016 Their role will be to help each of their prisoners on the path to reform by supporting and challenging them so that they are motivated to engage in purposeful and productive activity during their time in prison.
+S1017 We expect these dedicated officers to act as mentors for their prisoners – listening out for problems, supporting changes in attitudes and behaviour, and defusing tension and frustration.
+S1018 185.
+S1019 To deliver this, we will increase staff-to-prisoner ratios, increasing staff presence and availability.
+S1020 We will invest in 2,500 additional prison officers in the public sector; an additional resource for management and oversight; and staff training in the new dedicated officer role.
+S1021 This will mean prisons will be better equipped for the job they
+S1022 have to do, and make staff more available to prisoners for regular contact and interaction.
+S1023 We will engage with providers of private prisons on how the new approach to working with prisoners could be implemented there alongside other actions they might be taking to improve safety.
+S1024 186.
+S1025 We will also improve case management in prisons, to properly co-ordinate the delivery of prisoner interventions.
+S1026 At the moment, a number of providers in prisons deliver a range of interventions, including on health, education and substance misuse.
+S1027 These do not always happen in the right order and can involve multiple assessments.
+S1028 We will create a case manager function in prisons to simplify this process, allowing those providers to do their jobs more effectively.
+S1029 Case managers will also support prison officers performing dedicated officer roles, being on hand to help resolve issues.
+S1030 187.
+S1031 To underpin these changes, we will move the strategic responsibility for sentence planning and supporting prisoners serving sentences of 12 months or more from probation services to prison governors.
+S1032 This will mean that governors have the staff who are responsible for supporting prisoners to reform, can deploy them in the way that works for their establishment, have the right levers to help these officers join up services for each prisoner – and will be held and will be accountable for doing so.
+S1033 For those serving shorter sentences, responsibility will remain with the community-based offender manager, where we have assessed it is better that prisoners receive continuity of supervision from someone based in the community, to get ready for their release from prison.
+S1034 To ensure that these reforms balance rehabilitation with public protection, we will also enhance case management for high-risk prisoners.
+S1035 This will be provided by probation officers from the National Probation Service working directly in prisons and accountable to the governor.
+S1036 188.
+S1037 As an immediate step we are making an extra £14 million available to bring in these new ways of working at 10 public sector prisons which have amongst the worst levels of violence and self-harm.
+S1038 This will pay for over 400 extra posts.
+S1039 Prisons receiving this first wave of extra investment are:
+S1040  HMP Chelmsford: a male Category B local prison and Young Offender Institution;
+S1041  HMP Exeter: a male Category B local prison and Young Offender Institution;
+S1042  HMP Leeds: an adult male Category B local prison;
+S1043  HMP Moorland: an adult male Category C and Young Offender Institution;
+S1044  HMP Eastwood Park: a female closed local prison;
+S1045  HMP Guys Marsh: an adult male Category C prison;
+S1046  HMP Liverpool: an adult male Category B local prison;
+S1047  HMP Nottingham: a male Category B local and Young Offender Institution;
+S1048  HMP Wayland: an adult male Category C training prison; and
+S1049  HMP Winchester: an adult male Category B local prison.
+S1050 189.
+S1051 We will also implement the new ways of working at HMP Berwyn once it opens in early 2017.
+S1052 190.
+S1053 Investment in the new way of working is intended to allow us to improve levels of safety, first by stabilising the number of incidents of violence and self-harm before seeing them come down in the coming years.
+S1054 Addressing security threats
+S1055 191.
+S1056 Beyond the focus on reforming prisoners’ behaviour, there are a number of linked threats which pose risks to prison security.
+S1057 These can bring about increases in violence or self-harm either directly or by diverting staff resource away from delivering a purposeful regime.
+S1058 The major threats include drugs, phones and other devices, and wider criminality in prisons (including drones, gangs and organised crime, and staff corruption).
+S1059 192.
+S1060 To address both existing and emerging threats, we will take action to:
+S1061  enhance our capability, both locally and nationally, for intelligence gathering and analysis;
+S1062  reduce the supply of, and demand for, illicit items in our prisons; and
+S1063  strengthen our ability to respond robustly to criminal behaviour in prisons.
+S1064 Improving our intelligence capability
+S1065 193.
+S1066 First and foremost, we need to make effective use of good intelligence to support our efforts in tackling threats to security.
+S1067 On a daily basis we collect good quality intelligence – such as email, text and phone call data stored on seized mobile phones – but we cannot make full use of that data.
+S1068 That means that opportunities are being missed and criminal activity is going unchecked and unpunished.
+S1069 194.
+S1070 That is why we are overhauling our intelligence gathering and analysis capability.
+S1071 We are investing £3 million a year to recruit an extra 50 intelligence staff who will work in a new national command, supported by regional units, to ensure that we are gathering, interrogating and making best use of intelligence across prisons and probation.
+S1072 Building on the work we already do with law enforcement and the wider intelligence community on extremism and radicalisation, the new function will work with the National Crime Agency, the new Police Prisons Intelligence Coordination Centre and Regional Organised Crime Units.
+S1073 195.
+S1074 The Units will support intelligence-led efforts to tackle serious and organised crime as well as gang-related offending, and those behind the illicit economy in prisons.
+S1075 The new function will:
+S1076  deliver a joined up intelligence service for prisons and probation capable of supporting effective responses at local, regional and national levels, including enhanced search operations.
+S1077 Threats identified locally will be escalated quickly where they have the potential to spread; prisons will be provided with real-time information on developing threats at a regional and national level;
+S1078  develop specialist intelligence capabilities to make sure we gather and are fully exploiting the information we have.
+S1079 We will use the potential for large scale data analysis to guide the focus of intelligence analysis and will build our ability to securely receive and develop the most sensitive intelligence;
+S1080  improve the flow of intelligence with partners so that intelligence is available at key decision points in the offender journey – particularly on the ‘critical few’ who present the highest threat;
+S1081  prioritise and coordinate intelligence activity so that our resource is focused on addressing the most serious risks first.
+S1082 In support of this, our command will mirror police structures so that we can take a joined up approach across law enforcement more easily; and
+S1083  embed national occupational standards for intelligence across prisons and probation, putting us on an equal footing with law enforcement and the wider intelligence community, and promoting collaborative work on the priorities we share.
+S1084 Reducing the supply of, and demand for, illicit items
+S1085 Drugs
+S1086 196.
+S1087 Drugs cause crime because of the enormous profits to be made and the dependencies they create: this makes them a major challenge to the efforts to turn prisoners away from crime and the criminal lifestyle.
+S1088 Drugs also cause violence and health risks, including a risk of self-harm.
+S1089 They cause unpredictable and violent behaviour, put pressure on families to supply them, and form the basis of a trade which involves debt, intimidation and violence.
+S1090 But illegal drugs now have a foothold across the prison estate.
+S1091 We need to move to a position where drug use is not the norm in prison.
+S1092 197.
+S1093 While good progress has been made against the availability and harm done by ‘traditional drugs (including cannabis and opiates), as evidenced by steadily falling positive test results under mandatory drug testing since the mid-1990s, we have seen growth in the misuse of new, stronger and more harmful psychoactive substances over the past few years.
+S1094 These substances continue to evolve, and mean we need fundamentally to reassess our approach to drug demand and supply.
+S1095 In July 2016, in his first annual report, HM Chief Inspector of Prisons Peter Clarke described the ‘unpredictable and extreme… dramatic and destabilising’ effects of psychoactive substances, which in his view contributed in ‘large part’ to the violence in our prisons.
+S1096 198.
+S1097 Added to this is the security threat posed by the misuse and trade in prescribed medications.
+S1098 HM Chief Inspector of Prisons found that ‘most establishments… inspected prescribed and administered tradable medication, but inadequate officer supervision of medication queues, including for collection of opiate substitution treatment, all too often continued to contribute to bullying and diversion’.
+S1099 The tendency for prisoners to use multiple drugs (often referred to as poly-drug use) mixing traditional drugs of abuse, psychoactive substances and prescribed medications has also increased risk.
+S1100 199.
+S1101 A range of measures to address these issues are already in place.
+S1102 We have piloted the use of a body scanner at HMP Wandsworth to detect internally concealed contraband.
+S1103 We are learning the lessons from an initial evaluation and will take those lessons and promote them across all prisons.
+S1104 We have trained over 300 drug detection dogs to identify psychoactive substances concealed in parcels and on people and received positive feedback from prison staff about its effect improving the dogs’ ability to detect the new drugs.
+S1105 In September, following a successful pilot in 34 prisons over the summer, we introduced nationwide mandatory testing for specified
+S1106 psychoactive substances in all prisons.
+S1107 We have also provided guidance to prison staff to support them in dealing with drug problems and given out a range of materials to prisoners, staff and visitors to alert them to the problems caused by drugs, in particular psychoactive substances.
+S1108 200.
+S1109 We have changed the law to strengthen our approach.
+S1110 We have made the possession of any psychoactive substance in any custodial institution a criminal offence under the Psychoactive Substances Act 2016.
+S1111 201.
+S1112 However, the motivation and ability of prisoners and organised crime groups to use and traffic illegal drugs has outstripped our ability to prevent this trade.
+S1113 We need to redouble our efforts to tackle this challenge with the aim of eradicating illicit drug use in prisons.
+S1114 202.
+S1115 In part this will involve making better use of existing measures.
+S1116 For example, new legislation which makes the possession of psychoactive substances a criminal offence mirrors that for existing drugs.
+S1117 Our focus needs to be on working across the criminal justice system to enforce these new laws.
+S1118 But, more fundamentally, we also need to think again about how we alter the behaviour and choices of those involved in the use or trade of illegal drugs in prisons to tackle current and emerging challenges.
+S1119 In his July 2016 annual report, Peter Clarke notes that ‘while various aspects of the problem are being addressed through, for example, criminalising possession of the products and the better use of testing and detection technologies, the simple fact remains that there is, as yet, no overall national strategy for dealing with the problem’.
+S1120 We share his concern and recognise the need for a more strategic approach.
+S1121 203.
+S1122 To improve our response in the short term we will strengthen key existing measures to:
+S1123  enhance our drug testing regime, supporting governors to enable drug testing on entry to and exit from prison as part of a more extensive testing programme, increasing the frequency and range of drugs tested for.
+S1124 This will better inform substance misuse treatment needs, making drug treatment more effective.
+S1125 It will reduce the health harms to prisoners and ensure better continuity of treatment on release into the community.
+S1126 It will also inform assessments of prisons’ performance;
+S1127  introduce legislation to simplify which psychoactive substances are covered by the existing testing process, allowing new tests to be introduced more swiftly as soon as we become aware of new psychoactive substances on the market.
+S1128 Legislative change will also add psychoactive substances to the list of items that are a criminal offence to smuggle into prison, which could mean a prison sentence of up to 10 years for those found guilty;
+S1129  ensure that the perimeters of prisons are secure and maintained in a state that can help deter items from being thrown into the prison;
+S1130  improve our searching capability with dedicated search teams that can be deployed to target specific problem areas including staff searching at unpredictable times;
+S1131  reduce the opportunity and attractiveness for visitors to smuggle drugs to prisoners; and
+S1132  continue to pursue and evaluate technology that can detect drugs including body scanners and drug trace detectors.
+S1133 204.
+S1134 In the longer term, we will fundamentally reassess our existing strategy for tackling the supply and demand for both existing and new controlled substances, in partnership with the Home Office, Department of Health, NHS, Public Health England and others.
+S1135 This will build on the work we are already doing with NHS England and others to improve substance misuse services, and will sit more broadly within the overarching approach set out in the new cross-Government Drug Strategy which is due to be published by the Home Office in the coming months.
+S1136 205.
+S1137 Existing measures that we will reassess include:
+S1138  the substance misuse treatment pathway for prisoners; and how services, including peer support, meet the treatment and recovery needs of offenders;
+S1139  the relationship between substance misuse (including alcohol) and other issues, such as mental health;
+S1140  the role of prison officers.
+S1141 The introduction of a new approach to supporting offenders presents an opportunity for prison officers to play a bigger role in the provision of services, whilst building more constructive and relevant relationships with offenders;
+S1142  drug treatment services to and from the community;
+S1143  options to address the misuse of prescribed medicines more effectively;
+S1144  options to fund the new strategy, including in partnership with others and the better use of money which is already available; and
+S1145  research to assess the relative effectiveness of our current methods to tackle the supply of drugs, to inform decisions about where to prioritise our resourcing.
+S1146 Mobile phones and other devices
+S1147 206.
+S1148 Illicit mobile phones in prisons are one of the biggest threats facing our prisons.
+S1149 Although we appreciated that they are often used to maintain family ties, prisoners’ use of illicit phones has also been linked to the supply of drugs and other contraband, as well as serious and organised crime, both in prison and in the community.
+S1150 Illicit phone use can also evade our public protection monitoring, bringing further harm to the victims of crime.
+S1151 In 2015 nearly 17,000 mobile phones and SIM cards were found in prisons in England and Wales (the equivalent of 46 a day).
+S1152 This is an increase from around 10,000 in 2014, and 7,000 in 2013.
+S1153 207.
+S1154 We have already taken action to address this threat.
+S1155 We have changed the law to make it illegal to possess a mobile phone in a prison, and to allow prisons lawfully to interfere with mobile phone signals.
+S1156 Thousands of phones are found each year through routine and intelligence-led searching, supported by search dogs and technology.
+S1157 However, prisoners are still able to access and use illicit mobile phones.
+S1158 Attempts to smuggle phones into prison are increasingly brazen and sophisticated, taking advantage of the fact that phones are becoming thinner and smaller.
+S1159 In some cases, the supply chain is so well established that phones are replaced easily soon after they are seized.
+S1160 208.
+S1161 We are buying better quality detection equipment in bigger quantities, including new X-ray machines and high sensitivity metal detectors.
+S1162 But we need to take further steps to address both the supply of mobile devices and the demand for them.
+S1163 We will build on what we have done already by:
+S1164  working with partners to implement new technology to stop illicit mobile phones working in prisons;
+S1165  using Telecommunications Restriction Orders to permanently disconnect mobile phones or SIM cards identified as operating within a prison without the need to first take possession of a phone or to identify the user.
+S1166 The first disconnections under this legislation will take place before the end of this year; and
+S1167 Searching
+S1168 209.
+S1169 Our searching capability is a vital tool in stopping contraband entering prisons and finding those items that are smuggled in.
+S1170 At the moment its effectiveness is often limited by a lack of available resource.
+S1171 In particular, we should be making greater use of the capability to search other prison staff and target cells.
+S1172 210.
+S1173 As it stands governors can set local searching and security strategies to match their own particular security problems.
+S1174 At a national level dogs and specialist technical support are deployed to incidents across the country from capabilities held nationally and three geographically dispersed response teams.
+S1175 Some prison areas have regionally-based Dedicated Search Teams (DSTs) with dog support which can be used for specific prison operations, although there is currently no standard model for these teams.
+S1176 The High Security Estate has a DST within each prison who are organised, trained and equipped to undertake searches of prisoners, visitors, staff, accommodation and other areas.
+S1177 These teams can also be boosted to include active and passive search dogs with the ability to detect drugs, mobile devices, arms and explosives.
+S1178 211.
+S1179 We are looking at what we need to boost our searching capability at individual prisons and across the country, so that increased capacity is available to the whole estate.
+S1180 This will create capability like we have in high security prisons, whilst remaining appropriate to need.
+S1181 A better national resource could potentially include more search dogs and handlers, working alongside an enhanced intelligence analysis capability to assist in more effective, targeted searching.
+S1182 212.
+S1183 We are already:
+S1184  buying more equipment to detect phones as well as new X-ray machines for baggage and parcels and high sensitivity metal detectors for searching people; and
+S1185  exploring the use of hand-held detectors for identifying people and surfaces carrying traces of drugs.
+S1186 213.
+S1187 We are also looking at a number of options to strengthen our searching capability, including:
+S1188  at a national level, increasing the number of national response teams as the foundation for a new nationally-led resource, who can respond to prison requests for support and undertake national and regional initiatives linking to the regional intelligence picture and other security objectives;
+S1189  at a regional level, increasing the size and number of regional teams for area-based operations while still retaining the option of national support; and
+S1190  at a prison level, giving governors the authority to take more effective direct action by replicating some or all of the capability of the High Security DST model in a number of prisons outside the High Security estate.
+S1191 A tougher response to crime in prisons
+S1192 Drones
+S1193 214.
+S1194 Recent advances in drone technology have presented a new and evolving threat to our prisons.
+S1195 Small devices are capable of carrying phones, drugs and even weapons over prison walls.
+S1196 There has been a big increase over the last year in the number of reported drone incidents.
+S1197 While this may in part be due to greater awareness and better recording, it also reflects the reduced cost of the technology and increasing availability on the high street.
+S1198 215.
+S1199 The use of drones as a means of smuggling items into prisons is relatively infrequent compared to throw overs or attempts by those entering prisons to hide items about their person.
+S1200 But the potential for drones to cause harm both to prisoners and staff is very real, and we are making sure we are working proactively to meet this threat.
+S1201 216.
+S1202 To do so, we have commissioned a programme of work, in collaboration with industry and other government departments, to find ways of detecting and blocking drones.
+S1203 We have issued advice to all prisons to help them develop their own local response in dealing with drone incursions.
+S1204 We are already conducting trials to detect and block drones at a number of prison sites.
+S1205 217.
+S1206 We will:
+S1207  trial, together with industry, the inclusion of prison coordinates in no-fly zones which have the potential to be programmed into the majority of drones on the market (although we must think carefully about how much information we are willing to put into the public domain and therefore make available to the criminal community);
+S1208  work with other government departments on trials of detection equipment which will assess products from several dozen companies.
+S1209 We will follow up promising technology with specific prison pilots; and
+S1210  work across government and with the manufactures to look at technological and legislative means to reduce the threat.
+S1211 Violence against staff
+S1212 218.
+S1213 Our staff must have confidence that the criminal justice system will support them and afford them the protection they deserve while working within our prisons.
+S1214 We must not tolerate any behaviour within our prisons that undermines the essential work that they do.
+S1215 The rise in assaults against our staff must be met with a robust and swift response.
+S1216 Prisoners who perpetrate these acts must be stopped so that other prisoners can feel safe and focus on turning their lives around.
+S1217 219.
+S1218 The current system of sanctions for violence in prisons is well-established.
+S1219 For most of those who break the rules, sanctions can be applied by the prison governor.
+S1220 Cases that are serious enough are heard by an independent adjudicator, who has the power to add up to 42 additional days to a prisoner’s sentence.
+S1221 Governors can also refer serious matters to the police for investigation.
+S1222 220.
+S1223 Sentencing guidelines make clear that committing an assault against those working in the public sector or providing a service to the public (such as a prison officer) should be treated as an aggravating factor.
+S1224 Schedule 21 to the Criminal Justice 2003 – in which Parliament has set out guidelines for the courts on sentencing for murder – provides the starting point for the murder of a prison officer (like that of a police officer) in the course of their duty to be a whole-life order.
+S1225 221.
+S1226 Whilst this framework gives governors, adjudicators and courts the powers they need, it cannot deal with the causes of violent behaviour in prisons on its own, without incentivising positive engagement with the regime.
+S1227 Our responses to discipline and criminal matters also needs to be faster and better prepared.
+S1228 There is concern that too many cases are rejected on the grounds of delay or insufficient preparation.
+S1229 222.
+S1230 We will address these issues by:
+S1231  making sure that governors have much more authority to shape incentives and privileges in a way they consider appropriate for their prison.
+S1232 This will be supported by common frameworks, including for standards and appeals.
+S1233 It must, however, be right that those leading any institution should have the tools to allow them to reward the behaviour that they believe makes their institution work well.
+S1234 Further details on our proposals are set out in Chapter 4;
+S1235  reviewing the processes involved in administering the current prison discipline system that deals with low-level disorder, drawing on lessons from police and prosecution reforms to criminal case management so that cases can be dealt with in a swift and proportionate manner;
+S1236  working closely with other parts of the criminal justice system to develop better training for our staff who are collecting evidence, so that case files are better prepared within a ‘right first time’ culture.
+S1237 We will review the processes and logistics supporting adjudication, and consider ways to make sure that adjudications in process continue where prisoners are transferred during a case or when it is referred back from the police;
+S1238  encouraging governors to take a restorative approach to lower-level violence where appropriate.
+S1239 In June 2016, two pilots testing restorative approaches to resolving conflict between prisoners, and between prisoners and staff, started at HMP Featherstone and HMP Buckely Hall.
+S1240 The evaluation of these pilots will conclude in the autumn of 2017, but in the meantime we have made a toolkit available to other prisons on ways of adopting restorative approaches;
+S1241  ensuring that the 2015 protocol ‘Crime in Prisons’ which was agreed between MoJ, the Crown Prosecution Service and the National Police Chiefs Council is adhered to consistently across the country.
+S1242 For example, we know that the approach of local police forces in prioritising assaults on police officers can vary.
+S1243 We are undertaking an analysis of what special arrangements different police forces have in place, and prosecution rate outcomes at a force by force level.
+S1244 We are working with pilot prisons to design an appropriate system to ensure this is collected, and plan to roll out this monitoring scheme nationally in the Spring of 2017; and
+S1245  encouraging governors to make greater use of prison community impact statements, so that adjudicators and courts are given the fullest account of the consequences felt in the prison community for prisoners’ behaviour.
+S1246 As a closed community, violence can have a significant impact on those living and working
+S1247 within a prison.
+S1248 We want to ensure that the courts have the fullest picture of that harm when considering the appropriate sentence.
+S1249 Corruption
+S1250 223.
+S1251 As well as showing no tolerance for violence against our prison staff, we will not tolerate corruption amongst our staff, undermining safety for themselves and others.
+S1252 We continue to be concerned about the number of staff who are vulnerable to being corrupted by organised criminals and other high risk prisoners.
+S1253 224.
+S1254 We are developing a new strategy to tackle corruption which will include: closer working with the police; clearer processes for managing intelligence and investigations, better support and guidance for staff to avoid corruption; increased resources – for example searching – at a prison and regional level to tackle corruption, and strengthened sentencing for trafficking.
+S1255 We are also considering options around a prison-specific offence of corruption in anticipation of the findings of the Law Commission review of the offence of Misconduct in a Public Office.
+S1256 Serious and organised crime and gangs
+S1257 225.
+S1258 The National Crime Agency’s 2016 assessment of serious and organised crime stated that as of September 2015, there were over 6,000 prisoners associated with organised crime groups in England and Wales approximately 1,000 of whom had been members of priority or high priority groups.
+S1259 226.
+S1260 No offender should be able to continue to commit crime whilst in prison.
+S1261 Yet there is evidence that serious and organised criminals and gangs are coordinating crimes both within and outside the prison walls.
+S1262 This contributes to high levels of violence and self-harm in prison: violence is used to enforce debts, and fighting, self-harm and fire-setting may be used by debtors in an attempt to escape from their debt.
+S1263 Urban street gang membership in the community leads to violence between rival gangs in prison.
+S1264 227.
+S1265 A recent pilot between prisons, police and probation teams demonstrated the potential for a better response to the harm caused by these groups, namely by improving our ability to identify and tackle criminal and disruptive activity and secure prosecutions.
+S1266 We would like to build on the success of this pilot by investing in a number of dedicated Serious and Organised Crime and Gangs teams across the country.
+S1267 These teams will:
+S1268  improve our ability to identify and investigate threats at a local, regional and national level.
+S1269 We need a stronger understanding of the networks being used by criminal gangs and an improved ability to map changing and emerging threats and trends;
+S1270  work closely with other law enforcement agencies, including the National Crime Agency and Regional Organised Crime Units, to build a comprehensive threat picture, and to coordinate and target responses, prioritising those presenting the most serious threat; and
+S1271  improve our evidence base and subject matter expertise on Serious Organised Crime and gangs in prison and probation; this will support prison staff to deliver practical and evidenced responses to gang affiliation and organised crime.
+S1272 Extremism
+S1273 228.
+S1274 Extremism is a danger to society and a threat to public safety.
+S1275 In prison, it endangers prisoners and staff, encourages criminal behaviour and terrorism, and undermines the proper functioning of the justice system.
+S1276 Tackling extremism in prison requires dealing with a wide range of offenders, from highly motivated terrorists convicted of extremely serious offences, to prisoners who may be vulnerable or susceptible to extremist ideology.
+S1277 229.
+S1278 We have commissioned a landmark review into the management of Islamist extremism within our prisons.
+S1279 Prisons can provide an atmosphere in which individuals are particularly vulnerable to the full spectrum of extremist ideologies, whether Islamist or extreme right wing.
+S1280 We are taking immediate and decisive action following the review; we have already established a new security, order and counter terrorism command and are putting in place training and vetting procedures to make sure we are properly equipped to tackle the ongoing threat.
+S1281 230.
+S1282 Work is underway with the Home Office on the development of plans for a joint unit to strengthen our response to the risk of radicalisation and extremism in prisons.
+S1283 The joint unit would encourage closer working with policy and law enforcement partners in these areas, with the prison service retaining responsibility for all operational prison management decisions.
+S1284 231.
+S1285 We are also refreshing our approach to counter-extremism in prisons and probation – in support of the wider aims of the Government Counter-Extremism Strategy – so that our efforts are resilient and responsive to threats now and in the future.
+S1286 As part of this, governors and front line staff will be given the training, skills and authority needed to challenge proponents of extremist views and take action against them.
+S1287 The most subversive individuals will be removed from the mainstream prison population and held in specialist units to protect others from their poisonous ideologies.
+S1288 232.
+S1289 To tackle crime in prison and enhance security against all of the threats outlined above effective partnership working will be a key measure of our success, working with agencies across the criminal justice system and partners in the community and industry.
+S1290 Notably, the police have a key role.
+S1291 We will work closely with the Home Office and the Prison Crime Lead of the National Police Chiefs Council to identify opportunities to improve prison and police working to tackle crime in prison and enhance security.
+S1292 Based on updated assessments of threat and risk, prison and police partners will be supported to come together to review their respective roles in responding to the challenges they face.
+S1293 Depending on the local circumstances, this might lead to coordinated operations in prisons and the community to disrupt the supply of illicit items into prisons – for example targeting prisoner visits where intelligence points to a security threat.
+S1294 It might lead to the police providing training to prison staff in the preservation of evidence to enable them to deal with assaults on staff or prisoners more effectively and improve prosecution rates.
+S1295 It might lead to the identification of dedicated police roles to support individual prisons.
+S1296 Some prisons are already exploring using additional budget flexibility as a contribution to fund increased police contact in prisons.
+S1297 Every day our hard-working and dedicated prison staff and volunteers work tirelessly, often in difficult circumstances, to keep the public safe.
+S1298 We are lucky that the calibre of operational leadership in our prisons is outstanding and provides an excellent platform on which we can build our reforms.
+S1299 We need to support them by equipping them with the additional skills to excel in a world where they have greater power and control over their establishments.
+S1300 But at the moment we know that prison officers can sometimes feel unsupported and that they are given insufficient time to work with prisoners to make the difference they want to.
+S1301 If we want prisons to be places of reform, we need to build the capability of our prison workforce and provide them with the right kind of training so they are equipped with the skills to make the most of their new responsibilities and meet the challenges of a modern prison environment.
+S1302 If we are to succeed in making prisons places of safety and reform, we also need to provide the right support and tools to our staff.
+S1303 But as we move to a new way of working with dedicated officers taking on a personal caseload of prisoners, we will need to help staff to build on their existing skills so that they can get the right balance of authority and support when dealing with prisoners.
+S1304 Alongside the support we give to our existing leaders and staff, we also want to attract new and talented people to work in our prisons.
+S1305 By 2020 we want working in prisons to be seen as a first choice career for the most talented members of society.
+S1306 To achieve this, we will:
+S1307  give greater control to governors and senior managers in how they run their prisons, and invest in growing their capabilities so they can take on the additional responsibilities we are devolving;
+S1308  invest in recruitment and retention so we can fully implement the new dedicated officer role, and provide officers with training to ensure they are equipped with the skills they need to take this on;
+S1309  launch a new campaign to increase the number of former service personnel working in prisons; and
+S1310  develop a long term plan to attract and retain the country’s highest calibre candidates to work in prisons.
+S1311 Building the capability of our leaders
+S1312 233.
+S1313 Rather than supporting and trusting our prison leaders, we have all too often diminished their role by centralising decision-making and control.
+S1314 We are determined to reverse this.
+S1315 Governors are critical to the success of any prison and many of them have decades of operational experience.
+S1316 Empowering governors will make the role more fulfilling and will help us attract the dynamic leadership we need in the years ahead.
+S1317 Chapter 4 explains how we are going to give governors and their senior management teams far greater opportunity to determine how their prison should operate.
+S1318 This will be a significant change in the way we expect our governors and
+S1319 senior managers to work.
+S1320 In many ways, this will begin to reshape the competencies required to be a governor from those associated with Chief Operating Officers towards those associated with Chief Executives.
+S1321 So we will invest to build the leaders of the future and we will do this by developing a comprehensive capability strategy to support our governors and senior managers in making this transition.
+S1322 234.
+S1323 This strategy will draw on the lessons learned from our four executive governors including exploring whether having responsibility for more than one prison makes it easier for executive governors to implement these reforms.
+S1324 From our early experience, it is already clear that our governors will need to deepen their commercial, financial, HR and strategic partnering skills.
+S1325 Our strategy is therefore likely to include:
+S1326  developing a bespoke prison leadership programme, which will support leaders to make the transition to an empowered way of working and take on additional responsibilities.
+S1327 This programme will further develop governors’ leadership skills by giving them access to coaches who will offer support and challenge in a safe environment;
+S1328  promoting secondments to and from the private sector to transfer skills and experience;
+S1329  working jointly with the Whitehall and Industry Group to establish ways of matching prison leaders with mentors in the private sector with relevant experience; and
+S1330  bringing in senior leaders from outside prisons in an advisory capacity, including through sitting on relevant groups and committees.
+S1331 235.
+S1332 With these reforms we expect our governors and senior managers to become exceptional leaders, but they will also need to be supported by experienced, confident and competent middle managers.
+S1333 That is why we will look to develop our pipeline of future leaders, who have a wealth of experience and a wide range of skills.
+S1334 The current pipeline of future leaders is largely made up of graduates and officers who have successfully been promoted through the ranks.
+S1335 We also have 32 high- potential leaders who were recruited externally, most of whom are now either governors or deputy governors.
+S1336 This brought in talented individuals with a diverse range of skills and experience before joining the prison service.
+S1337 We will look to bring in a further cohort of future leaders from outside the public sector next financial year.
+S1338 Investing in prison officers
+S1339 236.
+S1340 No prison system can achieve good standards without the dedication of thousands of individual staff members.
+S1341 All staff working in our prisons and young offender institutes are agents of reform.
+S1342 Making this strategy a reality relies upon the continuing dedicated efforts of individual prison staff and officers on the ground.
+S1343 Without their support and engagement, and the leadership of governors, we will not achieve safer prisons that work for everyone.
+S1344 237.
+S1345 We are already rolling out a programme of training to equip current staff with the skills they need to tackle the root causes of worsening safety.
+S1346 In order to develop a workforce focused on reform of the right size and skills, we will:
+S1347  increase the number of prison officers by 2,500, and move other officers into front-line duties under the new Offender Management model, by the end of 2018.
+S1348 We will focus first on the 10 public sector prisons that have amongst the worst levels of violence and self-harm;
+S1349  build capability of new staff through better induction and support following the initial training programme, and providing existing officers with training to take on the new dedicated officer role.
+S1350 We are already conducting a review of future capability requirements in our reform prisons to determine what skills will be needed to make sure we have a workforce committed to reform across the estate that can perform effectively in an environment where there is increased empowerment and less centralisation;
+S1351  increase the proportion of staff we retain by improving the support available to both candidates and new recruits, improving market rates where needed and using recruitment and retention premia that stage payments according to length of stay, and exploring how to improve attrition rates in London and the South East by looking at more localised benefits such as support with travel; and
+S1352  set out a plan for tackling barriers to developing a strong and respected workforce, such as corruption among the small number of staff who engage in it.
+S1353 The vast majority of our staff are hard-working and decent and we are taking action to protect their professionalism.
+S1354 Attracting the brightest and the best
+S1355 238.
+S1356 We already have a hard-working and dedicated workforce.
+S1357 But the labour market is competitive and there are some indications we need to do more if we want to maintain and build on this success in the future.
+S1358 Our long term ambition is for the role of prison officers to be a prestigious and recognised profession across both the public and private sectors.
+S1359 This will enhance the status of the existing workforce as well as attracting the right people into the prison system.
+S1360 This will complement our shift from a centralist to a devolved approach for running the system.
+S1361 We will publish further details in due course but our plans to professionalise the prison system will include:
+S1362  developing recognised accredited core elements of prison work, from officers through to senior management level, allowing people to help build recognised skills as they progress through their careers;
+S1363  addressing some key gaps in skills, such as understanding and managing vulnerable prisoners and improving staff-prisoner relationships;
+S1364  providing more opportunities for prison officers to develop accredited competencies currently associated with probation officers to allow them to take on a greater variety of roles and contribute towards our long term ambition of creating opportunities for staff to work in both prison and probation roles through their careers;
+S1365  launching a new apprenticeship scheme and a new graduate recruitment scheme (see below);
+S1366  recruiting former armed forces personnel into the prison service (see below);
+S1367  introducing a new direct entry scheme for managers, prioritising posts in London and the South East towards the end of 2016.
+S1368 This campaign will recruit experienced middle managers from other sectors into prisons and give them knowledge of prisons through an intensive development programme.
+S1369 Those recruited will be expected to demonstrate the potential to develop into senior leaders within the organisation over three to five years; and
+S1370  examining the feasibility of whether prison officers should develop specialist roles for working with prisoner segments that have identified needs, such as young adults, women, and elderly prisoners.
+S1371 Former armed forces personnel
+S1372 We want to increase the number of former armed forces personnel working in prisons.
+S1373 Many will have developed skills in leadership and people management as well as the strength of character to strike the balance – as prison officers have to do – between discipline and support for prisoners.
+S1374 The Prison Service have been working collaboratively with the Ministry of Defence Career Transition Partnership (CTP) organisation in developing the Former Armed Forces Personnel to Prison Officer Programme.
+S1375 We began development of our programme by upscaling a local initiative developed by HMP Eastwood Park to support recruitment at a number of hard to recruit sites.
+S1376 To develop the offering to services leavers, the Prison Service and the CTP will focus on:
+S1377  raising the profile of the role of prison officer with all service personnel through attendance at job fairs;
+S1378  commissioning research to understand why service personnel do not currently consider the prison service as a career path and use findings to inform recruitment strategies; and
+S1379  putting in place a scheme that provides service leavers who are new to the prison service with a mentor who has successfully made the transition.
+S1380 We have already identified a service leaver to lead this work.
+S1381 He served for seven years in the British Army, leaving in 2002 as a Lance Corporal.
+S1382 During his redeployment he found the CTP Career Transition Workshop gave him the opportunity to look at where the vacancies were in the in the current employment market.
+S1383 He started work as a prison officer in 2003, and has been in his current role as a Custodial Manager since 2013.
+S1384 Apprenticeship opportunities
+S1385 Apprenticeships are central to our new resourcing strategy.
+S1386 We will pilot a new Prison Officer apprenticeship scheme, Securing Futures, in 2017, for over 1000 new officers with the aim of scaling this up rapidly across the estate.
+S1387 This scheme will help the apprentices develop the core skills, knowledge and behaviour required of a prison officer working in a rehabilitative environment.
+S1388 In addition to providing the grounding in operational activities, the apprenticeship curriculum will focus on developing enhanced capability in dealing with priorities such as violence reduction, suicide and self-harm, psychoactive substances and aiding desistance from crime.
+S1389 We have applied to become an approved training provider, enabling us to deliver the scheme in-house.
+S1390 We will also introduce an apprenticeship that allows prison officers to earn degree-level qualifications.
+S1391 This will give those apprentices the opportunity to enter our degree level Prison Officer scheme, becoming part of the future talent pipeline.
+S1392 Beyond this, we will also use the pilot to determine the opportunities for developing additional apprenticeship programmes at all levels, increasing capability in other parts of the organisation and replacing existing training with apprenticeships in areas such as Leadership Development and HR.
+S1393 A new graduate recruitment scheme
+S1394 In her review of prisoner education, Dame Sally Coates made the case for a new scheme through which high calibre graduates would work as prison officers for an initial period, with an additional remit to support education at the heart of the prison regime.
+S1395 In response to this, the Prison Service is introducing a new graduate scheme as a prestigious route for high achieving graduates to become prison officers.
+S1396 This programme will offer graduates an elite two-year development programme where they will work alongside current prison officers in ensuring that offenders are supported through their sentence and ultimately reduce reoffending rates.
+S1397 The new scheme will be marketed next year, with the first 40 graduates joining the programme in September 2017.
+S1398 We plan to recruit an additional 40 graduates in 2018 and 2019 through this scheme.
+S1399 Whilst the initial ‘offer’ will be for candidates to be prison officers for two years, the Prison Service will incentivise those who are successful to stay by ensuring they can progress quickly through the ranks and provide a fresh talent pool for the next generation of senior leaders.
+S1400 We want a prison estate that is less crowded, better organised, and that is increasingly made up of modern, fit for purpose accommodation.
+S1401 We want the courts to be better served through new ways of working.
+S1402 We also want to make it easier to support governors to deliver high standards by reorganising how the estate is constituted.
+S1403 Our current prison estate needs urgent investment and reform if it is to match this vision.
+S1404 The physical environment that many staff and prisoners face on a daily basis is not fostering the kind of culture or regime needed for prisoners to turn their lives around.
+S1405 For prisons to be places of safety and reform, there needs to be a fundamental shift in the way that the prison estate is organised and operates and a significant improvement in the overall quality of the buildings across the prison estate.
+S1406 To make this a reality, we will:
+S1407  open HMP Berwyn, near Wrexham in Wales in February 2017;
+S1408  invest £1.3 billion to build up to 10,000 new adult prison places;
+S1409  build and open five new community prisons for women; and
+S1410  close prisons that are in poor condition and those that do not have a long-term future in the estate.
+S1411 We have started the process to find suitable sites for new prisons.
+S1412 To progress the work to transform the prison estate we will apply for planning permission to redevelop the sites at HMP Wellingborough and HMP & YOI Glen Parva.
+S1413 The process of targeting sites for new prisons will continue throughout 2016 and into 2017.
+S1414 We can confirm that the former Immigration Removal Centres at Dover and Haslar will not re-open as prisons and a further announcement about prison closures will be made in due course.
+S1415 Our vision is for prison staff and prisoners to work and live in a safe and secure, uncrowded environment that is modern and fit for the purpose of helping prisoners to reform.
+S1416 239.
+S1417 Over a quarter of our prisons were built before 1900, and around 25% of prisoners are held in crowded conditions.
+S1418 There is huge variation in the cost of running the same type of prison, and there is a mismatch between the types of prison places we need and what is available.
+S1419 The provision we have at the moment is inflexible, poor value for money and cannot support a workforce which has been given the power to work out how best to deliver results.
+S1420 This is leading to waste, and hampering our efforts to reform prisoners.
+S1421 240.
+S1422 If we want prisons to do more to turn prisoners’ lives around, including changing their attitudes and behaviour, we must improve the estate in which staff work and prisoners live.
+S1423 241.
+S1424 Our sentenced population is too large for our training estate, with the result that offenders – both men and women – are held in higher security prisons at greater cost and without access to the services they really need.
+S1425 The last government closed some older and inefficient prisons saving £168 million in the adult male estate.
+S1426 But there remain large parts that are old and inefficient with poor physical conditions.
+S1427 Typically, these prisons have high levels of crowding and lack useable space for reform facilities.
+S1428 Some establishments are becoming increasingly difficult and expensive to maintain or modernise, leaving them unfit to be part of our long term estate.
+S1429 We also know that poor design across some sites can make bullying, drug-taking and violence easier and require more staff to run them safely which increases costs.
+S1430 242.
+S1431 We will therefore make a significant investment in the estate to change the function of some of our existing prisons that are in decent condition to bring supply into line with demand.
+S1432 We will also replace old and inefficient prison places with modern design, including new community prisons for women.
+S1433 Our new prisons will be designed to be safer and to support the delivery of better standards.
+S1434 We will work with governors to put in place new regimes that are efficient and which provide opportunities for staff to work with prisoners to help them turn their lives around.
+S1435 The new accommodation we build will largely comprise single cells leading to a reduction in crowding.
+S1436 243.
+S1437 This will create the bedrock on which improvements to safety and reform can be made.
+S1438 It will also allow us to reduce unit costs and deliver better value for the taxpayer.
+S1439 The process of changing the functions of some of our existing prisons has already started and will be complete by the spring of 2020.
+S1440 We will start to close old accommodation as new accommodation is opened.
+S1441 In addition to not reopening the former Immigration Removal Centres at Dover and Haslar, there will be a major programme of closures over the next five years; we will make a further detailed announcement in due course.
+S1442 We will begin the process of submitting planning applications for new prisons (including those where we are keen to redevelop existing prison sites) this year, starting with sites at HMP Wellingborough and HMP & YOI Glen Parva.
+S1443 If we successfully achieve planning permission at the sites where there are existing, operational prisons, these would close, being replaced by new, fit-for-purpose, facilities.
+S1444 Simplifying the organisation of the prison estate
+S1445 244.
+S1446 The main factor which influences how the prison estate is organised is the existing system of categorising risk (ranging from Category A for the highest risk offenders to Category D for those posing the lowest risk).
+S1447 Balanced alongside this is the need to separate specific cohorts of prisoners such as women and young people and deal with prisoners who are particularly difficult, or whose management requires particular expertise, such as very high risk or especially vulnerable prisoners.
+S1448 245.
+S1449 This has created a system where prisons have a predominant function, such as local prisons serving the courts, high security prisons managing the highest risk offenders, training prisons delivering longer term rehabilitative work and open prisons for lower risk prisoners nearing the end of their sentence.
+S1450 But in reality prisons have populations that are often a complex mix of different types of prisoner.
+S1451 246.
+S1452 There is also a mismatch between the estate we have and the volume of prisoners who fall into the different risk categories.
+S1453 Overall in the adult male estate we now have around 10,500 local prison places too many and about 14,400 training and resettlement spaces fewer than are needed.
+S1454 In some prisons, only a minority of prisoners fit the prison’s predominant function.
+S1455 HMP Wandsworth, for example, is a local prison holding 1,628 prisoners, of whom only around a third are remand prisoners.
+S1456 The rest are a combination of sentenced prisoners with a range of sentence lengths, as well as a smaller proportion who have been recalled to custody.
+S1457 247.
+S1458 The need to deliver a number of different functions for a range of different type of prisoners makes it challenging for governors to operate effectively: no regime can adequately cater for the range of risks and needs of so many segments of the prisoner population, especially if the building is also unfit for purpose.
+S1459 The result is that we are neither efficient in our use of the estate nor effective in how we allocate prisoners within it.
+S1460 248.
+S1461 By investing in and reorganising our estate we can begin to address this imbalance.
+S1462 It will bring an end to the situation where those with the highest rates of reoffending (i.e. those with the shortest sentences) are held at the wrong level of security in the most crowded and pressurised parts of the system.
+S1463 Instead we will create a system where prisoners are placed at the right level of security in prisons with regimes that are able to effectively fulfil their function.
+S1464 249.
+S1465 We will also reduce the number of prisons servicing courts by creating a core network of reception prisons in the male estate.
+S1466 Their main function will be to provide an efficient service to the courts and effectively manage remand prisoners and offenders with very short sentences.
+S1467 They will be places that accommodate prisoners safely and decently, meeting their initial needs and preparing those who receive a custodial sentence for moving into the training and resettlement estate once sentenced.
+S1468 In these prisons we will invest in video conferencing technology to allow more court hearings to take place virtually.
+S1469 This will minimise the need for physical transfers of prisoners from prison to court and support parallel reforms in HM Courts & Tribunals Service.
+S1470 This will be good for the system as a whole.
+S1471 The parts of the estate which are in decent condition but are no longer serving the courts will be reconfigured to provide regimes for longer-sentenced prisoners.
+S1472 The oldest and most inadequate local prisons will be considered for closure and the receipts used to fund this transformation programme.
+S1473 250.
+S1474 The training estate for sentenced prisoners will be improved and expanded so that supply of places meets demand.
+S1475 Training prisons’ main function is the engagement of prisoners in activities to aid their reform journey.
+S1476 This renewed focus on training prisons will prepare prisoners to focus on resettlement activities at the end of their sentence.
+S1477 Once a prisoner nears the end of their sentence, or for the vast majority of prisoners who spend less than 12 months in prison, there will be improved resettlement prison provision.
+S1478 This will focus specifically on preparation for release back into the community and maintaining or building prisoners’ ties to factors in the community so as to aid prisoner reform.
+S1479 251.
+S1480 Within a simplified and focused estate we will also consider the need to take a more coherent approach to how we manage specific cohorts of prisoners, including young adults and sex offenders, to make sure that they are in the right places to meet their safety and reform needs.
+S1481 252.
+S1482 A change in a prison’s population will require a change in the prison’s processes.
+S1483 For example, providing full time activity for prisoners in training prisons will need a new approach to allocating activities so that the use of places is maximised.
+S1484 We will work with prisons to design new processes and redesign old ones so that they are more efficient and free up staff time to focus on prisoners’ safety and reform.
+S1485 These will be brought together in a way that sets out, at a high level, the services, activities and outputs a prison needs to deliver and the things they no longer need to do.
+S1486 In the longer term this early work will develop into the framework from which all prisons will operate.
+S1487 253.
+S1488 Making sure that the function, requirements and standards set for prisons are more closely aligned to their populations will allow governors to tailor services to better meet the needs of the prisoners, and make it easier to hold governors to account for delivering specific results.
+S1489 Creating community prisons for women
+S1490 254.
+S1491 The drivers for reform of our estate for women offenders share similarities with the adult male estate, although the issues they face are different.
+S1492 We know that a significant proportion of women prisoners are housed in accommodation at a higher security level than they need.
+S1493 Very few women have the opportunity to spend time in an open prison prior to release because of the small number of open places for women.
+S1494 Because of this, women can be kept in prisons where they do not have access to all the resettlement services they need.
+S1495 255.
+S1496 As well as making improvements in the male estate we will start to improve how we manage the specific needs of women prisoners through the creation of five small community prisons for women.
+S1497 Community prisons will focus on preparing women for release, in a similar way to resettlement prisons.
+S1498 They will mean that more women are held closer to their homes and given the support services they need to help them address what are often multiple and complex needs.
+S1499 Within these prisons there will be very close links with the providers of services in the community.
+S1500 Their smaller size will help improve the effectiveness of the resettlement services and support provided.
+S1501 We will seek to use land adjacent to existing sites to get economies of scale, whilst maintaining the feel of separate institutions that will be important for prisoners’ experiences.
+S1502 256.
+S1503 We will publish a strategy setting out how we will improve the safety and reform of female offenders in custody and in the community in early 2017.

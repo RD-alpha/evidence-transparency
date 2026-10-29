@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Transitional protection for existing cases",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 1-6 repeatedly state the proposal that existing applicants on Universal Credit would not be reassessed, but give no statistic, finding, source or consultation evidence for why this arrangement was chosen or will work."
+    },
+    {
+      "theme": "Special-issue rules for Universal Credit assessment",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The housing disregard and contrary-interest lines are reasoned proposals describing current rules, with Reference 6 cited only to describe existing regulations, not to show why an option was chosen or ruled out."
+    },
+    {
+      "theme": "Scheme administration and delivery",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines state the secondary legislation route, the Autumn 2017 timetable and provider duties as commitments and descriptions, with no evidence offered for them."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line that Housing Benefit is a legacy benefit to be replaced by Universal Credit is an uncited assertion with no supporting evidence."
+    }
+  ],
+  "reasoning": "Both core themes rest on assertion and argument, not evidence, so each scores level 0. Transitional protection for existing cases: the lines (\"We propose that transitional arrangements are put in place...\", \"would not be reassessed simply because of a change to the passporting arrangements\") describe the measure and its intended effect. They offer no data on how many existing cases are affected, no consultation responses and no costing, and no comparison with alternatives. Special-issue rules for Universal Credit assessment: the housing disregard is justified by reasoning (\"This approach would ensure that those in receipt of Universal Credit would not be disadvantaged compared to those still in receipt of housing benefit\"), but no figures or analysis support it. Reference 6 lists regulations, but it is cited to describe how the current means test treats partners' resources, not to explain why an option was chosen or ruled out, so it is not evidence of a constraint. The contrary-interest examples are illustrations, not evidence. The non-core themes (administration, Autumn 2017 timetable, secondary legislation) are also bare statements of intent. The mean of the core levels is (0+0)/2 = 0, giving a score of 0. The strongest counter-example is the Reference 6 citation, which a reader can follow to the regulations and which gives the section some grounding; however, it only describes current rules. To reach level 1 the document would need to offer some evidence for its delivery choices, for example numbers of affected existing cases or UC claimants with earnings, the estimated cost or savings of the housing disregard, or consultation feedback on transition, with an explanation of how that evidence led to the chosen approach.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

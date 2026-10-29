@@ -1,0 +1,53 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Productivity and infrastructure",
+        "claim": "The UK has long lagged other advanced economies on productivity, and infrastructure investment raises productivity and thereby wages and living standards."
+      },
+      {
+        "name": "Local authority role and borrowing costs",
+        "claim": "Local authorities are responsible for a sizeable share of infrastructure investment and are best placed to know local needs, but high borrowing costs could prevent them from delivering needed projects."
+      },
+      {
+        "name": "Local government borrowing landscape",
+        "claim": "Local authorities borrow mainly via the PWLB at existing standard, certainty and project rates (about 75% of borrowing), in a debt market that is evolving with new lenders."
+      }
+    ],
+    "note": "Evidence on the scale of the borrowing-cost barrier is asserted rather than quantified; the diagnosis mixes the national productivity problem with the local financing problem."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Discounted Local Infrastructure Rate",
+        "claim": "The government proposes up to £1 billion of lending to local authorities at gilts + 60 basis points for high value-for-money projects, because cheaper borrowing will make it easier to finance infrastructure that raises productivity."
+      },
+      {
+        "name": "Complementing wider infrastructure funding",
+        "claim": "The new rate fits alongside rising central government infrastructure investment, the Housing Infrastructure Fund and Growth Deals, giving local authorities additional financing options."
+      },
+      {
+        "name": "Expected impacts",
+        "claim": "The government expects significant take-up that would raise infrastructure investment, productive capacity, business conditions and household living standards, with some risk of crowding out private finance or shifting local spending."
+      }
+    ],
+    "note": "No alternative options are discussed and no evidence from the earlier project rate is offered; the impact assessment is asserted and the policy is still subject to consultation."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Delivery through the PWLB",
+        "claim": "The rate would be delivered via the PWLB, or its successor, using the existing statutory lending machinery, with no expected extra administrative cost, for a three-year window and loans of up to 50 years."
+      },
+      {
+        "name": "Competitive bid and appraisal process",
+        "claim": "Allocations would be awarded to council bids that show high value for money through Green Book-style appraisal (net present value, business case, risk assessment) signed off by the Section 151 Officer, with details to be set out later."
+      },
+      {
+        "name": "Eligibility and scope limits",
+        "claim": "Eligible bodies and sectors are defined, the £1 billion is capped, and the rate is restricted to approved projects and not available for refinancing, keeping accountability with democratically accountable councils."
+      }
+    ],
+    "note": "Details of the bidding process are explicitly left to be set out in due course; the consultation questions ask only about impacts, not about delivery design."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Evidence thresholds and attestor access",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim rests on the author's personal assertion (\"I have met survivors...\", \"It is clear to me... may have led\") with no data, numbers or consultation behind it, and refs 1 and 2 only list the orders and officers in the regulations to describe current rules."
+    },
+    {
+      "theme": "Scheme purpose and high threshold",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines on the Electoral Administration Act 2006 describe the scheme's original intent and the high threshold, which is a description of the current rules and carries no evidence or citation."
+    },
+    {
+      "theme": "Live-order and annual renewal requirements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on the 12-month termination, yearly reapplication and the live-order rule describe current legal requirements, with no evidence that they burden survivors and no citation."
+    },
+    {
+      "theme": "Scheme history and legal framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Regulations and the Section 62(1A) offence (ref 3) are cited only to describe current rules and offences, not to explain why an option was chosen, so no evidence is offered."
+    }
+  ],
+  "reasoning": "All three core themes sit at level 0. In \"Evidence thresholds and attestor access\", the diagnosis rests on the author's own account: \"I have met survivors of abuse who have been unable to register to vote anonymously\" and \"It is clear to me that these difficulties... may have led those affected... to decide that the easiest thing to do was simply not to register.\" This is anecdote and reasoning. It gives no number of survivors, no consultation, no data on registration rates and no method. References 1 and 2 only point to Annexes listing court orders and qualifying officers, so they describe the current rules and are not evidence of a problem. \"Scheme purpose and high threshold\" describes the 2006 Act and its intent, and \"Live-order and annual renewal requirements\" restates the 12-month lapse and live-order rule. The claim that these burden survivors is asserted without support. The mean of the core themes is 0, so the score is 0. The strongest counter-example is the first-hand contact with survivors, which is a kind of primary evidence. But the document gives no count, no sampling and no description of how those cases were gathered, so it cannot reach level 1. To reach level 1, the document would need to offer evidence about the problem, such as the number of survivors affected, the share of applications rejected, or consultation responses, and explain what it shows. To reach level 2, it would also need to cite that evidence and describe its method.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

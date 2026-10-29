@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Private Rented Sector Context",
+      "reason": "Provides background scale and growth of the private rented sector, setting context but not itself explaining why fees are high or opaque.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Fee Structures, Variation and Charges",
+      "reason": "This is the central evidentiary theme documenting what fees are charged, how much, and how they vary, directly establishing the scale and nature of the 'high, opaque' fees problem; without it there is no factual basis for the diagnosis.",
+      "weight": "core"
+    },
+    {
+      "theme": "Regulation, Transparency and Disclosure",
+      "reason": "Shows that despite existing transparency rules, fees remain hard to find and compare, directly supporting the 'opaque' part of the diagnosis and explaining why current safeguards are insufficient.",
+      "weight": "core"
+    },
+    {
+      "theme": "Market Failure and Lack of Competition",
+      "reason": "Explains the underlying cause of high and opaque fees—misaligned incentives and weak competitive pressure—forming the causal mechanism the policy argument relies on.",
+      "weight": "core"
+    },
+    {
+      "theme": "Financial Impact on Tenants",
+      "reason": "Documents the scale and effects of high fees on tenants' finances and mobility, establishing why the problem matters and justifying intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Unfair Practices and Poor Conduct",
+      "reason": "Adds supporting examples of agent misconduct and unfair charging, reinforcing but not solely carrying the diagnosis of opacity/unfairness.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Contains unrelated or tangential remarks (e.g. discrimination against benefit claimants, Northern Ireland surveys) that do not bear directly on the core diagnosis of high, opaque fees.",
+      "weight": "not core"
+    }
+  ]
+}

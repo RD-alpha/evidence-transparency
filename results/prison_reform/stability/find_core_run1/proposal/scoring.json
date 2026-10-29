@@ -1,0 +1,94 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Empowering governors as the lever for reform",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The claim rests on the uncited analogy 'Our proposals are inspired from the success of other public sector reforms in education and health' and the six reform-prison trial ('Earlier this year, we began a trial...'), neither of which is cited or shown to have produced results."
+    },
+    {
+      "theme": "Statutory purpose and transparent accountability",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme is built almost entirely from description and reasoning (e.g. 'we will therefore enshrine in law...', 'we will set performance measures') with no statistic, study or named evaluation offered for why a statutory purpose or league table is the right mechanism."
+    },
+    {
+      "theme": "Safety and security as the foundation for reform",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Claims such as 'Our evidence is clear...' and 'Our research suggests...' and the uncited pilot result ('A recent pilot between prisons, police and probation teams demonstrated the potential...') are offered as grounds but none carry a reference or link."
+    },
+    {
+      "theme": "Investment in staff and estate to underpin reform",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only named source is Dame Sally Coates's review of prisoner education, used to justify the graduate officer scheme, but it carries no citation or link."
+    },
+    {
+      "theme": "Evidence base and continuous improvement",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Unnamed 'research on the impact of the accredited cognitive skills programmes' and the uncited 'A\u2013Z intranet resource' are mentioned as grounds but neither is linked or assessed."
+    },
+    {
+      "theme": "Inspection, scrutiny and governance arrangements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements about HMIP, IMBs and the PPO are asserted ('we intend to strengthen their statutory remit') with no supporting evidence at all."
+    },
+    {
+      "theme": "Prisoner reform and behaviour programmes",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The uncited line 'There is evidence that a specific approach is most effective in helping women...' is mentioned as grounds without a source."
+    },
+    {
+      "theme": "Employment and skills training",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Specific uncited examples (Census Data recruiting 75 prisoners, Greggs assessment centres, Clinks' Cardiff restaurant ranking) are used as evidence of what works but none are referenced."
+    },
+    {
+      "theme": "Release preparation and resettlement services",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The uncited claim 'The evidence shows that ROTL helps to reduce re-offending... compliance rate... well over 99%' is used to justify maintaining ROTL but has no citation or methodological detail."
+    },
+    {
+      "theme": "Healthcare and substance misuse support",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims about mental health and substance misuse pathways are asserted with no evidence offered."
+    },
+    {
+      "theme": "Women prisoners and youth justice",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Repeats the uncited 'There is evidence that a specific approach is most effective in helping women...' claim without a source."
+    },
+    {
+      "theme": "Reducing policy restrictions and operational flexibility",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The figure 'strip away the 562 policies prisons must comply with' is used as grounds for simplifying rules but is not cited or sourced."
+    },
+    {
+      "theme": "Prison governance and operational framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Purely descriptive statements about overhauling accountability lines, with no evidence offered."
+    },
+    {
+      "theme": "Corruption and criminal activity management",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The uncited 'A recent pilot between prisons, police and probation teams demonstrated the potential for a better response...' is used to justify expanding Serious and Organised Crime teams but is not sourced."
+    }
+  ],
+  "reasoning": "The four core themes score unevenly low. 'Empowering governors' (level 1) rests only on the uncited analogy to education/health reforms and the undescribed six-prison trial, with no outcome data reported for that trial. 'Statutory purpose and transparent accountability' (level 0) is almost pure description and reasoning -- 'we will therefore enshrine in law...', 'we will set performance measures...' -- with no statistic, study or named evaluation behind the choice of mechanism. 'Safety and security as the foundation for reform' (level 1) relies on vague, uncited assertions such as 'Our evidence is clear' and 'Our research suggests', plus an unreferenced pilot result on gangs. 'Investment in staff and estate' (level 1) names only the Dame Sally Coates review, with no citation or link, to justify the graduate scheme. None of the four themes has a single reference or link in the extract (all <references> and <links> blocks are empty), so none can exceed level 1, and none shows the department assessing strengths, weaknesses or contradictory evidence, so level 3 is out of reach entirely. The mean of (1, 0, 1, 1) is 0.75, rounding to 1. The strongest counter-example is the explicit six-prison 'trial' and 'trailblazer' language, which gestures at a primary evidence base, but no results or metrics from that trial are given. To reach level 2 the document would need to cite the education/health reform evidence, the reform-prison trial results, or the Coates review with retrievable references clearly linked to each specific proposal.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

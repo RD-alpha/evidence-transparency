@@ -1,0 +1,69 @@
+{
+  "themes": [
+    {
+      "name": "Overfishing of lobster and crawfish stocks",
+      "ids": [
+        "S0018",
+        "S0019",
+        "S0383"
+      ]
+    },
+    {
+      "name": "EU and biodiversity obligations at risk",
+      "ids": [
+        "S0020",
+        "S0102",
+        "S0103",
+        "S0106",
+        "S0109",
+        "S0110",
+        "S0111"
+      ]
+    },
+    {
+      "name": "Common-good market failure",
+      "ids": [
+        "S0124",
+        "S0125",
+        "S0126",
+        "S0127",
+        "S0128"
+      ]
+    },
+    {
+      "name": "Particular harm from landing berried (egg-bearing) individuals",
+      "ids": [
+        "S0024",
+        "S0115",
+        "S0116",
+        "S0117",
+        "S0130",
+        "S0131",
+        "S0132",
+        "S0133",
+        "S0134"
+      ]
+    },
+    {
+      "name": "Inadequacy of existing local measures",
+      "ids": [
+        "S0114",
+        "S0119",
+        "S0120",
+        "S0121"
+      ]
+    },
+    {
+      "name": "Economic and employment significance of shellfish fisheries",
+      "ids": [
+        "S0092",
+        "S0093",
+        "S0094",
+        "S0095",
+        "S0096",
+        "S0097",
+        "S0098"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "themes": [
+    {
+      "name": "National Skills Shortage",
+      "ids": [
+        "S0023"
+      ]
+    },
+    {
+      "name": "Public Sector Apprenticeship Gap",
+      "ids": [
+        "S0026"
+      ]
+    },
+    {
+      "name": "Workforce Diversity and Inclusion Deficit",
+      "ids": [
+        "S0041",
+        "S0042",
+        "S0043",
+        "S0057"
+      ]
+    },
+    {
+      "name": "Changing Perceptions of Apprenticeships",
+      "ids": [
+        "S0078"
+      ]
+    }
+  ]
+}

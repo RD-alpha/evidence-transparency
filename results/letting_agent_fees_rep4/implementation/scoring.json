@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Local enforcement via Trading Standards, strengthened by new mechanisms",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The detailed description of NTSEAT's role in the Estate Agent sector is used as a comparable-policy rationale for a lead enforcement authority, but no reference or link is given for it."
+    },
+    {
+      "theme": "Penalties for non-compliance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Existing civil penalty levels (\u00a35,000 for redress/transparency breaches, \u00a330,000 under the Housing and Planning Act 2016) and NTSEAT's prohibition powers are used to justify proposed fine levels, but none carry a citation."
+    },
+    {
+      "theme": "Tenant empowerment and education",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that 'tenant empowerment and education has helped to improve compliance in other areas of the sector, for example, deposit protection' is explained via the county court/3x deposit mechanism but is not sourced or cited."
+    },
+    {
+      "theme": "Permitted exceptions to the ban",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Rationales for holding deposits and in-tenancy charges (e.g. mitigating speculative applications, reducing discrimination risk) are pure reasoning with no study, data or consultation evidence behind them."
+    },
+    {
+      "theme": "Legislation and regulatory framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements that legislation 'will complement and strengthen existing regulation' are asserted with no supporting evidence."
+    },
+    {
+      "theme": "Scottish legal precedent and comparison",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Private Rented Housing (Scotland) Act 2011 is described as a comparable policy that clarified the definition of 'premium' after confusion, explaining how it addressed the problem, but no citation is given."
+    }
+  ],
+  "reasoning": "The four core themes each rely on uncited comparator evidence or pure reasoning rather than linked, sourced evidence. Local enforcement draws on NTSEAT's role in the Estate Agent sector ('NTSEAT... is designated by the Secretary of State as the UK's lead enforcement authority...') as an analogy for a lettings lead authority, reaching level 1 since no reference or link is attached. Penalties similarly reasons from existing civil penalty levels ('\u00a35,000', '\u00a330,000 for breach of a banning order') to justify a proposed fine, again uncited, level 1. Tenant empowerment cites the deposit protection regime as a precedent ('Tenant empowerment and education has helped to improve compliance in other areas of the sector, for example, deposit protection') with mechanism explained but no source, level 1. Permitted exceptions, however, offers only reasoning for design choices (holding deposits mitigating 'speculating on a number of properties'; reducing 'discrimination against families and people who receive benefits') with no statistic, study or consultation evidence, so it scores 0. Averaging 1, 1, 1 and 0 gives 0.75, which rounds down to 1. The strongest counter-example against raising the score is that none of the comparator evidence (NTSEAT, Scottish Act, deposit protection) carries a reference or link, so a reader cannot verify it, and one core theme has no evidence at all. To reach level 2, the document would need to cite sources for these comparator claims and provide actual data or consultation findings underpinning the design of the permitted exceptions.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

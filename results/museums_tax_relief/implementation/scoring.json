@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Claims mechanism through corporation tax",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claims route is described as following the model of theatre and other creative reliefs (4.5, 5.3 lines), but it offers no figures, findings or sources showing it will work, and the line that businesses can self-assess is an unsupported expectation."
+    },
+    {
+      "theme": "Limits on relief and State aid compliance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The 'revised General Block Exemption Regulation' line and the \u20ac50 million and 100% aid intensity limits explain a legal constraint on the design, but the regulation is not cited with a reference or link, and the 80% cap and 25% EEA rules rest only on the precedent of earlier reliefs."
+    },
+    {
+      "theme": "Anti-abuse safeguards",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only evidence is the passing example of the old film tax scheme being replaced, which is mentioned as grounds for building in safeguards but is uncited and unexplained beyond that."
+    },
+    {
+      "theme": "Timetable and consultation to settle details",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 1 April 2017 commencement and autumn 2016 draft legislation are asserted as plans, and the lines on consulting the sector describe a process with no evidence for the chosen dates."
+    },
+    {
+      "theme": "Eligible costs and worked examples",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The theatre example in 7.2 uses figures from an anonymous theatre company (\u00a3600,000 income, \u00a3177,400 qualifying costs, \u00a328,384 credit) to illustrate calculation, but the source and method are not documented and the rate is flagged as unconfirmed."
+    },
+    {
+      "theme": "Charitable status, VAT and administrative support",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The advice on subsidiaries and VAT and the GOV.UK theatre guidance link (Link: 2) point to guidance without any evidence on why the arrangement suits museums, and the creative industry unit line is an assertion."
+    }
+  ],
+  "reasoning": "The four core themes score 0, 1, 1 and 0, a mean of 0.5, which rounds to 1. The claims mechanism theme only says the process follows existing reliefs ('As with theatre tax relief...', 'For the existing reliefs, some institutions have decided to use a wholly owned trading subsidiary'). It shows no data on how the model has worked or why it suits museums, and the expectation that firms can 'self-assess without the need for a formal clearance process' is asserted. The State aid theme names the revised General Block Exemption Regulation and its \u20ac50 million and 100% limits, which is evidence of a legal constraint, so it reaches level 1. It carries no reference or link, so it cannot reach level 2. The 80% cap and 25% EEA threshold are justified only by 'following the model' of other reliefs. The anti-abuse theme cites the old film tax scheme being replaced, a thin unsourced example. The timetable theme gives dates and no evidence for choosing them, and the details are left to a consultation whose method is only sketched. The strongest counter-example to level 1 is that the document is open about unsettled design details ('all qualifying costs and rates... will be decided after the consultation'), but this is not an assessment of evidence. To reach level 2 the document would need to cite the regulation and the theatre and film relief experience with links, explain how that evidence supports each design choice, and say how the consultation will decide the open points.",
+  "score": 0,
+  "model_score": 1,
+  "core_mean": 0.5,
+  "score_consistent": false,
+  "missing_core": []
+}

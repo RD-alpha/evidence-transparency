@@ -1,0 +1,5 @@
+- plans to test the policy first, or reasons why not
+- plans to measure the impact of the policy, and the outcomes that will be
+  measured
+- plans to evaluate the effects of the policy, including a timetable
+- plans for using consultation

@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Enforcement through local Trading Standards",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that enforcement will build on Trading Standards' existing role enforcing redress and transparency requirements (Consumer Rights Act 2015) is offered as a rationale with some explanation of mechanism, but carries no citation or data on effectiveness."
+    },
+    {
+      "theme": "Tenant empowerment and education as a compliance tool",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The analogy to deposit protection ('Tenant empowerment and education has helped to improve compliance in other areas of the sector, for example, deposit protection') and the described county-court remedy explain the mechanism, but no data or citation shows the actual compliance improvement claimed."
+    },
+    {
+      "theme": "Strengthening enforcement infrastructure",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The detailed description of NTSEAT's powers in the Estate Agent sector is used as a comparator to justify a possible lead enforcement authority, but it is uncited (empty references/links) and no outcome data on NTSEAT's effectiveness is given."
+    },
+    {
+      "theme": "Penalties for non-compliance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The proposal to mirror the Housing and Planning Act 2016 civil penalty (\u00a330,000) or redress/transparency penalty (\u00a35,000) explains the basis for the new penalty level, but these legal benchmarks carry no reference or link, so the source cannot be checked."
+    }
+  ],
+  "reasoning": "The four core themes together describe how the fee ban will be enforced: via Trading Standards, tenant challenge, possible new infrastructure (lead authority, data sharing, wider regulation), and penalties modelled on existing law. In each case the document offers some evidential basis\u2014existing Trading Standards duties under the Consumer Rights Act 2015, the deposit-protection analogy ('Tenant empowerment and education has helped to improve compliance... for example, deposit protection'), the NTSEAT precedent in the Estate Agent sector, and the \u00a35,000/\u00a330,000 penalty benchmarks from the Housing and Planning Act 2016\u2014but none of this is properly cited (all <references> and <links> blocks are empty), so a reader cannot trace the claims to a verifiable source. Each theme therefore sits at level 1: evidence is mentioned and used to justify a choice, but not linked via citation. The strongest counter-example is the deposit-protection analogy, which explains a plausible mechanism but provides no data on how much compliance actually improved, undermining its use as decisive evidence. Mean of the four core levels (1,1,1,1) = 1, giving a section score of 1. To reach level 2, the document would need to cite the specific legislative references and attach data (e.g., compliance rates under deposit protection, NTSEAT case statistics) showing how these examples concretely support the chosen enforcement design.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

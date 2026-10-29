@@ -1,0 +1,35 @@
+{
+  "themes": [
+    {
+      "name": "Fees set by secondary legislation",
+      "ids": [
+        "S0023",
+        "S0052",
+        "S0054",
+        "S0186",
+        "S0270",
+        "S0271",
+        "S0340",
+        "S0595",
+        "S0024",
+        "S0053",
+        "S0187",
+        "S0596"
+      ]
+    },
+    {
+      "name": "Review of fees and efficiency savings",
+      "ids": [
+        "S0067",
+        "S0246",
+        "S0597",
+        "S0201",
+        "S0232",
+        "S0329",
+        "S0346",
+        "S0350",
+        "S0083"
+      ]
+    }
+  ]
+}

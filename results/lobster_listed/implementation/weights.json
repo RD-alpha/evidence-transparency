@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Choice of legislative mechanism",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope of vessels and waters covered",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enforcement costs and mechanisms",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Related regulations and scope clarification",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Implementation savings and efficiencies",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Stakeholder engagement and consultation process",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

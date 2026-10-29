@@ -1,0 +1,70 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Two alternative statutory duties, with duty to act designed as a bespoke substitute for extending wilful neglect",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The CJCA 2015 wilful neglect provisions (Reference 27) are quoted and their 'care worker'/'care provider' definitions are directly used to explain why extension was ruled out and a bespoke duty to act designed instead, but no uncertainty in this legal analysis is acknowledged."
+    },
+    {
+      "theme": "Mixed and inconclusive international evidence on mandatory reporting",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "Dozens of properly cited studies (References 40-97, 153-154) on reporting rates, substantiation and mortality are presented and the document itself repeatedly flags their limitations, e.g. 'there is no academic consensus' and 'a major weakness of the available research is that little attempt is made to measure...against the existing organisational context'."
+    },
+    {
+      "theme": "Quantifiable costs versus unmonetised benefits",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Detailed departmental modelling with disclosed methods (e.g. '10 minutes', '100% of professionals', referral-increase scenarios, References 110-157) is given for costs, while the document explicitly states benefits 'have been unable to be monetised... because there are so many variables' and flags figures as 'indicative rather than authoritative'."
+    },
+    {
+      "theme": "High profile failures and case examples motivating reform",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Named cases (Savile, Stanbridge Earls, Plymouth nursery, Operations Daybreak/Xeres) and the cited FGM duty (Reference 5) are used to motivate reform but without data showing their relation to reporting/acting failures generally."
+    },
+    {
+      "theme": "Policy objectives and expected benefits",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims such as duties would 'lead to more cases of child abuse and neglect being identified' are asserted with no supporting statistic, study or citation."
+    },
+    {
+      "theme": "Risks and unintended consequences of mandatory reporting",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Specific cited statistics (References 13-15, e.g. South Australia's 44,000 referrals and NSW vs WA substantiation rates) are directly linked to each listed risk."
+    },
+    {
+      "theme": "Risks and unintended consequences of duty to act",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Reference 155 on sanction-deterrence studies is cited but the document itself notes 'these studies were specifically in relation to acts of crime... we cannot therefore use this evidence to inform our view', showing assessed but ultimately inapplicable evidence."
+    },
+    {
+      "theme": "Existing UK and international models for reporting duty",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The Wales Act, SVGA 2006 and FGM Act (References 25-26) are quoted only to describe existing rules/definitions, not as evidence for or against the chosen intervention."
+    },
+    {
+      "theme": "Scope and definitions of covered professionals",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Professional headcounts are sourced from named surveys (References 114-129) with clear derivation, properly linking the figures to the scope of the duty, though no uncertainty in the underlying data is discussed."
+    },
+    {
+      "theme": "Impact on small and micro businesses",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "DfE/Laing Buisson survey figures on micro/small business proportions are mentioned and used to argue proportionate impact, but the key justifying claim about cover-up risk in small businesses is asserted without a traceable reference."
+    }
+  ],
+  "reasoning": "The three core themes vary in strength. The wilful-neglect theme reaches level 2: the CJCA 2015's 'care worker'/'care provider' definitions (Reference 27) are quoted and directly linked to the decision to design a bespoke duty to act rather than extend wilful neglect, but no uncertainty in this legal reasoning is acknowledged. The international mandatory-reporting evidence theme reaches level 3: dozens of properly cited studies (References 40-97, 153-154) are presented and the document itself assesses them, stating 'there is no academic consensus concerning the effects of mandatory reporting on child safety outcomes' and detailing methodological weaknesses such as poor comparability between jurisdictions. The costs-versus-benefits theme also reaches level 3: detailed departmental cost modelling with disclosed assumptions (References 110-157, e.g. the '10 minute' familiarisation estimate and 15%/3% referral-increase scenarios) sits alongside explicit acknowledgement that 'we have been unable to monetise benefits... because there are so many variables' and that volume estimates 'are not yet robust enough to include'. The mean of (2+3+3)/3 = 2.67 rounds to 3. The strongest counter-example pulling the score down is the wilful-neglect theme, whose reasoning, though evidenced by statute, lacks any acknowledged uncertainty. To reach a cleaner level 3 overall, the document would need to extend similar self-critical assessment to the legal/definitional argument for choosing the duty-to-act bespoke measure, rather than presenting it as settled.",
+  "score": 3,
+  "model_score": 3,
+  "core_mean": 2.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

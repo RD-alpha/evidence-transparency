@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Proportionate, digital-first processing of cases",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Online conviction and fixed fine for minor offences",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Flexible tribunal panel composition",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Assisted digital support to preserve access to justice",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

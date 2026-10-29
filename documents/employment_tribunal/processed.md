@@ -1,0 +1,1171 @@
+# Employment Tribunal Reform Consultation
+REFORMING THE EMPLOYMENT TRIBUNAL SYSTEM
+Taking forward the principles of wider court and tribunal reform in Employment Tribunals and the Employment Appeal Tribunal
+December 2016
+REFORMING THE EMPLOYMENT TRIBUNAL SYSTEM
+S0001 Taking forward the principles of wider court and tribunal reform in Employment Tribunals and the Employment Appeal Tribunal
+S0002 The consultation Regulatory Triage Assessment can be found on the BEIS section of GOV.UK under the Consultations menu: https://www.gov.uk/government/consultations/reforming-the-employment-tribunal-system **(Link: 1)
+S0003 REFORMING THE EMPLOYMENT TRIBUNAL SYSTEM © Crown copyright 2016 You may re-use this information (not including logos) free of charge in any format or medium, under the terms of the Open Government Licence.
+S0004 To view this licence, visit www.nationalarchives.gov.uk/doc/open-government-licence/ **(Link: 2) or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.
+S0005 **(Link: 3)
+S0006 Any enquiries regarding this publication should be sent to us at:
+S0007 ET-Reform-Consultation@beis.gov.uk **(Link: 4)
+Foreword from the Parliamentary Under Secretary of State and Minister for Small Business, Consumers and Corporate Responsibility and the Minister of State for Justice
+S0008 The Government is investing significant resources to transform the justice system to help people to navigate their way to the best resolution for them; reduce the complexity in language, process and systems; minimise the steps that people need to go through to obtain justice; and improve access to justice.
+S0009 This transformation will be underpinned by three basic reform design principles that the justice system will be:
+S0010  Just - the judiciary will continue to be independent and impartial in their decision-making.
+S0011 It will be supported by modern, transparent processes that are consistent, with no one disadvantaged when using the system and everyone bringing a case able to describe and defend it.
+S0012  Proportionate – more simple cases will be dealt with swiftly at the right levelso that the cost and speed of the process is proportionate to the type of case under consideration.
+S0013 This will save people time, cost them less, and make working through the legal system less of a burden.
+S0014  Accessible – the service is affordable, understandable and available for use by all, convenient for those who cannot easily attend in person, and supportive of those not comfortable with the law or technology.
+S0015 Tribunals were created to provide simple, proportionate means for individuals to challenge decisions of the state, public bodies and employers that affect their civil and regulatory rights.
+S0016 In this respect, Employment Tribunals have always been seen as unique.
+S0017 Foreword from the Parliamentary Under Secretary of State and Minister for Small Business, Consumers and Corporate Responsibility and the Minister of State for Justice However, while they were designed to be more accessible and informal than the courts to enable users to prepare and present their cases without legal representation, tribunals have not kept pace with changes in society or, in particular, with the way that users want and need to interact with our systems.
+S0018 The Government’s radical programme of reform to the courts and tribunal system will transform the way that tribunal users engage with the system.
+S0019 It will enable citizens to present their own cases easily and obtain justice more swiftly; reducing complexity in language, process and systems; and reducing the costs of the tribunal system to taxpayers.
+S0020 It will make better use of modern technology to create a system that is able to respond promptly, effectively and proportionately to the needs of its different users.
+S0021 The wide-ranging reform programme will apply to all courts and tribunals managed by Her Majesty’s Courts and Tribunals Service, including Employment Tribunals and the Employment Appeal Tribunal.
+S0022 As we have said, though, Employment Tribunals and the Employment Appeals Tribunal were created for a specific purpose and any reforms need to be implemented in a way that preserves the current strengths of the Employment Tribunal system.
+S0023 This includes the specialist knowledge of the judiciary and the availability of free conciliation and advice from the Advisory, Conciliation and Arbitration Service (Acas).
+S0024 We are very mindful that in progressing the reform programme we must not lose sight of other important changes.
+S0025 The Government is committed to transferring the functions of Employment Tribunals and the Employment Appeal Tribunal to Scotland in the future, as set out in the Smith Commission Agreement.
+S0026 This needs to be part of the ongoing considerations of how and when the reform package would best be implemented in the Employment Tribunals system.
+S0027 We would welcome your views on the issues to be considered when implementing the wider justice system reform principles in the Employment Tribunal system.
+S0028 Margot James, MP Parliamentary Under Secretary of State and Minister for Small Business, Consumers and Corporate Responsibility Sir Oliver Heald QC Minister of State for Justice Foreword from the Parliamentary Under Secretary of State and Minister for Small Business, Consumers and Corporate Responsibility and the Minister of State for Justice _______ 2 General information ____________________________________________________ 5 Purpose of this consultation ____________________________________________ 5 How to respond _____________________________________________________ 5 Confidentiality and data protection _______________________________________ 6 Quality assurance ___________________________________________________ 6 Executive Summary ____________________________________________________ 7 Modernising and reforming the Employment Tribunal system ____________________ 10
+S0029 The unique position of the Employment Tribunal ____________________________ 10
+S0030 Modernising the handling of Employment Tribunal claims _____________________ 11 Delegation of judicial functions to caseworkers _____________________________ 13
+S0031 Tailoring the panel to the needs of the case _______________________________ 14
+S0032 Wider considerations of a reformed system ________________________________ 15
+S0033 Proposed approach to implementing reform in Employment Tribunal System ________ 17
+S0034 Impact and Equalities Impact Assessments __________________________________ 19 Consultation Questions _______________________________________________ 20
+General information
+Purpose of this consultation
+S0035 The Government is seeking views on the issues to be considered when implementing the wider justice system reform principles in the Employment Tribunal system.
+S0036 Views from all users of the system are particularly welcome, and responses from representatives and advisors of individuals and business, the legal profession, non-legal members and the judiciary are particularly encouraged.
+S0037 Issued: 5 December 2016 Respond by: 20 January 2017 Enquiries to: Reforming the Employment Tribunal Consultation, 3 Abbey 1, 1 Victoria St, London, SW1H 0ET
+S0038 Tel: 020 7215 5000 Email: ET-Reform-Consultation@beis.gov.uk **(Link: 5) Consultation reference: Reforming the Employment Tribunal System Territorial extent: Great Britain
+How to respond
+S0039 Your response will most useful if it responds directly to the questions posed, though further comments and evidence are also welcome.
+S0040 You can reply to this consultation online at https://beisgovuk.citizenspace.com/lm/reforming- **(Link: 6) the-employment-tribunal-system **(Link: 7)
+S0041 Additional copies: You may make copies of this document without seeking permission.
+S0042 An electronic version can be found at https://www.gov.uk/government/consultations/reforming-the-employment-tribunal- **(Link: 8) system.
+S0043 **(Link: 9)
+S0044 General information
+Confidentiality and data protection
+S0045 This is a joint consultation undertaken by the Department for Business, Energy and Industrial Strategy (BEIS) and the Ministry of Justice (MoJ).
+S0046 All responses submitted will be available to relevant policy officials in both departments.
+S0047 Information provided in response to this consultation, including personal information, may be subject to publication or disclosure in accordance with the access to information legislation (primarily the Freedom of Information Act 2000, the Data Protection Act 1998 and the Environmental Information Regulations 2004).
+S0048 If you want information that you provide to be treated as confidential please say so clearly in writing when you send your response to the consultation.
+S0049 It would be helpful if you could explain to us why you regard the information you have provided as confidential.
+S0050 If we receive a request for disclosure of the information we will take full account of your explanation, but we cannot give an assurance that confidentiality can be maintained in all circumstances.
+S0051 An automatic confidentiality disclaimer generated by your IT system will not, of itself, be regarded by us as a confidentiality request.
+S0052 We will summarise all responses and place this summary on the GOV.UK website.
+S0053 **(Link: 10)
+S0054 This summary will include a list of names or organisations that responded but not people’s personal names, addresses or other contact details.
+S0055 Quality assurance This consultation has been carried out in accordance with the Government’s Consultation **(Link: 11) Principles.
+S0056 **(Link: 12)
+S0057 If you have any complaints about the consultation process (as opposed to comments about the issues which are the subject of the consultation) please address them to:
+S0058 Email: enquiries@beis.gov.uk **(Link: 13)
+Executive Summary
+The Government is taking forward a major programme of reform to the justice system to transform the way that courts and tribunals provide justice, including Employment Tribunals and the Employment Appeal Tribunal.
+S0059 1.
+S0060 On 15 September, the Lord Chancellor, the Lord Chief Justice and the Senior President of Tribunals published a joint statement setting out their intentions on transforming the justice system, outlining significant reforms to the courts and tribunal system to make it Just, Proportionate and Accessible. ** (Reference: 1)
+S0061 2.
+S0062 The aims of the wider justice reform programme are:
+S0063  to support citizens to present their own cases simply and to obtain justice more swiftly;  to reduce complexity in language, process and systems; and  to reduce the costs of the tribunal system to taxpayers.
+S0064 3.
+S0065 The reforms will be rolled out across all courts and tribunals managed by Her Majesty’s Courts and Tribunals Service (HMCTS) tailored to the nature of the individual tribunals.
+S0066 This includes Employment Tribunals and the Employment Appeal Tribunal.
+S0067 4.
+S0068 Tribunals have changed over the years but the system can still be complicated and inefficient with a heavy reliance on paper documents.
+S0069 Ageing IT systems and complex and bureaucratic processes are barriers to parties preparing and presenting their own cases.
+S0070 Tribunals need reform to support parties to present their own cases simply and to obtain justice more swiftly; to reduce complexity in language, process and systems; and to reduce the costs of the tribunal system to taxpayers.
+S0071 Changes include:
+S0072  digitising the whole claims process, so that claims are able to be made and subsequently processed online, enabling electronic communication between the individuals and the tribunal, simplifying the process, speeding up the resolution of disputes and allowing users to engage with the tribunal at times and locations convenient to them;
+S0073  delegating a broad range of routine tasks from judges to caseworkers - this is about allowing procedural decisions that do not determine the outcome of the case to be made at a proportionate level so that judges can focus on those matters where their legal expertise and knowledge is needed thereby speeding up the resolution of cases;
+S0074 Executive Summary  tailoring the composition of tribunal panels to the needs of the case - this is about ensuring that panel members without legal expertise are asked to sit on panels according to their expertise and the needs of the case.
+S0075 The aim is that this expertise will be available across a wider range of cases, so that claimants can be confident that the decisions will be fair and informed.
+S0076 It will also speed up the resolution of disputes allowing individuals to have swifter closure; and  removing any unnecessary restrictions on how a particular type of case must be determined – this is about ensuring that simple cases can be resolved by simple methods.
+S0077 It will be based on the specific needs of the dispute and the individual user, speeding up the resolution of disputes and allowing users to engage with the tribunal at times and locations most convenient to them.
+S0078 5.
+S0079 The reforms will be implemented in a way that preserves the current strengths of each of the tribunals.
+S0080 For example, in Employment Tribunals and the Employment Appeal Tribunal this would include the specialist knowledge of the judiciary and the availability of free conciliation and advice from the Advisory, Conciliation and Arbitration Service (Acas).
+S0081 The aim is that users who want to engage with the system on a digital basis will be able to do so.
+S0082 6.
+S0083 For most tribunals, the planned reforms can largely be delivered by secondary legislation within the existing powers contained in the Tribunals, Courts and Enforcement Act 2007.
+S0084 We will need to make some changes to the Employment Tribunals Act 1996 to implement the changes to Employment Tribunals and the Employment Appeal Tribunal.
+S0085 7.
+S0086 This means that Employment Tribunals and the Employment Appeal Tribunal are likely to be amongst the last major tribunals to be fully reformed.
+S0087 They will, therefore, benefit from improvements identified during the implementation of reforms in other tribunals.
+S0088 8.
+S0089 Procedural matters in all tribunals except for Employment Tribunals and the Employment Appeal Tribunal, and the civil and criminal courts, are the responsibility of statutory independent rule committees and/or the senior judiciary.
+S0090 We want to bring all the tribunals in line and therefore we will transfer the responsibility for procedural rules in Employment Tribunals and the Employment Appeal Tribunal to the independent Tribunal Procedure Committee.
+S0091 The Senior President of Tribunals will be responsible for determining panel composition.
+S0092 The Department for Business, Energy and Industrial Strategy will retain responsibility for employment law policy.
+S0093 The Ministry of Justice will be responsible for procedural policy in Employment Tribunals and the Employment Appeal Tribunal.
+S0094 This will ensure that the department responsible for funding and the operation of the system is responsible for business delivery.
+S0095 9. Where the Ministry of Justice carries out functions required by legislation owned by another department, it consults with that department before making changes.
+S0096 The Ministry of Justice will therefore consult the Department for Business, Energy and Industrial Strategy as the department responsible for employment law policy before making any changes to the rules in Employment Tribunals.
+S0097 10.
+S0098 This is a joint consultation by the Department for Business, Energy and Industrial Strategy and the Ministry of Justice.
+S0099 It sets out where specific changes to primary legislation are needed to make sure that the planned reforms can be successfully and appropriately Executive Summary implemented in Employment Tribunals and the Employment Appeal Tribunal and seeks views on what factors should be considered when making changes and implementing them.
+Modernising and reforming the Employment Tribunal system
+The Government intends to modernise and reform the Employment Tribunal system and the Employment Appeal Tribunal to provide proportionate and effective routes for resolving disputes through a streamlined and simplified process while ensuring access to expertise.
+The unique position of the Employment Tribunal
+S0100 11.
+S0101 Since their introduction in the mid-1960s Employment Tribunals and the Employment Appeal Tribunal, or industrial tribunals as they were then known, have changed dramatically.
+S0102 From a single jurisdiction decision-making body, Employment Tribunals and the Employment Appeal Tribunal now have jurisdiction to determine over 70 different types of claim.
+S0103 Their unique position as a separate pillar or entity within the wider tribunal system was originally put in place to reflect the fact they were designed to resolve disputes between individuals rather than between an individual and the state.
+S0104 In common with other tribunals, they have been designed to be more informal and accessible than the civil courts, allowing individuals who do not have legal representation to present their cases effectively.
+S0105 12.
+S0106 Uniquely amongst the tribunals managed by HM Courts and Tribunals Service, the Secretary of State for Business, Energy and Industrial Strategy has remained responsible for policy and legislation on procedural matters in Employment Tribunals.
+S0107 Over time, this has led to the development of differences in the way that these tribunals operate compared to other tribunals and the wider justice system.
+S0108 13.
+S0109 There has been change in Employment Tribunals designed to help individuals, such as the simplification of the Employment Tribunal rules in 2013.
+S0110 However, overall Employment Tribunals and the Employment Appeals Tribunal have not kept pace with the drive towards simpler justice seen in other tribunals.
+S0111 We do want to change this and it can be done in a way that recognises the differences between Employment Tribunals and the Employment Appeal Tribunal and the rest of the tribunal system.
+S0112 14.
+S0113 We also want to make sure that legal expertise in Employment Tribunals and the Employment Appeal Tribunal can be focused on those issues that require it.
+S0114 This means that administrative decisions will be given to those staff best placed to make them and if a case decision can be made online we should support this where appropriate.
+S0115 15.
+S0116 But many of these reforms cannot be delivered under the current primary powers.
+S0117 So we need to make some changes to the legislative framework as set out in the Employment Tribunals Act 1996.
+S0118 16.
+S0119 The Government recognises that the judiciary and non-legal members in Employment Tribunals and the Employment Appeal Tribunal bring particular specialist expertise and knowledge to their work which allows them to deal with the enormous breadth and complexity of claims heard.
+S0120 We are clear that any changes to current arrangements would need to be implemented in such a way as to ensure that appropriate expertise continues to be available whenever it is required for a case.
+S0121 17.
+S0122 The Government, therefore, seeks views on which factors unique to Employment Tribunals and the Employment Appeal Tribunal should be considered when amending this legislation to make sure that it does not lose its current strengths.
+Modernising the handling of Employment Tribunal claims
+S0123 18. Employment Tribunals and the Employment Appeal Tribunal are well developed in terms of digitally enabled services in comparison with the other tribunals, and already make extensive use of online applications.
+S0124 Around 90% of Employment Tribunal claims are lodged online, and applications for help with fees (formerly known as the remissions scheme) can also be made online.
+S0125 This contrasts with the rest of the tribunals where, generally speaking, claims continue to have to be submitted on paper.
+S0126 However, even in Employment Tribunals and the Employment Appeal Tribunal, once the claim is received it must still be printed off and thereafter processed in the same way as if it had been submitted on paper.
+S0127 This is a considerable waste of resources.
+S0128 Managing a claim electronically would be quicker and more efficient, providing a better service to users of the system, and better value for both users and the Government.
+S0129 19.
+S0130 The reform programme specifically aims to increase the digitisation of process as a means of making the system more accessible, simple and cost-effective.
+S0131 This is about sharing essential information faster and safely leading to swifter resolution facilitated through a common digital portal.
+S0132 The processes for Employment Tribunals and the Employment Appeal Tribunal will need to be incorporated into the new system.
+S0133 20.
+S0134 For Employment Tribunals the reform programme would not change the availability of the early conciliation process that occurs before a claim can come to tribunal.
+S0135 Where processes in a case can be automated, this will happen.
+S0136 We will ensure that cases are resolved in the way that is most appropriate and facilitating online correspondence between the individuals involved and the tribunal will reduce processing times and cost for all parties, streamline Her Majesty’s Court and Tribunal Service administration and potentially significantly speed up the resolution of employment disputes.
+S0137 21.
+S0138 An enhanced digital service offers wider opportunities.
+S0139 Some cases might be suitable for online decisions.
+S0140 There has been significant comment on this issue as raised by Lord Justice Briggs in his review into the civil courts, and concerns about whether that would be appropriate in the context of the type of claims currently heard in Employment Tribunals and the Employment Appeal Tribunal. ** (Reference: 2)
+S0141 For example, some legal representative groups said in their response to the interim Briggs report that whilst some simple wage claims might be suitable for alternative approaches, complex claims such as discrimination would be wholly unsuitable for online determinations. ** (Reference: 3)
+S0142 The Government agrees with this view.
+S0143 22.
+S0144 The Government is, therefore, keen to ensure that the operation of Employment Tribunals and the Employment Appeal Tribunal is sufficiently flexible to allow this where it is proportionate and appropriate.
+S0145 The Government is interested in stakeholder views on the factors that might make particular cases heard in Employment Tribunals and the Employment Appeal Tribunal suitable to be dealt with through a digital medium.
+S0146 23.
+S0147 Moving to a more digitally enabled system will pose challenges for some potential users of the system who cannot access or will have difficulty in accessing it without appropriate support.
+S0148 The Government acknowledges that this is an important consideration across the justice system and that appropriate targeted support will be required to ensure that those with limited or no digital capability are not disadvantaged.
+S0149 24.
+S0150 We have already sought the views of users on potential solutions to this issue as part of the Transforming our justice system consultation published on 15 September. This document sets out that in order to make sure that services can be used by everyone, the Government expects to include the following as part of its approach:  Face-to-face assistance – for example, aiding completion of an online form. ** (Reference: 4)
+S0151 This type of service may be supplied by a third party organisations in some cases; 
+S0152 A telephone help service offering similar advice, which we would expect to be staffed by Her Majesty’s Court and Tribunal System;
+S0153  Web chat to guide people through online processes; and  Access to paper channels for those who require it.
+S0154 25.
+S0155 We expect to publish the response to that consultation in the next few months and the Government is also interested to understand if there might be any specific factors that might need to be considered in the context of Employment Tribunals and the Employment Appeal Tribunal.
+S0156 Question 1: Do you agree that with the right system in place the specific needs of users of Employment Tribunals and the Employment Appeal Tribunal can be accommodated in a more digitally based system?
+S0157 Question 2: What issues do you think need to be considered when deciding whether a claim would be suitable for online consideration?
+S0158 Please give reasons.
+Delegation of judicial functions to caseworkers
+S0159 26.
+S0160 The proportionate resolution of disputes is one of the key principles of justice transformation.
+S0161 In line with this, the appropriate delegation of judicial functions to suitably legally qualified or trained Her Majesty’s Court and Tribunal Service staff, under judicial supervision, is being applied across the civil and family courts and tribunals systems.
+S0162 The concept of delegation in the unified tribunals system and civil courts is not new - both the Tribunal, Courts and Enforcement Act 2007 and Civil Procedure Act 1997 have specific provision for procedural rules to permit functions to be delegated to Her Majesty’s Court and Tribunal Service staff. ** (Reference: 5)
+S0163 27.
+S0164 For the unified tribunals, a new role of ‘Tribunal Case Workers’ has been created.
+S0165 The role of the Tribunal Case Workers and the type of work they are authorised to undertake is agreed with the senor tribunal judiciary and the Senior President of Tribunals.
+S0166 The types of work currently undertaken by Tribunal Case Workers in other tribunals are mainly procedural and include activities such the consideration of the timeliness of appeals and applications, permitting a party to amend a document, and staying (or sisting in Scotland) proceedings.
+S0167 28.
+S0168 These are just examples and far from the full range of delegated duties being undertaken across different tribunal jurisdictions.
+S0169 The extent to which some or all of these types of work are delegated differs from tribunal to tribunal depending upon the nature of the jurisdiction.
+S0170 All delegations are wholly dependent on the agreement of the relevant judiciary and are not simply a matter for Her Majesty’s Court and Tribunal Service.
+S0171 An important safeguard is that a party unhappy with a decision taken under a delegated provision may apply to the tribunal in writing for the decision to be considered afresh by a judge.
+S0172 29.
+S0173 This system works effectively and with appropriate safeguards throughout the tribunal system.
+S0174 It is the Government’s view that case management functions should be delegated to relevant staff in Employment Tribunals and the Employment Appeal Tribunal accompanied by the same important safeguards.
+S0175 This will mean that delegations will be wholly dependent on the agreement of the judiciary.
+S0176 30.
+S0177 We will need to make legislative changes to facilitate the proposed reforms.
+S0178 We need to ensure that the underpinning legislation is flexible enough to allow whichever model of delegation is considered appropriate by the judiciary.
+S0179 It is the Government’s intention to ensure that the primary powers are sufficiently flexible to provide for wider delegation in Employment Tribunals and the Employment Appeal Tribunal.
+S0180 Details of the activities to be delegated under the amended powers will be entirely a matter for senior tribunal judiciary on the basis of the specific needs and features of the Employment Tribunal system, but we would certainly expect any delegation to fall short of the substantive consideration and determination of an individual’s employment rights.
+S0181 Question 3: What factors do you think should be taken into consideration when creating the scope to delegate judicial functions in Employment Tribunals and the Employment Appeal Tribunal?
+S0182 Please give reasons.
+S0183 Question 4: Are there any specialist skills that a caseworker dealing with Employment Tribunals and the Employment Appeal Tribunal would need, distinct and different from those required for carrying our casework in other tribunals?
+S0184 Please give details.
+Tailoring the panel to the needs of the case
+S0185 31.
+S0186 In all areas of the justice system, the Government is reviewing whether the current approach to panel composition is proportionate and effective.
+S0187 In the unified system, decisions about panel composition (whether the judge sits alone or with non-legal members are wholly a matter for the Senior President of Tribunals under the terms of the First-tier Tribunal and Upper Tribunal (Composition of Tribunal) Order 2008 (the Composition Order).
+S0188 32.
+S0189 The Government believes that an approach where non-legal members are called upon as a matter of course without considering the needs of the case is no longer appropriate or sustainable.
+S0190 We believe that the right approach is one where non-legal members are deployed where circumstances require it, and their expertise is relevant to the outcome of the case and this includes through online means if that is most appropriate.
+S0191 33.
+S0192 The Government is currently consulting as part of the Transforming our justice system consultation on putting in place changes to allow the Senior President of Tribunals to determine panel composition purely on the needs of the modern reformed tribunal system and its users, rather than basing decisions on the historic needs of those tribunals.
+S0193 34.
+S0194 Section 2(3) of the Tribunal, Courts and Enforcement Act 2007 states that the Senior President of Tribunals must consider the need for tribunals to be accessible, fair, and handled quickly and efficiently, for tribunal members to be experts in the law or subject matter of the tribunal, and to develop innovative methods for resolving disputes.
+S0195 This important safeguard will make sure that appropriate expertise from non-legal members will continue to be provided where it is necessary.
+S0196 35.
+S0197 In Employment Tribunals, section 4(1) of the Employment Tribunals Act 1996 provides that a panel will generally consist of a judge and two non-legal members.
+S0198 However, section 4(3) of the Employment Tribunals Act 1996 sets out where a judge sitting alone may currently hear and determine a case (including breach of contract, holiday and redundancy pay, and since 2012, unfair dismissal).
+S0199 In each of these areas the Employment Tribunal judge retains the discretion to convene a panel with additional members if he or she considers that the circumstances of the particular case merit this. 36. ** (Reference: 6)
+S0200 Section 4(4) of the Employment Tribunals Act 1996 provides for the Secretary of State for Business, Energy and Industrial Strategy and the Lord Chancellor, acting jointly, to amend the list of cases that may currently be heard in Employment Tribunals by a single judge.
+S0201 This is therefore a ministerial decision which contrasts with the practice in the rest of the justice system, where decisions on judicial allocation and deployment are judicial functions.
+S0202 37.
+S0203 The Government proposes, therefore, to bring the practice in Employment Tribunals and the Employment Appeal Tribunal in line with the practice elsewhere in the justice system, specifically the unified tribunals system (incorporating any reforms following the Transforming our justice system consultation), and provide for decisions on panel composition to be a judicial function that can be exercised by the Senior President of Tribunals.
+S0204 This will make sure that these decisions are taken by those who are best placed to understand the needs of the users and the operation of the system and that the same safeguards will apply.
+S0205 It will allow the better and more proportionate use of the expertise of non-legal members in industry specific or discrimination issues for example.
+S0206 Question 5: Are there specific issues relating to Employment Tribunals and the Employment Appeal Tribunal that need to be taken into consideration in relation to making changes to the law regarding panel composition?
+S0207 Please give details.
+Wider considerations of a reformed system
+S0208 38.
+S0209 The Ministry of Justice is currently reviewing the impact of the introduction of Employment Tribunal fees.
+S0210 The review is considering the impact of the introduction of fees in Employment Tribunals against the original objectives, which were:
+S0211  To transfer a proportion of the cost of the tribunals to those who use them where they can afford to do so;
+S0212  To encourage people to use alternative dispute resolution services, such as Acas’s conciliation service; and  To protect access to justice.
+S0213 39.
+S0214 We will publish the conclusions of the review in due course and any adjustments to the current fee structure will be brought for consultation.
+S0215 40.
+S0216 An important factor for consideration in relation to decisions about reforming the Employment Tribunal system, is the UK Government’s commitment to transfer the functions of reserved tribunals to Scotland as part of the implementation of the Smith Commission Agreement.
+S0217 This will take effect through the process set down in section 39 of the Scotland Act 2016.
+S0218 Following the transfer of responsibility for managing reserved tribunals in Scotland, the Scottish Government will be responsible for deciding how those tribunals are managed in future.
+S0219 The precise timing of that transfer has not yet been agreed by the UK Government and the Scottish Government.
+S0220 41.
+S0221 While the UK Government will continue to be responsible for managing the operations of Employment Tribunals and the Employment Appeal Tribunal until they are transferred to Scotland, we recognise that any reform of those tribunals could have implications for that transfer.
+S0222 The UK Government and the Scottish Government have been working closely on plans to implement the Smith Agreement and will continue to do so in light of decisions made following this consultation.
+Proposed approach to implementing reform in Employment Tribunal System
+An important prerequisite to the successful implementation of the planned reforms in Employment Tribunals and the Employment Appeal Tribunal is that the underpinning legislation needs to be flexible enough to support their application in a way that is appropriate to Employment Tribunals and Employment Appeal Tribunal user needs.
+S0223 42.
+S0224 The Government considers that the restrictive nature of the provisions in the Employment Tribunals Act 1996 is a barrier to the application of transformational reform in Employment Tribunals and the Employment Appeal Tribunal.
+S0225 43.
+S0226 There has been some public discussion about the future of Employment Tribunals and the Employment Appeal Tribunal in the justice system by, for example, the Law Society and Employment Lawyers Association, as well as by Lord Justice Briggs in his review of the Civil Court Structure published on 27 July.
+S0227 Whilst the Government has decided that action is needed to bring the processes in Employment Tribunals and the Employment Appeal Tribunal in line with the rest of the justice system, it does not consider that radical structural change is necessary to achieve this.
+S0228 However, the powers to make provisions setting out procedures and processes contained in the Employment Tribunals Act 1996 should be updated and brought into line with those applicable to the wider tribunals system.
+S0229 It will keep the separate nature of Employment Tribunals and the Employment Appeal Tribunal under review and consider if more substantive benefits could flow from further change 44.
+S0230 Under this approach, Employment Tribunals and the Employment Appeal Tribunal would continue to retain separate rules from the unified system but the power to make rules would be transferred to the independent Tribunal Procedure Committee (rather than a Minister in the Department for Business, Energy and Industrial Strategy or the Lord Chancellor as is currently the case).
+S0231 When making procedural rules, the Tribunal Procedure Committee is required to appropriately address the specific user requirements of the individual tribunal and has the power to bring in external expertise to support the development of rules where necessary.
+S0232 The Government proposes to revise the membership of the Tribunal Procedure Committee to reflect its wider remit.
+S0233 Appropriate representatives from the employment sector such as an employment judge and a suitably experienced practitioner should be appointed to the committee for this purpose.
+S0234 This will enable the rules to be kept under review and provide a statutory underpinning to the sector’s participation in the process.
+S0235 Question 6: What criteria should be used to determine the appointment of the new employment practitioner member of the Tribunal Procedure Committee?
+S0236 Please give reasons.
+S0237 Proposed approach to implementing reform in Employment Tribunal System 45.
+S0238 The Tribunal Procedure Committee is also specifically required, under paragraph 28(1) of Schedule 5 to the Tribunal, Courts and Enforcement Act 2007, to undertake appropriate consultation before making tribunal rules. ** (Reference: 7)
+S0239 This requirement would also apply to the making of separate rules for Employment Tribunals and the Employment Appeal Tribunal.
+S0240 Any rule changes affecting the Employment Tribunal system would, of course, be made in consultation with the Department for Business, Energy and Industrial Strategy as the department responsible for employment law policy.
+S0241 These requirements, together with the proposed changes to the membership of the Tribunal Procedure Committee, would ensure that stakeholders and users of Employment Tribunals and the Employment Appeal Tribunal would continue to have appropriate involvement in the process.
+S0242 46.
+S0243 Similarly, responsibility for determining the composition of tribunal panels in Employment Tribunals and the Employment Appeal Tribunal would be brought in line with the approach taken in the unified tribunals system and would be delegated from the Lord Chancellor to the Senior President of Tribunals.
+S0244 As already noted, the Senior President of Tribunals is subject to certain requirements when exercising statutory functions which would ensure that necessary expertise would be provided where necessary in Employment Tribunals and Employment Appeal Tribunal cases.
+S0245 47.
+S0246 Maintaining the current structural arrangements for Employment Tribunals and the Employment Appeal Tribunal will ensure that the familiar, understood and trusted brand would remain, but the transfer of responsibility for procedural matters would also make sure that a common approach could be taken, where appropriate, across the tribunals system.
+S0247 Moreover, stakeholders themselves would have a greater and more direct involvement in the development of rules for Employment Tribunals and the Employment Appeal Tribunal through the expanded membership of the Tribunal Procedure Committee allowing them to make sure that issues were promptly and appropriately addressed.
+S0248 Question 7: Do you agree that the proposed legislative changes will provide sufficient flexibility to make sure that the specific features of Employment Tribunals and the Employment Appeal Tribunal can be appropriately recognised in the reformed justice system?
+S0249 Please give reasons.
+S0250 Impact and Equalities Impact Assessments
+Impact and Equalities Impact Assessments
+S0251 48.
+S0252 To accompany this document we have published Impact and Equalities Impact Assessments.
+S0253 Question 8: Do you anticipate the impacts of the proposed reform to be disproportionately large for small or micro sized businesses?
+S0254 Please explain your answer supported by evidence Question 9: Do you agree that we have correctly identified the range of equalities impacts, as set out in the accompanying Equalities Impact Assessment, resulting from these proposals?
+S0255 Please give reasons.
+S0256 The attached Impact Assessment contains the Government’s preliminary analysis setting out in detail the costs and benefits of the proposals.
+S0257 Further detailed consideration of impacts will feature in relevant impact assessments when the reform design principles are applied to Employment Tribunals and the Employment Appeal Tribunal.
+S0258 If you can provide any information and/or data that would inform the evidence base and assist with monetisation in future, please send it alongside your response to this consultation.
+S0259 Impact and Equalities Impact Assessments
+Consultation Questions
+S0260 1.
+S0261 Do you agree that with the right system in place the specific needs of users of Employment Tribunals and the Employment Appeal Tribunal can be accommodated in a more digitally based system?
+S0262 Consultation Question 2.
+S0263 What issues do you think need to be considered when deciding whether a claim would be suitable for online consideration?
+S0264 Please give reasons.
+S0265 3.
+S0266 What factors do you think should be taken into consideration when creating the scope allow increased flexibility to delegate judicial functions to caseworkers in Employment Tribunals and the Employment Appeal Tribunal?
+S0267 Please give reasons.
+S0268 4. Are there any specialist skills that a caseworker dealing with Employment Tribunals and the Employment Appeal Tribunal would need, distinct and different from those required for carrying our casework in other tribunals?
+S0269 Please give reasons.
+S0270 5. Are there any specific issues relating to Employment Tribunals and the Employment Appeal Tribunal that need to be taken into consideration in relation to making changes to the law regarding panel composition?
+S0271 Please give reasons.
+S0272 6.
+S0273 What criteria should be used to determine the appointment of the new employment practitioner member of the Tribunal Procedure Committee?
+S0274 Please give reasons.
+S0275 7.
+S0276 Do you agree that the proposed legislative changes will provide sufficient flexibility to make sure that the specific features of Employment Tribunals and the Employment Appeal Tribunal can be appropriately recognised in the reformed justice system?
+S0277 Please give reasons.
+S0278 8 Do you anticipate the impacts of the proposed reform to be disproportionately large for small or micro sized businesses?
+S0279 Please explain your answer, referring to evidence as Impact and Equalities Impact Assessments necessary.
+S0280 9 Do you agree that we have correctly identified the range of equalities impacts, as set out in the accompanying Equalities Impact Assessment, resulting from these proposals?
+S0281 Please give reasons.
+S0282 The Impact Assessment contains the Government’s preliminary analysis setting out in detail the costs and benefits of the proposals.
+S0283 Further detailed consideration of impacts will feature in relevant impact assessments when the reform design principles are applied to Employment Tribunals and the Employment Appeal Tribunal.
+S0284 If you can provide any information and/or data that would inform the evidence base and assist with monetisation in future please send it alongside your response to this consultation.
+S0285 © Crown copyright 2016 Department for Business, Energy & Industrial Strategy www.gov.uk/beis **(Link: 14)
+# Employment Tribunal Reform Impact Assessment
+Impact Assessment (IA)
+S0286 £98.32m £9.57m -£1.1m
+S0287 In scope Qualifying provision What is the problem under consideration?
+S0288 Why is Government intervention necessary?
+S0289 The Government is taking forward a radical programme of reform to tribunals.
+S0290 It aims to support citizens to present their own cases simply and to obtain justice more swiftly; to reduce complexity in language, process and systems; to reduce the costs of the tribunal system to taxpayers.
+S0291 For most tribunals this can be delivered within existing powers in the Tribunals, Courts and Enforcement Act (TCEA) 2007 but Employment Tribunals (ETs) and the Employment Appeal Tribunal (EAT) operate under a different legislative framework.
+S0292 The current restrictions in the primary legislation mean that wider changes will be needed to make sure that ETs and the EAT can be brought into line with the plans for the wider reformed justice system, and make sure that the legislation governing procedural matters in ETs and the EAT is sufficiently flexible to deliver any future reform needs.
+S0293 What are the policy objectives and the intended effects?
+S0294 Building on the use of modern technology systems, processes will be fundamentally changed to create a tribunal system that is able to respond promptly, effectively and proportionately to the needs of its different users.
+S0295 The overarching principles are that decisions made by our judges and the outcomes of cases must be regarded as just by all parties while the justice system must be efficient, in order to save people time, costs, and reduce the impact of legal proceedings on their lives with simple, procedures that are intelligible to non-lawyers.
+S0296 It has three basic building blocks: Simplification – simplified language, procedures and tribunals structures, and removing unnecessary differences between practice across the justice system; Innovation –new methods of handling disputes, including new pathways for dispute resolution, more active judicial case management and online legal help; and, Technology – to wholly digitise the process and facilitate alternative resolution routes, including virtual hearings and online dispute resolution.
+S0297 What policy options have been considered, including any alternatives to regulation?
+S0298 Please justify preferred option (further details in Evidence Base)
+S0299 The Government has considered two options: Option 0: No reform of ETs and the EAT.
+S0300 Option 1: Reform of the Employment Tribunal Act (ETA) 1996 to increase procedural flexibility and responsibility for procedural matters will be brought in line with that for other tribunals.
+S0301 The Government has concluded that Option 0 would not deliver the improvements in user experience and system efficiency required.
+S0302 Option 1 will provide the necessary level of structural change needed to deliver the fundamental reforms and is the Government’s preferred Option.
+S0303 In Option 1 the primary legislation would facilitate the reform of ET and EAT processes using Statutory Instruments.
+S0304 Date: Signed by the responsible Ministers: 25/10/2016
+Summary: Analysis & Evidence Legislative Option 1 (and subsequent reform)
+S0305 Description and scale of key monetised costs by ‘main affected groups’ We have monetised costs related to the Employment Tribunals (ETs) for ET users and for the Government.
+S0306 The familiarisation costs to employers and individuals are currently considered to be negligible given the constantly changing pool of users participating in ETs.
+S0307 There will be a cost to legal professionals to familiarise themselves with the new ET processes of £0.5m.
+S0308 Total transition costs to Government are estimated to be £24.3m. Total ongoing costs to Government are estimated to be approximately £3m from 2022/23, comprising information and communications technology (ICT) costs, call centre and other assisted digital costs, contact centre costs and caseworker costs.
+S0309 Other key non-monetised costs by ‘main affected groups’ Costs related to the Employment Appeal Tribunal (EAT) have not been monetised.
+S0310 However, we anticipate these to be around 5% of those for ETs, given the volume of appeals heard in the EAT.
+S0311 Description and scale of key monetised benefits by ‘main affected groups’ We have monetised benefits related to the Employment Tribunals (ETs) for ET users and for the Government.
+S0312 Benefits to users are anticipated to come via two main channels: savings in the costs and time travelling to and from hearings due to greater use of virtual hearings and online case management; and through the use of automation and digital technology in the court process, therefore removing paper, which will create smoother and more efficient hearings.
+S0313 In sum, these are estimated to be approximately £0.4m for claimants and £1.7m for employers, once the reforms are fully in place.
+S0314 Government benefits are anticipated through estate savings (£6m per year from 2021/22), judicial savings (£10m), admin (£3m) as well as other channels (£0.1m).
+S0315 Total ongoing monetised benefits to Government are estimated to be around £18m per year from 2021/22.
+S0316 Other key non-monetised benefits by ‘main affected groups’ Benefits related to the EAT have not been monetised.
+S0317 However, we anticipate these to be around 5% of those for ETs, given the volume of appeals heard in the EAT.
+S0318 The primary legislative change of creating enabling powers is not currently anticipated to have direct cost or benefit implications for the Government or users of the ET and EAT.
+S0319 All costs and benefits presented in this assessment are those of anticipated subsequent reforms (which would be delivered via secondary legislation) that are enabled by the powers given in the primary legislation.
+S0320 Analysis is based on our current understanding of what the future changes would be, as informed by the fundamental principles of reform stated as policy objectives above.
+S0321 All estimates are based on the assumptions that there will be no significant changes in claim numbers or in the fee structure.
+S0322 The estimates for numbers of cases to be heard online are based on a 2014/15 case mix – there is a risk that the case mix could change.
+S0323 We assume that there will be a reduction in time spent at hearings of all types due to efficiencies of using digital technology.
+S0324 The consultation will be used to gather further evidence to develop and refine key assumptions.
+Evidence Base (for summary sheets)
+A. Problem under consideration
+S0325 1. Tribunals were created to provide simple, proportionate routes of redress for individuals to challenge decisions of the state, public bodies and employers that affect their civil and regulatory rights.
+S0326 Tribunals were designed to be more accessible and informal than the courts to enable users to prepare and present their cases without legal representation.
+S0327 They are an integral part of the delivery mechanisms for decision making departments and their effectiveness in dealing with disputes speedily and proportionately will play a critical part in supporting the delivery of the Government’s wide ranging reforms to tax avoidance, the immigration system and welfare.
+S0328 However, tribunals have not kept pace with changes in society or, in particular, with the way that users want and need to interact with our systems.
+S0329 2. Tribunals need reform to support citizens to present their own cases simply and to obtain justice more swiftly; to reduce complexity in language, process and systems; and to reduce the costs of the tribunal system to taxpayers.
+S0330 In general, tribunal buildings around the country are out-dated and underused.
+S0331 Overwhelmed by paper and routine administration, the internal workings of the tribunal system are increasingly out of place in the internet age with aged information and communications technology (ICT) and complex and bureaucratic processes that place a heavy burden on citizens preparing and presenting their own cases.
+S0332 There is considerable scope for achieving greater proportionality in the way that all tribunal cases, including those issued in Employment Tribunals (ETs) and the Employment Appeal Tribunal (EAT) are resolved, which will reduce those burdens through simplifying and streamlining our processes, using judicial time more effectively, and reducing the reliance on paper processes and physical hearings, particularly for more straightforward cases. ** (Reference: 8)
+S0333 3. Uniquely, following the transfer of the ETs and the EAT to the Tribunal Service (now Her Majesty’s Courts and Tribunal Service) in 2006, the Department for Trade and Industry (now Business Energy and Industrial Strategy (BEIS))has retained responsibility for the rules and governance of ETs as well as the overarching policy framework for ETs and the EAT.
+S0334 Responsibility for making changes to the regulations which determine procedural matters within ETs continues to rest with BEIS ministers who make changes to regulations to address specific policy issues, including those that may be raised in consultation with stakeholders.
+S0335 4. ETs are the only area of tribunal business where control over procedure rests with a Government minister in another department.
+S0336 This contrasts with all other matters heard in the justice system where procedural rules are the responsibility of independent judicial- led committees.
+B. Rationale for intervention
+S0337 5.
+S0338 The conventional economic rationale for Government intervention is based on efficiency or equity arguments.
+S0339 Government intervenes if there is a perceived failure in the way a market operates (“market failures”) or if it would like to correct existing institutional distortions (“government failures”).
+S0340 Government also intervenes for equity (“fairness”) reasons.
+S0341 6.
+S0342 The Government would like to correct existing institutional inefficiencies which are leading to inefficiency within ETs and the EAT.
+S0343 Antiquated processes are costly for both the Government and users of ETs and the EAT, including businesses.
+S0344 7. Working with the senior judiciary, the Government has concluded that continuing gradual iterative reform of the justice system based on individual jurisdictions will not be sufficient to deliver the level of change needed, either in terms of delivering the system-wide improvements needed by users or the reduced costs needed to make sure that the system delivers justice in a proportionate and sustainable way.
+S0345 Instead it is seeking to take forward a radical and ambitious programme of transformational reform that applies common design features and principles across the whole of the justice system.
+S0346 8.
+S0347 It will be possible to implement the planned reforms across most tribunals through existing powers under the Tribunal, Courts and Enforcements Act (TCEA) 2007 in consultation with the Tribunal Procedure (Rules) Committee (TPC).
+S0348 However, the current powers governing procedural matters in ETs and the EAT are contained in the Employment Tribunals Act (ETA) 1996 and would limit the Government’s ability to reform ETs and the EAT along the lines of the rest of the tribunal system, for example, in respect of the increased delegation of work from judges to caseworkers, the proportionate resolution of disputes and the flexibility to make ICT changes to forms and systems quickly.
+S0349 In addition, responsibility for making procedural rules, delegating judicial functions and changing tribunal panel composition (“procedural matters”) in ETs and the EAT currently rests with the Secretary of State for BEIS under the terms of the ETA 1996.
+S0350 Reliance on another department to deliver necessary changes would limit the ability of the Lord Chancellor as the Minister responsible for the administration of ETs from being able to guarantee the delivery of changes in a way and at a time they are needed.
+S0351 Wider changes will, therefore, be needed to make sure that ETs and the EAT can be brought in line with the plans for the wider reformed justice system and make sure that the legislation governing procedural matters in ETs and the EAT is sufficiently flexible to meet future reform needs.
+C. Policy objective
+S0352 9.
+S0353 Rather than simply creating an improved version of the current system, the tribunal reforms, generally, are aimed at fundamentally changing systems and processes.
+S0354 The transformed tribunal system will be built around the use of modern technologies to make sure that we have a court and tribunal system that is able to respond as promptly, effectively and proportionately to the needs of its different users.
+S0355 It will be a court and tribunal system that proactively helps people to navigate their way to the best resolution for them; uses the simplest language, process and systems; has the minimum number of steps possible that people need to go through to obtain justice; and improves access to justice.
+S0356 10.
+S0357 A common set of reforms will be applied across the civil and family courts and tribunal system.
+S0358 Applying these reforms across the tribunal system the Government intends to:
+S0359 - Digitise the end-to-end claims process, facilitating online interaction between the parties and the tribunal, simplifying the process, speeding up the resolution of disputes and allowing users to engage with the tribunal at times and locations convenient to them;
+S0360 - delegate routine tasks from judges to HMCTS caseworkers, including general case management decisions according to judicial pre-set criteria – allowing judges to focus on those matters where their legal expertise and knowledge is needed, speeding up the resolution of disputes;
+S0361 - introduce a single judge as the default panel position for all tribunals, using non-legal members only where required by the needs of the specific case as determined by criteria set by the senior judiciary, streamlining the handling of cases and speeding up the resolution of disputes and providing a more tailored approach for individual cases, so that claimants can be confident that the decisions will be fair and informed;
+S0362 - remove any presumption that a particular type of case must be determined by a specific form of hearing, allowing cases to be resolved through a range of different media, including online and video-conferencing according to the needs of the specific dispute and the individual use, speeding up the resolution of disputes and allowing users to engage with the tribunal at times and locations convenient to them providing a more tailored approach for individual cases.
+S0363 11.
+S0364 The intention is that these reforms will be implemented on a rolling programme across the tribunal system on an iterative basis, starting with the Social Security and Child Support (SSCS) tribunal.
+S0365 Using lessons from the SSCS tribunal to refine the detailed proposals, the programme will be rolled out across other tribunals encompassing ETs and the EAT amongst the last of the major tribunal to be reformed.
+S0366 12.
+S0367 While the aims and fundamental building blocks of reform remain the same across all tribunals, the actual detail of changes to procedure in an individual tribunal is likely to vary, depending on the matters being considered by each tribunal and the needs of the users in each jurisdiction.
+S0368 So while the SSCS tribunal, for example, will apply the same reforms as in ETs, the extent to which different elements of reform will apply and affect the day-to-day delivery of the service may be different to the way that they affect users in ETs.
+S0369 13.
+S0370 The purpose of this consultation is to set out how the Government intends to make sure that the reform programme can be successfully implemented in ETs and the EAT and begin the process of identifying how that should be done in a way which enables the positive benefits that change will bring, whilst maintaining the strengths of the current Employment Tribunals system.
+S0371 There will be further engagement with stakeholders on proposals for the reform of ETs and the EAT as the programme rolls out, particularly in relation to the development of any changes to the current procedural rules that may be necessary to support the operation of the reformed system.
+D. Description of options considered (including status-quo)
+S0372 14.
+S0373 Option 1 involves potential changes to primary legislation, the ETA 1996.
+S0374 This is to ensure that ETs and the EAT can be brought in line with the plans for the wider reformed justice system and that the legislation governing procedural matters in ETs and the EAT is sufficiently flexible to deliver any future reform needs.
+S0375 The overarching reform principles set out above indicate the direction of subsequent reforms that would then be delivered through secondary legislation.
+S0376 Our current understanding is that the impacts on users of Option 1 would primarily be the result of any new procedural rules introduced by the TPC.
+S0377 These would be given effect by way of statutory instruments and would be preceded by appropriate consultation and engagement with stakeholders to assess the likely impacts and, where necessary, would be accompanied by relevant, specific impact assessments.
+S0378 For clarity, this simplified, two-stage process is illustrated in Figure 1.
+S0379 Figure 1: Simplified Flow Diagram Illustrating the Two Stage Process of Implementing the Reform Programme 15.
+S0380 We have based the analysis presented here on our current understanding of what future reforms are likely to entail.
+S0381 Option 0: No reform of ETs and the EAT 16.
+S0382 This means that there would be no changes to the way that ETs and the EAT currently operate.
+S0383 Whilst significant improvements have been made to the operation of ETs (for example, in the context of online applications with around 90% of all ET claims being issued in this way), the general processes and procedures of ETs and the EAT are already significantly out of sync with both other tribunals and the wider civil court system (for example, in relation to the delegation of functions to suitably qualified staff, which is a feature of operations across all other tribunals and the civil courts). ** (Reference: 9)
+S0384 The effect of not reforming ETs and the EAT in line with the reforms being applied across the rest of the justice system would be to entrench those differences.
+S0385 17.
+S0386 This option would result in no changes to the ETA 1996.
+S0387 The Secretary of State for BEIS and the Lord Chancellor would continue to be responsible for procedural matters in ETs and the EAT, respectively.
+S0388 As now, the existing fee setting powers in section 42 of the TCEA 2007 would continue to apply to cases in ETs and the EAT.
+S0389 18. Not reforming the ETA 1996 would prevent necessary flexibility being introduced to the powers governing the scope of procedural matters and ETs and the EAT would not be able to deliver the improvements in user experience and system efficiency that would exist elsewhere in the justice system.
+S0390 The effect of this would be that ETs and the EAT would be isolated from the rest of the justice system with increasingly inefficient systems and processes, resulting in an unsustainable cost to the taxpayer.
+S0391 Option 1: Reform of the ETA 1996 to increase procedural flexibility and responsibility for procedural matters will be brought in line with that for other tribunals 19.
+S0392 This option would involve primary legislation to amend the relevant provisions of the ETA 1996 to make sure that when reforms are implemented across the rest of the tribunal system under the powers in the TCEA 2007, the governing procedural powers in the ETA would be flexible enough to implement these reforms in a way that is appropriate to the needs of users of ETs and the EAT.
+S0393 As is already the case in the unified tribunals system, responsibility for procedural matters would be conferred on the independent TPC and the Senior President of Tribunals (SPT), as relevant.
+S0394 20.
+S0395 HMCTS will implement the reform programme across the tribunal system on a rolling programme that will make sure that the reforms are applied to each tribunal based on the experiences of users elsewhere and the specific needs of the users of the individual tribunal.
+S0396 User engagement will be a fundamental part of this approach and they will therefore be integral to design of the reforms to ETs and the EAT and in determining how the wider reform principles should apply in the employment context.
+S0397 However, this does mean that it is not currently possible to be precise about how a particular employment dispute or type of employment dispute would be resolved in the reformed system.
+S0398 It would only be at the stage when the reform programme is being rolled out to ETs and the EAT using learning from other tribunals and following a detailed analysis of the specific needs of users of ETs and the EAT that the specific requirements would become clear.
+S0399 Where relevant, these reforms would be considered in any impact assessments accompanying any statutory instruments implementing new procedural rules.
+S0400 21.
+S0401 As is currently the case with all other tribunals managed by HMCTS, the Secretary of State for BEIS, would continue to be responsible for employment policy and the role of ETs and the EAT in supporting that policy.
+S0402 However, the rule making powers in the ETA 1996 would be amended to align them with those applicable in the rest of the justice system to ensure that they provide sufficient flexibility to make sure that the reform design principles can be appropriately applied to ETs and the EAT.
+S0403 Responsibility for making ET and EAT rules would be conferred on the existing independent Tribunals Procedure Committee (TPC).
+S0404 The membership of the TPC would be amended to reflect the committee’s new responsibilities, enhancing the role of stakeholders in making rules for ETs and the EAT.
+S0405 22.
+S0406 The TPC is an umbrella body that makes rules governing procedure for a range of different tribunals, including the SSCS Tribunal, the Mental Health Review Tribunal and the Lands Tribunal which deal with a wide range of diverse disputes.
+S0407 In making procedural rules the TPC already needs to make sure that the specific user requirements of each tribunal are reflected as appropriate and has the power to co-opt external expertise to support the development of rules where necessary.
+S0408 23.
+S0409 The current rule making powers provided under the TCEA 2007 are sufficiently wide to implement the planned reforms across tribunals in the unified system.
+S0410 Bringing the rule making provisions for ETs and the EAT in line with those applicable to tribunals in the unified system but without bringing ETs and the EAT fully into that system would make sure that they are sufficiently flexible to make any necessary changes to procedural rules for ETs and the EAT when the reform programme is implemented in those tribunals without further amendment to the ETA 1996.
+S0411 The TPC is required under paragraph 28(1)(a) of Schedule 5 to the TCE Act 2007 to undertake appropriate consultation before making tribunal rules.
+S0412 Whilst the TPC would be making rules for ETs and the EAT under the separate amended provisions in the ETA 1996 the same requirements to undertake appropriate consultation would still apply.
+S0413 Taken in conjunction with the proposed changes to the membership of the TPC, this would ensure that stakeholders and users would have an enhanced involvement in the process.
+S0414 Statutory instruments are required to introduce tribunal rules made by the TPC and are subject to approval by the Lord Chancellor.
+S0415 24.
+S0416 The existing provisions in the ETA 1996 governing panel composition would be amended and the SPT would be responsible for determining the future composition of panels in the ET and EAT based on the same requirements as apply to tribunals within the unified system.
+S0417 MoJ is in the process of consulting on proposed changes to those requirements which would remove the current explicit requirement for the SPT to have regard to the panel composition that existed prior to a tribunal being transferred into the unified system. ** (Reference: 10)
+S0418 This would allow the SPT to determine panel composition purely on factors that are currently relevant to the modern reformed tribunal system and its users, rather than basing decisions on the historic needs of the tribunals.
+S0419 Following such a change the SPT would have the option of exploring the potential for greater and more flexible utilisation of the specialist resource provided by non-legal members across the tribunal system.
+S0420 Under the reforms, the SPT would specify panel composition by way of a Practice Direction (PD) which would be subject to the agreement of the Lord Chancellor.
+S0421 A similar approach would be taken in respect of panel composition in ETs and the EAT.
+S0422 25.
+S0423 Section 2(3) of the TCE Act 2007 sets out specific considerations that the SPT must have regard to when exercising his functions.
+S0424 They consider the need for tribunals to be accessible, fair, and handled quickly and efficiently, for tribunal members to be specialists in the law or subject matter of the tribunal, and to develop innovative methods for resolving disputes.
+S0425 The same requirements would apply to decisions on panel composition in ETs and the EAT which will make sure that necessary expertise is available on each tribunal panel.
+S0426 26.
+S0427 As now, the existing fee setting powers in section 42 of the TCEA 2007 would continue to apply to cases in ETs and the EAT.
+E. Preferred option (including description of implementation
+plan)
+S0428 27.
+S0429 The Government has identified that the current provisions within the ETA 1996 are not sufficiently broad and flexible to provide the necessary certainty for the changes that are likely to be needed as a result of the implementation of the reform programme to ETs and the EAT.
+S0430 It is satisfied that option 1 would permit it to transform ETs and the EAT in accordance with the approach being taken across the remainder of the justice system and deliver all of the current monetised benefits identified for ETs.
+S0431 Option 1 is, therefore, the Government’s preferred option.
+S0432 28.
+S0433 It is expected that any changes to provide the flexibility required to introduce the reform package to ETs and the EAT would be taken forward as part of the planned Prisons and Courts Reform Bill which is expected to be introduced in early 2017.
+S0434 29.
+S0435 Note that all analysis presented here will be revised as necessary in light of responses to the consultation and a final impact assessment will be produced containing updated analysis of all proposals that are taken forward.
+Monetised and non-monetised costs and benefits – Option 1
+S0436 Option 1: Reform of the ETA 1996 to increase procedural flexibility and responsibility for procedural matters will be brought in line with that for other tribunals.
+S0437 30.
+S0438 As set out above, the basic reforms that would be applied across the tribunal system have already been set but the extent to which specific reforms would affect the day to day operations of ETs and the EAT has yet to be decided.
+S0439 The precise detail will only become clear as the reform programme is extended to ETs and the EAT in due course but this consultation will help inform this.
+S0440 31.
+S0441 The primary legislative change of creating enabling powers is not currently anticipated to have direct cost or benefit implications for the Government or users of ETs and the EAT.
+S0442 All costs and benefits presented in this section are those of anticipated subsequent reforms, which are enabled by the powers given in the primary legislation and which would be delivered via secondary legislation.
+S0443 32.
+S0444 Government transition costs would take place over the period 2018/19 to 2020/21 inclusive.
+S0445 As set out in the ‘Options’ section, MoJ would implement the reforms in ETs and the EAT taking account of lessons learned from the roll out of the reforms in other tribunals, and the specific needs of the users of ETs and the EAT.
+S0446 Change would therefore be incremental, determined by when the investment and related change takes place.
+S0447 Initial calculations assume that ongoing costs and benefits to Government would reach a steady state (100%) in 2022/23, with costs building up to this in the preceding years.
+S0448 33.
+S0449 We assume that benefits to users would follow a similar pattern, and our estimates of how these are calculated are based on annual benefits when the steady state has been reached.
+S0450 34.
+S0451 While the reforms represented by option 1 will apply to both ETs and the EAT, the following analysis examines the impacts on ETs only.
+S0452 We have focused on ETs because these represent the bulk of the work of the two tribunals and, therefore, account for the majority of the impacts.
+S0453 For example, in 2015/16, while the ETs handled 18,243 cases, comprising 83,032 single and multiple claims, the EAT received only 970 appeals. On the basis of these volumes, one might expect the impacts on EAT to be about 5% of the impacts on ETs. ** (Reference: 11)
+S0454 Further work would be required to refine this estimate, based on a careful consideration of how the reform principles would apply to the particular type of work handled by the EAT.
+Costs (ETs only)
+S0455 Users Transition costs 35.
+S0456 Most employers and employees are rarely involved in the employment tribunal system.
+S0457 In each of 2014/15 and 2015/16, the two complete years since the introduction of fees in ETs, there were slightly over 18,000 cases received in ETs, although some cases (multiples) can involve a number of claimants. There were around 1.19 million employers in 2015, and around 25.8 million employees in Great Britain. ** (Reference: 12, 13, 14)
+S0458 This suggests that around 2% of employers and well under 1% of employees might be involved in a tribunal claim in a particular year.
+S0459 For the minority that are, it is expected that they would familiarise themselves with rules and procedures of ETs when the employment claim takes place.
+S0460 Therefore, there should not be any additional transition costs arising, as parties to claims would need to go through the same familiarisation process, but with the new, rather than current, Rules and Guidance.
+S0461 36.
+S0462 Employment lawyers, who may expect to regularly be representing claimants and/or employers in cases heard in ETs, may need to familiarise themselves with the changes introduced by the reforms.
+S0463 It is difficult to estimate the number of employment lawyers from official data.
+S0464 However, we assume that there are around 6,000 employment lawyers, as this is around the membership of the Employment Lawyers Association. ** (Reference: 15)
+S0465 The median hourly wage excluding overtime of a legal professional is £23.81 (ASHE 2015), and according to Eurostat figures for 2015, non-wage labour costs are around 20.2% of wage costs in the UK.
+S0466 Therefore the estimated hourly labour cost of a legal professional’s time is £28.62.
+S0467 We assume that it will take an employment lawyer three hours to familiarise themselves with the changes, and the MoJ would aim to set out new guidance as clearly as possible to users as part of their Agile approach.
+S0468 This time estimate is based on the length of regular ACAS ‘Employment Law Update’ sessions which impart information on a range of recent and upcoming changes to employment law. ** (Reference: 16)
+S0469 The proposed changes to rules outlined here are further reaching than other recent employment law changes and so we anticipate that familiarisation will take experienced practitioners up to 3 hours.
+S0470 This can be in the form of private study rather than in-person training, therefore without the need to incur additional cost.
+S0471 This leads to an estimate of around £515,000 for the cost of familiarisation for employment lawyers (6,000 x 28.62 x 3).
+S0472 Ongoing costs 37.
+S0473 We do not model any intangible change relating to the perceived quality of the process in ETs.
+S0474 The Government’s reform programme aims to create a court and tribunal system that is able to respond as promptly, effectively and proportionately to the needs of its different users.
+S0475 These reforms are intended to bring notable benefits in terms of user experience.
+S0476 38.
+S0477 As outlined in more detail in the ‘Risks and assumptions’ section, the reform programme currently under consideration is not anticipated to cause a notable change in the number of cases heard in ETs and so the number of employers and individuals involved in ETs is not expected to change due to these reforms.
+S0478 39.
+S0479 The rebalancing of the various costs of communication are the only potential ongoing cost to business identified in ETs at this stage.
+S0480 Communication costs 40.
+S0481 As noted above, the reforms would look to enable cases to be resolved through a range of different media, including physical and online hearings, reflecting the needs of the specific dispute and individual user.
+S0482 This would also involve a move to more online documentation of cases.
+S0483 This would change from the current system, which tends to revolve around face-to-face hearings and meetings, and is heavily paper based.
+S0484 41.
+S0485 The 2013 Survey of Employment Tribunal Applications (SETA) gives respondents’ median reported communication costs (the cost of postage and phone calls) of participating in an ET to be £20. Users of the system would find that their interactions with the employment tribunal system change, for example through greater use of online or telephone communication in place of attendance in person and the posting forms/documents. ** (Reference: 17)
+S0486 The additional use of telephone and internet communication channels poses a potential increase in cost to business, although this would be counteracted by the reduced need to incur postage costs.
+S0487 42.
+S0488 SETA does not provide a breakdown of the specific elements of cost included in the respondents’ estimate of communication costs.
+S0489 A significant proportion of employers and individuals already have broadband phone and internet infrastructure in place. Most have a pre-paid, regular phone and/or broadband package with a significant amount (or unlimited) usage included. ** (Reference: 18)
+S0490 These employers and individuals are likely to benefit from the increased flexibility and use of new technology to facilitate administration and resolution of cases heard in ETs.
+S0491 Around 90% of claims issued in ETs are currently started online. ** (Reference: 19)
+S0492 43.
+S0493 The reforms would be flexible, taking account of what approach is suitable for the specific dispute and individual.
+S0494 For those without access to internet technology, this may mean that face-to-face hearings remain the most appropriate way to conduct a hearing.
+S0495 Alternatively, MoJ may look to facilitate the use of public or ‘on demand’ phone and internet facilities, including live video links.
+S0496 This may result in a small minority of employers and claimants going through tribunal paying for some additional phone and internet usage if they partake in a virtual tribunal hearing following the reforms.
+S0497 However, again, additional costs for scanning documents to those employers and individuals without scanning facilities would be mitigated by the reduced need to incur postage costs. ** (Reference: 20)
+S0498 44.
+S0499 We have not monetised any potential costs arising from the move to digitised processes and online communication and hearings.
+S0500 This is because the MoJ reforms potentially allow for the development of approaches that are suitable for users without free access to technology, so it is not clear that additional costs will arise.
+S0501 Also, it is likely that any additional communication costs arising would be matched by reduced costs for current forms of communication, such as postage costs.
+S0502 45.
+S0503 We anticipate that the overall change in spending on communication would be small (especially in the context that communication costs represent a small fraction of the total costs of participating in a tribunal hearing), and, given the lack of accurate, detailed data on the communication costs involved at this stage of policy development, assume that any net change would be negligible. ** (Reference: 21)
+S0504 46.
+S0505 During the consultation we would welcome any evidence on the current communication costs to employers and individuals of using ETs and the EAT, as well as any comments on how these costs could change in future under the proposed reforms.
+S0506 Summary of users’ costs 47.
+S0507 The familiarisation costs to employers and individuals are currently considered to be negligible given the constantly changing pool of users participating in ETs.
+S0508 There would be a cost to legal professionals to familiarise themselves with the new processes in ETs of £515,000.
+S0509 There is a potential change in the ongoing composition of communication costs, although we expect there would be some balance between any additional costs in use of digital technology and a reduction in postage costs.
+S0510 Whether there is a net cost or benefit to users would depend on the extent to which reforms to ETs take account of individuals’ and employers’ access to technology when devising the new procedures (but only a small minority of users would be affected through lack of access to technology).
+S0511 48.
+S0512 There are not currently expected to be ongoing monetary costs to employers or individuals.
+S0513 We would welcome any evidence during the consultation period of ongoing costs that businesses may incur due to the reforms.
+S0514 Government 49.
+S0515 Reforming ETs will create both transition costs and on-going costs.
+S0516 These would enable the implementation of the reform programme and the savings that are produced from it.
+S0517 Transition costs 50.
+S0518 The main transition costs to Government when reforming ETs would be programme costs, estates transition costs and ICT set-up costs.
+S0519 51.
+S0520 Programme costs cover the costs associated with the delivery of the programme.
+S0521 They have been calculated for ETs as the sum of expected staff costs, recruitment costs, legal, external specialist costs, training costs for delivering the new operating model and programme staff travel costs.
+S0522 52.
+S0523 Estates transition costs would arise as a result of any works required to prepare closed tribunals for disposal, such as decommissioning costs and transferring work from tribunals listed for closure.
+S0524 Estates transition costs in ETs have been calculated as the sum of expected disposal costs, dilapidations, lease exit payments, decommissioning aged ICT, and decant and porterage costs.
+S0525 53.
+S0526 The ICT costs are both resource and capital costs.
+S0527 They would arise from the creation of a new online portal, virtual technology, call centre IT, system upgrades and automation throughout the tribunal process to make services more efficient.
+S0528 The ICT costs in ETs have been estimated for a core capability team to develop new digital services, provide support to in-service applications and deliver on-going systems improvements.
+S0529 The HMCTS Reform Programme’s technology team engaged with a wide range of subject matter experts within HMCTS Digital Change Directorate, MoJ Technology, the HMCTS Design Team and other HMCTS project teams to capture the current baseline view, plans for projects already in progress and potential solutions to meet the capability gaps identified.
+S0530 These costs would be refined as and when detailed programme and project plans are refreshed in line with the expected roll out of reform of ETs and the EAT.
+S0531 Our current expectation is that this would take place towards the end of the current spending review period and that this information would feed into any impact assessments required as a result of any necessary changes to the procedural rules for ETs and the EAT.
+S0532 54.
+S0533 ICT transition costs have not been modelled directly for ETs, only for Civil, Family and Tribunals (CFT) as a whole, assuming similar transformation across all jurisdictions.
+S0534 The percentage of savings that ET reform is expected to produce as a proportion of all CFT savings is applied to the total CFT transition costs to provide ET transition costs.
+S0535 55.
+S0536 Total transition costs to Government of option 1 are estimated to be around £24m.
+S0537 56.
+S0538 This option would involve costs associated with the preparation and passage of primary legislation; however, these are assumed to be business-as-usual resource costs.
+S0539 Ongoing 57.
+S0540 The main ongoing costs once ETs have been reformed would be ICT costs, assisted digital and call centre costs, and case officer costs.
+S0541 58.
+S0542 In order to run and maintain the new portal and automation through the tribunal process there would be business-as-usual (BAU) ICT costs.
+S0543 The ICT costs have been estimated for a core capability team to develop new digital services, provide support to in-service applications and deliver on-going systems improvements.
+S0544 Ongoing ICT costs have been estimated in a similar way to the transitional ICT costs as described above.
+S0545 59.
+S0546 ICT BAU costs have not been modelled directly for ETs, but only for Civil, Family and Tribunals (CFT) reform as a whole.
+S0547 The percentage of savings that the ET reform is expected to produce as a proportion of all CFT savings has been applied to the total CFT ICT BAU costs to provide ET-specific ICT BAU costs.
+S0548 60.
+S0549 Around 90% of claims issued in ETs are currently started online, indicating that the majority of previous applicants have had some digital capability. ** (Reference: 22)
+S0550 However, as the system becomes more digitally focused it is recognised that not all applicants would have the capability to access the online services.
+S0551 To ensure access to justice for all there would be variations of ‘Assisted Digital’ (AD) put in place, which would provide support for those with little or no digital capability.
+S0552 For example, some applicants may require a third party to complete the form with them or to complete the process on paper.
+S0553 The MoJ is already consulting separately on proposals around AD provision. ** (Reference: 23)
+S0554 61.
+S0555 AD costs for ETs have been calculated by identifying the percentage of cases issued in ETs which would require assistance; this figure was then split with 50% assumed to require a third party (such as the Citizen’s Advice Bureau (CAB)) and the other 50% completing the process on paper.
+S0556 These assumptions came from the User Experience team but will be subject to review in the light of any evidence collected from the wider court reform consultation currently underway as well as any information provided as part of this consultation.
+S0557 The third party volume was then multiplied by a high-end unit cost benchmarked against the HMCTS contract with the CAB for helping victims and witnesses for court processes and procedures and, therefore, provides an upper bound to costs for those using a third party.
+S0558 For those completing the process on paper, cost was calculated by multiplying the paper volume by the number of pages expected per case and the unit cost.
+S0559 62.
+S0560 AD costs have not been modelled directly for ETs, but only for CFT as a whole.
+S0561 The percentage of savings that ET reform is expected to produce as a proportion of all CFT transformation savings has been applied to the total CFT assisted digital costs to provide ET assisted digital costs.
+S0562 63.
+S0563 For those digitally competent but with procedural queries, a call centre or call centres would be available.
+S0564 Call centre costs in ETs have been calculated from information provided by the HMCTS User Experience Team, who have drawn upon management information and operational experience regarding the number of calls expected per case and assuming the length of these calls.
+S0565 This time has then been costed against a regional HMCTS Band E salary with some management uplifts.
+S0566 64.
+S0567 As part of the reforms there would be an introduction of case workers employed by HMCTS.
+S0568 Case workers would complete a range of tasks, with oversight from the judiciary, from certain case management to providing legal orders, according to their grade.
+S0569 They will not make the final decisions in any case.
+S0570 Some examples of tasks which have been assumed to transfer to case workers are initial consideration, case management hearings, dismissals, postponements witness orders and withdrawal requests.
+S0571 To provide costs for case workers the volumes of the allocated tasks were multiplied by anticipated minutes taken.
+S0572 Total time has been converted to Full Time Equivalent (FTE) years and then multiplied by a representative salary, provisionally taken to be a regional HMCTS Band B salary.
+S0573 65.
+S0574 Case workers have already been employed in the Tax, Mental Health, SSCS, Immigration Asylum Chamber and Criminal Injuries Compensation Tribunal.
+S0575 In each of these tribunals, tasks completed by case workers differ slightly but some examples include preparing referrals to judges, notification of withdrawals, invalid or late appeals, strike outs, witness summons, issuing standard directions, giving consent, preliminary issues and postponement requests.
+S0576 66.
+S0577 Total ongoing costs of option 1 from ICT costs, assisted digital and call centre costs, and case officer costs in ETs could be around £3m from 2022/23, where 2022/23 is the ‘steady state’.
+Benefits (ETs only)
+S0578 Users 67.
+S0579 Reducing the reliance on physical hearings would bring business savings in the form of reduced time and cost of travel.
+S0580 There would be further benefits to businesses in the expected increase in efficiency of tribunal proceedings themselves, which are also analysed in this section.
+S0581 Reduction in travel cost 68.
+S0582 Firstly, this sub-section considers the reduced spending on travel to and from hearings.
+S0583 There would be a reduction in the reliance on physical hearings at all stages of an ET: case management hearings, preliminary hearings, final hearings and costs/remedy hearings.
+S0584 down into the mode of transport or the cost individual journeys being taken, although it can reasonably be assumed that bulk of the necessary travel costs will be those to get to and from hearings (either case management, preliminary, final or costs/remedy).
+S0585 70.
+S0586 To get an estimate of the cost of each journey to and from a hearing, we make use of SETA breakdowns of travel cost by claim outcome.
+S0587 We compare these travel costs for those cases that proceed to a final hearing with those that are ‘dismissed/other’, as claims that are dismissed or have a default judgement are predominantly resolved largely without recourse to a hearing.
+S0588 This enables us to estimate the proportion of travel costs that are related to travelling to a hearing.
+S0589 Comparing the mean travel cost for claimants with claims that are ‘dismissed/other’ to those which reach a final tribunal, the cost increases by £28 (£83 compared to £55). ** (Reference: 25)
+S0590 The mean in this instance is considered more accurate as it covers the full range of journeys undertaken (businesses travelling from all regions).
+S0591 We therefore take £28 to be an approximation of the additional cost of travelling to a final hearing (given the relative rarity of cost/remedy hearings that might be also included in this difference). ** (Reference: 26)
+S0592 71.
+S0593 The median final hearing lasts a single day. Therefore £28 is taken as an approximation of the cost of travelling to and from any single hearing in person for those that incur travel costs. ** (Reference: 27, 28)
+S0594 72.
+S0595 In the two full years following the introduction of ET fees, there was an annual average of around 18,300 ET cases received. ** (Reference: 29)
+S0596 Of these, around 54% underwent case management procedures, 18% underwent preliminary hearings, 6% went to a cost/remedy hearing and 36% underwent final hearings, according to HMCTS management information (N.B. these types of hearing are not mutually exclusive activities; they occur at different stages in the ET process).
+S0597 We use HMCTS management information to estimate the proportion of cases in ETs going to final hearing by case type, no track (2%), fast track (41%), standard track (34%) and open track (23%).
+S0598 Fast track cases tend to be simpler, often relate to monetary issues like unpaid wages and have a shorter listing window.
+S0599 Standard track cases are slightly more complicated, must contain an Unfair Dismissal or related jurisdictional complaint and have a longer listing window.
+S0600 Open track cases are the most complicated, must include a discrimination or disclosure type jurisdictional complaint and have no listing window.
+S0601 These open track cases are usually reviewed by a judge in a case management or preliminary hearing before being listed.
+S0602 No track cases are where no relevant jurisdictions have been identified.
+S0603 73.
+S0604 Currently, we estimate that 55% of case management procedures in ETs result in a face- to-face hearing, and, based on management information, that all preliminary, cost/remedy and final hearings are face-to-face. ** (Reference: 30)
+S0605 74.
+S0606 The MoJ has modelled the potential change in allocation between the methods of conducting a hearing, taking account of the complexity of cases (as indicated by the track system).
+S0607 The moves to virtual hearings and dealing with the case through e-mail or online case management will give the estimated future proportions shown in Table 1.
+S0608 Table 1: Proportion of ET Cases in Future Going through Each Hearing Process, by Different Routes Procedure Online/e-mail Virtual Face-to- Face Case management 100% Preliminary hearing 80% 20% Cost/Remedy hearing 90% 10% Final hearing: No track 66% 17% 17% Final hearing: Fast track 66% 17% 17% Final hearing: Standard track 50% 50% Final hearing: Open track 50% 50% 75.
+S0609 Applying the £28 average travel cost estimate, factored down by the proportion of individuals that incur travel costs (31%) and the proportion of employers that attend hearings (84% for final hearings and assumed to also be 84% for all other hearing types as no data is available), to estimates of the change in face-to-face hearings gives total cost savings to employers of £0.1 million and to claimants of £0.12 million in ETs. ** (Reference: 31)
+S0610 The savings in travel costs by type of hearing are summarised in Table 2.
+S0611 Table 2: Savings in Travel Cost to Claimants and Employers, by Type of Hearing in ETs Reduced travel cost:
+S0612 Reduced travel costs:
+S0613 Procedure claimants (£000s)
+S0614 Procedure claimants (£000s) employers (£000s) Case management hearings 48 40 Preliminary hearings 23 19 Cost/remedy hearings 8 7 Final hearings 37 31 Total 117 98 Reduction in travel time 76.
+S0615 The previous sub-section monetised the direct costs to business of travel that are avoided by a reduction in in-person hearings in ETs.
+S0616 This section monetises the additional saving for businesses in the form of the time saved due to no longer needing to travel.
+S0617 modelling to reflect the location of businesses involved.
+S0618 Bearing in mind what is proportionate at this stage of policy development, we therefore consider the travel time of claimants to be a reasonable approximation of the travel time for employers.
+S0619 78.
+S0620 Total travel time savings have been monetised for ETs by multiplying the fall in the number of face-to-face hearings by the average travel time estimate (52 minutes) and then by the average wages of senior managers and human resource managers/directors uplifted by non-wage costs (as presented in Table 3).
+S0621 We assume that where an employer attends a hearing, a director or senior manager will always do so, and an HR manager would do so for two-thirds of hearings. ** (Reference: 35)
+S0622 Table 3: Wages and labour costs estimates Median gross hourly Median hourly wages excluding overtime (ASHE 2015)
+S0623 overtime (ASHE 2015) labour costs Chief executives and senior officials £42.42 £50.99 Human resource managers and directors £23.41 £28. All employees £11.75 £14. 79. ** (Reference: 19, 21, 36)
+S0624 We also take account for the proportion of employers that attend hearings in ETs – 84% for final hearings and assumed also to be 84% for all other hearing types as no data is available. ** (Reference: 37)
+S0625 For claimants, the value of time spent travelling is considered to be equal to the median hourly wages of all employees, as a proxy for the opportunity cost of the claimant’s time.
+S0626 A summary of the value of the time saved, by type of hearing, is given in Table 4.
+S0627 Table 4: Savings in Travel Time for Claimants and Employers, by Type of Hearing in ETs Procedure Value of reduced travel time: claimants (£000s)
+S0628 Value of reduced travel Value of reduced travel Procedure time: claimants (£000s) time: employers (£000s) Case management hearings 56 278 Preliminary hearings 27 134 Cost/remedy hearings 10 49 Final hearings 44 218 Total 136 679 80.
+S0629 In summary, we anticipate that reduced travel time will save claimants £136,000 and employers £679,000.
+S0630 Efficiency savings at hearings 81.
+S0631 As a result of fewer face-to-face hearing and more virtual and online hearings which are more efficient, the average time spent at tribunal is expected to fall.
+S0632 This is partly due to the expectation that all hearings will benefit from the increase of automation and digital technology in the ET court process (therefore removing paper), which would create a smoother and more efficient hearing.
+S0633 other tasks in the business.
+S0634 For claimants, the wage of the median employee is used as a proxy for the opportunity cost of their time.
+S0635 For employers, we use the median wages for HR staff and senior managers and directors, uplifted by non-wage costs, to monetise the value of this time.
+S0636 MoJ have estimated potential efficiency gains in reduced time for different hearings (see the risks and assumptions section), which we are using as our best estimates.
+S0637 To take account of the uncertainty around the best estimate of the likely efficiency gain, we have applied a range around the estimate, as explained further in the risks and assumptions section.
+S0638 83.
+S0639 The range of estimated benefits to claimants and employers in ETs are given in Table 5.
+S0640 Paragraph 123 in the assumptions sections explains the derivation of the low, best and high estimates for these benefits to users.
+S0641 Table 5: Savings from reduced Hearing Time for Claimants and Employers, by Type of Hearing in ETs Final hearings 0 148 186 0 720 979 Total 0 186 246 0 908 1,226 84.
+S0642 In summary, the central estimates anticipate that reduced hearing time will save claimants £186,000 and employers £908,000 in ETs.
+S0643 Additional efficiencies throughout tribunal process (not monetised)
+S0644 85.
+S0645 Administrative tasks such as requesting updates on case progress, completing forms and submitting documentation would be simplified and more accessible to parties via an online platform.
+S0646 This would reduce the time spent by claimants and respondents on these tasks and hence reduce the overall time burden of participation for parties.
+S0647 86.
+S0648 There may be further time saved throughout the ET process due to automation and efficiencies in the HMCTS administrative processes.
+S0649 This would likely reduce the time parties need to spend interacting with HMCTS to obtain updates on the case or receive a response to straightforward questions (such as hearing time/location).
+S0650 Related to this, there may be a reduction in unnecessary processes due to cases being allocated to the most proportionate resolution route, and signposting to alternative dispute resolution (ADR) through the online portal may allow cases to be directed to a more proportionate resolution process.
+S0651 These gains could achieve further reductions in the time, cost and stress for parties participating in a tribunal.
+S0652 87.
+S0653 There is currently very limited evidence on which to base any monetisation of these additional gains to business that may result and they have not been monetised at this stage.
+S0654 These potential benefits can be explored further through discussions with experienced practitioners.
+S0655 Summary
+S0656 Value of reduced hearing time: Procedure claimants (£000s) Low Best High estimate estimate estimate Case management 0 22 29 hearings Preliminary 0 12 23 hearings Cost/remedy 0 4 8 hearings Final hearings 0 148 186: Value of reduced hearing time: employers (£000s) Low Best High estimate estimate estimate 0 11 146 0 58 116 0 19 38 0 720 979.
+S0657 88.
+S0658 Table 6 summarises the estimated annual benefits to ET users once the steady state is reached in 2022/23.
+S0659 The assumptions behind the high and low estimates are set out in the risks and assumptions section below (paragraph 123).
+S0660 89.
+S0661 In the three years prior to 2022/23, we expect the benefits would only partially be realised, in line with MoJ projections, reflecting the expected phased implementation of the reforms from 2019.
+S0662 This is illustrated in Table 7.
+S0663 Table 7: Pattern of Benefits to ET Users up to 2022/23 2019/20 2020/21 2021/22 2022/23
+S0664 Claimants (best estimate) £0.26m £0.43m £0.44m £0.44m Employers (best estimate) £1.00m £1.67m £1.69m £1.69m Government – Monetised Estates 90.
+S0665 Government estates benefits would derive from the efficiencies associated with more widespread use of digital technology, particularly at the hearing stage.
+S0666 91.
+S0667 Under option 1, the increase of automation and digital technology in the court process is assumed to create a smoother and more efficient hearing.
+S0668 Additionally, there would be a shift away from the conventional hearing format.
+S0669 Based on what is most appropriate, a hearing may take one of three formats, face-to-face, virtual or online.
+S0670 A face-to-face hearing would be held in a physical court room, as now, but where participants may or may not join proceedings via a video link.
+S0671 A virtual hearing would be one held with all the parties joining remotely via telephone or video link.
+S0672 An online hearing would not be held in real time and the decision would be made ‘on the papers’.
+S0673 92.
+S0674 The shift away from the conventional format would reduce time and cost, whilst simplifying access for professional users.
+S0675 Estates savings would arise because more hearings can take place per day and fewer would require a physical court room, allowing for workload to be redistributed and some hearing centres to be closed.
+S0676 93.
+S0677 Estates savings for ETs were calculated as the reduced future running costs in staff costs, ICT costs, utilities, property maintenance and other office expenditures of the closed tribunals.
+S0678 Total estates benefits for ETs are expected to be around £6m per year from 2021/22, based on evidence from previous court closure programmes.
+S0679 Judicial 94.
+S0680 Judicial benefits in ETs would have three main drivers, the increased use of case workers, changes in panel member composition and the increased digitisation of the hearing and tribunal processes.
+S0681 Claimants Low Best High estimate estimate estimate Hearing efficiencies £0.00m £0.19m £0.25m Saving in travel time £0.14m £0.14m £0.14m Saving in travel costs £0.12m £0.12m £0.12m: Employers Low Best High estimate estimate estimate £0.00m £0.91m £1.23m £0.68m £0.68m £0.68m £0.10m £0.10m £0.10m.
+S0682 Total £0.25m £0.44m £0.50m: £0.78m £1.69m £2.00m.
+S0683 95.
+S0684 Case workers would help to reduce waiting times for a final decision to be made as they could relieve judges of some of their current tasks.
+S0685 This would provide judges more availability for hearings, enabling a speedier process.
+S0686 Benefits due to the introduction of case workers in ETs have been calculated by identifying tasks which were previously completed by judges and are now to be completed by case workers.
+S0687 The total time of these tasks multiplied by judiciary costs is then compared with those costs of case workers to produce a saving figure.
+S0688 96.
+S0689 Case workers in ETs would also conduct initial case assessments, which enable case types upon entering the system to be allocated to the most proportionate route for resolution.
+S0690 This could reduce delay and cost through a reduction in unnecessary processes, and promote the use of virtual and online hearings, where appropriate.
+S0691 Virtual hearings would reduce time and cost, whilst simplifying access for professional users.
+S0692 Additionally, digitisation would create smoother and more efficient hearings, benefitting from the increase of automation and digital technology throughout the tribunal process.
+S0693 97.
+S0694 To calculate judicial savings in ETs due to digitisation, we have multiplied the volume of hearings in 2014/15 by the time each type of hearing takes and the judicial cost of that time.
+S0695 This has been compared with the time each type of hearing is assumed to take in the future, and the volume associated with each type of hearing, again multiplied by judicial fees and salaries.
+S0696 On average, it is expected judicial hearing time would be reduced by 34%.
+S0697 98.
+S0698 Currently non-legal members (NLMs) support the judiciary at standard and open track hearings.
+S0699 After transformation, the initial assumption is that, whilst all cases could be decided by a suitably qualified single member panel, i.e. a judge, this is not likely.
+S0700 The composition of ET panels is currently determined according to the provisions of the ETA 1996. Under these the standard panel consists of a judge and two non-legal members but specific types of cases may be heard by a single judge sitting alone. ** (Reference: 44)
+S0701 The SoS for BEIS, with the agreement of the Lord Chancellor, may determine that further types of cases may also be heard by a judge sitting alone subject to specified criteria.
+S0702 A single member in all cases may not be realistic so the savings contributing to the judicial saving figure below have been modelled under the scenario that there is a 75% reduction in NLMs.
+S0703 Savings due to panel member reduction in ETs has been calculated by establishing the current number of days worked by NLMs, multiplied by their daily fees and multiplied by 75%.
+S0704 99.
+S0705 As a result of the above factors, total judicial savings resulting from reform of the ETs are estimated to be around £10m per year from 2021/22.
+S0706 Administrative staff 100.
+S0707 Initial case assessments and automation are the two main factors contributing to administrative benefits in ETs.
+S0708 101.
+S0709 Initial case assessments would lead to administrative savings as cases would be allocated to the most proportionate resolution route and unnecessary processes would be eliminated.
+S0710 102.
+S0711 Initial case assessment benefits in ETs have been calculated by identifying tasks in the initial case assessment category which would not exist post-reform but are currently completed by administrative staff.
+S0712 The volume of these tasks is multiplied by the time the tasks take and the cost of the staff completing the task.
+S0713 31 See section 4 of the ETA 1996.
+S0714 103.
+S0715 Automation in ETs would create savings in case registration, case preparation and at the resolution stage.
+S0716 Automation of case preparation would allow for standard approaches to be adopted across HMCTS and would support the proportionate deployment of administrative staff and judges in the management of cases.
+S0717 This reduction in manual processing could also reduce delays, increase transparency and increase accuracy.
+S0718 There would also be some automation of the resolution process.
+S0719 Court clerks would be required for less hearing time as hearings would be more efficient and administrative staff would only be involved with producing short automated judgements.
+S0720 104.
+S0721 Excluding initial case assessments, admin benefits due to automation in ETs have been calculated by multiplying the volume of tasks in all categories, by the administrative minutes attributable to each task (based on 2014/15 volumes and current timings) and the wages and on-costs of administrative staff.
+S0722 This is then compared with the assumed future process by multiplying task volumes to the new admin minutes and applying administrative costs.
+S0723 105.
+S0724 Admin benefits resulting from reform are estimated to be around £3m from 2021/22.
+S0725 Other 106.
+S0726 Other benefits attributable to ETs would result from reduced staff travel and subsistence costs and reduced printing, postage and stationery costs.
+S0727 These have been calculated by comparing costs currently spent on these items with those that would be spent with the expected number of staff post-reform and the volume of administrative tasks not automated or online.
+S0728 Such benefits are estimated to be around £0.1m from 2021/22.
+S0729 107.
+S0730 Total ongoing monetised benefits in ETs to Government of option 1 are estimated to be around £18m per year from 2021/22.
+S0731 Government – Non-monetised 108.
+S0732 Sign posting to Alternative Dispute Resolution (ADR) would be simplified and made available through the online portal so users would be able to make an informed decision before making an application to the Tribunal.
+S0733 Such accessible early engagement would offer a more proportionate resolution and help to ensure only those who cannot resolve their issue through any other means go through the Tribunal process.
+S0734 However, as ADR signposting is already a mandatory feature of ETs, in which ACAS has a statutory role, we expect minimal impact. ** (Reference: 38)
+Summary of Option 1
+S0735 109.
+S0736 Transition costs to Government are estimated to be around £24m. Ongoing costs to Government in ETs are estimated to be approximately £3m p.a.
+S0737 from 2022/23, whilst the monetised benefits are estimated to be around £18m p.a. from 2021/22.
+S0738 110.
+S0739 Transition costs for businesses are estimated to be £515,000 in ETs.
+S0740 There are not estimated to be any ongoing costs to users.
+S0741 The central estimates of the steady state ongoing benefits to users are estimated to be £0.44 million for claimants and £1.69 million for employers.
+S0742 Prior to the steady state, we estimate that only proportions of these steady state benefits, in line with the MoJ estimates of benefits to Government, would be achieved.
+S0743 There are relatively minor incremental improvements from 2020/21 to 2022/23.
+S0744 These are set out in Table 8 below.
+S0745 Table 8: Benefit to ET users from reform package set out in Option 1, £ millions 2019/20 2020/21 2021/22 2022/23
+S0746 Claimants (best estimate) £0.26m £0.43m £0.44m £0.44m Employers (best estimate) £1.00m £1.67m £1.69m £1.69m 111.
+S0747 As noted, these costs and benefits exclude the EAT but, based on volumes alone, the costs and benefits attributable to the EAT are likely to be modest, perhaps 5% of those for ETs.
+Analytical notes
+Rationale and evidence that justify the level of analysis used in the IA (proportionality approach)
+S0748 112.
+S0749 As noted in the ‘Options’ section, the reforms would be implemented, where necessary, by new procedural rules introduced by the respective procedural rules committees.
+S0750 Procedural rules made by the TPC are given effect by way of statutory instrument and are preceded by appropriate consultation and engagement with stakeholders to assess the likely impacts and, where necessary, are accompanied by relevant specific impact assessments.
+S0751 The reforms would be implemented across the tribunal system in a way that would consider how they should be applied given the respective user needs in each tribunal.
+S0752 113.
+S0753 Although the parameters within which the overall reform programme will operate, therefore, are known and have been used to identify likely costs and benefits, further work will need to be undertaken as the reform is extended to the employment jurisdiction and used alongside the feedback to this consultation to test and clarify the detailed impacts of this approach on the ET jurisdiction.
+S0754 It is currently anticipated that the any reform of ETs would have minimal impacts on users as the rules of procedure would be expected to remain in place as far as possible.
+S0755 We have not examined impacts on EAT.
+S0756 However, given the need to amend precise design based on feedback and the modest anticipated effect on users, a more detailed treatment would not be appropriate at this stage.
+S0757 114.
+S0758 This impact assessment is at the consultation stage of the policy, and it is expected that the consultation will provide additional evidence to help inform policy development going forward.
+Assumptions and risks
+S0759 Key assumptions 115.
+S0760 The reform of tribunals and courts represents a radical departure from current practice so, inevitably, certain assumptions, such as the number of panel members required for hearings or the demand for assisted digital are subject to some uncertainty.
+S0761 The following assumptions represent the MoJ’s best understanding of future ET function and have been developed through an extensive programme of design work involving consultation with the judiciary, regional HMCTS directors, local managers and case management information.
+S0762 Design principles which have been applied across the justice system have also been applied here.
+S0763 The consultation will further inform assumptions.
+S0764 116.
+S0765 Where costs have not been modelled specifically for ETs, these have been pro- rated based on the proportion of savings from ETs of all savings across the civil and family courts and Tribunals (CFT).
+S0766 For example, ICT set-up cost is only available for the reform of all CFT.
+S0767 The percentage attributed to ETs is the same percentage that savings from ETs represent as a proportion of all CFT savings.
+S0768 117.
+S0769 All figures in relation to Government costs and benefits are in 16/17 prices, using 14/15 baseline volumes.
+S0770 Optimism bias of 15% has been applied as standard, except for IT transition capital costs, where a 35% optimism bias has been used, and for estates transition costs, where an 8% optimism bias was applied, based on experience with similar projects.
+S0771 118.
+S0772 Case officer salary is provisionally taken to be Band B; contact centre staff are Band E.
+S0773 119.
+S0774 Tasks in which some of the volume has been assumed to transfer to case workers in ETs are initial case assessments, case management hearings, reconsidering applications, dismissals, Rule 21 judgements, postponements, applications for witness orders, processing decisions on witness order, adding/removing representatives, ACAS/private settlement and withdrawal requests, and reinstatements of applications.
+S0775 120.
+S0776 It has been assumed that all case management hearings and 80% of preliminary hearings in ETs would be virtual (by telephone); around two thirds of short track and no- track final hearings would be online and will take around 80% less time than an oral hearing; around half of standard and open track hearing would be virtual.
+S0777 121.
+S0778 The number of cases to be heard online is based on the 2014/15 ET case mix.
+S0779 There is a risk that the case mix could get more complicated and therefore fewer cases may be suitable for an online hearing.
+S0780 122.
+S0781 For illustrative purposes, we have assumed there will be a 75% reduction in the number of panel member sitting days in ETs.
+S0782 In reality, this figure may be higher or lower.
+S0783 123.
+S0784 There is anticipated to be a reduction in the time spent at hearings of all types in ETs due to efficiencies of using digital technology.
+S0785 The current best estimate of these potential efficiency gains, informed by experienced tribunal practitioners, is a gain of approximately 10% (19% for case management hearings).
+S0786 For costs to users, the lower bound estimate is that there would be no efficiency gain in hearing time and hence no benefit.
+S0787 To create a symmetric range, the upper bound estimate is of efficiency gains of 20% (25% for case management hearings).
+S0788 These are subject to revision following the consultation period and further discussions with informed stakeholders.
+S0789 124.
+S0790 Under all options we have assumed volumes would remain at 2014/15 levels.
+S0791 This is based on the fees regime, and other parts of the dispute resolution system remaining unchanged.
+S0792 There were very similar numbers of case receipts in the two years following the introduction of fees.
+S0793 We are not able to accurately predict the state of the economy over the next ten years, or impacts from changes to employment law (which may also impact on case numbers).
+S0794 125.
+S0795 Under Option 1 we have assumed that the current fee structure would remain (subject to the outcome of the review of the introduction of fees in the ET)..
+S0796 Risks 126.
+S0797 The Government recognises that Non-Legal Members (NLMs) have an important role to play in providing important knowledge and expertise where this is not otherwise available to the tribunal.
+S0798 The intention of our new reforms is to be smarter and more flexible in the way that NLMs are used, moving away from the current blanket approach where they are called upon to physically sit as members of a two or three person panel as a matter of course but making sure that they continue to be used where they add value to the outcome of the case.
+S0799 Instead their deployment would become a matter for the SPT who would make sure that they would be used only where their expertise is relevant to the outcome of the case and would be able to use them in alternative ways that permits their expertise to be provided in new, innovative ways which are compatible with the digitisation of the process, and the focus on continuous online engagement and interaction between the parties and the tribunal.
+S0800 127.
+S0801 There is a risk to the modelling assumptions that digitising the front-end might encourage more claims.
+S0802 However, there already exists a statutory requirement to consider conciliation before a claim can be issued in ETs.
+S0803 Within this context, we believe that digitisation is not likely to have much impact on the propensity to claim – by the time the claimant reaches the tribunal, he or she has already invested considerable energy in seeking to resolve the dispute without recourse to ETs.
+S0804 Additionally, around 90% of claims ETs are currently started online. ** (Reference: 39)
+S0805 128.
+S0806 There is a risk that a reduction in the number of panel members may affect user outcomes or user perception in the fairness of the system in those cases (as stated in paragraph 37).
+S0807 129.
+S0808 Examples from the Immigration Asylum Chamber and ETs of previous reductions in the use of NLMs suggest this has not had an impact on user outcomes.
+S0809 In June 2014, the President and Resident Judges of the First Tier Tribunal agreed that non-legal panel members would no longer be routinely booked on all deportation first tier appeals.
+S0810 Following this reform, the proportion of appeals allowed/granted in deportation cases has not been notably affected with the proportions so determined standing at around 32% in 2012/13, 37% in 2013/14, 33% in 2014/15 and an average of 35% in the first two quarters of 2015/16.
+S0811 A further example is in ETs when, in 2012, the practice statement of ETs was amended to allow unfair dismissal cases to be heard by a single judge.
+S0812 The proportion of unfair dismissal cases successful at hearing has not been notably affected at around 10% between 2007/08 and 2009/10, 8% in 2010/11, 9% in 2011/12, 8% in 2013/13 and 2013/14, and 11% 2014/15.
+S0813 130.
+S0814 Whilst it is more difficult to measure user perceptions, tribunal judiciary are appointed on the basis that they have the appropriate inter-personal skills to enable them to compensate for the appellants’ lack of skills or knowledge in relation to the tribunal process and assist them to participate effectively in the process.
+S0815 Alongside this, the tribunal judiciary are already appointed on the basis that they have appropriate expertise in the ET context with many judiciary in ETs also being practising employment lawyers.
+S0816 Taking this and the statutory obligations on the SPT to ensure access to justice, we expect that the quality of the service received by users would not be affected.
+S0817 Direct costs and benefits to business calculations 131.
+S0818 There are no direct monetised costs or benefits to business of the amendments to primary legislation that are being consulted on in options 1.
+S0819 The monetised impacts presented in this document arise from the anticipated subsequent changes using secondary legislation that would be needed to deliver the reform programme.
+S0820 Presenting analysis of primary legislation conferring enabling powers in this way is in line with the Better Regulation Framework Manual guidance. The Manual states that “…the overall impacts of the proposed measure (including both primary and secondary legislation) ** (Reference: 40)
+S0821 [should be] set out in the Impact Assessment at the primary legislation stage”.
+S0822 132.
+S0823 We assume that the transition costs to employment lawyers of £515,000 in ETs are all costs to business.
+S0824 We will use the consultation to gather evidence of any other potential costs to business.
+S0825 133.
+S0826 To estimate the direct benefits to business, we take the estimated costs and benefits to employers (Table 10) and factor them downwards to take account of the proportion of cases that are against public sector employers (estimated to be 17%). This produces the following estimated costs to business (which remain steady from 2022/23). ** (Reference: 41)
+S0827 Table 9: Benefit to business from reform package in ETs set out in Option 1, £ millions 2019/20 2020/21 2021/22
+S0828 22022/23
+S0829 Benefit to business 0.83 1.38 1.40 1.40 134.
+S0830 The estimated equivalent annual net direct cost to business (EANDCB) is -£1.00m at 2014 prices.
+S0831 Again note that these figures are for ETs only.
+S0832 Equivalent figures for EAT would be much less.
+S0833 Business Impact Target and One in Three out (OI3O) status.
+S0834 135.
+S0835 This measure contains a mix of different provisions, some relating to public sector impacts and others relating to private sector impacts.
+S0836 This is, therefore, a hybrid measure and only the direct costs and benefits of the provisions relating to businesses would be scored for inclusion in the BIT.
+S0837 As noted above, we expect that there will be no direct impact from the primary legislative change.
+S0838 However, we estimate that there will be costs and benefits to business resulting from the secondary legislation that will follow from the powers introduced in the change to primary legislation.
+S0839 These direct costs and benefits to business are scored as an OUT under OI3O, as the expected monetised benefits outweigh the costs.
+S0840 Also, the estimated gross costs to business from the reforms fall below £1million per annum.
+S0841 The measure has therefore been assessed as suitable for the fast track appraisal route as the public sector costs are out of scope of the regulatory agenda.
+S0842 The impacts relating to the public sector provisions that do not score under the BIT will be included in the impact assessment that is sent to the RPC for validation of the equivalent annual net direct costs to business.
+S0843 136.
+S0844 The estimated BIT score is -£5.5 million.
+Small and Micro Business Assessment
+Demographics of businesses involved in employment tribunals
+S0845 137.
+S0846 Small and micro businesses are in scope of the proposed reforms.
+S0847 SETA 2013 finds that 27 cent of cases from the employer survey were from Micro employers (under 25 employees), eight% were Small (25-49 employees), 17% Medium (50-249 employees) and 47% Large (250+ employees). ** (Reference: 42)
+S0848 Small and Medium Enterprises (SMEs) therefore make up 53% of all cases.
+S0849 These findings are in line with those found when the survey was previously conducted in 2007.
+S0850 138.
+S0851 The impacts are expected to be distributed broadly equally across employers involved in tribunal cases, so this demographic make-up is indicative of the distribution of potential impacts on businesses – which are positive for option 1.
+S0852 139.
+S0853 Given this demographic, we can assume that approximately 35% of the benefits calculated in the sections above would fall on small and micro businesses.
+S0854 For the central estimate of Option 1, this would equate to an annual benefit of £0.59m (of total benefits to business of £1.69m, excluding the EAT).
+S0855 140.
+S0856 To further understand the likely impact on small and micro businesses, it is important to take account of how the reforms may affect businesses of varying sizes differently.
+S0857 141.
+S0858 Some elements of the reforms proposed under Option 1, relating to the introduction of online hearings and video conferencing, could differentially affect small and micro businesses if these businesses have peculiar levels of access to ICT (such as internet connections and scanning facilities).
+S0859 There is limited evidence on the extent that access to communication technologies varies by business size.
+S0860 Potentially, those with smaller premises and fewer employees may have less need for ICT.
+S0861 However, access to these facilities is likely to be more dependent on the businesses’ industry and nature of work than businesses’ size.
+S0862 For example, physically mobile businesses with no fixed premises may have limited ICT infrastructure.
+S0863 Furthermore, it was established in the communication cost to businesses section that 87% of all businesses (including micros) have access to the internet.
+S0864 142.
+S0865 Importantly, the journey and interactions of business of all sizes through an employment tribunal will take account of what approach is most suitable for the specific dispute and parties involved.
+S0866 This would take account of the access that parties may have to specific ICT facilities, hence adapting to businesses of all sizes and characteristics.
+S0867 We hence anticipate there to be no disproportionate impact on small and micro businesses.
+S0868 It may be more likely that for small or micro businesses the business owner (or other primary decision maker of the business) would attend hearings in ETs and the EAT.
+S0869 As the reforms are estimated to reduce the time involved in hearings, and in travelling to and from hearings, then these businesses may gain slightly more from these reforms than large businesses, where it is less likely that the key decision maker would attend.
+Mitigating impacts on small and micro businesses
+S0870 143.
+S0871 Given the anticipated benefits of option 1 there is no reason to consider excluding businesses of certain sizes.
+S0872 144.
+S0873 We will continue to investigate during consultation how the impacts of the proposed reforms may vary depending on firm size.
+S0874 There is a specific consultation question on the potential impact on small and micro sized businesses.
+S0875 We welcome any evidence on this that will inform an updated small and micro business assessment to accompany final policy proposals.
+Family Test
+S0876 1.
+S0877 The Government has considered the full checklist of questions which are included in the official ‘Family Test: Guidance for Departments’ document. The purpose of the checklist is to “raise awareness of the aspects of family life and relationships that public policy can impact, generate insights through the process of addressing the questions, and recording anticipated impacts early in the policy making process.” ** (Reference: 43)
+S0878 We have applied the checklist as a guide for the level of analysis that is proportionate.
+S0879 2.
+S0880 Reduced need to travel for face-to-face hearings and the shorter duration of hearings of all types will give family members more time to spend together or to fulfil caring responsibilities.
+S0881 This would clearly benefit all families, and especially those families with childcare responsibilities or those that provide care for elderly or disabled family members.
+S0882 3.
+S0883 The proposed legislative changes are not anticipated to impact upon family formation, families going through key transitions, families before/during/after couple separation or those most at risk of deterioration of relationship quality.
+S0884 4. We welcome any evidence to inform this assessment of impact on families during the consultation period.
+# Employment Tribunal Reform Equality Analysis
+S0885 \+ REFORMING THE EMPLOYMENT TRIBUNAL SYSTEM
+Taking forward the principles of wider court and tribunal reform in the employment tribunal
+Introduction
+S0886 1.
+S0887 This document records the analysis undertaken jointly by the Department of Business, Energy and Industrial Strategy (BEIS) and Ministry of Justice (MoJ) to fulfil the requirements of the Public Sector Equality Duty in relation to the proposed reform of the Employment Tribunal.
+S0888 The Public Sector Equality Duty comprises three strands, set out in section 149(1) of the Equality Act 2010 whereby a public authority must, in the exercise of its functions, have due regard of the need to:
+S0889 (i).
+S0890 Eliminate discrimination (both direct and indirect), harassment, victimisation and any other conduct that is prohibited by the Act;
+S0891 (ii).
+S0892 Advance equality of opportunity between persons sharing a relevant protected characteristic and persons who do not (iii).
+S0893 Foster good relations between persons sharing a relevant PC and persons who do not.
+S0894 This includes tackling prejudice and promoting understanding.
+S0895 2.
+S0896 Any queries about this Equality Analysis should be addressed to:
+S0897 Labour Market Directorate Department for Business, Energy and Industrial Strategy 1
+S0898 Victoria Street London SW1H 0ET
+S0899 Tel: 0207 215 5000 Fax: 0207 215 6414 Email: ET-Reform-Consultation@beis.gov.uk **(Link: 15)
+Description of the Policies
+S0900 3.
+S0901 This Equality Statement considers the impact of the Government’s proposals to reform the Employment Tribunal system in line with the reforms being implemented across the rest of the justice system under the Transforming our justice system programme. The Government’s intentions are set out in the attached consultation paper. ** (Reference: 45)
+S0902 These are to:
+S0903 a. confer responsibility for procedural rules for Employment Tribunals and the Employment Appeal Tribunal on the Tribunal Procedure Committee;
+S0904 b. confer responsibility for determining panel composition on the Lord Chancellor with a specific power to delegate this responsibility to the Senior President of Tribunals; and, c. amend any provisions that restrict reform in the Employment Tribunals Act 1996 to provide necessary flexibility to implement the wider reform programme.
+S0905 4.
+S0906 The new powers are expected to be used to:
+S0907 a. digitise the claims process, so that claims are able to be made and subsequently processed online, enabling electronic communication between the individuals and the tribunal, simplifying the process, speeding up the resolution of disputes;
+S0908 b. delegate routine tasks from judges to caseworkers - allowing procedural decisions that do not determine the outcome of the case to be made at a proportionate level so that judges can focus on those matters where their legal expertise and knowledge is needed;
+S0909 c. tailor the composition of tribunal panels to the needs of the case - ensuring that panel members without legal expertise are asked to sit on panels according to their expertise and the needs of the case; and d. remove any unnecessary restrictions on how a particular type of case must be determined – ensuring that simple cases can be resolved by simple methods.
+Evidence
+S0910 5. We have considered a number of available sources to determine the likely impact of all the Employment Tribunal measures.
+S0911 The main sources of information are the Survey of Employment Tribunal Applications 2013, data from HMCTS (both published and administrative) and Office for National Statistics publications.
+S0912 6.
+S0913 The 2013 Survey of Employment Tribunal Applications collects information on the personal characteristics of Employment Tribunal claimants in relation to race, gender, disability, sexual orientation, religion, age and marriage and civil partnership. ** (Reference: 46)
+S0914 We do not currently have information on the protected characteristics of Employment Tribunal claimants in terms of gender reassignment and pregnancy and maternity with the current Survey of Employment Tribunal Applications data.
+S0915 It should be noted that recent fee changes may have had an impact on the profile of Employment Tribunal users.
+S0916 Results from Survey of Employment Tribunal Applications for Employment Tribunals are compared against the data collected by the Office for National Statistics relating to the characteristics of the British workforce to see how the characteristics of claimants differ to the general population of employees.
+S0917 Typically, these are taken from the Quarterly Labour Force Survey dataset for January to March, 2016. ** (Reference: 47)
+S0918 7. Statistics relating to the use of the internet have been used to assess the digital skills of various protected groups.
+S0919 These data come from the Internet Access - Households and Individuals: 2015 bulletin and the Q1 2014 Internet Access Quarterly update, both published by the Office for National Statistics. ** (Reference: 48, 49)
+S0920 A more recent edition of the report became available after our initial analysis but, as it shows the same trends as the 2015 dataset, we have not replaced the initial analysis.
+S0921 8.
+S0922 Diversity statistics of the judiciary are published annually by the Judicial Office and this has been used to assess the equality impacts on judges and non-legal members of within the Employment Tribunals. ** (Reference: 50)
+S0923 The data are only available in relation to age, gender, and ethnicity.
+S0924 These statistics have been compared with diversity data for the general population of British employees.
+S0925 9.
+S0926 Administrative staff data were provided by the Ministry of Justice Human Resources Management Information Team.
+S0927 It gave a snapshot of data as at 31 March 2016.
+S0928 Age, gender and ethnicity data are available for tribunals as a whole and, separately, for the Employment Tribunals and Employment Appeal Tribunal.
+Equality Analysis
+Eliminating unlawful discrimination
+S0929 10.
+S0930 This section considers the equality impacts that the reform proposals could have on each of the protected characteristics.
+Direct discrimination
+S0931 11.
+S0932 None of the reform proposals will be directly discriminatory as they will not result in treatment of any individuals less favourably because of any protected characteristic they have or are thought to have but rather will apply equally to all people, irrespective of any protected characteristic.
+Indirect discrimination
+S0933 12.
+S0934 We have identified that the key groups likely to be affected by these reforms will be users of the Employment Tribunals and Employment Appeal Tribunal, the judiciary (including judges and non-legal members), and Her Majesty’s Courts and Tribunals Service administration staff.
+S0935 We welcome responses to the consultation to inform our thinking with regards to indirect discrimination, particularly relating to areas for which limited data are available.
+S0936 Users of the ETs and EAT 13.
+S0937 We consider that the proposals that are relevant to Employment Tribunal users are claim digitisation and flexibility around types of hearing as these proposals will change the way that many users interact with the tribunals.
+S0938 We do not believe that the panel composition or judicial delegation proposals will have any impact on users.
+S0939 In the following, unless otherwise stated, statistics relating to Employment Tribunal users derive from Survey of Employment Tribunal Applications 2013;
+S0940 statistics relating to the GB workforce are taken from the Quarterly Labour Force Survey dataset; See Evidence section for references.
+S0941 Survey of Employment Tribunal Applications 2013 data relate to Employment Tribunals only.
+S0942 However, Employment Appeal Tribunal claims are linked to ET claims, as they will largely be appeals against Employment Tribunal judgments.
+S0943 Gender 14.
+S0944 Fifty seven per cent of Employment Tribunal claimants were men, slightly higher than the proportion of the employed GB workforce (53 per cent).
+S0945 We do not foresee disadvantage as a result of gender as there is little difference in internet use between men and women under 65 years of age. ** (Reference: 51)
+S0946 Ethnicity 15.
+S0947 Overall 82 per cent of claimants were white, compared with 89 per cent of workers in general.
+S0948 However, in race discrimination cases 47 per cent of claimants were black and 22 per cent Asian.
+S0949 The Survey of Employment Tribunal Applications does not report any further detail on the race of claimants.
+S0950 16.
+S0951 The ability of non-English speakers to continue to access the reformed Employment Tribunal system could have an impact on racial equality.
+S0952 As now, HMCTS will continue to engage with accessibility groups during the development phase to ensure that all users continue to be able to access the Employment Tribunal system.
+S0953 Otherwise, we do not consider that there is any potential for indirect discrimination on the basis of race or ethnicity.
+S0954 Disability 17.
+S0955 Twenty six per cent of claimants had a long-term disability which is about the same as the proportion among employees in general (27 per cent).
+S0956 Nineteen per cent had a long-term disability that limited their activities in some way, a higher proportion compared with the workforce as a whole (11 per cent).
+S0957 The proportion rises to 86 per cent in disability-specific discrimination cases, with 52 per cent in discrimination cases, 16 per cent in Wages Act and 18% in redundancy payment cases.
+S0958 18.
+S0959 The proposed flexibility around the type of hearing may be particularly beneficial to users with restricted mobility, although physical hearings will still be able to take place where necessary.
+S0960 Likewise, the digital service will increase accessibility for users with restricted mobility by removing the need to travel.
+S0961 19.
+S0962 The Government recognises that there is evidence that people with a long term disability are less likely to use the internet and other digital channels than people who are not disabled. This will, however, be mitigated by the assisted digital service which will provide support to users to access and use the digital service or alternative methods where appropriate. ** (Reference: 52)
+S0963 20.
+S0964 We have recently consulted on the provisions that need to be in place to assist tribunal users who may struggle with using or accessing digital systems and this may be particularly relevant to tribunal users with a disability.
+S0965 HMCTS will continue to engage with external stakeholder groups, including disability groups, while designing the digital system and will ensure that there are processes and systems in place to meet the needs of tribunal users with disabilities.
+S0966 Age 21.
+S0967 There is evidence for a correlation between age and use of digital technology and that older people are less likely to use the internet for a range of different tasks. Based on this, we believe that claimants over 65s are likely to need more assistance than younger claimants, but this group accounts for just 3 per cent of Employment Tribunal users. The correlation between age and digital skills will also be mitigated by the ‘assisted digital’ service which will provide support to users to access and use the digital service or alternative methods where appropriate. ** (Reference: 53, 54)
+S0968 With these provisions in place, the digital service will make the Employment Tribunals more accessible to all users.
+S0969 Religion / belief 22.
+S0970 Overall, 67 per cent of claimants regarded themselves as belonging to a religion.
+S0971 This proportion rose to 71 per cent among those involved in discrimination cases generally and rose higher still, to 94 per cent, among those involved in religion/belief discrimination case.
+S0972 There is no evidence to suggest that users of the Employment Tribunals and Employment Appeal Tribunal will be put at a disadvantage as a result of their religion of beliefs.
+S0973 Marriage / civil partnership 23.
+S0974 Forty eight per cent of claimants were married or in a civil partnership and 63 per cent were living as part of a couple, broadly reflecting the working population.
+S0975 There is no evidence to suggest that users of the Employment Tribunals and Employment Appeal Tribunal will be put at a disadvantage as a result of their marriage or civil partnership status.
+S0976 Sexual orientation 24.
+S0977 Ninety four per cent of claimants identified themselves as heterosexual, 2 per cent identified as homosexual and 1 per cent as bisexual.
+S0978 A further one per cent answered they did not know, and two per cent preferred not to say.
+S0979 There is no evidence to suggest that users will be put at a disadvantage as a result of their sexual orientation.
+S0980 Pregnancy / maternity 25.
+S0981 Data on pregnancy/maternity are not covered by the Survey of Employment Tribunal Applications reports.
+S0982 However, a recently published Government report on pregnancy and maternity related discrimination and disadvantage found that 1 per cent of mothers surveyed had lodged a complaint at an Employment Tribunal. During 2014/15, there were 955 claims disposed under the jurisdiction of suffering a detriment or unfair dismissal relating to pregnancy. ** (Reference: 55)
+S0983 26.
+S0984 There is no evidence to suggest that Employment Tribunal users will be put at a disadvantage as a result of pregnancy or maternity.
+S0985 We recognise that being pregnant or having children may be a limiting factor in accessing a physical tribunal building.
+S0986 Digital claims management and the provision of alternative types of hearing may be particularly beneficial to people who are pregnant or are parents.
+S0987 Gender reassignment 27.
+S0988 There is no information available in relation to the number of tribunal users who have had or who are considering gender reassignment.
+S0989 However there is no evidence to suggest that any claimants will be put at a disadvantage as a result of gender reassignment.
+S0990 Employment Tribunal judiciary 28.
+S0991 We consider that the relevant aspects of the policy that could impact on the Employment Tribunal and Employment Appeal Tribunal judiciary are the proposals on panel composition, delegation of judicial function, and increased digitisation.
+S0992 The Employment Tribunal judiciary comprises Employment Tribunal judges (27 per cent) as well as non-legal members (73 per cent).
+S0993 All of the non-legal members are fee- paid, whereas the Employment Tribunal judges are either salaried (42 per cent) or fee paid (58 per cent).
+S0994 29.
+S0995 In the following, unless otherwise stated, statistics related to judicial diversity are taken from Judicial Diversity Statistics Tool 2015, part of Judicial Statistics 2015; statistics related to the workforce are taken from the Quarterly Labour Force Survey, January to March, 2016.
+S0996 See Evidence section for references.
+S0997 The judicial data relate to judges in Employment Tribunals only.
+S0998 However, the Judicial Diversity Stats Tool registers only two judges and 21 non-legal members specifically for Employment Appeal Tribunal ** (Reference: 56)
+S0999 so the following summary is generally representative.
+S1000 Gender 30.
+S1001 Overall 52 per cent of the Employment Tribunal judiciary are male and 48 per cent female, broadly similar to the GB employed workforce (which is 53 percent male and 47 percent female).
+S1002 31.
+S1003 Forty nine per cent of non-legal members are male and 51 per cent females.
+S1004 Any reduction in the number of non-legal members would not, therefore, disproportionately affect males or females.
+S1005 32.
+S1006 There is a risk that judicial delegation and digitisation could potentially result in fewer available working hours for fee-paid judges who are deployed according to need.
+S1007 Whilst the majority of ET judges are male (59 per cent), which is a higher proportion than that of the GB workforce, 61 per cent of female judges are fee paid, compared with 56 per cent of male judges, meaning there could be a disproportionate impact on female judges.
+S1008 Ethnicity 33.
+S1009 The exact breakdown of ethnicity in the judiciary is not known, as some people choose not to declare it.
+S1010 In the Employment Tribunals, 9 per cent of non-legal members and 2 per cent of judges have not stated their ethnicity.
+S1011 34.
+S1012 Eighty two per cent of non-legal members identify as white compared with 89 per cent of the GB workforce.
+S1013 Ten per cent of non-legal members identify as being from a BAME background compared with 11 per cent of the GB workforce.
+S1014 35.
+S1015 Six per cent of Employment Tribunal judges are from BAME backgrounds compared with 11 per cent of the GB labour force.
+S1016 This difference is largely accounted for by those who reported an Asian or Asian British background who account for 6 per cent of the GB labour force but only 2 per cent of Employment Tribunal judges.
+S1017 36.
+S1018 There is a risk that judicial delegation and digitisation could mean that there will be a lower work volume which could potentially result in fewer available working hours for fee-paid judges.
+S1019 Fifty eight per cent of judges who are white are fee paid, compared with 43 per cent of judges who are from BAME backgrounds.
+S1020 However, of those judges from a BAME background, 78 per cent of Asian or Asian British judges are fee paid.
+S1021 This indicates that there is likely to be a disproportionate impact on various ethnic groups, particularly Asian or Asian British judges.
+S1022 Disability 37.
+S1023 Her Majesty’s Court and Tribunal Service do not publish data on disability characteristics of the judiciary.
+S1024 Information on disability has not consistently been collected in the past; it has only routinely been collected for new recruits since 2013.
+S1025 As such the impact that this policy will have on disabled members is difficult to determine.
+S1026 However there is no evidence to suggest that there will be a disproportionate impact on members of the Employment Tribunal judiciary who share a protected characteristic relating to disability.
+S1027 Reasonable adjustments for those in the judiciary with disabilities will continue to be made.
+S1028 Age 38.
+S1029 It may be expected that the judiciary will be generally older than the work force as a whole, as younger individuals are less likely to have the prerequisite knowledge and experience needed for these roles, and we have not therefore compared the age characteristics of the judiciary to those of the wider workforce.
+S1030 39.
+S1031 Eighty six per cent of the Employment Tribunal judiciary are above the age of 50 and just 2 per cent are below the age of 40.
+S1032 This is broadly in line with the wider judiciary, where 82 per cent are above the age of 50 and 3 per cent below the age of 40.
+S1033 40.
+S1034 Judicial roles are likely to rely increasingly on digitisation, and as digital capability corresponds to age, this may particularly impact older judges and non-legal members. ** (Reference: 57)
+S1035 However, this risk will be mitigated by the appropriate IT training and support.
+S1036 41.
+S1037 Of the non-legal members in the Employment Tribunals, 92 per cent of non-legal members are above the age of 50, and just 1 per cent below the age of 40.
+S1038 Employment Tribunal judges, on the other hand, are generally younger than their non-legal member counterparts with 69 per cent above the age of 50 and 31 per cent below the age of 40.
+S1039 Whilst we have identified that age may be linked to digital capability, we do not consider that, with the appropriate support and training in place, that older members will be particularly disadvantaged.
+S1040 42.
+S1041 There is a risk that judicial delegation and digitisation could mean that there will be less work, potentially resulting in fewer sittings for fee-paid judges than salaried judges.
+S1042 Younger Employment Tribunal judges are more likely to be fee paid rather than salaried with 94 per cent of judges under 40 being fee paid, compared to 47 per cent of judges over 60.
+S1043 This policy could therefore potentially disproportionately impact younger judges.
+S1044 Other characteristics 43.
+S1045 Her Majesty’s Court and Tribunal Service do not publish judicial data in relation to the religion or belief, marriage and civil partnership, sexual orientation, pregnancy or maternity or gender reassignment.
+S1046 However there is no evidence to suggest that there will be a disproportionate impact on any judges or non-legal members who share these protected characteristics.
+S1047 Employment Tribunal administration staff 44.
+S1048 We consider that increased digitisation may be relevant to administration staff working in the Employment Tribunal and Employment Appeal Tribunal.
+S1049 It is not anticipated that other elements of the reform will significantly affect administration staff.
+S1050 45.
+S1051 In the following, unless otherwise stated, statistics related to administrative staff diversity are taken from internal management information and relate to staff in Employment Tribunals and Employment Appeal Tribunal combined; statistics related to the workforce are taken from the Quarterly Labour Force Survey, January to March, 2016.
+S1052 See Evidence section for references.
+S1053 Gender 46.
+S1054 Sixty-eight per cent of Employment Tribunal administration staff are female compared with 47% of the employed GB workforce.
+S1055 Although there is a risk that any decrease in work volumes as a result of digitisation could affect a high proportion of females, relative to the wider population, we do not consider that this amounts to indirect discrimination as the impacts on staff will be the same regardless of gender and will be proportional to their composition in the workforce.
+S1056 Ethnicity 47.
+S1057 The exact breakdown of ethnicity amongst the administration staff in the Employment Tribunal is not known, as 17 per cent choose not to declare it.
+S1058 However, 24 per cent who did report it are from BAME backgrounds, compared with 11 per cent of the GB workforce as a whole.
+S1059 There is therefore a risk that a high proportion of people from BAME backgrounds, relative to the wider population, could be put at a disadvantage should work volumes decrease as a result of digitisation.
+S1060 However, we do not consider that this amounts to indirect discrimination as the impacts will be the same on all staff regardless of ethnicity and will be proportional to their composition in the workforce.
+S1061 Age 48.
+S1062 Sixty-one per cent of Employment Tribunal administration staff are aged between 40 and 59 compared with 45 per cent of the GB labour force.
+S1063 Many administrative roles are likely to rely increasingly on digitisation, and as digital capability corresponds to age, this may impact older staff in particular.
+S1064 However training and support will be made available to mitigate this risk and provide the opportunity to learn new skills.
+S1065 There is also a risk that a high proportion, relative to the GB workforce, of people aged 40-59, will be put at a disadvantage should work volumes decrease as a result of digitisation.
+S1066 However, we do not consider that this amounts to indirect discrimination as the impacts will be the same on all administration staff regardless of age and will be proportional to their composition in the workforce.
+S1067 Disability 49.
+S1068 Only 50 per cent of Her Majesty’s Courts and Tribunals staff have completed a declaration on disability.
+S1069 Of these 10 per cent have reported a disability compared to 11 per cent for the GB workforce as a whole.
+S1070 The available date does not suggest that there will be a disproportionate impact on those with disabilities.
+S1071 Her Majesty’s Court and Tribunal Service will continue to make reasonable adjustments for Employment Tribunal staff with disabilities.
+S1072 Other characteristics 50.
+S1073 Her Majesty’s Court and Tribunal Service do not publish staff data in relation to the religion or belief, marriage or civil partnership, sexual orientation, pregnancy or maternity, or gender reassignment.
+S1074 There is no evidence to suggest that there will be a disproportionate impact on those who share any of these protected characteristic.
+Harassment and victimisation
+S1075 51.
+S1076 We do not consider there to be a risk of harassment or victimisation from these proposals.
+Advancing equality of opportunities.
+S1077 Employment Tribunal users 52.
+S1078 The increased use of digitisation and the use of non-physical means of hearing has the potential to better meet the needs of people with particular protected characteristics, enabling them to participate in public life.
+S1079 We consider that people with mobility-related disability and those with caring responsibility, including parents, will particularly benefit from these reforms as they will have greater flexibility and ease of access to the Employment Tribunals and Employment Appeal Tribunal.
+S1080 Employment Tribunal judiciary 53.
+S1081 The Government recognises that the judiciary is less diverse of certain protected characteristics than the wider population.
+S1082 The Diversity Forum, attended by representatives of the Ministry of Justice, Judicial Appointments Commission, the judiciary and the legal profession, are exploring ways of increasing diversity in the judiciary.
+S1083 54.
+S1084 There is a possibility that the digitisation and panel composition proposals could lead to fewer sitting days for judges and non-legal members, which could in turn lead to a reduction in future recruitment, preventing people from more diverse backgrounds, and particularly younger people from entering judicial roles.
+S1085 Workload decline has already had an impact on judicial recruitment with no non-legal member recruitment since 2009 and, with the exception of new leadership posts, the Employment Tribunal has not recruited any new judges since 2013.
+S1086 55.
+S1087 However, there are policies in place involving cross deployment of Employment Tribunal judges to other areas of the courts and tribunals system, providing greater opportunities to the existing cohort of Employment Tribunal judges and minimising the impacts of potential decline in sitting hour availability.
+S1088 A pilot is being run wherein salaried Employment Tribunal judges can sit in the civil county courts according to business needs.
+S1089 Likewise Employment Tribunal judges can already be deployed to other tribunals on an expression of interest basis.
+S1090 Whilst these policies will apply to all Employment Tribunal judges, regardless of any protected characteristic, they may be particularly beneficial to fee-paid judges who are most likely to be affected by these proposals, including females, younger people, and Asian or Asian British judges.
+S1091 56.
+S1092 Additionally, schemes are in place across the wider judiciary to encourage greater diversity and equality of opportunities.
+S1093 There are more than a hundred Diversity and Community Relations judges across England and Wales who volunteer to community engagement to encourage judicial careers from groups that are typically under-represented in the judiciary.
+S1094 There are support and mentoring schemes in place to provide help for under-represented groups, including candidates who are female, or from a BAME background, or who come from a low socio-economic background, to apply for the High Court.
+S1095 Employment Tribunal administration staff 57.
+S1096 We do not consider that there is scope within the policy of reforming the Employment Tribunals and Employment Appeal Tribunal to promote advance equalities of opportunity between groups of people who share a certain characteristics and those who do not.
+Fostering good relations
+S1097 58.
+S1098 We do not consider that there is scope within the policy of reforming the Employment Tribunals and Employment Appeal Tribunal to promote measures that foster good relations between persons who share a relevant protected characteristic and persons who do not.
+S1099 For this reason, we do not consider Employment Tribunal reform is relevant to this obligation.
+Welsh language considerations
+S1100 59.
+S1101 Both Ministry of Justice and Her Majesty’s Court and Tribunal Service have adopted the principle that in the conduct of public business and the administration of justice in Wales, it will treat the English and Welsh languages on a basis of equality.
+S1102 We are aware of our Welsh language obligations and we will be considering this as the reform proposals develop and are implemented.
+S1103 We will also be working closely with Government Digital Services, who likewise have Welsh language obligations, to build the digital systems and ensure that users are able to communicate with the Employment Tribunals in Welsh.
+Summary of impacts of key reform features
+S1104 60.
+S1105 Having considered the impact of Employment Tribunal reform in relation to the obligations under the Equality Act, we have concluded that:
+S1106 a. Employment Tribunal reform will not result in any direct discrimination of Employment Tribunal users or judiciary or Her Majesty’s Court and Tribunal System staff;
+S1107 b.
+S1108 There may be some disparate impacts on Employment Tribunal judges who share certain protected characteristics relating to age, ethnicity and gender, but these are justified and lawful;
+S1109 c. Employment Tribunal reform does not have an adverse impact in relation to harassment and victimisation, nor in relation to the need to foster good relations; and d. Equality of opportunities of Employment Tribunal users may be promoted as the Employment Tribunals will be more accessible to people that may have issues with the system presently.
+S1110 The policy does not promote equality of opportunities for judges or Employment Tribunal staff, but there is work being undertaken across the wider judiciary to address this.
+S1111 61.
+S1112 The Government welcomes responses to the consultation questions and any comments around equality and diversity impacts will inform our equality analysis.
+S1113 The Ministry of Justice and Department for Business, Energy and Industrial Strategy recognise their ongoing equality duty and will continue to assess and monitor the implications of this policy on equality and diversity during and following implementation, and subsequent adjustments will be made as necessary.

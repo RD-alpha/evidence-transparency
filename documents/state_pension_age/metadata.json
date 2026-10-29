@@ -1,0 +1,13 @@
+{
+  "title": "New Timetable for the State Pension Age Change",
+  "alias": "state_pension_age",
+  "uploaded_at": "2026-10-13T12:25:21.819481+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "12:25:21 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "appendix2_date": "19 July 2017",
+  "appendix2_type": "policy paper",
+  "source_file": "108_new_timetable_for_the_state_pension_age__1_state-pension-age-review-final-report.pdf",
+  "extraction_note": "PDF table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

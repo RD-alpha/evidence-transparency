@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Opaque and highly variable tenant fees",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "DCLG's own market research (random sample of 50 agents, method described) and cited surveys (NALS, ARLA, Generation Rent, Shelter \u2013 refs 3-6) are explicitly linked to the claim that fees vary widely for similar services, though the document does not assess why the surveys' averages (\u00a3172 vs \u00a3223 vs \u00a3400) diverge."
+    },
+    {
+      "theme": "Tenants' lack of market power over agent selection",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Citizens Advice (ref 9, 60% vs 88%) and NLA survey (ref 11, a quarter of landlords unaware of fees) are cited and clearly linked to the claim that tenants cannot shop around, though the OFT 2013 study is only named in prose with no citation."
+    },
+    {
+      "theme": "Perverse incentives from short tenancies",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "EHS data (ref 7) on tenancy length and repeated fee payment is cited, but the central claim that churn 'creates an incentive for short-term lets' is asserted ('arguably') with no evidence behind the causal link."
+    },
+    {
+      "theme": "Financial harm to tenants",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Citizens Advice (ref 13, 64% problems paying, 42% borrowed) and Shelter (ref 12, one in four feel overcharged) are cited and linked to the harm claim, though the EHS stat on fees deterring moves (35%/34%) is named only in prose without a reference."
+    }
+  ],
+  "reasoning": "The diagnosis of 'high, opaque tenant letting fees' rests on four core themes. 'Opaque and highly variable fees' (level 2) is well evidenced: DCLG's own 50-agent website survey (method described) plus NALS/ARLA/Generation Rent/Shelter data (refs 3-6) are linked to the claim that fees vary for similar services, though the contradictory averages across surveys are not explicitly reconciled. 'Lack of market power' (level 2) uses Citizens Advice (ref 9) and NLA (ref 11) statistics clearly tied to the claim that tenants cannot negotiate, though the OFT 2013 study is uncited. 'Perverse incentives from short tenancies' (level 1) cites EHS data (ref 7) for tenancy length and repeat payments, but the core inferential claim that churn 'creates an incentive for short-term lets' is pure reasoning ('arguably'), with no evidence for the incentive mechanism itself. 'Financial harm to tenants' (level 2) cites Citizens Advice (ref 13) and Shelter (ref 12) directly supporting hardship and borrowing claims, though the EHS stat on deterred moves lacks a reference marker. The mean of (2+2+1+2)/4 = 1.75, rounding down to 2. The strongest counter-example is the short-tenancies theme, where the incentive claim is unsupported speculation despite surrounding cited data. To reach level 3, the document would need to assess the reliability of its sources - e.g. reconciling the divergent fee averages or acknowledging survey limitations - rather than simply juxtaposing figures.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

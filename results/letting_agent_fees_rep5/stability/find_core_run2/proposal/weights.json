@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Rebalancing market incentives toward landlords",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scottish precedent as evidence base",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Anticipated benefits and costs for tenants",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Policy scope and definition of the ban",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Promoting clarity and simplicity",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Rent pass-through and landlord cost recovery",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Wider regulatory framework for letting agents",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Policy announcement and consultation",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+S0030 This will need to be implemented across EU Member States by January 2018, and brought into force six months later.
+S0037 The response from this consultation will help finalise the Government's PTD 2015 implementation plans, and also influence the shape of the longer-term ATOL options.
+S0038 The Government will launch a further consultation on changes to the UK Package Travel Regulations (PTR), in due course.
+S0039 This will include proposals for non-air package travel.
+S0040 Businesses will then need to comply with any new requirements under ATOL or the PTR by summer 2018.
+S0041 The Department for Transport (DfT) and Department for Business Energy and Industrial Strategy (BEIS) are working together to implement PTD 2015.
+S0044 As some of these changes require both primary and secondary legislation, it is important that we consult now to allow sufficient time to implement.
+S0045 Step 2 - The second consultation will be launched in due course, and will discuss the over-arching proposals for implementing PTD 2015 as a whole, through updating the Package Travel Regulations (1992).
+S0046 These legislative changes can be carried out more quickly as they do not require primary legislation.
+S0062 11 The second section of this consultation therefore seeks further information and evidence to help inform the development of options for longer term reform.
+S0063 It is important that we have a more complete understanding of options, to be clear that they are feasible, sustainable and that the travel market is able to transition.
+S0126 ATOL legislation 25 We must also consider the appropriate legislative path for ATOL reform.
+S0127 The ATOL scheme is made up of a requirement to hold a licence and a requirement to pay an ATOL Protection Contribution (APC) for licensable bookings.
+S0128 These obligations are defined in secondary legislation which are enabled by primary legislation under the Civil Aviation Act (1982).
+S0129 In order to take forward the preferred option (option 2), we would amend the powers to require licensing and APC payments in section 71(1) and (1A) Civil Aviation Act (1982), to align these with the scope of PTD 2015.
+S0130 We anticipate that primary legislation will be used for this, which could be introduced into Parliament early in 2017.
+S0131 If we go ahead and amend this APC payment power, we would still need to introduce secondary legislation at a later date to actually amend the class of booking that is required to pay an ATOL contribution.
+S0163 It is our intention that these businesses will be brought into the full scope of the ATOL scheme by 2018, where they are offering a relevant flight-inclusive package.
+S0227 46 In broadening the scope in this way, it is also important to consider the practicalities for the CAA in providing ATOL protection to overseas consumers.
+S0228 There is an obligation in the PTD 2015 to provide effective security for repatriation, however, this is not an obligation to provide an organised repatriation.
+S0229 In the past, CAA has sometimes organised repatriations where large numbers of passengers are involved, but the ATOL scheme also allows the CAA to simply pay the passenger a sum in respect of repatriation costs (a flexibility reflected in PTD 2015).
+S0230 CAA will need to continue to exercise discretion and assess each situation on a case by case basis.
+S0295 This may require the CAA to make more use of their ability to request additional security if it considers that the increased risk, or exposure, is too high for the Air travel Trust to bear.
+S0584 The UK will need to transpose the Directive into UK law before 1 January 2018.
+S0600 The UK Government will need to transpose the new Directive into UK law by 1 January 2018.
+S0711 The UK Government will need to transpose PTD2 into UK law before 1 January 2018.
+S0740 ATOL scheme defined in law Finally, the ATOL scheme is defined in law, and contributions to pay for it are enabled by primary legislation under the Civil Aviation Act (1982).
+S0741 Those contributions are classified by the Office for National Statistics as a tax.
+S0742 Any changes to the scheme which are necessary to implement EU obligations arising from PTD2 would normally be made through secondary legislation using powers in section 2(2) of the European Communities Act (1972).
+S0743 However, in this case, we have to amend the tax raising power in section 71(1) Civil Aviation Act (1982), to cover businesses “established in” the UK, as opposed to businesses directing sales in UK.
+S0744 We anticipate that primary legislation will be used for this which requires intervention from the Government.
+S0745 It is currently planned that the primary legislation needed to alter the tax raising powers of ATOL will be part of the Modern Transport Bill. ** (Reference: 18)
+S0790 Transitional arrangements may need to be in place in order to minimise disruption to the sector and provide continuity of protections.
+S0805 The change in definition, may need to be supplemented by anti-avoidance measures, for example to capture businesses who have previously considered themselves out of scope as they present themselves as an agent acting for the consumer.
+S1072 The Better Regulation Framework Manual sets out a range of mitigation actions that Departments can take to reduce the impact of Government policy on small and micro business.
+S1073 This is because impacts of government policy on small business tend to be disproportionate and prevents entrepreneurship in setting up and running companies.
+S1074 In this context, the policy goes some way to mitigating impacts on small business.
+S1075 On this basis we do not believe there is a case for partial or full exemption.
+S1077 Full, partial or temporary exemption: The transposition of EU law as a maximum harmonisation provision prevents small business exemptions, even on partial or temporary basis.
+S1078 Extended transition period: The transposition of PTD2 requires that there is a six month period from enactment to implementation.
+S1079 There is no provision in the PTD2 to extend this period for small businesses.
+S1080 Varying requirements by type and/or size of business: Small businesses are able to take advantage of two (less burdensome) approaches to achieve compliance with the PTD2: these are through small business ATOLs; and using Accredited Bodies.
+S1081 Specific information campaigns or user guides, training and dedicated support for smaller businesses: The CAA, Accredited Bodies and other trade bodies (such as ABTA) would be able to assist small businesses in compliance with the proposal.
+S1082 Direct financial aid for smaller business: Reimbursement or financial support for compliance would likely cause a breach of EU rules on state aid, so this route is not available.
+S1083 Opt-in and voluntary solutions: There is no scope for small businesses to comply with PTD2 on an opt-in or voluntary basis.

@@ -1,0 +1,171 @@
+<root>
+<theme sentences="2" weight="core">
+<name>Primary powers for future targeted regulation</name>
+<claim>The Government proposes to take broad primary legislative powers now so that targeted secondary regulation can be introduced if and when needed, rather than fixing detailed requirements immediately.</claim>
+<text>
+<line id="S0054">The Government considers that primary legislative powers in these areas would allow for targeted regulation to be introduced, if and when necessary, to ensure recharging and refuelling infrastructure is able to meet the future needs of ULEVs and their users.</line>
+<line id="S0055">These measures could support growth in the market and will help ensure consumers receive the level of infrastructure provision they require.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="27" weight="core">
+<name>Consumer experience measures package</name>
+<claim>The Government proposes powers to mandate open data, interoperable access, transparent pricing and minimum design standards for chargepoints and refuelling stations, favouring flexible, market-based solutions (e.g. bilateral roaming over mandated platforms) over prescriptive mandates.</claim>
+<text>
+<line id="S0057">Consumer experience of infrastructure a) Power to require operators of publicly accessible chargepoints and</line>
+<line id="S0058">hydrogen refuelling stations, and networks, to provide data in an</line>
+<line id="S0059">open source format on the geographical location and live availability of charging and refuelling infrastructure b) Power to require operators of publicly accessible chargepoints and</line>
+<line id="S0060">hydrogen refuelling stations, and networks, to ensure consumers can use them without the need for multiple memberships c) Power to require operators of publicly accessible chargepoints and</line>
+<line id="S0061">hydrogen refuelling stations, and networks, to publish transparent and comparable pricing information d)</line>
+<line id="S0062">Power to specify minimum standards of design and functionality for</line>
+<line id="S0063">new publicly accessible chargepoints and hydrogen refuelling stations and networks</line>
+<line id="S0094">a) Power to require operators of publicly accessible chargepoints and</line>
+<line id="S0095">hydrogen refuelling stations, and networks, to provide data in an open source format on the geographical location and live availability of charging and refuelling infrastructure b) Power to require operators of publicly accessible chargepoints and</line>
+<line id="S0096">hydrogen refuelling stations, and networks, to ensure consumers can use them without the need for multiple memberships c) Power to require operators of publicly accessible chargepoints and</line>
+<line id="S0097">hydrogen refuelling stations, and networks, to publish transparent and comparable pricing information d)</line>
+<line id="S0098">Power to specify minimum standards of design and functionality for</line>
+<line id="S0100">The availability of reliable and comprehensive open source data on public chargepoint and refuelling type, location and access method could improve the charging offer to the consumer.</line>
+<line id="S0101">This could include the provision of live (dynamic) data, where it is available.</line>
+<line id="S0104">Since 2013, OLEV- funded public chargepoints have been required to provide “pay as you go” functionality enabling ad hoc access by drivers who are not members of a network.</line>
+<line id="S0105">This gives consumers confidence that publicly funded and publicly accessible chargepoints will be available for use, without the need to join a membership scheme or planning a journey in advance (although these are not precluded).</line>
+<line id="S0108">1.11 Voluntary roaming platforms, or clearing houses, have emerged in other EU countries that can provide a single point of access for consumers to all chargepoint operators on the platform.</line>
+<line id="S0109">Platforms enable business-to-business transactions between network operators, connecting back offices to ensure standardised data and payment exchange.</line>
+<line id="S0110">Due to the smaller number of networks in the UK, a more suitable approach if needed may be bi-lateral roaming agreements between operators, without the need for a platform or clearing house.</line>
+<line id="S0112">we are required to mandate ad hoc accessibility, but not the access method.</line>
+<line id="S0113">The Bill gives us the opportunity to shape how this element develops.</line>
+<line id="S0114">Defining a technical payment solution, or requiring operators to reach commercial agreements under a platform model may be a disproportionate response.</line>
+<line id="S0116">1.13 Transparent and comparable pricing information for chargepoint and refuelling station access: The Government’s view is that pricing and pricing models are commercial matters for chargepoint and hydrogen refuelling station network operators or host sites.</line>
+<line id="S0117">Consumer choice is promoted through market competition.</line>
+<line id="S0118">Our proposed approach to transposing the relevant requirements of AFID reflects this.</line>
+<line id="S0120">1.14 Information for consumers on chargepoint pricing, however, should be easily, consistently or comparably available.</line>
+<line id="S0121">Powers to standardise and require this information could help ensure the market meets the needs of consumers.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="31" weight="core">
+<name>Smart charging standards</name>
+<claim>The Government proposes to require minimum 'smart' and open-access functionality in charging infrastructure to enable grid balancing and protect consumers' future access to smart tariffs, based on evidence that such functionality is low-cost to add.</claim>
+<text>
+<line id="S0064">Smart charging - Infrastructure and the electricity system e) Power to require infrastructure installed for the purposes of</line>
+<line id="S0065">charging EVs to have 'smart' functionality to receive, understand and respond to signals sent by energy system participants (e.g. Distribution Network Operators (DNOs), energy suppliers, National Grid or other third parties) for the purposes of balancing energy supply and demand, and to require any technological functionality in EVs necessary to ensure ‘smart’ functionality f) Power to require that technical standards used by operators of</line>
+<line id="S0066">chargepoints and networks comply with the requirements set out in these measures are available and implemented on an open access basis.</line>
+<line id="S0067">This includes making publicly accessible the necessary protocols to allow the charging infrastructure to communicate, understand and respond to signals or grid balancing</line>
+<line id="S0068">Provision of infrastructure g) Power to require that operators of motorway service areas (MSAs)</line>
+<line id="S0150">e) Power to require infrastructure installed for the purposes of</line>
+<line id="S0151">charging EVs to have 'smart' functionality to receive, understand and respond to signals sent by energy system participants (e.g. DNOs, energy suppliers, National Grid or other third parties) for the purposes of balancing energy supply and demand, and to require any technological functionality in EVs necessary to ensure ‘smart’ functionality f) Power to require that technical standards used by operators of</line>
+<line id="S0152">chargepoints and networks comply with the requirements set out in these measures are available and implemented on an open access basis.</line>
+<line id="S0153">This includes making publicly accessible the necessary protocols to allow the charging infrastructure to communicate, understand and respond to signals or grid balancing 1.17</line>
+<line id="S0157">1.18 As they may be plugged in for long periods, EVs hold great potential to “smart charge” - not only receiving the necessary amount of electricity required by the user within the time required, but providing balancing services to the electricity system.</line>
+<line id="S0158">This could involve reducing or increasing the power of a charge to balance the system’s frequency, or timing charging to take advantage of off- peak periods.</line>
+<line id="S0159">These functions could hold benefits to a range of parties, including consumers, energy suppliers and network operators.</line>
+<line id="S0160">Many of these functionalities hold commercial value and could be transferred to consumers through lower energy bills.</line>
+<line id="S0166">In order to ensure that bill payers can access the benefits of smart charging, it is likely that their chargepoint will need to be able to:</line>
+<line id="S0167">a) receive the electronic communications from a third party, so</line>
+<line id="S0168">that the chargepoint can be told to adapt its charge</line>
+<line id="S0169">b) understand and act on information provided by a third</line>
+<line id="S0170">party.</line>
+<line id="S0171">This is so the chargepoint can take action in response to a request to adapt a charge, potentially taking account of other parameters such as consumer preferences</line>
+<line id="S0172">c) transmit electronic communication to a third party.</line>
+<line id="S0173">This is</line>
+<line id="S0174">so the chargepoint can inform the third party of its actions after a request</line>
+<line id="S0175">d) meter energy usage over time.</line>
+<line id="S0176">This is to validate any</line>
+<line id="S0177">response to a request to adapt a charge</line>
+<line id="S0181">Providing the technical foundations for smart charging capability in our recharging infrastructure may itself aid the development of energy sector players to develop business models for balancing services and presents a strong case for taking powers to set minimum standards to support smart charging.</line>
+<line id="S0182">1.21 Evidence from the home appliance sector indicates that the cost of ensuring devices are capable of interpreting signals and adapting devices’ energy use is relatively low. ** (Reference: 2)</line>
+<line id="S0183">Government expects that the benefits of ensuring consistent minimum standard functionality to provide smart charging services is a necessary building block to support innovation and ultimately keep downward pressure on costs for electricity bill payers.</line>
+<line id="S0184">Without an intervention, there is a risk that additional products would need to be added, or existing chargepoints replaced, in order to provide smart charging services at some point in the near future.</line>
+<line id="S0194">1.24 The Government considers that the benefits of ensuring consistent minimum standard functionality to provide smart charging services, as necessary building blocks.</line>
+<line id="S0195">Without an intervention, there is a risk that additional products would need to be added, or existing chargepoints replaced, in order to provide smart charging services.</line>
+</text>
+<references>
+<reference number="2">http://www.eco- smartappliances.eu/Documents/Prep%20Study%20Smart%20appliances_Task%204_160504.pdf</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="18" weight="core">
+<name>Strategic provision and hydrogen market support</name>
+<claim>The Government proposes to mandate minimum charging/refuelling provision at motorway service areas and large fuel retailers and to use time-limited franchises to attract private investment in hydrogen refuelling during its commercially unviable growth phase.</claim>
+<text>
+<line id="S0068">Provision of infrastructure g) Power to require that operators of motorway service areas (MSAs)</line>
+<line id="S0069">ensure a minimum provision of electric and hydrogen fuels for ULEVs at MSAs h) Power to require a minimum provision of electric and hydrogen</line>
+<line id="S0070">fuels for ULEVs at large fuel retailers i)</line>
+<line id="S0071">Power to franchise hydrogen refuelling</line>
+<line id="S0216">g) Power to require that operators of motorway service areas (MSAs)</line>
+<line id="S0217">ensure a minimum provision of electric and hydrogen fuels for ULEVs at MSAs h) Power to require a minimum provision of electric and hydrogen</line>
+<line id="S0218">fuels for ULEVs at large fuel retailers</line>
+<line id="S0219">i) Power to franchise hydrogen refuelling 1.29</line>
+<line id="S0224">As uptake of EVs increases and they enter the mass market, the provision of charging infrastructure at fuel retailers could provide a convenient facility for EV motorists, comparable with refuelling of petrol or diesel vehicles, and a highly visible network for those still considering switching to an EV.</line>
+<line id="S0231">1.32 With regard to hydrogen refuelling, the UK H2 Mobility (UKH2M) project analysed the opportunity for hydrogen for transport in the UK.</line>
+<line id="S0232">Its Phase 1 report concluded that an initial network of 65 hydrogen refuelling stations would be sufficient to enable nationwide roll-out of hydrogen fuel cell EVs (FCEVs). ** (Reference: 4)</line>
+<line id="S0233">UKH2M projected that this would grow to around 330 stations by 2025 and 1,150 stations by 2030, providing an improved consumer refuelling offer and supporting a larger fleet.</line>
+<line id="S0238">Public funding is therefore required to bring forward the early refuelling network and enable vehicle deployment and market growth</line>
+<line id="S0243">However, measures are likely to be required to provide investor confidence in this phase</line>
+<line id="S0246">1.34 Government is investing in the Market Seeding phase through its Hydrogen for Transport Advancement Programme.</line>
+<line id="S0247">However, ongoing public funding of hydrogen refuelling infrastructure beyond 2020 is unlikely to be viable.</line>
+<line id="S0248">Government is therefore considering options to provide confidence to secure private investment during the Investing in Growth phase.</line>
+<line id="S0249">1.35 These options include mandating provision of hydrogen refuelling at fuel retail forecourts where appropriate, MSAs or other strategic locations, and conferring first mover advantage to early investors by granting time-limited regional franchises for hydrogen refuelling.</line>
+</text>
+<references>
+<reference number="4">www.ukh2mobility.co.uk/wp-content/uploads/2013/08/UKH2-Mobility-Phase-1-Results-April-2013.pdf</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="8" weight="not core">
+<name>Policy background and objectives</name>
+<text>
+<line id="S0020">This consultation seeks views on measures relating to ULEVs that the Department for Transport is considering for inclusion in the Modern Transport Bill (the Bill).</line>
+<line id="S0021">The Modern Transport Bill was announced in the Queen’s Speech in May 2016.</line>
+<line id="S0022">We propose to include a number of measures that will benefit the roll-out and use of recharging and refuelling infrastructure for (ULEVs).</line>
+<line id="S0026">We are keen to support provision of ULEV infrastructure across the UK, and it is proposed that these powers will be taken to apply across all</line>
+<line id="S0027">nations.</line>
+<line id="S0049">1.1 The Queen’s Speech on 18 May 2016 announced the introduction of the Modern Transport Bill (the Bill).</line>
+<line id="S0050">Her Majesty set out that the Bill would include measures to ensure that the United Kingdom is at the forefront of technology for new forms of transport, including electric vehicles (EVs).</line>
+<line id="S0051">1.2 The Office for Low Emission Vehicles (OLEV) is seeking views on potential measures for inclusion in the Bill that could support the uptake and use of ultra low emission vehicles (ULEVs), including battery and hydrogen fuel cell EVs, and maximise their benefits.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="4" weight="not core">
+<name>Infrastructure design and interoperability</name>
+<text>
+<line id="S0123">AFID imposes a degree of harmonisation, but further powers to ensure minimum technical specifications of EV chargepoint infrastructure may be important as the future market develops.</line>
+<line id="S0124">This could help to ensure physical interoperability to enable all EVs, regardless of connector type, to be able to charge on the public networks.</line>
+<line id="S0125">It is important, however, to ensure that any minimum specifications are sufficiently flexible to accommodate emerging technologies, and to consider the impacts on business of legislating for minimum standards.</line>
+<line id="S0126">It is intended that this measure will provide the flexibility necessary to build upon the level of standardisation mandated by the AFID.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="not core">
+<name>Other</name>
+<text>
+<line id="S0140">Provision for ad hoc access to publicly accessible chargepoints will be mandated by AFID.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<ungrouped sentences="1">
+<text>
+<line id="S0119">But, we are clear that we do not want to see prohibitive pricing to be a barrier to the uptake of EVs, and will continue to monitor developments closely.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</ungrouped>
+</root>

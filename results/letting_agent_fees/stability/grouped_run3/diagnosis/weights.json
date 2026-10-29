@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Growth and Structure of the Private Rented Sector",
+      "reason": "Provides background context on the size and growth of the PRS, establishing scale but not itself explaining why fees are high or opaque.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Regulation and Transparency Requirements",
+      "reason": "Describes existing transparency rules and their limited enforcement, directly supporting the diagnosis that opacity persists despite regulation - a key part of the 'opaque fees' problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Fee Structures, Levels and Variation",
+      "reason": "This is the central evidentiary theme documenting how high and inconsistent fees are, the core factual basis for the 'high, opaque fees' problem; without it the diagnosis has no substance.",
+      "weight": "core"
+    },
+    {
+      "theme": "Market Failure and Lack of Competition",
+      "reason": "Explains the causal mechanism - weak competitive pressure on tenant-facing fees - which is essential to explain why fees are high and opaque rather than just asserting they are.",
+      "weight": "core"
+    },
+    {
+      "theme": "Impact on Tenants - Financial Harm and Churn",
+      "reason": "Demonstrates the real-world effects and scale of harm from fees, supporting the case that this is a significant problem needing intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Unfair Practices and Discrimination",
+      "reason": "Gives examples of bad behaviour by a minority of agents, adding colour but the diagnosis does not depend on these specific unfair/discriminatory practices to stand.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "A single passing reference to Northern Ireland surveys, too minor and tangential to carry any part of the argument.",
+      "weight": "not core"
+    }
+  ]
+}

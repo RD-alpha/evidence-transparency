@@ -1,0 +1,190 @@
+Childhood Obesity
+A Plan for Action
+S0001 August 2016
+S0002 DH ID box
+S0003 Title: Childhood Obesity: A Plan for Action
+S0004 Author: HM Government
+S0005 Document Purpose: Policy
+S0006 Publication date: 08/2016
+S0007 Contact details: Childhood.Obesity@dh.gsi.gov.uk
+S0008 You may re-use the text of this document (not including logos) free of charge in any format or medium, under the terms of the Open Government Licence.
+S0009 To view this licence, visit www.nationalarchives.gov.uk/doc/open-government-licence/ **(Link: 1)
+S0010 © Crown copyright 2016
+S0011 Published to gov.uk, in PDF format only.
+S0012 www.gov.uk/dh **(Link: 2)
+Introduction
+S0013 Today nearly a third of children aged 2 to 15 are overweight or obesei, and younger generations are becoming obese at earlier ages and staying obese for longer. Reducing obesity levels will save lives as obesity doubles the risk of dying prematurely. Obese adults are seven times more likely to become a type 2 diabetic than adults of a healthy weight which may cause blindness or limb amputation. ** (Reference: 1,2,3,4)
+S0014 And not only are obese people more likely to get physical health conditions like heart disease, they are also more likely to be living with conditions like depression.
+S0015 The economic costs are great, too.
+S0016 We spend more each year on the treatment of obesity and diabetes than we do on the police, fire service and judicial system combined. ** (Reference: 7)
+S0017 It was estimated that the NHS in England spent £5.1 billion on overweight and obesity-related ill-health in 2014/15. ** (Reference: 8)
+S0018 The burden is falling hardest on those children from low-income backgrounds.
+S0019 Obesity rates are highest for children from the most deprived areas and this is getting worse. Children aged 5 and from the poorest income groups are twice as likely to be obese compared to their most well off counterparts and by age 11 they are three times as likely. ** (Reference: 9,10)
+S0020 Obesity is a complex problem with many drivers, including our behaviour, environment, genetics and culture.
+S0021 However, at its root obesity is caused by an energy imbalance: taking in more energy through food than we use through activity.
+S0022 Physical activity is associated with numerous health benefits for children, such as muscle and bone strength, health and fitness, improved quality of sleep and maintenance of a healthy weight. There is also evidence that physical activity and participating in organised sports and after school clubs is linked to improved academic performance. ** (Reference: 11,12,13)
+S0023 Long-term, sustainable change will only be achieved through the active engagement of schools, communities, families and individuals.
+S0024 We aim to significantly reduce England’s rate of childhood obesity within the next ten years.
+S0025 We are confident that our approach will reduce childhood obesity while respecting consumer choice, economic realities and, ultimately, our need to eat.
+S0026 Although we are clear in our goals and firm in the action we will take, the launch of this plan represents the start of a conversation, rather than the final word.
+Introducing a soft drinks industry levy
+S0027 Our children are consuming too many calories - and, in particular, too much sugar. Teenagers in England are the biggest consumers of sugar-sweetened drinks in Europe. ** (Reference: 14,15)
+S0028 The Scientific Advisory Committee on Nutrition (SACN) recently concluded that sugar consumption increases the risk of consuming too many calories, the risk of tooth decay, and that consumption of sugar sweetened beverages is associated with increased risk of type 2 diabetes and linked to higher weight in children. ** (Reference: 16)
+S0029 A single 330ml can of a soft drink with added sugar (which can contain as much as 35g of sugar), may instantly take a child over their maximum recommended daily intake of sugar.
+S0030 As a first major step towards tackling childhood obesity, we will be introducing a soft drinks industry levy across the UK.
+S0031 In England, the revenue from the levy will be invested in programmes to reduce obesity and encourage physical activity and balanced diets for school age children.
+S0032 This includes doubling the Primary PE and Sport Premium and putting a further £10 million a year into school healthy breakfast clubs to give more children a healthier start to their day.
+S0033 The Barnett formula will be applied to spending on these new initiatives in the normal way.
+S0034 This is a levy on producers and importers, and not on consumers, and is designed to encourage producers to reduce the amount of sugar in their products and to move consumers towards healthier alternatives.
+S0035 We have given producers and importers two years to lower the sugar in their drinks so that they won’t face the levy if they take action.
+S0036 Many manufacturers have already taken steps to reduce the overall levels of added sugar in their drinks, but the levy will create stronger incentives for action.
+S0037 Alongside this plan, HM Treasury are consulting on the technical detail of the soft drinks industry levy over the summer, and will legislate in the Finance Bill 2017.
+Taking out 20% of sugar in products
+S0038 Evidence shows that slowly changing the balance of ingredients in everyday products, or making changes to product size, is a successful way of improving diets. This is because the changes are universal and do not rely on individual behaviour change. ** (Reference: 17,18)
+S0039 We will therefore launch a broad, structured sugar reduction programme to remove sugar from the products children eat most.
+S0040 All sectors of the food and drinks industry will be challenged to reduce overall sugar across a range of products that contribute to children’s sugar intakes by at least 20% by 2020, including a 5% reduction in year one.
+S0041 This can be achieved through reduction of sugar levels in products, reducing portion size or shifting purchasing towards lower sugar alternatives.
+S0042 This programme will be led and run by Public Health England (PHE) and will apply to all sectors of industry – retailers, manufacturers and the out of home sector (e.g. restaurants, takeaways and cafés) – and to all foods and drinks that contribute to children’s sugar intakes, including those aimed at very young children.
+S0043 The programme will initially focus on the nine categories that make the largest contributions to children’s sugar intakes: breakfast cereals, yoghurts,
+S0044 biscuits, cakes, confectionery, morning goods (e.g. pastries), puddings, ice cream and sweet spreads.ii Work will then move on to cover the remaining relevant foods and drinks, including any products that may be out of scope of the soft drinks industry levy, for example, milk-based drinks.
+S0045 The sugar reduction programme will also work to reduce the sugar content of product ranges explicitly targeted at babies and young children.iii
+S0046 PHE will advise Government on setting sugar targets per 100g of product and calorie caps for specific single serving products.
+S0047 The 4-year, category-specific targets for the nine initial categories will be published in March 2017.
+S0048 Progress will be measured on the basis of reductions in the sales weighted average sugar content per 100 grams of food and drink, reductions in portion size so that these contain less sugar, or a clear sales shift towards lower sugar alternatives.
+S0049 iv
+S0050 To ensure that the achievement matches expectations, progress will be reviewed by PHE who will publish interim reports on progress every 6 months.
+S0051 This will include reviewing reductions achieved through analysis of sales data and food composition data along with plans for further reductions.
+S0052 Some companies have led the way in addressing sugar reduction and it is important that existing work is recognised.
+S0053 Therefore, PHE will use 2015 data as the baseline for this reduction programme.
+S0054 PHE will provide an assessment at 18 and 36 months (September 2018 and March 2020) on the approach adopted by industry.
+S0055 Government will use this information to determine whether sufficient progress is being made and whether alternative levers need to be used by the Government to reduce sugar and calories in food and drink consumed by children.
+S0056 If there has not been sufficient progress by 2020 we will use other levers to achieve the same aims.
+S0057 Sugar reductions should be accompanied by reductions in calories and should not be compensated for by increases in saturated fat.
+S0058 Work to achieve salt targets should continue alongside the sugar reduction programme.
+S0059 From 2017, the programme will be extended to include setting targets to reduce total calories in a wider range of products contributing to children’s calorie intake and across all sectors, including the out of home sector.
+S0060 Work on saturated fat will be further reviewed in light of SACN recommendations due in 2017.
+Supporting innovation to help businesses to make their products healthier
+S0061 We want to encourage the next generation of innovation in science and technology to allow industry to create healthier, more sustainable products.
+S0062 To support this, Innovate UK ran a collaborative research and development (R&D) competition worth £10 million for research to
+S0063 stimulate new processes and products to increase the availability of healthier food choices for consumers and open up new markets.
+S0064 The recently formed Agri-Food Technology Council provides leadership in areas such as health and nutrition and consumer acceptability, and the Food Innovation Network is bringing together food businesses, researchers, and innovation support to enable greater take up of world-leading R&D.
+Developing a new framework by updating the nutrient profile model
+S0065 To help families to recognise healthier choices, we need a new way to determine which food and drink products are healthier and which are less healthy.
+S0066 The restrictions on food and drink advertising that are already in place to protect children are based on a tool called a ‘nutrient profile’.
+S0067 Each food and drink is assigned a score based on working out how much sugar, fat, salt, fruit, vegetables and nuts, fibre and protein it contains.
+S0068 The current nutrient profile is over 10 years old and does not reflect recent scientific advice such as the SACN report or new products introduced.
+S0069 Having a strong, effective model will be crucial for underpinning all areas of this plan: giving clear guidance on how products will be treated will encourage companies to make their products healthier so they can avoid potential sanctions.
+S0070 Therefore, PHE is working with academics, industry, health Non-Governmental Organisations (NGOs) and other stakeholders, to review the nutrient profile model to ensure it reflects the latest government dietary guidelines.
+S0071 This should ensure that an updated profile focuses on the most unhealthy products, rather than adversely affecting products which are consumed as part of a healthy diet.
+Making healthy options available in the public sector
+S0072 We need to harness the true potential of the public sector to reduce childhood obesity.
+S0073 The public sector in England spends over £2 billion on food and catering services annually, with just under half, £1 billion, being the cost of food and ingredients. These buildings, services and spaces should set an example to children and families. ** (Reference: 19)
+S0074 Every public sector setting, from leisure centres to hospitals, should have a food environment designed so the easy choices are also the healthy ones.
+S0075 Therefore, we will continue to work with local authorities and the Local Government Association to support them to tackle childhood obesity.
+S0076 This will include encouraging local authorities to adopt the GBSF standards, particularly in leisure centre vending machines.
+S0077 We will also ensure that there is full uptake of the Government Buying Standards for Food and Catering Services (GBSF) in central government departments
+S0078 Ukactive, whose members manage a large proportion of the fitness and leisure centres in England, are committed to making the environment in those places healthier by considering ways to provide and promote healthy options and restrict the sale of unhealthy food and drink.
+S0079 The Department of Health is building on this requirement by collaborating with PHE, NHS England and the Behavioural Insights Team to trial behavioural interventions in NHS hospitals.
+S0080 These interventions will measure changes in purchasing behaviour and the impact on revenue from sales.
+Continuing to provide support with the cost of healthy food for those who need it most
+S0081 We are re-committing to the Healthy Start scheme, which provided an estimated £60 million worth of vouchers to families on low income across England in 2015/16.
+S0082 These can be exchanged for fresh or frozen fruit or vegetables and milk.
+S0083 The scheme also provides free vitamins to support intake during pregnancy and early years.
+S0084 Last year over 1.7 million vouchers were issued every four weeks and an average of 480,000 children in low income families were benefiting from the scheme in each month of the year.
+Helping all children to enjoy an hour of physical activity every day
+S0085 There is strong evidence that regular physical activity is associated with numerous health benefits for children.v The UK Chief Medical Officers’ recommend that all children and young people should engage in moderate to vigorous intensity physical activity for at least 60 minutes every day.
+S0086 Many schools already offer an average of two hours of PE or other physical activities per week.
+S0087 However, we need to do more to encourage children to be active every day.
+S0088 Every primary school child should get at least 60 minutes of moderate to vigorous physical activity a day.
+S0089 At least 30 minutes should be delivered in school every day through active break times, PE, extra-curricular clubs, active lessons, or other sport and physical activity events, with the remaining 30 minutes supported by parents and carers outside of school time.
+S0090 Given the considerable new funding that the soft drinks industry levy will make available for school sports, the Government is keen that schools are supported as much as possible in how they spend the available funds for maximum impact.
+S0091 During inspections, Ofsted assess how effectively leaders use the Primary PE and Sport Premium and measure its impact on outcomes for pupils, and how effectively governors hold them to account for this.
+S0092 Physical activity will be a key part of the new healthy schools rating scheme, and so schools will have an opportunity to demonstrate what they are doing to make their pupils more physically active.
+S0093 Schools will continue to have the freedom to consider spending the Primary PE and Sport Premium on specific interventions but to help schools understand what help is available, PHE will be developing advice to schools for the academic year 2017/18.
+S0094 This will set out how schools can work with the school nurses, health centres, healthy weight teams in local authorities and other resources, to help children develop a healthier lifestyle.
+S0095 Furthermore, we will make available a new interactive online tool which will help schools plan at least 30 minutes of physical activity every day.
+S0096 This will help schools identify gaps in the existing opportunities for children to be active and will recommend a number of solutions they can choose, for example after school clubs, initiatives such as the daily mile, creating an active playground or having an active lesson.
+Improving the co-ordination of quality sport and physical activity programmes for schools
+S0097 We have asked the County Sports Partnerships to work with National Governing Bodies of sport, the Youth Sport Trust and other national and local providers to ensure that from September 2017, every primary school in England has access to a co-ordinated offer of high quality sport and physical activity programmes, both local and national.
+S0098 As part of this, National Governing Bodies will offer high quality sport programmes to every primary school.
+S0099 Whilst children spend a significant amount of time in school, keeping children active is a shared responsibility and parents and carers need to play their part.
+S0100 The Sport England Strategy ‘Towards an Active Nation’ (2016) has already set out a major new investment of £40m into projects which offer new opportunities for families and children to get active and play sport together.
+S0101 This investment will focus on helping children acquire a basic level of competence in sport and physical activity as well as supporting them to have fun, regardless of their level of ability.
+S0102 We will continue investing in walking and cycling to school.
+S0103 Walking or cycling to school provides a healthy way to start the day.
+S0104 The Government has committed to producing a Cycling and Walking Investment Strategy.
+S0105 The first strategy will set out plans for investing £300m to support cycling and walking.
+S0106 It will set a clear target to increase the number of children walking to school as well as continued support for Bikeability cycle training for children.
+Creating a new healthy rating scheme for primary schools
+S0107 Schools are a vital part of our plan, and have opportunities to support healthier eating, physical activity and to shape healthy habits.
+S0108 Schools also have unique contact with parents and can signpost them to information and advice on keeping their children healthy.
+S0109 From September 2017, we will introduce a new voluntary healthy rating scheme for primary schools to recognise and encourage their contribution to preventing obesity by helping children to eat better and move more.
+S0110 This scheme will be taken into account during Ofsted inspections.
+S0111 The scheme will help schools to demonstrate to parents that they are taking evidence-based actions to improve their pupils’ health.
+S0112 Building on existing schemes where appropriate, the criteria for the rating scheme will be developed in consultation with schools and experts but will cover the school’s approach as a whole.
+S0113 We will seek to actively involve parents in the rating process so they can be confident their children are attending schools which provide healthy food and opportunities for physical activity.
+S0114 We are also keen to celebrate schools that can demonstrate healthy approaches towards tackling obesity amongst their pupils, and therefore we will run an annual competition to recognise schools with the most innovative and impactful projects.
+S0115 Ofsted already evaluate a school’s success in promoting and supporting pupils’ knowledge of how to keep themselves healthy, including through exercising and healthy eating.
+S0116 Inspectors expect to see pupils making informed choices about eating and physical activity and the school’s culture promoting this aspect of pupils’ welfare.
+S0117 This evaluation informs inspectors’ judgement on pupils’ personal development, behaviour and welfare.
+S0118 Once the new rating scheme is operational it will be referred to in the school inspection handbook, and Ofsted inspectors will be able to take account of the scheme as an important source of evidence about the steps taken by the school to promote healthy eating and physical activity.
+S0119 In addition, in 2017, Ofsted will undertake a thematic review on obesity, healthy eating and physical activity in schools.
+S0120 The review will provide examples of good practice and recommendations on what more schools can do in this area.
+Making school food healthier
+S0121 We have already done a lot to improve school food: many school canteens are unrecognisable from those 20 to 30 years ago.
+S0122 The School Food Plan, published in July 2013, has helped bring about whole school improvements in food.
+S0123 The new School Food Standards came in to force from January 2015.
+S0124 They have been widely welcomed but since then new advice on sugar and nutrition has been published.
+S0125 Therefore the Department for Education (DfE), supported by PHE, will update the School Food Standards in light of refreshed government dietary recommendations
+S0126 The majority of schools are subject to the School Food Standards.
+S0127 However, some academies and free schools are not.
+S0128 We are keen to encourage all academies to make a clear commitment as part of tackling childhood obesity.
+S0129 Therefore, the Secretary of State for Education will lead a campaign encouraging all schools to commit to the standards.
+S0130 Breakfast clubs can contribute to improved attainment, attendance and overall health. This is why the Government recently announced that £10 million a year of revenue from the soft drinks levy will fund the expansion of healthy breakfast clubs. ** (Reference: 20)
+S0131 This programme will ensure that more children benefit from a healthy start to their school day.
+Clearer food labelling
+S0132 In order to make healthier choices, families need to be presented with clear information about the food they are buying.
+S0133 The UK has led the way, working with industry to implement a voluntary front of pack traffic light labelling scheme, which now covers two thirds of products
+S0134 sold in the UK.
+S0135 However, an issue of increasing concern to families is understanding which sugars they should be cutting out of their diet.
+S0136 Current sugar labelling shows the total sugar content of foods but the new maximum intake recommendations are based on the specific sugarsvi that are easily over-consumed, not all sugars.
+S0137 The UK’s decision to leave the European Union will give us greater flexibility to determine what information should be presented on packaged food, and how it should be displayed.
+S0138 We want to build on the success of our current labelling scheme, and review additional opportunities to go further and ensure we are using the most effective ways to communicate information to families.
+S0139 This might include clearer visual labelling, such as teaspoons of sugar, to show consumers about the sugar content in packaged food and drink.
+Supporting early years settings
+S0140 The early years are a crucial time for children’s development.
+S0141 One in five children are already overweight or obese before they start school and only one in ten children aged two to four meets the UK Chief Medical Officers’ physical activity guidelines for this age group.vii, ** (Reference: 21,22,23)
+S0142 PHE have commissioned the Children’s Food Trust to develop revised menus for early years settings by December 2016.
+S0143 These will be incorporated into voluntary guidelines for early years settings to help them meet current Government dietary recommendations.
+S0144 This will include practical ideas and suggestions, alongside the sample menus.
+S0145 In early 2017, we will launch a campaign to raise awareness of these guidelines amongst both early years practitioners and parents and we will update the Early Years Foundation Stage Framework to make specific reference to the UK Chief Medical Officers’ guidelines for physical activity in the early years (including active play).
+Harnessing the best new technology
+S0146 Consumer power and choices are important drivers of the food environment and, potentially, in ending the childhood obesity crisis.
+S0147 We need accessible, simple information on how much sugar, fat and salt your weekly shop contains.
+S0148 We need to capitalise on the power of technology to support healthier choices.
+S0149 The uptake of Change4Life’s Sugar Smart app shows the potential of digital applications in this regard. ** (Reference: 24)
+S0150 We will therefore work with PHE, Innovate UK, the third sector and commercial players to investigate opportunities to bring forward a suite of applications that enable consumers to make the best use of technology and data to inform eating decisions.
+S0151 We will also ask PHE to build on work which is underway around digital based weight management support for adults and explore similar approaches for children and families.
+S0152 We recognise that this is a fast-paced industry and advances are constantly being made.
+S0153 We want to provide a national forum to engage the country’s best innovators with the childhood obesity cause.
+S0154 To support this, PHE will hold an annual digital technology ‘hackathon’, bringing together leading developers and programmers to produce innovative solutions to address childhood obesity.
+Enabling health professionals to support families
+S0155 We are asking health care professionals to build on the good work they already do by always talking to parents about their family’s diet, working towards making it the default to weigh everyone, referring people to local weight management services, clubs and websites if they ask for more advice.
+S0156 Health professionals should feel confident discussing nutrition and weight issues with children, their families and adults.
+S0157 To support this ambition, Health Education England (HEE) and PHE have launched a suite of resources aimed at supporting the health care and wider workforce to “Make Every Contact Count”.
+S0158 These resources include training on influencing behaviour change and initiating difficult conversations about health and wellbeing, as well as targeted training for Health Visitors and School Nurses given their unique positioning which enables them to identify weight issues in children early on.
+S0159 We will review where content on nutrition, physical activity, healthy weight messaging and weaning advice in materials for visits by midwives and health visitors can be strengthened so new families get the best advice to ensure a focus on healthy weight.
+S0160 We will also explore how evidence-based healthy weight messaging can be introduced at other contact points, such as childhood immunisation programmes.
+S0161 HEE has also reviewed and updated the existing materials about obesity and nutrition available via the E-learning for Health platform and encourage all those working in the NHS to undertake relevant training as part of their Continuing Professional Development, so that they feel confident about raising weight issues, nutrition and physical activity as an issue.
+S0162 We will continue to explore what more can be done across the health sector and work with our partners to develop approaches to prevent and reduce childhood obesity.
+Conclusion
+S0163 With nearly a third of children aged 2-15 overweight or obese, tackling childhood obesity requires us all to take action. ** (Reference: 25)
+S0164 Government, industry, schools and the public sector all have a part to play in making food and drink healthier and supporting healthier choices for our children.
+S0165 The benefits for reducing obesity are clear – it will save lives and reduce inequalities.
+S0166 The actions in this plan will significantly reduce England’s rate of childhood obesity within the next ten years.
+S0167 Achieving this will mean fewer obese children in 2026 than if obesity rates stay as they are. ** (Reference: 26)
+S0168 We are confident that our approach will reduce childhood obesity while respecting
+S0169 consumer choice, economic realities and, ultimately, our need to eat.
+S0170 Although we are clear in our goals and firm in the action we will take, the launch of this plan represents the start of a conversation, rather than the final word.
+S0171 Over the coming year, we will monitor action and assess progress, and take further action where it is needed.
+References

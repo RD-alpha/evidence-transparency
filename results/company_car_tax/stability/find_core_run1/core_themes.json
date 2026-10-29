@@ -1,0 +1,57 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Climate and air quality imperative",
+        "claim": "Road transport is a major contributor to UK greenhouse gas emissions and air pollution, making increased ULEV uptake essential to meeting legally binding carbon and air quality targets."
+      },
+      {
+        "name": "Technological proliferation outpacing banding",
+        "claim": "Rapid advances in battery, electric and hybrid technology are bringing increasing numbers and types of ULEVs to market, straining the current two-band structure's ability to differentiate between them."
+      },
+      {
+        "name": "CO2-only measure losing precision for ULEVs",
+        "claim": "Using CO2 emissions alone makes it increasingly difficult and less transparent to distinguish between ULEVs, since vehicles with very different zero-emission capabilities (e.g. 15 to 340 miles) are grouped into the same band."
+      },
+      {
+        "name": "Existing bands locked in until 2019-20",
+        "claim": "Company car tax rates and bands, including for ULEVs, are already legislated until 2019-20, creating the need to design new bands for the period beyond."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Retaining CO2 as the core basis",
+        "claim": "The government has decided that CO2 emissions will remain the main factor determining company car tax rates beyond 2020-21 because the measure is well understood, transparent, and has successfully driven down fleet emissions since 2002."
+      },
+      {
+        "name": "Whether to add zero emission miles as a secondary metric",
+        "claim": "The government is weighing whether to supplement CO2 with a zero-emission-miles metric to better differentiate ULEVs, since it is easy to understand, consistent with the Plug-in Car Grant, and better reflects real-world electric driving, against the simplicity and administrative ease of retaining CO2 alone."
+      },
+      {
+        "name": "Choice of band structure (continuous vs wider bands)",
+        "claim": "The government is deciding between a continuous system of many narrow bands, which better incentivises marginal improvements, versus fewer wider bands, which offers more flexibility in rate-setting but risks unfair cliff-edges and weaker incentives within bands."
+      },
+      {
+        "name": "Company car market as a lever for wider fleet decarbonisation",
+        "claim": "Because businesses are price-sensitive and company cars turn over quickly into the used market, incentivising ULEV uptake through company car tax is an effective way to drive down emissions across the whole UK car fleet."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Open consultation to decide unresolved design questions",
+        "claim": "The precise design of the new ULEV bands (whether to use zero emission miles, how many bands, and where breakpoints fall) has not been decided and will be determined through a public consultation inviting views from stakeholders before finalising policy in the autumn."
+      },
+      {
+        "name": "Separation of structural design from rate-setting",
+        "claim": "This consultation is about the structural design of ULEV bands only, not specific tax rates, which the Chancellor will continue to set separately through the normal Budget process."
+      }
+    ],
+    "note": "Implementation content is limited mainly to consultation process and questions rather than delivery mechanisms, costs or alternatives."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Phased approach via secondary legislation informed by consultation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines describe a procedural sequence (secondary legislation, future Impact Assessment, consultation responses to be analysed) but offer no actual evidence yet gathered or cited for why this phased route was chosen over alternatives."
+    },
+    {
+      "theme": "Principles-led development of smart charging standards",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The four guiding principles (open access, data privacy, security, energy consumption) and the rationale for not fixing technical detail in primary legislation are pure policy reasoning with no statistic, finding, or source offered."
+    },
+    {
+      "theme": "Placing obligations on retailers/installers and site operators",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that MSA/large-fuel-retailer obligations are appropriate is partly supported by the uncited market-share figure 'Supermarkets and oil companies currently own 30% of UK petrol stations with 60% of market share by volume', which is evidence used to justify scope but carries no reference or link."
+    },
+    {
+      "theme": "Staged civil penalty enforcement regime",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The escalating warning/penalty/appeal process is described in procedural detail but with no evidence (e.g. from comparable enforcement regimes) cited to justify its design or expected effectiveness."
+    }
+  ],
+  "reasoning": "Across the four core themes, the document mostly explains delivery mechanics rather than grounding them in evidence. The 'Phased approach' theme (level 0) only describes that secondary legislation and a future Impact Assessment will follow consultation -- a process, not evidence. The 'Principles-led development' theme (level 0) sets out open access, data privacy, security and energy-consumption principles purely as reasoned design choices, with no data or findings behind them. 'Placing obligations on retailers/installers' reaches level 1 because of the figure 'Supermarkets and oil companies currently own 30% of UK petrol stations with 60% of market share by volume', which is used to justify focusing requirements on larger retailers, but it carries no reference or link, so it cannot reach level 2. The 'Staged civil penalty enforcement' theme (level 0) is a detailed procedural design (warnings, scaled penalties, appeals) with no evidence of what makes such a regime effective. The mean of (0,0,1,0) is 0.25, rounding down to 0. The strongest counter-example is the market-share statistic, which shows at least one theme uses a real figure to justify scope. To reach level 1 overall the document would need similar figures or findings behind the other three themes' choices; to reach level 2 it would need those figures properly cited so a reader could verify them.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.25,
+  "score_consistent": true,
+  "missing_core": []
+}

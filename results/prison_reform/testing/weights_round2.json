@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Evidence-Based Policy and Evaluation",
+      "reason": "This directly addresses the should-explain points of testing, measuring impact, and evaluating effects with a timetable (e.g., pilot evaluation concluding autumn 2017, building evidence base to inform prison performance assessments). The case for how we will know the policy worked rests centrally on this theme.",
+      "weight": "core"
+    },
+    {
+      "theme": "Monitoring Equality and Staff Impact",
+      "reason": "This touches on monitoring impact on offenders and staff, which bears on the should-explain point of measuring outcomes, but it is a narrower equality-focused monitoring commitment rather than the central evaluation mechanism for the policy overall.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Workforce Development and Training",
+      "reason": "This is about using pilots to explore apprenticeship and training opportunities, a specific operational detail rather than a core plan for testing, measuring, or evaluating the policy's impact on reoffending and violence.",
+      "weight": "not core"
+    }
+  ]
+}

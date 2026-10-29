@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Outdated fixed penalty levels",
+        "claim": "Fixed penalty levels for littering and related offences have not been reviewed since 2006, have been eroded by inflation, are out of step with newer powers (e.g. £100 for dog fouling under 2014 Act powers) and the Welsh and Scottish regimes, and may be too low to deter in some areas."
+      },
+      {
+        "name": "Lapsed performance classification for spending receipts",
+        "claim": "The abolition of the Audit Commission and council performance and Quality Parish classifications means the Regulations' spending flexibility for fixed penalty income has lapsed, leaving most councils restricted to qualifying functions and potentially facing a funding shortfall."
+      },
+      {
+        "name": "Difficulty enforcing against littering from vehicles",
+        "claim": "Because littering is a criminal offence requiring proof beyond reasonable doubt, councils struggle to identify offenders throwing litter from vehicles, and only London boroughs currently have powers to penalise the vehicle keeper."
+      },
+      {
+        "name": "Costs of littering and need to update regulations",
+        "claim": "Littering and related offences blight communities and impose avoidable costs on the public purse, and the 2014 Act replaced older enforcement powers so the Regulations must be updated to reflect them."
+      }
+    ],
+    "note": "The diagnosis covers several separate problems (penalty levels, spending rules, vehicle enforcement, parish training) rather than one causal story, with only limited scale evidence such as 2008/09 income figures and 72 London notices."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Raising fixed penalty levels",
+        "claim": "Fixed penalties for littering (and the same for graffiti, fly-posting and leaflet distribution) should be raised, with options of inflation-restoring minimum/default/maximum, raising only the maximum to £100 or £150, or a larger package, justified by inflation, the Select Committee, consistency with other powers and the UK nations, deterrence and ability to pay, and weighed against cost and flexibility for councils."
+      },
+      {
+        "name": "Civil penalties for littering from vehicles",
+        "claim": "Councils outside London should be given civil penalty powers against vehicle keepers under section 88A because offenders are hard to identify to a criminal standard, the London scheme shows it can work, and it would be an efficient deterrent endorsed by campaigners and the Select Committee."
+      },
+      {
+        "name": "Spending flexibility for penalty income",
+        "claim": "All councils should be able to spend fixed and civil penalty income on any of their functions to avoid a permanent loss of flexibility and funding shortfalls, consistent with the manifesto commitment to reduce ring-fencing."
+      },
+      {
+        "name": "Removing training course approval",
+        "claim": "The requirement for parish enforcement officers to take a Secretary of State-approved course should be removed because parish councils are better placed to judge training needs, the requirement is a barrier to competition among providers, and Wales takes a similar approach."
+      }
+    ],
+    "note": "The proposal is a package of four separate measures; the specific penalty levels are left open for consultation and the draft regulations contain placeholders."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Safeguards against revenue generation",
+        "claim": "Penalties should be issued only when proportionate and in the public interest, not to meet targets or raise income, and new guidance developed with a Working Group on Enforcement will secure this."
+      },
+      {
+        "name": "Transparency of enforcement data",
+        "claim": "Councils should publish annual enforcement data, which the INSPIRE Regulations already require and an amended Local Government Transparency Code would reinforce, to support accountability and deter offenders."
+      },
+      {
+        "name": "Design of the civil penalty regime",
+        "claim": "The civil penalty scheme should be delivered through district and unitary councils with notices by post or email, early-payment discounts, late payment increases, defined exemptions and appeal grounds, and independent adjudication by the Traffic Penalty Tribunal."
+      },
+      {
+        "name": "Legislative delivery by amending regulations",
+        "claim": "The changes will be delivered by amending and remaking the existing Regulations and introducing new regulations, as set out in the draft instruments."
+      }
+    ],
+    "note": "The implementation passages are mostly procedural and legal detail, with limited justification of delivery choices beyond the case for guidance, transparency and keeping the scheme to certain authorities."
+  }
+}

@@ -1,0 +1,48 @@
+<root>
+<theme sentences="1" weight="core">
+<name>National Skills Shortage</name>
+<claim>The document diagnoses a national shortage of skills and low productivity that apprenticeships, driven by the manifesto commitment to three million starts, are needed to address.</claim>
+<text>
+<line id="S0023">The Government’s manifesto commitment to achieve three million apprenticeship starts by 2020 is driven by an ambition to address our nation’s skill shortages and stimulate economic growth.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="core">
+<name>Public Sector Apprenticeship Gap</name>
+<claim>The public sector, including the Civil Service, has lagged behind the private sector (where three-quarters of apprentices work) and has therefore been asked to deliver a disproportionate share of apprenticeship growth.</claim>
+<text>
+<line id="S0026">The public sector has been asked to achieve a greater proportion of apprenticeship growth to bring us in line with the private sector where an estimated three-quarters of apprentices work.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="4" weight="core">
+<name>Workforce Diversity and Inclusion Deficit</name>
+<claim>Despite being more diverse than ever, the Civil Service and wider public sector still lack true representation and inclusivity, including a persistent employment gap for disabled people such as those with autism.</claim>
+<text>
+<line id="S0041">The Workforce Plan also sets an ambition for the Civil Service to be the most inclusive employer in the UK.</line>
+<line id="S0042">Traditionally, the public sector has struggled to get right the diversity of its workforces and applicant pools.</line>
+<line id="S0043">Whilst the Civil Service is the most diverse it has ever been, we still have more to do to ensure true representation and inclusivity across the organisation.</line>
+<line id="S0057">This is a significant challenge for some disabled groups, with only 15% of people who have autism currently in full time employment.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="not core">
+<name>Changing Perceptions of Apprenticeships</name>
+<text>
+<line id="S0078">We have more progress to make in changing the traditional view of apprenticeships, to ensure that equity of opportunity is achieved.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

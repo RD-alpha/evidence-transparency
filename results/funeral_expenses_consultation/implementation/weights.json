@@ -1,0 +1,9 @@
+{
+  "themes": [
+    {
+      "theme": "Telephone support for claims",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Scale and health consequences of childhood obesity",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Figures on prevalence, doubled risk of premature death, diabetes risk and NHS cost of \u00a35.1bn are tied to References 1-4, 7, 8 and 25 (Health Survey for England, cohort analyses, meta-analysis, McKinsey), with Ref 8 even stating its method and assumptions, though the depression claim is uncited and no weaknesses are assessed."
+    },
+    {
+      "theme": "Inequality in obesity burden",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim that poorest children are twice as likely to be obese at age 5 and three times at 11 carries References 9 (NCMP 2014/15) and 10 (Kelly et al. cohort study), giving clear figures and direction, but there is no assessment of the evidence."
+    },
+    {
+      "theme": "Excess sugar and calorie intake",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Lines on teenage sugar-sweetened drink consumption (Ref 14,15) and the SACN conclusions (Ref 16) are cited and clearly linked to the claim, but the energy imbalance statement and the 330ml can example are uncited and no limitations or contrary evidence are acknowledged."
+    },
+    {
+      "theme": "Low physical activity and early-years onset",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The line that one in five children are overweight before school and one in ten aged 2-4 meet guidelines cites References 21, 22 and 23, though the claims that schools offer two hours of PE and that more is needed are uncited and no evidence assessment is given."
+    },
+    {
+      "theme": "Sugar labelling and clarity for families",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines on families' concern and the mismatch between total-sugar labelling and recommendations are asserted without any statistic, source or finding."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line 'The economic costs are great, too' is a bare assertion with no evidence in it (though the NHS cost figure appears in the first theme)."
+    }
+  ],
+  "reasoning": "All four core themes reach level 2 and none reaches level 3, so the mean is 2.0 and the section scores 2. Scale and health consequences: lines such as 'obesity doubles the risk of dying prematurely' and 'NHS in England spent \u00a35.1 billion... in 2014/15' carry References 1-4, 7 and 8. Reference 8 even explains its inflation uplift and its 85% England assumption. Inequality: the 'twice as likely' at age 5 and 'three times' at age 11 figures cite References 9 and 10, so a citizen can find the NCMP data and the cohort study. Sugar and calories: the SACN conclusions (Ref 16) and teenage sugary-drink consumption (Refs 14, 15) are cited and clearly tied to the claim. Physical activity: 'One in five children are already overweight or obese before they start school' cites References 21-23. The strongest counter-example to level 2 is the uncited material in these themes: the depression link, the energy-imbalance statement, the 330ml can example and the school PE line. A reader cannot trace these, so parts of the diagnosis sit at level 1. Against level 3, nowhere does the document assess the quality of its evidence. It does not discuss the limits of cohort data, the dated 2006-07 cost base beyond a footnote, or any contrary findings. To reach level 3 the document would need to say how robust these sources are, acknowledge uncertainties such as the cost extrapolation and the causal strength of sugar and weight links, and cite the uncited claims.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.0,
+  "score_consistent": true,
+  "missing_core": []
+}

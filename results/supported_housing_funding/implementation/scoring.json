@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Consultation and co-design with the sector",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines describe the 12-week consultation and four task and finish groups as the method for deciding detail, but offer no statistic, finding or source showing why this route was chosen."
+    },
+    {
+      "theme": "Timetable and transition",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The dates for the Green Paper, autumn 2017 package, April 2018 shadow year and April 2019 commencement are asserted without any evidence for why this timetable suffices, and the impact assessment line is only a commitment."
+    },
+    {
+      "theme": "Open design questions on local delivery",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Lines such as 'Providers have told us...' and 'some stakeholders have raised concerns' and the research participants' view on ring-fencing are unsourced primary evidence with no method given, so they reach level 1 only."
+    },
+    {
+      "theme": "Strategic and wider system goals",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The three lines state aspirations and a plan to report in the Green Paper, with no evidence offered."
+    }
+  ],
+  "reasoning": "Three core themes carry the argument for how the top-up fund will be rolled out. 'Consultation and co-design with the sector' scores 0. It says the detail will be worked out through a 12-week consultation and four task and finish groups, but gives no evidence for why this route was chosen. It does at least say how the detail will be decided, which the framework asks for. 'Timetable and transition' also scores 0. The Green Paper in spring 2017, the autumn 2017 package, shadow arrangements from April 2018 and commencement on 1 April 2019 are all stated as intentions. Nothing shows why the timeline is long enough, and the promised impact assessment is only a commitment. 'Open design questions on local delivery' scores 1. It cites what 'Providers have told us' about standardisation, 'some stakeholders have raised concerns' about vulnerable groups being overlooked, and that 'Many research participants felt that ring fencing' would secure stability. These are evidence of a kind, and they feed into the design questions. But they are unnamed and uncited, and the document does not say who was consulted, how many, or how. The mean of the core levels is (0+0+1)/3 = 0.33, which rounds to 0. The strongest counter-example is the third theme, whose stakeholder and research-participant statements could justify a section score of 1. They are only a small part of the argument, though, and the first two core themes have no evidence at all. To reach level 1 across the section, the document would need to ground the choice of consultation route and the timetable in evidence, such as experience of earlier funding reforms. To reach level 2, it would also need to cite the research and consultation responses and describe how they were gathered.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

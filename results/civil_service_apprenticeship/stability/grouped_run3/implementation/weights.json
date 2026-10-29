@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Apprenticeship Creation and Workforce Development Methods",
+      "reason": "This theme lays out the three core routes chosen for creating apprenticeships (conversion, upskilling, scheme enhancement) and the recruitment/pay changes needed to support them, directly explaining the chosen method for delivering the intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Programme Governance, Targets and Departmental Delivery",
+      "reason": "Describes the governance structure, targets and roles of Cabinet Office vs departments, which is administrative/procedural detail on how delivery is managed rather than why this method was chosen.",
+      "weight": "not core"
+    },
+    {
+      "theme": "UK-wide and Devolved Administration Coverage",
+      "reason": "Explains geographic scope and coordination with devolved administrations, a procedural/administrative detail about applicability rather than a core justification for the implementation method.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Diversity, Inclusion and Social Mobility",
+      "reason": "Ties the implementation approach to the stated problem of low diversity/social mobility by specifying targeted recruitment and outreach methods, forming part of the rationale for how the intervention is rolled out to address that problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Quality Assurance and Apprenticeship Standards",
+      "reason": "Details standards and quality assurance mechanisms for training providers, which is supporting operational detail rather than a central pillar of why this implementation method was chosen.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Career Pathways, Talent Development and Progression",
+      "reason": "Explains how apprenticeships are embedded into career paths and talent pipelines, addressing the skills shortage problem by showing the method's link to long-term capability building, making it a core support for the implementation rationale.",
+      "weight": "core"
+    },
+    {
+      "theme": "Cross-Sector Collaboration and Wider Economy Impact",
+      "reason": "Describes engagement with other sectors and bodies, a supplementary detail that extends scope but is not essential to the core argument for how the intervention itself is implemented.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Funding and Levy",
+      "reason": "Brief mention of levy funding mechanics, a minor financial/administrative detail not central to explaining the chosen implementation method.",
+      "weight": "not core"
+    }
+  ]
+}

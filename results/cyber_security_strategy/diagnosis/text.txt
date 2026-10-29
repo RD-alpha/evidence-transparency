@@ -1,0 +1,181 @@
+S0003 Much of our prosperity now depends on our ability to secure our technology, data and networks from the many threats we face.
+S0006 Yet cyber attacks are growing more frequent, sophisticated and damaging when they succeed.
+S0014 Ultimately, this is a threat that cannot be completely eliminated.
+S0015 Digital technology works because it is open, and that openness brings with it risk.
+S0019 This is no longer just an issue for the IT department but for the whole workforce.
+S0020 Cyber skills need to reach into every profession.
+S0042 We are critically dependent on the Internet.
+S0043 However, it is inherently insecure and there will always be attempts to exploit weaknesses to launch cyber attacks.
+S0044 This threat cannot be eliminated completely, but the risk can be greatly reduced to a level that allows society to continue to prosper, and benefit from the huge opportunities that digital technology brings.
+S0090 Information and communication technologies have evolved over the last two decades and are now integrated into virtually every aspect of our lives.
+S0091 The UK is a digitalised society.
+S0094 The transformation brought about by this digitalisation creates new dependencies.
+S0095 Our economy, the administration of government and the provision of essential services now rely on the integrity of cyberspace and on the infrastructure, systems and data which underpin it.
+S0096 A loss of trust in that integrity would jeopardise the benefits of this technological revolution.
+S0102 Much of the hardware and software originally developed to facilitate this interconnected digital environment has prioritised efficiency, cost and the convenience of the user, but has not always had security designed in from the start.
+S0103 Malicious actors – hostile states, criminal or terrorist organisations and individuals – can exploit the gap between convenience and security.
+S0107 But the persistence and ingenuity of those who would threaten us, the prevalence of our vulnerabilities and gaps in our capabilities and defences mean we need to work even harder to keep pace with the threat.
+S0111 The expansion of the Internet beyond computers and mobile phones into other cyber-physical or ‘smart’ systems is extending the threat of remote exploitation to a whole host of new technologies.
+S0112 Systems and technologies that underpin our daily lives – such as power grids, air traffic control systems, satellites, medical technologies, industrial plants and traffic lights – are connected to the Internet and, therefore, potentially vulnerable to interference.
+S0114 The 2015 National Security Strategy (NSS) reaffirmed the cyber threat as a Tier One risk to UK interests.
+S0136 When the last National Cyber Security Strategy was published in 2011, the scale of technological change and its impact was already apparent.
+S0137 The trends and opportunities described then have since accelerated.
+S0138 New technologies and applications have come to the fore, and greater uptake of internet-based technologies worldwide, in particular in developing countries, has offered increasing opportunities for economic and social development.
+S0140 But as our reliance on networks in the UK and overseas grows, so do the opportunities for those who would seek to compromise our systems and data.
+S0141 Equally, the geopolitical landscape has changed.
+S0142 Malicious cyber activity knows no international boundaries.
+S0143 State actors are experimenting with offensive cyber capabilities.
+S0144 Cyber criminals are broadening their efforts and expanding their strategic modus operandi to achieve higher value pay-outs from UK citizens, organisations and institutions.
+S0145 Terrorists, and their sympathisers, are conducting low-level attacks and aspire to carry out more significant acts.
+S0148 Much of the most serious cyber crime – mainly fraud, theft and extortion – against the UK continues to be perpetrated predominantly by financially motivated Russian-language organised criminal groups (OCGs) in Eastern Europe, with many of the criminal marketplace services being hosted in these countries.
+S0149 However, the threat also emanates from other countries and regions, and from inside the UK itself, with emerging threats from South Asia and West Africa of increasing concern.
+S0151 Even when key individuals responsible for the most damaging cyber criminal activities against the UK are identified, it is often difficult for the UK and international law enforcement agencies to prosecute them when they are located in jurisdictions with limited, or no, extradition arrangements.
+S0153 We regularly see attempts by states and state-sponsored groups to penetrate UK networks for political, diplomatic, technological, commercial and strategic advantage, with a principal focus on the government, defence, finance, energy and telecommunications sectors.
+S0155 These OCGs are principally responsible for developing and deploying the increasingly advanced malware that infects the computers and networks of UK citizens, our industry and government.
+S0156 The impact is dispersed throughout the UK, but the cumulative effect is significant.
+S0157 These attacks are becoming increasingly aggressive and confrontational, as illustrated by the increasing use of ransomware, and threats of distributed denial of service (DDoS) for extortion.
+S0159 The capacity and impact of these state cyber programmes varies.
+S0160 The most advanced nations continue to improve their capabilities at pace, integrating encryption and anonymisation services into their tools in order to remain covert.
+S0161 While they have the technical capability to deploy sophisticated attacks, they can often achieve their aims using basic tools and techniques against vulnerable targets because the defences of their victims are poor.
+S0163 Whilst OCGs may pose a significant threat to our collective prosperity and security, equally of concern is the continuing threat from acts of less sophisticated but widespread cyber crimes carried out against individuals or smaller organisations.
+S0165 Only a handful of states have the technical capabilities to pose a serious threat to the UK’s overall security and prosperity.
+S0166 But many other states are developing sophisticated cyber programmes that could pose a threat to UK interests in the near future.
+S0167 Many states seeking to develop cyber espionage capability can purchase computer network exploitation tools ‘off the shelf’ and repurpose these to conduct espionage.
+S0169 Beyond the espionage threat, a small number of hostile foreign threat actors have developed and deployed offensive cyber capabilities, including destructive ones.
+S0170 These capabilities threaten the security of the UK’s critical national infrastructure and industrial control systems.
+S0171 Some states may use these capabilities in contravention of international law in the belief that they can do so with relative impunity, encouraging others to follow suit.
+S0172 Whilst destructive attacks around the world remain rare, they are rising in number and impact.
+S0174 Hacktivist groups are decentralised and issue-orientated.
+S0175 They form and select their targets in response to perceived grievances, introducing a vigilante quality to many of their acts.
+S0176 While the majority of hacktivist cyber activity is disruptive in nature (website defacement or DDoS), more able hacktivists have been able to inflict greater and lasting damage on their victims.
+S0178 Terrorist groups continue to aspire to conduct damaging cyber activity against the UK and its interests.
+S0179 The current technical capability of terrorists is judged to be low.
+S0180 Nonetheless the impact of even low-capability activity against the UK to date has been disproportionately high: simple defacements and doxing activity (where hacked personal details are ‘leaked’ online) enable terrorist groups and their supporters to attract media attention and intimidate their victims.
+S0181 Insider threats remain a cyber risk to organisations in the UK.
+S0182 Malicious insiders, who are trusted employees of an organisation and have access to critical systems and data, pose the greatest threat.
+S0183 They can cause financial and reputational damage through the theft of sensitive data and intellectual property.
+S0184 They can also pose a destructive cyber threat if they use their privileged knowledge, or access, to facilitate, or launch, an attack to disrupt or degrade critical services on the network of their organisations, or wipe data from the network.
+S0186 The current assessment is that physical, rather than cyber, terrorist attacks will remain the priority for terrorist groups for the immediate future.
+S0187 As an increasingly computer-literate generation engages in extremism, potentially exchanging enhanced technical skills, we envisage a greater volume of low-sophistication (defacement or DDoS) disruptive activity against the UK.
+S0188 The potential for a number of skilled extremist lone actors to emerge will also increase, as will the risk that a terrorist organisation will seek to enlist an established insider.
+S0189 Terrorists will likely use any cyber capability to achieve the maximum effect possible.
+S0190 Thus, even a moderate increase in terrorist capability may constitute a significant threat to the UK and its interests.
+S0191 Of equal concern are those insiders or employees who accidentally cause cyber harm through inadvertent clicking on a phishing email, plugging an infected USB into a computer, or ignoring security procedures and downloading unsafe content from the Internet.
+S0192 Whilst they have no intention of deliberately harming the organisation, their privileged access to systems and data mean their actions can cause just as much damage as a malicious insider.
+S0193 These individuals are often the victims of social engineering – they can unwittingly provide access to the networks of their organisation or carry out instructions in good faith that benefit the fraudster.
+S0194 On 21 October 2015, UK telecommunications provider TalkTalk reported a successful cyber attack and a possible breach of customer data.
+S0195 Subsequent investigation determined that a database containing customer details had been accessed via public- facing internet servers, with the records of approximately 157,000 customers at risk, including names, addresses and bank account details.
+S0196 The overall cyber risk to an organisation from insider threats is not just about unauthorised access to information systems and their content.
+S0197 The physical security controls protecting those systems from inappropriate access, or removal of sensitive data or proprietary information on different forms of media, are equally important.
+S0198 Similarly, a robust personnel security culture that is alive to the threat posed by disaffected employees, fraud in the workforce and industrial and other forms of espionage is an important element in a comprehensive approach to security.
+S0199 On the same day, several TalkTalk employees received an email with a ransom demand for payment in Bitcoins.
+S0200 The attackers detailed the structure of the database as apparent proof that it had been accessed.
+S0201 TalkTalk’s report of the breach helped the police, supported by specialists at the National Crime Agency, to arrest the main suspects, all based in the UK, in October and November 2015.
+S0203 So-called ‘script kiddies’ – generally less skilled individuals who use scripts or programmes developed by others to conduct cyber attacks – are not assessed as posing a substantive threat to the wider economy or society.
+S0204 But they do have access to hacking guides, resources and tools on the Internet.
+S0205 Due to the vulnerabilities found in internet-facing systems used by many organisations, the actions of ‘script kiddies’ can, in some cases, have a disproportionately damaging impact on an affected organisation.
+S0206 The attack demonstrates that, even within large cyber-aware organisations, vulnerabilities can persist.
+S0207 Their exploitation can have a disproportionate effect in terms of reputational damage and operational disruption, and this incident generated substantial media attention.
+S0208 TalkTalk’s rapid reporting of the breach enabled law enforcement to respond in a timely manner, and both the public and government to mitigate the potential loss of sensitive data.
+S0209 The incident cost TalkTalk an estimated £60m and the loss of 95,000 customers, as well as a sharp drop in their share price.
+S0211 BAE concluded ‘that criminals are conducting more and more sophisticated attacks against victim organisations, particularly in the area of network intrusions’.
+S0212 The Society for Worldwide Interbank Financial Telecommunication (SWIFT) provides a network that enables financial institutions worldwide to send and receive information about financial transactions in a secure way.
+S0213 As SWIFT sends payment orders which must be settled by correspondent accounts that the institutions have with each other, there has long been concern over any potential for this process to be compromised by cyber criminals or other malicious actors, seeking to inject illegitimate payment orders into the system or, in a worst case scenario, seeking to disable or disrupt the functionality of the SWIFT network itself.
+S0214 A cyber attack on western Ukrainian electricity distribution companies Prykarpattya Oblenergo and Kyiv Oblenergo on 23 December 2015 caused a major power outage, with disruption to over 50 substations on the distribution networks.
+S0215 The region reportedly experienced a blackout for several hours and many other customers and areas sustained lesser disruptions to their power supplies, affecting more than 220,000 consumers.
+S0216 In early February 2016, an attacker accessed the SWIFT payment system of the Bangladesh Bank and instructed the New York Federal Reserve bank to transfer money from Bangladesh Bank’s account to accounts in the Philippines.
+S0217 The attempted fraud was US$951 million.
+S0218 30 transactions, worth US$850 million, were prevented by the banking system; however, five transactions worth US$101 million went through.
+S0219 US$20 million, traced to Sri Lanka, has since been recovered.
+S0220 The remaining US$81 million transferred to the Philippines was laundered through casinos and some of the funds were then forwarded to Hong Kong.
+S0221 Use of the BlackEnergy3 malware has been blamed by some for the attack, after samples were identified on the network.
+S0222 At least six months before the attack, attackers had sent phishing emails to the offices of power utility companies in the Ukraine containing malicious Microsoft Office documents.
+S0223 However, the malware was not likely to have been responsible for opening the circuit breakers which resulted in the outage.
+S0224 It is probable that the malware enabled the attackers to gather credentials that allowed them to gain direct remote control of aspects of the network, which would subsequently enable them to trigger the outage.
+S0225 This Ukraine incident is the first confirmed instance of a disruptive cyber attack on an electricity network.
+S0226 Instances such as this further demonstrate the need for good cyber security practices across all of our Critical National Infrastructure (CNI) to prevent similar incidents occurring in the UK.
+S0227 The forensic investigation launched by Bangladesh Bank discovered that malware had been installed on the bank’s systems and had been used to gather intelligence on the procedures used by the bank for international payments and fund transfers.
+S0228 Further analysis by BAE Systems of the malware linked to the attack uncovered sophisticated functionality for interacting with the local
+S0230 When the last National Cyber Security Strategy was published in 2011, most people conceived of cyber security through the prism of protecting devices such as their desktop computer or laptop.
+S0231 Since then the Internet has become increasingly integrated into our daily lives in ways we are largely oblivious to.
+S0232 The ‘Internet of Things’ creates new opportunities for exploitation and increases the potential impact of attacks which have the potential to cause physical damage, injury to persons and, in a worst case scenario, death.
+S0233 ‘10 Steps to Cyber Security’, but also due to the increased public profile of major cyber incidents affecting governments and corporations.
+S0234 Cyber attacks are not necessarily sophisticated or inevitable and are often the result of exploited – but easily rectifiable and, often, preventable – vulnerabilities.
+S0235 In most cases, it continues to be the vulnerability of the victim, rather than the ingenuity of the attacker, that is the deciding factor in the success of a cyber attack.
+S0236 Businesses and organisations decide on where and how to invest in cyber security based on a cost-benefit assessment, but they are ultimately liable for the security of their data and systems.
+S0237 Only by balancing the risk to their critical systems and sensitive data from cyber attacks, with sufficient investment in people, technology and governance, will businesses reduce their exposure to potential cyber harm.
+S0239 The rapid implementation of connectivity in industrial control processes in critical systems, across a wide range of industries such as energy, mining, agriculture and aviation, has created the Industrial Internet of Things.
+S0240 This is simultaneously opening up the possibility of devices and processes, which were never vulnerable to such interference in the past, being hacked and tampered with, with potentially disastrous consequences.
+S0242 Therefore, we are no longer just vulnerable to cyber harms caused by the lack of cyber security on our own devices but by threats to the interconnected systems that are fundamental to our society, health and welfare.
+S0244 We lack the skills and knowledge to meet our cyber security needs across both the public and private sector.
+S0245 In businesses, many staff members are not cyber security aware and do not understand their responsibilities in this regard, partially due to a lack of formal training.
+S0246 The public is also insufficiently cyber aware.
+S0248 Awareness of technical vulnerabilities in software and networks, and the need for cyber hygiene in the UK, has undoubtedly increased over the past five years.
+S0249 This is in part a consequence of initiatives like the Government’s
+S0251 We also need to develop the specialist skills and capabilities that will allow us to keep pace with rapidly evolving technology and manage the associated cyber risks.
+S0252 This skills gap represents a national vulnerability that must be resolved.
+S0254 The ready availability of hacking information and user-friendly hacking tools on the Internet is enabling those who want to develop a hacking capability to do so.
+S0255 The information hackers need in order to compromise victims successfully is often openly accessible and can be harvested quickly.
+S0256 Everyone, from the living room to the boardroom, needs to be aware of the extent of exposure of their personal details and systems on the Internet, and the degree to which that could leave them vulnerable to malicious cyber exploitation.
+S0258 Many organisations in the UK will continue to use vulnerable legacy systems until their next IT upgrade.
+S0259 Software on these systems will often rely on older, unpatched versions.
+S0260 These older versions often suffer from vulnerabilities that attackers look for and have the tools to exploit.
+S0261 An additional issue is the use by some organisations of unsupported software, for which patching regimes do not exist.
+S0265 However, we are not yet ahead of the threat.
+S0266 The types of malicious cyber actors we must contend with, and their motivations, have largely endured, even as the volume of malware and the numbers of such malicious actors has grown rapidly.
+S0267 The capability of our most technically proficient adversaries, namely a select number of states and elite cyber criminals, has grown.
+S0268 Our collective challenge is to ensure our defences are evolved and agile enough to counter them, to reduce the ability of malicious actors to attack us and to address the root causes of the vulnerabilities outlined above.
+S0292 Businesses, public and private sector organisations and other institutions hold personal data, provide services, and operate systems in the digital domain.
+S0330 Too many networks, including in critical sectors, are still insecure.
+S0331 The market is not valuing, and therefore not managing, cyber risk correctly.
+S0332 Too many organisations are still suffering breaches at even the most basic level.
+S0333 Too few investors are willing to risk supporting entrepreneurs in the sector.
+S0334 Too few graduates and others with the right skills are emerging from the education and training system.
+S0369 It will never be possible to stop every cyber attack, just as it is not possible to stop every crime.
+S0442 The Government’s networks are highly complex and in many cases still incorporate legacy systems, as well as some commercially available software which is no longer supported by the vendor.
+S0445 The UK Government, Devolved Administrations and the wider public sector hold large quantities of sensitive data.
+S0446 They deliver essential services to the public and operate networks that are critical to national security and resilience.
+S0447 The Government’s systems underpin the functioning of our society.
+S0460 Cyber security is not just about technology.
+S0461 Almost all successful cyber attacks have a contributing human factor.
+S0470 Health and care systems pose unique challenges in the context of cyber security.
+S0471 The sector employs around 1.6 million people in over 40,000 organisations, each 5.3.10.
+S0472 Cyber security is vital to our defence.
+S0473 Our Armed Forces depend on information and communications systems, both in the UK and on operations around the world.
+S0474 The infrastructure and personnel of the Ministry of Defence (MoD) are prominent targets.
+S0475 Defence systems are regularly targeted by criminals, foreign intelligence services and other malicious actors seeking to exploit personnel, disrupt business and operations, and corrupt and steal information.
+S0481 5.4.1 The cyber security of certain UK organisations is of particular importance because a successful cyber attack on them would have the severest impact on the country’s national security.
+S0482 This impact could have a bearing on the lives of UK citizens, the stability and strength of the UK economy, or the UK’s international standing and reputation.
+S0483 This premium group of companies and organisations within the public and private sector includes the critical national infrastructure •
+S0495 More needs to be done to protect these vital parts of our economy and support the organisations that heavily influence others.
+S0496 Our CNI – in both the private and public sector – continues to be a target for attack.
+S0497 Across these and many other priority sectors cyber risk is still not properly understood or managed, even as the threat continues to diversify and increase.
+S0515 Many of our industry sectors are already regulated for cyber security.
+S0529 5.5.1 A successful UK digital economy relies upon the confidence of businesses and the public in online services.
+S0532 While there are many organisations that are doing an excellent job – in places, world-leading – of protecting themselves, and in providing services to others online, the majority of businesses and individuals are still not properly managing cyber risk.
+S0556 The vast majority of cyber attacks use relatively simple methods which exploit basic vulnerabilities in software and computer systems.
+S0557 There are tools and techniques openly available on the Internet which enable even low-skill actors to exploit these vulnerabilities.
+S0567 The number and severity of cyber incidents affecting organisations across the public and private sector are likely to increase.
+S0571 The private sector, government and the public can currently access multiple sources of information, guidance and assistance on cyber security.
+S0584 Current incident management remains somewhat fragmented across government departments and this strategy will create a unified approach.
+S0643 We need to bring to bear the full range of government capabilities to counter the threat posed by hostile foreign actors that increasingly threaten our political, economic and military security.
+S0673 The technical capability of terrorists currently remains limited but they continue to aspire to conduct damaging computer network operations against the UK, with publicity and disruption as the primary objective of their cyber activity.
+S0701 But as technology continues to evolve, we have to ensure that there are no guaranteed ‘safe spaces’ for terrorists and criminals to operate beyond the reach of the law.
+S0718 The UK requires more talented and qualified cyber security professionals.
+S0733 The UK needs to tackle the systemic issues at the heart of the cyber skills shortage: the lack of young people entering the profession; the shortage of current cyber security specialists; insufficient exposure to cyber and information security concepts in computing courses; a shortage of suitably qualified teachers; and the absence of established career and training pathways into the profession.
+S0763 UK cyber security firms provide world-leading technologies, training and advice to industry and governments.
+S0764 But whilst the UK is a leading player, it faces fierce competition to stay ahead.
+S0765 There are also barriers that the Government needs to address.
+S0766 UK companies and academics develop cutting-edge technology, but some require support to develop the commercial and entrepreneurial skills required to thrive.
+S0767 There are funding gaps that prevent SMEs from growing and expanding into new markets and territories.
+S0768 The most ground­ breaking products and services, that offer the potential to keep us ahead of the threat, struggle to find customers who are willing to act as early adopters.
+S0777 The Government faces some of the hardest challenges in cyber security, and some of the biggest threats.
+S0849 Our economic prosperity and social wellbeing increasingly depend on the openness and security of networks that extend beyond our own borders.
+S0855 In order to reduce the threat to the UK and our interests, much of which originates overseas, we will seek to influence the decision-making of those engaging in cyber crime, cyber espionage, and disruptive or destructive cyber activity and continue to build frameworks to support international cooperation.
+S0859 International cooperation on cyber issues has become an essential part of wider global economic and security debates.
+S0860 It is a rapidly evolving area of policy, without a single agreed international vision.
+S0861 The UK and its allies have been successful in ensuring some elements of the rules-based international system are in place: there has been agreement that international law applies in cyberspace; that human rights apply online as they do offline; and a broad consensus that the multi-stakeholder approach is the best way to manage the complexities of governing the Internet.
+S0862 However, with a growing divide over how to address the common challenge of reconciling national security with individual rights and freedoms, any global consensus remains fragile.
+S0918 The rapid evolution of the cyber landscape will constantly throw up new challenges as technology evolves and our adversaries act to exploit it.
+S0924 Should we fail to act effectively, the threat will continue to outpace our ability to protect ourselves against it.
+S0925 We can expect an explosion of threat capability at all levels.

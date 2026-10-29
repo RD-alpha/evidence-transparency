@@ -1,0 +1,44 @@
+{
+  "diagnosis": {
+    "core_themes": [],
+    "note": "No sentences in the document are classified as Diagnosis, so no issue, cause, scale or evidence assessment is argued; the document moves straight from a brief preamble to the proposed subject content."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Academic status of modern languages",
+        "claim": "The document claims that studying a modern language is an interdisciplinary subject offering the same cognitive and academic rigour as other humanities disciplines."
+      },
+      {
+        "name": "Transferable skills and wider value",
+        "claim": "The document claims that the content develops transferable skills (critical thinking, autonomy, creativity, cultural and cognitive flexibility) that are valuable to individuals, society, higher education and employers."
+      },
+      {
+        "name": "Universal relevance and progression pathway",
+        "claim": "The document claims the qualification is designed to be relevant to students of all disciplines while also providing a robust foundation for those progressing to degree-level study of the language."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Integrated language, culture and society curriculum",
+        "claim": "Specifications must require an integrated study of language alongside themes of society and culture, organised around prescribed areas of interest and using authentic spoken and written sources."
+      },
+      {
+        "name": "Comprehensive language skill development",
+        "claim": "Specifications must require students to develop and demonstrate a full range of practical and intellectual language skills, including listening, reading, speaking, writing, translation and independent research, with additional critical and research-oriented demands at A level."
+      },
+      {
+        "name": "Study of literary works and films",
+        "claim": "Specifications must require students to study prescribed literary works and/or films (one at AS, two at A level) and respond critically to their content, structure and stylistic or technical features."
+      },
+      {
+        "name": "Standardised grammar requirements across languages, with language-specific adaptations",
+        "claim": "Specifications must set out detailed grammar and structure requirements as exemplified for French, German and Spanish, require comparable appendices for other languages, and apply adjusted expectations for Chinese given its distinct linguistic characteristics."
+      }
+    ],
+    "note": "Implementation covers several distinct but interlocking design components (curriculum structure, skills, set texts, grammar) that together constitute the delivery model."
+  }
+}

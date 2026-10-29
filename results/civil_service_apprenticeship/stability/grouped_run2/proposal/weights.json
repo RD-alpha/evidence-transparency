@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Rationale and Benefits of Apprenticeships",
+      "reason": "This is the central justification for why the government chose apprenticeships as the intervention, directly addressing skills shortages, productivity, and social mobility with evidence (e.g. earnings data, employer surveys); without it the case for the proposal collapses.",
+      "weight": "core"
+    },
+    {
+      "theme": "Targets, Commitments and Leading by Example",
+      "reason": "Sets out the specific numerical target (30,000 by 2020) and the Civil Service's leading role, which is the concrete form the chosen intervention takes; removing this would leave the proposal without its defining commitment.",
+      "weight": "core"
+    },
+    {
+      "theme": "Workforce Capability, Skills and Career Development",
+      "reason": "Explains how apprenticeships fit into workforce planning and address skills gaps, supporting the should-explain point on rationale, but functions as elaboration of the core rationale rather than an independent pillar.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Diversity, Inclusion and Social Mobility",
+      "reason": "Reiterates diversity and social mobility aims already covered as part of the rationale theme; it is supporting detail rather than a separate foundation of the proposal argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Quality of Apprenticeships, Standards and Funding",
+      "reason": "Addresses how the intervention will be funded and quality-assured, touching on assessment of evidence and cost considerations, but is secondary detail refining the already-established core rationale and target.",
+      "weight": "not core"
+    }
+  ]
+}

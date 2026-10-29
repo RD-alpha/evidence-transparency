@@ -1,0 +1,157 @@
+{
+  "themes": [
+    {
+      "name": "Imbalance of market power between landlords and tenants",
+      "ids": [
+        "S0015",
+        "S0222",
+        "S0223",
+        "S0224",
+        "S0226",
+        "S0227",
+        "S0238"
+      ]
+    },
+    {
+      "name": "Scale, variability and opacity of tenant fees",
+      "ids": [
+        "S0012",
+        "S0013",
+        "S0014",
+        "S0016",
+        "S0130",
+        "S0131",
+        "S0136",
+        "S0138",
+        "S0139",
+        "S0150",
+        "S0151",
+        "S0152",
+        "S0153",
+        "S0154",
+        "S0155",
+        "S0157",
+        "S0158",
+        "S0159",
+        "S0160",
+        "S0161",
+        "S0162",
+        "S0163",
+        "S0164",
+        "S0165",
+        "S0167",
+        "S0168",
+        "S0169",
+        "S0193",
+        "S0194",
+        "S0195",
+        "S0196",
+        "S0197",
+        "S0199",
+        "S0262",
+        "S0263",
+        "S0264"
+      ]
+    },
+    {
+      "name": "Failure of existing transparency regulation",
+      "ids": [
+        "S0189",
+        "S0190",
+        "S0204",
+        "S0205",
+        "S0212",
+        "S0213",
+        "S0214",
+        "S0216",
+        "S0217",
+        "S0218",
+        "S0220",
+        "S0231",
+        "S0232"
+      ]
+    },
+    {
+      "name": "Financial and behavioural harm to tenants",
+      "ids": [
+        "S0265",
+        "S0266",
+        "S0267",
+        "S0268",
+        "S0271",
+        "S0272",
+        "S0273",
+        "S0274",
+        "S0276",
+        "S0277"
+      ]
+    },
+    {
+      "name": "Characteristics of the private rental sector and tenant practices",
+      "ids": [
+        "S0005",
+        "S0006",
+        "S0007",
+        "S0134",
+        "S0135",
+        "S0145",
+        "S0146",
+        "S0147",
+        "S0148",
+        "S0170",
+        "S0250",
+        "S0251",
+        "S0254",
+        "S0256",
+        "S0257",
+        "S0258"
+      ]
+    },
+    {
+      "name": "Letting agent fees charged to landlords",
+      "ids": [
+        "S0173",
+        "S0174",
+        "S0175",
+        "S0177",
+        "S0178",
+        "S0180",
+        "S0181",
+        "S0182",
+        "S0184",
+        "S0185",
+        "S0186"
+      ]
+    },
+    {
+      "name": "Tenant-landlord knowledge gaps and confusion",
+      "ids": [
+        "S0201",
+        "S0202",
+        "S0230",
+        "S0233",
+        "S0235",
+        "S0236"
+      ]
+    },
+    {
+      "name": "Sector conduct and practices",
+      "ids": [
+        "S0142",
+        "S0143",
+        "S0207",
+        "S0208",
+        "S0209",
+        "S0210"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": [
+        "S0317",
+        "S0320",
+        "S0525"
+      ]
+    }
+  ]
+}

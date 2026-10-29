@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rising life expectancy and time spent in retirement",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Figures such as 13\u00bd years/23% in 1948 and 21 years/32% in 2007 carry References 5, 6, 13, 19, 21 and 26 (ONS datasets and a DWP calculation from ONS data) that a reader can follow, with the direction of change and its meaning clearly linked, but the DWP calculation's method is only partly explained and no limitations or uncertainty are discussed."
+    },
+    {
+      "theme": "Demographic shift and pay-as-you-go cost pressure",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Figures on 12.4m to 16.9m pensioners, the dependency ratio of 301 to 375 and the 1% of GDP rise carry References 7, 8, 9, 30 and 31 (ONS, the independent review, OBR), and the pay-as-you-go reasoning links them to the cost claim, but projection uncertainty is never assessed."
+    },
+    {
+      "theme": "Past inaction and the need for a structured framework",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The Pensions Commission finding and the timetable of the 2007, 2011 and 2014 Acts are cited to Reference 20 and supported by life expectancy data (Refs 5, 21 and 26 from the first theme), but the claims that the UK was slow to act are largely argument and no limitations are acknowledged."
+    },
+    {
+      "theme": "Purpose of the State Pension and entitlement design",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "These lines are assertions and descriptions of the pension system's objectives with no statistic, finding or source behind them and no citations."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "These lines only describe the 1995 Act and assert that ageing poses challenges, with no evidence or citations."
+    }
+  ],
+  "reasoning": "The three core themes each reach level 2. For rising life expectancy, the document offers specific figures (\"13\u00bd years, or 23%\" in 1948, \"21 years by 2007, or 32%\") with References 5, 6, 13, 19, 21 and 26 pointing to ONS datasets and a DWP calculation, and it makes clear that these show a growing share of adult life spent in retirement. For demographic cost pressure, \"12.4 million to 16.9 million\" pensioners, the dependency ratio rising \"from 301... to 375\" (References 7, 8) and the \"1% of GDP\" rise (References 9, 30, 31) are tied to the pay-as-you-go argument. For past inaction, the Pensions Commission (Reference 20) and the three Acts support the case for a structured framework, though the claim that the UK was \"slow\" is largely argument. The mean of the core levels is 2.0, so the section scores 2. The strongest counter-example is that no theme assesses its evidence: the projections are presented with certainty, and there is no discussion of projection uncertainty or of how the DWP calculation was made. Some lines also lack citations, such as the 2015 centenarian figures and the 1951 life expectancy figures. To reach level 3, the document would need to assess the reliability of the ONS and OBR projections, set out the uncertainty or alternative scenarios, and acknowledge contrary evidence, for example on healthy life expectancy.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.0,
+  "score_consistent": true,
+  "missing_core": []
+}

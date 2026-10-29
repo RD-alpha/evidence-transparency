@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Overfishing Problem and Stock Status",
+      "reason": "This theme directly states the core diagnosis: that lobster and crawfish stocks in English waters are being overfished and not meeting MSY, which is the central problem the policy addresses. Without this, there is no stated problem for the policy to solve.",
+      "weight": "core"
+    },
+    {
+      "theme": "Economic Value and Employment",
+      "reason": "Provides scale and context on the fishery's value and employment, supporting why overfishing matters, but the case for the diagnosis would still stand without these figures.",
+      "weight": "not core"
+    },
+    {
+      "theme": "EU Obligations and Maximum Sustainable Yield",
+      "reason": "Explains the legal/technical benchmark (MSY) against which overfishing is assessed, underpinning the claim that stocks are overfished; removing this would undercut the basis for calling stocks 'overfished' relative to MSY.",
+      "weight": "core"
+    },
+    {
+      "theme": "Conservation Policy and Biodiversity",
+      "reason": "Gives background on UK BAP and biodiversity strategy status of crawfish, which is supportive context but not essential to the core overfishing diagnosis.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Berried Lobster and Crawfish Management",
+      "reason": "Describes existing management measures and their limited evidence of effectiveness, illustrating current gaps but the central overfishing diagnosis does not depend on this specific management detail.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Market Failure and Common Resource Problem",
+      "reason": "Explains the underlying economic cause (common resource/market failure) of why overfishing occurs and why berried lobster removal is especially harmful, forming a key causal explanation for the diagnosis.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Overfishing of lobster and crawfish stocks",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "EU and biodiversity obligations at risk",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Common-good market failure",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Particular harm from landing berried (egg-bearing) individuals",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Inadequacy of existing local measures",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Economic importance of English shellfish sector",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Employment and industry structure",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,2222 @@
+# Night Flight Decision
+Night flight restrictions at Heathrow, Gatwick and Stansted
+Decision Document
+Moving Britain Ahead
+July 2017
+S0001 The Department for Transport has actively considered the needs of blind and partially sighted people in accessing this document.
+S0002 The text will be made available in full on the Department’s website.
+S0003 The text may be freely downloaded and translated by individuals or organisations for conversion into other accessible formats.
+S0004 If you have other needs in this regard please contact the Department.
+S0005 Department for Transport Great Minster House 33 Horseferry Road London SW1P 4DR Telephone 0300 330 3000 Website www.gov.uk/dft General enquiries: https://forms.dft.gov.uk **(Link: 1)
+S0006 © Crown copyright 2017
+S0007 Copyright in the typographical arrangement rests with the Crown.
+S0008 You may re-use this information (not including logos or third-party material) free of charge in any format or medium, under the terms of the Open Government Licence.
+S0009 To view this licence, visit http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/ **(Link: 2) or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or e-mail: psi@nationalarchives.gsi.gov.uk **(Link: 3)
+S0010 Where we have identified any third-party copyright information you will need to obtain permission from the copyright holders concerned.
+S0011 Introduction 4
+S0012 1. Overview of consultation responses 7
+S0013 2. Environmental Objective 9
+S0014 3. Length of the regime 13
+S0015 4.
+S0016 The Quota Count System 15
+S0017 5.
+S0018 Movement limits 19
+S0019 6. Noise quota limits 23
+S0020 7.
+S0021 Additional issues raised 28
+S0022 Additional comments 28
+S0023 Evidence received through consultation 29
+S0024 Annex A: Relevant information 31
+S0025 Annex B: Glossary 33
+Introduction
+S0026 1 This government response follows the consultation launched on 12 January on options to replace the existing night flight restrictions at Heathrow, Gatwick and Stansted Airports, which expire in October 2017. ** (Reference: 1)
+S0027 2 In our consultation we proposed a five year regime, lasting until October 2022, which would maintain the status quo in terms of movements while encouraging the use of quieter aircraft at all three airports.
+S0028 3 To achieve this we proposed to introduce changes to the quota count system to ensure communities living around airports were protected from a potentially unlimited number of aircraft that would otherwise be exempt from the restrictions.
+S0029 We also proposed to adjust Stansted's movement limits to reflect the fact that a large number of these exempt aircraft are already operating there.
+S0030 4 In order to incentivise the use of quieter aircraft at each airport we also proposed that as a minimum noise quota limits at Heathrow and Gatwick should be reduced to prevent the average amount of noise produced by an aircraft from becoming any higher than is currently the case.
+S0031 At Stansted we proposed the noise quota limit should not rise so that if the adjusted movement limit was to be fully utilised, the average noise quota of an aircraft will have to reduce compared to the current level.
+S0032 We also stated we would look to make further reductions to noise quotas if these would be feasible and could be done without reducing the existing benefits of night flights at these airports.
+S0033 5 While we have amended some of our original proposals following consideration of the numerous consultation responses that were received, we do not consider there to be any new evidence or arguments put forward that would justify moving fundamentally away from the approach proposed within our consultation.
+S0034 6 Our final environmental objective for the next regime is therefore to 'Limit or reduce the number of people significantly affected by aircraft noise at night, including through encouraging the use of quieter aircraft, while maintaining the existing benefits of night flights’
+S0035 7 Our achievement against this objective will be measured by:
+S0036 
+S0037 The area of and number of people in the 48dB LAeq 6.5hr night contour
+S0038  Sleep disturbance impacts associated with night flights, assessed using webTAG
+S0039 methodologies. ** (Reference: 2)
+S0040 
+S0041 The average noise on an aircraft (as measured by the average noise Quota Count
+S0042 per aircraft movement over the course of a season).
+S0043  Number of movements in the night quota period
+S0044 8 The next night flights regime, which will last until October 2022, will maintain the status quo in terms of movements.
+S0045 A new QC/0.125 category will be introduced to capture the bulk of aircraft which are currently exempt, and any aircraft that are quieter than this will also count towards an airport's movement limits though they will remain exempt from the noise quota limits.
+S0046 Stansted's movement limits will be adjusted to reflect these changes while the movement limits at Heathrow and Gatwick will remain the same.
+S0047 9 We will reduce noise quota limits at Heathrow and Gatwick to a value based on their current usage, though the final limits differ slightly from those proposed within our consultation due to adapting our methodology for calculating these as a result of feedback received from consultation responses.
+S0048 These final limits represent significant reductions in noise quota limits that will mean if an airport is to make maximum use of its movement allowance then the average noise produced by an aircraft cannot increase.
+S0049 This will further incentivise the use of quieter aircraft by encouraging industry to plan its operations with sufficient headroom to ensure the limits can still be complied with in the event of unplanned disruption or changes to their schedules.
+S0050 10 At Stansted, the current noise quota limits will remain in place.
+S0051 Coupled with the adjustment to the airports movement limits, this will mean that the noise produced on average by an aircraft will have to reduce compared to today's level if the airport is to fully utilise its new allowance.
+S0052 Overall, our changes at Stansted will benefit communities by meaning fewer movements will be allowed to take place and less noise will be able to be produced than if the existing rules remained in place.
+S0053 11 In our consultation we proposed to consider options for further noise quota reductions beyond these limits.
+S0054 However, we did not receive sufficient information through our consultation that would allow us to set further reduced noise limits with any certainty that they would be achievable and would allow the existing benefits of night flights to be maintained.
+S0055 12 Following feedback received through our consultation about the timing of our proposals on night flights coming later than airlines would usually begin planning their changes for the winter 2017/18 and summer 18 seasons by, we have decided to defer some of these changes for the first year of the regime.
+S0056 13 Therefore, from October 2017:
+S0057  All aircraft movements will now count towards an airport's movement limit.
+S0058 No
+S0059 aircraft will be exempt from the movement limits but aircraft that currently fall below the QC/0.25 threshold will remain QC/0 (i.e. exempt from the noise quota limits).
+S0060  Stansted's movement limits will be adjusted to 5,600 in the winter and 8,100 in the
+S0061 summer
+S0062 14
+S0063 Then, from October 2018:
+S0064  A new QC/0.125 category will be introduced for aircraft from 81 to 83. EPNdB ** (Reference: 9)
+S0065  Aircraft quieter than this will continue to count towards the airports' movement
+S0066 limits and remain QC/0
+S0067  Noise quota limits at Heathrow will be reduced to 2415 in the winter and 2735 in
+S0068 the summer and at Gatwick to 1785 in the winter and 5150 in the summer.
+S0069 15 The rules for next regime are summarised in the table below.
+S0070 Table 1 - Structure of night flights regime, October 2017-2022
+S0071 16
+S0072 The following section summarises the responses received to our consultation and how the government has considered these points in reaching its decision.
+S0073 Our impact assessment, which is published alongside this government response, also sets out the estimated costs and benefits of the changes that will be introduced.
+1. Overview of consultation responses
+S0074 1. This section provides an overview of the consultation responses received on our proposals. ** (Reference: 1)
+S0075 The following chapters then summarise the responses received to individual questions on our consultation proposals, along with the government's response on these matters.
+S0076 Additional analysis of responses utilising techniques employed at data scientists at the Department for Transport is included in a separate document published alongside this government response.
+S0077 1. Overall, 1252 responses to the specific proposals in our consultation were received. ** (Reference: 2)
+S0078 We also received another approximately 1250 further responses about the topic that did not specifically address any of the proposals, or were campaign responses supporting the responses of other organisations, including a campaign from a community group around Gatwick that was submitted almost 800 times.
+S0079 1. Of the detailed responses, the breakdown by respondent type is given in the table below: ** (Reference: 3)
+S0080 Table 2 - Breakdown of responses by organisation type and individual
+S0081 Individual 1097 Aircraft noise community group or other environmental group 35 Airline 16 Airport 5 Alternative aviation business (e.g. aircraft manufacturer or air-traffic control) 8 Business/business umbrella organisation or Trade Union 4 Charity 2 Freight carrier or express service 4 Public Body (including MPs and political parties) 74
+S0082 None of the above 7 Grand Total 1252
+S0083 Community responses
+S0084 1. Responses from individuals, community groups, MPs and local authorities tended to argue that our proposals would not have a significant impact on the level of night flight activity or the noise communities would experience. ** (Reference: 4)
+S0085 A recurring criticism was that the part of our proposed environmental objective concerned with ‘maintaining the existing benefits of night flights’ led to limit the range of options that were considered for the number of flights that could take place.
+S0086 1. Many respondents wanted to see an outright ban on night flights. ** (Reference: 5)
+S0087 Given that the government has stated it expects a ban on scheduled night flights of six and a half
+S0088 hours if a third runway is built at Heathrow, some respondents saw the rationale for continuing with the current allowance until this point, though more responses argued that a ban should be introduced immediately. ** (Reference: 3)
+S0089 1. At Gatwick and Stansted there were calls for a ban to be phased in by gradually reducing the number of night flights - beginning with removing surplus winter movements, and for there to be no adjustment to accommodate currently exempt aircraft as the sole aim of the regime should be reducing the harmful impacts of night noise. ** (Reference: 6)
+S0090 Industry responses
+S0091 1. Responses from industry generally argued that our proposals were too restrictive, particularly with regards to the noise quota limits proposed at each airport. ** (Reference: 7)
+S0092 Arguments also focused on how the government was not adequately pursuing other measures to reduce noise problems, such as reducing inappropriate housing development near airports, or how there was no need or evidence-based reason for introducing a new noise category for currently exempt aircraft.
+S0093 1. Industry responses argued that because of the timing of the consultation on the restrictions airlines would not have time to react to any scheduling changes that may be required. ** (Reference: 8)
+S0094 They therefore argued that changes should not take effect for at least the first year of the next regime.
+S0095 Responses to individual proposals
+S0096 1. ** (Reference: 9)
+S0097 The following chapters summarise the responses received to the proposals within our consultation document, along with the government's response and final decision on these matters.
+2. Environmental Objective
+S0098 Proposal
+S0099 2. In our consultation, we recognised that night flights are widely regarded as the least acceptable aspect of aircraft operations, but that they also offer benefits to the UK. ** (Reference: 1)
+S0100 While the government has therefore stated it expects a ban on scheduled night flights of six and a half hours at an expanded Heathrow, we agreed with the Airports Commissions conclusion that there was no case for further restrictions on night flights at a capacity constrained Heathrow. ** (Reference: 4)
+S0101 2. We also considered that given the capacity constraints in the south east and the business models of the airlines based at Gatwick and Stansted, it was important to maintain the benefits offered by night flights so that capacity in the south east is not constrained further before a new runway at Heathrow is operational. ** (Reference: 2)
+S0102 2. We therefore proposed that the next regime should ensure that the existing benefits of night flights were maintained while delivering the best possible improvements in the noise climate. ** (Reference: 3)
+S0103 As a result, the environmental objective in our consultation document was to 'encourage the use of quieter aircraft to limit or reduce the number of people significantly affected by aircraft noise at night, while maintaining the existing benefits of night flights'.
+S0104 2. There are also potential opportunities for both Heathrow and Stansted to agree night flight restrictions through other means in the coming years. ** (Reference: 4)
+S0105 This objective would therefore ensure that alongside improvements in the noise climate around these airports, the next regime would leave scope for local decisions to be made on night flights in the future.
+S0106 2. To measure progress against our environmental objective, we proposed the following criteria: ** (Reference: 5)
+S0107 
+S0108 The area of and number of people in the 48dB LAeq 6.5hr night noise contour.
+S0109 This is a different measure to that used for the current regime, but reflects increased evidence about the impacts of lower noise levels on sleep disturbance and health.
+S0110 
+S0111 The average QC per movement.
+S0112  Number of movements in the night quota period
+S0113 Summary of consultation responses
+S0114 2. We asked the following questions on our environmental objective. ** (Reference: 6)
+S0115 Q1a.
+S0116 How strongly do you agree or disagree with our proposed environmental objective for the next regime?
+S0117 Q1b.
+S0118 Do you have any additional comments on our proposed environmental objective for the next regime?
+S0119 2. A majority of responses to our consultation disagreed with our proposed environmental objective. ** (Reference: 7)
+S0120 Whilst many were supportive of encouraging quieter aircraft, respondents felt the objective did not go far enough towards limiting noise impacts for communities around airports.
+S0121 Some respondents were concerned that the impact of quieter technology would have a limited effect on those most affected.
+S0122 2. Many individuals and communities living around airports felt that the focus of the objective should be to prevent flights from operating at all during the night, either through an outright ban or by phasing them out gradually. ** (Reference: 8)
+S0123 These respondents suggested various different times between which there should be no flights, with a ban between 2300 and 0700 the most common suggestion.
+S0124 Some respondents pointed to the noise levels recommended by the World Health Organisation, and a statement from 2003 that the government intended to work towards taking account of these guideline levels by 2030. ** (Reference: 5)
+S0125 2. A large number of respondents, including a campaign response submitted approximately 800 times, were unhappy with the objective as they felt it pre- determined the outcome of the review and that the benefits of night flights were not adequately identified or quantified as part of the consultation on options. ** (Reference: 9)
+S0126 This campaign response called for a more radical review of night flight restrictions and the costs and benefits associated with them.
+S0127 2. These responses also disputed the proposed method for measuring impacts on communities and progress against the environmental objective. ** (Reference: 10)
+S0128 In particular, it was argued that only producing noise contours to 48dB LAeq 6.5hr ignored the impacts on communities further away from airports and thus underestimated the costs associated with night flights.
+S0129 Concerns were also raised that focusing on average noise levels was inappropriate for assessing the impacts on communities, and that limiting or reducing the number of people within a specific contour could lead to options that favoured the concentration of aircraft more intensely over fewer people.
+S0130 2. Industry were generally supportive of the objective but asked that in measuring it consideration was given to take account of new homes that are built within the relevant contours. ** (Reference: 11)
+S0131 Some airlines also felt the new objective penalised those who had already invested in quieter aircraft.
+S0132 Many industry responses welcomed the recognition by government of the benefits night flights offer and highlighted the importance of night flights to the business models of airlines, for instance by allowing low-cost airlines to operate the necessary minimum amount of rotations a day, or the benefits to the time-sensitive freight sector through enabling next day deliveries.
+S0133 There were some calls to consider other measurements to determine whether the element of the environmental objective relating to the benefits of night flights was being met.
+S0134 2. There were also some responses calling for government to set night flight restrictions at Luton airport. ** (Reference: 12)
+S0135 Government response
+S0136 2. The Government continues to believe that night flight activity offers significant benefits to the UK. ** (Reference: 13)
+S0137 These include the benefits to consumers and the economy through both increased competition and choice for customers - business and leisure, and helping to preserve the UK's connectivity to a wide range of locations and its status as a great place to do business.
+S0138 There are also the wider economic benefits that flow from night flights.
+S0139 For instance the next day deliveries they allow from far
+S0140 away destinations are important for keeping the economy moving and ensuring businesses and consumers get the goods they need when they need them.
+S0141 2. Night flights are especially important to the business models of the airlines operating at Gatwick and Stansted. ** (Reference: 14)
+S0142 Given the current capacity constraints within the south east, placing additional constraints on night flights would reduce the ability of low- cost carriers to operate the minimum number of rotations per day to make their services viable.
+S0143 This would have an impact upon competition and consumer choice.
+S0144 2. If there were to be further constraints on night flights it is likely airlines would choose to base their aircraft elsewhere ** (Reference: 15)
+S0145 and, if these were to be relocated outside of the UK, this would reduce not just the economic benefits of night flights themselves, but also the wider benefits referred to above.
+S0146 This would represent a failure to make use of the existing capacity in the south east and result in fewer benefits for passengers in terms of choice and competition, as well as economic costs to the UK as a whole.
+S0147 2. At Heathrow, the situation is slightly different. ** (Reference: 16)
+S0148 The government has set out its expectation in the Draft Airports National Policy Statement, that it expects a ban on scheduled night flights at Heathrow of six and a half hours as a condition of the building of a third runway.
+S0149 The Airports Commission's final report however noted that the benefits of night flights at a capacity-constrained Heathrow are clear - supporting connectivity to high-value long-haul destinations and concluded that further constraining night flights in the current environment would damage the UK's connectivity. ** (Reference: 6)
+S0150 2. At this moment therefore, the government considers that there are no realistic alternatives to night flights that would allow the UK to continue to reap the existing benefits it derives from having a world-leading aviation sector. ** (Reference: 17)
+S0151 Having taken into account the responses received to the consultation, the government therefore continues to believe the proposed approach to limiting or reducing the number of people significantly affected by aircraft noise, while maintaining the existing benefits of night flights, remains the correct one for the next night flights regime.
+S0152 2. The government has however decided to change the wording of the objective following consideration of the responses received. ** (Reference: 18)
+S0153 We recognise that the focus should be on limiting and, where possible, reducing the harmful impacts of night noise rather than solely encouraging the use of quieter aircraft.
+S0154 The environmental objective we have decided on is therefore to ‘Limit or reduce the number of people significantly affected by aircraft noise at night, including through encouraging the use of quieter aircraft, while maintaining the existing benefits of night flights’.
+S0155 2. ** (Reference: 19)
+S0156 Regarding the relevance of the WHO Guidelines for Community Noise, these have always been intended as guidelines and not binding limits.
+S0157 These levels apply to noise from all sources and not just aviation and addressing aviation noise in isolation is unlikely to achieve these levels given the totality of noise from all sources.
+S0158 For instance, the National Noise Incidence Study 2000/2001 which was undertaken on behalf of Defra, showed that 95% of the population are exposed to 40dB average noise or more. ** (Reference: 7)
+S0159 2. ** (Reference: 20)
+S0160 Regarding how progress against our environmental objective will be measured, we recognise that some individuals will be disturbed by aircraft noise at night who are outside the 48db LAeq
+S0161 6.5hr contour.
+S0162 It is not possible however to accurately produce noise contours for night time noise below this level as the CAA’s model used
+S0163 to create noise contours requires validation from real aircraft noise events, which at these levels are hard to distinguish from other noise sources.
+S0164 There is also greater uncertainty about where precisely an aircraft will be at these further distances from airports so it is much harder to predict what the sound from an aircraft will be at an exact location.
+S0165 2. The 48dB LAeq 6.5hr contour is therefore used for comparative purposes to measure progress and assess the impacts of different options for the night flights regime. ** (Reference: 21)
+S0166 Our assessment of the health impacts associated with different options does measure impacts below this - down to 45dB LAeq 6.5hr, which is consistent with the WHO’s Methodological guidance for estimating the burden of disease from environmental noise. To ensure consistency with this guidance, and the proposals we have made in our UK Airspace Policy consultation, we will include the change in sleep disturbance impacts down to 45dB LAeq 6.5hr as one of the measures of progress against the final objective. ** (Reference: 8, 9, 10)
+S0167 2. Regarding how the benefits of night flights are measured for assessing progress against our environmental objective, we recognise that these are not fully captured by the number of movements that take place. ** (Reference: 22)
+S0168 Our impact assessment published alongside this government response does apply a methodology for assessing changes in the costs and benefits of the restrictions on airports, airlines, passengers and public accounts, but this uses assumptions based on changes in the number of night flights that take place at each airport.
+S0169 We will therefore continue to measure progress against this element of the objective by the number of flights in the night quota period, but when considering any future changes to the restrictions we will give consideration to how these benefits can otherwise be assessed.
+S0170 2. Finally, when assessing progress against measuring the use of quieter aircraft by the average QC per movement, we will ensure historical comparisons can be made by ensuring previous data is adjusted to reflect the changes to the QC system we will be making for the next regime. ** (Reference: 23)
+S0171 2.24 Finally, regarding calls for night flight restrictions to also be set at Luton, the government is currently reviewing its role at the designated airports in the future and has made proposals for how operating restrictions, such as those on night flights, should be set at all airports. Responses to that consultation are currently being analysed but at this moment there are not any plans to extend the list of airports where the government sets night flight controls as this would go against the government's policy that noise is usually best managed locally. ** (Reference: 11)
+S0172 It should also be noted that night flight restrictions are also in place at Luton Airport as a condition of planning permission approved by Luton Borough Council.
+S0173 These limits are lower than those at either Gatwick or Stansted. ** (Reference: 12)
+3. Length of the regime
+S0174 Proposal
+S0175 3. We proposed a five year period for the next night flights regime which would run from October 2017 to 2022. ** (Reference: 1)
+S0176 This would provide certainty for industry and communities in the coming years.
+S0177 It would also be a sufficient length of time to allow there to be further clarity about airport expansion in the south east and the outcome of Stansted's intended planning application to increase its passenger cap, before future decisions on the night flights regime are made. ** (Reference: 13)
+S0178 3. We made clear in our consultation document however that we did not expect setting a five year regime to preclude more bespoke, airport-specific arrangements being put in place - either through arrangements tied to the planning process or other means. ** (Reference: 2)
+S0179 Summary of consultation responses
+S0180 3. Responses to this question varied but a majority disagreed with the length of the regime and called for the timeframe be reduced to allow for a transitional regime while further research was carried out to inform decisions on restrictions for subsequent years. ** (Reference: 3)
+S0181 3. Many of the industry responses were supportive of the regime length, though some highlighted the importance of regime certainty for scheduling and fleet mix planning. ** (Reference: 4)
+S0182 Some suggested the existing regime be rolled over for a further year to allow the industries to adapt to changes being brought in while some responses also asked that a review be carried out two years prior to the expiry of the next regime to ensure there were no negative impacts on economic growth.
+S0183 3. Respondents from individuals and community groups were less supportive, making varying suggestions for the length of the regime, including a two year period. ** (Reference: 5)
+S0184 The most common reason stated for this was to allow for further research to be carried out and a more radical range of options to be considered.
+S0185 3. Regarding the possibility of airport-specific controls being agreed during the course of the next regime, some elements of industry were supportive of this proposal but others considered it was appropriate for central government to continue setting such restrictions or to at least consider whether common principles should apply. ** (Reference: 6)
+S0186 Other respondents also expressed concerns about such arrangements, and offered various suggestions such as allowing all local authorities in the area of the airport, and not just the planning authority, to decide on future restrictions.
+S0187 Others claimed there was a need for further guidance on common standards or for an independent body to monitor.
+S0188 Government response
+S0189 3. Having considered responses to this question, the government continues to believe the next regime should be for five years. ** (Reference: 7)
+S0190 This is in line with the length that previous
+S0191 regimes have generally been set for and will provide a stable regulatory regime up until 2022, during which time other decisions which could affect the capacity at these airports can be made.
+S0192 3. Regarding comments that called for early changes to the limits to be considered for two years prior to the end of the regime, under current rules governing the introduction of operating restrictions, work to update the restrictions would have to begin more than two years before any changes took effect. ** (Reference: 8, 14)
+S0193 Performing a full review of the restrictions to introduce changes several years before October 2022 would therefore not be realistic under existing requirements.
+S0194 3. ** (Reference: 9)
+S0195 The government continues to believe that noise controls are generally best agreed locally and that, if there is an opportunity for bespoke, airport-specific arrangements to be put in place at any of the designated airports during the five year period, this would be appropriate.
+S0196 Any such arrangements would need to take account of the Balanced Approach and be subject to appropriate consultation.
+S0197 Final decisions on how such airport-specific arrangements may be taken forward will form part of the government's response on UK Airspace Policy which will be published in due course.
+4. The Quota Count System
+S0198 Proposal
+S0199 4. Over the course of the next regime, several new types of next generation aircraft will come into service that would be exempt under current rules because they are quieter than the current lowest quota count (QC) category that covers aircraft which have been classified for noise purposes between 84 and 86. EPNdB. This is in addition to the large increase in recent years at Stansted of movements by smaller aircraft, such as business jets, which are also currently exempt. ** (Reference: 1, 9)
+S0200 4. As our consultation documents explained, while these are quieter than other aircraft operating at these airports, they still produce noise levels that the World Health Organisation found could be associated with sleep disturbance. To ensure there would be proportionate regulation of these aircraft, and that communities would be protected from the effects that would occur if a potentially unlimited number of these aircraft were allowed to operate during the night, we proposed that: ** (Reference: 2, 15)
+S0201  A new QC/0.125 category should be introduced for aircraft between 81 and 83. ** (Reference: 9)
+S0202 EPNdB.
+S0203  To ensure greater transparency and certainty for communities, while maintaining
+S0204 incentives for producing and purchasing quieter aircraft, all operations by aircraft quieter than this should count towards an airport's movement limit, but remain exempt from the noise quota limits - i.e. QC/0.
+S0205 Summary of consultation responses
+S0206 4. We asked the following questions on our proposals for how aircraft quieter than 84 EPNdB should be treated under the restrictions: ** (Reference: 3)
+S0207 Q3a.
+S0208 How strongly do you agree or disagree with our proposal to introduce a new QC/0.125 category for aircraft between 81 and 83. EPNdB? ** (Reference: 9)
+S0209 Q3b.
+S0210 How strongly do you agree or disagree with our proposal for all aircraft quieter than this to remain QC/0 but count towards the airports movement limit?
+S0211 Q3c.
+S0212 Do you have any additional comments on our proposals for the Quota Count System?
+S0213 4. A majority of respondents agreed with our proposals to introduce a new QC/0.125 category and for all aircraft to be included within the airports’ movement limits. ** (Reference: 4)
+S0214 While there were calls from individuals, community groups and public bodies for there to be no exemptions from the noise quota limits for aircraft quieter than the proposed new category, they did agree that including all aircraft within the movement limits would provide greater transparency on the true extent of night operations and help build trust around the restrictions.
+S0215 4. Industry were generally content for all aircraft to be counted within an airport’s movement limit, but were not supportive of the creation of a new QC/0.125 category. ** (Reference: 5)
+S0216 These responses argued that there was no scientific basis to introduce a new QC category and that doing so penalised those who had already decided to invest in quieter aircraft based on the existing system.
+S0217 4. Some industry responses also argued that ‘moving the goalposts’ in this manner had the potential to prevent investment in quieter aircraft going forward. ** (Reference: 6)
+S0218 Many industry respondents asked that these changes be delayed to allow for more research to be undertaken on whether a new QC category was justified.
+S0219 It was argued that in the interim period, currently exempt aircraft should count towards movement limits pending the outcome of this further review.
+S0220 4. Although not received until well after the consultation closed, there were concerns from the Business Aviation community that the proposed changes which would result in certain types of aircraft no longer being exempt from the movement limits would have significant impacts on the ability of business aircraft to operate in the night. ** (Reference: 7)
+S0221 Their arguments for this were that the majority of business aircraft are exempt under existing rules and therefore do not require slots, which are harder to secure for these type of non-scheduled services.
+S0222 They therefore called for the existing number of movements used by business aviation operators to be 'grandfathered' for their continued use.
+S0223 4. While non-industry responses were generally supportive of our proposed changes to the QC system, some suggested that further changes should be made to improve the noise environment. ** (Reference: 8)
+S0224 Suggested changes included banning QC/4 aircraft from operating at all during the night, and enforcing a gradual reduction in the QC limit over the length of the regime.
+S0225 Some respondents were also concerned about the accuracy of the QC ratings assigned to aircraft and asked that a review take place to ensure they correctly reflect the actual noise produced - though this matter was addressed in the consultation document.
+S0226 4. Following publication of our consultation, it was also brought to our attention that our proposed changes could have an impact on the small number of instrument landing system (ILS) calibration flights at these airports. ** (Reference: 9)
+S0227 Some of these ILS calibration flights take place in the night period and are currently exempt, as do other types of movements by light prop aircraft for which no formal noise classification system exists. ** (Reference: 16)
+S0228 Government response
+S0229 4. The government disagrees that there is insufficient evidence to justify a new QC category and we also continue to believe counting all aircraft towards an airport's movement limit is the correct approach. ** (Reference: 10)
+S0230 As explained within our consultation document and impact assessment, these aircraft can still expose affected communities to noise levels that the WHO identify as being capable of causing sleep disturbance.
+S0231 It is therefore right that they are treated in a proportionate way to other aircraft.
+S0232 4. Extending the QC scale downwards by a further 3dB band to introduce a new QC/0.125 ('QC eighth') category, consistent with the fact that a 3dB decrease represents a halving of noise energy, would help prevent a proliferation of exempt aircraft and also provide incentives for the use of even quieter aircraft at night (below ** (Reference: 11)
+S0233 81 EPNdB), which will remain exempt from noise quota limits.
+S0234 Ensuring that these quieter movements still count towards an airports movement limits however will increase transparency for local communities about the maximum number of flights and amount of noise they can expect to be exposed to.
+S0235 4. With regards to the impact on business aviation and other non-scheduled flights at Stansted, the government has no powers to determine which operators an airport's available capacity is assigned to. ** (Reference: 12)
+S0236 Our changes would not however prevent these operations from operating during the night quota period and there are already other non-scheduled aircraft which are not currently exempt that count towards both an airport's movement and noise quota limits.
+S0237 In this regard the government would expect business aviation operators and representatives of other non-scheduled services that operate at Stansted to continue to work with the designated slot co- ordinator and the airport operator to determine their operations during the night quota period.
+S0238 4. While the government will therefore continue with these changes, we recognise that airlines have planned their operations for the winter 2017/18 schedule season and that our announcement on night flights has come after the point when industry would usually have expected it. ** (Reference: 13)
+S0239 In order to therefore give airlines sufficient notice to plan for these changes, we will delay some of these until the Winter 2018/19 season.
+S0240 4. Therefore, from October 2017, all movements that are currently exempt will count towards the airports’ movement limits. ** (Reference: 14)
+S0241 These will all however remain QC/0 and be exempt from the noise quota limits.
+S0242 4. From October 2018, the new QC/0.125 category will be introduced which will apply to the majority of exempt aircraft currently in operation at these airports. ** (Reference: 15)
+S0243 The delay in introducing the new QC category will provide sufficient time for industry to adapt to the changes we are making, while counting exempt flights towards movement limits will ensure there is no increase in the number of exempt aircraft operating at the airport in the interim period.
+S0244 Exceptions for light propeller aircraft and ILS calibration flights
+S0245 4. ILS calibration flights are carried out to ensure that the ILS is functioning properly and normally have to take place during quiet periods such as the night when there are no other aircraft taking off or landing. ** (Reference: 16)
+S0246 Currently, any landings or take offs by ILS calibration aircraft that are classified QC/0 are exempt from the restrictions.
+S0247 Following consideration of this matter, we have decided that all flights that are required for essential airport safety checks should continue to be exempt from the restrictions and should not count towards the movement limits.
+S0248 4. For light prop movements in general, given the small number of these aircraft in operation (see Table 3 below) and the difficulty in classifying them for noise purposes, the government does not believe it is proportionate to devise a separate classification system, but we do want to ensure these aircraft are treated consistently under the restrictions. ** (Reference: 17)
+S0249 We have therefore decided that while these aircraft should
+S0250 count towards the movement limits under the restrictions, they should remain exempt from the QC limits and be classified as QC/0.
+S0251 Table 3 – Number of light prop movements during the night quota period in winter 2015/16 and summer 2016
+LHR | LGW | STN
+2 | 18 | 46
+5. Movement limits
+S0252 Proposal
+S0253 5. In our consultation we proposed to maintain the status quo in terms of movements. ** (Reference: 1)
+S0254 This meant keeping the number of movements allowed the same at Heathrow (2,550 in the winter and 3,250 in the summer) and Gatwick (3,250 in the winter and 11,200 in the summer), while making an adjustment to Stansted's movement limits, to accommodate the current number of exempt flights, in response to the changes to the QC system which we proposed.
+S0255 This adjustment would have increased Stansted's movement limits from 5,000 to 5,600 in the winter and from 7,000 to 8,100 in the summer.
+S0256 Summary of consultation responses
+S0257 5. We asked the following questions in our consultation about movement limits at the three airports: ** (Reference: 2)
+S0258 Q4a.
+S0259 How strongly do you agree or disagree with the proposal for movement limits to remain unchanged at Heathrow?
+S0260 Q4b.
+S0261 Do you have any additional comments on our proposal for Heathrow’s movement limit?
+S0262 Q5a.
+S0263 How strongly do you agree or disagree with the proposal for movement limits to remain unchanged at Gatwick?
+S0264 Q5b.
+S0265 Do you have any additional comments on our proposal for Gatwick’s movement limit?
+S0266 Q6a.
+S0267 How strongly do you agree or disagree with the proposal to raise Stansted’s movement limits to reflect the current number of exempt aircraft in operation?
+S0268 Q6b.
+S0269 Do you have any additional comments on our proposal for Stansted’s movement limit?
+S0270 5. The consultation responses to these questions are summarised by airport below. ** (Reference: 3)
+S0271 Heathrow
+S0272 5. A majority of respondents disagreed with our proposal that movement limits at Heathrow remain unchanged and called for either an outright ban or a steady reduction in movement limits. ** (Reference: 4)
+S0273 Several responses also mentioned the six and a half hour ban on scheduled night flights that the government expects as a condition on a third runway at Heathrow, and either questioned why this could not be put in place now, or wrongly assumed it was already in place.
+S0274 5. Responses from the public, communities, and public bodies were largely of the same opinion that the proposal did not go far enough to protect communities. ** (Reference: 5)
+S0275 Many of these pointed towards the increasing evidence of the health impacts that can be caused by night flights and called for a wider range of options to be looked at.
+S0276 There
+S0277 were also responses that mentioned the number of unscheduled flights that took place which are awarded dispensations and do not therefore count towards the movement limits.
+S0278 There were also responses from residents around Gatwick which stated that Heathrow night flights interacted with Gatwick traffic which meant that night flights to the latter airport were at a lower altitude than they might otherwise be.
+S0279 5. Most industry responses generally accepted the case for movement limits remaining the same, though some did note that the limits had not changed in several decades despite improvements in the noise performance of aircraft and, as a result, airlines had not shared in any of these benefits from quieter aircraft. ** (Reference: 6)
+S0280 Industry responses cited the importance of night flights to the economy through connectivity and allowing next day delivery of high value goods.
+S0281 Some responses called for an increase in night movements, or suggested there should be flexibility within the regime to adapt to changing economic situations, such as increasing movement limits to adapt to any economic downturn that may arise after the UK leaves the European Union.
+S0282 5. Other responses noted that by not implementing an increase in movement limits to account for exempt aircraft as was proposed at Stansted, this would be a further constraint at the airport. ** (Reference: 7)
+S0283 Finally, some responses suggested that maintaining the movement limit could negatively impact on connectivity and that there was a case for considering options such as schedule smoothing, which would allow more night flights at the end of the night period but would reduce the need for both runways to be used immediately after 0600 - therefore offering greater respite for communities under what would be the flight path for the departing runway.
+S0284 Gatwick
+S0285 5. A majority of respondents were against the movement limit remaining unchanged at Gatwick. ** (Reference: 8)
+S0286 There were a large amount of responses stating that no night flights should be allowed at all and there was a response re-submitted approximately 800 times by individuals which called for a gradual reduction in night flights so that they were phased out completely by 2030.
+S0287 Responses also noted that Gatwick was still significantly under-utilising its winter movement limit and that as a minimum this should be reduced to reflect current usage, and that the use of carryover from the winter season should be restricted.
+S0288 5. Responses pointed out that Gatwick has a large number of night flights, especially in the summer, compared to other airports and argued that there was little economic justification for this number as they are mostly short haul tourist flights and the airport is not used for freight purposes. ** (Reference: 9)
+S0289 There were also a large number of comments raising the fact that because Gatwick was surrounded by more rural communities with lower background noise levels on average than Heathrow, the impacts of aircraft were more acutely felt.
+S0290 5. Industry responses highlighted the importance of night flights to the operation of the airlines based at Gatwick. ** (Reference: 10)
+S0291 While many agreed with movements remaining the same, there were concerns raised that there was no uplift to reflect the fact that certain aircraft would no longer be exempt.
+S0292 It was also noted that maintaining the existing night movement limits would restrict the ability of Gatwick to attract new long haul routes to the airport in coming years and that an annual limit may be more efficient as well as more transparent for communities.
+S0293 Along with this, several of the themes that were raised in response to the proposals on Heathrow’s movement limit were also included in response to these questions, including the need to allow adjustments mid-regime if there was an economic slowdown after exiting the European Union.
+S0294 Stansted
+S0295 5. A majority of respondents disagreed with this proposal, especially individuals from local communities. ** (Reference: 11)
+S0296 5. Individuals and groups representing local authorities disagreed that Stansted’s limit should be adjusted to accommodate all currently exempt aircraft and that communities would not share in any benefits as a result of such a change. ** (Reference: 12)
+S0297 As at Gatwick, many responses focused on the rural setting of the airport which it was argued made the impacts of aircraft noise more severe.
+S0298 There were calls for night flights to be phased out completely by 2030 and for movement limits to reflect the current situation - especially in winter, and for the rules on seasonal carryover to be tightened or restricted altogether.
+S0299 Many responses also argued for the night period to cover an eight hour period from 2300 to 0700.
+S0300 5. Industry responses were more mixed. ** (Reference: 13)
+S0301 Most reiterated their opposition to the changes proposed to the QC system, but were clear that if these did go ahead that it was necessary for there to be a corresponding adjustment to the movement limit.
+S0302 One response cited this as a good example of a ‘balanced approach’.
+S0303 Other responses were less supportive, arguing continuing to constrain Stansted’s movements would negatively impact on passenger and freight services and would also limit the ability of the airport to grow in the day as it would not be viable for low-cost carriers to base their aircraft there.
+S0304 These responses stressed the importance of night flights to the business models of low cost carriers and 24 hour freight hub operations.
+S0305 It was again raised that the combined effect of changes at Stansted would penalise those who have already invested in quieter aircraft.
+S0306 The fact that Stansted is limited to fewer night flights in the summer and on an annual basis compared to Gatwick, despite fewer people being recorded within the airport's noise contours, was also raised in some responses.
+S0307 Government response
+S0308 5. After considering all of these responses, we will as proposed in our consultation be maintaining the status quo in terms of movements at the three airports. ** (Reference: 14)
+S0309 While the government expects a six and a half hour ban on scheduled night flights as a condition on a third runway at Heathrow, we agree with the Airports Commission view that there is no case for further restrictions while the airport remains capacity constrained, as this would damage the UK’s connectivity and constrain other benefits to the UK of night flights.
+S0310 We will not however prevent a ban being introduced before a new runway is operational, if an agreement is reached to do so.
+S0311 5. We also do not consider it appropriate to make any changes to Gatwick's movement limits at present. ** (Reference: 15)
+S0312 We acknowledge that Gatwick has a large amount of night flights compared to other airports and that the number of people affected by night noise slightly increased since the restrictions were last reviewed, but reducing the number of night flights would add to the capacity constraints that are already facing the south east and would reduce choice for passengers by making low-cost air travel less viable.
+S0313 We will therefore maintain the existing movement limit, including the current winter limit.
+S0314 This, along with our changes to noise quota limits will ensure we reap the benefits of a strong aviation sector over the coming years while continuing to limit or reduce the number of people significantly affected by aircraft noise at night, through ensuring that aircraft cannot get any louder and that a proliferation of movements by exempt aircraft is prevented.
+S0315 5. It is also appropriate to adjust Stansted's movement limits in order to accommodate the number of movements of aircraft that have until this point been exempt from the ** (Reference: 16)
+S0316 restrictions.
+S0317 Airlines have planned their operations at Stansted under the rules that have been in place for many years and failing to make this adjustment would mean we would not achieve the aspect of the environmental objective concerned with maintaining the existing benefits of night flights.
+S0318 While this will not reduce Stansted's movements limits to below the airport's current level of movements, the combination of the changes we are proposing will mean communities do experience a benefit through being exposed to fewer flights than would otherwise be expected if no action was taken to prevent a proliferation of exempt aircraft.
+S0319 This is therefore the only way in which the environmental objective we have decided on can be achieved at Stansted.
+S0320 5. We will recognise any airport-specific agreement on night flights Stansted can reach with its communities through the local planning authority during the course of the next regime, providing there is suitable consultation and the Balanced Approach is followed. ** (Reference: 17)
+S0321 5. Regarding the prospect of potentially reviewing these limits early to make changes before the end of the next regime, as explained earlier, the requirements that would have to be met when considering changes to the restrictions under current rules would mean this would not be a realistic option. ** (Reference: 18)
+S0322 We will however not prevent more airport-specific arrangements being put in place at any of the airports if there are appropriate opportunities to do so.
+S0323 5. On the subject of carry-over and annual limits, which were raised by large numbers of respondents from both industry and communities at Gatwick and Stansted, it is important that airports have flexibility to manage their limits to respond to unforeseen circumstances along with variations in the length of summer and winter seasons in different years and changes in demand associated with the season in which Easter falls. ** (Reference: 19)
+S0324 While the option of an annual limit has been considered for previous regimes, the government believes that the current carry-over arrangements offer suitable flexibility whilst providing communities more certainty on the number of flights that can take place within a given period than under an annual limit.
+S0325 5. Finally, with regards to the use of dispensations for emergencies, disruptions or delays under certain scenarios, the government realises that these can be disturbing to individuals who live around airports, especially when they occur in a period when no flights are expected. ** (Reference: 20)
+S0326 While the number of dispensations has noticeably risen at Gatwick in recent years and has remained at a similar level at Heathrow, the government has not received any evidence that these are being used inappropriately by airports and considers that this number reflects the limited capacity at these airports which exacerbates the impact of disruption.
+S0327 We will continue to monitor the use of dispensations and we also intend to carry out further work to consider whether the current process for issuing dispensations is appropriate, including the criteria under which they are allowed.
+S0328 If we were to determine that the current guidance on dispensations is not being complied with, we will consider how we can ensure we can enforce their correct use.
+6. Noise quota limits
+S0329 Proposal
+S0330 6. In our consultation, we proposed to set noise quotas at each airport at a level that would incentivise the use of quieter aircraft. ** (Reference: 1)
+S0331 As a starting point, we proposed reductions at Heathrow and Gatwick that would bring noise quotas down to a level based on the average QC rating of an aircraft currently operating at each airport.
+S0332 By setting noise quotas based on the average QC per movement multiplied by the seasonal movement limits, we could ensure that the average noise from an aircraft could not increase beyond the current level if an airport was to fully utilise its movement limits.
+S0333 These noise quotas we proposed as a starting point are shown in Table 4 below.
+S0334 Table 4 - Current noise quota limits at Heathrow and Gatwick and those proposed in our consultation document
+S0335 6. At Stansted we proposed that the starting point should be the current noise quota limits. ** (Reference: 2)
+S0336 The reason for this was that unlike at Heathrow and Gatwick, where there was spare capacity in the noise quota limits, Stansted used all of its noise quota in the previous summer season.
+S0337 With the changes to the QC system and the adjustment we proposed to the airport's movement limit, it would have to accommodate all of the additional movements that would count towards the limit without any increase in noise quota - which would incentivise the use of quieter aircraft.
+S0338 6. In our consultation, we also stated that we would consider further reductions over the course of the regime to further incentivise the use of quieter aircraft. ** (Reference: 3)
+S0339 We gave hypothetical examples of a 20% reduction over the course of the regime at each airport, though made clear that the final noise quotas at each airport would be set at a level that did not place too large a constraint on the airports operations and that enabled the existing benefits of night flights to be maintained.
+ | Season | Current QC
+Limit | Proposed limit
+(% reduction)
+Heathrow | Winter | 4080 | 2340
+(-43%)
+ | Summer | 5100 | 2540
+(-50%)
+Gatwick | Winter | 2000 | 1655
+(-17%)
+ | Summer | 6200 | 4870
+(-21%)
+S0340 Summary of consultation responses
+S0341 6. We asked the following questions in our consultation about noise quota limits at the three airports: ** (Reference: 4)
+S0342 Q7a.
+S0343 How strongly do you agree or disagree with our proposals to encourage the use of quieter aircraft at Heathrow?
+S0344 Q7b.
+S0345 Do you have any additional comments on how you feel noise quotas can best be set in order to encourage the use of quieter aircraft at Heathrow?
+S0346 Q8a.
+S0347 How strongly do you agree or disagree with our proposals to encourage the use of quieter aircraft at Gatwick?
+S0348 Q8b.
+S0349 Do you have any additional comments on how you feel noise quotas can best be set in order to encourage the use of quieter aircraft at Gatwick?
+S0350 Q9a.
+S0351 How strongly do you agree or disagree with our proposals to encourage the use of quieter aircraft at Stansted?
+S0352 Q9b.
+S0353 Do you have any additional comments on how you feel noise quotas can best be set in order to encourage the use of quieter aircraft at Stansted?
+S0354 6. The consultation responses to these questions are summarised by airport below. ** (Reference: 5)
+S0355 Heathrow
+S0356 6. A majority of respondents agreed with our proposals for noise quota limits to encourage the use of quieter aircraft at Heathrow. ** (Reference: 6)
+S0357 There was a large difference however in the views of industry and communities.
+S0358 6. Communities supported the reductions in noise quota, but felt that reducing to current usage would not encourage any further reductions and that reductions should go further. ** (Reference: 7)
+S0359 The hypothetical example of a 20% reduction was cited as the minimum reduction that should be considered.
+S0360 Many responses also felt that the restrictions should go beyond ‘encouraging’ quieter aircraft and mandate this.
+S0361 Some responses suggested the reductions be used in conjunction with other noise mitigating measures such as restrictions on QC/2 aircraft as well as a complete operational ban on QC/4 aircraft.
+S0362 6. Other matters raised by responses included extending the period of the night that noise quotas should apply to. ** (Reference: 8)
+S0363 Some responses stated that reclassifying the QC of aircraft based on their measured noise performance should take place.
+S0364 There were also some responses which stated that all aircraft were disturbing and that the number of movements was the more important issue.
+S0365 6. Industry acknowledged that noise quotas should be reduced to some extent at Heathrow, but generally felt even the minimum reductions that were proposed were too restrictive. ** (Reference: 9)
+S0366 Particular concerns were raised about the impact that removing all headroom could have on the ability of airlines to make operational changes, including adapting to changing economic circumstances and increased passenger demand by utilising larger planes.
+S0367 Some responses argued that as none of the benefits of quieter aircraft were being passed on to industry, it may disincentivise airlines from investing in quieter aircraft in the future.
+S0368 6. Some industry responses raised concerns about the method in which reductions had been calculated, and that basing the average QC value on the aircraft that operated in only the most recent year could mean new noise quotas were based on an unrepresentative year. ** (Reference: 10)
+S0369 Generally speaking industry suggested smaller reductions as being more suitable than the proposed reductions.
+S0370 6. Industry responses universally stated that any further reductions beyond those that reflected current noise quota usage would not be achievable. ** (Reference: 11)
+S0371 These responses highlighted that airlines' fleet plans are developed over substantially longer time periods than the current regime and that it wouldn’t be possible to adapt to the example of a 20% reduction within the next five years.
+S0372 It was also pointed out that the substantial reductions in noise quota usage that had taken place at Heathrow reflected the fact that airlines were already using amongst the quietest aircraft available for the routes in question.
+S0373 It was therefore argued that airlines would be penalised for having adopted the latest technology early to reduce the impact of night noise.
+S0374 6. Responses from all stakeholders also highlighted other measures that could be taken to reduce noise in addition to, or other than, operating restrictions - such as increased landing fees for the noisiest aircraft and improved operational procedures. ** (Reference: 12)
+S0375 Gatwick
+S0376 6. A majority of respondents were supportive of the proposal to reduce Gatwick’s noise quota limits but as with Heathrow, many of these felt the reductions being proposed did not go far enough. ** (Reference: 13)
+S0377 Once again there was a strong split between the views of communities and industry on this matter.
+S0378 6. Community responses stated that the hypothetical example of a 20% reduction should be the minimum that should be considered. ** (Reference: 14)
+S0379 Several responses noted that the methodology we had based the reductions on would leave the winter noise limits substantially higher than the actual usage in recent years due to the large surplus in winter movements, and there were again calls to reduce the provision of carryover from the winter to summer season.
+S0380 There were also calls for restrictions to be placed on the noisier aircraft currently in operation, for instance by banning QC/4 aircraft.
+S0381 6. As with responses for Heathrow, the industry generally felt that noise quota reductions proposed were too restrictive and that that they would have significant impacts on the airport's operations. ** (Reference: 15)
+S0382 Contrary to the points raised by communities about the large amount of surplus that would be maintained in the winter noise quota limit, it was noted even the minimum reduction proposed for the summer limit would see the noise quotas set below what the airport had used in the previous summer season.
+S0383 It was argued that even reducing noise quotas to a value based on current usage could restrict the ability of the airport to attract more long haul traffic due to the fact that the aircraft required to operate these routes are larger and louder than those generally already in operation at Gatwick.
+S0384 6. As with at Heathrow, comments were made on the methodology used to calculate the noise quotas, noting that this was based on the aircraft that actually operated during the night rather than those scheduled to do so. ** (Reference: 16)
+S0385 6. Regarding the further reductions in noise quotas such as the hypothetical example of a further 20% reduction, these were seen as unachievable by the industry. ** (Reference: 17)
+S0386 It was noted that the further 20% reduction was predicted to have costs associated with it in our impact assessment and that this would be contrary to the environmental objective we had proposed.
+S0387 Furthermore, it was highlighted that Gatwick already has the lowest average QC per movement of the three airports in question, and that there may therefore be less scope for further reductions in the coming years.
+S0388 Questions were also raised about whether these reductions penalised those airlines who had already introduced quieter aircraft, and if these reductions were put in place, whether airlines who had made these investments should be given priority if the airport was unable to accommodate the same level of traffic.
+S0389 Stansted
+S0390 6. As with responses for the other two airports, there was generally support for our proposals for noise quotas at Stansted. ** (Reference: 18)
+S0391 6. While some responses from communities agreed with our proposal that the current noise quotas should act as the starting point for consideration of noise limits for the next regime, others queried why no reductions were being proposed as at Heathrow and Gatwick. ** (Reference: 19)
+S0392 There was again support for the hypothetical reduction of 20% and responses argued that the restrictions should go beyond ‘encouraging’ quieter aircraft and should require this, although other responses stated that the issue of noise quota limits was secondary to the number of movements that could take place.
+S0393 6. Some respondents highlighted cargo planes as being a particular problem, as they were generally older and noisier than passenger jets. ** (Reference: 20)
+S0394 Some felt there should be further restrictions on these or on QC/4 and QC/2 aircraft in general.
+S0395 The impact of reverse thrust on communities near airports was also highlighted and there were calls for this to be prohibited at night, as well as for operational procedures that could improve the noise climate, such as continuous descent approaches which are not currently possible on easterly approaches due to interactions with other air traffic.
+S0396 6. Industry respondents tended to call for a similar approach to be taken to noise quota limits as was proposed for movement limits, where an adjustment was made to reflect the changes to the QC system. ** (Reference: 21)
+S0397 Responses noted that Stansted used all of its noise quota in the most recent summer season and if currently exempt aircraft were to now fall within a QC/0.125 category, this would increase pressure on the limit.
+S0398 As with at the other two airports, it was argued that the hypothetical reductions proposed were not feasible in the time frame of the regime, especially with freighter aircraft having longer lifespans, and that large reductions could have significant impacts on the operations of the low cost and freight operations based there.
+S0399 Government response
+S0400 6. Despite the concerns raised by industry, the government has received no evidence to suggest that reducing limits at Heathrow and Gatwick to reflect current noise quota usage would not be achievable. ** (Reference: 22)
+S0401 We therefore continue to think it is appropriate to make these changes to ensure that the benefits that have resulted from quieter aircraft over recent years are locked in, and give confidence to communities that the average noise from an aircraft will not increase compared to current levels.
+S0402 6. In response to feedback received however, we have decided to adopt a slightly different methodology to calculating the current average QC per movement. ** (Reference: 23)
+S0403 In our consultation document, the average noise quota of an aircraft was based on the noise of all aircraft that operated during the night quota period for the most recent winter 2015/16 and summer 2016 seasons.
+S0404 We have now decided to base this on the average noise quota of all aircraft that were scheduled during the night quota period over the three most recent winter and summer seasons.
+S0405 This was decided because:
+S0406  Using the scheduled data is preferable as the purpose of the restrictions are to
+S0407 incentivise airlines to use the quietest aircraft available, so our decision should be based on the loudness of the aircraft they actually plan to operate.
+S0408  Using three years’ worth of data means that we can be certain that any proposed
+S0409 limits are not based on an unrepresentative year.
+S0410 6.24 Using this approach results in noise quota limits that are slightly higher than those we proposed in our consultation (i.e. there are slightly smaller reductions).
+S0411 A comparison
+S0412 of the limits and percentage reductions we proposed and the final reductions is given in Table 5 below.
+S0413 Table 5 - Proposed and final noise quota limits for Heathrow and Gatwick
+S0414 Season
+S0415 Current QC Limit
+S0416 Consultation proposal (% reduction)
+S0417 Final (% reduction)
+S0418 2415 (-41%)
+S0419 2340 Winter 4080 (-43%) Heathrow
+S0420 2540 Summer 5100 (-50%)
+S0421 2735 (-46%)
+S0422 1785 (-11%)
+S0423 1655 Winter 2000 (-17%) Gatwick
+S0424 4870 Summer 6200 (-21%)
+S0425 4870 5150 Summer 6200 (-21%)
+S0426 (-17%)
+S0427 6.25 While we have decided that the above limits should apply, we have decided that some of these changes should be delayed until the second year of the regime (beginning in October 2018).
+S0428 In order to maintain the existing benefits of night flights we want to ensure that airlines have sufficient time to adapt how their fleets are utilised and plan their schedules accordingly.
+S0429 As decisions on operating restrictions would usually be expected over a year before the start of the relevant season, we have therefore decided that these reductions in noise limits will take effect from the winter 2018/19 season.
+S0430 6.26 And at Stansted we continue to think the current noise quota represents a suitable level given that more aircraft movements will have to be accommodated within it.
+S0431 This will incentivise airlines to use quieter aircraft so that they can make full use of Stansted's adjusted movement limits.
+S0432 6.27 We did not receive any evidence from our consultation that enabled us to set reductions beyond these limits with any certainty that could be achieved at each airport without imposing significant costs.
+S0433 The final limits above however will incentivise airlines to use quieter aircraft as they will want to ensure they have sufficient headroom to adapt to any unforeseen circumstances or changes in their operations, and will ensure that aircraft do not get any louder over the course of the next regime.
+7. Additional issues raised
+Additional comments
+S0434 7. Respondents were also able to provide additional comments related to the proposals within our consultation. ** (Reference: 1)
+S0435 Some of the issues raised in response to this question (Question 10 in the consultation document) that have not already been discussed included:
+S0436  How factors were considered as part of our impact assessment.
+S0437 Including
+S0438 that effects such the impact of night flights on cardiovascular health or on next day efficiency were not appropriately considered.
+S0439 How these factors were taken into account can be found in Sections 6.1.2 and 6.1.3 of the impact assessment published alongside this Government response.
+S0440  That no equalities assessment had been carried out.
+S0441 Text outlining our
+S0442 approach to the equalities assessment is also included within our impact assessment (see Section 11.3).
+S0443  The length of the consultation being shorter than was the case for previous
+S0444 regimes.
+S0445 The length of the consultation was a consequence of the need to ensure a timely decision on the next night flights regime could be made before the restrictions expire in October.
+S0446 The Department for Transport also held focus groups with key stakeholders in 2016, including community representatives, as an earlier part of our consultation process and these helped to inform the policy options put forward in our consultation document.
+S0447 
+S0448 The impact of night flights on environmental factors other than noise.
+S0449 Our
+S0450 impact assessment sets out why we consider it not to be proportionate to assess the impacts on air quality or greenhouse gas emissions due to the very small contribution changes in night flights would have on these.
+S0451  That new aircraft were now comparatively more expensive due to the fall in
+S0452 the value of Sterling.
+S0453 There was however no specific evidence provided to indicate what the impact on this would be on fleet mix over the course of the next regime.
+S0454 
+S0455 The impact of night flights and aviation generally on people suffering from
+S0456 electro-sensitivity.
+S0457 The government is not aware of any evidence to suggest that the electro-magnetic properties associated with aircraft or airport activity is associated with adverse impacts on an individual's health.
+S0458 However, the Department has acknowledged in the impact assessment that night flights may have a disproportionate impact on those sensitive to noise, however, there is insufficient evidence to monetise any possible additional impacts on these groups.
+Evidence received through consultation
+S0459 7. Alongside the specific questions on our proposals we asked in our consultation, we also asked several questions in our impact assessment to ensure our approach for calculating the impacts of changes to the night flight restrictions was robust and made use of the latest evidence. ** (Reference: 2)
+S0460 Several of the responses to the questions in our impact assessment and consultation document raised concerns with some of the analysis in the impact assessment, in particular: the assumptions feeding into the fleet mix modelling; noise metrics and impacts; and wider economic impacts.
+S0461 Fleet Mix Modelling
+S0462 7. Some responses from industry highlighted that our assumption on freighter retirement age included in the consultation stage IA was too low since freighters have a much longer retirement age than commercial aircraft. ** (Reference: 3)
+S0463 This is to make their purchase economically viable given their lower utilisation.
+S0464 In response to this, we clarified these assumptions with the industry and have extended the default retirement age from 30 to 35 years for freighters within our fleet mix modelling.
+S0465 7. Industry also wanted further clarity on the assumptions feeding into the fleet mix modelling, in particular on how aircraft are replaced when they retire and which types of aircraft are introduced into the fleet to cater for additional demand. ** (Reference: 4)
+S0466 We further clarified the fleet mix assumptions in the IA to assure stakeholders, that the fleet mix relies on evidence wherever it is available and not solely the fleet mix from the most recent season.
+S0467 7. We received evidence on the expected rate at which new generation aircraft such as the A320neo and the Boeing 737Max will be incorporated into certain airlines’ fleets. ** (Reference: 5)
+S0468 We did not receive enough information on specific airlines’ fleets to completely update the data sets within our model, however these figures were used to sense- check the forecast growth trajectory of these types of aircraft in the fleet mix modelling and adjust them where necessary.
+S0469 Noise
+S0470 7. As already discussed, there were many responses voicing concerns over the validity of using the 48 dB LAeq 6.5hr contour to assess noise impacts on communities. ** (Reference: 6)
+S0471 We have already explained why the 48 dB LAeq
+S0472 6.5hr contour was used for comparing the number of people affected under different options and that monetisation of health impacts considered noise levels down to 45 LAeq 6.5hr.
+S0473 We considered all suggestions of alternative metrics submitted as part of the consultation, but have concluded that there are no robust alternative metrics for estimating the monetised impacts of night noise.
+S0474 7. Many responses, particularly from individuals and community groups, voiced concerns that the health impacts identified within the impact assessment were underestimated. ** (Reference: 7)
+S0475 Most responses however did not propose any alternative evidence beyond that in the existing qualitative discussion in the IA.
+S0476 There was no further evidence submitted that would have allowed additional impacts to be quantified due to issues with relevance to the night quota period or relevance to these airports in particular.
+S0477 As a result of these responses, we have expanded the qualitative discussion on these impacts and we have provided illustrative estimates of the change in the value of the other impacts of night noise on health where possible to illustrate the potential scale of these impacts.
+S0478 However, the Department’s Transport Analysis Guidance does not contain an approved methodology for estimating the
+S0479 change in the value of other impacts of night noise on health so these figures are given to illustrate the potential scale of impacts only.
+S0480 7. The Department has a robust appraisal system for assessing new evidence related to noise exposure and will consider whether the approach for assessing the impacts of noise on health is still appropriate once the WHO’s updated guidelines on environmental noise are published. ** (Reference: 8)
+S0481 Wider Economic Impacts
+S0482 7. Further qualitative evidence was submitted on the wider economic impacts of changes to the night flight restrictions. ** (Reference: 9)
+S0483 We had already recognised the importance of these impacts in the consultation-stage IA, but in response to feedback received through consultation we have expanded on the qualitative discussion included in our impact assessment.
+S0484 Responses from both industry and communities suggested that we also monetise wider economic impacts, but evidence submitted was either not specific enough to these airports or the night quota period, or the methodology was not robust enough to be used in the IA.
+S0485 7. Suggestions as to how airlines would respond to a tightening of restrictions were made in consultation responses, primarily by airlines directly or groups representing them, but there was no consensus on an appropriate assumption to apply. ** (Reference: 10)
+S0486 Some airlines suggested they would reduce the loudest aircraft first when they reached their limits.
+S0487 Others suggested there were some routes that they could not move out of the night period due to the nature of demand or constraints in other countries which would mean rescheduling was not viable, or that there were other routes where it would not be possible to introduce quieter aircraft.
+S0488 Due to lack of a consensus from respondents, our assumption remains that all aircraft are reduced proportionally when an airport reaches its quota and movement limits.
+Annex A: Relevant information
+S0489 A. The table below details where the relevant information related to our decision on ** (Reference: 1)
+S0490 operating restrictions can be found
+Information | Location in consultation
+Current Inventory | 
+Description of the airport | See Chapter 1 of consultation document and Airports
+Noise Action Plans18.
+Environmental objectives | Government response (and see Chapters 1 & 2 of
+consultation for previous versions)
+Noise contours for the
+relevant previous years | Chapter 1, Chapter 2, Annex F of consultation document
+and airports' Noise Action Plans. For Heathrow also see
+2015 noise contours.19
+Existing and planned
+measures to manage aircraft
+noise | Chapter 2 of consultation document, airports' Noise
+Action Plans, Heathrow Blueprint for Noise Reduction20
+and Gatwick's response to Independent Arrivals
+Review21
+Forecast without noise measures | 
+Description of airport
+development | Chapter 1 of consultation document, Draft Airports NPS22
+and Airports Commission Final Report
+Benefits of making additional
+capacity available | Airports Commission Final Report and Draft Airports
+NPS
+Effect on noise climate
+without further measures | Chapter 4 of consultation document, Annex F and Impact
+Assessment Annex F
+Forecasted noise contours | Impact assessment
+Costs of not taking action to
+reduce the impact of
+increased noise | Chapter 3, Chapter 4 of consultation document and
+Impact Assessment
+Assessment of additional measures | 
+Additional measures
+available to address noise | Impact Assessment and chapter 2 of consultation
+document
+Impacts of the proposed
+measures | Impact Assessment and chapter 4 of consultation
+document
+Reasons for preferred option | Impacts Assessment, government response
+Non-technical summary of
+options | Executive Summary, Chapter 3, Chapter 4 of
+consultation document, Impact Assessment and
+government response document
+Annex B: Glossary
+S0491 Airports Commission An independent commission set up in 2012 to examine the need for additional UK airport capacity and recommend to government how this can be met in the short, medium and long term.
+S0492 Balanced Approach Guidance developed by ICAO to address aircraft noise problems at individual airports in an environmentally responsive and economically responsible way
+S0493 CAA Civil Aviation Authority
+S0494 Carry Over (and overrun) Carry-over and overrun arrangements give the airport flexibility to defer or bring forward movements and quota allowance from one season to the next.
+S0495 Certification Procedure
+S0496 The ICAO aircraft noise certification procedure for subsonic aircraft over 5,700kg requires three separate noise measurements to be made at approach, lateral and flyover locations.
+S0497 The three certificated noise levels (measured in EPNdB) are determined within tight tolerances and normalised to standard atmospheric conditions.
+S0498 Co-ordinated airport
+S0499 An airport whose total capacity (runway, taxiways, aircraft parking, departure gates, passenger terminals, security and border facilities) is shown to be insufficient to meet demand from all actual or planned airline operations.
+S0500 A co-ordinator is appointed to allocate slots to airlines and other aircraft operators using or planning to use the airport, as a means of managing available capacity.
+S0501 dB Unit of relative sound level or changes in sound level
+S0502 dBA Unit of sound pressure level measured on the A weighted scale, i.e. as measured on an instrument that applies a weighting to the electrical signal as a way of simulating the way a typical human ear responds to a range of acoustic frequencies.
+S0503 Designated airport Any airport designated for the purposes of section 78 of the Civil Aviation Act 1982 which allows the Secretary of State to require action to be taken to avoid, limit or mitigate the effect of noise from aircraft.
+S0504 Heathrow, Gatwick and Stansted are the three airport currently designated for these purposes
+S0505 Environmental Objective An objective for an airport within the definition at Regulation 2 of The Aerodromes (Noise Restrictions) (Rules and Procedures)
+S0506 Regulations 2003 (SI 2003/1742).
+S0507 EPNdB Effective Perceived Noise Decibels.
+S0508 A specialised noise unit used for aircraft noise certification tests.
+S0509 Exempt Aircraft Under the current restrictions, aircraft certified as quieter than 84 EPNdB are exempt from the night flight restrictions.
+S0510 This means they do not count towards movement or noise quota limits.
+S0511 ICAO International Civil Aviation Organisation.
+S0512 ILS Instrument Landing System.
+S0513 A precision runway approach aid based on two radio beams which together provide pilots with both vertical and horizontal guidance during an approach to land
+S0514 Leq A measure of long term average noise exposure.
+S0515 For aircraft it is the level of a steady sound which, if heard continuously over the same period of time, would contain the same total sound energy as all the aircraft noise events.
+S0516 Leq is most commonly used with the A-weighted scale (as measured on an instrument that applies a weighting to the electrical signal as a way of simulating the way a typical human ear responds to a range of acoustic frequencies), expressed as LAeq.
+S0517 LAeq
+S0518 6.5hr night is used in this consultation to refer to the noise levels in the period of the night, 2330-0600, that movement and noise quota limits apply to.
+S0519 Lmax The maximum A-weighted sound level (in dBA) measured during an aircraft flyby
+S0520 Lnight Usually, the eight hour Leq average noise level from a specified source or sources as defined in Directive 2002/49/EC, in the UK defined to cover 2300-0700 local time; sometimes defined over other periods at night.
+S0521 Movement Limit
+S0522 The number of movements allowed during a season between 2330 and 0600 (the Night Quota Period).
+S0523 Noise Contour Aircraft noise maps which show lines joining points of equal noise to illustrate the impact of aircraft noise around airports.
+S0524 Night Period Defined as 2300-0700 local time.
+S0525 Night Quota Period Defined as 2330-0600 local time unless the context indicates otherwise.
+S0526 Noise Quota (limits)
+S0527 An aggregation of quota count for individual aircraft, used to define a seasonal limit or usage by comparison with the applicable limit.
+S0528 Operating Restriction Noise related action that limits or reduces access of civil subsonic jet aeroplanes to an airport.
+S0529 It includes operating restrictions aimed at the withdrawal from operations of marginally compliant aircraft at specific airports as well as operating restrictions of a partial nature, affecting the operation of civil subsonic aeroplanes according to time period
+S0530 Quota Count (or QC)
+S0531 The weighting attributed to the arrival or departure of a specified aircraft type by reference to its certificated noise performance, divided into 3EPNdB bands.
+S0532 Slot Airport slots are rights allocated to allow airlines and other aircraft operators to schedule a landing or departure at an airport during a specific time period.
+S0533 Slots are allocated at ‘Level 3 – Coordinated Airports’.
+S0534 webTAG The Department for Transport’s guidance on appraising transport schemes.
+S0535 TAG Unit A3 includes an approach to analysing the possible health effects associated with aviation noise, ** (Reference: 23)
+S0536 WHO World Health Organization.
+S0537 Published the 1999 'Guidelines for Community Noise' and the 2009 'Night Noise Guidelines for Europe'.
+# Night Flight Impact Assessment
+Impact Assessment (IA)
+S0538 Title: Night Flight Restrictions at the Designated Airports, 2017- 2022
+S0539 Date: 12/07/17
+S0540 IA
+S0541 No: DfT00370
+S0542 Stage: Final
+S0543 RPC Reference No: RPC17-3554(2)-DfT
+S0544 Source of intervention: Domestic
+S0545 Lead department or agency: Department for Transport
+S0546 Other departments or agencies: NA
+S0547 Type of measure: Secondary legislation Other departments or agencies: NA Contact for enquiries: David Hyde, night.flights@dft.gsi.gov.uk **(Link: 4) Summary: Intervention and Options RPC Opinion: fit-for-purpose
+S0548 Cost of Preferred (or more likely) Option
+S0549 Business Impact Target Status
+S0550 Total Net Present Value
+S0551 Business Net Present Value
+S0552 Net cost to business per year (EANDCB in 2014 prices)
+S0553 One-In, Three-Out
+S0554 £-12.18m £-10.91m £2.2m In scope Qualifying provision
+S0555 What is the problem under consideration?
+S0556 Why is government intervention necessary?
+S0557 The biggest issue arising from night flights is the effect of night noise on residents in areas surrounding airports.
+S0558 In particular, the impact this has on the sleeping patterns of individuals.
+S0559 There has been growing evidence on the relationship between exposure to higher levels of aircraft noise at night, sleep disturbance, and adverse health effects.
+S0560 However, there is a need to balance these negative externalities on local residents with the economic benefits that night flights offer to the aviation industry and wider economy, including increased flight choice (allowing passengers to fly when convenient for them and to a wide range of destinations) and next-day deliveries of urgent or perishable products.
+S0561 Currently there is no market process in place to ensure the benefits of night flights are balanced against the local impacts.
+S0562 Without Government intervention, the existing restrictions at Gatwick, Heathrow and Stansted would end in October 2017, and there could be an unlimited amount of flights operating in the night period.
+S0563 In this case, the Government considers that there would be a failure to protect communities from the noise impacts of night flights.
+S0564 While at other airports in the UK night noise is managed locally, usually as agreements between the airport and local authorities, under the existing policy and legal framework the Secretary of State has responsibility for setting night flight restrictions at Heathrow, Gatwick and Stansted.
+S0565 The Government recently consulted on changes to this framework, which could see night flight restrictions set via other processes in the future.
+S0566 The outcome of that consultation is yet to be determined however and there are no alternatives to Government intervention.
+S0567 Therefore there is currently a rationale for the Government to intervene to address the problem under consideration, namely to strike a balance between the local impacts of night flights and the economic benefits they bring.
+S0568 A ‘Do Nothing’ option is not an appropriate baseline as it is not feasible for the Government to completely remove all regulation on night flights at the designated airports, reasons for this are given at Section 5.2.
+S0569 The impacts of the proposed policy options are therefore compared against a ‘do minimum’ option based on a continuation of the current regime.
+S0570 What are the policy objectives and the intended effects?
+S0571 The environmental objective we have set for these airports is to ‘limit or reduce the number of people significantly affected by aircraft noise at night, including through encouraging the use of quieter aircraft, while maintaining the existing benefits of night flights’.
+S0572 Rules on the adoption of operating restrictions, such as the night flight regime, require them to be no more restrictive than is needed to achieve the environmental objectives for that airport.
+S0573 These rules however do not specify the exact restrictions that should be in place at an individual airport or airports and this is a domestic policy decision.
+S0574 What policy options have been considered, including any alternatives to regulation?
+S0575 Please justify preferred option (further details in Evidence Base)
+S0576 In this final stage impact assessment, we have considered four options to achieve the objective outlined above.
+S0577 Based on consultation responses and further analysis, we have repackaged the options that were presented at consultation stage.
+S0578 These options are now:
+S0579 1. Option 1: Do Minimum.
+S0580 The current regime continues beyond expiry in October 2017 with no changes.
+S0581 2. Option 2.
+S0582 Incorporate QC/0 aircraft into movement limits for all three airports, and accommodate the number of currently exempt aircraft at Stansted by increasing their movement limit.
+S0583 These changes would take effect from the start of the next regime (Winter 2017).
+S0584 This option ensures the growing number of QC/0 aircraft are included in the regime and subject to the requirements.
+S0585 3. Option 3: As option 2, but further implementing a new QC/0.125 category to be introduced in the second year of the regime (Winter 2018).
+S0586 This option ensures the noise impacts of aircraft are better reflected in the noise quota allowance of the regime.
+S0587 4. Option 4: As option 3, but from Winter 2018 to also reduce noise quota limits at Heathrow and Gatwick to a level based on the current average QC per movement.
+S0588 This removes ‘headroom’ or inefficiency in the current policy (see section 5.4.2 for further detail on the methodology for calculating these reductions).
+S0589 Our preferred option is Option 4, which builds on all the other options, and best achieves our objective as set out above.
+S0590 The changes to the QC system that this package would include would ensure communities are protected from the theoretically unlimited number of QC/0 aircraft movements that could otherwise occur (in a do minimum scenario, Option 1), and ensures that there is greater transparency so communities know how much noise they can expect to experience over the next five years of the regime.
+S0591 As a result of incorporating QC/0 aircraft into the movement limit, it is necessary to adjust Stansted’s movement limits by the existing number of aircraft that will be brought into the restrictions to ensure the existing benefits of night flights are maintained.
+S0592 Finally, reducing noise quotas at Heathrow and Gatwick to a level based on current usage incentivises the continued use of quieter aircraft and ‘locks-in’ the benefits that have been delivered through the introduction of quieter aircraft in recent years.
+S0593 Option 4 reflects all of these changes.
+S0594 The results suggest a negative NPV based on the impacts that have been monetised.
+S0595 There are a number of non-monetised benefits that we believe warrant Option 4 being the preferred option, including the transparency and future certainty that this options provides communities.
+S0596 A full analysis of all options is found in Section 8 and at Appendix C to this impact assessment.
+S0597 Will the policy be reviewed?
+S0598 Yes
+S0599 If applicable, set review date: Restrictions expire in October 2022
+S0600 Does implementation go beyond minimum EU requirements?
+S0601 N/A
+S0602 Micro: Are any of these organisations in scope?
+S0603 Yes
+S0604 Small: Yes
+S0605 Medium: Yes
+S0606 Traded: NQ
+S0607 Micro: Small:
+S0608 Medium Large: Are any of these organisations in scope?
+S0609 Yes
+S0610 Yes:
+S0611 Yes Yes What is the CO2 equivalent change in greenhouse gas emissions?
+S0612 Traded: Non-traded: (Million tonnes CO2 equivalent) NQ NQ
+S0613 What is the CO2 equivalent change in greenhouse gas emissions?
+S0614 Traded: Non-traded: (Million tonnes CO2 equivalent) NQ NQ I have read the Impact Assessment and I am satisfied that (a) it represents a fair and reasonable view of the expected costs, benefits and impact of the policy, and (b) that the benefits justify the costs.
+S0615 Signed by the responsible Minister:
+S0616 Rt Hon Chris Grayling MP Date: 12/07/2017
+S0617 Summary: Analysis & Evidence Preferred option (Option 4)
+S0618 Description: From Winter 2017:
+S0619 Incorporating QC/0 aircraft into movement limits for all three airports, and accommodating the number of currently exempt aircraft movements at Stansted by increasing their movement limit.
+S0620 From Winter 2018: Implementing a new QC/0.125 category and reducing noise quota limits at Heathrow and Gatwick to a level based on the current average QC per movement.
+S0621 FULL ECONOMIC ASSESSMENT
+S0622 Net Benefit (Present Value (PV)) (£m) Low: NQ High: NQ Best Estimate: -£12.18m
+S0623 PV Base Year: 2017
+S0624 Time Period Years: 5
+S0625 Price Base Year: 2015
+S0626 Low NQ
+S0627 NQ NQ
+S0628 High NQ N/A NQ NQ
+S0629 N/A
+S0630 Best Estimate £0 £2.7m £12.4m
+S0631 Description and scale of key monetised costs by ‘main affected groups’
+S0632 Under Option 4, it is estimated that there would be fewer flights in the night quota period (NQP) at Gatwick and Stansted across the 5 year regime compared to the Do Minimum scenario.
+S0633 It is estimated that the direct costs to airports and airlines from the reduction in flights in the NQP would be around £1.2m per year at Gatwick and around £1.1m per year at Stansted on average over the 5 year regime (in constant prices); and that the reduction in flights in the NQP at both airports would also result in a total reduction in tax revenues of around £0.3m per year on average over the 5 year regime (in constant prices).
+S0634 Other key non-monetised costs by ‘main affected groups’
+S0635 It is also expected that the reduction in flights in the NQP at Gatwick and Stansted would result in a number of other (non-monetised) costs to businesses, passengers and the government (see Section 8).
+S0636 However, it is estimated that there would be no change in the number of flights in the NQP at Heathrow and therefore no costs are expected at Heathrow.
+S0637 BENEFITS (£m)
+S0638 Low NQ
+S0639 NQ NQ
+S0640 High NQ N/A NQ NQ
+S0641 N/A
+S0642 Best Estimate £0 £0.0m £0.2m
+S0643 Description and scale of key monetised benefits by ‘main affected groups’
+S0644 Under Option 4, the total value of the reduction in sleep disturbance from flights in the NQP over the 5 year regime is estimated at around £0.01 million at Gatwick and around £0.2 million at Stansted (in constant prices).
+S0645 Other key non-monetised benefits by ‘main affected groups’
+S0646 It is estimated that the population within the 48dBA LAeq, 6.5hr night contour would be unchanged in 2017/18 at Gatwick and Heathrow, but be reduced by around 50 people at Stansted.
+S0647 By 2021/22, it is estimated that the number of people within the 48dBA LAeq, 6.5hr night contour would remain the same at Gatwick and Heathrow, but be around 300 less at Stansted.
+S0648 These impacts are relative to a world in which the current night flight restrictions continue.
+S0649 The non-monetised noise
+S0650 benefits are therefore expected to be higher at Stansted than at Gatwick and Heathrow.
+S0651 Furthermore, at all three airports, introducing a new 0.125 QC category and counting all movements towards the limit, as well as reducing the noise quota limit at Gatwick and Heathrow, will increase the transparency of the regime and provide more certainty for communities on the number of flights and amount of noise that can be expected during the night quota period.
+S0652 Key assumptions/sensitivities/risks Discount rate (%) 3.5%
+S0653 As mentioned in the main text, the analysis has a number of limitations, which means that the results of the quantitative analysis presented in this IA are subject to considerable uncertainty.
+S0654 This means that there is uncertainty around both the impacts of the policy options and any comparisons that are made between the policy options.
+S0655 All analysis has been subject to the Department’s Quality Assurance processes.
+S0656 Please refer to the text in the IA for a full discussion of the limitations of the various strands of the analysis.
+S0657 BUSINESS ASSESSMENT
+S0658 Direct impact on business (Equivalent Annual) Score for Business Impact Target £m: (qualifying provisions only) £m: £11.0m Costs: £2.2m Benefits: £0 Net: -£2.2m
+1 Background
+S0659 The government recognises the need to protect local communities from the negative impacts of aircraft noise at night, such as the impact on the quality of sleep, while permitting the operation of services that provide a range of benefits to the aviation industry and wider economy.
+S0660 These benefits include increased flight choice (allowing passengers to fly when convenient for them, which is particularly important for business passengers), the opening up markets and fostering of international trade (including facilitating next day deliveries or urgent or perishable products), encouraging investment in the UK by domestic and foreign investors, improving business efficiency and raising productivity, and spurring growth in the tourism sector.
+S0661 However current Government policy, as set out in the 2013 Aviation Policy Framework (APF), also recognises that night noise is widely regarded as the least acceptable form of aircraft noise and, as a result, it is necessary to ensure that these economic benefits of night flights are balanced with the costs these can impose on communities, including on the quality of sleep. ** (Reference: 24)
+1.1 Current Regime
+S0662 Night flight restrictions of some form have been in place at Heathrow since 1962, Gatwick since 1971 and Stansted since 1978.
+S0663 Please note the phrases night flights restrictions, night flights regime, ‘the regime’ are used interchangeably in this impact assessment.
+S0664 The underlying principle of the restrictions has been to balance the benefits of night flights for the aviation industry and wider economy with the negative impacts of night noise on local communities.
+S0665 Since 1993, the main elements of the night noise regime have been limits to the number of movements and amount of noise that can be emitted at an airport between the hours of 23: and 06:00, which is known as the night quota period, during a particular season (there are two seasons per annum, winter and summer, which coincide with the use of Greenwich Mean Time and British Summer Time). ** (Reference: 53)
+S0666 The limits for the three airports for the current regime, which began in October 2014 and runs to October 2017, are shown in Figure 1 below:
+S0667 Figure 1 - Seasonal night movement and noise quota limits for Heathrow, Gatwick and Stansted
+S0668 The noise quota limits are based on the noise classification of aircraft.
+S0669 All aircraft are given a Quota Count (QC) number based on their noise during take-off and landing and those with higher QC classifications use a greater amount of an airport’s noise quota (see Appendix B).
+S0670 The noise quota limit
+ | Heathrow | Gatwick | Stansted
+Summer night movement limit | 3,250 | 11,200 | 7,000
+Summer noise quota limit | 5,100 | 6,200 | 4,650
+Winter night movement limit | 2,550 | 3,250 | 5,000
+Winter noise quota limit | 4,080 | 2,000 | 3,310
+S0671 is designed to encourage the use of quieter aircraft by allowing airports to maximise the number of movements during any season through the use of aircraft with a lower quota count.
+S0672 Currently the lowest QC category is QC/0.25, which applies to aircraft with and a noise level between 84 and 86. EPNdB. ** (Reference: 25, 32)
+S0673 Aircraft that are quieter than this are currently rated QC/0 and are exempt from the restrictions.
+S0674 This means they are not subject to either the movement or noise quota limits and can operate unrestricted in the night quota period.
+S0675 There are also dispensations for certain types of movements that do not count towards the movement or noise quota limits, for example humanitarian or VIP flights, or in the event of emergencies or widespread and prolonged air traffic disruption.
+S0676 No changes to the rules regarding dispensations are being considered as part of this current review of the restrictions, though we will continue to monitor their usage.
+S0677 Therefore, the statistics and estimates presented in this impact assessment and the analysis described in this impact assessment do not cover flights that have been, or would be, granted dispensations.
+1.2 Carry overs and Overruns
+S0678 As airline seasons vary in length, airports are given flexibility to manage their allowance, and may carry-over unused movements or quota from one season to another, or may over-run in one season which leads to a deduction in the following season.
+S0679 The current rules for carry-overs and overruns are as follows:
+S0680 
+S0681 If required, a shortfall in use of the movements limits and/or noise quota in one season of up to 10% may be carried over to the next season;
+S0682  Conversely, up to 10% of an overrun in movements and/or noise quota usage in one season (not being covered by carry-over from the previous season) will be deducted from the corresponding allocation in the following season;
+S0683  An overrun of more than 10% will result in a deduction of 10% plus twice the amount of the excess over 10% from the corresponding allocation in the following season; and
+S0684 
+S0685 The absolute maximum overrun is 20% of the original limit in each case.
+2 Problem under consideration / Rationale for intervention
+S0686 The biggest issue arising from night flights is the effect of night noise on residents in areas surrounding airports.
+S0687 In particular, the impact this has on the sleeping patterns of individuals.
+S0688 There has been growing evidence, as set out in Section 6.1 of this Impact Assessment, on the relationship between exposure to higher levels of aircraft noise at night, sleep disturbance, and adverse health effects.
+S0689 There is a need therefore to balance these negative externalities on local residents with the economic benefits that night flights offer to the aviation industry and wider economy, including increased flight choice (allowing passengers to fly when convenient for them, particularly important for business passengers) and next-day deliveries of urgent or perishable products.
+S0690 There is currently no market mechanism in place to ensure this balance, which calls for a role for the Government.
+S0691 The power for the Secretary of State to set night flight restrictions for designated airports is granted under section 78 of the Civil Aviation Act 1982.
+S0692 This allows action to be taken to avoid, limit or mitigate the impacts of noise from aircraft.
+S0693 Heathrow, Gatwick and Stansted airports have been designated for this purpose since 1971.
+S0694 These are the only three airports that the Government currently designates for these purposes.
+S0695 While the Government only sets night flight restrictions at these three airports, similar restrictions exist at some other airports – which are often the result of local planning conditions.
+S0696 Current Government policy, as set out in the APF in 2013, is that in general noise controls are best agreed locally.
+S0697 However, given the strategic importance of these airports to the UK economy, and that their future was being considered by the Airports Commission at the time, the APF stated that it was appropriate for the Government to continue to maintain the status of the designated airports.
+S0698 Therefore the Government currently sets noise controls at these airports, including night flight restrictions, to continue to balance the economic benefits these airports offer to the UK with the impacts they impose on communities.
+S0699 The current night flight restrictions are due to expire in October 2017.
+S0700 Therefore, on 12th January 2017 the Government launched its consultation on replacement restrictions for the regime.
+S0701 Following the publication of this consultation, on 2 February 2017 the Government launched a consultation, ‘UK Airspace Policy: a framework for balanced decisions on the design and use of airspace’.
+S0702 This latter consultation includes proposals for how noise should be managed at all airports in the future, and contains proposed measures to bring the system for managing noise at the currently designated airports in line with those at other airports.
+S0703 This consultation was due to close on 25 May and responses are being considered by the Department for Transport before final policy decisions on these policies are made.
+S0704 Without prejudice to the outcome of that process, this could see night flight restrictions no longer being set by the Government at these airports in the future if restrictions can be agreed through some other means such as through the planning process or through engagement with local communities.
+S0705 Given however that the restrictions expire in October 2017, there is a need for the Government to provide certainty on the night flights rules which will apply at the three airports when the current regime lapses.
+S0706 The regime therefore needs to be set before any decisions have been made on the future of the Government's role and will therefore be done so under the existing framework.
+S0707 In impact assessments it is customary to consider whether any alternatives to Government intervention exist.
+S0708 Besides from the reasons set out above referring to the rationale for Government’s current role at these airports, there are also legal rules governing the introduction of operating restrictions – even voluntary ones.
+S0709 Even if the Government had reached a decision on its proposals in the UK Airspace Policy consultation, there would not be sufficient time for another body to be appointed as the competent authority, consult on and agree restrictions before the current regime lapsed. At this moment in time therefore, Government regulation is the only option to ensure the impacts of night flights are adequately managed. ** (Reference: 26)
+S0710 A failure to act by the Government could lead to a substantial increase in the number of night flights at any of the three airports.
+S0711 Given the noise impacts of these flights, this is not considered a viable option.
+S0712 Additionally, intervention is required in this market as an unregulated market would almost certainly impose a disproportionate negative noise impact on communities around an airport.
+3 Policy Objective
+S0713 The night flight restrictions set by the Government are an example of noise-related operating restrictions and there are European rules governing the introduction of these at airports, based on the International Civil Aviation Organisation’s (ICAO) balanced approach.
+S0714 On 23 June, the EU referendum took place and the people of the United Kingdom voted to leave the European Union.
+S0715 Until exit negotiations are concluded, the UK remains a full member of the European Union and all the rights and obligations of EU membership remain in force.
+S0716 During this period the Government will continue
+S0717 to negotiate, implement and apply EU legislation.
+S0718 The outcome of these negotiations will determine what arrangements apply in relation to EU legislation in future once the UK has left the EU.
+S0719 One of the requirements of these rules is for any action taken by a competent authority (the Secretary of State in this instance), to be no more restrictive than is needed to achieve the environmental objectives for the airport in question.
+S0720 The Government must therefore give consideration to what are appropriate environmental objectives for each airport.
+S0721 These rules do not however specify what action should be taken at an individual airport of airports and these are domestic policy decisions.
+S0722 When the regime was last reviewed the Government decided it should maintain a stable regulatory regime and allow growth within the existing movement limits and noise quotas, pending a decision on airport capacity.
+S0723 No significant changes were therefore made to the current regime that began in October 2014.
+S0724 Given the Government’s announcement on 25 October 2016 that a new north west runway at Heathrow was its preferred scheme for delivering new capacity in the south east, and that the Government expects there to be new night flight restrictions associated with a new runway, the Government agrees with the Airports Commission's recommendation that there is no case for further restrictions on the number of night flights at a capacity constrained Heathrow. The next night flights regime at Heathrow should ensure therefore that the existing benefits of night flights at Heathrow are maintained, but also deliver the best improvement in the noise climate possible in the period before a new runway is in place - through incentives to encourage the use of the quietest aircraft in the night quota period. ** (Reference: 27)
+S0725 In our consultation document, we also considered that given the capacity constraints in the south east and the business models of the airlines based at Gatwick and Stansted, it was important to maintain the benefits offered by night flights so that capacity in the south east is not constrained further before a new runway at Heathrow is operational.
+S0726 We therefore proposed that the next regime should ensure that the existing benefits of night flights were maintained while delivering the best possible improvements in the noise climate.
+S0727 As a result, the environmental objective proposed in our consultation document was to 'encourage the use of quieter aircraft to limit or reduce the number of people significantly affected by aircraft noise at night, while maintaining the existing benefits of night flights'.
+S0728 There are also potential opportunities for both Heathrow and Stansted to agree night flight restrictions through other means in the coming years.
+S0729 This objective would therefore ensure that alongside improvements in the noise climate around these airports, the next regime would leave scope for local decisions to be made on night flights in the future.
+S0730 The majority of responses to our consultation disagreed with our proposed objective.
+S0731 A large number of responses argued that quieter aircraft would not prevent disturbance for those living around airports, and that the objective should therefore be to prevent any flights from operating at all during the night, or to gradually phase them out– with various differing suggestions for the length that should be, most commonly 8 hours.
+S0732 There was also a large number of responses, including from one campaign that was resubmitted around 800 times, that suggested the wording of the objective prevented measures being taken that that would reduce the number of night flights and that the benefits of night flights were not defined.
+S0733 A range of benefits as a result of a reduction in the number of night flights has been clearly outlined
+S0734 in this impact assessment in Section 6.2, and where possible, some of the impacts as a result of a reduction in the number of flights are monetised.
+S0735 Other responses from communities argued that the way the objective was worded represented a weakening from one of the environmental objectives from the 2014 regime, to ‘limit and where possible reduce the number of people significantly affected by aircraft noise at night’ and was focused solely on encouraging quieter aircraft rather than reducing the negative impacts of noise.
+S0736 On the other hand, some responses from industry suggested that rather than focusing on reduction of noise at source, other pillars of the balanced approach, especially land-use planning, needed to be considered.
+S0737 Having considered consultation responses on the environmental objective, the Government continues to believe the proposed approach remains the correct one and that for the reasons described at the beginning of this section the next regime should focus on reducing the impacts of noise while maintaining the existing benefits of night flights – which are identified in Section 6 of this document.
+S0738 We do recognise however that the focus of the objective should be on limiting and, where possible, reducing the harmful impacts of night noise rather than solely encouraging the use of quieter aircraft.
+S0739 For our final environmental objective, we have therefore decided to alter the wording slightly from that proposed at consultation stage to: ‘limit or reduce the number of people significantly affected by aircraft noise at night, including through encouraging the use of quieter aircraft, while maintaining the existing benefits of night flights’.
+4 Considerations for the Policy Options
+4.1 The growth and potential future increase in the number of exempt aircraft under the current regime
+S0740 As explained above in Section 1.1, some aircraft fall outside of the current regime and are therefore exempt from both the movement and noise quota limits.
+S0741 When the regime was first set in its current format in 1993, it was originally proposed that aircraft below QC/1 (90EPNdB) should be exempt from the regime. ** (Reference: 28)
+S0742 A Department of Transport sleep study had suggested that noise below 80 dB Lmax (90 EPNdB equates to roughly 75 dB Lmax), was unlikely to cause sleep disturbance. After consultation, it was decided that a QC/0.5 category should be adopted, with aircraft quieter than this exempt from the restrictions. ** (Reference: 29, 30, 31)
+S0743 Since 1993, evidence of the relationship between noise exposure, sleep disturbance and health impacts has increased.
+S0744 This evidence informed the 1999 World Health Organization (WHO) Guidelines for Community Noise, stating that noise events exceeding 45 dBA Lmax indoors should be limited if possible. ** (Reference: 32, 33)
+S0745 It noted that people should be able to sleep with a bedroom window slightly open (a reduction from outside to inside of 15 dB), therefore equating to an outdoor Lmax of 60 dBA. ** (Reference: 34)
+S0746 Although currently exempt aircraft are quieter than those included in the limits, they do create noise that could result in sleep disturbance.
+S0747 There is a risk therefore that by exempting aircraft, movements and associated noise can increase.
+S0748 However, since the introduction of the QC/0.25 category in winter 2006/07, the existence of this exempt category did not result in a significant difference between the total number of movements in the night quota period compared to the number allowed under the regime for much of the following period.
+S0749 In other words, despite the exemption, noise did not increase.
+S0750 This has begun to change in recent years at Stansted (see Figure 2 and Figure 3 below).
+S0751 In summer 2016, the number of exempt operations would not have been accommodated in the current movement limits, even with the use of carry-over and a 10% overrun. ** (Reference: 35)
+S0752 Additionally, at Gatwick, the issue has potential to become more important during the next regime.
+S0753 Currently the majority of exempt aircraft are small freighters and business jets.
+S0754 But, over the next few years, several new quieter jet aircraft, such as versions of the Airbus A320neo, will come into service that will be quieter than the current QC/0.25 standard and therefore exempt from both the movement and the quota limits under the current restrictions.
+S0755 The largest airlines at Gatwick and Stansted, easyJet and Ryanair respectively, have a large number of these aircraft on order.
+S0756 EasyJet will be introducing their first A320neos this summer season and expect about a third of their fleet to be comprised of Airbus A320neos by 2021 and Ryanair also have 100 confirmed orders for the Boeing 737-MAX, which may also fall into the currently exempt category once certified. ** (Reference: 36, 37, 38)
+S0757 Without changes to the existing QC system, there is therefore the possibility for commercial airlines to operate a potentially unlimited number of these aircraft during the night quota period.
+S0758 This could have significant impacts on the noise climate around airports, and result in adverse impacts on sleep quality and health.
+S0759 Additionally, there could be impacts on air quality and climate change, as well as other local impacts.
+S0760 This means it is necessary for the Government to consider what proportionate regulation of these aircraft would be.
+S0761 As it stands, the restrictions at these airports would not be transparent and would fail to reassure communities of the maximum level of night noise they could be expected to be exposed to in the night quota period.
+S0762 Figure 2 - Number of exempt movements in the winter season
+Heathrow Gatwick Stansted
+S0763 Figure 3 - Number of exempt movements in the summer season
+Heathrow Gatwick Stansted
+S0764 As can be seen from Figure 2 and Figure 3, Gatwick and Heathrow currently have a far smaller number of exempt movements compared to Stansted.
+S0765 However, the increase in exempt movements from the introduction of these new aircraft could be particularly noticeable at Gatwick since existing A320s make up a significant proportion of night movements. ** (Reference: 39)
+4.2 Whether the airports’ movement limits remain appropriate
+S0766 Along with the noise quota limits, the movement limit for each airport is the key element of the restrictions.
+S0767 When the regime was last reviewed, it was decided to make no changes to the movement limits in order to ‘maintain a stable regulatory regime pending decisions on future airport capacity’.
+S0768 As mentioned above, the Government has now indicated that its preferred scheme for consulting on new runway capacity in the south east is Heathrow.
+S0769 It is therefore appropriate to consider when setting the new regime whether the movement limits at these airports are still appropriate.
+S0770 However, as outlined in Section 3, part of our environmental objective required under the Balanced Approach is to maintain the existing benefits of night flights at these airports.
+4.3 Whether the airports’ noise quota limits remains appropriate
+S0771 As with the movement limits, it was decided in July 2014, when the regime was last reviewed, to make no changes to the airports’ noise quota limits.
+S0772 The purpose of a noise quota limit alongside a movement limit is to incentivise the use of quieter aircraft to maximise the number of flights that can take place during the night quota period.
+S0773 Improvements in aircraft’s noise performance over recent years has meant that at Heathrow and Gatwick, proportionally less of the airports’ noise quotas are being used compared to movement limits.
+S0774 For instance in Summer 2016, Heathrow used only 45% of its noise quota limits and Gatwick 79%, whilst 91% and 101% of movement limits were used respectively. ** (Reference: 40, 41)
+S0775 Thus, the regime is not incentivising the use of quieter aircraft as much as it could do, and nor is it preventing airlines from hypothetically replacing an aircraft with a noisier one.
+S0776 Reviewing the noise quota limits will allow the Government to consider how it can ensure the benefits of new aircraft technology are shared to limit and, where possible, reduce the number peoples significantly affected by aircraft noise at night and that communities are given more certainty as to the level of noise they will experience in the night quota period.
+S0777 Figure 4, Figure 5, Figure 6 and Figure 7 below show the movement and noise quota (QC) usage at all three airports in recent years, split by season.
+S0778 They show how close each airport is to their limit in any given season (excluding any carry over from previous season and any over-run).
+S0779 Figure 4 - Summer movement usage
+S0780 LGW Limit*
+S0781 STN Limit*
+S0782 LHR Limit*
+S0783 * Refers to seasonal movement limit excluding any carry over from previous season and any over-run Source: Based on monthly monitoring data submitted to the Department by airports.
+S0784 Figure 5 - Winter movement usage
+S0785 STN Limit*
+S0786 LGW Limit*
+S0787 LHR Limit*
+S0788 * Refers to seasonal movement limit excluding any carry over from previous season and any over-run Source: Based on monthly monitoring data submitted to the Department by airports.
+S0789 Figure 6 - Summer noise quota usage
+S0790 LGW Limit*
+S0791 LHR Limit*
+S0792 STN Limit*
+S0793 * Refers to seasonal noise quota limit excluding any carry over from previous season and any over-run Source: Based on monthly monitoring data submitted to the Department by airports.
+S0794 Figure 7 - Winter noise quota usage
+S0795 LHR Limit*
+S0796 STN Limit*
+S0797 LGW Limit*
+S0798 * Refers to seasonal noise quota limit excluding any carry over from previous season and any over-run Source: Based on monthly monitoring data submitted to the Department by airports.
+5 Description of options considered
+S0799 Given the considerations outlined above and the overarching environmental objective, the policy options we proposed in our consultation stage impact assessment were:
+S0800 1. Do Minimum.
+S0801 The current regime continues beyond expiry in October 2017 with no changes (referred to as Option 1 in the consultation)
+S0802 2.
+S0803 Implementation of a new QC/0.125 category, and incorporating QC/0 aircraft into movement limits for all three airports (referred to as Option 2 in the consultation)
+S0804 3.
+S0805 As 2, plus uplift movement limits at Stansted by the current number of QC/0 movements to accommodate the number of currently exempt aircraft movements (referred to as Option 3 in the consultation)
+S0806 4a.
+S0807 As 3, but also reducing noise quota limits at Heathrow and Gatwick to a level based on the current average QC per movement (referred to as Option 4a in the consultation)
+S0808 4b.
+S0809 As 4a, but also further reducing the noise quota limits at all airports gradually over the 5 year regime period, for example by 5% per year (referred to as Option 4b in the consultation)
+S0810 We asked for evidence on the expected impacts of these options in our consultation in order to help us reach a decision on the final option and to inform what noise reductions under Options 4a and 4b would realistically be achievable while maintaining the existing benefits of night flights.
+S0811 Based on consultation responses, we have repackaged the above options at this final stage and analysed the cost and benefit impact of each of these.
+S0812 We have therefore considered the following options in reaching our final policy decision:
+S0813  Option 1: Do Minimum.
+S0814 The current regime continues with no changes.
+S0815  Option 2.
+S0816 Incorporate QC/0 aircraft into movement limits for all three airports, and accommodate the number of currently exempt aircraft movements at Stansted by increasing the movement limit.
+S0817 These changes would take effect from the start of the next regime (Winter 2017).
+S0818  Option 3: As option 2, but further implementing a new QC/0.125 category to be introduced in the second year of the regime (Winter 2018).
+S0819  Option 4: As option 3, but from Winter 2018 to also reduce noise quota limits at Heathrow and Gatwick to a level based on the current average QC per movement.
+S0820 This removes ‘headroom’ or inefficiency in the current policy (see Section 5.4.2 for further detail on the methodology for this).
+S0821 Based on analysis of these options, see Section 8 and 13.1Appendix C, we have reached the conclusion that Option 4 is best suited to achieve the environmental objective as it incorporates all of the components of the other options.
+5.1 Alternatives to regulation
+S0822 As stated in earlier sections, current Government policy is Gatwick, Heathrow and Stansted airports are strategically important to the UK economy and it is therefore right that Government balances the benefits of night flights with the costs they have on communities.
+S0823 While the Government is currently reviewing its role at these three airports following the UK Airspace Policy consultation, it is not possible for any changes to be made without proper public consultation.
+S0824 Our consultation on the next night flights regime made clear however that if changes to the Government’s role are made at these airports, then the Government would allow more airport-specific bespoke arrangements to be made
+S0825 at the designated airports in the future, provided there has been appropriate consultation and all legal requirements have been followed.
+S0826 The consultation made clear that it would be possible for these changes to take effect before the end of the regime currently being considered.
+S0827 In purely practical terms, the legal requirements governing the introduction of operating restrictions would prevent alternatives to Government regulation taking effect from the beginning of the next regime, as there would not be sufficient time for another competent authority to give the required notice for any voluntary operating restrictions before the regime lapses.
+S0828 There are several opportunities for more bespoke arrangements to be agreed in coming years in parallel to or as a replacement for the night flights regime if these changes to policy are made.
+S0829 At Heathrow, the Government has announced it expects a ban on scheduled night flights for a period of six and a half hours, between the hours of 11pm and 7am, as a condition on new runway capacity.
+S0830 The rules around its operation, including the exact timings of such a ban, should be defined in consultation with local communities and relevant stakeholders, in line with the requirements of EU Regulation 598/2014.
+S0831 Stansted has also announced it intends to seek planning permission to increase their current passenger cap this year and it could therefore agree restrictions at a local level as part of this agreement.
+S0832 While we are not aware of any intention for Gatwick to agree local planning conditions over the course of the regime, the proposals made in the UK Airspace Policy consultation do offer the opportunity for restrictions to be agreed outside of the planning process and pending the outcome of that consultation this may offer Gatwick the opportunity to agree local restrictions.
+S0833 The next night flights regime will be adopted in line with rules that require noise to be managed in line with ICAO’s Balanced Approach.
+S0834 Therefore, action to address noise should be airport specific and address noise in the most cost-effective way, with operating restrictions that limit the number of flights, such as the night flights regime, only being introduced if the environmental objective for an airport cannot be achieved by any other means.
+S0835 In addition to operating restrictions, the Balanced Approach identifies three other mechanisms for addressing noise; reduction of noise at source, land- use planning, and operational procedures.
+S0836 These alternative measures are discussed below.
+S0837 5.1. Reduction of noise at source ** (Reference: 24)
+S0838 Noise certification of aircraft aims to ensure the latest technology to reduce noise is incorporated in to the design of aircraft.
+S0839 Modern aircraft are considerably quieter than previous generations, with this improvement driven primarily by quieter engines.
+S0840 As a result the noise emissions of modern jet aircraft have reduced considerably since the first models.
+S0841 The Government expects industry to continue the good progress already made in addressing the problems caused by aircraft noise.
+S0842 The UK was instrumental in securing an agreement on a tougher international noise standard in the ICAO Committee on Aviation Environmental Protection (CAEP).
+S0843 This requires new types of large civil aircraft, from 2017, to be at least 7dB quieter in total, across the three test points, than the current standard.
+S0844 Standards for smaller aircraft will be similarly reduced in 2020.
+S0845 Several new types of aircraft will also come into service at the designated airports over the next few years that will be quieter than the aircraft they will gradually replace.
+S0846 This includes the introduction of the Airbus A320neo, Airbus A350, Boeing 737 MAX and Boeing 777X. While no aircraft can be completely silent, the new generation of aircraft coming into service have a noise footprint that is typically 50% smaller on departure, and at least 30% smaller on arrival, than that of the aircraft they are replacing.
+S0847 In addition to the introduction of quieter aircraft at the designated airports, modifications to the existing Airbus A320 family of aircraft, which are known to emit a high-pitched 'whine' 7 to 15 miles from the airport, are also expected during the period covered by the current and next night flight regimes.
+S0848 All new A320s produced by Airbus will have flow detectors installed to suppress this distinctive sound created by these aircraft, and two airlines with a significant number of night operations at Gatwick, British Airways and easyJet, have agreed to retro-fit these modifications to existing aircraft by the end of 2017 and early 2018 respectively.
+S0849 Gatwick have also raised landing charges for non-retrofitted aircraft as of April 2017, as part of the airport’s response to the Independent Arrivals Review.
+S0850 Heathrow are also working to encourage airlines to retrofit noise reducing technology to the A320 family of aircraft that use the airport.
+S0851 While none of these models are scheduled in the night quota period, this could lower noise from unscheduled movements that arrive between 2330 and 0600.
+S0852 While aircraft have become quieter in recent years and new quieter aircraft will continue to come into operation over the next few years, as Appendix E demonstrates, even the quietest commercial aircraft that will operate in the next five years of the regime will still produce noise levels which could lead to sleep disturbance and this measure alone is not sufficient to address the noise impacts that would result from unrestricted night flights over the course of the next regime.
+S0853 5.1. Land-use planning ** (Reference: 25)
+S0854 The second pillar of the Balanced Approach is land-use planning.
+S0855 Primarily this aims to ensure that new airport developments are located away from noise-sensitive areas and that only compatible land- use development takes place in areas affected by aircraft noise.
+S0856 Other measures include mitigating the effects of noise on development, for example through building codes and noise insulation, and making use of financial instruments such as capital improvements, tax incentives and noise-related airport charges for revenue generation to assist in funding noise mitigation efforts.
+S0857 The Balanced Approach does recognise, that in some situations, such as locations lacking available land, the opportunity to incorporate all of the land-use planning principles that could prevent aircraft noise problems arising may be limited, but urges states to do so where possible.
+S0858 The Government's National Planning Policy Framework (NPPF) aims to prevent development where noise can give rise to adverse effects.
+S0859 Research recently carried out by the CAA, suggests Government policy, along with regulatory levers, has had success in preventing inappropriate residential development in the areas subjected to the highest noise impacts. ** (Reference: 42)
+S0860 Furthermore, planning guidance has ensured that appropriate protection is incorporated into developments experiencing lower levels of noise.
+S0861 Noise insulation schemes are also in place at all three of the designated airports.
+S0862 While these reduce the noise levels experienced from aircraft, the WHO recommended that people should be able to sleep with a bedroom window slightly open, and as Appendix E demonstrates, even the quietest aircraft can cause sleep disturbance in these instances.
+S0863 In addition, several local authorities around the designated airports have taken steps to ensure that the development that takes place around airports is appropriate.
+S0864 Crawley Borough Council, in which Gatwick is located, adopted its local plan in 2015 which included its own noise policy that sets specific
+S0865 standards for development in noise sensitive areas and preventing noise sensitive development above certain noise levels.
+S0866 Around Heathrow, the London Boroughs of Richmond, Hounslow and Hillingdon are also developing a joint strategic planning policy document for noise.
+S0867 Several responses to our consultation, from industry as well as local authorities, raised the issue of land-use planning.
+S0868 Arguments on this subject included that local authorities lacked sufficient powers to prevent development in noise-sensitive areas, and that recent house building in high-noise contours has reduced some of the improvements that have been brought about by new technology.
+S0869 The Government does appreciate the role that land-use planning can play in addressing noise problems and part of the work on the upcoming aviation strategy will explore the theme of sustainable growth and will be an opportunity for stakeholders to feed in views on these matters.
+S0870 Land-use planning will not however address the noise impacts that already exist or that will be present over the course of the next regime.
+S0871 5.1. Operational procedures ** (Reference: 26)
+S0872 Noise can also be reduced by ensuring aircraft are flown in a particular way.
+S0873 Examples of operating procedures include:
+S0874  the use of noise preferential routes or runways to direct the flight paths of aircraft away from noise-sensitive areas (or to provide periods of respite for certain areas at certain times of day);  the use of specific take-off or approach procedures (such as Continuous Descent Operations, or steeper landing trajectories) to optimize the distribution of noise on the ground;
+S0875 The Government already sets various operational procedures at these airports that are designed to minimise the impact of noise on communities.
+S0876 These include continuous climb and descent operations and minimum heights at which aircraft must join the instrument landing system (ILS).
+S0877 There may be further opportunities to reduce noise for communities through the modernisation of airspace and other new operational procedures over the next few years.
+S0878 For instance, Heathrow recently trialled a steeper angle of descent for arriving aircraft.
+S0879 The results of this trial indicate these steeper approaches would have minimal, if any, negative effect on Heathrow’s operation whilst exposing local residents to less aircraft noise.
+S0880 Heathrow plan to undertake further trials later this year with the view to making these changes permanent.
+S0881 Following the Independent Arrivals Review published in 2016, Gatwick Airport has also agreed to several recommendations that will address noise impacts, including at night, and which have either been implemented or in the process of being so.
+S0882 Further benefits of airspace modernisation may also include those that come through more accurate satellite-based navigation that enables aircraft to better avoid populated areas.
+S0883 The Government’s consultation on UK Airspace Policy set out various proposals to ensure that the benefits of airspace modernisation are fully realised in the coming years and the Government will continue to support the designated airports in potential changes to operational procedures that could offer noise benefits in the future.
+S0884 Other Alternatives
+S0885 While these measures can all offer benefits for the noise environment, failure to set limits on the number of flights and noise energy that can be emitted would mean aircraft would be allowed to operate without any restrictions during the night.
+S0886 Even with the developments described above and those expected in the next few years, failure to set appropriate limits would not adequately protect
+S0887 communities with the negative consequences of aircraft noise at night.
+S0888 This would also mean a failure to achieve the environmental objective.
+S0889 It is however customary in impact assessments to consider whether there are any measures which could be taken as an alternative.
+S0890 The Government is currently consulting on the possibility for restrictions to be decided in the future by an alternative regulatory body as per the proposals in our UK Airspace Policy consultation.
+S0891 However the Secretary of State is currently the competent authority for decisions on operating restrictions at these airports and any changes to the process by which these decisions are made will have to wait for the outcome of that consultation process.
+S0892 As explained earlier in this section, even voluntary restrictions would be caught by Regulation (EU) 598/2014 and it would not therefore be possible for these to be introduced before the current restrictions lapsed.
+S0893 There are potentially other indirect means for controls to be set at these airports under existing legislation.
+S0894 For instance, Section 39 of the Transport Act 2000 allows the Secretary of State to give a holder of a licence to provide air-traffic control services directions:
+S0895 (a) to prevent or deal with noise, vibration, pollution or other disturbance attributable to
+S0896 aircraft used for the purpose of civil aviation; (b) to limit or mitigate the effects of such noise, vibration, pollution or disturbance.
+S0897 However as with the other options above, the Government would have to consult before using any of these powers and any subsequent restrictions would still be classified as operating restrictions and subject to EU rules on their introduction.
+S0898 Furthermore, if these were to be successful in delivering the environmental objectives the Government has set for these airports, the Government would have to direct an air-traffic control licence holder to limit the number of flights.
+S0899 There would therefore be little difference between setting restrictions via this or the existing method, though the current framework provides greater certainty to stakeholders as to who is responsible for the restrictions.
+S0900 There is therefore no other alternative at this moment that would offer communities sufficient protection from the harmful effects of unregulated night flights before the current regime expires.
+S0901 The Government also asked the CAA to update its 2013 review of the impact of environmental charges at airports, to examine how the use of these charges has evolved in recent years.
+S0902 The original review found that ‘environmental charges are unlikely to be the decisive factor upon which airport users (airlines) base their fleet replacement decisions.’
+S0903 The recommendation was also made that the differentials between charges for noise categories should be increased to act as a greater encouragement to shift to quieter aircraft.
+S0904 Finally, there is also the possibility that restrictions on night flights or other operating restrictions in other countries could affect the number and noise levels of arrivals and departures in the night quota period at these airports.
+S0905 However, given the range of locations that airlines operate to or from in the night quota period this is not a realistic approach to the regulation of night flights in the UK and would not provide certainty to either communities or industry on the number of flights that would operate or the total amount of aircraft noise that would be produced at night.
+S0906 Relying solely on this approach would almost certainly mean that the Government would fail to meet its stated environmental objective.
+5.2 Do Nothing
+S0907 In the absence of Government intervention, the existing night flight restrictions at Gatwick, Heathrow and Stansted would end in October 2017.
+S0908 Unlike at other airports, where such restrictions are agreed locally, the Secretary of State has responsibility for ensuring there are suitable mechanisms in place at these airports to protect communities from the harmful impacts of aircraft noise, while also considering the economic benefits of night flights.
+S0909 A ‘Do Nothing scenario would result in no night flying restrictions at these airports beyond October 2017.
+S0910 This would be considered a failure of meeting the Government’s long term policy to limit and, where possible, reduce the number of people significantly affected by aircraft noise, as well as the environmental objectives set.
+S0911 Thus, we do not consider this a viable option for our baseline scenario.
+5.3 Do Minimum
+S0912 For the purpose of assessing policy options, the effective ‘Do Minimum’ scenario is considered to be a continuation of the current regime, which we define for the purposes of this IA, as maintaining the current movement and noise quota limits at all three airports with no changes to the structure of the regime.
+S0913 We feel that this is the most appropriate ‘Do Minimum’ scenario.
+S0914 It was considered appropriate by most consultees and also recognised by the Regulatory Policy Committee as the appropriate ‘Do Nothing’ for the purposes of the Impact Assessment. ** (Reference: 43)
+S0915 It reflects the Secretary of State’s responsibility for ensuring there are suitable mechanisms in place at these airports to protect communities from the harmful impacts of aircraft noise, which could not be delivered through ‘Do Minimum’.
+S0916 It also helps to make the IA as easily understandable as possible.
+S0917 Firstly, previous legal judgments on the night flights regime have also ruled that night flights adversely affect the rights of people living near airports; and that the Government has an obligation to balance the rights of those persons with the economic interests of those operating and benefiting from those flights. ** (Reference: 44)
+S0918 Secondly, using this scenario will help to ensure communities and industry can better interpret and consider the impacts of the policy options proposed as all comparisons are being made relative to the current situation.
+S0919 The current regime is largely a continuation of that first set in 2006 – the last time there was a change to movement limits - and is therefore regarded as the status quo by affected parties.
+S0920 While we are using this scenario as the ‘Do Minimum’ option for our analysis due to the lack of viability of a ‘Do Minimum’ scenario, we do not believe continuing the current regime in its existing form is appropriate at this time.
+S0921 The rationale that the previous regime was set under is no longer valid due to the Government’s announcement of a preferred scheme for increasing airport capacity in the south east.
+S0922 Other developments such as the increase in existing exempt aircraft, as well as the anticipated introduction of new exempt aircraft, also necessitate changes from the existing regime.
+S0923 We received feedback from affected populations around the airports stressing this point.
+5.4 Final Policy Option
+S0924 5.4. Description of final option and rationale ** (Reference: 24)
+S0925 As explained above, the Final Policy Option (Option 4 in this IA) involves 4 main changes, including:
+S0926 1. Introducing a new QC category (QC/0.125) to capture aircraft between 81 and 83. EPNdB and ensuring all aircraft quieter than this are counted within an airport’s movement limits while remaining exempt from the noise quota limits. ** (Reference: 32)
+S0927 Most responses to our consultation agreed with these changes.
+S0928 It was generally regarded that these changes would make the system more transparent and communities in particular felt all aircraft they heard could cause disturbance, regardless of their noise rating.
+S0929 Most industry responses too agreed that there was an argument for including these aircraft within the movements for the sake of transparency.
+S0930 Many however challenged the scientific evidence to justify a new QC category and argued that ‘moving the goalposts’ could have unintended consequences.
+S0931 After the consultation had ended, there were also representations from the business and general aviation community about the impact this would have on their ability to use the London airports.
+S0932 However no evidence was provided in time to inform this impact assessment that would enable us to estimate the impact on this group of stakeholders.
+S0933 There were calls from the business aviation community to ensure that if these changes were made, the existing movement usage by these operators should be ‘grandfathered’.
+S0934 However, the government has no powers to determine which operators an airport's available capacity is assigned to.
+S0935 Our changes would not prevent these operations from operating during the night quota period and there are already other non-scheduled aircraft which are not currently exempt that count towards both an airport's movement and noise quota limits.
+S0936 In this regard the government would expect business aviation operators and representatives of other non-scheduled services that operate at Stansted to continue to work with the designated slot co-ordinator and the airport operator to determine their operations during the night quota period.
+S0937 As explained in Sections 6 and 7, these aircraft can still expose affected communities to noise levels that the WHO identify as being capable of causing sleep disturbance and it is therefore right that they are treated in a proportionate way to other aircraft.
+S0938 Extending the QC scale downwards by a further 3dB band to introduce a new QC/0.125 ('QC eighth') category, consistent with the fact that a 3dB increase represents a doubling of noise energy, would help prevent a proliferation of exempt aircraft and also provide incentives for the use of even quieter aircraft at night (below 81 EPNdB).
+S0939 Following publication of our consultation, some issues were raised about the effect our proposed changes would have on the small number of instrument landing system (ILS) calibration flights and on other light prop movements that take place in the night quota period.
+S0940 ILS calibration flights are carried out to ensure that the ILS is functioning properly and currently, any landings or take offs by ILS calibration aircraft that are classified QC/0 are exempt from the restrictions.
+S0941 Following consideration of this matter, we have decided that all flights that are required for essential airport safety checks should continue to be exempt from the restrictions and should not count towards the movement limits.
+S0942 With regards to light prop movements in general, there is no formal process for classifying these types of aircraft.
+S0943 The reason for this is twofold.
+S0944 Firstly, the noise certification levels of these aircraft
+S0945 can differ due to the different test demonstration procedures required by the older ICAO Chapter 6 and current Chapter 10 standards, and this can alter the assigned QC classification.
+S0946 Secondly, the Chapter 6 and Chapter 10 noise levels are Lmax values measured in A-weighted decibels (dBA) whereas the metric used for the QC classification scheme is Effective Perceived Noise Decibels (EPNdB), since it was designed to be compatible with the Chapter 3 noise standard that applies to jet and large propeller-driven aircraft (which is measured in EPNdB).
+S0947 There is no straightforward way of accounting for both of these factors and although the CAA has to date taken a pragmatic approach and based the classifications for light props on their unadjusted dBA levels, this can lead to inconsistent classifications.
+S0948 Given the small number of these aircraft in operation (see Figure 8 below), the Government does not believe it is proportionate to devise a separate classification system, but we do want to ensure these aircraft are treated consistently under the restrictions.
+S0949 We have therefore decided that while these aircraft should count to the movement limits under the restrictions, they should remain exempt from the QC limits.
+S0950 Light propeller-driven aircraft certificated to Chapter 6 or Chapter 10 will now fall outside the scope of the QC classification scheme.
+S0951 The small number of both types of these movements means the impact of these exclusions are of a very small magnitude and it has been deemed proportionate to not include these in the quantitative analysis in this impact assessment.
+S0952 Figure 8 – Number of light prop movements during the night quota period in winter 2015/16 and summer 2016
+S0953 2.
+S0954 Adjusting Stansted’s movement limits by 1700 movements (1100 in Summer and 600 in Winter) to reflect that exempt aircraft will now count towards these limits.
+S0955 More people disagreed than agreed with this proposal in our consultation, with responses from communities suggesting that there was already too much night time activity and that the number of flights should be reduced.
+S0956 The Government continues to consider that this is the correct approach as without this adjustment Stansted would not be able to accommodate the activity that is already taking place.
+S0957 This adjustment is therefore necessary to ensure that the existing benefits of night flights are maintained, as per our environmental objective.
+S0958 The number of currently exempt movements is much smaller at Heathrow and Gatwick and adjustments are therefore not needed to achieve the environmental objective.
+S0959 3.
+S0960 Reducing noise quota limits at Heathrow and Gatwick to a level based on the average noise of an aircraft – our methodology for calculating this is explained further in Section 5.4.2.
+S0961 Significantly more responses to our consultation agreed than disagreed with our proposals for noise quotas in our consultation, which were to reduce noise quota usage to a level based on current usage as a starting point, before looking at what further reductions could be made.
+S0962 Some communities emphasised we should go further, as for instance, the proposed limit for Gatwick in the winter was significantly above their usage due to the existing spare movement capacity.
+S0963 Most
+LHR | LGW | STN
+2 | 18 | 46
+S0964 industry responses argued that even the minimum changes we were proposing, that would prevent an average aircraft from getting louder than at present if an airport wanted to maximise their movement limits, were too severe and would have unintended consequences.
+S0965 Arguments for this included; that there needed to be operational flexibility for airlines to change the type of aircraft that were used on individual routes which could potentially result in larger and noisier aircraft, that airlines fleet plans were based on long term views and the five year horizon of the regime would not be able to incentivise changes, and that removing all headroom could disincentivise further reductions in noise as airlines would not expect to benefit from these in the future.
+S0966 Despite the concerns raised by industry, the government has received no evidence to suggest that reducing limits at Heathrow and Gatwick to reflect current noise quota usage would not be achievable.
+S0967 We therefore continue to think it is appropriate to make these changes to ensure that the benefits that have resulted from quieter aircraft over recent years are locked in, and give confidence to communities that the average noise from an aircraft will not increase compared to current levels.
+S0968 While we have decided to go ahead with these reductions, after receiving feedback from stakeholders as part of the consultation, there was insufficient evidence to suggest that Option 4b (reducing noise quotas above and beyond current usage, for example a hypothetical 20% further reduction) as proposed in the consultation stage impact assessment was achievable without impacting airlines and airports significantly.
+S0969 For such changes to be achievable, there would need to be significant changes in the fleet over the course of the next regime to reduce the QC level to these levels.
+S0970 Due to the long timeframes associated with ordering new aircraft, the retirement ages of current aircraft in the fleet mix, and the available technology, this level of reduction (e.g. 20%) would not be achievable over the five year regime.
+S0971 It is also not possible to simply extrapolate based on previous trends as fleet mix changes are not linear (particular carriers tend to replace a large number of their fleet in one go e.g. there have been major changes to fleet at British Airways between 2006 and 2017).
+S0972 As a result, we requested evidence through our consultation on the anticipated fleet mixes of airlines in coming years to inform what would be realistic reductions in noise quotas at Heathrow and Gatwick.
+S0973 Based on the evidence received, we are not able to guarantee with any certainty whether further reductions in the noise quota limits beyond those based on current QC usage would be achievable without significant and prohibitive costs being incurred.
+S0974 As a result, in order to meet the environmental objective and maintain the existing benefits of night flights, including ‘locking in’ any technological improvements that have already been made to aircraft, we have decided to reduce the noise quota limits to a value based on how much noise the aircraft using the airports currently produce.
+S0975 5.4. Implementation of changes ** (Reference: 25)
+S0976 While we have decided that the above changes should go ahead, we have also decided however that some of these should be delayed until the second year of the regime (October 2018). ).
+S0977 Given that our proposals on changes to the night flight restrictions came after the point at which airlines would begin planning their schedules, it has not been possible for them to do so with certainty of what exact restrictions will be in place.
+S0978 In order to maintain the existing benefits of night flights we want to ensure that airlines have sufficient time to adapt how their fleets are utilised and plan their schedules accordingly and we therefore propose some aspects of our changes are delayed until the winter 2018 season.
+S0979 As a result, for the first year of the regime, the only changes will be that all aircraft less than 84 EPNdB will count towards an airport’s movement limits and Stansted’s movement limit will be adjusted
+S0980 accordingly.
+S0981 All aircraft below 84 EPNdB will remain exempt from the noise quota limits until October 2018 (i.e. they will stay QC/0 while counting towards movement limits).
+S0982 From October 2018, those aircraft between 81 and 83. EPNdB will be included within a new QC/0.125 category while those aircraft and aircraft quieter than this will continue to count towards the movement limits. ** (Reference: 32)
+S0983 From October 2018, noise quota limits at Heathrow and Gatwick will also be reduced to a level based on the average noise of aircraft currently used at those airports.
+S0984 Delaying these changes until October 2018 will ensure airports and airlines have time to adapt their operations to ensure they can accommodate all of their existing planned flights within the new stricter noise limits.
+S0985 The new noise limits are set out in Figure 9.
+S0986 The noise limits will be 1,785 (an 11% reduction from the existing limit) in winter and 5,150 (17% reduction) in summer at Gatwick, and 2,415 (41% reduction) in winter and 2,735 (46% reduction) in summer at Heathrow.
+S0987 These noise limits are marginally higher (i.e. the reductions are slightly lower) than those proposed in our consultation (these were 17% and 21% reductions for winter and summer respectively at Gatwick, and 43% and 50% reductions for Heathrow).
+S0988 This is because in response to feedback received through our consultation, we have reviewed the methodology for calculating these reductions.
+S0989 The intention behind these reductions remains the same however, namely to prevent the average noise from aircraft from becoming any louder than at present if an airport wanted to maximise their movement limits.
+S0990 Figure 9 – Comparison of proposed and final noise reductions
+S0991 Consultation proposal
+S0992 Season Current QC Limit
+S0993 (% reduction)
+S0994 Final (% reduction)
+S0995 2340 Winter 4080 (-43%)
+S0996 2415 (-41%)
+S0997 Heathrow
+S0998 2540 Summer 5100 (-50%)
+S0999 2735 (-46%)
+S1000 1655 Winter 2000 (-17%)
+S1001 1785 (-11%)
+S1002 Gatwick
+S1003 4870 Summer 6200 (-21%)
+S1004 5150 (-17%)
+S1005 Our previous approach outlined in the consultation stage impact assessment used an average QC to calculate noise quota limits based on the QC per movement of aircraft that operated in the most recent year of data available at the time (winter 15/16 and summer 16).
+S1006 Our new approach, which considers feedback received as part of the consultation, calculates limits using the average scheduled QC per movement over part of the current regime – the three years between winter 14/15 and summer 17.
+S1007 Having considered different methodologies for calculating these reductions and consultation responses, theoretically this is the most appropriate methodology to use because:
+S1008  Using three years’ worth of data means that we can be more certain that any proposed limits are not based on an unrepresentative year.
+S1009 Industry responses to our consultation suggested that one year of data was not an appropriate methodology for basing limits on
+S1010 because the aircraft used in our chosen year for analysis may not be representative of aircraft used in other years which could be used over the course of the next regime; 
+S1011 The purpose of the restrictions are to incentivise airlines to use the quietest aircraft available so our decisions on noise quotas should therefore be based on the aircraft they actually plan to operate.
+S1012 Scheduled data is therefore preferable.
+S1013 A number of consultation responses mentioned that the quota reduction should be based on scheduled as opposed to actual flight data for such reasons; 
+S1014 Whilst we do not have data of aircraft that will operate in the entire current summer 2017 season, we do have scheduled data which allows us to consider the most recent aircraft that are likely to be operating just before the regime starts.
+6 Costs and Benefits Overview
+S1015 As well as creating noise and other negative impacts, night flights also bring a number of benefits.
+S1016 To better understand these impacts, the Department for Transport published the Night Flights Evidence review”, in Night Flying Restrictions at Heathrow, Gatwick and Stansted (2013) which analysed the types of costs and benefits that may be generated by night flights. ** (Reference: 45)
+S1017 These impacts include a range of costs and benefits, as outlined below.
+S1018 Costs:
+S1019  Noise  Air quality  Climate change (including impacts on CO2 emissions)
+S1020 Economic benefits to:
+S1021  Airlines  Airports  Air transport users  Public accounts 
+S1022 Wider economic impacts
+S1023 In addition, the Department for Transport held focus groups in June 2016 with industry and community stakeholders and also sought additional evidence as part of the consultation.
+S1024 The papers issued for these events were published alongside our consultation.
+S1025 The available evidence on the costs and benefits of night flights is summarised in Section 6.1 and Section 6.2 below respectively.
+S1026 As at consultation stage, we have taken a proportionate approach to assessing the impacts of the policy options under consideration on these costs and benefits.
+S1027 As a result we have only monetised the change in the value of the impact of night noise on sleep disturbance, the direct costs to business and the impacts on the public accounts.
+S1028 In addition, having taken on board requests made in consultation responses, we have provided illustrative estimates of the total change in the value of the other impacts of night noise on health where possible to illustrate the potential scale of these impacts.
+S1029 However, as discussed below, the Department’s Transport Analysis Guidance does not contain an approved methodology for ** (Reference: 46)
+S1030 estimating these impacts.
+S1031 For this reason, whilst we have provided estimates to illustrate the potential scale of these impacts, we have not included these in the net present value calculation.
+S1032 In addition, at consultation stage we welcomed further evidence from stakeholders on the impacts of the policy options under consideration.
+S1033 We have considered all the responses we received and have incorporated relevant and robust evidence in to the analysis below.
+6.1 Evidence on costs of night flights
+S1034 This section summarises the available evidence, taking on board those submitted during the consultation and at focus groups, on the costs of night flights.
+S1035 For all of these costs, it is expected that more flights would lead to an increase in costs, and fewer flights would lead to a reduction in these costs.
+S1036 6.1. Noise impacts: Sleep disturbance ** (Reference: 24)
+S1037 Although local communities are exposed to greater levels of aircraft noise during the day-time, night noise is of particular concern due to its interference with normal sleeping patterns.
+S1038 In particular night noise can affect the number of awakenings, the time spent in different stages of sleep and also the quality of sleep.
+S1039 Furthermore, compared to other forms of traffic noise, aircraft noise is intermittent in nature, making it more likely to disturb sleep and elicit stress responses in the body.
+S1040 There has been growing evidence that exposure to higher levels of aircraft noise can adversely affect people’s health.
+S1041 In 2009, the World Health Organization (WHO) published their Night Noise Guidelines for Europe. ** (Reference: 47)
+S1042 These state that between 40 to 55dB LAeq 8 hour, adverse health effects can be observed among the exposed population, and that above 55dB the situation is considered increasingly dangerous for public health, with frequently observed health effects and a sizable proportion of the exposed population highly annoyed and sleep-disturbed. ** (Reference: 48)
+S1043 The noise levels in the WHO guidelines do not refer solely to aviation however, and are based on the level of outside noise from all sources – including other modes of transport.
+S1044 The WHO is expected to shortly publish new guidelines for noise and it is possible these may include specific guidelines for different sources, though at the time or writing no specific details are known. Since we have been unable to complete analysis below 48 dB LAeq 6.5hr, for the reasons outlined in Section 7.2, we have not monetised the benefits of the changes to all exposed populations. ** (Reference: 49)
+S1045 When the night flight restrictions were reviewed in 2013, we acknowledged that the monetisation of health impacts associated with aircraft noise at night represented an important evidence gap.
+S1046 As a result of this evidence gap, the Department for Transport commissioned the Civil Aviation Authority (CAA) to undertake a literature review regarding the effects of night time aircraft noise on local residents. ** (Reference: 50)
+S1047 The CAA’s review, which was published alongside the stage one consultation document, concluded that chronic sleep disturbance as a result of night flights was regarded as a health effect in its own right with a measurable impact on quality of life.
+S1048 In contrast, we have reviewed various studies received as part of the consultation that found the impact night flights have on sleep is minimal.
+S1049 This includes the July (2014) paper published by the German Aerospace Centre, Effects of Nocturnal Aircraft Noise.
+S1050 We have reviewed these studies and concluded that night flights do have an impact on the quality of sleep of local communities and therefore this impact should be quantified.
+S1051 We have therefore monetised the change in the value of the impacts of night flights on sleep disturbance in the night quota period in this impact assessment
+S1052 using an approach consistent with the CAA’s review (see Section 7.3 for a full description of the methodology and key limitations of this analysis) to give an estimate of the impact of our proposals on this.
+S1053 Although new studies have been produced to estimate the impact of noise on sleep disturbance, the approach we have used still remains the most applicable and robust approach for estimating the impact of aviation night noise.
+S1054 6.1. Noise impacts: Other Health impacts ** (Reference: 25)
+S1055 There has been growing research on the link between exposure to aircraft noise and health impacts over the years.
+S1056 For example, the NORAH (Noise-Related **(Link: 6) Annoyance, Cognition, and Health) study, studied the impact of aviation noise (and noise from other transport modes) on health (including cardiovascular disorders), blood pressure and sleep, among other factors. ** (Reference: 51)
+S1057 The CAA’s review, mentioned above, also found evidence that night noise exposure (above 55 dB LAeq,
+S1058 8hr night) results in increased risk of myocardial infarctions (heart attacks) and proposed an approach for monetising this.
+S1059 In addition, there has also been other evidence showing a correlation between noise exposure from night flights and hypertension, which can lead to an increased risk of stroke or dementia.
+S1060 This correlation is from long-term exposure to night noise, for people repeatedly experiencing the immediate stress responses of sleep disturbance. ** (Reference: 52)
+S1061 It is worth noting the impacts mentioned could have distributional impacts as they could be more likely to affect certain vulnerable members of society that may be more sensitive to noise, such as the elderly or those suffering from mental health issues.
+S1062 See Section 11.3 for further details.
+S1063 For stress and mental health effects, the evidence is inconclusive or limited, showing a possible correlation between noise exposure and mental health symptoms (e.g. depression, anxiety), but not problems such as clinically defined psychiatric disorder.
+S1064 The Aviation Environment Federation (AEF) last year also published a paper which synthesised the latest evidence and analysed the Government's current policy with regards to aviation noise. ** (Reference: 53)
+S1065 Given the demand that has been expressed through consultation responses and discussions with stakeholders for these other health impacts to be quantified, we have provided illustrative estimates of the change in the value of the other impacts of night noise on health as a result of our proposals where possible using methodologies for assessing the impacts of changes in daytime noise (see Section 7.4 for details of the methodology used) to illustrate the potential scale of these impacts.
+S1066 However, the Department’s Transport Analysis Guidance does not contain an approved methodology for estimating the change in the value of the other impacts of night noise on health. ** (Reference: 54)
+S1067 For this reason, whilst we have provided estimates to illustrate the potential scale of these impacts, we have not included these estimates in the net present value calculation.
+S1068 These health impacts included covers AMI (acute myocardial infarction), stroke and dementia.
+S1069 The monetised estimates of the impact of a change in noise on these health impacts could be an underestimate since the methodology uses daytime noise effects to make estimates.
+S1070 It should be noted that these figures cannot be used to represent the value the government places on the impacts of these health conditions to individuals or society.
+S1071 This impact assessment solely
+S1072 covers the potential scale of these impacts as a result of the changes in noise impacts of our final policy option i.e. compared with a baseline in which the current regime continues, hence these impact may be smaller than stakeholders might expect.
+S1073 6.1. Noise impacts: Other impacts ** (Reference: 26)
+S1074 For next day effects, there is some evidence to suggest that the night noise resulting from night flights has an effect on heart rate, subjective sleep quality and mood the next day, but there is no consistent scientific evidence of chronic objective effects on stress hormone levels, immune system or performance and productivity of individuals the next day.
+S1075 In relation to the impact on children, the evidence on the impact of these flights is also inconclusive.
+S1076 There has been a growing amount of research, including from the NORAH study previously mentioned and the RANCH (Road traffic and Aircraft Noise and children’s Cognition and Health) study, that noise exposure from aircraft has an effect on cognitive development (particularly on reading and memory skills) and chronic noise may affect children’s stress levels, blood pressure and mental health. ** (Reference: 55)
+S1077 There is also evidence to suggest that aircraft noise may be associated with poorer reading comprehension and recognition memory.
+S1078 However, it is unclear whether the effects are attributable to daytime or night time aircraft noise, and there is no evidence for long-term persistent effects on cognitive development.
+S1079 The Department’s Transport Analysis Guidance also does not specify an approach for analysing situations where noise impacts on potentially noise sensitive groups, such as schools. ** (Reference: 56)
+S1080 Other recent evidence includes a review by Dr Charlotte Clark from Queen Mary University of London, which was undertaken for the Airports Commission. ** (Reference: 57)
+S1081 This concluded that there is increasing evidence on adverse health effects to support the use of prevention measures such as insulation, preventative policy, guidelines, and limit values.
+S1082 The report highlighted the need to improve learning environments for children, and lower the prevalence of cardiovascular risk factors and cardiovascular disease.
+S1083 6.1. Air Quality ** (Reference: 27)
+S1084 Aircraft fuel emissions from all flights, including night flights, cause a negative impact on air quality.
+S1085 This in turn can have negative impacts on human health, as well as on the natural and man-made environment.
+S1086 The key pollutants emitted by aircraft and affecting local air quality are particulate matter (PM10) and oxides of nitrogen (NOx).
+S1087 In general terms, the atmosphere is more stable at night which means that pollutants are dispersed less easily and thus air pollution emission at night can have a greater impact on local air quality.
+S1088 More flights would lead to a worsening of these impacts, and fewer flights would lead to a reduction of these impacts.
+S1089 But, if a reduction of night flights leads to an increase in the number of flights during the day, the impacts on air quality would be lower compared to if the flight took place during the night.
+S1090 We have not attempted to quantify these impacts since it would not be proportionate as we expect these impacts to be minimal given the relatively small change in the overall number of flights at these airports.
+S1091 We received no consultation responses or evidence to counter this approach, which was also taken at consultation stage.
+S1092 6.1. Climate Change ** (Reference: 28)
+S1093 expected to rise further in the coming years.
+S1094 Night flights at Heathrow, Gatwick and Stansted contribute to greenhouse gas emissions.
+S1095 However, we have not attempted to quantify the impacts of the policy options under consideration on greenhouse gas emissions since it would not be proportionate as we expect these impacts to be minimal given the relatively small change in the overall number of flights at these airports.
+S1096 We received no consultation responses or evidence to counter this approach, which was also taken at consultation stage.
+6.2 Evidence on the benefits of Night Flights
+S1097 This section discusses the benefits of night flights.
+S1098 For all of these benefits, it is expected that more flights would lead to an increase in these benefits whilst fewer flights would lead to a reduction in these benefits.
+S1099 None of the impacts of the policy options under consideration at consultation-stage on these benefits were monetised in our consultation-stage IA.
+S1100 However, in this final-stage impact assessment, the direct impacts of our proposals on airlines and airports, and the impacts of our proposals on the public accounts, have been separately monetised (see Section 0 for a detailed description of the methodology we have used to do this).
+S1101 6.2. Airlines and airports ** (Reference: 24)
+S1102 Night flights have a direct impact on airlines profits from increased ticket sales and cargo revenue, as well as ancillary revenues such as charging for food and baggage.
+S1103 However, night flights also incur costs, which include capital costs of an aircraft, maintenance, fuel, staffing and airport charges.
+S1104 Night flights can allow low cost airlines, particularly at Gatwick and Stansted, to have a more flexible business model – allowing for further rotations and being able to absorb the impacts of any delays.
+S1105 In 2014/15, it is estimated that low cost airlines made up around 46% of Gatwick’s movements in the night quota period and around 45% of Stansted’s movements. ** (Reference: 58)
+S1106 Some responses from the consultation stated that a reduction in the ability of low cost carriers to operate a minimum number of rotations per day could make the current business models of some airlines unviable.
+S1107 Placing too large a constraint on night flights could reduce the ability for these airlines to operate viable schedules and could lead to airlines choosing to base their aircraft elsewhere.
+S1108 Night flights can also be used for full service flights.
+S1109 This is evident at all three airports, but makes up a much higher proportion of Heathrow’s flights (estimated to be around 99% in 2014/15).
+S1110 At Heathrow, it is estimated that around 95% of full service flights were arrivals.
+S1111 In 2014/15, in the night quota period, it is estimated that there were around 2,893 charter flights at Gatwick and around 803 at Stansted.
+S1112 Night flights represent an opportunity for charter airlines to increase their number of flights and utilisation of their aircraft.
+S1113 Finally, dedicated freight flights operate in the night quota period.
+S1114 It is estimated that there were around 2 at Gatwick, 8 at Heathrow and around 3,634 at Stansted in 2014/15.
+S1115 Where night flights are permitted, dedicated freight flights can support the express delivery business model.
+S1116 Stansted is an important freight hub and a base for several companies such as FedEx, Titan and TNT, for whom night flights are essential to their business.
+S1117 In the 14/15 season, it is estimated that around 35% of movements at Stansted were dedicated freight flights, compared to less than 1% at Heathrow and Gatwick.
+S1118 Night flights contribute to airports’ profits through landing fee charges and also commercial revenues (for example, through shops and restaurants).
+S1119 They also incur costs which include the fixed costs of keeping the airport open as well as passenger and cargo handling costs.
+S1120 6.2. Air Transport Users ** (Reference: 25)
+S1121 Night flights can benefit air transport users (i.e. business and leisure passengers and air freight service users) in various ways, including by reducing costs to passengers via increasing supply.
+S1122 Passengers would also benefit from the increased flexibility in flight times, allowing them to fly when it is more convenient, which is particularly important for business passengers.
+S1123 For example, at Heathrow, early morning arrivals from the Far East allow business passengers to fly overnight to arrive in the UK for the business day, or to depart on an early morning connection into Continental Europe, despite the hour time difference.
+S1124 The Airports Commission’s Final Report highlighted that arrivals at Heathrow before 6:00am ‘are broadly used to support connectivity to high value long-haul destinations’, such as Hong Kong or Singapore. ** (Reference: 59)
+S1125 For example, in 2014, over half of the capacity for arrivals from Hong Kong and Singapore are scheduled during the 6.5 hour night quota period. ** (Reference: 60)
+S1126 6.2. Public Accounts ** (Reference: 26)
+S1127 Night flights can affect the public accounts directly, through the tax receipts from taxes directly levied on aviation.
+S1128 They can also affect the public accounts indirectly, by altering indirect taxation receipts from goods consumed across the rest of the economy.
+S1129 For example, the APD paid by UK- resident leisure passengers travelling on night flights reduces the amount of income these leisure passengers have to spend on other goods and services in the UK economy, thereby affecting indirect tax revenues.
+S1130 In the leisure market, the direct and indirect public account affects therefore partially offset each other.
+S1131 6.2. Wider Economic Impacts ** (Reference: 27)
+S1132 Night flights have wider impacts on the UK economy.
+S1133 The nature of these impacts are not clear-cut and are a source of debate. For example, Oxford Economics’ (2011) identify a range of ways in which night flights benefit the wider economy including: opening up markets and fostering international trade; encouraging investment in the UK by domestic and foreign investors; improving business efficiency and raising productivity; and spurring growth in the tourism economy. ** (Reference: 61)
+S1134 Night flights also affect employment levels, both directly through changes in employment by airlines, airports and other companies operating at the airport, and indirectly via the impact on companies in the supply chain (e.g. aircraft parts/equipment by airlines) and the wider economy.
+S1135 Therefore night flights are likely to increase employment.
+S1136 Night shifts are also likely to entail a wage premium, providing a further injection into the local economy, these incomes can be spent on consuming goods in nearby markets – which could generate growth around the airports.
+S1137 In order to provide next-day and express delivery services, airlines need to operate at precise times during the night to fit in with complicated distributional networks.
+S1138 According to the Association of International Courier and Express Services (AICES), the express delivery sector contributed £2.3 billion to UK GDP and facilitated £116 billion to UK exports in 2010. Firms pay a premium to use these ** (Reference: 62)
+S1139 services even though they could pay less for a slower delivery, demonstrating their preference for fast delivery.
+S1140 A report by the Aviation and Travel Consultancy found that around 40% of businesses would have to increase their inventories if next-day services were unavailable, which gives an idea of the scale of these efficiency savings to the UK economy as a whole. ** (Reference: 63)
+S1141 Higher profits for businesses, through cost savings and efficiency gains, can increase investment, a key driver of long-term productivity.
+S1142 However, these statistics consider the express delivery service sector as a whole, not just aviation, therefore the direct impact that express delivery by air has on the economy would be lower.
+S1143 Wider economic impacts are difficult to monetise due to the issues with identifying the impacts as a direct, or even indirect result of night flights.
+S1144 However, due to the evidence demonstrating their existence, we have categorised them to add context to our qualitative analysis.
+S1145 6.2. Airline and Passenger Responses ** (Reference: 28)
+S1146 At consultation stage we identified a wide variety of potential passenger and airline responses to the policy options under consideration.
+S1147 These indicated that how passengers and airlines responded would have an important influence on the impacts of the policy options under consideration.
+S1148 For example, if a particular night flight no longer took place, passengers may reschedule to a later flight, fly to another UK airport, fly to another non-UK airport, or choose not to fly.
+S1149 As part of the consultation we welcomed any evidence from stakeholders on the likely responses of airlines and passengers to the policy options under consideration.
+S1150 There has been no substantial or robust evidence to suggest what the most appropriate airline and passenger response would be, but several indicated that rescheduling flights would be extremely difficult for a number of reasons, including limited day time slot availability.
+S1151 6.2. Consumer Choice and competition ** (Reference: 29)
+S1152 It is likely that when there are more slots available, there is a wider range of options for consumers regarding choice of destination and flight times.
+S1153 Plus, as mentioned in Section 6.2.1, if a reduction in the number of flights meant that an airline’s business model is no longer viable, there could be a reduction in the provision of low-cost flights at these airports.
+S1154 This could impact upon consumer choice if certain destinations or flight times were no longer available from these airports.
+S1155 Given the existing capacity constraints within the south east, there is limited scope for existing night flights to be retimed to other parts of the day, meaning that a very large reduction or a night flight ban could have a material impact on choice for customers of low-cost airlines.
+S1156 Since there has been no substantial or robust evidence to suggest what the most appropriate airline and passenger response would be to reductions in the number of night flights, it is not possible to quantify and monetise the impacts on consumer choice and competition.
+7 Methodology
+S1157 This section summarises the methodology used for the quantitative analysis of the impacts of the policy options that is presented in this IA.
+S1158 Where quantitative analysis is presented for a policy option, this analysis has four key parts.
+S1159 1. Estimating the number of night flights that would occur in the night quota period at each airport under the Do Minimum scenario and the policy option.
+S1160 2. Estimating the number of people affected by night noise in the night quota period at each airport under the Do Minimum scenario and the policy option.
+S1161 3. Estimating the value of the impact of night noise changes on sleep disturbance (and other health impacts) in the night quota period at each airport for the policy option compared to the Do Minimum scenario.
+S1162 4. Estimating the value of the economic impacts of a change in the number of flights in the night quota period for the policy option compared to the Do Minimum scenario, specifically the direct impacts on airlines and airports, and the impacts on the public accounts, which are estimated separately.
+S1163 The analysis has a number of limitations, which means that the results of the quantitative analysis are subject to considerable uncertainty.
+S1164 This means that there is uncertainty around both the impacts on the policy options and any comparisons that are made..
+S1165 It should be noted that where estimates are presented for a full year (e.g. 2017/18), seasons are aggregated as follows: 2017/18 is the total for the 2017/18 winter and the 2018 summer seasons.
+S1166 For any estimates presented in present value terms, the present value base year is 2017.
+S1167 All monetary estimates produced by this analysis are presented in constant prices and have a price base year of 2015.
+S1168 The appraisal period is 5 years, since the policy only exists for this time period.
+S1169 Where relevant, the discount rate is 3.5% per year over this period.
+S1170 This is consistent with the guidance in the Better Regulation Framework Manual.
+7.1 Estimating the number of night flights
+S1171 7.1. Summary ** (Reference: 24)
+S1172 In order to estimate the number of night flights that would take place in the night quota period at each airport under the Do Minimum scenario and the policy option, the Department has developed a suite of spreadsheet models.
+S1173 For each scenario, these models estimate the following outputs for each year of the night flights regime split between the summer and winter seasons:
+S1174  the total number of movements in the night quota period at each airport;
+S1175  the total number of movements in the night quota period at each airport excluding any movements by aircraft with a QC of 0; and
+S1176  the total noise quota usage at each airport.
+S1177 The key outputs for the Do Minimum scenario, the final policy option and the other policy options considered are presented in Appendix C.
+S1178 In addition, the models produced can provide more disaggregated outputs.
+S1179 We have therefore used them to estimate the total number of movements in the night quota period at each airport in the first and last years of the next night flights regime (2017/18 and 2021/22) by aircraft type.
+S1180 This information was provided to the CAA in order to estimate the number of people affected by night noise where relevant.
+S1181 7.1. Approach ** (Reference: 25)
+S1182 The first stage of the analysis is to develop an unconstrained scenario for each airport.
+S1183 This scenario estimates what would happen in the night quota period at each airport in the absence of any night flight restrictions.
+S1184 At a high level, this has been undertaken as follows:
+S1185  The starting point for the analysis is CAA data on air transport movements during the night quota period at each airport in the 2015/16 winter and 2016 summer seasons.
+S1186 Included in this data is the type of aircraft and the QC assigned to each movement;
+S1187  Assumptions about the future growth of night flights in the Night Quota Period (NQP) at each airport in each year of the next night flights regime in the absence of any night flight restrictions have been made based on information from or discussion with each of the airports.
+S1188 These are then used to estimate the total number of movements during the night quota period;
+S1189  Use DfT model to estimate the future fleet mix used during the NQP at each airport in each year of the next night flights regime.
+S1190 This modelling is used to split the total number of movements in the night quota period in each year of the next night flights regime between aircraft types; and
+S1191  Finally, CAA data and assumptions on the average QC per movement for each aircraft type are then used to estimate total QC in each year of the next night flights regime.
+S1192 The second stage of the analysis is to model the policy scenario.
+S1193 The models allow us to model the movement and noise quota limits separately for each season, and to model the system of carryovers and overruns separately for movements and noise quota.
+S1194 However, given the complexity of the night flights regime, the models necessarily adopt a number of simplifying assumptions about industry behaviour.
+S1195 The key assumptions are as follows:
+S1196  Based on existing traffic patterns at each airport, we have assumed that Stansted and Gatwick will seek to maximise the total number of movements in the night quota period in the summer season and that Heathrow will seek to maximise the total number of movements in the night quota period in the winter season;
+S1197  Where it is necessary in order to maximise the number of movements in the above season, it has been assumed that the airport will use their option to carry over up to 10% of their movement limit and/or noise quota limit from the previous season, and their option to over- run their movement limit and/or noise quota limit in this season by up to 10%;
+S1198 
+S1199 Whilst the airports also have the option to over-run their movement limit and/or noise quota limit in this season by up to 20%, we have used a simplifying assumption that industry will not use this due to the higher penalty that results from this (see Section 1.2); and
+S1200  Where the total number of movements and / or noise quota usage in any season would still be above the maximum allowed under the policy scenario even after carryovers and overruns are taken into account, we have adopted the simplifying assumption that the number of movements by each aircraft type will be reduced by an equal percentage until this is achieved.
+S1201 It should be noted that the results of this analysis are very sensitive to these assumptions.
+S1202 The input data used in this analysis and the key limitations of this data are described in more detail in the following sections.
+S1203 7.1. CAA data and assumptions ** (Reference: 26)
+S1204 A general limitation is that this analysis is based on the data provided to the DfT by the CAA on the 2015/16 winter and 2016 summer seasons, which was the latest full year of data available at the time the models used for this analysis were developed.
+S1205 It is possible that this data may have small inaccuracies within it such as the wrong aircraft name, assigned quota value to that flight or age of the aircraft.
+S1206 In addition, no analysis has been conducted to determine if that year's data was typical in comparison to other year's data.
+S1207 An example of the importance of this data is when determining the total noise quota usage at each airport, in each year of the next night flights regime.
+S1208 This was completed separately for arrivals and departures, with the approach used to assign a quota count to each aircraft type depending on whether the aircraft type was used for arrivals and/or departures in 2015/16.
+S1209  Where possible, we used the average quota count for that aircraft type for that specific airport and split by arrivals and departures using CAA’s data for the 2015/16 winter and 2016 summer seasons (e.g. the average QC for an Airbus A319 at Heathrow in the winter season on arrival being 0.25);
+S1210  Where this information was not available for that specific category (e.g. an aircraft type was used at a different airport), then a standard set of QC assumptions were used based on the average QC across all three airports but split between arrivals and departures; and
+S1211  Where an aircraft type was not used for any arrival or departures in the 2015/16 winter and 2016 summer seasons (e.g. new aircraft types such as the A320neo), we used assumptions from the CAA about the QC that would be assigned to these aircraft types.
+S1212 Where an aircraft has already been certified, it should be noted that the CAA’s assumptions represent the highest QC that an aircraft could be (e.g. the A320neo is assumed to be QC/0.25 on departure).
+S1213 In addition, where new aircraft types have not been certified yet, it should be noted that the CAA’s assumptions represent their worst-case estimates of the QC that could be assigned to these aircraft.
+S1214 7.1. DfT modelling of the future fleet mix ** (Reference: 27)
+S1215 This section provides further details of the DfT Fleet Mix Modelling in order to understand composition of future aircraft types and their impact on future quota count usage at each airport during the years of the night flights regime.
+S1216 Using winter 2015/16 and summer 2016 data supplied to us by the CAA on night flight movements described in Section 7.1.3, we have undertaken a bespoke fleet modelling exercise as part of our aviation modelling framework to forecast the future composition of night flights at each of the three airports.
+S1217 The data received from the CAA was further processed to remove air traffic movements deemed insignificant for the purpose of this exercise.
+S1218 The model estimates the proportions of night flights being carried out by each aircraft type for four carrier types (Scheduled, Chartered, Low cost carrier or Freighter) and six seat classes (c1: 0-70 seats, c2: 71-150 seats, c3: 151-250 seats, c4: 251-350, c5: 351–500 seats and c6: 500+ seats).
+S1219 During the forecasting process for subsequent years, the model retires old aircraft and replaces them with new aircraft types.
+S1220 The models use data on existing age of the aircraft and assumes default retirement ages of 22 for full service flights, 22 for low cost flights, 25 for charter flights and 35 for freighters (except when aircraft specific data is available).
+S1221 We split the data by airport, season and by arrivals/departures, resulting in a different model for each (for example, Heathrow Winter Arrivals).
+S1222 The models further split aircraft into seat band categories and carrier type (for example, ‘Low cost seat class 3’).
+S1223 When an aircraft is retired, it is replaced by aircraft from the supply pool.
+S1224 Supply pools were reviewed and updated for this exercise, including incorporating evidence received through the consultation.
+S1225 The model allows us to forecast fleet mix changes until 2028, including the introduction of new aircraft models in that period.
+S1226 Non-commercial aircraft were not forecast due to often incomplete data, nor were freighters at Heathrow and Gatwick since there were extremely low numbers at these airports; instead, the fleet mix for these movements was assumed to remain constant over time.
+S1227 It is important to recognise that our fleet mix model is a national level model and so the underpinning assumptions in this model are not tailored to the individual airports.
+S1228 A particular limitation of this modelling is that it assumes that aircraft are flown until an assumed retirement age at which point they are replaced by new aircraft from the supply pool.
+S1229 This means that new aircraft types only enter the fleet when existing aircraft retire.
+S1230 However, in practice, given that night flights represent a small subsection of total flights, airlines could reallocate or rebase their aircraft to avoid certain aircraft
+S1231 flying in the night quota period and bring alternative aircraft into the night quota period.
+S1232 In addition, where demand for night flights is growing, airlines could purchase new aircraft types to cater for this demand.
+S1233 As a result, for a given amount of night flights, this analysis may underestimate the proportion of night flights in the night quota period that will be performed by new aircraft types such as the Airbus A320neo and the Boeing 737 Max.
+S1234 The Airbus A320neo entered worldwide service in January 2016.
+S1235 We estimate that easyJet accounted for around 72% of all night-time Airbus A320 movements at Gatwick in 2015/16 and have also placed a firm order for 130 A320neos for delivery between 2017 and 2021/22. ** (Reference: 64)
+S1236 Based on current information available and assuming easyJet retire no current aircraft, that would result in more than a third of easyJet’s fleet being comprised of the A320neo by 2021/22. ** (Reference: 65)
+S1237 In contrast, our modelling estimates that the proportion of A320neos used at Gatwick during the next night flights regime is negligible.
+S1238 The A320neo is currently certified as QC/0 on arrival and can be QC/0 or QC/0.25 on departure depending on the engine manufacturer.
+S1239 This means, in our Do Minimum scenario, there could potentially be a large number of QC/0 movements by A320neos that are not being accounted for, particularly at Gatwick.
+S1240 Furthermore, a number of other new aircraft types are yet to be certified but could potentially also be certified as QC/0.
+S1241 Other things being equal, this could mean that our estimates of the Do Minimum scenario represent an underestimate of the night noise under a continuation of the current regime scenario.
+S1242 Consultation evidence from airlines confirmed that more of these new aircraft types such as the A320neo and the Boeing 737 Max are going to be introduced into the fleet over the course of the next regime.
+S1243 Some stakeholders provided detail on how they plan on introducing these aircraft into their fleets, which has been incorporated into the DfT fleet mix model.
+S1244 It should also be noted that this is the first time that the DfT’s fleet mix model has been applied to freighters.
+S1245 As a fleet, there are differences compared to passenger aircraft in terms of retirement ages and the range of planes, meaning it was a challenge to draw up the new supply pools to include in this model.
+S1246 This means these forecasts are not as robust as the forecasts for passenger aircraft.
+S1247 In particular, the results are very sensitive to the default retirement age of 35 years for freighters, which has been assumed for the purposes of this analysis and was confirmed through discussions with industry.
+S1248 7.1. Assumptions about the future growth of night flights ** (Reference: 28)
+S1249 There is significant uncertainty around what the future growth of night flights in the night quota period would be in the absence of any restrictions in future years.
+S1250 However, it is necessary to make assumptions about this in order to estimate the number of night flights that would take place under each of the policy scenarios.
+S1251 Since the Department’s aviation model does not produce forecasts of night flights, we have consulted with Heathrow, Gatwick and Stansted and the latter two have provided growth rate forecasts on their forecast movements for the coming years. ** (Reference: 66)
+S1252 The impact assessment therefore assumes that the number of night flights in the night quota period would grow over time in line with forecasts provided to us by Gatwick and Stansted in the absence of any night flight restrictions.
+S1253 In addition, Heathrow is operating at virtually the maximum capacity permitted under the Terminal 5 planning conditions (480,000 movements per year), and it was agreed with Heathrow that it was reasonable to assume that there would be no growth in the night quota period in future years for the purposes of this impact assessment.
+S1254 It should be noted that Gatwick and Stansted’s night flights forecasts are higher than the overall growth estimated by the DfT Aviation Model for these airports.
+S1255 Where the actual growth in night flights differs in practice from the assumptions we have made for the purposes of this impact assessment, this could potentially significantly alter the impacts of the policy options that have been estimated.
+S1256 In particular, if our assumptions overestimate the growth in night flights, this could reduce the impacts of the policy options that have been estimated; whereas, if our assumptions underestimate the growth in night flights, this could increase the impacts of the policy options that have been estimated.
+7.2 Estimating the number of people affected by night noise
+S1257 In 2016, the CAA published a paper, 'Aircraft noise and health effects: Recent findings' which examines evidence on the relationship between aircraft noise and health that has been published since 2009. ** (Reference: 67)
+S1258 The report concluded that with regards to night noise, sleep disturbance and health impacts, there has been growing recognition that average indicators, such as Lnight, are insufficient to fully predict sleep disturbance, sleep quality and impact on health; this was also emphasised in numerous consultation responses we received and highlights the uncertainty around the monetisation of impacts of changes to the night flights regime.
+S1259 At this time, however, no alternative metrics exist that can be monetised and no robust alternative that could be applied to estimate the impacts of the regime were submitted as part of the consultation.
+S1260 Given these limitations, to supplement the monetised estimates, changes in the number of flights and quota usage are also presented with the assessment of the policy options.
+S1261 Some consultation responses requested for impacts to be modelled at contours below 48 dB LAeq 6.5hr.
+S1262 We are unable to produce contour maps below 48
+S1263 dB LAeq 6.5hr however as it becomes more difficult to measure aircraft noise levels at these greater distances from airports.
+S1264 The reason for this is that at these distances, aircraft noise levels are much closer to those of other noise sources.
+S1265 Since the CAA use real measurements to validate their noise model (ANCON model, see below) that is used to create noise contours, the ability to validate the model reduces with increased distance, leading to increased uncertainty in the position of the contours lines.
+S1266 There is also greater variability in the position of aircraft at these distances from the airport, which further increases the uncertainty of the noise from an individual aircraft at a specific location.
+S1267 As a means of comparison between options however, it is possible to monetise the impacts on communities down to 45dB LAeq 6.5hr and this has been carried out as part of this assessment.
+S1268 This lower level contour is relevant only for sleep disturbance based on the dose-response function.
+S1269 Current evidence which informs the Department for Transport’s noise assessment methodology assumes that health impacts on stroke and dementia are only expected to occur from 50dB LAeq 6.5hr and on acute myocardial infarctions (AMI) from 58dB LAeq 6.5hr based on dose-response functions – both adapt day-time noise impacts to night time noise impacts for the purposes of this impact assessment (see Section 7.4 for more details). ** (Reference: 68)
+S1270 The level of 40dB Lnight, which many consultation responses referred to as the necessary level for analysing impacts, is the level at which the World Health Organization states adverse health effects can be observed in the exposed population.
+S1271 There is however no recommendation (by the WHO) for noise contours to be produced to this level.
+S1272 It is also worth noting that whilst some adverse effects can be observed as low as 40dB Lnight, exposure levels below 45dB Lnight were subsequently excluded
+S1273 from the WHO analyses that contributed to the exposure-response relationships in the WHO’s 2011 ‘Burden of disease from environmental noise’.
+S1274 The reason for this was because 'the assessment of those noise levels was relatively inaccurate and other sources may be more important in situations with these low levels'.
+S1275 All estimates of the number of people affected by night noise in the night quota period at each airport under the Do Minimum scenario and the other policy options were produced by the Civil Aviation Authority (CAA) and comply with the requirements on noise mapping under the rules governing the introduction of operating restrictions.
+S1276 It is worth noting we assume a fixed number of households in a contour over time i.e. no population growth, as recommended in the Department’s Transport Analysis Guidance. ** (Reference: 69)
+S1277 The estimates of the number of people affected were generated by calculating noise contours using the UK Civil Aircraft Noise Contour model ANCON (version 2.3), which is developed and maintained by the CAA on behalf of the Department and which the Department’s Transport Analysis Guidance suggest is most appropriate for modelling the impacts of aviation noise. ** (Reference: 70)
+S1278 ANCON is fully compliant with the latest international guidance on noise modelling from ECAC (ECAC.CEAC Doc 29 (4th edition), published in December 2016) and ICAO (ICAO Doc. 9911, published 2008). These guidance documents represent internationally agreed best practice as implemented in modern aircraft noise models. ** (Reference: 71, 72)
+S1279 However, since the DfT’s analysis is used as an input to ANCON, the results are also subject to the limitations described above on the models in Section 7.1.
+7.3 Estimating the value of the impact of the change in night noise on sleep disturbance
+S1280 Where monetary estimates of the impact of the change in night noise on sleep disturbance in the night quota period are presented in this impact assessment, we have calculated these estimates using the latest environmental guidance published by the Department’s Transport Analysis Guidance (TAG) unit.
+S1281 This guidance reflects the latest Defra guidance on the valuation of transport-related noise.
+S1282 This uses noise contour and population estimate results to consider the costs associated with sleep disturbance.
+S1283 The TAG methodology on sleep disturbance is consistent with the methodology developed previously by the CAA on behalf of the Department and reported in Environmental Research and Consultancy Department (ERCD) Report 1209. ** (Reference: 73)
+S1284 For sleep disturbance, the TAG methodology uses WHO-recommended relationships for estimating the number of people said to be Highly Sleep Disturbed (HSD), based on studies of self-reported sleep disturbance.
+S1285 These are based on 8 hour Lnight (2300-0700) noise exposure.
+S1286 A limitation of our analysis is that we have used data for the LAeq, 6.5 hour night period in place of data on the 8 hour Lnight period to implement this methodology.
+S1287 As explained in ERCD Report 1209, arguments can be put forward that the dose-response function for the LAeq, 6.5 hour night period will be different to the 8 hour Lnight period.
+S1288 On balance however, and in the absence of data to the contrary, the ERCD report concluded there was no strong evidence to alter the dose-response functions and that data on the LAeq, 6.5 hour night period could be substituted for 8 hour Lnight data as required without further adjustment.
+S1289 We have therefore adopted this approach in this impact assessment.
+S1290 However, to the extent that there are any
+S1291 differences in the dose-response functions between the LAeq, 6.5 hour night and periods in practice, this would introduce uncertainty surrounding the results of this analysis. ** (Reference: 74)
+S1292 An alternative to using LAeq, 6.5 hour night exposure results would have been to model future changes in noise exposure over the 8 hour Lnight caused by forecast changes in night restrictions that apply to the LAeq, 6.5 hour night period.
+S1293 This approach would require assessment of the possible displacement of flights from the 6.5 hour night quota period (NQP) into the shoulder hours.
+S1294 However, because there are approximately three to four times as many flights in the shoulder hours compared to the NQP, any changes during the NQP will be averaged over the full 8 hour night.
+S1295 In addition, because the daytime period is capacity constrained at both Heathrow and Gatwick, the extent to which flights could be displaced into the shoulder periods would be subject to greater uncertainty than using the LAeq, 6.5 hour night noise exposure results directly.
+S1296 Therefore we have used the LAeq, 6.5 hour night approach, but any monetised noise estimates in this impact assessment could be considered to be an underestimate of the actual impact since, typically, a LAeq, 6.5 hour night level is slightly lower than an 8 hour Lnight level at a given location around an airport. ** (Reference: 75)
+S1297 Given the size of the expected impacts for these policy scenarios, to keep the analysis proportionate, the noise impact analysis described in Section 8 has only been undertaken using the ANCON model for the first and the last years of the next night flights regime, 2017/18 and 2021/22.
+S1298 For the years modelled, we have used the results of the ANCON modelling directly to estimate the monetary value of the impact of the change in night noise on sleep disturbance.
+S1299 Monetary valuation of changes in noise is based on estimation of the number of Disability-Adjusted Life Years (DALYs) lost (or gained) under each scenario, assuming a value of £60,000 per DALY.
+S1300 This valuation is based on the recommendations of the study: Environmental noise: Valuing impacts on: sleep disturbance, annoyance, hypertension, productivity and quiet (Defra, 2014) and their accompanying noise modelling tool. ** (Reference: 76)
+S1301 More detail on the derivation of the values and underlying research is given in that report.
+S1302 For other years, we have adopted a simplified approach and interpolated the monetary value of the impact of the change in night noise on sleep disturbance using the 2017/18 and 2021/22 results.
+S1303 In order to do this, the key simplifying assumption that was made is that the monetary value of the impact of the change in night noise on sleep disturbance is linearly related to the change in the total noise quota usage under the policy option compared to the Do Minimum scenario. However, it should be noted that the use of this simplifying assumption results in these estimates being subject to additional uncertainty. ** (Reference: 77)
+S1304 No analysis has been undertaken on any impacts on noise outside the night quota period.
+S1305 The impact of a reduction in night flights in the night quota period depends on whether flights are rescheduled or cancelled.
+S1306 Plus, if rescheduled, the time to which a flight is moved would change the impact.
+S1307 It has not been possible to predict the time to which a flight is rescheduled or if it would be cancelled using our available evidence base at this time.
+S1308 Whilst we sought additional evidence as part of the consultation to facilitate this, we did not receive any robust evidence to inform what would happen to noise impacts outside the night quota period.
+7.4 Estimating the scale of other noise impacts on health
+S1309 At consultation stage, we did not estimate the value of any other impacts of night noise on health since the Department’s Transport Analysis Guidance does not include an approved method for the monetisation of the risk of myocardial infarctions, stroke or dementia for noise at night. ** (Reference: 78)
+S1310 However, consultation responses from communities and local authorities and discussions with stakeholders stated that excluding these resulted in an underestimate of the health impacts associated with night noise.
+S1311 In response, we have therefore provided illustrative estimates of the change in the value of these other health impacts of night noise to illustrate the potential scale of these impacts.
+S1312 As there is no approved methodology for estimating changes in the risk of these health outcomes as a result of night noise exposure, we have assessed it using the approved methodology for day time noise.
+S1313 This approach has been agreed by the CAA.
+S1314 Given that night noise levels are generally lower however, the results of this monetisation are small and are likely an underestimate of costs associated with changes in night noise.
+S1315 These estimates may also appear small given our approach illustrates the scale of impact of a change in policy relative to the current regime.
+S1316 Given these reasons we have combined the results of the monetisation of these impacts when assessing the impact of different policy options.
+S1317 These illustrative estimates of the change in the value of the other impacts of night noise on health as a result of our proposals were estimated using methodologies in the Department’s Transport Analysis Guidance for assessing the impacts of changes in daytime noise.
+S1318 This methodology was implemented based on a similar approach as for estimating sleep disturbance impacts.
+S1319 For the years modelled using the CAA’s ANCON model (2017/18 and 2021/22), we have used the results of the ANCON modelling directly to estimate the monetary value of these impacts; and for other years, we have adopted the same simplified approach as for the sleep disturbance impacts and interpolated the monetary value of the impacts for the intervening years using the 2017/18 and 2021/22 results (see Section 7.3 for further details).
+S1320 Whilst we have provided estimates to illustrate the potential scale of these impacts, we have not included these estimates in the net present value calculation given the limitations in the methodology described above.
+7.5 Estimating the value of the economic impacts of a change in the number of flights in the night quota period
+S1321 In order to inform this impact assessment, the Department commissioned SYSTRA to undertake a research project to improve our ability to estimate the economic impacts of potential changes to the night flights regime.
+S1322 A report outlining the methodology and findings of this research project will be published shortly, alongside an independent peer review of the project by Leeds ITS.
+S1323 The Department has carefully considered how the findings of this research project should inform this impact assessment, and adapted the methodology developed by SYSTRA in order to separately estimate the direct impacts on airports and airlines, and the impacts on the public accounts, where the policy option under consideration changes the number of flights in the NQP at an airport in comparison to the Do Minimum scenario.
+S1324 The analysis of the economic impacts of a change in the number of flights in the NQP has been undertaken separately for each airport.
+S1325 For the purposes of this analysis, flights in the NQP at each airport have been grouped together into ‘flight groups’ on the basis of the following dimensions: carrier type, seat class, season (summer or winter), direction (arrival and departure) and QC.
+S1326 This is felt to be a proportionate level of disaggregation given the evidence available from the research project and the need to reconcile this with our analysis of the change in the number of flights in the NQP at each airport.
+S1327 7.5. Common step ** (Reference: 24)
+S1328 A common step for both strands of the analysis of the economic impacts of a change in the number of flights in the NQP is to aggregate the estimates of the change in the number of flights in the NQP for the policy option under consideration compared to the Do Minimum scenario, which have been estimated using the approach described in Section 7.1, into the flight groups described above.
+S1329 It should be noted that the estimates of the economic impacts presented in the impact assessment are therefore sensitive to the assumptions made when estimating the change in the number of flights in the NQP.
+S1330 A key example of this is that, where the total number of movements and / or noise quota usage in any season would still be above the maximum allowed under the policy scenario even after carryovers and overruns are taken into account, we have adopted the simplifying assumption that the number of movements by each aircraft type will be reduced by an equal percentage until this is achieved (see Section 7.1.2).
+S1331 In reality, this percentage would be expected to vary between different aircraft types and is subject to uncertainty.
+S1332 So, this is an important factor that contributes to the uncertainty around these results.
+S1333 7.5. Impacts on business ** (Reference: 25)
+S1334 Direct impacts
+S1335 When seeking to identify the direct impacts of this measure on business, the Department has carefully considered the relevant guidance from the RPC and the guidance in the Better Regulation Framework Manual. ** (Reference: 79)
+S1336 A direct impact on business is defined as “an impact that can be identified as resulting directly from the implementation or removal/simplification of the measure”.
+S1337 Taking this into account and given the nature of the changes to the night flights restrictions that are being considered, the Department considers that only airlines and airports will be directly impacted by this measure; and that the direct impacts on airports and airlines are the impacts on their profitability that are a direct consequence of the change in the number of flights that are allowed in the NQP as a result of our proposals.
+S1338 Furthermore, for the purposes of this impact assessment, the Department considers that any impacts on the prices that are charged by airports and airlines, any impacts on the load factors on other flights or any rescheduling, and any knock-on impacts on business passengers should be treated as indirect impacts of this measure.
+S1339 In order to estimate the direct impacts on business, the next consideration is therefore how best to estimate the impacts on airports and airlines profitability that are a direct consequence of the change in the number of flights that are allowed in the NQP under our proposals in comparison to the Do Minimum scenario.
+S1340 Having considered the evidence at our disposal, the Department has
+S1341 decided that this should be estimated for each flight group used in the analysis by multiplying the estimated average profitability for airports and airlines per flight in the NQP for each flight group, by the estimated change in the number of flights in the NQP for the policy option under consideration compared to the Do Minimum scenario for the flight group.
+S1342 The results are then aggregated for all flight groups to produce the estimates quoted in Section 8 of this impact assessment.
+S1343 For the purposes of this impact assessment, the Department has estimated the average profitability for airlines per flight in the NQP for each flight group as the average airline operating margin per flight in the NQP for the flight group on the basis of the definition of the airline operating margin used by SYSTRA in the research project, which is reproduced below. The Department has estimated this using the estimates of these costs and revenues in the 2014/15 base year (in 2015 prices) included in the models developed by SYSTRA as part of the research project, which are in turn based on SYSTRA’s analysis of data obtained from RDC Aviation. ** (Reference: 80, 81)
+S1344 In the absence of any robust evidence on how these revenues and costs would change in real terms over time, it has been assumed that the value of these revenues and costs would remain constant in real terms over time.
+S1345 “Airline Operating Margin = (RP + RC) – CO
+S1346 where
+S1347 RP = Revenue from Passengers (including ancillary revenue)
+S1348 RC = Revenue from Cargo
+S1349 CO = Direct Operating Costs of the Flight"
+S1350 Furthermore, for the purposes of this impact assessment, the Department has estimated the average profitability for airports per flight in the NQP for each flight group as the average airport operating margin per flight in the NQP for the flight group on the basis of the definition of the airport operating margin used by SYSTRA in the research project, which is reproduced below. Again, the Department has estimated this using the estimates of these costs and revenues in the 2014/15 base year (in 2015 prices) included in the models developed by SYSTRA as part of the research project, which are in turn based on SYSTRA’s analysis of published airport accounts and airport charges. ** (Reference: 82)
+S1351 In the absence of any robust evidence on how these revenues and costs would change in real terms over time, it has been assumed that the value of these revenues and costs would remain constant in real terms over time.
+S1352 “Airport Operating Margin = (RLC + RTC+RSP) – CO
+S1353 Where
+S1354 RLC = Revenue from Landing Fees (levied on the airlines)
+S1355 RTC = Other Airport Charges (levied on airlines)
+S1356 RSP = Passenger Spending at the Airport
+S1357 CO = Operating Costs”
+S1358 Where there were no flights in a given flight group in the 2014/15 base year in SYSTRA’s models and hence no estimates of these costs and revenues are available specifically for the flight group, the Department has adopted a similar approach to SYSTRA in dealing with this issue, and estimated the average profitability for airports and airlines per flight in the NQP for the flight group at a more aggregate level.
+S1359 In implementing this, the level of aggregation has been increased progressively by dropping one of the dimensions (in the same order as SYSTRA) until aggregated estimates of these costs and revenues are available to produce an estimate of the average profitability per flight in the NQP for the flight group as follows:
+S1360  level 1: carrier type, seat class, direction and QC (season has been dropped);  level 2: carrier type, seat class and QC (direction has been dropped);  level 3: seat class and QC (carrier type has been dropped); and  level 4: QC only (seat class has been dropped).
+S1361 A key exemption to this is for “non-commercial” flights, such as government flights and general aviation.
+S1362 SYSTRA’s models do not include any estimates for “non-commercial" flights which enable the average profitability per flight in the NQP to be estimated for these flights, and hence the Department has excluded these flights from this aspect of the analysis.
+S1363 Non-commercial flights make up around 1% of movements at Gatwick and Heathrow and around 8% at Stansted.
+S1364 In addition, it should be noted that the estimated average profitability for airports and / or airlines per flight in the NQP for a flight group is negative in some cases.
+S1365 That is, it is estimated that costs are greater than revenues for airports and / or airlines on the basis of the estimates included in SYSTRA’s models.
+S1366 Where this is the case, the Department has taken a conservative approach in this analysis, and set the average profitability for airports and / or airlines per flight in the NQP for the flight group to zero.
+S1367 This is conservative because it has the effect of increasing costs.
+S1368 Finally, it should be noted that the estimates generated by this approach are sensitive to the inputs that have been used (particularly the estimates of costs and revenues in the 2014/15 base year (in 2015 prices) included in the models developed by SYSTRA as part of the research project), the assumptions described above and the other methodological choices that have been made.
+S1369 Therefore, the estimates of the direct impacts on airports and airlines presented in the impact assessment are subject to considerable uncertainty.
+S1370 Nevertheless, given the scale of the changes to the night flights regime under consideration and the evidence at our disposal, the Department considers that the approach taken is a proportionate approach for estimating these impacts in Section 8, and for estimating the equivalent annual net direct cost to business (EANDCB) in Section 10.
+S1371 Indirect impacts
+S1372 As noted above, for the purposes of this impact assessment, the Department considers that any impacts on the prices that are charged by airports and airlines, any impacts on the load factors on other flights or any rescheduling, and any knock-on impacts on business passengers should be treated as indirect impacts of this measure.
+S1373 The Department has not sought to estimate the value of any of these indirect impacts of our proposals on business in this impact assessment.
+S1374 The reasons for this are explained below.
+S1375 Firstly, regarding any impacts on the prices that are charged by airports and airlines, it should be noted that the approach used to estimate the direct costs to business above implicitly assumes that prices remain the same under the policy option as under the Do Minimum scenario.
+S1376 As part of the research project, SYSTRA developed an approach for estimating how changes to the night flights regime could impact on air fares.
+S1377 For example, airlines may have the ability to charge higher air fares for flights in the NQP where the number of flights allowed in the NQP under the night flights regime is reduced.
+S1378 However, the Department considers that this aspect of SYSTRA’s approach is particularly innovative.
+S1379 So, the Department has decided that further review would be required before making use of this in our work, and it has not therefore been utilised for the purposes of this impact assessment.
+S1380 Secondly, regarding any impacts on the load factors on other flights or any rescheduling, it should be noted that the approach used to estimate the direct costs to business above implicitly assumes that load factors on both flights in the NQP and flights outside the NQP remain the same under the policy option as under the Do Minimum scenario, and also implicitly assumes that there is no rescheduling of flights.
+S1381 This would not necessarily be the case in practice and such indirect impacts could potentially mitigate some of the direct impacts on airports and airlines.
+S1382 For example, where the number of flights in the NQP allowed under the policy option is lower than under the Do Minimum scenario, it is likely that load factors on the remaining flights in the NQP or flights that take place during the day would increase as some passengers switch to travelling on these flights.
+S1383 However, given the limitations of our available evidence, these indirect impacts are subject to considerable uncertainty.
+S1384 For this reason, the Department has not sought to estimate these impacts in this impact assessment.
+S1385 Thirdly, regarding any knock-on impacts on business passengers, it should be noted that a consequence of not using SYSTRA’s approach for estimating how changes to the night flights regime could impact on air fares is that it has not been possible to estimate the impacts on passengers, neither leisure nor business, in this impact assessment since the approach that SYSTRA developed as part of the research project for estimating these impacts requires the change in air fares to first be estimated.
+S1386 Finally, given the limitations of our available evidence base, this approach does not take account of any other potential indirect impacts that changes to the number of flights in the NQP at an airport could have on airlines and airports.
+S1387 7.5. Public accounts ** (Reference: 26)
+S1388 The Department considers that the direct impacts on the public accounts are the impacts on the public accounts that are a direct consequence of the change in the number of flights that are allowed in the NQP under our proposals.
+S1389 Following the approach taken by SYSTRA in the research project, the Department has taken into account the impacts on both Air Passenger Duty (APD) and VAT on retail purchases at the airports that arise as a direct consequence of the change in the number of flights that are allowed in the NQP.
+S1390 So, a first step in estimating the direct public accounts impacts is to estimate the average APD and VAT on retail purchases at the airport per flight in the NQP for each flight group.
+S1391 The average APD and VAT on retail purchases at the airport per flight in the NQP for each flight group are estimated using the estimates of APD and VAT on retail purchases in the 2014/15 base year (in 2015 prices) included in the models developed by SYSTRA as part of the research project,
+S1392 which are in turn based on SYSTRA’s analysis.
+S1393 In the absence of any robust evidence on how these values would change in real terms over time, it has been assumed that these values would remain constant in real terms over time.
+S1394 In addition, where there were no flights in a flight group in the 2014/15 base year in SYSTRA’s models and hence no estimates of APD and VAT on retail purchases are available specifically for the flight group, the Department has adopted the same approach as in Section 7.5.2 and estimated the average APD and VAT on retail purchases per flight in the NQP for the flight group at a more aggregate level.
+S1395 Finally, “non-commercial flights” are also excluded from this analysis for the same reasons outlined in Section 7.5.2.
+S1396 The Department has also decided that the impact that changes to the level of tax receipts from taxes directly levied on aviation due to changes to the number of flights in the NQP can have on indirect taxation receipts from goods consumed across the rest of the economy should also be taken into account.
+S1397 For example, changes to the amount of APD paid by UK-resident leisure passengers affect the amount of income these passengers have to spend on other goods and services in the UK economy, thereby affecting indirect tax revenues.
+S1398 Drawing on the approach taken in the research project and adapting this where required, the average net impact on the public accounts per flight in the NQP taking this into account has been estimated using the following formula for each flight group:
+S1399 (1+t) * (average APD and VAT per flight in the NQP for the flight group) – t * %Leisure * %UK * (average APD and VAT per flight in the NQP for the flight group)
+S1400 Where:
+S1401  t is the average level of indirect taxation in the economy;  %Leisure is the proportion of passengers travelling for leisure; and  %UK is the proportion of leisure passengers that are UK residents.
+S1402 The final step is then to estimate the total impact on the public accounts under the policy option in comparison to the Do Minimum scenario for the flight group.
+S1403 This is estimated by multiplying the estimated change in the number of flights in the NPQ for the policy option compared to the Do Minimum scenario for the flight group, by the estimated average net impact on the public accounts per flight in the NQP for the flight group as defined above.
+S1404 The results are then aggregated for all flight groups to produce the estimates quoted in Section 8 of this impact assessment.
+S1405 It should be noted that the estimates generated by this approach are sensitive to the inputs that have been used (particularly the estimates of APD and VAT on retail purchases in the 2014/15 base year (in 2015 prices) included in the models developed by SYSTRA as part of the research project), the assumptions described above and the other methodological choices that have been made.
+S1406 In addition, it should be noted that this does not take the impact of any changes to UK-resident leisure passengers’ expenditure on aviation on the indirect taxation receipts from goods consumed across the rest of the economy into account.
+S1407 This is due to the uncertainty surrounding how passengers would respond to the change in the number of flights that are allowed in the NQP under our proposals; and the Department’s decision to not use SYSTRA’s approach for estimating how changes to the night flights regime could impact on air fares.
+S1408 Finally, given the limitations of our available evidence base, it should be noted that this approach does not take account of any other potential indirect impacts that changes to the number of flights in the NQP at an airport could have on the public accounts.
+S1409 Therefore, it should be noted that the estimates of the public accounts impacts presented in the impact assessment are subject to considerable uncertainty, and that there is also considerable uncertainty surrounding the level and direction of the overall public accounts impacts.
+S1410 Nevertheless, given the scale of the changes to the night flights regime under consideration and the evidence at our disposal, the Department considers that the approach taken is a proportionate approach for estimating these impacts in Section 8.
+S1411 For the purposes of this analysis, the average level of indirect taxation in the economy is assumed to be 19% in line with the Department’s transport analysis guidance; and the Department has estimate the proportion of passengers travelling for leisure and the proportion of leisure passengers that are UK residents by carrier type and airport using data for all passengers using these airports in 2014 from the Civil Aviation Authority (CAA) as follows (Figure 10). ** (Reference: 83)
+S1412 Figure 10 – Proportion of passengers travelling for leisure, and of which are UK residents
+8 Costs and Benefits of Final Policy Option
+8.1 Do Minimum scenario
+S1413 This section provides a brief overview of the analysis for the Do Minimum scenario.
+S1414 Further results for this scenario are presented in Appendix C.
+S1415 A particular limitation of our analysis at consultation stage was our estimates significantly under- estimating the number of movements in the night quota period by QC/0 aircraft at Stansted and to a lesser extent at Heathrow and Gatwick under the Do Minimum scenario.
+S1416 The reasons for this were:
+S1417 
+S1418 The fleet mix modelling of freighters at Stansted suggested that there would be a significant decline in the number of QC/0 movements by freighters.
+S1419 This result appeared counterintuitive given that the number of night flights at Stansted (excluding those by QC/0 aircraft) would be constrained by the night flights regime, and arose purely as a result of the lifetime of freighters that has been assumed, which was subject to considerable uncertainty.
+Gatwick | Chartered | Scheduled | Low cost carrier
+Proportion of passengers travelling for
+leisure | 99% | 86% | 83%
+Proportion of leisure passengers that are
+UK residents | 98% | 71% | 70%
+Stansted | Chartered | Scheduled | Low cost carrier
+Proportion of passengers travelling for
+leisure | 99% | 65% | 85%
+Proportion of leisure passengers that
+are UK residents | 99% | 57% | 58%
+S1420  Our analysis, which was based on data for 2014/15, significantly under-estimated the actual growth in movements by QC/0 aircraft at Stansted between 2014/15 and 2015/16.
+S1421 
+S1422 Due to the limitations of our fleet mix modelling, our analysis also likely underestimated the take up of next generation QC/0 aircraft at all airports.
+S1423 
+S1424 For new aircraft types, the QC categorisation we assumed were intended to represent the highest QC ratings that could be assigned to these aircraft (see Section 7 for more details), which was likely to further under-estimate the number of movements by next generation QC/0 aircraft.
+S1425 
+S1426 Finally, the simplifying assumptions in our analysis led to the growth in QC/0 movements being under-estimated under our Do Minimum scenario in situations when the number of night flights at an airport (excluding those by QC/0 aircraft) would be constrained by the movement or noise quota limits. ** (Reference: 84)
+S1427 Holding all other assumptions constant, this meant that our analysis at consultation stage was likely to significantly under-estimate the impacts of a policy option on the number of night flights in the night quota period at Stansted and to a lesser extent at Gatwick under some scenarios.
+S1428 But, in other circumstances, these limitations meant the analysis over-estimated the impacts of a policy option on the number of night flights in the night quota period (such as where the noise quota limit is constraining movements at an airport under a policy option but not the Do Minimum scenario).
+S1429 Given the no growth assumption at Heathrow, it was expected that the analysis for Heathrow would be unaffected.
+S1430 The above points were a key cause of the uncertainty surrounding the costs and benefits that were estimated at consultation stage.
+S1431 In response to this, for the final Impact Assessment we have:
+S1432  Sought additional evidence and information through the consultation on the appropriate assumption regarding fleet mix changes, including the retirement age of freighters.
+S1433 As a result of some useful discussion on future fleet plans and evidence on current freighter ages, we extended the freighter lifetime assumption used in this analysis from 30 to 35 years. ** (Reference: 85)
+S1434 The rationale for this includes the lower utilisation of express freighters following conversion from passenger aircraft at a typical age of 15-25 years, meaning the lifetime of these aircraft can be extended to 40 years plus as they have more infrequent flight cycles.
+S1435 Based on discussions with industry, this update reflects a conservative estimate for freighter retirement age.
+S1436  We have updated the base data on actual movements at all three airports from 2014/15 data to 2015/16, the latest full regime year available.
+S1437 This has provided a more realistic picture of the current fleet mix, including the relative proportion of aircraft in different QC categories.
+S1438  Further information on the next generation of fleet and in particular the take up of QC/0 aircraft was requested as part of the consultation.
+S1439 We have reviewed evidence submitted by consultees and revised assumptions on the future fleet mix to reflect this evidence.
+S1440 The proportion of next generation aircraft at, for example, Stansted grows by around 35% between 2017 and 2022. ** (Reference: 86)
+S1441 By making these changes, the analysis in this Impact Assessment is likely to underestimate the growth in QC/0 aircraft to a lesser extent than at consultation stage, and now better reflects the current market and future plans of the industry regarding fleet mix.
+S1442 The following limitations of the analysis remain;
+S1443  For new aircraft types, the QC categorisation we assumed were intended to represent the highest QC ratings that could be assigned to these aircraft (see Section 7 for more details), which was likely to further under-estimate the number of movements by next generation QC/0 aircraft.
+S1444 
+S1445 Finally, the simplifying assumptions in our analysis led to the growth in QC/0 movements being under-estimated under our Do Minimum scenario in situations when the number of night flights at an airport (excluding those by QC/0 aircraft) would be constrained by the movement or noise quota limits.
+S1446 8.1. Gatwick: ** (Reference: 24)
+S1447 Do Minimum scenario
+S1448 During the 5 years of the next night flights regime, it is estimated that the number of night flights in the night quota period at Gatwick (excluding those by QC/0 aircraft) would be constrained by the movement limits in 2019/20 to 2021/22.
+S1449 There would be a significant amount of unused noise quota in each season.
+S1450 It is estimated that Gatwick would carry-over 10% of its movement limit from the winter season to the summer season in all 5 years and over-run its movement limit in the summer season by 5% and 8% in the first 2 years, followed by 10% between 2019/20 to 2021/22. ** (Reference: 43)
+S1451 8.1. Heathrow: Do Minimum Scenario ** (Reference: 25)
+S1452 It is estimated that the number of night flights in the night quota period at Heathrow during the 5 years of the next night flights regime (excluding those by QC/0 aircraft) would not be constrained by the movement limits in any season and that there would be a significant amount of unused noise quota in each season.
+S1453 It is estimated that Heathrow would carry-over between around 2% and 4% of its movement limit from the summer season to the winter season in each year.
+S1454 8.1. Stansted: Do Minimum scenario ** (Reference: 26)
+S1455 During the 5 years of the next night flights regime, it is estimated that the number of night flights in the night quota period at Stansted (excluding those by QC/0 aircraft) would be constrained by the movement limits in the summer season from 2019 until the end of the regime.
+S1456 The number of flights in the night quota period would be constrained by the limits in the 2020/21 and 2021/22 winter seasons.
+S1457 It is estimated that Stansted would carry-over 10% of its movement limit and 10% of its quota limit from the winter season to the summer season in each year.
+S1458 We also estimate Stansted will over- run its movement limit in the summer season by between around 9% in 2017/18 and 10% in each subsequent year and over-run its quota limit in the summer season in some years by between around 4% and 5%.
+S1459 8.1. Estimated number of people affected by night noise ** (Reference: 27)
+S1460 As explained earlier, the 48dB LAeq, 6.5hr is the lowest level night noise contour at which it is possible to produce robust noise contours. Given that this is broadly similar to the lowest level at which the Department for Transport’s Transport Appraisal Guidance identifies health costs for noise from night flights, it is proposed that this contour is used to measure progress against the proposed environmental objective. ** (Reference: 87)
+S1461 The estimated populations within this contour in the 6.5 hour night quota period at all three airports in the first and last years of the next night flights regime under the Do Minimum scenario can be found in Figure 11 below.
+S1462 The reason for the population reducing in this contour at Heathrow, whilst not at Gatwick and Stansted, is due to natural predicted improvements in the QC performance of aircraft over the course of the regime coupled with the assumption of zero growth in night flights.
+S1463 A summary of the populations within the dBA LAeq, 6.5 hour night contours up to 63dBA under the Do Nothing and the Final Policy Option can be found in Appendix F.
+S1464 Figure 11– Number of people affected at Heathrow, Gatwick and Stansted ** (Reference: 88)
+S1465 Summary of populations within 48 dBA LAeq, 6.5 hour night
+S1466 *
+S1467 The decision to announce the north-west runway at Heathrow as the Government’s preferred scheme for delivering new runway capacity does not change these figures, since any extra capacity would be delivered after 2022.
+8.2 Final Policy Option
+S1468 As mentioned in Section 5, our preferred policy option is Option 4.
+S1469 This combines the changes considered under the other options.
+S1470 Analysis of all options suggests there would be no difference in impact between options 2, 3 and 4.
+S1471 However for the reasons set out in this impact assessment, option 4 meets the environmental objective whilst also providing additional certainty to communities around all airports and locks in the benefits already delivered at Heathrow and Gatwick.
+S1472 Further detail on the impact of options 2, 3 and 4 on the number of night flights and QC usage at all three airports can be found in Appendix C.
+S1473 8.2. Gatwick: Final Policy Option ** (Reference: 24)
+S1474 Impact on the number of night flights
+S1475 It is estimated that there would be around 465 fewer night flights (-5%) in the night quota period in total at Gatwick under our Final Policy Option compared to the Do Minimum scenario across the 5 year regime.
+S1476 This is due to both existing QC/0 movements and the increasing number of QC/0 aircraft expected in the future.
+S1477 Under the Final Policy Option, we estimate that Gatwick’s growth is constrained in the 2019/20 to 2021/22 seasons.
+S1478 This is unchanged from the Do Minimum.
+S1479 Benefits
+ | Year | Heathrow* | Gatwick | Stansted
+Policy Scenario:
+Do Minimum | 2017-18 | 89,600 | 4,600 | 4,250
+ | 2021-22 | 80,300 | 4,600 | 4,350
+S1480 Compared to the Do Minimum scenario, the key benefit of the Final Policy Option is the reduced night noise that would be experienced by local residents that live near Gatwick airport in the night quota period.
+S1481 This is a result of the estimated reduction in the number of night flights in the night quota period at these airports.
+S1482 This could be an underestimate since the methodology used (48dB LAeq, 6.5hr) does not monetise the impacts on all affected populations.
+S1483 At Gatwick, compared to the Do Minimum scenario, it is estimated that:
+S1484 
+S1485 In 2017/18, there is no change in the number of flights in the night quota period and no change in the number of people affected in the 48dB LAeq, 6.5hr night contour (around 4,600) and no reduction in the size of the contour area (around 37.6 sq km) 
+S1486 In 2021/22, the reduction in the number of flights in the night quota period would lead to no change in the number of people affected in the 48dB LAeq, 6.5hr night contour (around 4,600) and a reduction in the size of the contour area by around 0.5 sq km (around 37.9 sq km compared with around 38.5 sq km).
+S1487 Estimates of the value of the reduction in sleep disturbance from flights in the NQP at Gatwick under the Final Policy Option compared to the Do Minimum scenario are presented in Figure 12 below.
+S1488 The total value of the reduction in sleep disturbance from night flights in the NQP at Gatwick over the 5 year regime is estimated at around £11,690 (in present value terms and constant prices). ** (Reference: 89)
+S1489 The illustrative estimates of the scale of the reduction in the costs of other night noise impacts from flights in the NQP at Gatwick is presented in Figure 13; the potential scale of these impacts over the 5 year period is estimated at around £1,700 in total (in present value terms and constant prices). ** (Reference: 92)
+S1490 It should be noted that these figures cannot be used to represent the value the government places on the impacts of these health conditions to individuals or society.
+S1491 This impact assessment solely covers the potential scale of these impacts as a result of the changes in noise impacts of our final policy option (compared with the current regime).
+S1492 Figure 12 - Value of the reduction in sleep disturbance from night flights at Gatwick (Final Policy Option Vs Do Minimum) (Constant prices and not discounted) ** (Reference: 93)
+ | 2017/18 | 2018/19 | 2019/20 | 2020/21 | 2021/22
+Sleep disturbance | £0 | £0 | £4,440 | £3,290 | £5,250
+S1493 Figure 13 - Estimate of the total value of the reduction in other noise impacts from night flights at Gatwick over the 5 year period (Final Policy Option Vs Do Minimum) (Constant prices and not discounted) ** (Reference: 94)
+S1494 There are also expected to be a number of other benefits from the reduction in night flights in the night quota period at Gatwick, including a reduction in the other costs of night noise; improved air quality and reduced greenhouse gas emissions.
+S1495 For the reasons outlined in Section 6.1, these benefits are not monetised in this IA.
+S1496 The reduction in the number of flights that are allowed to take place in the NQP at Gatwick under the Final Policy Option compared to the Do Minimum scenario could give rise to indirect benefits to businesses by giving airlines the possibility to charge higher air fares.
+S1497 These indirect benefits have not been estimated for the reasons explained in Section 7 of this impact assessment.
+S1498 There is no change in the number of flights forecast under the Final Policy Option (Option 4) compared to Option 2.
+S1499 This is because it is estimated that there would be a significant amount of unused noise quota at Gatwick under the Do Minimum scenario, and so the proposed reductions in the noise quota (in Option 4) are estimated to have no further impact on the number of movements compared to the Do Minimum scenario than Option 2 (in which QC/0 aircraft count to the movement limit at all three airports and Stansted’s movement limit is increased to accommodate the number of currently exempt aircraft).
+S1500 This is also because it is estimated that Gatwick can accommodate the noise quota from the new QC/0.125 aircraft in their limits.
+S1501 However, the changes in the Final Policy Option (Option 4) compared with Option 2 should increase the transparency of the regime and provide more certainty to populations living around the airport that the average flight should not get any louder than it currently is.
+S1502 Plus, the changes could have impacts on industry behaviour that lead to long term benefits for communities outside of our appraisal period of 5 years.
+S1503 Costs
+S1504 The direct costs to business as a result of the reduction in the number of flights in the NQP at Gatwick under the Final Policy Option (Option 4) compared to the Do Minimum scenario would be felt by Gatwick airport and the airlines operating flights in the NQP; as context, it is estimated that there were around 101 airlines operating flights in the NQP at Gatwick in 2015/16 that could be affected by our proposals.
+S1505 Using the methodology described in Section 7.5.2, the total direct costs to business from the reduction in the number of flights in the NQP at Gatwick under the Final Policy Option (Option 4) compared to the Do Minimum scenario over the 5 year regime are estimated to be around £5.6 million (in present value terms and constant prices). ** (Reference: 95)
+S1506 Figure 14 below shows the estimated direct costs to business in each year of the regime.
+ | Total reduction
+Monetised non-sleep disturbance health impacts | £1,900
+S1507 Figure 14 - Estimated direct costs to business from the reduction in flights in the NQP at Gatwick (Final Policy Option Vs Do Minimum) (Constant prices) ** (Reference: 96)
+S1508 It is separately estimated that the Government would also experience a reduction in tax revenues as a result of the reduction in the number of flights in the NQP at Gatwick under the Final Policy Option (Option 4) compared to the Do Minimum scenario.
+S1509 Using the approach explained in Section 7.5.3, the total reduction in tax revenues as a result of the reduction in the number of flights in the NQP at Gatwick under the Final Policy Option (Option 4) compared to the Do Minimum scenario over the 5 year regime is estimated to be around £0.2 million (in present value terms and constant prices). ** (Reference: 97)
+S1510 Figure 15 below shows the estimated reduction in tax revenues in each year of the regime.
+S1511 Figure 15 - Estimated reduction in tax revenues from the reduction in flights in the NQP at Gatwick (Final Policy Option Vs Do Minimum) (Constant prices)* ** (Reference: 98)
+S1512 *Note – For the avoidance of doubt, the estimates of the reduction in tax revenues shown in this figure are not included in the estimates of the “Business Net Present Value” and the “Net cost to business per year”.
+S1513 Finally, the reduction in the number of flights in the NQP at Gatwick under the Final Policy Option (Option 4) compared to the Do Minimum scenario could also give rise to a number of other indirect costs to businesses, including through the knock on impacts this would have on business passengers, the air freight sector and the wider economy; and leisure passengers.
+S1514 These indirect costs have not been estimated for the reasons explained in sections 6 and 7 of this IA.
+S1515 8.2. Heathrow: Final Policy Option ** (Reference: 25)
+S1516 It is estimated that there would be no change in the number of night flights in the night quota period at Heathrow under our Final Policy Option (Option 4) compared to the Do Minimum scenario.
+S1517 This is because Heathrow’s flights mainly consist of full service flights (with few QC/0 movements), there is spare capacity within the movement limits, and Heathrow is assumed not to grow over the forecast period.
+S1518 As it is estimated that there would be no change in the number of night flights in the night quota period at Heathrow under our Final Policy Option compared to the Do Minimum scenario, no
+ | 2017/18 | 2018/19 | 2019/20 | 2020/21 | 2021/22
+Direct Costs to
+Airlines | £0 | £0 | £2.15m | £1.54m | £2.45m
+Direct Costs to
+Gatwick Airport | £0 | £0 | £0.03m | £0.03m | £0.04m
+Total Direct Costs to
+Business | £0 | £0 | £2.18m | £1.57m | £2.49m
+ | 2017/18 | 2018/19 | 2019/20 | 2020/21 | 2021/22
+Reduction in tax
+revenues | £0 | £0 | £0.1m | £0.1m | £0.1m
+S1519 monetised costs or benefits are expected at Heathrow during our appraisal period of 5 years.
+S1520 There is no change in either the number of people within the 48 dB contour in 2017/18 (89,600) or 2021/22 (80,300) compared to the Do Minimum, or in the area of the contour (28.8 sq km in 2017/18 and 24.7 sq km in 2021/22).
+S1521 However, there could be benefits in the form of greater certainty to populations around Heathrow that the average flight cannot get any louder than it currently is.
+S1522 Plus, the number of flights and composition of the fleet could change in the longer term due to the incentives we are providing to encourage quieter aircraft in the night period.
+S1523 More generally, introducing a new QC category and counting all movements towards the limit has the benefits of increasing the transparency of the regime at Heathrow, as is the case at all airports.
+S1524 8.2. Stansted: Final Policy Option ** (Reference: 26)
+S1525 Impact on the number of night flights
+S1526 It is estimated that there would be around 2,475 fewer night flights (-11%) in the night quota period at Stansted in total under the Final Policy Option (Option 4) compared to the Do Minimum scenario across the 5 year regime.
+S1527 The estimated impact on the number of night flights at Stansted is larger than at Gatwick because of the greater number of movements by QC/0 aircraft at Stansted.
+S1528 Growth is estimated to be constrained in 2018/19 to 21/22 in winter and in all years of the regime in the summer seasons.
+S1529 This is a change compared to the Do Minimum, since growth is now estimated to be constrained in winter 2018/19 and 2019/20 and in summer 2017/18.
+S1530 Benefits
+S1531 The key benefit of the Final Policy Option (Option 4) compared to the Do Minimum is the reduced night noise that would be experienced by populations surrounding Stansted airport as a result of the reduction in the number of movements in the night quota period.
+S1532 This could be an underestimate since the methodology used (48dB LAeq, 6.5hr) does not monetise the impacts on all affected populations.
+S1533 At Stansted, compared to the Do Minimum scenario, it is estimated that:
+S1534 
+S1535 In 2017/18, the reduction in the number of flights in the night quota period would lead to around 50 fewer people affected in the 48dB LAeq, 6.5hr night contour (around 4,200 compared to around 4,250), and a reduction in the size of the contour area by around 0.3 sq km (around 36.4 sq km compared with around 36.7 sq km); 
+S1536 In 2021/22, the reduction in the number of flights in the night quota period would lead to around 300 fewer people affected in the 48dB LAeq, 6.5hr night contour (around 4,050 compared to around 4,350), and a reduction in the size of the contour area by around 1.6 sq km (around 35.8 sq km compared with around 37.4 sq km).
+S1537 Estimates of the value of the reduction in sleep disturbance from flights in the NQP at Stansted are presented in Figure 16 below.
+S1538 The total value of the reduction in sleep disturbance from night flights in the NQP at Stansted over the 5 year regime is estimated at around £204,900 (in present value terms and constant prices). ** (Reference: 99)
+S1539 The illustrative estimates of the scale of the reduction in the costs of other night noise impacts from flights in the NQP at Stansted is presented in Figure 17; the potential scale of these impacts over the 5 year period is estimated at around £23,300 in total (in present value terms and constant prices). ** (Reference: 100)
+S1540 It should be noted that these figures cannot be used to represent
+S1541 the value the government places on the impacts of these health conditions to individuals or society.
+S1542 This impact assessment solely covers the potential scale of these impacts as a result of the changes in noise impacts of our final policy option (compared with the current regime).
+S1543 Figure 16 - Value of the reduction in sleep disturbance from flights in the NQP at Stansted (Final Policy Option Vs Do Minimum) (Constant prices and not discounted) ** (Reference: 101)
+S1544 Figure 17 - Estimate of the total value of the reduction in other noise impacts from flights in the NQP at Stansted over the 5 year period (Final Policy Option Vs Do Minimum) (Constant prices and not discounted) ** (Reference: 102)
+S1545 There are also expected to be a number of other benefits from the reduction in flights in the NQP at Stansted, including a reduction in the other costs of night noise; improved air quality and reduced greenhouse gas emissions.
+S1546 For the reasons outlined in Section 6.1Error!
+S1547 Reference source not found., these benefits are not monetised in this IA.
+S1548 As at Gatwick, the reduction in the number of movements under the Final Policy Option (Option 4) is unchanged compared to Option 2.
+S1549 This is because our modelling does not expect the introduction of the new QC/0.125 category to result in a binding QC limit after allowing for overruns and carryovers.
+S1550 However, there could be benefits in the form of greater certainty to populations around Stansted that the average flight cannot get any louder than it currently is.
+S1551 Plus, the number of flights and composition of the fleet could change in the longer term due to the incentives we are providing to encourage quieter aircraft in the night period.
+S1552 More generally, introducing a new QC category and counting all movements towards the limit has the benefits of increasing the transparency of the regime at Stansted, as is the case at all airports.
+S1553 Finally, the reduction in the number of flights that are allowed to take place in the NQP at Stansted under the Final Policy Option (Option 4) compared to the Do Minimum scenario could give rise to indirect benefits to businesses by giving airlines the possibility to charge higher air fares.
+S1554 These indirect benefits have not been estimated for the reasons explained in Section 7 of this IA.
+S1555 Costs
+S1556 The direct costs to business as a result of the reduction in the number of flights in the NQP at Stansted under the Final Policy Option (Option 4) compared to the Do Minimum scenario would be felt by Stansted airport and the airlines operating flights in the NQP at Stansted; as context, it is estimated that there were around 141 airlines operating flights in the NQP at Stansted in 2015/16 that could be affected by our proposals.
+S1557 Using the methodology described in Section 7.5.2, the total direct costs to
+ | 2017/18 | 2018/19 | 2019/20 | 2020/21 | 2021/22
+Sleep disturbance | £6,340 | £41,980 | £52,840 | £60,280 | £62,320
+ | Total reduction
+Monetised non-sleep disturbance health impacts | £25,400
+S1558 business from the reduction in the number of flights in the NQP at Stansted under the Final Policy Option (Option 4) compared to the Do Minimum scenario over the 5 year regime are estimated to be around £5.3 million (in present value terms and constant prices). ** (Reference: 103)
+S1559 Figure 18 below shows the estimated direct costs to business in each year of the regime.
+S1560 Figure 18 - Estimated direct costs to business from the reduction in flights in the NQP at Stansted (Final Policy Option Vs Do Minimum) (Constant prices) ** (Reference: 104)
+S1561 It is separately estimated that the Government would also experience a reduction in tax revenues as a result of the reduction in the number of flights in the NQP at Stansted under the Final Policy Option (Option 4) compared to the Do Minimum scenario.
+S1562 Using the approach explained in Section 7.5.3, the total reduction in tax revenues as a result of the reduction in the number of flights in the NQP at Stansted under the Final Policy Option (Option 4) compared to the Do Minimum scenario over the 5 year regime is estimated to be around £1.3 million (in present value terms and constant prices). ** (Reference: 105)
+S1563 Figure 19 below shows the estimated reduction in tax revenues in each year of the regime.
+S1564 Figure 19 - Estimated reduction in tax revenues from the reduction in flights in the NQP at Stansted (Final Policy Option Vs Do Minimum) (Constant prices)* ** (Reference: 106)
+S1565 *Note – For the avoidance of doubt, the estimates of the reduction in tax revenues shown in this figure are not included in the estimates of the “Business Net Present Value” and the “Net cost to business per year”.
+S1566 Finally, the reduction in the number of flights in the NQP at Stansted under the Final Policy Option (Option 4) compared to the Do Minimum scenario could also give rise to a number of other indirect costs to businesses, including through the knock on impacts this would have on business passengers, the air freight sector and the wider economy; and leisure passengers.
+S1567 These indirect costs have not been estimated for the reasons explained in Sections 6 and 7 of this impact assessment.
+S1568 8.2. Familiarisation costs ** (Reference: 27)
+S1569 It is possible that stakeholders could also face costs when familiarising themselves with the updated regulations, regardless of the policy option selected.
+S1570 Given the longstanding nature of the night flights restrictions, we expect the time required for familiarisation will be limited.
+S1571 We invited views through
+ | 2017/18 | 2018/19 | 2019/20 | 2020/21 | 2021/22
+Direct Costs to
+Airlines | £0.36m | £0.97m | £1.10m | £1.19m | £1.20m
+Direct Costs to
+Stansted Airport | £0.06m | £0.18m | £0.21m | £0.23m | £0.24m
+Total Direct Costs to
+Business | £0.42m | £1.15m | £1.32m | £1.43m | £1.44m
+ | 2017/18 | 2018/19 | 2019/20 | 2020/21 | 2021/22
+Reduction in tax
+revenues | £0.1m | £0.3m | £0.3m | £0.4m | £0.4m
+S1572 the consultation on the time required for stakeholders, largely airports, airlines and communities, to read and understand the updated regulation and received no substantial evidence that there would be familiarisation costs to business of these new restrictions.
+S1573 9 Rationale and evidence that justify the level of analysis used in the IA (proportionality approach)
+S1574 Although these estimates are subject to considerable uncertainty), DfT’s estimates of the change in the number of night flights in the night quota period that are presented in this impact assessment make use of the best evidence available at the time of developing the models.
+S1575 The estimates of the change in the level of night noise experienced by local residents in the night quota period presented in this impact assessment have been produced using the ANCON model, which is fully compliant with internationally agreed best practice.
+S1576 However, since DfT’s analysis was used as an input to this, the results are also subject to the limitations described previously.
+S1577 The estimates of the value of the impact of the change in night noise in the night quota period on sleep disturbance presented in this impact assessment were estimated using the results of the ANCON model for the first and last years of the regime.
+S1578 However, given the scale of the expected impacts and the resources required to run the ANCON model, estimates for the intervening years were calculated using a simplified approach on proportionality grounds (see Section 7.3).
+S1579 Other noise impacts on health have been presented in this IA to give an indication of their scale, however, whilst we have provided estimates to illustrate the potential scale of these impacts, we have not included these estimates in the net present value calculation since the Department’s Transport Analysis Guidance does not contain an approved methodology for estimating the change in the value of the other impacts of night noise on health (see Section 7.4).
+S1580 Due to inconclusive and limited evidence, we have not quantified other noise impacts on amenity.
+S1581 Given the scale of the changes to the night flights regime under consideration and the evidence at our disposal, the Department considers that the approaches taken to produce the estimates of the direct economic impacts on airports and airlines, and the estimates of the public accounts impacts, presented in the impact assessment, are proportionate approaches for estimating these economic impacts, and that the former is a proportionate approach for estimating the equivalent annual net direct cost to business (EANDCB).
+S1582 The changes to the night flights regime under consideration could also give rise to other indirect impacts to businesses, passengers and the public accounts; these indirect impacts have not been estimated in this impact assessment for the reasons explained in Sections 6 and 7.
+S1583 In addition, due to the inconclusive and/or limited evidence, we have not quantified or monetised any other wider economic impacts.
+S1584 We have not conducted any sensitivity analysis for this impact assessment as it was not considered proportionate to do so.
+S1585 Finally, the impacts on air quality and greenhouse gas emissions have not been monetised on proportionality grounds given the relatively small change in the overall number of flights at these airports.
+10 Direct costs and benefits to business calculations (following BIT methodology)
+S1586 Whilst the process for renewing the current night flights regime stems from EU legislation, the night flights restrictions at Gatwick, Heathrow and Stansted are domestic rules that are implemented through domestic, not EU, law.
+S1587 In other words, there is and can be no gold plating.
+S1588 Since the night flights restrictions at Gatwick, Heathrow and Stansted are domestic rules that regulate business, the Government considers that the night flights regime is in scope of the One-In, Three-Out (OITO) rule and is a qualifying provision for the purposes of the Business Impact Target (BIT).
+S1589 Given the nature of the changes to the night flights restrictions that are being considered, the Government considers that this measure only directly impact airlines and airports (see Section 7.5.2 for further details). Therefore, the Department considers that this measure will need to be scored for the purposes of the BIT on the basis of the estimated Equivalent Annual Net Direct Cost to Business (EANDCB) for airlines and airports. ** (Reference: 107, 108)
+S1590 The expiry of the existing restrictions will score as a benefit to business and this offsets the costs to business associated with the continuation of the existing restrictions under the Do Minimum scenario.
+S1591 Therefore, the Department considers that the Do Minimum scenario is the appropriate counterfactual for estimating the EANDCB of the Final Policy Option compared against.
+S1592 On the basis of the methodology described in Section 7.5.2 and the results of this analysis presented in Section 8 of this IA, the present value of the total net direct costs to airlines and airports under Final Policy Option compared to the Do Minimum scenario over the 5 year regime is estimated at around £10.9 million (Present Value Base Year 2017, Price Base Year 2015).
+S1593 This comprises the following estimates from Section 8 of this IA:
+S1594  the total direct costs to business from the reduction in the number of flights in the NQP at Gatwick under the Final Policy Option (Option 4) compared to the Do Minimum scenario over the 5 year regime are estimated to be around £5.6 million (in present value terms and constant prices); and  the total direct costs to business from the reduction in the number of flights in the NQP at Stansted under the Final Policy Option (Option 4) compared to the Do Minimum scenario over the 5 year regime are estimated to be around £5.3 million (in present value terms and constant prices).
+S1595 Therefore, using the Business Impact Target Assessment Calculator, the EANDCB is estimated at around £2.2 million per year (Present Value Base Year 2015, Price Base Year 2014).
+S1596 It should be noted that some of the costs to business will fall on non-UK airlines.
+S1597 However, there are considerable difficulties in apportioning the costs to airlines between UK and non-UK airlines (e.g. a comprehensive determination of the nation of ownership of airlines is in most cases unavailable).
+S1598 So, any estimates of this would rely heavily on assumptions and be no more than indicative.
+S1599 Therefore, for the purposes of this impact assessment, the Department has adopted a conservative approach, and used the full estimate of the present value of the total net direct costs to airlines and airports when estimating the EANDCB above.
+11 Wider impacts
+S1600 The wider social, environmental and economic impacts of the proposed policy options not already discussed within this IA have been considered, together with possible unintended consequences.
+S1601 Where we have identified potential impacts, they are described in the following sub-sections.
+S1602 We asked for further evidence on these impacts as part of our consultation.
+S1603 We have reviewed the evidence submitted regarding these wider impacts and have incorporated relevant changes where applicable.
+11.1 Competition assessment
+S1604 It is estimated that the final policy option under consideration in this impact assessment would alter the number of night flights in the night quota period at Gatwick and Stansted airports during the next night flights regime compared to the Do Minimum scenario, but would have no impact on the number of night flights in the night quota period at Heathrow.
+S1605 This illustrates the potential for this policy options to impact on competition.
+S1606 The significance of any impacts on competition in practice will depend on the magnitude of the change in the number of night flights at these airports under our final policy option compared to the Do Minimum scenario and is therefore subject to the significant uncertainty surrounding our analysis.
+S1607 Having reviewed the consultation responses, we do not have sufficient information to provide a robust methodology to capture the impacts on competition.
+S1608 Instead we have identified the potential impacts on competition which are discussed in more detail below.
+S1609 It is worth noting that despite this limitation of the analysis however, the very small reduction in the number of night flights that would occur under the final policy option would suggest there would also be a very small impact on competition.
+S1610  Where a policy option reduces (increases) the number of night flights that can take place at one of these airports, it is possible that this may reduce (increase) the competitiveness of the airport compared to competing airports that serve the same markets (which could be in the UK or overseas), and could, for example, impact on the airport that airlines choose to base their aircraft at.
+S1611  It may also have broader impacts on the competitiveness of airlines that operate night flights at these airports compared to competitors that operate night flights at other airports (which again could be in the UK or overseas); or on the competition within the markets for night flights between UK and some destinations (such as if this reduces or increases the number of night flights to / from a given destination).
+S1612 
+S1613 In addition, there may be knock-on impacts on other businesses that make use of night flights at these airports.
+S1614 For example, businesses in the freight industry using night flights at these airports for express deliveries as highlighted in Section 6.2.4.
+S1615 To the extent that their competitors make use of night flights at other airports, this could have impacts on their competitiveness.
+S1616 Lower profits for UK businesses may further result in lower levels of investment in the UK which could potentially harm the international competitiveness of the UK.
+11.2 Small and Micro Business Assessment (SaMBA)
+S1617 Small businesses (up to 49 FTE employees) and micro-businesses (up to 10 employees) are not currently exempt from the night flights regime. ** (Reference: 109)
+S1618 In reaching a final policy decision consideration has therefore been given to how the policy options may impact on small and micro businesses.
+S1619 The businesses on which the night flight regime has direct impacts are airports and airlines.
+S1620 Gatwick, Heathrow and Stansted are the primary airports affected by the regime and have more than 50 employees, meaning they do not meet the Small and Micro Business Assessment (SaMBA) criteria.
+S1621 Whilst we do not have access to a consistent data source on the number of employees of airlines that operate night flights, e.g. some of these airlines are not UK businesses, we have completed analysis that suggests nearly all commercial airlines operating during the night period would have more than 50 employees.
+S1622 Furthermore given the scale of operations required to run an airline, including pilots
+S1623 and flight crew, maintenance crew, HR etc., it would be reasonable to assume nearly all commercial airlines would require more than 50 employees to operate.
+S1624 Analysis of CAA data (on night flights during the period 2014/15 at Gatwick, Heathrow and Stansted, combined with CAA data on aircraft registration and ownership) suggests that, even for night flights not operated by commercial airlines e.g. private business jets, small and micro businesses are unlikely to be directly affected.
+S1625 The analysis revealed these types of aircraft were typically owned by large corporations or subsidiaries of large corporations which can be assumed to have more than 50 employees.
+S1626 It is theoretically possible that there could be small or micro businesses that operate night flights which may be affected by the proposals in this Impact Assessment.
+S1627 However, the CAA have estimated that this would only affect a handful of airline operators, thus it would not be proportionate to analyse the impacts for this Impact Assessment.
+S1628 As mentioned above, we also did not receive any evidence from the consultation which we were able to incorporate in to this impact assessment on what the impact would be on smaller airlines or night flights operators, for example from those involved in business or general aviation.
+11.3 Equalities Impact Assessment
+S1629 The policy options referred to in this impact assessment have been reviewed for relevance, but since the reduction in noise impacts of the policy options relative to the baseline are not expected to have any variation in impacts on different groups, an Equalities Impact assessment is not required.
+S1630 All options, including the preferred option, place restrictions on the number and noise levels of night flights but do not fully ban operations.
+S1631 Whilst it can be expected on an aggregate level that, for a given airport, the least profitable routes will be dropped before others, it is not possible to forecast how this will be split between different airlines nor is there any evidence that specific groups of society will be affected more than others.
+S1632 However, based on consultation responses we have considered the impact night flights could have on different groups of society.
+S1633 For instance, night flights may have a disproportionate impact on those sensitive to noise and those already severely impacted.
+S1634 As explained in Section 6.1. (Noise Impacts: Other Impacts), the impact on children has been assessed in the NORAH and RANCH studies. ** (Reference: 26)
+S1635 These studies acknowledge that noise exposure from these flights may affect cognitive development, but the reports are unclear whether the effects are attributable to daytime or night time noise.
+S1636 Furthermore, there is no evidence for long-term persistent effects on cognitive development.
+S1637 Dr Charlotte Clark’s paper, undertaken for the Airports Commission concludes that there is increasing evidence to support the use of prevention measures such as insulation, preventative policy, guidelines and limit values. ** (Reference: 110)
+S1638 Whilst night flights may disproportionately affect those that are more sensitive to noise, the noise impacts as a result of particular policy options considered in this Impact Assessment are not expected to, given the baseline used for comparison of these options.
+12 Summary and preferred option with description of implementation plan
+S1639 There is a need to protect local communities from the negative impacts of aircraft noise at night, while permitting the operation of services that provide benefits to the aviation industry and wider economy.
+S1640 Option 4 within this impact assessment is our preferred measure of doing so as it enables us to achieve the environmental objective.
+S1641 Introducing a new QC category and ensuring all flights are included in the restrictions will give more certainty to communities about the level of noise they can expect to experience and prevent a potentially unlimited number of currently exempt flights from operating during the night period.
+S1642 As a result of these changes to the QC system it is also necessary to adjust Stansted’s movement to ensure the existing benefits of night flights at the airport are maintained.
+S1643 Setting noise quota limits as we have decided will also help to lock-in the benefits that have been derived from new quieter aircraft in recent years and reassure communities that existing aircraft should not be replaced by louder ones.
+S1644 These limits will ensure industry have clear direction and incentives to adopt the quietest technology whilst communities have more certainty over the future noise exposure.
+S1645 These restrictions will be reviewed again to ensure decisions on what should replace them can be taken before they expire in October 2022.
+S1646 As set earlier in this document, we are also reviewing the Government’s role in setting these restrictions at these airports, and pending the outcome of our consultation on these matters, there may be opportunities for these restrictions to be replaced by alternatives before they expire and for the Government to no longer set them in this way.
+13 Post Implementation Review Plan
+S1647 1. Review status: Please classify with an ‘x’ and provide any explanations below.
+S1648 The next night flights runs for 5 years and will expire in October 2022.
+S1649 2. Expected review date (month and year, xx/xx):
+S1650 1 0 / 2 2
+X | Sunset
+clause
+1 | 0
+2 | 2
+13.1 Rationale for PIR approach:
+Rationale for PIR approach:
+S1651 We currently estimate the net impacts to be below £50m, however, there are more impacts that the Department is unable to monetise currently, but that are likely to have an impact.
+S1652 However due to limited data and evidence reasons, we expect the evidence sought to be Medium.
+S1653 This is a high profile and contentious area of policy.
+S1654 When reviewing restrictions before 2022, we will conduct robust analysis wherever it is proportionate to do so.
+S1655 However, given the current availability of evidence, the Department is in no position to quantify all impacts and use bespoke monitoring and evaluation data to address evidence gaps.
+S1656 We welcome new evidence to support further monetisation of the impacts of changes to the regime, and will review and incorporate new robust evidence into analysis where it is relevant.
+S1657 This data collected (outlined below) is already produced by the airports on a weekly basis and can be produced very quickly, allowing the Department to monitor the policy with little resource.
+S1658 However, any further impact evaluation that may be completed as a result of new evidence may require a higher level of resource to complete.
+S1659 Process evaluation will be completed, using monitoring data to check whether the number of flights and noise level emitted is being reduced compared to a continuation of the regime, as expected.
+S1660 This will be used to check if the airports are following the regulations as expected.
+S1661 Throughout the course of the current regime, each airport will provide a detailed weekly breakdown of the:
+S1662  Number of total runway movements 
+S1663 Number of movements in each QC category  Number of movements exempt from restrictions 
+S1664 Total number of arrivals and departures 
+S1665 Number of not counted delays, government and emergency flight movements.
+S1666 
+S1667 Amount of QC usage and movements carried over from the previous season.
+S1668 Eight (8) hour Lnight contours will also be produced annually for each airport.
+S1669 A light-tough impact evaluation will also be used, making use of the monitoring data available (8hr Lnight contours) to check whether the reduction in the noise level of flights has had the desired impact of reducing the number of people significantly impacted by noise in the night period, while maintaining the economic benefits of night flights.
+S1670 It is not possible to evaluate the impact of the restrictions on the level of night noise compared to a deregulated market.
+S1671 The details outlining why we cannot accurately estimate a deregulated market are explained in the IA.
+S1672 We will consider the change in local circumstances at these airports to check the necessity for central government regulations.
+S1673 For example, Stansted may agree restrictions as a part of local planning conditions as Heathrow has.
+S1674 This could necessitate a more light touch approach to restrictions in the future.
+S1675 Exempt aircraft expected to be covered under a new QC/0.125 category (81.0-83. EPNdB): ** (Reference: 32)
+Arrivals | Departures
+Airbus A320-251n | Airbus A320-251n
+Airbus A320-271n | Airbus A320-271n
+Beechcraft Premier I (Raytheon 390) | BAe ATP
+Boeing 717-200 | Bombardier Challenger 300 (BD-100-1A10)
+Bombardier Challenger 601-3A (CL-600-2A12) | Bombardier Challenger 604 (CL-600-2B16)
+Bombardier Challenger 604 (CL-600-2B16) | Bombardier Challenger 605 (CL-600-2B16)
+Bombardier Challenger 605 (CL-600-2B16) | Bombardier Challenger 850 (CL-600-2B19)
+Bombardier Challenger 870 (CL-600-2C10) | Bombardier CRJ-100LR (CL-600-2B19)
+Bombardier CRJ-200ER (CL-600-2B19) | Bombardier CRJ-200ER (CL-600-2B19)
+Bombardier CRJ-200LR (CL-600-2B19) | Bombardier CRJ-200LR (CL-600-2B19)
+Bombardier Learjet 35A | Bombardier DHC-8-311 Dash 8
+Bombardier Learjet 36A | Bombardier DHC-8-402 Q400
+Bombardier Learjet 55ER Winglets | Bombardier Learjet 35A
+Cessna 525A Citation CJ2 | Cessna 525A Citation CJ2
+Cessna 550 Citation Bravo | Cessna 550 Citation II
+Cessna 550 Citation II | Dornier 328-110
+Cessna 560XL Citation XLS | Dornier 328JET-310
+Cessna 650 Citation VII | Embraer 120ER Brasilia
+Cessna 680 Citation Sovereign | Embraer 120FC Brasilia
+Dassault Falcon 2000EX EASy | Embraer 120RT Brasilia
+Dassault Falcon 2000EX EASy Winglets | Embraer ERJ-135ER
+Dassault Falcon 2000LX | Embraer ERJ-145EP
+Dassault Falcon 2000S | Embraer ERJ-145MP
+Dassault Falcon 7X | Embraer Legacy 600 (ERJ-135BJ)
+Dassault Falcon 900C | Embraer Legacy 650 (ERJ-135BJ)
+Dassault Falcon 900EX | Fokker 50
+Dassault-Breguet Mystere Falcon 900 | Gulfstream G280
+Dornier 328JET-300 | Gulfstream G300 (GIV)
+Dornier 328JET-310 | Gulfstream G450 (GIV-X)
+Embraer ERJ-135ER | Gulfstream GIV
+Embraer ERJ-145EP | Gulfstream GIV-SP
+Embraer ERJ-145MP | Gulfstream G650 (G-VI)
+Embraer ERJ-190BJ Lineage | Hawker 800B (BAe 125-800B)
+Embraer ERJ-190SR | Hawker 800XP (Raytheon Hawker 800XP)
+Embraer ERJ-195LR | Hawker 800XPi (Raytheon Hawker 800XP)
+Embraer Legacy 600 (ERJ-135BJ) | Hawker 900XP (Hawker Beechcraft 900XP)
+Embraer Legacy 650 (ERJ-135BJ) | Saab 2000
+Gulfstream G280 | Saab 340A Cargo
+Gulfstream G450 (GIV-X) | 
+Gulfstream GIV | 
+Gulfstream GIV-SP | 
+Gulfstream GV | 
+Gulfstream GV-SP (550) | 
+Hawker 4000 (Hawker Beechcraft 4000) | 
+Hawker 400XP (Raytheon 400A) | 
+S1676 Aircraft noise classifications under the current quota count (QC) system
+Noise Classification (EPNdB) 88 | Quota Count
+More than 101.9 | 16
+99 - 101.9 | 8
+96 - 98.9 | 4
+93 - 95.9 | 2
+90 - 92.9 | 1
+87 - 89.9 | 0.5
+84 - 86.9 | 0.25
+Less than 84 | 0 (Currently exempt)
+S1677 The tables below provide further details on the estimated total movements in the night quota period and noise quota usage (QC) under the Do Minimum options and policy options.
+S1678 These tables also show the movement and noise quota limits for each season that were assumed in this analysis.
+S1679 The boxes highlighted in blue show when an airport exceeds the assumed limit for that season.
+S1680 The airport is allowed to do this through the use of carryovers and overruns.
+S1681 The estimates of total movements and noise quota are rounded to the nearest 5.
+S1682 Figure 20 – Gatwick forecasts – Policy Option 1 (Do Minimum)
+S1683 Total QC
+S1684 Total movements excluding current exempt QC/0 aircraft
+S1685 QC limits (no carryovers/overruns):
+S1686 Season
+S1687 Movement limits (no carryovers/overruns):
+S1688 Total movements including current QC/0 aircraft
+S1689 Winter = 2000
+S1690 Winter = 3250
+S1691 Summer = 6200
+S1692 Summer = 11200
+S1693 Winter 2017/18 2035 2085 1,065
+S1694 Winter 2018/19 2085 2135 1,090
+S1695 Winter 2019/20 1980 2030 1,030
+S1696 Winter 2020/21 1805 1855 930
+S1697 Winter 2021/22 1805 1885 920
+S1698 Summer 2018 12060 12110 5,210
+S1699 Summer 2019 12470 12520 5,385
+S1700 Summer 2020 12645 12700 5,460
+S1701 Summer 2021 12645 12715 5,460
+S1702 Summer 2022 12645 12755 5,445
+S1703 Figure 21 – Gatwick forecasts – Policy Options 2-4
+S1704 Policy Option 4
+S1705 Total QC
+S1706 Policy Option 2 & 3
+S1707 Total QC
+S1708 Total movements including QC/0.125 and QC/0 aircraft:
+S1709 QC limits (no carryovers/overruns):
+S1710 Season
+S1711 QC limits (no carryovers/overruns):
+S1712 Movement limits (no carryovers/overruns):
+S1713 Winter 2017/18 = 2000 (followed by a reduction to 1785 in 2018/19)
+S1714 Winter 2017/18 = 2000
+S1715 Winter = 3250
+S1716 Summer 2018 = 6200
+S1717 Summer = 11200
+S1718 Summer 2018 = 6200 (followed by a reduction to 5150 in 2019)
+S1719 Winter 2017/18 2085 1065 1065
+S1720 Winter 2018/19 2135 1090 1090
+S1721 Winter 2019/20
+S1722 1930 975 975
+S1723 Winter 2020/21 1805 905 905
+S1724 Winter 2021/22 1805 880 880
+S1725 Summer 2018 12110 5210 5210
+S1726 Summer 2019 12520 5385 5385
+S1727 Summer 2020 12645 5435 5435
+S1728 Summer 2021 12645 5430 5430
+S1729 Summer 2022 12645 5395 5395
+S1730 Figure 22 - Heathrow Forecasts – Policy Option 1 (Do Minimum)
+S1731 Total QC
+S1732 Total movements excluding current exempt QC/0 aircraft
+S1733 QC limits (no carryovers/overruns):
+S1734 Season
+S1735 Movement limits (no carryovers/overruns):
+S1736 Total movements including current QC/0 aircraft
+S1737 Winter = 4080
+S1738 Winter = 2550
+S1739 Summer = 5100
+S1740 Summer = 3250
+S1741 Winter 2017/18 2,675 2,690 2,010
+S1742 Winter 2018/19 2,670 2,690 1,720
+S1743 Winter 2019/20 2,635 2,690 1,480
+S1744 Winter 2020/21 2,615 2,690 1,450
+S1745 Winter 2021/22 2,605 2,690 1,435
+S1746 Summer 2018 2,950 2,980 2,075
+S1747 Summer 2019 2,945 2,980 1,945
+S1748 Summer 2020 2,905 2,980 1,800
+S1749 Summer 2021 2,885 2,980 1,755
+S1750 Summer 2022 2,870 2,980 1,730
+S1751 Figure 23 - Heathrow forecasts – Policy Options
+S1752 2- 4
+S1753 Policy Option 4
+S1754 Total QC
+S1755 Policy Option 2 & 3
+S1756 Total QC
+S1757 Total movements including QC/0.125 and QC/0 aircraft:
+S1758 QC limits (no carryovers/overruns):
+S1759 Season
+S1760 QC limits (no carryovers/overruns):
+S1761 Movement limits (no carryovers/overruns):
+S1762 Winter 2017/18 = 4080 (followed by a reduction to 2415 in 2018/19)
+S1763 Winter 2017/18 = 4080
+S1764 Winter = 2550
+S1765 Summer 2018 = 5100
+S1766 Summer = 3250
+S1767 Summer 2018 = 5100 (followed by a reduction to 2735 in 2019)
+S1768 Winter 2017/18 2,690 2,010 2,010
+S1769 Winter 2018/19 2,690 1,680 1,680
+S1770 Winter 2019/20 2,690 1,430 1,430
+S1771 Winter 2020/21 2,690 1,400 1,400
+S1772 Winter 2021/22 2,690 1,385 1,385
+S1773 Summer 2018 2,980 2,075 2,075
+S1774 Summer 2019 2,980 1,935 1,935
+S1775 Summer 2020 2,980 1,785 1,785
+S1776 Summer 2021 2,980 1,740 1,740
+S1777 Summer 2022 2,980 1,715 1,715
+S1778 Figure 24 - Stansted Forecasts – Policy Option 1 (Do Minimum)
+S1779 Total QC
+S1780 Total movements excluding current exempt QC/0 aircraft
+S1781 QC limits (no carryovers/overruns):
+S1782 Season
+S1783 Movement limits (no carryovers/overruns):
+S1784 Total movements including current QC/0 aircraft
+S1785 Winter =3310
+S1786 Winter = 5000
+S1787 Summer = 4650
+S1788 Summer = 7000
+S1789 Winter 2017/18 3,575 4,410 2,605
+S1790 Winter 2018/19 3,650 4,505 2,660
+S1791 Winter 2019/20 3,730 4,605 2,720
+S1792 Winter 2020/21 3,780 4,665 2,755
+S1793 Winter 2021/22
+S1794 3,790 4,675 2,760
+S1795 Summer 2018 8,135 9,595 5,165
+S1796 Summer 2019 8,200 9,670 5,205
+S1797 Summer 2020 8,200 9,675 5,205
+S1798 Summer 2021 8,200 9,675 5,200
+S1799 Summer 2022 8,200 9,675 5,200
+S1800 Figure 25 - Stansted forecasts – Policy Options 2- 4
+S1801 Policy Option 2 – 4
+S1802 Total QC
+S1803 Total movements including QC/0.125 and QC/0 aircraft:
+S1804 Season
+S1805 QC limits (no carryovers/overruns):
+S1806 Movement limits (no carryovers/overruns):
+S1807 Winter 2017/18 = 3310
+S1808 Winter = 5600
+S1809 Summer 2018 = 4,650
+S1810 Summer = 8100
+S1811 Winter 2017/18 4,410 2,605
+S1812 Winter 2018/19 4,230 2,505
+S1813 Winter 2019/20 4,230 2,505
+S1814 Winter 2020/21 4,230 2,505
+S1815 Winter 2021/22
+S1816 4,230 2,505
+S1817 Summer 2018 9,470 5,095
+S1818 Summer 2019 9,470 5,120
+S1819 Summer 2020 9,470 5,120
+S1820 Summer 2021 9,470 5,115
+S1821 Summer 2022 9,470 5,115
+S1822 UK aviation forecasting framework ** (Reference: 112)
+Appendix E
+S1823 To provide an indication of the likely noise impact of the exempt-rated (QC/0) A320neo, the table below illustrates the size and extent of the 60 dBA Lmax arrival noise footprint for a typical westerly arrival to runway 26L at Gatwick.
+S1824 An outdoor Lmax level of 60 dBA corresponds to an indoor noise level of approximately 45 dBA, in accordance with the WHO recommendation that individual noise events at night exceeding 45 dBA should be avoided.
+S1825 For comparison, the equivalent footprint for the current model of the A320 (QC/0.25) is shown, which is the most common aircraft type currently operating at Gatwick during the night quota period.
+S1826 Results indicate that whilst the noise footprint of the new A320neo is significantly smaller than the current A320, the impacts of a QC/0 rated aircraft are not insignificant.
+S1827 A320neo Lmax arrival footprint areas ** (Reference: 113)
+Aircraft | Arrival footprint | Area, sq km | Population | Households
+A320neo | Westerly, 60dBA
+Easterly, 60dBA | 49.6
+48.1 | 7,800
+2,700 | 3,000
+1,100
+A320 | Westerly, 60dBA
+Easterly, 60dBA | 85.4
+78.3 | 20,300
+9,900 | 8,300
+4,200
+Differences | Westerly, 60dBA
+Easterly, 60dBA | -42%
+-39% | -62%
+-73% | -64%
+-74%
+Appendix F
+S1828 A summary of the LAeq, 6.5 hour night contours at Heathrow and Gatwick from 48dBa to 63dBa in the Do Nothing scenario and the Final Policy Option.
+Contour
+(dBA) | Area
+(sq km) | Population
+(1000s) | Households
+(1000s)
+48
+51
+54
+57
+60
+63 | 28.8
+14.2
+7.1
+3.6
+2.0
+1.3 | 89.6
+44.4
+14.6
+2.4
+0.6
+<0.1 | 33.9
+16.7
+5.4
+0.9
+0.2
+<0.1
+Contour
+(dBA) | Area
+(sq km) | Population
+(1000s) | Households
+(1000s)
+48
+51
+54
+57
+60
+63 | 24.7
+11.8
+5.7
+2.9
+1.7
+1.2 | 80.3
+37.6
+10.2
+2.2
+<0.1
+0.0 | 30.2
+14.2
+3.7
+0.8
+<0.1
+0.0
+Contour
+(dBA) | Area
+(sq km) | Population
+(1000s) | Households
+(1000s)
+48
+51
+54
+57
+60
+63 | 37.6
+19.0
+9.5
+4.8
+2.4
+1.3 | 4.6
+1.3
+0.5
+0.3
+0.1
+0.0 | 1.7
+0.5
+0.1
+0.1
+<0.1
+0.0
+Contour
+(dBA) | Area
+(sq km) | Population
+(1000s) | Households
+(1000s)
+48
+51
+54
+57
+60
+63 | 37.6
+19.0
+9.5
+4.8
+2.4
+1.3 | 4.6
+1.3
+0.5
+0.3
+0.1
+0.0 | 1.7
+0.5
+0.1
+0.1
+<0.1
+0.0
+Contour
+(dBA) | Area
+(sq km) | Population
+(1000s) | Households
+(1000s)
+48
+51
+54
+57
+60
+63 | 38.5
+19.4
+9.7
+4.9
+2.4
+1.3 | 4.6
+1.3
+0.5
+0.3
+0.1
+0.0 | 1.7
+0.5
+0.1
+0.1
+<0.1
+0.0
+Contour
+(dBA) | Area
+(sq km) | Population
+(1000s) | Households
+(1000s)
+48
+51
+54
+57
+60
+63 | 37.9
+19.1
+9.5
+4.8
+2.4
+1.3 | 4.6
+1.3
+0.5
+0.3
+0.1
+0.0 | 1.7
+0.5
+0.1
+0.1
+<0.1
+0.0

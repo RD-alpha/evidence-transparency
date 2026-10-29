@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "Apprenticeship Growth and Skills Strategy",
+      "reason": "Establishes the skills shortage and economic growth rationale for the apprenticeship target, directly explaining why the policy is needed; without this the diagnosis of skills shortages has no basis.",
+      "weight": "core"
+    },
+    {
+      "theme": "Workforce Diversity and Inclusion",
+      "reason": "Establishes the diversity and inclusion problem the policy addresses, including specific gaps like disabled employment rates, forming the core diagnosis of low diversity/social mobility that the policy responds to.",
+      "weight": "core"
+    }
+  ]
+}

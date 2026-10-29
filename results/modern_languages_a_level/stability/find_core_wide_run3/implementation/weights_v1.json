@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Integrated skills and competence framework",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Thematic cultural and societal content",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Study of literary works and film",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Independent research skills at A level",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Standardised grammar requirements across languages",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Broader learning outcomes and transferable competences",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Exceptions and special provisions for Chinese",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Foundational requirements and continuity from GCSE",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

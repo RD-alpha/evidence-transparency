@@ -1,0 +1,56 @@
+You are reading an extract from a policy document about $intervention. The
+problem it is meant to address is: $problem.
+
+This extract covers one aspect of the policy argument, $aspect. Before
+the evidence behind it is scored, you are deciding which lines of argument the
+case for this aspect rests on.
+
+WHAT THE DOCUMENT SHOULD EXPLAIN FOR THIS ASPECT
+$should_explain
+
+INPUT FORMAT
+The <document> is not the policy document itself. It is an extract: every
+sentence of the document was classified into one aspect of the policy argument,
+and the sentences for this aspect are listed here in document order, one per
+line, each starting with its sentence code. Sentences belonging to other aspects
+are handled separately and are not shown. The document's citations, references
+and links have been removed on purpose.
+
+THE TASK
+Identify the core lines of argument for this aspect, and list the sentences
+that make up each one.
+- A core line of argument is one of the main supports of the case: take it away
+  and the case for this aspect would no longer stand, not merely be less
+  complete.
+- Everything else is not core, including sentences that bear on the problem or
+  on a should-explain point but that the case could stand without, as well as
+  background, procedure, legal or administrative detail, and passing remarks.
+  Do not list these: sentences you leave out are treated as not core.
+
+HOW TO DECIDE
+Bearing on a should-explain point is not enough to make a line of argument
+core: most of the extract does. Pick out what the rest of the argument leans
+on. In most aspects that is one to three lines. Return more than three only when
+the argument genuinely rests on more separate supports, and then say in each
+reason why the case could not stand without it.
+
+A line of argument is the claim and the sentences that make it: the statement
+of the claim, and the sentences that explain, develop or support it. Include
+the sentences that do this wherever they fall in the extract.
+
+Judge by what the sentences say and the role they play in the argument, not by
+how well supported they are. You cannot see the evidence and should not try to
+infer its quality: bare assertion can be core, and a passage full of figures can
+be not core. Do not leave a line out because it is short, and do not make it
+core only because it is long.
+
+Return at least one line of argument unless the extract holds no argument for
+this aspect at all; in that case return none.
+
+OUTPUT
+Return structured JSON with one entry per core line of argument:
+- name: a short name for the line of argument
+- reason: one or two sentences saying why the case for this aspect rests on it,
+  naming the problem or the should-explain point it bears on, if any
+- ids: the sentence codes that make it up. List only codes that appear in the
+  extract, each copied exactly; never list a range of codes.

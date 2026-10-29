@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Regulator-led delivery and phased transition",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 33-38, 142-155, 181-190 and Schedule 2 only describe the authorisation process, six-month application window, six-week extension and commencement; none gives a statistic, finding, consultation or source showing why the Regulator-led, phased route was chosen or will work."
+    },
+    {
+      "theme": "Detail set by regulations with parliamentary scrutiny",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 34, 145, 185-188 and clause 43(2)-(4) only state which matters are left to regulations (line 188 says no parliamentary procedure for commencement), with no evidence offered for why this approach was chosen."
+    },
+    {
+      "theme": "Territorial extent and devolved scope",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 23 and 174-177 assert that the Bill is Great Britain-only and reserved, with no evidence beyond a statement of the constitutional position."
+    }
+  ],
+  "reasoning": "Both core themes describe how the master trust authorisation regime will be delivered, but neither shows evidence for why this route was chosen. \"Regulator-led delivery and phased transition\" sets out the process: the Regulator decides within six months (line 35), existing schemes get a six-month application period with a possible six-week extension (lines 150-151), and clause 43 sets out commencement. This is a description of the policy, not evidence that it will work. There is no consultation, data, modelling, comparator or cost figure behind the choice of a six-month window, a six-week extension or a Regulator-run model. There is also no discussion of alternative delivery methods, and no costs or benefits. \"Detail set by regulations with parliamentary scrutiny\" lists the powers left to the Secretary of State (lines 185-188), and line 188 even states that the commencement powers will have no parliamentary procedure. It offers no grounds for leaving detail to regulations. The territorial theme, which is not core, is also just a statement of constitutional position. No references or links appear in the extract. The strongest counter-example is that the Legislative Consent Motion statement (line 23) and the stated intention to commence only once regulations are in force (line 143) have a rationale, but that rationale is argument rather than evidence. To reach level 1 the document would need to cite some evidence, such as consultation responses, regulator experience or an impact estimate, explaining why this timetable and delivery model were chosen. Mean of core themes is 0, giving a score of 0.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Rising life expectancy",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Demographic change under pay-as-you-go",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Rising fiscal cost of an ageing society",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Past inaction and reactive reform",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

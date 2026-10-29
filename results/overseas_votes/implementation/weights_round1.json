@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Identity Verification and Documentation Requirements",
+      "reason": "Explains the core method chosen for implementing overseas elector registration—verifying identity via NI number, passport, or attestation—directly addressing how the intervention will be rolled out.",
+      "weight": "core"
+    },
+    {
+      "theme": "Attestation Process and Limits",
+      "reason": "Details a key mechanism and its safeguards (limits on attestations) within the implementation method, explaining why this fallback verification approach was chosen and how fraud risk is managed.",
+      "weight": "core"
+    },
+    {
+      "theme": "Address Registration and Residence Verification",
+      "reason": "Describes the specific procedural method for verifying an applicant's connection to a UK address, a central part of how the registration process is implemented.",
+      "weight": "core"
+    },
+    {
+      "theme": "Registration Renewal and Duration",
+      "reason": "Explains the implementation mechanism for maintaining registration over time, including renewal procedures and simplifications, directly bearing on how the intervention is delivered on an ongoing basis.",
+      "weight": "core"
+    },
+    {
+      "theme": "Overseas Elector Eligibility and Categories",
+      "reason": "Mostly reiterates eligibility categories and franchise scope rather than explaining implementation method choices; it is background context rather than the rationale for how registration is delivered.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Application Process and Submission Methods",
+      "reason": "Briefly notes the channels (online, paper, telephone) for submitting applications, a minor procedural detail rather than the substance of the implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Franchise and Election Types",
+      "reason": "Addresses what elections overseas electors can vote in, which is a scope/eligibility matter rather than the implementation method itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Contains general remarks about document complexity and funding assurances without engaging with the specific implementation method, evidence, or alternatives.",
+      "weight": "not core"
+    }
+  ]
+}

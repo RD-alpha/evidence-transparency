@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Strategic Goals and Overall Ambition",
+      "reason": "Establishes the overarching targets and timetable (2015-2020) against which success will be measured, and signals that interim goals/measures exist across five areas - this frames the whole measurement and evaluation approach that the rest of the aspect depends on.",
+      "weight": "core"
+    },
+    {
+      "theme": "Data Collection, Tracking and Monitoring Progress",
+      "reason": "This is the central mechanism for measuring impact: it describes the baseline data collection, quarterly reporting, long-term tracking of apprentice outcomes, and the timetable (legislative target April 2017, annual review 2016/17) by which progress will be evaluated. Without this the case for how the policy's effects will be known collapses.",
+      "weight": "core"
+    },
+    {
+      "theme": "Apprenticeship Levels, Spread and Levy Spend",
+      "reason": "Gives specific measurable metrics (levels, spend, levy utilisation) that operationalise the monitoring framework for one dimension of success, but is one of several parallel measurement areas rather than the backbone of the evaluation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Diversity, Inclusion and Social Mobility",
+      "reason": "Provides specific outcome measures tied directly to the stated problem of low diversity/social mobility, making it a key substantive outcome to be measured, though it is one of several measurement domains rather than the structural basis of the evaluation plan.",
+      "weight": "core"
+    },
+    {
+      "theme": "Employer Engagement, Productivity and Return on Investment",
+      "reason": "Supplies specific metrics (employer surveys, productivity, retention) for assessing return on investment and addressing skills shortages, but functions as one of several outcome measures rather than the core structural argument for how success will be evaluated.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Apprentice Engagement, Progress and Reputation",
+      "reason": "Offers further specific metrics (engagement scores, external recognition) that supplement the evaluation framework but are additional indicators rather than the foundational basis for how impact will be measured.",
+      "weight": "not core"
+    }
+  ]
+}

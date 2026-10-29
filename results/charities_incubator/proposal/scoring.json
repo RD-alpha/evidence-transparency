@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Public Service Incubator",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines describe what the incubator will do and its aims (e.g. 'aims to support high-potential VCSEs', 'Demonstrate that charities are impactful') but offer no statistic, finding, source or consultation evidence that it will get small charities commissioned, and there are no references or links."
+    },
+    {
+      "theme": "Commissioning Kitemark",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines say the kitemark 'will lead to positive long-term change' ('It's hoped...') with no evidence, example of a comparable scheme or citation behind the claim."
+    },
+    {
+      "theme": "VCSE Crown Representative",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The theme only describes the role as a central champion and intermediary, with no evidence that such a role improves charity access to commissioning."
+    },
+    {
+      "theme": "Voluntary sector expertise improves public services",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line 'Government sees accessing their expertise as a key route to improving public services' is an assertion with no evidence or citation."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This line repeats the crown representative aims and a press office contact, and contains no evidence."
+    }
+  ],
+  "reasoning": "All four core themes (Public Service Incubator, Commissioning Kitemark, VCSE Crown Representative, and Voluntary sector expertise improves public services) score level 0, so the mean is 0 and the section score is 0. The extract describes three measures and their aims but offers no evidence for why they were chosen or why they would work. For example, 'It's hoped this will lead to positive long-term change' is an expectation, not a finding. 'Government sees accessing their expertise as a key route to improving public services' is an assertion. The extract has no statistics, named reports, consultation responses, evaluations of earlier schemes or comparable policies elsewhere. No references or links are attached to any line. Nothing indicates that the department used its own data or analysis. The extract also does not assess the strength of any evidence, mention alternatives that were considered, or give costs and benefits. The strongest counter-example is the incubator's aim to 'identify in real time the barriers' and 'measure the improved outcomes', which hints at future evidence gathering. That is a plan for learning, not evidence behind the decision, so it does not lift the level. To reach level 1, the document would have to offer some evidence for each measure, such as survey data on charities' commissioning barriers, results from earlier kitemark or champion schemes, or consultation responses, and explain how that evidence led to the choice. For level 2 it would also have to cite the sources.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

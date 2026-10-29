@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Local authority enforcement via Trading Standards",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that Trading Standards should lead enforcement is justified only by the unreferenced statement that this 'builds on the existing work of Trading Standards...enforcing the requirement for letting and managing agents to belong to a redress scheme and the transparency requirements of the Consumer Rights Act 2015', which explains the rationale but carries no citation."
+    },
+    {
+      "theme": "Additional enforcement infrastructure",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Detailed descriptions of NTSEAT and the Scottish, Welsh and Northern Irish regulatory frameworks are offered as comparable models (e.g. 'The broader regulatory framework in Scotland is intended to help strengthen the letting agent industry'), but no outcome data or references are given to show these models actually worked."
+    },
+    {
+      "theme": "Tenant empowerment and education",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim 'Tenant empowerment and education has helped to improve compliance in other areas of the sector, for example, deposit protection' offers a prior-experience rationale but with no data, statistics or citation to support it."
+    },
+    {
+      "theme": "Penalties for non-compliance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The proposed \u00a330,000 civil penalty is justified by analogy to the existing 'civil penalties of up to \u00a330,000 for breach of a banning order' under the Housing and Planning Act 2016 and the current \u00a35,000 fine for redress/transparency breaches, but neither figure carries a reference or link."
+    }
+  ],
+  "reasoning": "All four core themes rest on the same weak evidentiary pattern: a plausible rationale supported by an unreferenced fact rather than a cited, linked source. Local authority enforcement is justified only by pointing to Trading Standards' 'existing work...enforcing the requirement for letting and managing agents to belong to a redress scheme', with no data on effectiveness or citation. The enforcement infrastructure theme draws heavily on Scotland's Housing (Scotland) Act 2014, Wales' Rent Smart Wales scheme and the Estate Agent sector's NTSEAT as comparators, but these are described rather than evaluated - there is no outcome evidence (e.g. compliance rates) and no reference numbers despite empty <references>/<links> blocks throughout. Tenant empowerment claims that education 'has helped to improve compliance in other areas of the sector, for example, deposit protection' without any figures. Penalties are pegged to the existing \u00a35,000 civil penalty and the \u00a330,000 banning-order penalty under the Housing and Planning Act 2016 - a reasonable comparator, but again uncited and unlinked. Each theme therefore sits at level 1: evidence is present and given some explanatory role, but never properly cited or linked to the specific policy choice, and no theme assesses the strength or limits of its evidence. The mean of (1,1,1,1) is 1. The strongest counter-example is the Scotland/Wales comparison, which is the richest evidence offered, yet even this lacks outcome data or citation. To reach level 2, the document would need to cite sources (e.g. evaluations of the Scottish or Welsh schemes, or Trading Standards performance data) with clear links to the specific delivery choices made.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

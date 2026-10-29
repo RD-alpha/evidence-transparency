@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Threshold placement trade-off",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claims about reformulation incentives and price pass-through ('may encourage some producers to reformulate', 'producers may choose to keep their alcoholic strength unchanged... and pass this onto consumers') are pure reasoning about likely behaviour with no cited data, research, or consultation evidence behind them."
+    },
+    {
+      "theme": "Risk of over-broad targeting",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single sentence 'all still ciders and perries within the band would be impacted' is an assertion about the measure's scope with no supporting data or analysis offered."
+    },
+    {
+      "theme": "Consultation as the method for finalising design",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The theme describes the tax consultation framework's five stages and the 12-week timetable but gives no evidence (precedent, data, or assessment) for why this process or duration is the appropriate way to decide the design."
+    },
+    {
+      "theme": "Consultation administration",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Purely procedural instructions on how to respond (email/post addresses, consultation principles link) with no evidential content."
+    }
+  ],
+  "reasoning": "All three core themes score 0. 'Threshold placement trade-off' sets out a plausible chain of reasoning about producer reformulation versus price rises ('a narrow duty band... may encourage some producers to reformulate', 'producers may choose to keep their alcoholic strength unchanged, pay the higher duty rate and pass this onto consumers') but this is reasoning, not evidence - no survey, modelling, market data or consultation finding is cited to show how producers actually respond to duty thresholds. 'Risk of over-broad targeting' is a one-line description ('all still ciders and perries within the band would be impacted') asserting a side-effect with nothing behind it. 'Consultation as the method for finalising design' explains the tax consultation framework and the 12-week timetable but offers no evidence - no precedent, no assessment of past consultation effectiveness - for why a stage-1 consultation is the right way to decide design; it merely describes the chosen process. The strongest counter-example considered was the threshold theme's detailed behavioural reasoning, but per the rules reasoning alone, however plausible, stays at level 0 without a statistic, finding or named evidence source. Mean of (0,0,0) = 0, giving a section score of 0. To reach level 1 the document would need to cite even unattributed evidence, e.g. 'research suggests X% of white cider producers would reformulate', or figures from a prior consultation or market survey showing likely producer/consumer responses to threshold placement.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

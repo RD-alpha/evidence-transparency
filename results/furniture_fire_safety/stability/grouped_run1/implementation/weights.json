@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Testing Methodology and Routes to Compliance",
+      "reason": "This is the central implementation mechanism: it lays out the specific routes to compliance, the revised match test, and how choices were changed in response to stakeholder feedback, directly explaining how the intervention will be delivered and why this method was chosen over alternatives.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope and Exemptions",
+      "reason": "Defines which products are covered by the new regime and why certain exclusions are proposed, bearing on how the intervention will be rolled out and what alternatives (removing certain products) were considered; without this the implementation boundaries would be unclear.",
+      "weight": "core"
+    },
+    {
+      "theme": "Record-Keeping, Labelling and Traceability",
+      "reason": "Describes a specific administrative requirement for implementation but is a supporting/ancillary mechanism rather than a core pillar of the rollout method; it adds detail without being a necessary support for the overall case.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Transition Period and Implementation Timeline",
+      "reason": "Explains the chosen timeline for rollout, including why the transition period was extended and the cost trade-offs considered, directly addressing how the intervention will be phased in and the reasoning/evidence behind that choice.",
+      "weight": "core"
+    },
+    {
+      "theme": "Cost Impacts and Evidence Base for Policy Development",
+      "reason": "These are general statements about testing assumptions and gathering more evidence through consultation, rather than substantive argument for the implementation method itself; removing them would not undermine the core rollout case.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Business Support and Guidance",
+      "reason": "Describes supportive measures (guidance, trade association engagement) that facilitate implementation but are secondary to the core testing/compliance and timeline decisions; the case for implementation could stand without this detail.",
+      "weight": "not core"
+    }
+  ]
+}

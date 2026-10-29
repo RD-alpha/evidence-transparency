@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "New care models and pension access",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "References 2 and 3 (the 5YFV and the MCP framework) are cited and followable, but they only describe the new care models and contracts, and the claim that they create pension access gaps rests on unsupported assertion in lines 2-3."
+    },
+    {
+      "theme": "Growing sub-contracting and unequal playing field",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The line 'It was felt that not being able to offer scheme membership was a continuing factor...' implies the department's access review findings, but it gives no method, respondents or data, and nothing is cited, so it stays at level 1."
+    },
+    {
+      "theme": "Unintended effects of existing rules",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that national minimum wage changes engage regulation D3 rests on 'It has been brought to the Department's attention' and 'clearly not within the spirit or intent', which are assertion and reasoning with no figures, source or analysis."
+    },
+    {
+      "theme": "Technical drafting and indexation issues",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The three lines are bare statements about an omitted date and indexation timing, with no evidence or citation."
+    }
+  ],
+  "reasoning": "The diagnosis rests on three core themes. 'New care models and pension access' gives followable citations (References 2 and 3, the 5YFV and the MCP framework). They support only the description of new care models and contracts. The central claim that these 'led to the identification of specific issues surrounding access to the NHS pension scheme' has no evidence behind it, so I scored it 1. 'Growing sub-contracting and unequal playing field' refers to an access review ('It was felt that...') that looks like primary evidence. The document does not say who was consulted, how many responded or what they were asked, and it has no citation, so it is level 1. The sub-contracting trend itself is asserted ('continues to monitor') with no data. 'Unintended effects of existing rules' offers only the department being told of a problem and a statement that it is 'clearly not within the spirit or intent', which is argument rather than evidence, so it is level 0. The mean of the core levels is (1+1+0)/3 = 0.67, which rounds to 1. The strongest counter-example to this level is that the first theme's cited references could be read as level 2. But they evidence the context, not the problem, so they do not lift it. To reach level 2, the document would need to set out the access review's method and findings, give data on the scale of sub-contracting and the staff or providers left without scheme access, and cite the source showing how the minimum wage changes engage regulation D3.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

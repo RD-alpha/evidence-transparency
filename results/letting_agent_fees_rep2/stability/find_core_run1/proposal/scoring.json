@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rebalancing market incentives toward landlords",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that the ban sharpens agents' competitive incentives rests only on reasoning in this theme, but is partly supported by the uncited Scottish finding that 'the number of letting agents in Scotland has increased since the ban indicating that the sector has become more competitive.'"
+    },
+    {
+      "theme": "Improving tenant transparency and comparability",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "No direct evidence appears in the theme itself; the only relevant support is the uncited Scottish survey finding that '56% of private tenants agreed... not being able to charge fees on top of rents or deposits improves the rental sector', which is named in prose but carries no reference marker."
+    },
+    {
+      "theme": "Scope of the ban and limited carve-outs",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The specific design choices (banning all third-party fees, exploring deposit caps) are asserted with no evidence given for why these particular limits or exceptions were chosen."
+    },
+    {
+      "theme": "Likely effect on rents and overall cost",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Shelter's report and BDRC Continental's findings (e.g. '17% of agencies claim to have increased fees to landlords' and modelling showing '1% and 2% of rent rises... could, in part, be caused by the law') are discussed and even assessed as 'inconclusive', but none of these lines in this theme carry a reference or link, keeping it at level 1 despite the clear assessment of uncertainty."
+    }
+  ],
+  "reasoning": "The four core themes vary little: each either offers no evidence or relies on evidence that is named but not formally linked to a reference within the relevant lines. 'Rebalancing market incentives' (level 1) and 'Improving tenant transparency' (level 1) both rest mainly on plausible but uncited reasoning, supplemented weakly by uncited Scottish statistics such as the growth in letting agent numbers and the '56% of private tenants agreed' survey finding. 'Scope of the ban' (level 0) simply describes the chosen design (e.g. 'Tenants should only be required to pay their rent and a refundable deposit') without evidence for why these boundaries were set. 'Likely effect on rents and overall cost' is the richest theme, quoting Shelter's and BDRC Continental's findings and even weighing contradictory results ('this is inconclusive'), which is genuine assessment of uncertainty - but because none of these lines carry a '(Reference:)' marker, it cannot pass level 1 under the framework's citation rule. The mean of (1+1+0+1)/4 = 0.75, rounding down to a section score of 1. The strongest counter-case for a higher score is the nuanced rent-impact discussion, which reads as though it should be properly sourced. To reach level 2, the document would need to attach explicit references/links (e.g. to the Shelter/BDRC reports already cited elsewhere as Reference 16) directly to the claims they support, especially in the rents and transparency themes.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

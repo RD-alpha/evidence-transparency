@@ -1,0 +1,103 @@
+S0056 It is already home to more than ten million people.
+S0057 Its economy is worth £217.7 billion - 13% of the UK’s annual output.
+S0058 It has the UK’s second largest city – Birmingham – which is already growing rapidly: in 2014/2015, Birmingham’s economy grew by 5.1%. 1. Over the next few years, there are major opportunities to build on this base. ** (Reference: 3)
+S0062 This region is already the headquarters for a range of globally significant businesses, including Jaguar Land Rover, JCB and Rolls Royce.
+S0063 Last year, the Midlands accounted
+S0064 for 19.1% of all English goods exports going to over 100 countries. It is home to a number of nationally significant clusters, including advanced manufacturing in the Black Country and Derbyshire, the automotive cluster around Coventry and Warwickshire, and the ceramics industry in Stoke and Staffordshire. ** (Reference: 4)
+S0065 The Midlands’ science and research base is also strong: the region has 20 universities, with research strengths ranging from civil engineering to space technology.
+S0066 1.5 Over and above its well-known manufacturing strengths, the Midlands Engine economy has a strong services base.
+S0067 In 2015 Gross Value Added (GVA) in the service sector was £158.4 billion, 72.8% of total GVA in East and West Midlands. ** (Reference: 5)
+S0068 The Midlands Engine Science and Innovation Audit highlighted that in 2014 the Midlands Engine accounted for 14% of UK GVA in real estate activity, 13% in business services and 9% in financial and insurance activities. ** (Reference: 6,7)
+S0072 However, despite these strengths, the Midlands economy has been falling behind over recent years.
+S0073 In 1997, the productivity gap between the Midlands and the UK average was about 10%. By 2015, it had grown to about 15%. This productivity challenge applies across both rural and urban areas. ** (Reference: 8,9)
+S0075 The Midlands economy suffers from three key weaknesses that we need to address.
+S0076 First, there is a shortage of skilled workers.
+S0077 The proportion of highly skilled people is about 15% below the England average. One in every eight people in the West Midlands has no qualifications. And too many skilled graduates are leaving the region after completing their studies. ** (Reference: 10,11)
+S0078 1.9 Second, the region’s economy is fragmented into small, poorly connected areas.
+S0079 This means that the whole sometimes adds up to less than the sum of its parts and the Midlands isn’t making the most of its position at the centre of the country.
+S0080 1.10 Third, there is a lack of entrepreneurship and economic dynamism.
+S0081 In 2015, the number of businesses created for every 100,000 people in London was more than double the rate in the Midlands. ** (Reference: 12)
+S0148 First, the Midlands’ geographical location at the centre of the UK gives it an inherent advantage in ensuring it is well connected to the wider UK economy.
+S0149 92% of the UK’s population can reach the Midlands in less than four hours. 45% of British rail freight goes through the Midlands. ** (Reference: 13,14)
+S0150 2.3 Second, the Midlands is already quite well connected to the international economy.
+S0151 Birmingham Airport handles more than ten million passengers each year. East Midlands airport is the second largest freight airport in the country. ** (Reference: 15,16)
+S0152 2.4 Third, the Midlands has comparatively strong digital infrastructure.
+S0153 The UK average for superfast broadband coverage is 92.4%. In the East Midlands, 95.2% of households can access superfast broadband. In the West Midlands, the figure is 94.7%. 2. ** (Reference: 5,17,18,19)
+S0154 However, transport connections within the region are often too slow and congested.
+S0155 There were over six million hours of delays across the Midlands Motorway Hub in 2014/2015. It takes nearly three hours to travel just over 100 miles from Leicester in the North East of the region to Hereford in the South West by train - more than three times as long as it will take to travel a similar distance from London to Birmingham once HS2 opens. ** (Reference: 20)
+S0157 The weakness of transport connections within the region is a particular problem because of the dispersed nature of the population.
+S0158 Even though Birmingham is the second largest city in the UK, the Midlands’ population is considerably more spread out than most other regions of England.
+S0159 This makes it more expensive for people, goods and ideas to move around, holding back innovation and making it harder for people to find jobs that match their skills.
+S0160 Ultimately, this lowers productivity, and wages.
+S0220 Modernising digital infrastructure 2. Digital connectivity is also crucial to raising productivity and living standards. ** (Reference: 17)
+S0221 The internet has revolutionised the way we work.
+S0222 Superfast broadband is already supporting economic growth, raising business productivity, and improving quality of life for residents.
+S0223 We need to ensure that the Midlands’ digital infrastructure keeps pace with national and international competitors.
+S0251 Opportunities and Challenges 3. Regional disparities in skills are crucial to explaining regional disparities in growth and productivity. ** (Reference: 1)
+S0252 Businesses will choose to locate and expand in places where they can easily find people with the skills they need.
+S0254 The Midlands has key strengths on which we can build.
+S0255 First, the Midlands is home to 20 universities.
+S0256 These include three universities that have been ranked in the top 150 in the world – Warwick, Birmingham, and Nottingham.
+S0257 The thriving higher education sector in the region provides a valuable base for ensuring the region has the skills it
+S0258 needs to attract businesses.
+S0260 Second, the Midlands has a bedrock of highly skilled, specialist employees in high value manufacturing.
+S0261 Over 600,000 people in the Midlands work in manufacturing, delivering over 21% of the UK’s annual manufacturing output. ** (Reference: 21)
+S0262 3.4 Third, the Midlands has a strong tradition of apprenticeships, reflecting its industrial heritage.
+S0263 In 2015/2016, there were 1,045 apprenticeship starts per 100,000 people in the Midlands. ** (Reference: 22)
+S0264 This was about 14% higher than the England average of 920. 3. However, these strengths should not obscure the underlying story: the Midlands skills base is weak compared to other regions. ** (Reference: 5,23)
+S0265 Across England, 36.8% of people have at least a qualification that is equivalent to a degree and this rises to nearly 50% in London. ** (Reference: 24)
+S0266 The figures for the East and West Midlands are 31.8% and 31.2% respectively. ** (Reference: 25)
+S0267 The West Midlands is the region with the highest proportion of people with no qualifications – 13%. ** (Reference: 26)
+S0268 The inactivity rate in the West Midlands is 23.1%, compared to the national average of 21.6%. As a result, in 2015, at least 30,000 vacancies were hard to fill because of a lack of suitably skilled candidates. 3. ** (Reference: 6,27,28,29)
+S0269 This situation reflects two facts: first, outcomes in schools in the Midlands are below the national average.
+S0270 More than a quarter of secondary schools in the Midlands are not reaching the required standards set out by Ofsted. ** (Reference: 30)
+S0271 The West Midlands is the joint worst performing region, along with Yorkshire and the Humber, for primary school outcomes. ** (Reference: 31)
+S0272 3.7 Second, the Midlands struggles to retain the graduates it educates, and also to attract graduates from other parts of the country.
+S0273 Just 37.9% of graduates in the East Midlands who are in work six months after graduation, are working in the region. The figure for the West Midlands is 55.4%. In contrast, London retains 69.2% of its graduates. ** (Reference: 32,33,34)
+S0349 Challenges and Opportunities 4. The Midlands is home to a range of nationally significant clusters of industry and expertise. ** (Reference: 1)
+S0350 This was highlighted by the recent Midlands Engine Science and Innovation Audit.
+S0351 The area’s sectoral strengths include:
+S0352  Advanced manufacturing, particularly in the Black Country and Derbyshire.
+S0353 The Midlands accounts for over 21% of UK manufacturing output.  ** (Reference: 35)
+S0354 Automotive cluster in Coventry and Warwickshire, where several
+S0355 internationally renowned companies are based, including Jaguar Land Rover, BMW, General Electric, and Aston Martin Lagonda. 39% of employment in the UK automotive sector is located in the Midlands.  ** (Reference: 36)
+S0356 Connected and Autonomous vehicles, much of the UK’s world-leading
+S0357 capabilities in this emerging sector is located in the Midlands, ranging from the UK Autodrive driverless car trial jointly run by Coventry and Milton
+S0358 Keynes, the Transport Systems Catapult, the Nissan Technical Centre Europe (Cranfield), and leading proving grounds like Millbrook and Horiba Mira.
+S0359  Ceramics in Stoke and Staffordshire.
+S0360 The ceramics industry employs 4,800
+S0361 people in the West Midlands; this is over double the number of people employed in all the other UK regions combined.  Life sciences and medical devices in Birmingham and Nottingham. ** (Reference: 37)
+S0362 The
+S0363 Midlands has more medical technology companies than any other region of the UK.  Agri-food and drink processing, particularly in Lincolnshire, the Marches ** (Reference: 38)
+S0364 and Leicestershire.
+S0365 132,000 people in the Midlands work in this sector, across 33,000 companies.  Space technology around the Space Research Centre and Earth ** (Reference: 39)
+S0366 Observation Centre in Leicester.
+S0367  Digital technology, including in the cyber security clusters in Malvern and
+S0368 Nottingham, and the games development clusters in Leamington Spa and Coventry.
+S0369 Approximately 139,000 people are employed in the digital technology economy in the Midlands. 4. These clusters are underpinned by the region’s strong science and research base. ** (Reference: 2,40)
+S0370 The Midlands’ 20 universities have research strengths across a range of areas, including manufacturing technology, civil engineering, and space technology.
+S0371 Six research intensive universities in the Midlands have come together to form Midlands Innovation, a world-class university research and innovation partnership.
+S0372 From the National Automotive Innovation Centre at the University of Warwick to the Life Sciences Campus in Birmingham, and from the space research in Leicester to the Carbon Neutral Laboratory for Sustainable Chemistry, a collaboration between the University of Nottingham and GlaxoSmithKline, the Midlands is home to world leading research across a range of specialisms.
+S0374 The region has key assets including the National Exhibition Centre and International Convention Centre in Birmingham, hosting national and internationally focused conferences and events.
+S0375 IBM’s Client Innovation Centre is in Leicester, providing high value application development and maintenance and systems management services.
+S0376 And the Midlands Engine is home to a number of notable clusters of innovative firms - from cyber security in Malvern and Nottingham, to the games development clusters in Leamington Spa and Coventry.
+S0377 4.4 However, despite these strengths, productivity in the Midlands still lags behind the national average.
+S0378 GVA per employee in the Midlands is £44,447 compared to the UK
+S0379 average of £50,830. This is true even in areas of comparative strength – GVA per employee in manufacturing in the Midlands is 23.90% below the UK average. 4. This is reflected in the lack of dynamism in the Midlands’ economy. ** (Reference: 5,41,42)
+S0380 Despite the area’s research strengths, in 2015, there were 54 new companies created per 10,000 people in the East Midlands, and just 51 in the West Midlands.
+S0381 This is about 25% below the England average of 70, and less than half of the figure for London. ** (Reference: 43)
+S0434 Challenges and Opportunities 5. The Midlands has strong connections to the rest of the world. ** (Reference: 1)
+S0435 The region has two international airports, serving over 14.6 million passengers a year, and flying to over 200 countries. It also has some of the best shipping ports in the UK, in Greater Lincolnshire. ** (Reference: 44,45)
+S0436 The Ports of Grimsby and Immingham combined form the UK’s largest port by tonnage, handling 59.1 million tonnes of cargo each year. 5. ** (Reference: 2,46)
+S0437 The region is an attractive place for investors.
+S0438 It is well connected to other areas of the UK: 92% of the UK’s population is within a four hour commute of the Midlands. 31% of the population is under 25, offering a young, dynamic pool of labour for businesses. ** (Reference: 47,48)
+S0440 Reflecting these advantages, the Midlands has performed well on inward investment over recent years.
+S0441 Since 2011, over 1,000 projects have secured foreign investment in the region, creating or safeguarding over 100,000 jobs. Foreign investors have helped to catalyse growth in the region, through acting as anchors for local economies, and supporting extensive supply chains across the region. ** (Reference: 49)
+S0442 5.4 Midlands exports have also performed strongly.
+S0443 In 2015, the Midlands region exported £39.9bn worth of products to over 100 countries. This represented an increase of 6.5% from 2014 – the largest rise in exports of any UK region. ** (Reference: 50,51)
+S0496 Challenges and Opportunities 6. Successful places need to be able to attract dynamic, skilled workers who can drive local productivity and growth. ** (Reference: 1)
+S0499 The Midlands encompasses some of the most renowned natural, historical and cultural sites in the country.
+S0500 From the UNESCO
+S0501 World Heritage sites of Derwent Valley Mills and Ironbridge Gorge, to the Peak District National Park and the National Forest, the Midlands has a rich cultural and natural heritage.
+S0502 Reflecting this in 2015, 20.1 million overseas and domestic overnight visits were made to the Midlands, with inbound visits alone contributing £1.25 billion spend. This is in addition to over 230 million day visits. In 2013, the economic value (GVA) of tourism in the Midlands was £6.33 billion. 6. Increasing housing supply is central to the government’s vision of a country that works for everyone. ** (Reference: 3,52,53,54,55,56)
+S0504 However, across the Midlands there is a need to provide even more housing for future generations.

@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Proportionate, digital-first processing of cases",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only the pre-recorded cross-examination pilot (Reference 1, 'half the time') and Briggs review (Reference 2) are cited; most claims of faster, more convenient justice (e.g. 1.8, 7.1.1) are asserted, and no uncertainty is assessed."
+    },
+    {
+      "theme": "Online conviction and fixed fine for minor offences",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The theme describes the proposal and its safeguards (7.2.4, 7.2.6) but offers no statistic, finding or source that the online process will work as intended, so it is reasoning only."
+    },
+    {
+      "theme": "Flexible tribunal panel composition",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Cited MoJ statistics (References 7, 8) on appeal rates of 32-37% and 8-11% plus the \u00a321m fee figure link to the single-member proposal, but the \u00a321m is uncited and no limitations or contrary evidence are acknowledged."
+    },
+    {
+      "theme": "Assisted digital support to preserve access to justice",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 30/52/18% split (References 6, 11) and the \u00a35m-\u00a39m cost estimate are tied to the assisted digital package, with extensive cited equality data (References 12-29) and ungrouped lines acknowledging assumptions and uptake risks, but the cost method is only partly explained and the cost range is uncertain without a full assessment of the evidence base."
+    }
+  ],
+  "reasoning": "Four core themes, scored on the evidence for each claim. Digital-first processing (level 1) rests on two cited items: the pre-recorded cross-examination pilot ('witnesses gave evidence in half the time', Reference 1) and the Briggs review (Reference 2). The rest, such as 'faster, more accessible service', is asserted. Online conviction and fixed fine (level 0) is a description of the proposal and its safeguards (7.2.4, 7.2.6) with no evidence that it will work or be accepted. Tribunal panel composition (level 2) is the best linked: References 7 and 8 show appeal outcomes stayed stable after panel reductions, and the \u00a321m fee cost is stated, though the latter is uncited and the document does not discuss weaknesses of this before-and-after comparison. Assisted digital (level 2) uses the Government Digital Strategy split (References 6, 11), a \u00a35m-\u00a39m cost estimate and many cited ONS and MoJ equality statistics. Ungrouped lines also acknowledge assumptions, uptake risks and uncosted telephone and webchat elements, which comes close to level 3, but the document does not assess the reliability of the underlying evidence and the cost method is only partly given. The mean is (1+0+2+2)/4 = 1.25, which rounds to 1. The strongest counter-example is the assisted digital theme, which shows some assessment of uncertainty and could argue for a higher score. To reach level 2, the document would need to cite evidence for the online conviction and digital-first claims, such as pilot results from the Single Justice Procedure, and link it to the chosen design.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.25,
+  "score_consistent": true,
+  "missing_core": []
+}

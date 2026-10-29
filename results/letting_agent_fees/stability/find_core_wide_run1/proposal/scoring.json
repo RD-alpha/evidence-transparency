@@ -1,0 +1,52 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rationale for shifting fees to landlords",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claims about landlords' market power sharpening competition and transparency are pure assertions/reasoning with no data, study or source cited anywhere in the extract."
+    },
+    {
+      "theme": "Insufficiency of existing transparency regulation",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The department's own 2016 Client Money Protection call for evidence is described (what stakeholders were asked, that 'the majority' and 'many respondents' said requirements were insufficient), but no respondent numbers or citation are given, so it stays at level 1."
+    },
+    {
+      "theme": "Scottish precedent as supporting evidence",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "The Shelter/Rettie/BDRC Continental research (Reference 16) is cited, its findings (minimal negative side-effects, 1-2% rent effect, 56% tenant approval) are linked to the claim, and the document itself flags uncertainty ('this is inconclusive', 'difficult to directly compare English and Scottish markets')."
+    },
+    {
+      "theme": "Scope of the ban",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines describe what the ban will cover but give no evidence for why this scope (covering landlords/third parties, exempting certain costs) was chosen."
+    },
+    {
+      "theme": "Anticipated costs and benefits",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that full fees won't be passed to landlords cites unnamed 'evidence that a number of agents are charging excessive fees and... double charging' with no source identified, keeping it at level 1."
+    },
+    {
+      "theme": "Design and implementation of the ban",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements about wanting a 'clear and simple' ban and examining deposit caps are policy intentions with no supporting evidence."
+    },
+    {
+      "theme": "Policy development context",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This single sentence merely states a policy proposal exists, with no evidence attached."
+    }
+  ],
+  "reasoning": "Of the five core themes, only the Scottish precedent theme reaches a high level: it cites a named, linked report (Reference 16, Shelter/Rettie/BDRC Continental) with concrete findings ('between 1% and 2% of the rent rises...could, in part, be caused by the law', '56% of private tenants agreed...') and the document itself flags limits ('this is inconclusive', 'difficult to directly compare the English and Scottish markets'), earning level 3. The Insufficiency of regulation theme draws on the department's own 2016 Client Money Protection call for evidence, describing what stakeholders were asked but not how many responded or citing a reference, so it sits at level 1. Anticipated costs and benefits similarly gestures to unnamed evidence ('there is evidence that a number of agents are charging excessive fees') without a source, also level 1. The Rationale for shifting fees to landlords and Scope of the ban themes are pure assertion and policy description with no evidence at all, scoring 0. The mean of the five core levels (0, 1, 3, 0, 1) is 1.0, rounding to 1. The strongest counter-example to a higher score is the well-evidenced Scottish theme, but it cannot pull up the average alone since three core themes carry no evidence. To reach level 2 overall, the document would need to cite sources (and respondent numbers) for the transparency-regulation consultation and the excessive-fee claims, and supply some evidence, rather than assertion, for why landlords' market power and the specific scope of the ban were chosen.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

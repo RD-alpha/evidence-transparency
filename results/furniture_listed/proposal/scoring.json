@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Revised match test and routes to compliance",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The linked 2014 consultation (Link 8/9) and BSI/technical-panel feedback (Annex 6, detailed in the 'Testing methodology' theme) are explicitly used to drop Filling 1, abandon a foam chemical spec and the exclusion list, while the document itself flags the limits of this evidence (e.g. '99% of past cases' correlation but noting leathers/non-synthetics 'did not hold', and 'mixed views' on fibre density) and cites cost savings via Reference 8/9 and the technical annex (Link 14/15)."
+    },
+    {
+      "theme": "Clarified scope with targeted exclusions",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Scope changes are justified by 'discussions at the stakeholder workshops' and 'BIS analysis of evidence submitted by the Baby Products trade association' (\u00a32.7m figure), but neither carries a reference or link, and the document admits 'we do not have robust information... have not therefore been able to quantify these benefits.'"
+    },
+    {
+      "theme": "Strengthened traceability and enforcement",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Claims rest on unreferenced stakeholder-workshop agreement ('it was agreed that it already standard practice for reputable retailers...') and a vague appeal to charities' concerns, with no citation or link provided anywhere in this theme."
+    },
+    {
+      "theme": "Choice of regulatory update over alternatives",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The rejection of Option 3 is explained via the EU standard's lack of Official Journal publication/'presumption of conformity', but the key claim 'We do have evidence that the FFRs are effective in saving lives' names no source, and the document admits 'we do not have comparative data' on relative safety."
+    }
+  ],
+  "reasoning": "The four core themes score unevenly. The match test theme reaches level 3: it draws on the linked 2014 consultation (Link 8/9), the BSI process and technical panel (Annex 6), and the linked technical annex (Link 14/15), and the document itself weighs this evidence, acknowledging that the '99% correlation' between match and cigarette tests 'did not hold' for some leathers, and that panel views on fibre density were 'mixed'. The scope, traceability, and 'choice of option' themes each sit at level 1: they mention stakeholder workshops, trade-association data, or regulatory facts (e.g. the EU standard lacking 'presumption of conformity') as grounds for decisions, with some explanation of how they were used, but none carries a reference or link a reader could follow, and claims like 'we do not have robust information' or 'we do not have comparative data' show the gaps are real rather than merely under-cited. The strongest counter-example against a higher score is the match-test theme's genuine use of linked sources and self-critical assessment; against a lower score, scope/traceability/choice themes do explain evidence use, keeping them above 0. Mean of (3,1,1,1)=1.5, rounding down to 1. To reach level 2, the scope, traceability and option-choice sections would need to attach references or links to the workshop findings, trade-association data, and EU-standard comparisons they rely on.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

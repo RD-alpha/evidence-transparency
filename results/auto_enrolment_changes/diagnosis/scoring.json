@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "TPR's inability to identify the trigger date",
+      "primary_evidence": true,
+      "score": 0,
+      "justification": "The claim that TPR 'does not allow' identification of the trigger date via HMRC data rests only on an unspecified reference to 'our subsequent operational experience with AE' with no figures, findings or method given, and carries no reference or link."
+    },
+    {
+      "theme": "Mismatch with industry understanding",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that payroll providers, accountants and pension providers will be confused is asserted with no survey, consultation finding or citation to support it."
+    },
+    {
+      "theme": "Administrative complexity for employers",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The assertion that 'most' new employers and 'most' payroll software are affected is unsupported by any cited data, survey or named source."
+    },
+    {
+      "theme": "Delayed pension saving for workers",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 'up to a month' delay claim is a logical deduction from the policy's design rather than an evidenced finding, and no data or source is cited."
+    },
+    {
+      "theme": "Policy context and scope",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme is purely descriptive of the legal framework and timeline, with no evidence offered about the scale or effects of the problem."
+    }
+  ],
+  "reasoning": "All four core themes rest entirely on assertion and reasoning rather than cited evidence. 'TPR's inability to identify the trigger date' claims a system failure based only on vague 'operational experience with AE', with no data, case examples or figures given, and no reference or link block populated\u2014level 0. 'Mismatch with industry understanding' asserts confusion among payroll providers, accountants and pension providers with no survey or consultation evidence cited\u2014level 0. 'Administrative complexity for employers' claims 'most new employers' face a 'complex manual calculation' and that 'most' payroll software lacks support, but no data, employer numbers or software audit is cited\u2014level 0. 'Delayed pension saving for workers' asserts up to a month's delay, which follows logically from the policy design but is not grounded in any empirical measurement of actual delays experienced\u2014level 0. The strongest counter-example to a uniformly zero score is the 'operational experience' reference in the first theme, which gestures at real departmental knowledge; but without any specifics on what that experience showed, it cannot even reach level 1. The mean of the four core theme levels (0, 0, 0, 0) is 0, giving a section score of 0. To reach level 1, the document would need to state, even briefly, what the operational experience, consultation responses, or payroll-provider feedback actually found (e.g. number of cases, proportion affected, or a named survey) rather than asserting the problem as self-evident fact.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

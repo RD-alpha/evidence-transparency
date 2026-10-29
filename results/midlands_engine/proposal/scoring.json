@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Local Growth Fund investment package",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Allocations and project descriptions (e.g. \u00a3392 million, \u00a3151 million for West Midlands, \u00a312 million Black Country Garden City) are asserted with no evidence that the projects will address productivity barriers; the claim of addressing barriers carries no supporting data."
+    },
+    {
+      "theme": "Connectivity measures",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Some figures are offered as grounds (4000 homes at Loughborough, \u00a31 billion pa and 3,000 jobs at Broadmarsh, \u00a3111 million broadband, 3 HS2 stations) but they are uncited projections, and the only references (8, 15, 21) are ONS/CAA datasets that sit on the diagnosis of fragmentation, with no explained link to the chosen interventions."
+    },
+    {
+      "theme": "Midlands Skills Challenge",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Mentions the West Midlands Mental Health Commission findings, the Paul Farmer/Lord Stevenson review, 2,500 training places and 1,000 degree apprenticeships as grounds, but none is cited and there is no data on the skills gap or on whether Work Coaches or English training work."
+    },
+    {
+      "theme": "Enterprise, innovation, trade and investment",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Offers figures such as Innovate UK's \u00a3500 million across almost 3,000 organisations, the Midlands Engine Science and Innovation Audit and the expected 1,400 businesses and 3,800 jobs from the Investment Fund, but all are uncited and unexplained, with no assessment of past results."
+    },
+    {
+      "theme": "Quality of life and culture",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Gives some figures (85 strategic housing sites capable of 170,000 homes, flood scheme protecting 4,000 properties) but they are uncited and mostly describe existing activity, while the Government Art Collection proposal is only exploratory."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Generic statements that the strategy addresses productivity barriers and lists of commitments carry no evidence."
+    }
+  ],
+  "reasoning": "The four core themes are weak on evidence for why this package should close the Midlands productivity gap. Local Growth Fund investment package (level 0) is a list of allocations and projects, such as \"\u00a3392 million\" and \"\u00a312 million to develop a new garden city in the Black Country\", with no evidence that these projects will \"address barriers to productivity\". Connectivity measures (level 1) offers some figures (\"unlock land for 4000 new homes\", \"boost the local economy by over \u00a31 billion pa, create nearly 3,000 jobs\"), but these are uncited projections. The only references (8, 15, 21) are ONS and CAA datasets, attached to the diagnosis of fragmentation and to HS2, and the document never explains how they lead to the chosen transport projects. Midlands Skills Challenge (level 1) mentions the West Midlands Mental Health Commission and the Farmer/Stevenson review, plus training place numbers, but gives no citations and no data on the size of the skills gap or the effectiveness of Work Coaches. Enterprise, innovation, trade and investment (level 1) cites Innovate UK's \"over \u00a3500 million\" and the \"Science and Innovation Audit\", plus expected jobs and businesses supported, but without sources or an explanation of how they justify the Investment Fund. The mean of the core themes is (0+1+1+1)/4 = 0.75, which rounds to 1. The strongest counter-example to this level is the Connectivity theme, which carries three references and so might be argued to reach level 2, but those references do not support the chosen interventions. To reach level 2 the document would need to cite the sources for its projections and explain how the diagnosis of the productivity gap leads to each investment. To reach level 3 it would also need to assess past programme results and acknowledge uncertainty and alternatives.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

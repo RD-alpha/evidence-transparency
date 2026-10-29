@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Stoke Gifford charge as the trigger",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines on the 12 April 2016 vote and the government's view that action is needed are bare assertion, with no citation, data or finding on how likely other authorities are to follow."
+    },
+    {
+      "theme": "Nature of parkrun",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines describing parkrun as free, volunteer-run and dependent on donations are uncited descriptive assertions, with no data on participation, scale or effects."
+    },
+    {
+      "theme": "Legal basis for charging",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The lines on section 19(2) of the 1976 Act and section 1(1) of the Localism Act 2011 name the statutes and explain how they permit charging, but carry no reference or link, so they stay at level 1."
+    }
+  ],
+  "reasoning": "All three themes are core, and the extract offers little evidence for the diagnosis. The 'Stoke Gifford charge as the trigger' theme (level 0) states that the parish council voted on 12 April 2016 and that \"the government considers it important that action be taken to prevent other local authorities following\" the example. That is an assertion with no evidence on how many councils have charged or are considering it, and no source for the vote. 'Nature of parkrun' (level 0) describes the events as free, volunteer-run and reliant on donations and sponsors. This is background description, with no participation figures, no evidence of harm from charging and no sources. 'Legal basis for charging' (level 1) is the strongest. It explains in some detail how section 19(2) of the 1976 Act and section 1(1) of the Localism Act 2011 allow charging, and notes the limits of the General Power of Competence. This is the sort of legal constraint that can count as evidence, and it is linked to the claim that charging is possible. But it has no references or links, so a reader cannot follow it to a source and it cannot reach level 2. The mean is (0+0+1)/3 = 0.33, which rounds to 0. The strongest counter-example is the legal theme at level 1, which could suggest a higher overall score; but it only shows that charging is lawful, not that a problem of scale exists. To reach level 1 overall, the document would need to offer some evidence for the trigger and the risk of imitation, such as the number of councils considering charges or the effect on participation. For level 2, it would need to cite these with links.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

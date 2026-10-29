@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Night noise harms health and sleep",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "Specific findings are cited and linked to the claim (WHO Night Noise Guidelines refs 78-79 giving dB thresholds for adverse health effects; CAA review ref 80 on sleep disturbance and myocardial infarction risk above 55dB), and the document itself flags gaps and inconsistency, e.g. 'the evidence is inconclusive or limited' for mental health and 'no evidence for long-term persistent effects on cognitive development' for children."
+    },
+    {
+      "theme": "Balancing noise harm against economic benefit of night flights",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Economic benefit figures (230,000 jobs, \u00a321bn GDP, refs 3-4) and the Hatton v UK judgment (ref 73) are properly cited and linked directly to the balancing claim, but no assessment of the strength or limits of these figures is offered."
+    },
+    {
+      "theme": "Growing exempt-aircraft loophole undermines the regime",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The forward-looking claim is linked to properly cited external evidence (easyJet/Ryanair orders, refs 70-71) while the key historical figures on Stansted exempt movements (e.g. summer 2016 exceeding limits) rely on 'Source: DfT data'/CAA data without explanation of how it was compiled."
+    }
+  ],
+  "reasoning": "The core argument rests on three themes. 'Night noise harms health and sleep' reaches level 3: it cites WHO guidelines (refs 66-68, 78-79) and CAA/academic reviews (refs 80, 83-84) with clear figures (e.g. 40-55dB LAeq associated with adverse health effects) and the document itself flags where evidence is weak, noting mental-health and child-cognition effects are 'inconclusive' and that average noise indicators are 'insufficient to fully predict sleep disturbance'. 'Balancing noise harm against economic benefit' reaches level 2: jobs and freight figures (refs 3-5) and the Hatton v UK ruling (ref 73) are properly cited and clearly linked to the balancing claim, but no uncertainty or critique of these figures is offered, so it does not reach level 3. 'Growing exempt-aircraft loophole' also reaches level 2: new aircraft orders (refs 70-71) are properly cited and linked to the claim that exemptions could become unlimited, but the central historical data on Stansted's exempt movements exceeding limits is sourced only as 'Source: DfT data' without explanation of methodology, which would otherwise cap it at level 1. The strongest counter-example is this reliance on unexplained DfT/CAA data for the loophole theme. Mean of (3+2+2)/3 = 2.33, rounding to 2. To reach level 3 overall, the document would need to assess the strengths/weaknesses or uncertainties in the economic and exempt-aircraft evidence as it already does for health evidence.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

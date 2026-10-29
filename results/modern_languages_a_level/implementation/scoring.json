@@ -1,0 +1,76 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Integrated language, culture and society study",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The theme lists detailed requirements (e.g. 'using authentic spoken and written sources', 'translating an unseen passage') with an empty references/links block throughout, giving no evidence for why this integrated approach or these specific skills were chosen over alternatives."
+    },
+    {
+      "theme": "Thematic and cultural content requirements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The requirement to study '2 themes at AS; 4 themes at A level' from two named areas is stated with no citation or data explaining why this number or these categories were selected."
+    },
+    {
+      "theme": "Literary and film study requirements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that students must study one work at AS and two discrete works at A level, with increasing critical depth, is asserted with no evidence (e.g. no research on learning outcomes or comparative pedagogy) and no references in the theme."
+    },
+    {
+      "theme": "Detailed grammar specification as a common benchmark",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The requirement that other-language appendices be 'comparable... to French, German and Spanish' is a bare assertion with no explanation of how comparability was determined or evidence that this benchmarking method works, and no citations appear."
+    },
+    {
+      "theme": "Foundational learning outcomes and transferable skills",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lists aspirational outcomes (e.g. 'develop transferable skills such as autonomy, resourcefulness') with no supporting evidence or citation."
+    },
+    {
+      "theme": "Advanced level research and analytical capabilities",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States A level must require independent research skills with no evidence this requirement improves outcomes and no references."
+    },
+    {
+      "theme": "Prior knowledge and progression from GCSE",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Single line asserting specifications 'must build on' GCSE content, with no evidence of why this progression model was chosen."
+    },
+    {
+      "theme": "Special provisions for Chinese language study",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States exceptions for Chinese (e.g. 'Questions and responses in comprehension... must be in English') with no evidence or data justifying why Chinese is treated differently."
+    },
+    {
+      "theme": "French grammar specification",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Purely a list of grammatical items with no evidence of why this content or level of detail was chosen."
+    },
+    {
+      "theme": "German grammar specification",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Purely a list of grammatical items with no evidence of why this content or level of detail was chosen."
+    },
+    {
+      "theme": "Spanish grammar specification",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Purely a list of grammatical items with no evidence of why this content or level of detail was chosen."
+    }
+  ],
+  "reasoning": "All four core themes describe prescriptive requirements for AS/A level modern language specifications -- integrated language/culture/society study, thematic content, literary and film study, and grammar benchmarking -- but none offer evidence for why these particular delivery choices (number of themes, number of works, grammar scope) were made. Every theme's references and links blocks are empty, and no lines mention a statistic, named report, consultation, dataset, or comparable policy example. For instance, the claim that other-language grammar appendices must have 'a level of challenge and breadth comparable to the requirements for French, German and Spanish' is stated as a rule with no explanation of how comparability is assessed or evidenced. Similarly, the choice of '2 themes at AS; 4 themes at A level' and 'one theme at AS, two works at A level' are simply asserted. The non-core themes (foundational outcomes, research skills, GCSE progression, Chinese provisions, and the grammar lists themselves) are equally unevidenced, confirming this is a content specification document rather than an evidence-based policy justification. The strongest counter-example one might offer is that the grammar lists are highly detailed and internally consistent, suggesting expert development -- but expertise asserted is not evidence shown. To reach level 1, the document would need to mention, even without citation, some research, trial, or consultation finding that informed these specific choices (e.g. 'teachers' consultation responses supported four themes'). Mean of core themes (0,0,0,0) = 0.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Berried lobster and crawfish ban (listed sources)",
+  "alias": "lobster_listed",
+  "uploaded_at": "2026-10-08T17:53:17.041719+01:00",
+  "uploaded_date": "2026-10-08",
+  "uploaded_time": "17:53:17 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "lobster_consultation_listed",
+      "title": "Berried lobster and crawfish consultation (listed source)",
+      "sentence_count": 122,
+      "first_sentence": "S0001",
+      "last_sentence": "S0122",
+      "reference_count": 10,
+      "first_reference": "1",
+      "last_reference": "10",
+      "link_count": 5
+    },
+    {
+      "alias": "lobster_ia_listed",
+      "title": "Berried lobster and crawfish impact assessment (listed source)",
+      "sentence_count": 403,
+      "first_sentence": "S0123",
+      "last_sentence": "S0525",
+      "reference_count": 24,
+      "first_reference": "11",
+      "last_reference": "34",
+      "link_count": 0
+    },
+    {
+      "alias": "lobster_ia_annex_listed",
+      "title": "Berried lobster and crawfish impact assessment annex (listed source)",
+      "sentence_count": 108,
+      "first_sentence": "S0526",
+      "last_sentence": "S0633",
+      "reference_count": 2,
+      "first_reference": "35",
+      "last_reference": "36",
+      "link_count": 3
+    }
+  ],
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "consultation_invitation",
+    "source_documents": 3,
+    "matches_2018_listed_source": "yes",
+    "basis": "Consultation + impact assessment + IA annex (all listed). Ingested from the files Appendix 2 links to (verified by retrieval)."
+  }
+}

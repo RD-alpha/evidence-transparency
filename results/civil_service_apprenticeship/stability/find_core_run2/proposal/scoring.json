@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Setting an ambitious, leading target",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 30,000/2.3% target and its timing are stated as commitments with reasoning about leading by example, but no data or analysis is given for why this figure or pace was chosen, and the BIS '2020 Vision' mention carries no citation in this theme."
+    },
+    {
+      "theme": "Building workforce capability",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims that apprenticeships will meet 'existing and future skills gaps' and reduce reliance on contingent labour are asserted from the Workforce Plan with no data, analysis or citation showing the size or nature of these gaps."
+    },
+    {
+      "theme": "Advancing diversity and social mobility",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements that apprenticeships 'enhance diversity' and 'remove barriers' are asserted without any diversity data, consultation findings or research reference supporting the claim."
+    },
+    {
+      "theme": "Economic and business case for apprenticeships",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim is supported by cited statistics - '81% of apprenticeship employers said apprentices have increased productivity' (Reference 1,2) and lifetime earnings of '\u00a377,000-\u00a3117,000' and '\u00a3150,000' (Reference 3,4) - directly linked to the business-case claim, though the evidence base itself is not critically assessed."
+    }
+  ],
+  "reasoning": "The four core themes vary sharply in evidential grounding. 'Setting an ambitious, leading target' and 'Building workforce capability' rest entirely on assertion and reasoning - the Workforce Plan and the 30,000/2.3% figures are described but never justified with data on skills shortages or why this specific scale was chosen, scoring 0. 'Advancing diversity and social mobility' likewise lists aspirations ('enhancing the diversity of our workforce', 'removing barriers') with no supporting consultation data, survey or research citation, also 0. Only 'Economic and business case for apprenticeships' reaches level 2, since it cites concrete figures - '81% of apprenticeship employers said that apprentices have increased the productivity' (Ref 1,2) and lifetime earnings of '\u00a377,000 and \u00a3117,000' / '\u00a3150,000' (Ref 3,4) - clearly linked to the claim that apprenticeships 'make business sense'. However, even here the evidence base is not assessed for strengths, weaknesses or uncertainty, so it cannot reach level 3. The mean across the four core themes is (0+0+0+2)/4 = 0.5, which rounds down to 0. The strongest counter-example to a higher score is the productivity/earnings statistics in theme 4, which alone would merit a 2, but three of the four core claims have no evidence at all. To reach level 1 overall, the document would need to at least mention some evidence - named research, data or consultation findings - behind the target-setting, capability and diversity claims, even without citations.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.5,
+  "score_consistent": true,
+  "missing_core": []
+}

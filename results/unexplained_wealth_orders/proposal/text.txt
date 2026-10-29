@@ -1,0 +1,540 @@
+S0017 Through the Action Plan for anti-money laundering and counter-terrorist finance, we will forge a new partnership with industry to improve suspicious activity reporting, deliver deeper information-sharing and enable the relentless disruption of criminals and terrorists.
+S0022 That is why, alongside this response, we are introducing the Criminal Finances Bill to Parliament.
+S0023 The Bill will make legislative changes to tackle money laundering and corruption; to significantly improve our capability to recover the proceeds of crime; and to counter terrorist financing.
+S0024 The provisions in the Bill have been developed in partnership with representatives of law enforcement agencies, the regulated sectors, and civil society.
+S0026 Improving the efficiency and effectiveness of the Suspicious Activity Reports regime (SARs) by: (a) extending the investigative period in which senior officers primarily from law enforcement agencies can prevent a transaction from going ahead, to enable more frequent and effective law enforcement interventions; and (b) creating a new power for the National Crime Agency (NCA) to obtain further information from a regulated business, following receipt of a SAR, to ensure it can carry out its analysis effectively.
+S0027 We have also initiated a SARs reform programme, to make much-needed non-legislative improvements to the operation of the regime.
+S0028 Building on the success of the Joint Money Laundering Intelligence Taskforce (JMLIT) pilot, we will introduce a new legal gateway to enable private sector firms to share information on suspicions of money laundering and terrorist financing with one another, without fear of litigation.
+S0029 This will ensure that law enforcement agencies have access to SARs that provide a full cross-sector view of the threat, and will help firms better protect themselves.
+S0030 The Bill will also provide law enforcement agencies with tough new civil forfeiture powers, to enable them to swiftly seize and forfeit criminal funds held in bank accounts, and other stores of value such as precious metals and stones.
+S0031 The vast majority of businesses want to comply with the law and those subject to the anti- money laundering regime play a significant part in tackling money laundering and terrorist financing.
+S0036 It focused on three priorities: a more robust law enforcement response; reforming the supervisory regime; and increasing the UK’s international reach.
+S0037 All three are underpinned by a commitment to building a new and powerful partnership with the private sector.
+S0038 2.2 The Government ran a consultation, from April to June 2016, to seek views on potential changes to legislation and options to reform the anti-money laundering and counter-financing of terrorism regime.
+S0039 2.3 The Government received 52 responses from respondents from all of the key areas including a range of trade bodies, regulators, law enforcement agencies, individuals and statutory organisations.
+S0040 Respondents also included umbrella bodies who represent a significant number of individual members.
+S0043 In light of those responses, and the ongoing consultation that has taken place since April, the Government has decided to reform the UK’s anti-money laundering and counter-financing of terrorism regime in the following ways:
+S0044 a) Initiating a SARs reform programme, encompassing IT and process improvements, as well as introducing immediate legislative changes to: (a) create a power for the National Crime Agency (NCA) to obtain further information from a regulated business following receipt of a SAR and (b) extend the investigative period in which senior officers primarily from law enforcement agencies can prevent a transaction from going ahead, while they gather the evidence necessary for a law enforcement intervention.
+S0045 The Government does not intend to remove the consent regime at this time, but will continue to explore what actions could be taken to prevent the misuse of the consent regime, whilst continuing to provide legal certainty to reporters and retaining the UK’s very powerful money laundering offences.
+S0046 b) Introducing Unexplained Wealth Orders (UWO) which would require an individual to explain the origin of assets that appear to be disproportionate to his or her known income.
+S0047 c) Establishing a new information sharing gateway for the exchange of data on suspicions of terrorist financing and money laundering between private sector firms with immunity from civil liability.
+S0048 d) Introducing tough new civil powers to enable the more effective seizure and forfeiture of criminal proceeds held in bank accounts without the need to secure a conviction.
+S0049 e)
+S0050 A power to enable the seizure and forfeiture of portable high value items used to store and move the proceeds of crime (e.g. gold and precious stones).
+S0067 Reform of the Suspicious Activity Reports regime – consent “The consent regime is inefficient and we will consider whether it should be removed.
+S0068 We envisage that it could be replaced with an intelligence-led approach, supported by information sharing through the JMLIT (see below).
+S0069 The statutory money laundering defence provided by the current consent regime would also be removed, although the POCA would be amended to ensure that reporters who fulfil their legal and regulatory obligations would not be criminalised…”
+S0070 4.1 Respondents strongly support the need to reform the SARs regime, given the UK’s interconnected, international and complex financial system.
+S0071 However, respondents differed on their views regarding the most effective way to achieve this.
+S0072 Whilst some respondents from the financial sector were positive, others questioned whether the proposals would create legal uncertainty and flagged the need to consider and provide clear legal protections for the reporting sector.
+S0073 The majority of legal sector respondents viewed this proposal negatively with one respondent noting that, “[i]t is clear that in order for the removal of the consent regime to be in any way workable, it is either necessary to fundamentally re-shape the principal offences of money laundering or create a new system offering equivalent protection to reporters as is currently afforded by the consent regime”.
+S0074 4.2 Law enforcement respondents had differing views in relation to removal of the consent regime.
+S0075 Whilst one respondent was broadly positive, another set out the possibility that the reforms proposed would negatively impact upon law enforcement agencies’ ability to seize criminal assets.
+S0076 This respondent proposed an alternative approach: extending the 31 day moratorium period.
+S0077 The moratorium period (which currently enables the NCA from preventing a transaction from proceeding for 31 days) allows investigators to gather evidence to determine whether further action, such as restraint of the funds, should take place.
+S0078 4.3 A number of respondents were clear that, if the consent regime were to be abolished, legislation would need to provide adequate protections for individuals operating lawfully in the regulated sectors.
+S0079 Respondents identified a number of risks, including: depriving law enforcement of the ability to disrupt criminal transactions in ‘real time’; a decrease in the financial sector’s business risk appetite; limited provision of evidence under the requirements of the proposed regime; and inadequate protections for reporters.
+S0080 Respondents highlighted the need for complete clarity regarding obligations for the reporting sector and permissible activities, post-submission of a SAR.
+S0081 4.4 It was suggested that, rather than removing the consent regime, the focus should be on improving the existing regime.
+S0082 Some respondents noted that feedback from law enforcement on best practise relating to reporting would be helpful.
+S0083 A number of respondents noted that removal of the consent regime would require change to the principal money laundering offences.
+S0084 One respondent recommended removing the automatic defence to the money laundering offences, making the defence contingent on the quality of information provided.
+S0085 A couple of respondents recommended implementing a tiered system for SARs, whilst another recommended inserting a de minimus limit on SARs reporting (this would mean that SARs would not be required when the suspicious activity related to a sum below a certain financial threshold).
+S0086 4.5 It was also highlighted that the new arrangements must be supported by enhanced and streamlined powers for law enforcement to investigate financial crime, extension of public-private collaboration on financial crime and extension of the arrangements to foreign jurisdictions.
+S0087 Reform of the SARs regime – Focusing on high risk entities “The SARs regime will be reformed to focus the public and private sector effort on tackling those entities, such as individuals and organisations that pose the highest money laundering and the financing of terrorism risks, rather than targeting transactions.
+S0088 The volume and speed of financial transactions in the 21st century makes a transaction- focused regime less effective.
+S0089 Instead, public and private resources will be directed at the highest risks.”
+S0090 4.6 Law enforcement respondents were generally positive about the proposal, focusing on the benefits of moving to a risk based approach.
+S0091 Some notes of caution, regarding the need to maintain an ability to capture lower-risk financial crime, were sounded.
+S0092 Respondents from the financial sector were also generally positive.
+S0093 They highlighted a number of benefits in moving towards an entity based SARs regime, including: providing law enforcement with a clearer indication of suspicion; improved risk assessments; an enhanced ability to focus resources; and better two-way understanding of financial crime threats.
+S0094 4.7 Legal sector respondents’ views ranged broadly.
+S0095 Whilst it was noted that moving towards an entity based reporting could lead to a more focused regime, legal sector respondents overwhelmingly stated that the SARs regime should accommodate both entity and transaction based reporting.
+S0096 This view was also held by a number of other respondents, who noted that suspicion is often generated by transactions.
+S0097 4.8 Respondents highlighted that the focus should also be on improving outcomes, as well as limiting cost to business.
+S0098 A number of respondents questioned how entity- based reporting could be made consistent with the current duty to report suspicion, and the obligations contained within the 3rd and 4th Anti Money Laundering Directives and the Financial Action Taskforce recommendations (FATF, the global standard setting body for anti-money laundering and counter-terrorist financing).
+S0099 One respondent highlighted that, “…reducing the SARs “burden” on reporters and the FIU (Financial Intelligence Unit) should not come at the expense of useful intelligence”.
+S0100 It was also noted that a focus on transactions could be preferable for counter terrorist financing, which may involve multiple entities and smaller sums of money.
+S0101 Some respondents noted that there could be benefit in considering a sector specific regime.
+S0102 Reform of the SARs regime – Powers for law enforcement to direct reporters “…The Government would create powers to enable reporters to be granted immunity for taking specified courses of action (e.g. maintaining a customer relationship when to terminate it would alert the subject to the existence of a law enforcement investigation).
+S0103 The Government would also legislate to provide a power for the NCA to oblige reporters to provide further information on a SAR where there is a need to do so.”
+S0104 4.9 Financial sector respondents were broadly supportive of this proposal; with one respondent noting that, “…this proposal could do much to fight financial crime”.
+S0105 However it was also noted that clear direction and appropriate legal, financial and regulatory protections should be provided for reporters.
+S0106 Some respondents noted that requests for further information should be restricted to that needed to meet regulations.
+S0107 4.10 One respondent from the regulatory sector noted that, “[t]his will provide an appropriate legislative solution to a challenging issue for reporters”, whilst another respondent noted that the proposal would be helpful as, “…information gathering is key to understanding more about entities, their activities and money flows”.
+S0108 4.11 Law enforcement respondents differed in their views.
+S0109 It was highlighted that this proposal would allow for “…specific and targeted action…” but the risk that these powers may reduce the responsibility on the financial sector to report money laundering suspicions was also stressed.
+S0110 Legal sector respondents viewed this proposal negatively, stating that it would create difficulties in maintaining professional obligations, including observing legal professional privilege.
+S0111 More generally, some respondents felt that co-operation should not be mandatory and there should be a degree of discretion to allow for reputational and commercial protection, and compliance with competition and data protection laws.
+S0112 Enhanced data sharing between private sector organisations “Explore legislation to achieve better information sharing between law enforcement agencies and the private sector, and between private sector entities through the introduction of ‘safe harbour’ information sharing powers.”
+S0113 4.12 There was strong support, in particular from the financial sector, for new legislation.
+S0114 Respondents noted that data sharing could lead to better reporting and better quality intelligence, leading to an enhanced ability to tackle financial crime.
+S0115 However, it was also noted that any legislative changes should include a framework, standards and guidance on what is appropriate and proportionate for institutions to share.
+S0116 Respondents said that the data sharing arrangements would need to: focus upon clearly defined purposes; be reciprocal; and include non- personal data.
+S0117 4.13 Legal sector respondents differed in their views, which ranged from positive to negative.
+S0118 It was noted that enhanced data sharing could create a more efficient reporting process and greater accuracy of reporting.
+S0119 On the other hand, it was agreed that clear assurances regarding the legality of data provision would be required, in particular that data protection and privacy laws were not overridden.
+S0120 One respondent stated that, “[w]ithout legislation, sharing of confidential, non- privileged information with “private sector” reporters cannot lawfully take place”.
+S0121 4.14 Respondents across sectors asserted that information sharing could only take place if firms could share without fear of legal or regulatory sanction.
+S0122 A number of respondents noted that proposed actions should be consistent with the forthcoming reforms to data protection legislation (Regulation EU/2016/679 (the ‘General Data Protection Regulation’) and Directive EU/2016/680 (the ‘Law Enforcement Directive’).
+S0123 4.15 Some respondents questioned whether further legislation was required, given that legislation already exists to allow the private sector to disclose personal data for the prevention or detection of crime under section 29 of the Data Protection Act 1998.
+S0124 One respondent noted that there are specific statutory mechanisms already in existence which could potentially be extended (section 333B of POCA and regulation 24A of the Money Laundering Regulations 2007).
+S0125 Another respondent noted that section 68 of the Serious Crime Act 2007 created a legal gateway to enable the public sector and private sector to share information for fraud prevention purposes.
+S0126 It was suggested that the remit of section 68 could be extended to cover information sharing intended to prevent and detect financial crime.
+S0127 4.16 Respondents’ views on the best way to progress this proposal were varied.
+S0128 Some legal sector respondents felt that the, “…principal dialogue should be between law enforcement and the private sector”.
+S0129 A law enforcement respondent noted that the private sector should be authorised to share confidential data internally.
+S0130 Another respondent noted that the priority should be improved data sharing within the public sector.
+S0131 A civil society respondent questioned whether data sharing would include charities, and argued that civil society involvement should be on a voluntary basis.
+S0132 Another respondent noted that there would be a significant benefit if the gambling sector were to be involved in enhanced data sharing.
+S0133 Finally, one financial sector respondent noted that information sharing should be cast widely, suggesting that it should include bank to bank sharing, enterprise wide sharing, public and private sector sharing and internal public sector sharing.
+S0134 Creation of a new power to require individuals to declare their sources of wealth “The Government will explore options for new legal powers.
+S0135 Unexplained Wealth Orders (UWOs) are already used in some countries, such as Ireland and Australia, to tackle this problem.
+S0136 A UWO, when served on the defendant, requires him or her to explain to the court the origin of his or her assets.
+S0137 This can provide critical information on which law enforcement agencies can build their case.”
+S0138 4.17 Law enforcement respondents viewed this proposal positively, noting that it would provide an alternative to reliance on time-pressured cooperation from international jurisdictions.
+S0139 Generally, the financial sector also viewed this proposal positively.
+S0140 Respondents thought that it could: be a powerful intelligence gathering tool, potentially identifying links between jurisdictions; reinforce existing customer due diligence enquiries; and could contribute to greater identification and recovery of assets.
+S0141 A civil society respondent noted that, “[t]his option can help freeze the proceeds of corruption in cases where law enforcement authorities already have a high degree of evidence of corrupt criminality”.
+S0142 4.18 On the other hand, legal sector respondents viewed this proposal with concern.
+S0143 While one respondent agreed that it would assist with customer due diligence enquiries, others noted that the presumption of innocence should remain, and considered that the proposal should include an element of judicial scrutiny.
+S0144 4.19 Respondents noted that a threshold (e.g. reasonable grounds for suspicion that the wealth has been accrued unlawfully) was required.
+S0145 In light of potential civil action, and in order to enforce seizures or support disclosures, the regulated sector would need sufficient protections and redress.
+S0146 Some respondents sought greater clarity on the specifics of the proposal; including on whether a decision would require any action from the regulated sector.
+S0147 Creation of a linked power to seek forfeiture of assets if they fail to declare their sources of wealth “The Government will also explore whether a new forfeiture power should be created to enable the forfeiture of any assets for which a satisfactory explanation cannot be given to the court.”
+S0148 4.20 Law enforcement viewed this proposal positively.
+S0149 One respondent noted that, “[t]o have the desired impact it is vital that assets are frozen once an Unexplained Wealth Order is served as the individual would likely attempt to dissipate or conceal their assets”.
+S0150 Another public sector respondent noted that this proposal would assist with the recovery of criminal finances.
+S0151 Some respondents stated that where it is known or proven that funds are the proceeds of crime, a linked power of forfeiture is appropriate.
+S0152 4.21 Respondents from the legal sector mostly viewed the proposal with concern, partially due to the reasons set out in the above section, relating to the introduction of an Unexplained Wealth Order.
+S0153 One legal sector respondent stated that, “[a] failure by a person to give an explanation about his ‘wealth’ is not sufficient to prove that it derives from criminal conduct”.
+S0154 4.22 Respondents from across sectors sought greater clarity as to how the power would be enforced and further detail on the evidence test for forfeiture of assets.
+S0155 One supervisory respondent noted that the scope of the power should be carefully considered.
+S0156 Whilst broadly positive in their views, the financial sector highlighted the need for sufficient protections in order to facilitate enforced seizures.
+S0157 It was noted that the onus should remain with law enforcement to establish their case.
+S0158 It was further noted that innocent citizens with legitimate sources of wealth should be protected.
+S0159 Creation of an illicit enrichment offence “Some countries have criminalised illicit enrichment, making it a criminal offence to possess assets which cannot be accounted for by way of lawful income.
+S0160 It is a requirement under the UN Convention Against Corruption (UNCAC) for states to consider introducing an illicit enrichment offence and the Government intends to explore whether such an offence will be effective in the UK, and whether it will be compatible with our legal system.”
+S0161 4.23 There was support for this proposal within civil society.
+S0162 One respondent noted that the proposal would incentivise Politically Exposed Persons (PEPs), “…to (a) not commit corruption or (b) launder the proceeds of corruption through the UK”.
+S0163 Law enforcement respondents were also supportive; with one respondent noting that the proposal could assist in achieving greater prosecutions of those involved in international corruption.
+S0164 A couple of respondents further noted that the introduction of the offence may have a helpful deterrent effect on those seeking to commit corruption, given the possibility of criminal liability.
+S0165 One supervisory respondent stated that “[t]his [the offence] would send a strong message to those who have committed to public service that trust placed in them shouldn’t be abused”.
+S0166 4.24 However, respondents also highlighted a number of risks associated with the policy.
+S0167 Legal sector respondents typically viewed this proposal negatively; questioning whether existing legislation already criminalises the activities that the government was seeking to criminalise by introducing this offence.
+S0168 The existing offences of: fraud by abuse of position, contrary to section 4 of the Fraud Act 2006; offences contained within the Bribery Act; or the PEP provisions in the Money Laundering Regulations 2007, were suggested as legislative provisions which may cover activity contained within the proposed offence of illicit enrichment.
+S0169 One legal sector respondent raised concerns about the human rights implications; if this offence were to result in a reversal of the burden of proof from law enforcement to defendants.
+S0170 4.25 Financial sector respondents outlined some benefits to the proposal, including: strengthening anti-corruption measures, sending a strong deterrent message, and discouraging abuse of a public positon.
+S0171 However, respondents also questioned how the illicit enrichment offence would fit with the Bribery Act.
+S0172 One respondent cautioned that it will continue to be difficult to establish that funds in an account derive from illicit activity; therefore asset recovery may continue to be problematic.
+S0173 A power to designate an entity as being of money laundering concern “Section 311 of the USA PATRIOT Act enables U.S. regulators to designate entities of ‘primary money laundering concern’.
+S0174 Once a designation is made, banks and other firms are required to take special regulatory precautions in dealing with the entity in question.
+S0175 These designations help U.S. firms protect themselves against the riskiest customers, and can have a very powerful disruptive effect against the entity in question, often, in effect, freezing them out of the international financial system.
+S0176 The Government intends to explore what the UK could learn from the U.S. approach, and to consider how a similar approach could be applied in the UK.”
+S0177 4.26 Financial sector respondents were positive about the introduction of a power to designate, agreeing that this power would assist them in managing risk to their business, and focus information sharing with UK law enforcement, through the UK Financial Intelligence Unit (UKFIU) and the Joint Money Laundering Intelligence Taskforce (JMLIT).
+S0178 One respondent highlighted that professional enablers inclined to be complicit in money laundering activities may be deterred by the introduction of this power.
+S0179 Law enforcement respondents were similarly positive, noting that the power “…would significantly enhance the ability of the UK financial system to protect itself from specific threats”.
+S0180 4.27 Financial sector respondents were concerned about the transfer of risk to the regulated sector, who would be at risk of civil litigation if commercial decisions had to be taken outside of the precautions set within a designation order.
+S0181 The financial sector was also concerned that the precautions they would need to take could be resource intensive and thought that this should be balanced against the benefits of better risk management.
+S0182 4.28 Legal sector respondents ranged in their views.
+S0183 One respondent noted that, “[t]he threat of designation could have a powerful effect and its use might drive up standards both generally and in particular at those firms who perceive themselves most at risk of becoming designated”, and another noted that the power would simplify the focus of customer due diligence enquiries.
+S0184 On the other hand, there were concerns about the scope of the power and whether there would be disproportionate legal and practical consequences.
+S0185 Points were raised about the level of evidence a designation should be based on, and it was noted that the entity should have clear administrative and legal routes to challenge designation.
+S0186 Accordingly, law enforcement agencies made clear that the protection of sources during any legal proceedings was a significant issue.
+S0187 4.29 A respondent from civil society raised concerns that this power may have a negative impact on the ability to carry out their work in the host jurisdiction of a designated entity, due to the regulated sector taking an overly risk-averse approach.
+S0188 4.30 Overwhelmingly, respondents agreed that the power should include a form of legal redress for entities.
+S0189 Development of a new power to allow money held in bank accounts to be swiftly seized and forfeited “POCA offers a variety of different tools for asset recovery.
+S0191 4.31 In recognition of the economic and societal developments since the introduction of POCA, law enforcement respondents noted the importance of introducing this power.
+S0192 Legal sector respondents were generally sceptical in their views, noting that existing powers contained within POCA should be sufficient to achieve the objective of the proposed power.
+S0193 Respondents from across all sectors highlighted the need to ensure that we do not ignore the existing set of criminal and civil powers.
+S0194 The financial sector asked that all obligations are clearly defined, and the legal authority clearly articulated.
+S0195 They were clear in their view that financial institutions complying with any obligations should be fully indemnified and protected from legal action.
+S0196 4.32 One respondent noted that the power would be useful in cases involving small amounts of cash.
+S0197 Another respondent supported increased administrative forfeiture, whilst a third noted that forfeiture should be made as easy as possible, where funds are criminal.
+S0199 A financial sector respondent cautioned that, without this power, stronger cash controls may divert criminal assets from financial institutions into high value goods.
+S0200 Another financial sector respondent noted that with regard to this proposal, “[s]uch a power would prevent the criminal from realising the proceeds of their criminality, both for immediate use and as inheritable property”.
+S0201 However, others asserted that comprehensive powers to seize, retain and ultimately deprive individuals of their property already exist under POCA, Part 5.
+S0202 Respondents from across sectors also questioned how the provenance of the moveable property would be established.
+S0203 Benefit in enabling the administrative forfeiture of the proceeds of crime in uncontested cases, following an initial hearing at a magistrates’ court?
+S0204 “The Government will also explore whether, following an initial hearing at a magistrates’ court, the new power (to allow money held in bank accounts to be swiftly seized and forfeited) could be used administratively, with forfeitures authorised by senior law enforcement officers where the value held in the account is below a certain limit (for example, £100,000) and the case is uncontested...
+S0205 The Government will also explore whether the same power could also apply to other forms of readily moveable property that may be the proceeds of crime (e.g. jewelry and precious metals).”
+S0206 4.34 Again, respondents across sectors provided a range of views in response to this proposal.
+S0207 Respondents considered that it would be challenging to establish that funds are the proceeds of crime, before forfeiture takes place.
+S0208 In order to determine whether this power or civil recovery powers were applicable, guidance would need to be developed.
+S0209 An effective appeals process would need to be in place to ensure appropriate safeguards.
+S0210 With regard to the limit, one respondent suggested that a limit range might be more effective than a flat limit.
+S0211 Amend the investigative powers in POCA so they can be sought earlier in the investigative process and applications and administration made more flexible.
+S0212 “Updated POCA financial investigation powers to make them more flexible and effective”
+S0213 4.35 There was a divergence of views across sectors in relation to this proposal.
+S0214 One respondent stated that this would, “…lower the threshold for applying for orders and would speed up the actual investigation…”.
+S0215 On the other hand, another respondent questioned why the investigative powers under POCA Chapter 2 of Part 8 (in the Crown Court) were not sufficient.
+S0216 It was also noted that earlier intervention would lead to reduced judicial oversight and potentially increased breach of process.
+S0219 5.2 Having listened carefully to the views of private and public sector stakeholders, the Government has decided that now is not the right time to remove the consent regime.
+S0220 Instead, the Criminal Finances Bill will deliver two important enhancements to the SARs regime: (a) a new power to extend the moratorium period (currently limited to 31 days) to enable senior officers primarily from law enforcement agencies to gather the evidence necessary to secure a restraint order or other law enforcement intervention; and (b) a new power for the UK Financial Intelligence Unit to obtain information from SARs reporters for the purposes of the FIU’s analysis.
+S0223 The Criminal Finances Bill will amend the Proceeds of Crime Act to allow the extension of the moratorium period by a court, at the request of the senior officer, for periods of up to 31 days, up to a total of 186 days (from the expiration of the initial 31 day moratorium period).
+S0224 5.3 The new power for the UKFIU to obtain information for the purposes of its analysis will bring the UK into full alignment with the recommendations from Financial Action Task Force.
+S0225 The new power, enforceable by a court, will ensure that the FIU can obtain the information it needs to conduct effective intelligence analysis.
+S0227 The consent regime is required to ensure that the very broad and powerful money laundering offences in the Proceeds of Crime Act do not criminalise otherwise law-abiding behaviour.
+S0228 The Government does not want to make changes that would weaken the effectiveness of the money laundering offences, and recognises the need to provide legal certainty to SARs reporters.
+S0229 Having conducted extensive consultations, the Government has not been able to identify a consensus on what should replace the current consent arrangements.
+S0230 The Government will not, at this time, make changes to the consent regime beyond the extension to the moratorium period described above.
+S0233 The Government does not consider legislation necessary to bring about the necessary reforms to the SARs regime, in order to make it more focused on the highest risks, and to move towards an entity-based reporting system.
+S0234 For many parts of the regulated sector, particularly the legal and accountancy sector, reporting is already often focused on entities rather than transactions.
+S0238 At the London Anti-Corruption Summit in May 2015, the UK encouraged 21 countries to commit to establishing or strengthening public-private partnerships.
+S0239 Domestically, the National Crime Agency has led a pilot Joint Money Laundering Intelligence Taskforce (JMLIT), which brings together law enforcement agencies and financial sector firms to share information in order to prevent, detect and disrupt money laundering and terrorist financing.
+S0240 JMLIT participants have called for a new legal gateway to enable them to share information directly with one another, with protection from criminal and civil liability, to enable JMLIT to work more effectively.
+S0241 The proposal for new information sharing provisions received strong support from consultation respondents.
+S0242 5.7 The Government will legislate in the Criminal Finances Bill to create a new information sharing legal gateway.
+S0243 It will enable firms in the regulated sector to share information on suspicions of money laundering and terrorist financing with one another, under the legal ‘safe harbour’ of immunity from criminal or civil liability.
+S0244 It will be subject to sufficient safeguards, so that it is compatible with data protection obligations.
+S0245 5.8 The new powers will also enable the submission of joint suspicious activity reports (SARs) so that firms can provide the whole picture of a money laundering scheme that crosses multiple firms, rather than submitting individual pieces of the jigsaw to the UKFIU.
+S0246 This should improve the intelligence picture available to law enforcement agencies and firms.
+S0247 It should also help firms better understand the risks they face, and enable them to take mitigating actions in response.
+S0249 Having listened carefully to the views of consultation respondents, the Government will now legislate in the Criminal Finances Bill to create Unexplained Wealth Orders.
+S0250 They will require those who own assets that are apparently disproportionate to their known income to explain the sources of their wealth, in order to help facilitate the recovery of criminal proceeds.
+S0251 The measure aims to provide law enforcement agencies with the ability to take civil recovery action against property suspected of being bought with the proceeds of corruption and similar criminality.
+S0252 5.10 An Unexplained Wealth Order would be made by a court, and would require a respondent to explain the origin of the property in question.
+S0253 If the respondent refused to comply with the order, and failed to provide an explanation, the court would be able to make a rebuttable presumption that the property in question is ‘recoverable property’, under the existing civil recovery powers in POCA.
+S0254 If they did provide a response, that could be considered by law enforcement agencies as they build their case, in a similar way to information provided in response to a disclosure order.
+S0255 5.11 Following its analysis of consultation responses, the Government has decided that a bespoke forfeiture power is not necessary.
+S0256 Instead, the Government will build UWOs into the existing civil recovery structures in the Proceeds of Crime Act.
+S0257 Where appropriate, forfeiture of criminal proceeds will therefore be achieved using those powers.
+S0258 5.12 The Government has listened to concerns about civil liberties and the scheme has been designed with sufficient legal safeguards.
+S0259 The UWO is an investigation power.
+S0260 It will enable civil recovery, which already has safeguards similar to the general safeguards in civil proceedings (see Chapter 2 of Part 5 of POCA).
+S0261 In addition, the UWO will be subject to the relevant property being aggregated to a minimum value threshold (probably £100,000) and there being reasonable grounds to suspect that known income is insufficient to obtain the property.
+S0262 UWOs will be available for use in two scenarios: (a) against any person that law enforcement agencies have reasonable grounds to suspect has links to serious crime; or (b) overseas politically exposed persons (PEPs).
+S0265 However, given the very serious issues raised in the consultation responses received, the Government has decided not to proceed with this proposal.
+S0266 5.14 The illicit enrichment offence would reverse the burden of proof in criminal proceedings and would interfere with rights to a fair trial and to the peaceful enjoyment of property.
+S0267 Whilst these are not absolute rights, the Government does not think that the interference with these rights is justified in this case.
+S0268 The Government is also concerned that the offence would have only limited practical effect.
+S0270 However, many of those who launder the proceeds of corruption, into or through the UK, are not resident here, and would not be within reach of the offence.
+S0271 The Government was also mindful of the fact that few other countries have successfully used the illicit enrichment offence.
+S0272 Therefore, the Government will not be introducing an illicit enrichment offence at this time.
+S0273 Instead, the Government will seek to use Unexplained Wealth Orders and the other powers included in the Criminal Finances Bill, to facilitate more effective asset recovery action.
+S0277 However, while the principle of the power was welcomed, the responses to the consultation identified a need for judicial oversight to ensure proportionate use of the power.
+S0278 The Government also took note of the issues raised by law enforcement agencies; regarding the protection of sources from public disclosure during judicial proceedings related to designation, and of the potential financial liability that they may incur.
+S0279 5.16 At this stage, the Government – in consultation with partners in both the public and private sectors – has not yet identified a model for the use of this power; that mitigates the range of concerns that have been raised.
+S0280 We have therefore concluded that it would not be appropriate to legislate in the Criminal Finances Bill, but will continue to explore whether such a power, with the necessary protections, can be developed for a future legislative vehicle.
+S0281 Development of a new power to allow money held in bank accounts to be swiftly seized and forfeited 5.17 The Government will legislate to introduce a new scheme to enable swift action to be taken in the Magistrates Courts to seize and forfeit criminal money held in bank accounts.
+S0282 These new powers will close a gap in the current law and enable law enforcement agencies to respond more effectively to both (a) new SARs in the future that reveal the existence of suspected criminal funds in bank accounts; and (b) the significant volume of suspected criminal funds already frozen in bank accounts.
+S0285 The Government believes that a wider range of civil forfeiture powers will give law enforcement and prosecution agencies the tools they need to have a greater impact against money launderers.
+S0286 5.19 Administrative forfeiture will be permissible in uncontested cases, but appropriate legal safeguards will be provided to ensure that the new powers are used proportionately and that the rights of the innocent are protected.
+S0288 The Government has decided to legislate to introduce a new power to seize and forfeit readily moveable property.
+S0289 5.21 Respondents asked why existing civil recovery powers in Part 5 of the Proceeds of Crime Act would not be sufficient.
+S0290 There are no powers of seizure in civil recovery and therefore under existing provisions easily moveable and disposable property remains in the possession of the respondent.
+S0291 Such property can therefore easily be dissipated in protracted civil recovery proceedings, even when subject to freezing orders.
+S0292 Further, civil recovery powers have a de minimus value threshold of £10,000 and are used in the High Court.
+S0293 In practice, these factors mean that many items suspected of being used to launder the proceeds of crime remain out of the reach of law enforcement agencies.
+S0294 5.22 The new powers will have a threshold of £1,000 and will be operable in the Magistrates Court.
+S0295 They will have appropriate legal oversight, but should provide a more flexible and swift tool to tackle money laundering.
+S0296 Amend the investigative powers in the Proceeds of Crime Act so they can be sought earlier in the investigative process and applications and administration made more flexible.
+S0298 The Government will not make wide-ranging changes to the investigative powers in POCA.
+S0299 However, the Government will amend POCA to create disclosure orders for use in money laundering investigations.
+S0300 The Government will also amend POCA to make the authorisation process for disclosure orders more streamlined, by replacing the need for a prosecutor with a senior officer in the investigator’s organisation.
+S0310 First, we need a more robust law enforcement response to the threats we face.
+S0311 That means creating aggressive new legal powers and building new capabilities in our law enforcement agencies to enable the relentless disruption of criminals and terrorists.
+S0312 This is in addition to the cross-agency taskforce recently announced by the Prime Minister to investigate any evidence of illegality that may be found in the ‘Mossack Fonseca’ papers.
+S0313 Second, to reform the supervisory regime and ensure that those few companies who facilitate or enable money laundering are brought to task.
+S0314 The Government wants to ensure a risk-based approach to tackling money laundering and terrorist finance.
+S0315 We expect the banks and other firms subject to the Money Laundering Regulations to take a proportionate approach, focusing their efforts on the highest risks, without troubling low risk clients with unnecessary red-tape.
+S0317 Third, to increase our international reach to tackle money laundering and terrorist financing threats by working with international groups, such as the G20 and Financial Action Task Force, to take action overseas.
+S0318 Underpinning these three priorities, and central to the success of the Action Plan, is a new way of working with the private sector.
+S0319 We need radically more information to be shared between law enforcement agencies, supervisors, and the private sector; and we need to take joint action to disrupt criminals and terrorists.
+S0320 The pilot Joint Money Laundering Intelligence Taskforce (JMLIT), which has brought together law enforcement agencies and ten banks under the leadership of the National Crime Agency (NCA) to share information on money laundering and terrorist financing, has demonstrated the opportunities offered by this type of approach.
+S0321 The Prime Minister’s Anti-Corruption Summit next month will galvanise the international response and address issues including corporate secrecy, government transparency, the enforcement of international anti-corruption laws, and the strengthening of international institutions.
+S0323 More assets have been recovered from criminals than ever before, with a record £199m recovered in 2014/15, and hundreds of millions more frozen and put beyond the reach of criminals.
+S0356 Most businesses want to comply with the law and those subject to the regime can play a significant part in tackling money laundering and terrorist financing.
+S0358 A more effective response to the threat, so that resources can be better targeted at areas of real risk, for example by removing duplication or conflicting compliance advice, will help lift unnecessary bureaucratic burdens that do not contribute to the fight against crime and help resource be used better elsewhere.
+S0359 The Government is committed to reducing the regulatory burden on business, which can distract or make it harder for companies to focus on real risks and will also ensure that any additional burdens placed on businesses and individuals are targeted, proportionate and justified by evidence of significant need.
+S0360 1.5 The Government's strategic response to money laundering is founded upon a risk-based approach.
+S0361 The 2013 Serious and Organised Crime Strategy aims to substantially reduce the level of serious and organised crime affecting the UK and its interests.
+S0362 It is based upon the UK's successful counter-terrorism framework, which has four main elements: prosecuting and disrupting serious and organised crime (Pursue); preventing people from engaging in serious and organised crime (Prevent); increasing protection against serious and organised crime (Protect), and reducing the impact of serious and organised crime where it takes place (Prepare). 1. Countering terrorist financing is important in protecting national security and forms a key part of the UK's counter-terrorism strategy, CONTEST, the aim being to reduce the terrorist threat to the UK and its interests overseas by depriving terrorists and violent extremists of the financial resources and systems required for terrorism- related activity. ** (Reference: 5, 6)
+S0363 1.7 The SDSR set out the Government's intention to introduce new measures to make the UK a more hostile place for those seeking to move, hide or use the proceeds of crime or corruption or to evade ‘sanctions’.
+S0364 In order to achieve that aim, the SDSR committed the Government to enhancing its cooperation with the private sector, building on the work of the JMLIT, and publishing this Action Plan.
+S0365 1.8 Central to the approach taken in this Action Plan is the recognition of the need to establish a much more effective public-private partnership to tackle illicit finances than has existed until now.
+S0366 Only by bringing together the efforts of law enforcement agencies, supervisors and regulators, and the private sector; and by making sure that law enforcement agencies and supervisors have the right 'pursue' powers and capabilities, can the threat from money laundering and terrorist financing be addressed successfully.
+S0368  A stronger partnership with the private sector o Law enforcement agencies, supervisors and the private sector working in partnership to target resources at the highest money laundering and terrorist financing risks.
+S0369 o New means of information sharing to strengthen the application of the risk-based approach and mitigate vulnerabilities.
+S0370 o A collaborative approach to preventing individuals becoming involved in money laundering.
+S0371  Enhancing the law enforcement response o New capabilities and new legal powers to build the intelligence picture, disrupt money launderers and terrorists, recover criminal proceeds, and protect the integrity of the UK's financial system.
+S0372 For example, the Government has established a Task Force, led jointly by the NCA and HMRC, to investigate all forms of illegality stemming from the data related to Mossack Fonseca, the law firm based in Panama.
+S0373  Improving the effectiveness of the supervisory regime o Investigate the effectiveness of the current supervisory regime, and consider radical options for improvement to ensure that a risk-based approach is fully embedded, beginning with the understanding of specific risks, and the spotting of criminal activity, rather than a focus on tick-box compliance.
+S0375 Increase the international reach of law enforcement agencies and international information sharing to tackle money laundering and terrorist financing threats.
+S0376 The international leadership being shown by the UK through the Prime Minister's Anti-Corruption Summit will lead to greater disruption of money laundering and terrorist financing activities, the prosecution of those responsible and increased recovery of the proceeds of crime, and a greater protection of the UK financial system.
+S0377 The Summit will galvanise the international response and address issues including corporate secrecy, government transparency, the enforcement of international anti-corruption laws, and the strengthening of international institutions.
+S0384 1.11 Most businesses want to comply with the law and those subject to the anti-money laundering regime can play a significant part in tackling money laundering and terrorist financing.
+S0385 A more effective response to the threat, so that resources can be targeted at areas of real risk, will help lift bureaucratic burdens that do not contribute to the fight against crime.
+S0391 Since then, more assets have been recovered from criminals than ever before, with a record £199m recovered in 2014/15, and hundreds of millions more frozen and put beyond the reach of criminals.
+S0411  Reform the suspicious activity reports regime, and upgrade the capabilities of the UK Financial Intelligence Unit  Transform information sharing between law enforcement agencies, the private sector and supervisors, building on the progress already made through the JMLIT  Fill intelligence gaps, particularly those associated with high end money laundering through the financial and professional services sectors 
+S0412 Enhance our law enforcement response to tackle the most serious threats 
+S0413 Address the inconsistencies in the supervisory regime that have been identified  Work with supervisors to improve individuals' and firms' knowledge of money laundering and terrorist financing risks in key parts of the regulated sector to help them avoid being exploited by criminals and terrorists 1.20
+S0414 This Action Plan and the 4th Anti-Money Laundering Directive, due to be transposed by June 2017, will increase the UK's emphasis on this risk-based approach. ** (Reference: 8)
+S0415 The Directive will require private sector firms to reinforce this approach across all aspects of their anti-money laundering and counter-terrorist finance regimes.
+S0424 Reform of the Suspicious Activity Reports (SARs) regime, and building on the success of the Joint Money Laundering Intelligence Taskforce (JMLIT) pilot will be central to founding a new and more collaborative public-private partnership.
+S0430 The public and private sectors need to work together to ensure that existing resources are used to greatest effect.
+S0432 2.2 Effective exchange of knowledge within the private sector, and between the public and private sectors, is necessary to increase our collective knowledge of threats and vulnerabilities.
+S0433 Developing a common understanding of the highest priority risks will provide the basis for a more focused and efficient use of public and private resources that will have the greatest effect on money laundering and terrorist financing threats.
+S0434 To deliver this, law enforcement agencies need information from the private sector to inform their intelligence, while the private and supervisory sectors need information from each other and from law enforcement agencies to assist them in managing the risks and vulnerabilities that they face as the threat changes and develops.
+S0446 Many of the proposals in this Plan address these responses and reflect subsequent engagement with the reporting sector and others.
+S0447 2.6 The Home Office review of the SARs regime found that the most effective way for the UK to improve its response to the threat from money laundering and terrorist finance is through stronger partnership working between the public and private sectors, and through jointly identifying and tackling those entities – individuals, companies, and others – that pose the highest risk.
+S0449 Radical changes to the way that the SARs regime operates will be required to make this operate effectively and the Government will take action to address the concerns of legitimate businesses in these reforms for example by helping business to focus reports on areas of concern rather than taking a box ticking approach.
+S0451 The JMLIT and new legal powers for law enforcement agencies, detailed in the next section, will also be integral to the reformed SARs regime.
+S0452 Re-focus the regime on the highest risk entities 2. ** (Reference: 7)
+S0453 The SARs regime will be reformed to focus the public and private sector effort on tackling those entities, such as individuals and organisations, that pose the highest money laundering and the financing of terrorism risks, rather than targeting transactions.
+S0454 The volume and speed of financial transactions in the 21st century makes a transaction-focused regime less effective.
+S0455 Instead, public and private resources will be directed at the highest risks.
+S0456 Reporters will still need to provide reports where they have suspicion, but the Government will enable the reporting sector to work with the NCA and other law enforcement agencies to provide more effective SARs where there are strong suspicions of criminal activity, through new information sharing legal gateways, improved official guidance, and a permanent and strengthened JMLIT.
+S0457 Remove the current consent regime 2. ** (Reference: 8)
+S0458 The consent regime is inefficient and we will consider whether it should be removed. ** (Reference: 11)
+S0459 We envisage that it could be replaced with an intelligence-led approach, supported by information sharing through the JMLIT (see below).
+S0460 The statutory money laundering defence provided by the current consent regime would also be removed, although the POCA would be amended to ensure that reporters who fulfill their legal and regulatory obligations would not be criminalised.
+S0461 The Government would create powers to enable reporters to be granted immunity for taking specified courses of action (e.g. maintaining a customer relationship when to terminate it would alert the subject to the existence of a law enforcement investigation).
+S0462 The Government would also legislate to provide a power for the NCA to oblige reporters to provide further information on a SAR where there is a need to do so.
+S0463 Upgrade the UK Financial Intelligence Unit’s capabilities 2. The NCA will oversee the upgrade to the UK Financial Intelligence Unit’s (UKFIU) capabilities, including the development of a replacement for the SARs IT system, which is nearing the end of its working life. ** (Reference: 9)
+S0464 This would provide a modern IT system both for reporters to submit reports, and which will automatically check SARs against law enforcement data and other information to assess whether a SAR should be prioritised for further investigation or other action by law enforcement agencies, supervisors, or the reporter.
+S0466 Develop better analysis of SARs 2. As part of the upgrade of the capabilities of the UKFIU, the NCA will develop capabilities to enable a better analysis of the SARs submitted, to identify the typologies of money laundering and the financing of terrorism, and provide assessments of these to the private sector, to allow them to both identify those responsible and work with law enforcement agencies to tackle them, and to take measures to protect themselves. ** (Reference: 10)
+S0467 Data sharing to develop more effective SARs 2. The Government would consider legislation to permit the reporting sector to share information, under legal safe harbour, on money laundering and terrorist finance risks. ** (Reference: 11)
+S0469 This will enable firms to better understand the risks they face and to submit higher quality SARs as a result.
+S0471 Reform the SARs regime, making the necessary legislative, operational and technical changes to deliver the proposals detailed in this Action Plan.
+S0474 2.12 The Government has already taken steps to build better cooperation between the public and private sectors on illicit finances.
+S0475 The JMLIT was established under the Serious and Organised Crime Financial Sector Forum, chaired by the Home Office, the British Bankers’ Association (BBA) and the NCA.
+S0476 The JMLIT is led by the NCA and includes representatives from the financial sector, City of London Police, Financial Conduct Authority (FCA), HMRC and the Home Office.
+S0477 2.13 The JMLIT was established as a pilot in February 2015 to provide an environment in which the financial sector and law enforcement agencies could exchange and analyse information and intelligence to detect, prevent and disrupt money laundering and wider economic crime threats against the UK.
+S0478 The pilot has demonstrated the clear benefits of partnership working between law enforcement agencies and the financial sector.
+S0479 Strategically, the JMLIT has increased the UK’s public and private sectors’ resilience to economic crime and this must continue as the threat changes and develops.
+S0480 2.14 From an operational perspective, it has enhanced collective anti-money laundering detection capability and generated increased prevention and disruption opportunities relating to money laundering in the UK through the sharing of tactical intelligence using the legal framework set out in the Crime and Courts Act 2013.
+S0481 As of February 2016, the JMLIT pilot has directly contributed to law enforcement operations, including eleven arrests and restraint of £558,144 of criminal funds.
+S0482 Over 1,700 bank accounts linked to suspected criminal activity have been identified, 261 have been closed, and 517 are subject to heightened monitoring by the banks.
+S0483 Twelve alerts have been issued to the financial sector to raise awareness of threats.
+S0484 2.15 The Terrorist Finance Experts Group within the JMLIT supports the exchange and analysis of terrorist finance information and intelligence and thematic pieces of work related to terrorist finance and methodologies.
+S0485 The group is chaired by the Home Office and the BBA, and includes the National Terrorist Financial Investigation Unit and representatives of the financial sector.
+S0486 The overall purpose of the Group is to build a greater common understanding of terrorist financing risks and to foster a closer working relationship between the private and public sector to counter the financing of terrorism affecting the UK and its interests.
+S0487 2.16 With the JMLIT approaching the end of its pilot, the Government will build on the experience gained to put the taskforce on a permanent footing and make it an integral part of the UK’s anti-money laundering and counter-terrorist financing regime.
+S0488 The Government, in partnership with private sector members of JMLIT, will seek to increase its scale and capabilities, in order to tackle economic crime threats including money laundering linked to corruption, trade-based finance, high-priority crimes and terrorist finance.
+S0492 Move JMLIT to a permanent footing, increase its analytical capability and expand its membership to include more banks and other financial services firms.
+S0493 Consider how the taskforce approach could be developed in other reporting sectors.
+S0504 The JMLIT pilot has demonstrated that existing legal information sharing gateways are insufficient for sharing data directly between private sector organisations.
+S0505 There is a need for legal ‘safe harbour’ provisions to allow data and intelligence to be shared lawfully between financial institutions in order to prevent and detect money laundering and terrorist financing.
+S0506 The Government intends to consider legislating to create the necessary legal information sharing gateways.
+S0508 Explore legislation to achieve better information sharing between law enforcement agencies and the private sector, and between private sector entities through the introduction of ‘safe harbour’ information sharing powers.
+S0509 This will facilitate the development of a coherent public-private sector response to financial crime in all its forms.
+S0511 Lead: Home Office 2.19 The Home Office has worked with supervisors, firms and law enforcement agencies to run public communications campaigns in 2014 and 2015 targeting solicitors and accountants to raise awareness of the money laundering risks they face.
+S0512 The campaigns have aimed to prevent professionals getting drawn into money laundering, as they have skills that are particularly attractive to criminals seeking to launder their funds.
+S0513 The campaigns have been welcomed by private sector representatives.
+S0515 The first campaign led to a 20% increase in suspicious activity reports from the sector.
+S0516 The second campaign is still running at the time of publication.
+S0518 These campaigns have proven the importance of the Prevent strand in tackling money laundering.
+S0519 There will continue to be a need for Government, supervisors, law enforcement agencies and the sectors themselves to work together in the future to prevent professionals wittingly or unwittingly facilitating money laundering and terrorist financing.
+S0521 Public-private partnerships to run sector-specific Prevent campaigns to raise awareness amongst professionals in the regulated sector of money laundering risks and the actions needed to mitigate them.
+S0524 Public-private partnership to run a Prevent campaign to educate consumers and businesses as to the risks of becoming involved in money laundering.
+S0526 The law enforcement response will be strengthened to disrupt the highest-priority threats to the UK and pursue those seeking to engage in money laundering and terrorist finance.
+S0527 Intelligence collection capabilities will be targeted to build a better intelligence picture and resources will be marshalled to the most complex, high-end money laundering investigations.
+S0528 As an example, the cross-agency taskforce, recently announced by the Prime Minister, will investigate the data from Mossack Fonseca, the Panamanian law firm, and any forms of illegality that it is found.
+S0529 Powers will be strengthened to protect the integrity of the UK financial system.
+S0532 To be effective, UK law enforcement agencies need to have the right capabilities in place to enable them to build a strong intelligence picture and to intervene to disrupt the threat, supported by appropriate legal powers.
+S0535 The NCA, as the lead on the national response to economic crime, including money laundering, has a programme of work to build a better intelligence picture, supported by other law enforcement agencies and the intelligence community.
+S0536 They will work with their partners to increase their knowledge of high-end money laundering techniques and instruments so that the NCA can identify, develop and action an increased number of opportunities for disruption and regular reassessment of the threat.
+S0537 They will also continue to monitor emerging threats and to inform the propositions for the regulatory approach.
+S0538 The private sector holds much of the data needed to develop the intelligence picture, and will play an enhanced role both through the strengthened JMLIT and by producing better quality reports through a reformed SARs regime.
+S0539 2.23 HM Treasury launched a Call for Information in 2014 on the benefits and risks associated with digital currencies.
+S0540 Respondents to the Call for Information identified that digital currencies and associated technology have the potential to deliver real benefits for businesses and consumers.
+S0543 2.24 We intend to bring digital currency exchange firms into anti-money laundering regulation, as it is at the point where users “cash in” and “cash out” of digital currency networks that money laundering and terrorist finance risk is highest.
+S0544 This is consistent with a risk-based approach, and we note that extending the perimeter of anti-money laundering regulations beyond digital currency exchange firms (e.g. to wallet providers) would not deliver any benefits in terms of mitigating money laundering and terrorist finance risk, and would place significant burdens on firms in this innovative and embryonic sector.
+S0546 Deliver improvements in intelligence collection capability including through:
+S0547  greater and better use of sensitive intelligence  greater exploitation of SARs  enhanced intelligence exchanges with the financial and legal sectors, including through JMLIT; and  closer co-operation with domestic and international partners.
+S0548 Produce a new set of intelligence collection requirements on high end money laundering, to assist with intelligence collection.
+S0549 Regularly re-assess the threat, particularly that posed by high-end money laundering.
+S0553 The NCA was launched in 2013 to lead, coordinate and support UK law enforcement agencies’ response to serious and organised crime including money laundering, bribery and corruption. Other law enforcement agencies, in particular Serious Fraud Office (SFO) and HMRC have expert officers and access to a wide range of legal powers. ** (Reference: 12)
+S0554 Law enforcement agencies will pool their resources in order to take on the high-end money laundering cases that pose the greatest risk to the UK.
+S0558 To respond adequately to this threat, it is necessary for UK law enforcement agencies to review their existing financial investigation capabilities and to develop the expert intelligence, analytical, investigative and legal skills needed, while drawing on the specialist knowledge available in the private sector.
+S0560 Ensure an effective multi-agency investigation response, drawing on private sector expertise, to target the most complex high-end money laundering cases.
+S0563 Create a programme to upskill intelligence, analytical, investigative and legal staff to take on complex money laundering cases.
+S0566 The regional policing tier is critical if the UK is to provide an effective pursue response to money laundering.
+S0567 Whilst national agencies will be expected to take on the most serious threats, there will remain a significant number of money laundering cases for which specialist capabilities will be required.
+S0568 2.28 The Strategic Policing Requirement is the Home Secretary’s statement of the national threats and the national policing capabilities which are required to counter them.
+S0569 Police and crime commissioners (PCCs) are required to have regard to the SPR when issuing their police and crime plans, and Chief Constables must have regard to both the police and crime plan and the SPR when exercising their functions.
+S0570 It helps PCCs plan for threats that span local force boundaries.
+S0571 Serious and organised crime is one of the six national threats in the 2015 SPR. 2.29 Regional Asset Recovery Teams (RARTs) sit within Regional Organised Crime Units (ROCUs) and develop financial intelligence in aid of the investigation and disruption of criminal entities. ** (Reference: 13)
+S0572 They also utilise financial investigation to conduct money laundering investigations, disrupt subjects and recover assets using the powers provided in the Proceeds of Crime Act.
+S0573 Their core financial intelligence and investigation capabilities must be maintained and developed to fulfil this purpose, as well as to respond to requirements set through the national tasking and coordination arrangements.
+S0574 2.30 Most funding for the ROCUs comes from the PCCs of the forces in each region.
+S0575 The Home Office provides additional funding for ROCUs (£25 million in 2015/16).
+S0576 The 2015 Conservative Party Manifesto included a commitment to allow police forces to retain a greater percentage of the value of assets they seize from criminals.
+S0577 Under the Asset Recovery Incentivisation Scheme (ARIS) half of all recovered assets are returned to operational partners.
+S0579 Establish a more sustainable funding model for Regional Asset Recovery Teams to ensure their robust response to money laundering linked to serious and organised crime, including through asset confiscation and denial.
+S0591 2.33 The Government will explore options for new legal powers.
+S0592 Unexplained Wealth Orders (UWOs) are already used in some countries, such as Ireland and Australia, to tackle this problem.
+S0593 A UWO, when served on the defendant, requires him or her to explain to the court the origin of his or her assets.
+S0594 This can provide critical information on which law enforcement agencies can build their case.
+S0595 The Government will also explore whether a new forfeiture power should be created to enable the forfeiture of any assets for which a satisfactory explanation cannot be given to the court.
+S0596 Some countries have criminalised illicit enrichment, making it a criminal offence to possess assets which cannot be accounted for by way of lawful income.
+S0597 It is a requirement under the UN Convention Against Corruption (UNCAC) for states to consider introducing an illicit enrichment offence and the Government intends to explore whether such an offence will be effective in the UK, and whether it will be compatible with our legal system. 2.34 ** (Reference: 14)
+S0600 The UK may be able to learn from the approach taken in the U.S., which has a similarly large and internationally-focussed financial sector.
+S0601 Section 311 of the USA PATRIOT Act enables U.S. regulators to designate entities of ‘primary money laundering concern’.
+S0602 Once a designation is made, banks and other firms are required to take special regulatory precautions in dealing with the entity in question.
+S0603 These designations help U.S. firms protect themselves against the riskiest customers, and can have a very powerful disruptive effect against the entity in question, often, in effect, freezing them out of the international financial system.
+S0604 The Government intends to explore what the UK could learn from the U.S. approach, and to consider how a similar approach could be applied in the UK.
+S0609 POCA civil recovery powers enable prosecutors to recover any form of property, but civil recovery proceedings are complex and the specialist resources in UK law enforcement agencies are rightly focussed on the highest value cases.
+S0610 Therefore, the Government intends to explore whether new powers are needed to enable the quick and effective forfeiture of money held in bank accounts in cases where there is no criminal conviction against the account holder (because, for example, the account was opened under a false identity) and there is suspicion that the funds are the proceeds of crime.
+S0611 2.36 The Government will also explore whether, following an initial hearing at a magistrates’ court, the new power could be used administratively, with forfeitures authorised by senior law enforcement officers where the value held in the account is below a certain limit (for example, £100,000) and the case is uncontested.
+S0612 This new power will form an important part of the changes to the Suspicious Activity Reports regime described earlier in this document.
+S0613 2.37 The Government will also explore whether the same power could also apply to other forms of readily moveable property that may be the proceeds of crime (e.g. jewellery and precious metals).
+S0615  Explore new powers to tackle money laundering, including:
+S0616  New powers to impose an obligation on an individual or entity to explain the source of their wealth in support of an investigation;
+S0617  a new forfeiture power or criminal offence for those who cannot provide a satisfactory explanation;
+S0618  new administrative powers to designate entities of money laundering concern and require the regulated sector to take special measures when dealing with them;
+S0619  updated POCA financial investigation powers to make them more flexible and effective; and  new powers to more easily seize criminal funds held in bank accounts, (‘suspended accounts’) through civil forfeiture.
+S0621 Lead: Home Office 2.38 Compliance with sanctions is key to ensuring those sanctions regimes have the desired effect as a foreign policy and national security tool.
+S0622 The Government intends to legislate to increase the maximum legal penalty for breaches of financial sanctions prohibitions from 2 years imprisonment to 7 years, thus making it a ‘serious crime’.
+S0623 Deferred prosecution agreements, serious crime prevention orders and monetary penalties will also be introduced for breaches of financial sanctions prohibitions, to ensure that there is an effective and proportionate enforcement toolkit across all financial sanctions regimes in the UK.
+S0624 HM Treasury is also establishing an Office of Financial Sanctions Implementation to improve awareness of sanctions by the private sector and enhance cooperation with the law enforcement community.
+S0625 Properly targeted and robustly enforced sanctions are a vital foreign policy tool which we increasingly rely on to deliver important national security objectives.
+S0628 The law enforcement response to terrorist financing is led by NTFIU within the Metropolitan police, supported by regional police counter terrorism units (CTUs).
+S0630 The Government will focus on reducing vulnerabilities and closing loopholes that can be exploited by terrorists to raise and move funds, including through new legislation where necessary.
+S0631 This includes vulnerabilities that enable funds to be raised through fraud or other criminal activity for terrorist purposes.
+S0632 The Government will also ensure that operational partners have and are able to use an appropriate and effective suite of tools to counter-terrorist finance and will look to maximise the use of these tools.
+S0634 Reduce vulnerabilities and close loopholes that can be exploited by terrorists to raise and move funds and ensure that operational partners have, and are able to use, an appropriate and effective suite of tools to counter-terrorist finance.
+S0639 The Government is fully committed to considering evidence submitted to date – for example that submitted to the Cutting Red tape Review – and investigating further the effectiveness of the current supervisory regime in detail, and considering radical options for improvement.
+S0640 The structure, remit and powers of the supervisors to incentivise compliance will be considered as will the strengths and weaknesses of professional body supervision.
+S0641 The Government wants to ensure that a risk-based approach is fully embedded, beginning with the understanding of specific risks, and spotting criminal activity.
+S0642 Tick-box compliance that risks imposing needless bureaucracy on compliant businesses while making the regime less effective helps no one combat crime and needs to be avoided.
+S0643 An effective approach should focus resources on the areas of highest risk while taking a proportionate approach to those presenting low risk.
+S0649 A key element of the risk-based approach is the identification and assessment of risks by supervisors and businesses.
+S0650 To aid a more consistent approach, the Government could work with supervisors to develop a common risk assessment methodology (suitably tailored for individual sectors) that allows risks to be identified and assessed in a comparable way.
+S0656 An awareness raising Prevent communications campaign, designed to deter potential involvement in organised crime, specifically fraud and money laundering, will continue this year, delivered by the Home Office in partnership with the NCA, HMRC, HMT and professional trade bodies and regulators.
+S0657 2.42 The Government launched a review of the impact on business of the current AML/CTF regime as part of the Cutting Red Tape Review programme in August 2015.
+S0658 The Review has specifically sought evidence on the role of supervisors in the regime and is examining the potential to improve compliance and efficiency, by identifying aspects of the supervisory regime that appear to be unclear, inefficient or unnecessarily cumbersome.
+S0659 The clear aim of this Review is to identify scope for better regulation that makes the regime more effective while reducing those regulatory burdens that do not effectively contribute to tackling money laundering or terrorist financing.
+S0660 2.43 Charities have an important role in delivering aid overseas and Money Service Businesses, including Hawala systems, remain important in delivering remittances to some of the poorest countries, which is why it is important to ensure that both sectors are properly supervised to prevent them being used for the financing of terrorism.
+S0661 Any changes will need to be considered carefully to avoid unintended effects on these important sectors.
+S0662 2.44 Work is underway to identify what additional powers and tools could be used to increase oversight and supervision of the MSB sector and improve compliance with Regulations, including the use of targeted action to address non-compliant MSBs and tackle criminal exploitation of MSBs.
+S0663 2.45 The Charities (Protection and Social Investment)
+S0664 Bill contains provisions which will assist the Charity Commission’s work to prevent and disrupt abuse of the charitable sector for terrorist purposes.
+S0665 Provisions of the Bill include an expansion of offences which automatically disqualify an individual from being a charity trustee – these include specified terrorism and money laundering offences, a general power to disqualify individuals from acting as trustees and an amendment to existing law to enable the Commission to consider past conduct, in another charity, against a trustee.
+S0667 The regime relating to Politically Exposed Person (PEPs) will be both robust and proportionate, with resources focused on higher-risk individuals in line with international best practice.
+S0688 The Prime Minister’s Anti-Corruption Summit in May 2016 will address issues including corporate secrecy, Government transparency, the enforcement of international anti-corruption laws, and the strengthening of international institutions.
+S0689 Appropriate customer due diligence measures contribute to the safeguarding of the UK’s financial system and national security.
+S0690 The Government will enhance efforts to protect the UK from those who engage in money laundering and terrorist finance.
+S0691 To pursue those who do so, the UK will continue to work through international groups, such as the G20 and the Financial Action Task Force (FATF), and with like-minded international partners to take action on an international basis, and to achieve greater cooperation with important jurisdictions overseas.
+S0693 The Government has taken a number of measures designed to reduce the UK scheme’s vulnerabilities to abuse.
+S0694 Specifically, in November 2014, the Government took powers to refuse applications where (1) there are reasonable ground to believe the applicant is not in control of the funds; (2) the funds were obtained unlawfully (or by conduct which would be unlawful in UK); and, (3) the character, conduct and associations of a third party providing the funds mean granting is not conducive to public good.
+S0695 In addition, in April 2015, the Government made a further change to require that Tier 1 (Investor) applicants must have opened a UK account with an FCA regulated bank for the purposes of making their qualified investment.
+S0696 This measure ensures that prospective applicants will have been subjected to UK due diligence and anti-money laundering checks before being able to gain a visa through the route.
+S0698 2.50 In July 2015, the Prime Minister announced that the UK Government will consider measures to enhance the provision of beneficial ownership information for foreign companies investing in the UK.
+S0699 The Prime Minister identified two areas where this information would be useful – the purchase of land or property, and public procurement.
+S0700 As a first step, the Government issued a discussion paper on beneficial ownership transparency assessing options for requiring foreign companies to provide their beneficial ownership information when either purchasing property or bidding for public contracts.
+S0701 This was closed on the 4th of April and responses are currently being analysed.
+S0702 2.51 At last December’s Joint Ministerial Council, Overseas Territory leaders agreed to hold company beneficial ownership information in central registers or similarly effective systems.
+S0703 Furthermore, they agreed to develop a timely, safe and secure information exchange process for law enforcement purposes.
+S0704 The Prime Minister informed the House of Commons on 11 April that arrangements had been finalised so, for the first time, UK law enforcement will be able to see exactly who owns and controls companies incorporated in the Overseas Territories and the Crown Dependencies.
+S0705 2.52 The UK will increase its law enforcement cooperation and policy dialogue with jurisdictions of importance for money laundering and terrorist finance.
+S0706 The UK will look to tackle international corruption, where the sums of money siphoned off by corrupt politically exposed persons, businesses and criminals, through bribery and theft of public funds, can be significant.
+S0707 The NCA, as the lead law enforcement agency on economic crime including money laundering and international corruption, will create new International Liaison Officer posts in important jurisdictions to support this work.
+S0708 Other UK law enforcement agencies also have overseas networks, and the NCA will work with them to ensure a coherent approach.
+S0709 The NCA officers will also support work to develop capacity in other countries, and identify potential new threats to the UK.
+S0710 We will also expand our policy dialogue with important jurisdictions to ensure joined-up and comprehensive approaches are taken.
+S0712 Create new NCA International Liaison Officer posts in important jurisdictions.
+S0713 Review UK law enforcement agencies’ overseas networks and ensure a coherent approach.
+S0718 The UK will work with international groups, such as the G20 and the Financial Action Task Force (FATF) to promote better and more effective international information sharing on money launderers between Governments, law enforcement agencies and financial intelligence units, and private sector firms.
+S0720 Develop a new approach for cross-border information sharing between both private sector firms and Government entities (Pursue, Protect)
+S0723 In preparation for the May 2016 Anti-Corruption Summit, the NCA and Serious Fraud Office are leading work to establish more effective international mechanisms for investigators and prosecutors from multiple jurisdictions to work together on serious money laundering cases that span international boundaries.
+S0725 In preparation for the Anti-Corruption Summit, submit a new approach for international law enforcement and prosecutor co-operation on international corruption cases.
+S0727 Lead: NCA, SFO, CPS, Home Office, Cabinet Office 2.55 For terrorist finance, this co-operation will take the form of working with key partners to improve their capacity and capability.
+S0728 The UK will continue to deliver training to, and share expertise with, key overseas partners to help investigate and combat the financing of terrorism.
+S0729 The UK is a member of the Counter ISIL Finance Group and works within the group to ensure closer and more effective working with international partners to degrade Daesh finances.
+S0730 The UK will continue to support the Group’s efforts.
+S0731 We will also work to support activity to combat terrorist finance alongside other EU member states and alongside action at the UN and domestically.
+S0732 2.56 The EU Commission published a new Terrorist Finance Action Plan on 2 February.
+S0733 The UK welcomes the Commission Action Plan and will continue to engage at EU level to help prevent and disrupt terrorist financing in a way that complements the UK’s domestic counter-terrorist finance regime.
+S0734 In particular, the UK welcomes plans for accelerated and effective implementation of United Nations’ freezing orders; consideration of appropriate measures regarding high denomination notes; and the call for Member States to undertake national risk assessments.
+S0735 The UK is ready and willing to share its experiences in undertaking its recent NRA with other EU Member States.
+S0737 Deliver training to, and share expertise with, key overseas partners to help them build their capacity and capability to investigate and combat the financing of terrorism.
+S0740 Continue to support Counter-ISIL Finance Group efforts to degrade Daesh finances and work to support activity to combat terrorist finance alongside other EU member states and alongside action at the UN and domestically.
+S0743 We must support legitimate charities that operate in these environments to reduce the risk of charitable funds being looted by or diverted to terrorist organisations, or otherwise abused for terrorist purposes.
+S0745 Support UK charities operating in difficult environments overseas to mitigate the risk their funds being abused for terrorist purposes Lead: Charity Commission, supported by Department for International Development, Foreign and Commonwealth Office, Home Office
+S0754  A stronger partnership with the private sector o Law enforcement agencies, supervisors and the private sector working in partnership to target resources at the highest money laundering and terrorist financing risks.
+S0755 o News means of information sharing to strengthen the application of the risk-based approach in practice and mitigate vulnerabilities.
+S0756 o A collaborative approach to preventing individuals becoming involved in money laundering.
+S0757  Enhancing the law enforcement response o New capabilities and new legal powers to build the intelligence picture, disrupt money launderers and terrorists, recover criminal proceeds, and protect the integrity of the UK’s financial system.
+S0758  Improving the effectiveness of the supervisory regime o Investigate the effectiveness of the current supervisory regime, and consider radical options for improvement to ensure that a risk-based approach is fully embedded, beginning with the understanding of specific risks, and the spotting criminal activity, rather than a focus on tick-box compliance  Increasing our international reach o Work with international partners to tackle money laundering and terrorist financing threats upstream, and develop multilateral approaches in preparation for the Prime Minister’s Anti-Corruption Summit in May 2016.
+S0789  Removal of the SARs consent regime  New powers for law enforcement agencies to require reporters to take actions in relation to their customers, and to request further information on SARs  Data sharing between private sector organisations to tackle money laundering and terrorist financing 
+S0790 The creation of a new power to require individuals to declare their sources of wealth 
+S0791 The creation of a linked power to seek forfeiture of assets if they fail to declare their sources of wealth 
+S0792 The creation of an illicit enrichment offence 
+S0793 A power to designate an entity as being of money laundering concern 
+S0794 Development of a new power to allow money held in bank accounts to be swiftly seized and forfeited 
+S0795 Changes to the civil recovery powers to allow administrative seizure up to £100,000.
+S0859 In the UK Anti-Corruption Plan, published on 18 December 2014, the Coalition Government committed to carrying out a review of the SARs regime to develop ways of better identifying money laundering and terrorist financing, and to prevent the dissipation of the proceeds of corruption.
+S0863 The Home Office ran a Call for Information on the operation of the SARs regime between 25 February and 25 March 2015.
+S0864 We received more than 60 responses from a wide range of stakeholders, including law enforcement agencies, the financial sector, and the legal and accountancy sectors.
+S0865 The responses contained a wide range of views on the SARs regime.
+S0866 There were a large number of specific points that were made for each of the sections that were set out in the Call for Information, together with a number of general points about the operation of the regime.
+S0873 The reporting sector sees the review as an opportunity to develop a more effective regime.
+S0874  Active information sharing: The review has highlighted the need for a better information sharing model to support greater collaboration between law enforcement agencies, regulators and the private sector.
+S0875 Most respondents want to share relevant information to assist in tackling money laundering.
+S0877 The Joint Money Laundering Intelligence Taskforce has made some significant steps in building trust between law enforcement agencies and the financial sector, but to do this on a longer term basis, some respondents wanted explicit legal cover.
+S0881 The Government is committed to taking action to recognise and address this concern.
+S0890 Law enforcement agencies believe that there has to be a mechanism that allows transactions that involve the transfer of criminal assets to be investigated and prevented.
+S0912 Many respondents wanted strengthening of the definition of “suspicion”, to allow better judgements to be made.
+S0913 Suggested solutions included better information sharing on trends and typologies including new forms of transactions such as online banking and virtual currencies.
+S0914  Due diligence: Respondents said that financial institutions should conduct proper due diligence not only on the source of wealth but on the source of funds.
+S0918 Improved oversight, and rationalisation of supervisors in some of the non-bank sectors is required to address this.
+S0922 Clarification of the need for reporting, and to whom, would be useful for some, particularly where both fraud and money laundering were involved.
+S0923 This could include bulk reporting of fraud to the NFIB.
+S0925 Respondents recommended an increase in staffing, improved IT, and work to reduce the volume of SARs, and thought that capabilities (particularly analysis skills) needed to be improved to support this work.
+S0931 Suggested solutions include a statutory protection for those sharing information in this area, and a definition of when it is acceptable to refer to the fact of a SAR being raised.
+S0932 The USA PATRIOT Act provisions on data sharing are seen as worth exploring.
+S0933  Effective information sharing structures: The Joint Money Laundering Intelligence Taskforce (JMLIT), which is run as a pilot by the NCA and some banks, was supported as a means of testing information sharing on a collaborative cross-sector basis.
+S0934 Some non-bank contributors asked for an equivalent structure.
+S0935 Respondents felt that the JMLIT is a good starting point, but needs development before it could be a long-term solution.
+S0936  Cross-Government data sharing: Respondents said that Government and other public bodies have data that would be useful to enrich the information provided through SARs.
+S0937 These datasets should be available to the NCA to improve the effectiveness of the regime.
+S0940 Suggestions included restricting it to a deliberate action to inform the subject of a SAR for the purpose of assisting them, or scrapping the provision altogether and relying on alternatives such as aiding and abetting.
+S0941 Respondents also want a form of words, agreed with the NCA, to use with customers who question the delay of their transactions.
+S0942  Outputs to the reporting sector: Some private sector respondents would like access to SARs data.
+S0943 However, others felt that they did not want access themselves, and that access should remain limited, perhaps only to supervisors or regulators.
+S0944 Most wanted access to trend and threat data, and some to information on those convicted (or strongly suspected) of money laundering.
+S0945 They would like information on matters already under investigation by law enforcement, and not be required to raise additional SARs on those.
+S0946  Collaborative working: Respondents see a future regime operating on a much more collaborative basis.
+S0947 Some talked about creating a CIFAS-style anti-money laundering (AML) information sharing exchange, which would provide reporters with details of trends etc.
+S0948 A number wanted to see a regime that used trusted or security cleared staff (such as MLROs) far more, to share information between and within sectors.
+S0950  Prioritisation of SARs: Some respondents would like information that help them to identify criminality more effectively, and to use this as the basis for a tiered approach to reporting, whereby SARs are graded according to the degree of suspicion relating to the transaction, and where the reporter provides a significant level of input where they firmly believe the transaction is criminal.
+S0951  De minimus value for SARs: A number of respondents felt that there should be a realistic de minimus value for SARs, to allow reporters to focus on the higher value transactions, and to reduce the number of SARs raised.
+S0953 A number of proposals have been put forward for functionality that any new system should have, all of which would need to use structured data that allows effective interrogation and analysis.
+S0954 More use of standardised formats, alongside priority indicators, was seen as useful.
+S0955 Any solution would need a significant analytical capability, along with the resources to use that effectively.
+S0956 Bulk or linked reporting of SARs would allow the reporting sector to develop a better report package for law enforcement agencies, containing more information relating to the transaction.
+S0957 Non-bank respondents felt that any new technical solution needs industry-specific templates.
+S0958 This would help with training and the provision of relevant information.
+S0959  Bulk information sharing: alongside priority indicators, the reporting sector could be asked to provide bulk data for specific areas, which law enforcement agencies could mine for further information.
+S0961  Consent regime: Some respondents would like the consent regime to be replaced by a restructured SARs regime, based on tiered reporting.
+S0962 The transactions where a bank has evidence of criminality would be subject to review by the NCA prior to action being taken.
+S0963 The reporter would not commit an offence if the transaction proceeded during the review period.
+S0964 The consent regime is supported by law enforcement agencies.
+S0966  Focus on accounts rather than transactions: Some suggest that it would be better for consent requests to operate on the whole account, rather than on each transaction.
+S0967 They believe this would be better as it would freeze the whole account in one go, rather than require SARs for individual transactions.
+S0971  Start process before customer instruction: Some respondents think if the reporter could start the consent process before the customer gives instructions, this would speed up the process, and reduce the impact on the customer.
+S0974 Some respondents argue that provisions similar to those in the PATRIOT Act on information sharing would be very useful, and would provide legal cover for the regulated sector to share information.
+S0976 Spain: The Spanish FIU is seen as working closely with the reporting sector, and provides effective feedback, and useful information on typologies.
+S0977 This is caveated with a recognition that the volume of SARs in Spain is much smaller than that in the UK.
+S0988 The Financial Action Task Force (FATF) sets out high-level principles for the organisation of national AML/CFT regimes and demands that jurisdictions should ensure effective supervision of regulated entities on a risk-sensitive basis by supervisors that have adequate powers to ensure compliance.
+S1002 The government has committed to dealing with the issues raised in the NRA and seeks views from supervisors, regulated businesses, NGOs and the public on how best to address them.
+S1003 It is important that in considering how to improve the regime we do not create needless burdens on business and the government launched a review of the impact on business of the current AML/CFT regime as part of the Cutting Red Tape programme in August 2015.
+S1007 The purpose of this call for information is to enable the government to examine options to improve the supervisory regime and address inconsistencies, ensuring that the UK’s regime is effective, proportionate and meets the standards set down by FATF.
+S1033 It has been suggested that a clear and transparent method for ‘supervising the supervisors’ is needed, not only to create a well understood mechanism for holding them to account, but also to give supervisors support and clarity on what is expected of them.
+S1105 The Clementi report led to the establishment of the Legal Services Board and the separation of lobbying and supervisory functions for lawyers in England and Wales.
+S1106 This separation mitigates the risk of conflict of interest, as recognised by the NRA.
+S1107 Furthermore, it may make it easier for law enforcement to share information with supervisors if the supervisory arm is distinct from the representative arm and is established with appropriate safeguards and firewalls to give confidence that sensitive information would be protected.
+S1127 The government may consider, in cooperation with industry and supervisors, taking a more active role in the production of guidance that explains the legal framework of the UK’s AML/CFT regime.
+S1128 Guidance on how to apply this legal framework to the particular sector, along with examples of best practice, would then be produced by appropriate industry and supervisory bodies and may not require Treasury approval.
+S1129 This could result in a consolidation in the amount of AML/CFT guidance produced and provide greater clarity to supervisors and to business.
+S1141 A transparent AML/CFT regime is more likely to maintain public confidence in the UK’s approach to tackling money laundering and terrorist financing.
+S1143 Taking an open approach to improving the understanding of money laundering and terrorist financing risks should assist the government, supervisors and the private sector in targeting their resources at the areas of highest risk.
+S1147 A transparent approach means that all – government, supervisors, and the private sector – can be held to account for their contribution in the fight to protect the UK from the scourge of money laundering and terrorist financing.
+S1148 With this in mind, concerns that a candid approach which sets out the risks and vulnerabilities would serve as a roadmap to criminals should be balanced against the argument that openly identifying weaknesses provides a strong impetus for change.
+S1149 This argument holds that it is only through identifying and sharing understanding of weaknesses that these can be addressed, in order to ensure that the UK’s AML/CFT regime is robust, proportionate and responsive to emerging threats.
+S1159 A key component of an effective AML/CFT regime is the effective sharing of information between supervisors and law enforcement agencies, and among supervisors.
+S1161 For a supervisor to act effectively it must have information- sharing gateways and appropriate mechanisms that allow it and law enforcement to share information to counter money laundering and terrorist financing.
+S1162 The ability to share skills, knowledge and experiences can also add to the overall effectiveness of supervision.
+S1209 A number of the inconsistencies outlined in this document could potentially be addressed by encouraging the supervisors to work in similar ways or establishing other means of oversight.

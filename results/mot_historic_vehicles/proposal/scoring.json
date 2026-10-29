@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "40-year rolling exemption with certification (Option 3)",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Failure rates by vintage (33.7%, 25.3%, 14.8%) are tied to Table 5 and accident counts to Table 3 of the IA, with clear reasoning to the 40-year choice, and the document concedes modelling is limited by data linking accidents to vintage and that safety risks may be higher than modelled; but the tables are not sourced as to method in this extract and the acknowledgement is not a full assessment of the evidence base, so it falls short of level 3; counted ungrouped Table 5 rows and 'Our modelling is limited...' lines."
+    },
+    {
+      "theme": "Costs and benefits of the options",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Cost and benefit figures per option (lines 'Table 14', 'Savings from reduced vehicle testing', best estimate 89.60) are backed by cited TRL report (Reference 1) and the ungrouped half-conform/non-conform assumptions, and the document assesses uncertainty ('very hard to estimate with any certainty', 'We do not know the precise relationship between mechanical failure and ... accidents', conservative lower/upper bounds)."
+    },
+    {
+      "theme": "Reduced regulation without undue burden",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Only the figure that over 14,000 pre-1960 vehicles (7%) were voluntarily tested is data-backed, while claims that most business VHIs would still be tested and that VHIs are well maintained are expressly assumptions or 'early evidence' with no source, though the document flags these as to be tested at consultation."
+    }
+  ],
+  "reasoning": "Two of the three themes are core. Costs and benefits reaches level 3. The impact assessment gives option-by-option monetised figures (for example 'Best Estimate: 89.60' for Option 3; 'Table 14 shows the total costs by each option'), and the safety modelling draws on the cited TRL report (Reference 1), with the half-conform and non-conform bounds explained in the ungrouped lines. The document assesses its own evidence: 'This is very hard to estimate with any certainty', 'We do not know the precise relationship between mechanical failure and the proportion of accidents', and it explains the conservative assumptions. The 40-year exemption theme reaches level 2. It links the 33.7%, 25.3% and 14.8% failure rates (Table 5) and the accident counts (Table 3) to the choice of 40 over 30 years, and it admits 'Our modelling is limited by available data linking accident rates to vehicle vintage'. But the data come from the department's own tables, and the consultation promise to seek further information is not a full assessment. The mean of the core levels is 2.5, which rounds down to 2. The strongest counter-example is that the preferred option's own best-estimate net benefit (\u00a389.6m) is lower than Option 5 (\u00a3129.6m), and the document says little about how its failure-rate evidence could be set against that, which could justify level 1 for the first theme. To reach level 3 across the board, the document would need to evaluate the failure-rate and accident evidence for the 40-year threshold as thoroughly as it does the safety model, including its limits and any contradictory findings.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.0,
+  "score_consistent": true,
+  "missing_core": []
+}

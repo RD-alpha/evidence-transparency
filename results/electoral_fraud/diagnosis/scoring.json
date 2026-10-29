@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Polling station and voting-channel vulnerabilities",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The theme draws on consultation evidence, Mawrey's Tower Hamlets judgment, the AEA report (Ref 19, undefined) and a table of convictions, but gives no method for the consultation, Ref 3 is a Hansard pointer attached to an opinion, and the only assessment of the evidence is the 11-in-1289 poll worker survey and the line 'absence of evidence does not mean this practice is not taking place'."
+    },
+    {
+      "theme": "Registration weaknesses",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Evidence is named (Operation Amberhill, the London Electoral Management Board, the NPCC, administrators' concerns) but nothing is cited for it, Refs 7 and 8 only define terms, and the single acknowledgement of uncertainty is 'What is unclear... is the extent to which this vulnerability is/has been exploited'."
+    },
+    {
+      "theme": "Weak legal framework, enforcement and oversight",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "It uses the Tower Hamlets judgment (Ref 15), the Hansard answers (Ref 13), petition fee and cost figures (Ref 11) and a joint academic analysis of petitions (21 of 39), but much of it is assertion or opinion, the consultation method is not stated, and it acknowledges only that police say many allegations are partisan and 'wither for lack of evidence'."
+    },
+    {
+      "theme": "Scale of fraud and public trust",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Lines on 'the low numbers of allegations', 'the absence of evidence does not mean this practice is not taking place' and 'a precautionary principle' acknowledge uncertainty about scale, but no figures are given in the theme and the case rests on reasoning rather than evidence (the ungrouped and polling-station lines add the 11 of 1289 survey and the Electoral Commission chart note)."
+    }
+  ],
+  "reasoning": "All four themes are core, and each reaches level 1. Polling station and voting-channel vulnerabilities (1) offers plenty of evidence, including Mawrey's Tower Hamlets judgment, a table of convictions by council, the 11-of-1289 poll worker survey and consultation responses. Most of it is uncited, though. Ref 3 is a Hansard pointer attached to an opinion, and Ref 19 is flagged as having no definition. Registration weaknesses (1) names Operation Amberhill and the London Electoral Management Board but has no source for either, and Refs 7 and 8 only define terms. It does admit 'What is unclear... is the extent to which this vulnerability is/has been exploited'. Weak legal framework, enforcement and oversight (1) has real citations (Refs 11, 13, 15) alongside much unsupported assertion, such as 'an attitude of denial', and it never says how the consultation was run. Scale of fraud and public trust (1) openly says the true scale is unknown and invokes a 'precautionary principle', but it gives no figures and rests largely on reasoning. The mean is 1.0, so the score is 1. The strongest counter-example for level 2 is the Tower Hamlets judgment (Ref 15), which is properly cited and clearly linked, but it covers one case. To reach level 2, the document would have to cite its claims, name its sources, and say how its consultation evidence was gathered. To reach level 3, it would also have to assess the strength of that evidence and the contradictions in it.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

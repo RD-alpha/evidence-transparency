@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Apprenticeship Targets and Goals",
+      "reason": "Establishes the overarching target (30,000 apprenticeships by 2020) and explicitly frames that success must be measured by quality as well as quantity, setting up the need for the interim goals and five measurement areas that structure the whole evaluation approach; without this framing the rationale for why multiple measures are needed collapses.",
+      "weight": "core"
+    },
+    {
+      "theme": "Data Collection and Monitoring",
+      "reason": "This is the operational mechanism and timetable (quarterly collection, baseline by 2016/17, legislative target April 2017, Cabinet Office governance) by which any measurement or evaluation of the policy is actually carried out; remove it and there is no concrete plan for how data will be gathered or progress tracked.",
+      "weight": "core"
+    },
+    {
+      "theme": "Long-Term Tracking and Career Outcomes",
+      "reason": "Describes one specific outcome measure (career progression after completion) among several; it adds detail to what is measured but the evaluation case does not depend solely on this one outcome.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Diversity and Inclusion",
+      "reason": "Directly addresses the stated problem of low diversity/social mobility by specifying diversity data as a success measure; this is essential to showing the policy's impact on the core problem it is meant to solve.",
+      "weight": "core"
+    },
+    {
+      "theme": "Quality and External Recognition",
+      "reason": "A specific, narrow success measure (external recognition by 2018) that supplements but is not essential to the overall evaluation framework.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Employee Engagement",
+      "reason": "Provides a specific metric (People Survey scores) as one of many outcome indicators, but is not central to whether the evaluation plan as a whole holds up.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Productivity and Return on Investment",
+      "reason": "Offers specific employer-survey based measures of productivity/ROI, which is one illustrative outcome among several rather than a load-bearing element of the evaluation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Programme Delivery and Performance",
+      "reason": "Lists operational delivery metrics (numbers by profession, levels, employer survey) that are supporting detail rather than a foundational pillar of the evaluation plan.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Levy Management and Spend",
+      "reason": "Covers financial tracking of levy spend, a narrow administrative metric that is not central to whether the overall testing/evaluation case holds.",
+      "weight": "not core"
+    }
+  ]
+}

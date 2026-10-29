@@ -1,0 +1,48 @@
+<root>
+<theme sentences="2" weight="core">
+<name>Skills Shortages and Economic Growth</name>
+<claim>The document argues that national skills shortages and the need to boost productivity and economic growth are driving the push for more apprenticeships, including in the public sector.</claim>
+<text>
+<line id="S0023">The Government’s manifesto commitment to achieve three million apprenticeship starts by 2020 is driven by an ambition to address our nation’s skill shortages and stimulate economic growth.</line>
+<line id="S0026">The public sector has been asked to achieve a greater proportion of apprenticeship growth to bring us in line with the private sector where an estimated three-quarters of apprentices work.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="3" weight="core">
+<name>Workforce Diversity and Inclusion Gap</name>
+<claim>The document argues that the Civil Service and public sector more broadly have struggled to achieve true diversity, representation and social mobility, despite being more diverse than before.</claim>
+<text>
+<line id="S0041">The Workforce Plan also sets an ambition for the Civil Service to be the most inclusive employer in the UK.</line>
+<line id="S0042">Traditionally, the public sector has struggled to get right the diversity of its workforces and applicant pools.</line>
+<line id="S0043">Whilst the Civil Service is the most diverse it has ever been, we still have more to do to ensure true representation and inclusivity across the organisation.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="core">
+<name>Disability Employment Gap</name>
+<claim>The document argues that disabled people, particularly those with conditions like autism, face a significant employment gap that the Civil Service must help address.</claim>
+<text>
+<line id="S0057">This is a significant challenge for some disabled groups, with only 15% of people who have autism currently in full time employment.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="not core">
+<name>Changing Perceptions of Apprenticeships</name>
+<text>
+<line id="S0078">We have more progress to make in changing the traditional view of apprenticeships, to ensure that equity of opportunity is achieved.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

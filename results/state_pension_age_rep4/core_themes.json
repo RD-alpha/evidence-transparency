@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Rising life expectancy and share of life in retirement",
+        "claim": "Life expectancy at 65 has risen steadily and is projected to keep rising, so people spend a growing proportion of adult life receiving State Pension unless State Pension age rises."
+      },
+      {
+        "name": "Demographic shift and rising pension costs",
+        "claim": "The baby-boomer cohort and a rising old age dependency ratio mean more pensioners per working-age person, so State Pension spending on a pay-as-you-go basis rises sharply (about 1% of GDP by 2036/37, equal to £725 per household)."
+      },
+      {
+        "name": "Past slow adjustment of State Pension age",
+        "claim": "State Pension age stayed fixed for decades despite longevity gains, forcing rapid, repeated catch-up changes across three Acts and showing the need for a structured, regular framework."
+      },
+      {
+        "name": "Wider fiscal pressure of ageing",
+        "claim": "Population ageing also drives large rises in health and social care spending, which will squeeze public finances and pass a growing debt burden to future generations."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Raising State Pension age to 68 in 2037-39",
+        "claim": "The government will follow Cridland's recommendation to bring the rise to 68 forward to 2037-39, because it balances affordability and fair shares of retirement against the pace of change, while rejecting faster timetables (the 32% timetable), lower pensions and a flexible or early-access State Pension age as alternatives."
+      },
+      {
+        "name": "Link to life expectancy and fairness between generations",
+        "claim": "State Pension age should be tied to life expectancy, with a long-run aim of 'up to 32%' of adult life in receipt of State Pension, so each generation gets a similar deal and the pension stays above the means-test level and affordable."
+      },
+      {
+        "name": "Fiscal savings and sustainability",
+        "claim": "Bringing forward the rise to 68 reduces spending growth (0.4% of GDP in 2039/40, £74bn to 2045/46) and avoids the alternatives of lower pensions or higher taxes on working generations."
+      },
+      {
+        "name": "Universal State Pension age retained",
+        "claim": "A single universal State Pension age is kept because it is simple and clear for planning, variations in life expectancy cannot practicably be reflected, and disadvantaged groups are better helped through the working-age benefit system."
+      },
+      {
+        "name": "Later decisions and further review",
+        "claim": "Because life expectancy projections are uncertain, the government will not legislate for 68 or set policy beyond 2037-39 until further reviews have considered updated projections and the effects of current rises."
+      }
+    ],
+    "note": "The labelled Proposal aspect also carries the cost estimates and the rejection of alternatives, which are folded into the main choice and savings themes."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Notice period",
+        "claim": "Individuals should get at least ten years' notice of State Pension age changes so they can plan, and this also allows windows of stability to monitor impacts."
+      },
+      {
+        "name": "Communications strategy",
+        "claim": "The government will communicate future changes through a digital and stakeholder-based strategy that encourages people to check their State Pension position and engage in financial planning."
+      },
+      {
+        "name": "Wider support package",
+        "claim": "Rises in State Pension age must be accompanied by support for saving, fuller working lives and those who cannot work, to be developed in light of Cridland's recommendations and the health and work consultation."
+      }
+    ],
+    "note": "Implementation is a package of separate delivery measures, with few costs or alternatives given, and rests heavily on commitments to consider further action later."
+  }
+}

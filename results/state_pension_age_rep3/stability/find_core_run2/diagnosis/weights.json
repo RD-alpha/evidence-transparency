@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Rising life expectancy and time in retirement",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Demographic shift and rising dependency",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Rising fiscal cost and intergenerational burden",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Past slow and reactive policy and uncertainty of projections",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

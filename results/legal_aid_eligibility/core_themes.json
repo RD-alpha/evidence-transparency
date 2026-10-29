@@ -1,0 +1,49 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Universal Credit widens passporting and raises costs",
+        "claim": "Universal Credit replaces a wider set of benefits than were historically passported and can be paid to people with earnings, so continuing to passport all recipients would add about £14m a year (range £9m-£20m) to legal aid spending, which is unaffordable."
+      },
+      {
+        "name": "Unfair advantage over similar-income non-recipients",
+        "claim": "Because Universal Credit tapers away slowly and includes work allowances, recipients could have household incomes above legal aid thresholds yet still be passported, advantaging them over people on similar incomes outside Universal Credit and failing to target those most in need."
+      },
+      {
+        "name": "Interim passporting was temporary",
+        "claim": "Universal Credit was made a passporting benefit in 2013 only as a short-term measure while it was limited in scope, with the expectation that the decision would be revisited as rollout expanded."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Passport only zero-earnings Universal Credit recipients",
+        "claim": "Limiting passporting to Universal Credit recipients with no earnings, while keeping legacy passporting and existing thresholds, best meets the objectives of targeting need, sharing information across government, minimising cost and minimising administrative burden, and the alternatives (a £500 earnings threshold or no passporting at all) were rejected because the former still adds cost and disadvantages non-recipients and the latter loses information-sharing efficiency and raises administrative costs."
+      },
+      {
+        "name": "Costs and modelled impacts are small",
+        "claim": "Modelling estimates a net additional cost of about £400,000 a year (range £200,000-£600,000) and only around 1,150 people changing eligibility, so the policy limits spending while affecting very few claimants."
+      },
+      {
+        "name": "No disproportionate equalities impact",
+        "claim": "Because most claimants' eligibility is unchanged and the policy applies identically to everyone, it is not directly or indirectly discriminatory and is a proportionate way to target legal aid without extra cost."
+      }
+    ],
+    "note": "The proposal aspect also contains the full options appraisal, modelling assumptions and equalities analysis; the core themes merge the choice with the rejection of alternatives."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Transitional protection for existing cases",
+        "claim": "Applicants who were on Universal Credit when they applied would not be reassessed during the life of their case, so the change is integrated with minimum disruption for recipients and those administering the scheme."
+      },
+      {
+        "name": "Special-issue rules for Universal Credit assessment",
+        "claim": "The housing element of Universal Credit should be disregarded from gross income and contrary-interest rules kept unchanged, so that Universal Credit recipients are not disadvantaged relative to housing benefit recipients or partners with opposing interests."
+      }
+    ],
+    "note": "Implementation is thin: secondary legislation and an autumn 2017 start are mentioned with little argument, and delivery depends on providers and IT changes whose costs are not quantified."
+  }
+}

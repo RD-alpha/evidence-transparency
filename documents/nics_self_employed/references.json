@@ -1,0 +1,590 @@
+[
+  {
+    "number": "1",
+    "text": "See:  http://www.bankofengland.co.uk/archive/Documents/historicpubs/qb/2002/qb020402.pdf",
+    "source_alias": "nics_fact_sheet",
+    "source_title": "National Insurance and the Self-Employed",
+    "source_number": "1"
+  },
+  {
+    "number": "2",
+    "text": "The average effective tax rate for an employee is calculated on the basis of total labour costs (income tax plus employee and employer NICs divided by salary plus employer NICs).",
+    "source_alias": "nics_fact_sheet",
+    "source_title": "National Insurance and the Self-Employed",
+    "source_number": "2"
+  },
+  {
+    "number": "3",
+    "text": "An individual’s existing National Insurance record will be taken into account when their new State Pension is calculated. If they are eligible for more pension under the existing system than the full amount of the new State Pension, they will still get this higher amount when they reach State Pension age.",
+    "source_alias": "nics_fact_sheet",
+    "source_title": "National Insurance and the Self-Employed",
+    "source_number": "3"
+  },
+  {
+    "number": "4",
+    "text": "https://beis.dialogue-app.com/matthew-taylor-review/home?sort_order=most_comments",
+    "source_alias": "nics_fact_sheet",
+    "source_title": "National Insurance and the Self-Employed",
+    "source_number": "4"
+  },
+  {
+    "number": "5",
+    "text": "This represents the NICs that would be paid if the self-employed were subject to Class 1 (employee and employer) NICs. See: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/579720/Dec_16_Main_Reliefs_Final.pdf",
+    "source_alias": "nics_fact_sheet",
+    "source_title": "National Insurance and the Self-Employed",
+    "source_number": "5"
+  },
+  {
+    "number": "6",
+    "text": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/199183/05_ots_small_business_interim_report.pdf",
+    "source_alias": "nics_fact_sheet",
+    "source_title": "National Insurance and the Self-Employed",
+    "source_number": "6"
+  },
+  {
+    "number": "7",
+    "text": "The vast majority of those paying Class 4 will see only minimal changes to the way they access contributory benefits.",
+    "source_alias": "nics_fact_sheet",
+    "source_title": "National Insurance and the Self-Employed",
+    "source_number": "7"
+  },
+  {
+    "number": "8",
+    "text": "HMT analysis. Rates and thresholds are based on OBR projections for 2018-19 onwards. The government has committed to increase the income tax personal allowance to £12,500 and higher rate threshold to £50,000 by the end of the Parliament. All case studies apply to England, Scotland and Northern Ireland only, as the main rates and thresholds are devolved to Scotland.",
+    "source_alias": "nics_fact_sheet",
+    "source_title": "National Insurance and the Self-Employed",
+    "source_number": "8"
+  },
+  {
+    "number": "9",
+    "text": "Details of the sources of all numerical references, including National Statistics, used in this section, can be found in ‘Spring Budget 2017 data sources’ . ↩",
+    "urls": [
+      "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/597424/spring_budget_2017_data_sources_web.pdf"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "1"
+  },
+  {
+    "number": "10",
+    "text": "‘ Public sector finances ’, ONS , January 2017, and ‘Economic and fiscal outlook’, OBR , March 2017. ↩",
+    "urls": [
+      "https://www.ons.gov.uk/releases/ukpublicsectorfinancesjan2017"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "2"
+  },
+  {
+    "number": "11",
+    "text": "‘ Charter for Budget Responsibility: autumn 2016 update ’, HM Treasury, January 2017. ↩",
+    "urls": [
+      "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/583547/charter_for_budget_responsibility_autumn_2016_update_final_for_laying_web.pdf"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "3"
+  },
+  {
+    "number": "12",
+    "text": "‘ Economic and fiscal outlook ’, OBR , March 2017. ↩",
+    "urls": [
+      "http://budgetresponsibility.org.uk/efo/economic-fiscal-outlook-march-2017/"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "4"
+  },
+  {
+    "number": "13",
+    "text": "‘ Improvements to accruals methodology for Corporation Tax, Bank Corporation Tax Surcharge and the Bank Levy ’, ONS , February 2017. ↩",
+    "urls": [
+      "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/articles/improvementstoaccrualsmethodologyforcorporationtaxbankcorporationtaxsurchargeandthebanklevy/2017"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "5"
+  },
+  {
+    "number": "14",
+    "text": "‘ Public sector finances ’, ONS , January 2017. ↩",
+    "urls": [
+      "https://www.ons.gov.uk/releases/ukpublicsectorfinancesjan2017"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "6"
+  },
+  {
+    "number": "15",
+    "text": "‘ Fiscal sustainability report ’, OBR , January 2017. ↩",
+    "urls": [
+      "http://budgetresponsibility.org.uk/fsr/fiscal-sustainability-report-january-2017/"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "7"
+  },
+  {
+    "number": "16",
+    "text": "‘ International comparisons of productivity ’, ONS , October 2016. ↩",
+    "urls": [
+      "https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/datasets/internationalcomparisonsofproductivityfirstestimates"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "8"
+  },
+  {
+    "number": "17",
+    "text": "‘ Letter from the Chancellor of the Exchequer to the Governor of the Bank of England 04/08/2016 ’, HM Treasury, August 2016. ↩",
+    "urls": [
+      "https://www.gov.uk/government/publications/asset-purchase-facility-apf-ceiling-august-2016"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "9"
+  },
+  {
+    "number": "18",
+    "text": "‘ Economic statistics classification article: statistical treatment of the Bank of England’s Term Funding Scheme in the UK national accounts and public sector finances ’, ONS , October 2016. ↩",
+    "urls": [
+      "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/economicstatisticsclassificationarticle/statisticaltreatmentofthebankofenglandstermfundingschemeintheuknationalaccountsandpublicsectorfinances"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "10"
+  },
+  {
+    "number": "19",
+    "text": "‘ Autumn Statement: Supplementary fiscal aggregates: 2016 ’, ONS , October 2016. ↩",
+    "urls": [
+      "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/articles/autumnstatementsupplementaryfiscalaggregates/2016"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "11"
+  },
+  {
+    "number": "20",
+    "text": "‘ Benefit Caseload and Expenditure Tables ’, DWP , 2016. ↩",
+    "urls": [
+      "https://www.gov.uk/government/publications/benefit-expenditure-and-caseload-tables-2016"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "12"
+  },
+  {
+    "number": "21",
+    "text": "See Annex B of the Autumn Statement 2016 document. ↩",
+    "urls": [
+      "https://www.gov.uk/government/publications/autumn-statement-2016-documents/autumn-statement-2016#annex-b-welfare-cap"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "13"
+  },
+  {
+    "number": "22",
+    "text": "‘Public finances databank’, OBR , March 2017. ↩",
+    "urls": [],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "14"
+  },
+  {
+    "number": "23",
+    "text": "‘Public finances databank’, OBR , March 2017. ↩",
+    "urls": [],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "15"
+  },
+  {
+    "number": "24",
+    "text": "‘ Sale of public share in Lloyds to restart shortly ’, HM Treasury, October 2017. ↩",
+    "urls": [
+      "https://www.gov.uk/government/news/sale-of-publics-stake-in-lloyds-to-restart-shortly"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "16"
+  },
+  {
+    "number": "25",
+    "text": "‘ Economic and fiscal outlook ’, OBR , November 2016, ‘ Economic and fiscal outlook ’, OBR , March 2017. ↩",
+    "urls": [
+      "http://cdn.budgetresponsibility.org.uk/Nov2016EFO.pdf",
+      "http://budgetresponsibility.org.uk/efo/economic-fiscal-outlook-march-2017/"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "17"
+  },
+  {
+    "number": "26",
+    "text": "‘ Taxpayers’ stake in Lloyds now below 4% ’, HM Treasury, February 2017. ↩",
+    "urls": [
+      "https://www.gov.uk/government/news/taxpayers-stake-in-lloyds-now-below-4"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "18"
+  },
+  {
+    "number": "27",
+    "text": "‘ UK Asset Resolution Limited Group Interim Financial Report for the 6 months to 30 September 2016 ’, UKAR , November 2016. ↩",
+    "urls": [
+      "http://www.ukar.co.uk/~/media/Files/U/Ukar-V2/Attachments/press-releases/2016/ukar-interim-report-2016.pdf"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "19"
+  },
+  {
+    "number": "28",
+    "text": "‘ Economic and fiscal outlook ’, OBR , March 2017. ↩",
+    "urls": [
+      "http://budgetresponsibility.org.uk/efo/economic-fiscal-outlook-march-2017/"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "20"
+  },
+  {
+    "number": "29",
+    "text": "‘ Government launches first sale from the student loan book ’, Department for Education, HM Treasury and Student Loans Company, February 2017. ↩",
+    "urls": [
+      "https://www.gov.uk/government/news/government-launches-first-sale-from-the-student-loan-book"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "21"
+  },
+  {
+    "number": "30",
+    "text": "‘ Economic and fiscal outlook ’, OBR , March 2017. ↩",
+    "urls": [
+      "http://budgetresponsibility.org.uk/efo/economic-fiscal-outlook-march-2017/"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "22"
+  },
+  {
+    "number": "31",
+    "text": "‘ Debt management report 2017-18 ’, HM Treasury, March 2017. ↩",
+    "urls": [
+      "https://www.gov.uk/government/publications/debt-management-report-2017-to-2018"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "23"
+  },
+  {
+    "number": "32",
+    "text": "‘ Spring Budget 2017: policy costings ’, HM Treasury, Department for Work and Pensions, and HM Revenue and Customs, March 2017. ↩",
+    "urls": [
+      "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/597335/PU2055_Spring_Budget_2017_web_2.pdf"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "24"
+  },
+  {
+    "number": "33",
+    "text": "‘ Overview of Tax Legislation and Rates ’, HM Treasury, and HM Revenue and Customs, March 2017. ↩",
+    "urls": [
+      "https://www.gov.uk/government/publications/spring-budget-2017-overview-of-tax-legislation-and-rates-ootlar"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "25"
+  },
+  {
+    "number": "34",
+    "text": "HM Treasury analysis based on personal tax parameters, ONS CPI series, HMRC analysis based on Survey of Personal Incomes (SPI) 2013-14 data, and Budget 2016 OBR forecasts. ↩",
+    "urls": [],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "26"
+  },
+  {
+    "number": "35",
+    "text": "This is derived from [published weekly state pension rates for 2016-17] (https://www.gov.uk/state-pension/what-youll-get). ↩",
+    "urls": [],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "27"
+  },
+  {
+    "number": "36",
+    "text": "HMRC analysis estimates that the Exchequer cost of the existing discretionary company population, as defined by the OBR in its November 2016 Economic and fiscal outlook, will be over £6 billion in 2021-22. ↩",
+    "urls": [],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "28"
+  },
+  {
+    "number": "37",
+    "text": "Internal HMRC analysis. ↩",
+    "urls": [],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "29"
+  },
+  {
+    "number": "38",
+    "text": "52% of UK households hold total savings and investments of between £0 and £3,000 (‘Family Resources Survey: financial year 2014/15’, Department for Work and Pensions, June 2016). ↩",
+    "urls": [],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "30"
+  },
+  {
+    "number": "39",
+    "text": "‘ Business tax road map ’, HM Treasury, March 2016. ↩",
+    "urls": [
+      "https://www.gov.uk/government/publications/business-tax-road-map"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "31"
+  },
+  {
+    "number": "40",
+    "text": "‘ Maximising Economic Recovery UK in practice ’, Oil and Gas Authority, 26 October 2016. ↩",
+    "urls": [
+      "https://www.ogauthority.co.uk/media/2859/mer-uk-in-practice-introduction-dr-andy-samuel.pdf"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "32"
+  },
+  {
+    "number": "41",
+    "text": "‘ HMRC ’S Annual report and accounts’, HMRC , 28 June 2012 and 14 July 2016 ; ‘ HMRC quarterly performance updates’, HMRC , 16 February 2017 ; and ‘Measuring tax gaps’, HMRC , 20 October 2016 . ↩",
+    "urls": [
+      "https://www.gov.uk/government/collections/annual-reports",
+      "https://www.gov.uk/government/collections/hmrcs-annual-report-and-accounts",
+      "https://www.gov.uk/government/publications/business-plan-indicators",
+      "https://www.gov.uk/government/statistics/measuring-tax-gaps"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "33"
+  },
+  {
+    "number": "42",
+    "text": "‘ International Comparisons of Productivity – First Estimates 2015 ’, ONS , October 2016. ↩",
+    "urls": [
+      "https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/bulletins/internationalcomparisonsofproductivityfirstestimates/2015"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "34"
+  },
+  {
+    "number": "43",
+    "text": "‘ Building our Industrial Strategy: Green Paper ’, Department for Business, Energy and Industrial Strategy, January 2017. ↩",
+    "urls": [
+      "https://beisgovuk.citizenspace.com/strategy/industrial-strategy/supporting_documents/buildingourindustrialstrategygreenpaper.pdf"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "35"
+  },
+  {
+    "number": "44",
+    "text": "‘ Unlocking Regional Growth ’, CBI, December 2016. ↩",
+    "urls": [
+      "http://www.cbi.org.uk/news/unlocking-regional-growth1"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "36"
+  },
+  {
+    "number": "45",
+    "text": "‘ Fixing the foundations: creating a more prosperous nation ’, HM Treasury, July 2015. ↩",
+    "urls": [
+      "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/443898/Productivity_Plan_web.pdf"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "37"
+  },
+  {
+    "number": "46",
+    "text": "‘ CBI/Pearson education and skills survey 2016 ’, CBI, July 2016. ↩",
+    "urls": [
+      "http://www.cbi.org.uk/cbi-prod/assets/File/pdf/cbi-education-and-skills-survey2016.pdf"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "38"
+  },
+  {
+    "number": "47",
+    "text": "Firms reporting increased demand minus those reporting decreased demand. ↩",
+    "urls": [],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "39"
+  },
+  {
+    "number": "48",
+    "text": "‘ Intermediate and low level vocational qualifications: economic returns ’, BIS , September 2011. ↩",
+    "urls": [
+      "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/32354/11-1282-returns-intermediate-and-low-level-vocational-qualifications.pdf"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "40"
+  },
+  {
+    "number": "49",
+    "text": "‘ Times Higher Education World University Rankings ’, Times Higher Education, 2017. ↩",
+    "urls": [
+      "https://www.timeshighereducation.com/world-university-rankings/2017"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "41"
+  },
+  {
+    "number": "50",
+    "text": "‘ UCAS End of Cycle Resources 2016 ’, UCAS, 2016. ↩",
+    "urls": [
+      "https://www.ucas.com/corporate/data-and-analysis/ucas-undergraduate-releases/ucas-undergraduate-end-cycle-data-resources/applicants-and-acceptances-groups-applicants-2016"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "42"
+  },
+  {
+    "number": "51",
+    "text": "‘ Section 96 – Qualifications (Learning and Skills Act 2000) ’, DfE , 2000. ↩",
+    "urls": [
+      "http://www.education.gov.uk/section96/index.shtml"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "43"
+  },
+  {
+    "number": "52",
+    "text": "‘ Report of the Independent Panel on Technical Education ’, Independent Panel on Technical Education, July 2016. ↩",
+    "urls": [
+      "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/536046/Report_of_the_Independent_Panel_on_Technical_Education.pdf"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "44"
+  },
+  {
+    "number": "53",
+    "text": "‘ Report of the Independent Panel on Technical Education ’, Independent Panel on Technical Education, July 2016. ↩",
+    "urls": [
+      "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/536046/Report_of_the_Independent_Panel_on_Technical_Education.pdf"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "45"
+  },
+  {
+    "number": "54",
+    "text": "‘ Post-16 skills plan ’, DfE , BIS , July 2016. ↩",
+    "urls": [
+      "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/536043/Post-16_Skills_Plan.pdf"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "46"
+  },
+  {
+    "number": "55",
+    "text": "Based on current hourly rates. ↩",
+    "urls": [],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "47"
+  },
+  {
+    "number": "56",
+    "text": "‘ Maintained schools and academies inspection outcomes as at 31 August 2016 ’, DfE , November 2016. ↩",
+    "urls": [
+      "https://www.gov.uk/government/statistics/maintained-schools-and-academies-inspections-and-outcomes-as-at-31-august-2016"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "48"
+  },
+  {
+    "number": "57",
+    "text": "‘ Maintained schools and academies inspection outcomes as at 31 August 2016 ’, DfE , November 2016. ↩",
+    "urls": [
+      "https://www.gov.uk/government/statistics/maintained-schools-and-academies-inspections-and-outcomes-as-at-31-august-2016"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "49"
+  },
+  {
+    "number": "58",
+    "text": "‘ Maintained schools and academies inspection outcomes as at 31 August 2016 ’, DfE , November 2016. ↩",
+    "urls": [
+      "https://www.gov.uk/government/statistics/maintained-schools-and-academies-inspections-and-outcomes-as-at-31-august-2016"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "50"
+  },
+  {
+    "number": "59",
+    "text": "‘Response by Department for Education to Parliamentary Question on 25 October 2016’, DfE , October 2016. ↩",
+    "urls": [],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "51"
+  },
+  {
+    "number": "60",
+    "text": "Entitlement will apply to pupils attending a selective school within 2 to 15 miles of their home. ↩",
+    "urls": [],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "52"
+  },
+  {
+    "number": "61",
+    "text": "‘ Largest Investment in railways since Victorian times will continue ’, Network Rail, November 2015. ↩",
+    "urls": [
+      "http://www.networkrailmediacentre.co.uk/news/largest-investment-in-railways-since-victorian-times-will-continue"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "53"
+  },
+  {
+    "number": "62",
+    "text": "‘ Connected Future ’, National Infrastructure Commission, December 2016. ↩",
+    "urls": [
+      "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/577906/CONNECTED_FUTURE_ACCESSIBLE.pdf"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "54"
+  },
+  {
+    "number": "63",
+    "text": "‘ Fiscal Sustainability Report 2017 ’, OBR , 2017. ↩",
+    "urls": [
+      "http://cdn.budgetresponsibility.org.uk/FSR_Jan17.pdf"
+    ],
+    "source_alias": "spring_budget_2017",
+    "source_title": "Spring Budget 2017",
+    "source_number": "55"
+  }
+]

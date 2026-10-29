@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rebalancing market power through a fee ban",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that a ban will sharpen agents' competition for landlords' business is largely assertion, with only loose, unlinked support from the Scottish precedent theme's note that letting agent numbers rose in Scotland (ref 16) after its ban."
+    },
+    {
+      "theme": "Scottish precedent as the evidence base",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "Shelter/Rettie/BDRC findings are cited (ref 16) with specific figures (1-2% of rent rises, 17% of agencies raising landlord fees, 56% tenant approval, rising agent numbers) and the document itself flags uncertainty, noting the rent effect is 'inconclusive' and that 'it is difficult to directly compare the English and Scottish markets'."
+    },
+    {
+      "theme": "Scope and design of the ban",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Design choices such as permitting holding deposits and exploring a deposit cap rest on unsupported assertions like 'deposit levels have been increasing' with no data, source, or citation given."
+    },
+    {
+      "theme": "Acceptable risk of pass-through to rents",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The unnamed claim that 'there is evidence that a number of agents are charging excessive fees' is uncited (level 1 on its own), but the theme's core pass-through logic is explicitly and properly linked to the cited Scottish findings (ref 16) that agents are 'unlikely to pass the full costs of the fees onto landlords'."
+    }
+  ],
+  "reasoning": "The strongest evidential material in this section is the Scottish precedent theme, which cites Shelter's commissioned research (ref 16) with concrete figures - '1% and 2% of the rent rises', '17% of agencies claim to have increased fees', '56% of private tenants agreed' - and explicitly flags its own uncertainty ('this is inconclusive', 'difficult to directly compare the English and Scottish markets'), reaching level 3. The 'Acceptable risk of pass-through' theme draws directly on this same cited evidence ('agents...are unlikely to pass the full costs of the fees onto landlords'), giving it a properly linked, cited basis, so level 2, though its own unnamed claim about 'excessive fees' and 'double charging' lacks a citation. 'Rebalancing market power', by contrast, is mostly reasoning about incentives with only a loose, unlinked echo of the Scottish agent-numbers data, so level 1. 'Scope and design of the ban' offers no evidence at all for its design choices (e.g. 'Deposit levels have been increasing' is asserted with no source), scoring 0. The mean of the four core levels (1+3+0+2)/4 = 1.5, rounding down to 1. The clearest counter-example pulling the score up is the detailed, self-critical use of Shelter's Scottish research; pulling it down is the unevidenced deposit-cap rationale. To reach level 2 overall, the document would need to cite evidence directly underpinning the 'Scope and design' choices and link the Scottish findings explicitly to the market-power claims rather than leaving readers to infer the connection.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

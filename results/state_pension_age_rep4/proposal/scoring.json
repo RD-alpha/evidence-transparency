@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Raising State Pension age to 68 in 2037-39",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The \u00a374bn saving, 0.4% of GDP and \u00a3400 per household figures are linked to the DWP model (Ref 43), the household calculation (Ref 37) and Table A, with Ref 17 only pointing to the Annex; Ref 1 backs the 32% comparison, and uncertainty is acknowledged (life expectancy projections 2012 vs 2014-based) but not the assessment of the modelling, so it stops at level 2."
+    },
+    {
+      "theme": "Link to life expectancy and fairness between generations",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The 32% proportion is linked to the 25-year average of adult life spent above pension age with Refs 1, 38, 39 and the 20-year 32.0% and 33.3% figures, but Ref 10 only supports the legislative history and the weaknesses of the 32% benchmark are not assessed."
+    },
+    {
+      "theme": "Fiscal savings and sustainability",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Refs 15 (OBR fiscal sustainability report) and 16 (DWP working paper) support the 0.3% and 1% of GDP claims, while the claims about alternatives (lower pensions, higher taxes, pensioner poverty) are uncited assertions, and the 74bn and 0.4% figures from the first theme are counted as support."
+    },
+    {
+      "theme": "Universal State Pension age retained",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only Ref 40 (ONS life expectancy by socio-economic position) is cited, while the PPI analysis, the variation within and between areas, and the claims about early access are named or stated without citations or links."
+    },
+    {
+      "theme": "Later decisions and further review",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that life expectancy projections are uncertain and the Ref 17 pointer to the 'Annex' are generic; the document acknowledges uncertainty (the 'at least three further reviews' line and the 2012 vs 2014 projections) but gives no cited evidence about the uncertainty."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Contains the 6.3 percentage point employment finding (Ref 33), the Government Actuary scenarios (Ref 35) and the FSR modelling assumptions (Ref 44), though the statement about omitted estimates of working-age benefit and tax impacts shows partial assessment."
+    }
+  ],
+  "reasoning": "The five core themes were scored on the extract. The main proposal theme (level 2) gives specific figures: \"save \u00a374 billion to 2045/46\", 0.4% of GDP in 2039/40 and \u00a3400 per household. These are tied to DWP's adapted long-term forecasting model (Ref 43), the household calculation (Ref 37) and Table A. Ref 17 only says \"See Annex for details\", which is a generic pointer. The life-expectancy and fairness theme (level 2) links the 32% benchmark to the 25-year average of adult life above pension age with Refs 1, 38 and 39, and 32.0%/33.3% to the 20-year average. The fiscal theme (level 2) cites OBR (Ref 15) and the DWP working paper (Ref 16) for the 0.3% and 1% of GDP effects, but the claims about lower pensions and higher taxes are uncited. The universal-age theme (level 1) cites only Ref 40 and leaves the Pensions Policy Institute analysis unreferenced. The later-decisions theme (level 1) acknowledges uncertainty but cites nothing. The mean is (2+2+2+1+1)/5 = 1.6, which rounds to 2. The strongest counter-example is that the document never assesses its own modelling or the strength of the 32% benchmark, and its key rejection of alternatives is largely argument without evidence, which would argue for level 1. To reach level 3, the document should assess the quality of the evidence behind the model and projections, set out the contradictory evidence, and give numbered references to the Annex and the PPI analysis.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.6,
+  "score_consistent": true,
+  "missing_core": []
+}

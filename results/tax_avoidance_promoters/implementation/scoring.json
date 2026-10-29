@@ -1,0 +1,16 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Commencement from 8 March 2017",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 1-5 only state the operative date and the legal wording on when the amendments apply, with no statistic, finding, source or primary evidence for why 8 March 2017 was chosen, and no references or links."
+    }
+  ],
+  "reasoning": "The extract has one core theme, \"Commencement from 8 March 2017\", and it scores level 0. Its five lines only state when and how the amendments apply. \"This measure will have effect on and after 8 March 2017\" gives the date. Subsections (5) and (6) say the changes apply to threshold and section 237A conditions \"in a period of three years ending on or after 8 March 2017\". The last two lines restate this. These lines describe the measure. They are not evidence that this timetable will work or that the date was well chosen. The extract gives no reason for 8 March 2017 and no data, consultation responses or analysis. It does not say whether other start dates were considered, and it gives no costs, benefits or assumptions. The theme carries no references or links. A reader cannot tell why this date was picked or what it rests on. It may follow from a Budget announcement, but the extract does not say so and I have not assumed it. The mean of the core themes is 0, which gives a score of 0. The strongest counter-example to this level is that the legislative wording is precise and so clear about the date. Clarity of description is not evidence, so it does not reach level 1. To reach level 1, the document would need to give some evidence for the chosen start date, such as the reason for a retrospective date, data on avoidance before the announcement, or consultation findings. To reach level 2, that evidence would need a citation or a clear account of how it was obtained.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

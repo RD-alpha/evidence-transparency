@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Barnett convergence threatens fair funding",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The Holtham Commission's 114-117% need range is cited (Reference 3), the 2012 joint statement is cited (Reference 4), and the lines on relative funding per head since 1999-00 and the ~120% expected in the 2015 Spending Review period explain the convergence/divergence mechanism and its drivers, but the document gives no assessment of the uncertainties in these projections."
+    },
+    {
+      "theme": "Tax devolution requires new funding arrangements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The Silk Commission recommendation and the Wales Act 2014 are named, but they are used to describe the current arrangements and to set out the policy, and the claim that funding arrangements must change alongside tax devolution is argued rather than supported by any statistic, finding, or cited source, with no references on these lines."
+    },
+    {
+      "theme": "Borrowing powers and fiscal flexibility",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines describe the borrowing, budget exchange and cash reserve rules under the Wales Act 2014 and offer no evidence about the diagnosis."
+    },
+    {
+      "theme": "New tax powers under the Wales Act 2014",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines list the tax powers and their start dates, which describes the current rules and gives no evidence about the problem."
+    }
+  ],
+  "reasoning": "Two core themes carry the diagnosis. 'Barnett convergence threatens fair funding' reaches level 2. It rests on the Holtham Commission's finding that Wales has relative needs of 114% to 117% of English needs (Reference 3, a followable link), and on the 2012 joint statement of both governments (Reference 4). The reasoning is clear: funding per head converged towards English levels until 2009-10, has since diverged to about 120%, and is expected to converge again once spending growth returns, ending below the Holtham range. However, the document does not assess the Holtham needs estimate, the ~120% projection, or the assumption that spending will return to trend, and the graph the text refers to is not shown. The claim that funding 'will ultimately fall below the range' is stated as certain. 'Tax devolution requires new funding arrangements' reaches level 0. It names the Silk Commission and the Wales Act 2014, but only to describe the policy and its background. It gives no figure or finding showing why block grant arrangements must change, and the 'two key benefits' are argued, not evidenced. The mean of the core themes is (2+0)/2 = 1, so the score is 1. The strongest counter-example to this level is that the Barnett theme is well sourced and could be seen as carrying the whole diagnosis, which would justify a 2. To reach level 2 overall, the tax devolution claim would need cited evidence, such as the Silk Commission's findings or Welsh accountability data. To reach level 3, the document would need to assess the Holtham estimates and the uncertainty in its projections.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

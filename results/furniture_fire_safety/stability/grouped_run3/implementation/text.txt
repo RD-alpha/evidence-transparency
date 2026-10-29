@@ -1,0 +1,107 @@
+S0080 Any additional testing costs (for components and potential protective classification of cover fabrics) are expected to be low but will be tested in consultation.
+S0096 Cost savings have the potential to be greater for those manufacturers following the match test/components close to the cover route and possibly also for those following the match test/cover protective route depending on the ‘test’ for protectiveness which is yet to be determined and tested through consultation.
+S0148 We intend to clarify the scope and test potential exclusions (such as some baby products) through consultation.
+S0179 • changing the proposed match test • introducing flexibility into routes to compliance • extending the period of transition to sell stock
+S0190 Do you wish to use an interliner?
+S0191 Is the cover made of one of the ‘relevant materials’ (i.e. cellulosic)?
+S0192 No need to pass match test; no need to test components
+S0193 [NB. interliner must pass Schedule 3 test]
+S0194 Cover must pass match test; components must pass [simplified] match test
+S0195 Estimate 25% will use this route Estimate 5% will use route  Estimate 50% use this route Estimate 20% will use route  ^ Figures on route to compliance based on discussions with stakeholders and BIS estimates but to be tested further in consultation.
+S0196 4. Following the consultation responses and discussions with stakeholders BIS has developed new proposals by: ** (Reference: 3)
+S0197 • Changing the proposed match test - the original proposal stated that one of two test set ups could be used under the new match test (i) with the cover directly over a foam filling (Filling 1) and (ii) with the cover stretched over a fibre wrap over a foam filling (Filling 2).
+S0198 Work with stakeholders has suggested that this overcomplicates the test so the new proposal is limited to one test set up only (eg Filling 2) so that the testing (under route , or  as shown in Figure 2 above) now includes a fibre wrap and more closely replicates the finished product.
+S0199 • Introducing flexibility into routes to compliance – the original proposal included an additional test to classify the fabric cover as ‘pass protect’ or ‘pass non-protect’.
+S0200 Failure was to be determined by hole formation of the fabric.
+S0201 If the cover was classified as ‘pass non-protect’ then components close to the cover would need to be tested for fire resistance.
+S0202 Given concerns over the workability of using hole formation to determine failure rates the new proposal drops the requirement to classify covers and introduces an optional alternative route (route  in Figure 2) which would allow a test for a protective cover via a list of ‘protective materials’ or an alternative methodology.
+S0203 We will test this approach in consultation.
+S0204 4. The new proposal would allow the following routes to compliance for testing cover fabrics under the regulations: ** (Reference: 4)
+S0205 Route  - interliner for cellulosic fabrics
+S0206 This route already exists under the current regulations.
+S0207 It allows for an interliner to be present in the finished item between the cover fabric and the foam filling.
+S0208 All interliners need to meet the requirements set out in ‘Schedule 3’ of the 1988 FFRs.
+S0209 Currently if the interliner is made of a ‘relevant’ material (eg is cellulosic as defined in Regulation 8) then the fabric cover does not need to meet the match test requirement.
+S0210 Our best estimate is that currently 25% of products are produced using an interliner.
+S0211 Route  - interliner + match test for non-cellulosic fabrics
+S0212 Again this route is currently an option under the 1988 regulations.
+S0213 Interliners can be used with non- relevant materials (ie non cellulosic fabrics)
+S0214 but they then also need to comply with the match test, thereby losing the financial benefit (for cellulosic fabrics) of the match test exemption.
+S0215 We expect that there would be a minimal shift to this route as it is likely to be the most expensive and estimate that around 5% of products would comply through this route.
+S0216 Route - ‘Protective’ cover no need for components test
+S0217 This is a new option.
+S0218 For covers which are deemed to be protective, there is no need to test the components close to the cover for fire resistance.
+S0219 This is less onerous than the original proposal that required hole formation testing on all match tests.
+S0220 We believe that this route would only be likely to apply to ‘niche’ fabrics and estimate that around 20% would use this route though, having already consulted with industry, there are no figures available that breakdown the types of cover fabrics used.
+S0221 Route - Non ‘Protective’ cover + components test
+S0222 This is another new route to compliance.
+S0223 The simplified match test allows for a reduction in FR use on cover fabrics.
+S0224 Where these fabrics are deemed to be ‘non-protective’ then components close to the cover ie within 40mm must be tested for fire resistance.
+S0225 Given current construction methods we expect this to be the most favoured route to compliance for around 50% of products.
+S0232 4. The key question in relation to scope is whether certain products, or groups of products, should or should not be within the scope of the FFRs. ** (Reference: 6)
+S0233 There is a debate about certain baby products (specifically prams/pushchairs and child car seats).
+S0234 These are currently specifically included in the FFRs, but the Baby Products Association in response argued strongly for their removal as they impose a burden on manufacturers which is disproportionate to the risk (not least because of concerns about the use of FRs in baby products, and the fact that pushchairs and car seats are predominantly for use outside the home and therefore present a lower fire risk).
+S0235 We propose to test this approach in consultation bye including an option that these products are removed from scope.
+S0236 4.7 In addition, there are a number of ‘grey areas’ in terms of what falls within scope of the current Regulations.
+S0237 These include outdoor furniture, scatter cushions, sleeping bags, and washable mattress protectors.
+S0238 In general, we would propose that the rules here should be clarified in a way which seeks to maintain the status quo as much as possible.
+S0239 The removal of products falling in these ambiguous areas would reduce the number of products which require testing and thereby the use of flame retardants.
+S0240 In line with the approach taken in other product safety legislation (the so-called ‘New Legislative Framework’ or NLF)
+S0241 we propose to explicitly remove second hand furniture from the flammability requirements of these regulations and their safety will be ensured through the General Product Safety Regulations as for the majority of other consumer products.
+S0242 We plan to use the consultation to explore the appetite for removing these products from scope.
+S0244 4. Our proposals here build on a combination of stakeholder feedback and the approach which is used elsewhere in other product sectors. ** (Reference: 8)
+S0245 This would introduce new labelling and documentary requirements into the Regulations, but these would largely reflect what is already considered to be good practice, thereby not adding significant new administrative burdens.
+S0246 4. Manufacturers and importers will be asked to keep records (technical files) showing the history of a product to include: ** (Reference: 9)
+S0247 • Name of manufacturer (UK and overseas) • Name of importer (
+S0248 where applicable) • Single postal address at which the manufacturer can be contacted • Single postal address at which the importer can be contacted (where applicable) • Constituent materials • Batch number (materials) •
+S0249 An indication of whether flame retardant chemicals have been used in the product • Date and place of testing • Product name or reference number (finished article)
+S0250 4. Product records should be kept for 10 years dating from when the product is first placed on the market which would bring requirements into line with the new requirements in product safety Directives. ** (Reference: 10)
+S0251 Product records should be made available upon request to enforcement authorities.
+S0252 The changes are that more complete data is required to be held such as: • For imported products, the name of the manufacturer is now also required along with an address • Data on all constituent materials should be held • Data on FR treatment is now required to be held •
+S0253 Additionally the proposal extends period data should be held for from 5 to 10 years
+S0254 4. Following the consultation we also intent to extend the period of transition to sell stock. ** (Reference: 11)
+S0255 The original proposal stated BIS envisioned an 18 month transition period.
+S0256 In response to industry
+S0257 stakeholders who are worried about re-testing costs and loss of stock, particularly for SMEs, this has been changed to: 24 months from the coming into force date for manufacturers to change to the new test requirements (they can change instantly if they wish) and 24 months for any retailers to sell off old stock.
+S0259 We also propose to extend the time available for trading standards to bring a prosecution under the Regulations from 6 months to 12 months, in line with other consumer safety legislation.
+S0269 The behavioural response to the new testing regime will be one of the key areas of the IA to test through the consultation process.
+S0279 Testing required Cigarette Test New Match Test only New Match test for cover fabric plus on fabric Match Test test for all components within 40mm
+S0280 Testing required Cigarette Test New Match Test only New Match test for cover fabric plus on fabric Match Test test for all components within 40mm of the cover fabric Cost Unknown Potential cost of determining if Potential cost of determining if cover is cover is ‘protective’ – this will be ‘protective’/’non-protective’ but negligible if use list of ‘protective’ negligible if use list covers
+S0327 5. The transition period chosen can affect the cost to business in two ways. ** (Reference: 11)
+S0328 If stock tested under the previous regulations is not allowed to be sold then there will be a cost to business as the stock will have to be scrapped if the cover fabric doesn’t comply with the new regulations.
+S0329 This is summarised in the inequality: stock turnover in months > period in months where existing test is valid for new furniture sold.
+S0330 If cover fabric is routinely tested less frequently than the transition period then testing may have to be brought forward, increasing costs.
+S0331 This is summarised in the inequality: testing of cover fabrics by companies in months > transition period in months where new test is valid.
+S0332 5. The transition period should therefore aim to minimise the number of firms who have this inequality – where the transition is too short it would imply costs to inventory held over 18 months or where 18 months is less than the normal testing cycle. ** (Reference: 12)
+S0333 Consultation responses that responded on the optimum transition period generally indicated a longer transition period of 24 months.
+S0334 In light of this, BIS has extended the transition period for completed products, such as sofas or chairs, to 24 months and also extended the transition period for fabrics to 24 months.
+S0335 5. The second cost identified of an early product review, that may be influenced by the transition period, are where fabrics are tested less frequently than 24 months, therefore costs of testing will be brought forward. ** (Reference: 13)
+S0336 This analysis compared two streams of hypothetical costs over 10 years comparing a company that tested every 2 to 3 years to the new regime where the cycle was brought forward by a year.
+S0337 Under this modelling, and applying the social discount factor, would give a maximum cost increase of 4%.
+S0338 This would only occur if UK manufacturers tested less frequently than 24 months.
+S0340 Crudely doubling this figure to account for the match test as well and applying the 4% gives £0.6m of additional one-off costs.
+S0341 This is a crude estimate but the cost is added to the total transition costs to account for potential re-testing of fabrics outside of the normal testing cycle.
+S0343 5. The revised regulations will require both manufacturers and importers to keep additional information on the products that they manufacture or import. ** (Reference: 14)
+S0344 This includes the names of the constituent materials not just filling materials and data on FR treatment.
+S0345 For importers they will be required to record and keep the name of original manufacture as well as the address.
+S0346 There will be some minor administrative costs in changing systems to collect and retain this information.
+S0347 Assuming an additional 16 hours of admin time for manufacturers and importers to make these changes to their reporting systems would suggest a total one-off cost of £1m (using the data set out in figure 4 above).
+S0356 We have limited information on these costs from earlier consultation with stakeholders and will look to strengthen the evidence base as part of the consultation process.
+S0360 5.18 The ‘protective cover’ test is to be determined through consultation.
+S0361 We will test our assumptions further through the consultation.
+S0368 We will explore this in consultation.
+S0371 We will consider this further as part of the consultation process.
+S0378 c) Traceability Costs 5.24 Under the revised regulations manufacturers and importers will be required to retain relevant product and supplier information for 10 years rather than 5 and as discussed above the scope of this information will also be extended slightly.
+S0389 We will consider this further as part of the consultation process but expect any cost increase to be small in scale relative to the other changes proposed here.
+S0423 We will try once more to get a feel through the consultation for better data.
+S0442 These assumptions will be tested further as part of the consultation process.
+S0463 We will look to improve the costings of these options through consultation.
+S0505 6. Given the consultation responses, businesses will need help and guidance initially to familiarise them with the changes. ** (Reference: 1)
+S0506 BEIS will draft guidance, in conjunction with key stakeholders, and place it on BIS's website.
+S0507 The final paper will also contain clear guidance as to what will be necessary to meet compliance.
+S0508 We will also work with the appropriate trade associations.
+S0509 In addition, UK test houses will be an available and accessible source of guidance given that SMEs regularly use their services.
+S0520 However, there is an uncertainty as to whether SMEs will receive the cost savings from treatment plants or cover fabric sellers, an issue raised in the 2014 consultation responses which we plan to test in our next consultation.
+S0522 We plan to test this in consultation.
+S0523 We will implement in a way to reduce the costs to small businesses as far as possible eg we have extended the transition period to 24 months and will prepare clear guidance.
+S0540 9. Implementation will be done by revoking the current regulations and replacing them with a new set of regulations which will make the legislation easier to read and bring greater clarity to business and enforcing authorities. ** (Reference: 2)

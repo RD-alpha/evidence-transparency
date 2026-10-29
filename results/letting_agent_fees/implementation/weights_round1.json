@@ -1,0 +1,59 @@
+{
+  "themes": [
+    {
+      "theme": "Ban on Letting Agent Fees - Core Policy",
+      "reason": "States the chosen method of implementation (primary legislation) and that it must cohere with existing regulation, directly addressing why/how the intervention will be rolled out.",
+      "weight": "core"
+    },
+    {
+      "theme": "Deposit Reform and Affordability",
+      "reason": "Explores a separate, longer-term policy on deposit burdens rather than explaining how the fee ban itself will be implemented; it is adjacent exploration rather than a pillar of the implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Holding Deposits and Protections",
+      "reason": "Defines a key carve-out to the ban's scope (what charges remain permissible) which is central to how the ban will function in practice.",
+      "weight": "core"
+    },
+    {
+      "theme": "Permissible Charges and Services",
+      "reason": "Defines further exceptions to the ban (tenant-caused charges, bespoke services), directly shaping how the intervention is delivered and its boundaries.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant Passports and Reference Checks",
+      "reason": "A narrow specific rule preventing circumvention of the ban; useful detail but not a foundational pillar of the implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Anti-Discrimination Safeguards",
+      "reason": "Addresses an unintended consequence (discrimination risk) and justifies retaining holding deposits, bearing on the costs/benefits of the chosen implementation approach.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enforcement Authority and Structure",
+      "reason": "Central to explaining how the ban will be enforced, including alternative structures (lead authority) considered and their costs/benefits, directly addressing the implementation mechanism.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant Education and Empowerment",
+      "reason": "Explains a key delivery mechanism (empowering tenants to self-enforce) intended to reduce burden on authorities, directly bearing on how the ban will be rolled out and its benefits.",
+      "weight": "core"
+    },
+    {
+      "theme": "Data Sharing and Information Management",
+      "reason": "Explores a specific enforcement mechanism (data sharing) as one of the explicit alternative/complementary methods for delivering effective enforcement.",
+      "weight": "core"
+    },
+    {
+      "theme": "Sector Regulation and Standards",
+      "reason": "Discusses alternative or additional regulatory methods (register, code of practice, training) and reasons for caution, directly addressing the 'other methods considered' point.",
+      "weight": "core"
+    },
+    {
+      "theme": "Penalties and Enforcement Mechanisms",
+      "reason": "Details the specific penalty options (civil vs criminal, fine levels) with costs/benefits, central to how enforcement of the ban will actually operate.",
+      "weight": "core"
+    }
+  ]
+}

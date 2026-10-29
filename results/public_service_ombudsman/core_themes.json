@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Fragmented and confusing ombudsman landscape",
+        "claim": "The current ombudsman landscape is a complex maze of many overlapping bodies and jurisdictions, with cross-boundary complaints and low public awareness (e.g. only half had heard of the PHSO), so citizens struggle to find the right route to redress and the ombudsmen spend effort managing jurisdictional boundaries."
+      },
+      {
+        "name": "Access barriers and outdated legislation",
+        "claim": "Outdated, inconsistent statutes (the MP filter, written-only complaints, the absence of own-initiative powers, restrictions on publication and information sharing) limit how accessible and effective the ombudsmen can be."
+      },
+      {
+        "name": "Weak governance and accountability",
+        "claim": "Ombudsmen are headed by single office holders who combine the roles of ombudsman, chief executive and chair, with a mixed economy of accountability lines, which does not allow adequate scrutiny, assurance or public confidence in a final-tier body."
+      },
+      {
+        "name": "Changing public service delivery and budget pressure",
+        "claim": "Complex, blurred public service delivery models and prolonged budget cuts make static ombudsman arrangements untenable and mean the ombudsmen need a modern framework to respond."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Single Public Service Ombudsman",
+        "claim": "Merging the PHSO and LGO jurisdictions into one Public Service Ombudsman, with a framework allowing other bodies to join later, will give a clearer, more seamless route to redress, with the Housing Ombudsman left out initially because of housing-sector objections over private provision and funding."
+      },
+      {
+        "name": "Simpler access and no wrong door",
+        "claim": "Removing the MP filter, accepting complaints through varied channels, requiring authorities to signpost the Ombudsman, and cooperating with other ombudsmen will make it easier for citizens to get their complaint to the right place."
+      },
+      {
+        "name": "Governance and accountability to Parliament",
+        "claim": "A statutory Board with a non-executive chair, overseen by the Public Accounts Commission on the NAO model, will strengthen accountability and governance while protecting the Ombudsman's independence over complaint decisions."
+      },
+      {
+        "name": "Enhanced powers and role in complaints handling",
+        "claim": "The Ombudsman should gain wider powers (widening investigations, special statements, publication, information sharing) and an explicit role championing best practice in complaints handling, but not own-initiative investigations or binding findings, so that the focus stays on redress for the individual."
+      }
+    ],
+    "note": "The proposal is a package of linked measures, and the document rejects own-initiative powers, binding recommendations and an initial Housing Ombudsman merger."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Legislative vehicle and statutory machinery",
+        "claim": "The reform will be delivered through primary legislation that abolishes the existing offices and deems existing bodies designated, with ministerial regulations to designate bodies, amend the excluded matters and bring in social landlords, commenced by order."
+      },
+      {
+        "name": "Phased and flexible expansion of jurisdiction",
+        "claim": "Starting with the existing PHSO and LGO jurisdictions and adding others (such as housing) later by regulation under affirmative procedure and consultation lets the scheme adapt without a single large change."
+      },
+      {
+        "name": "Consultation and open design questions",
+        "claim": "Remaining details, such as Parliamentary oversight arrangements, feasibility, costs and timescales, are to be settled through consultation, draft-bill scrutiny and further work with Parliament and stakeholders."
+      }
+    ],
+    "note": "The document gives little evidence or costing for delivery choices, and the draft Bill and explanatory notes are mostly procedural statutory detail."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "themes": [
+    {
+      "name": "Delivery through the Student Loans Company with regulatory compliance",
+      "ids": [
+        "S0242",
+        "S0194",
+        "S0195",
+        "S0197",
+        "S0198"
+      ]
+    },
+    {
+      "name": "Choice between a demand-led model and a capped institutional allocation model",
+      "ids": [
+        "S0287",
+        "S0288",
+        "S0289",
+        "S0290",
+        "S0291"
+      ]
+    },
+    {
+      "name": "Rollout timing and phased decision-making",
+      "ids": [
+        "S0071",
+        "S0215",
+        "S0073",
+        "S0217",
+        "S0241",
+        "S0232",
+        "S0350"
+      ]
+    },
+    {
+      "name": "Integrated repayment administration alongside other loans",
+      "ids": [
+        "S0233",
+        "S0235",
+        "S0236",
+        "S0237",
+        "S0351",
+        "S0353",
+        "S0376",
+        "S0377",
+        "S0378"
+      ]
+    },
+    {
+      "name": "Consultation informing policy design",
+      "ids": [
+        "S0060",
+        "S0084",
+        "S0106",
+        "S0109",
+        "S0245"
+      ]
+    },
+    {
+      "name": "Loan terms and amount",
+      "ids": [
+        "S0225"
+      ]
+    },
+    {
+      "name": "Alternative Islamic finance product",
+      "ids": [
+        "S0369",
+        "S0370"
+      ]
+    },
+    {
+      "name": "Nature of doctoral study",
+      "ids": [
+        "S0305",
+        "S0306",
+        "S0307"
+      ]
+    }
+  ]
+}

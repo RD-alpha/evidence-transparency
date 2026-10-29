@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Linking State Pension age to life expectancy",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 32% target is tied to cited analysis (Refs 1, 18, 38, 39: 31.3% vs 1992-2016 experience; Ref 35 Government Actuary terms; Ref 37 explains the \u00a3400 per household calculation from the \u00a311bn difference), and the choice of 32% over 33.3% and rejection of lower pensions are reasoned, but the \u00a374bn and \u00a3250bn savings lack method detail and uncertainty about the approach is barely assessed."
+    },
+    {
+      "theme": "Rise to 68 in 2037-39",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The \u00a374bn saving is set out in Table A.1 with method notes (Refs 43, 44, 1), the 0.3% of GDP per year figure is cited to OBR (Ref 15) and the employment effect to DWP (Ref 16), and the choice over the 32% and 33.3% timetables is explained, though the document acknowledges projection uncertainty (2012- vs 2014-based ONS, 5 years' difference) only partly and the fiscal model has caveats (Ref 44 different assumed timetable) without sensitivity testing."
+    },
+    {
+      "theme": "Universal State Pension age",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only Ref 40 (ONS life expectancy by socio-economic group) is cited, while the PPI analysis, Cridland's findings and 'no evidence of regional options being fairer' are referred to in prose without references, so most claims stay at level 1."
+    },
+    {
+      "theme": "Later decisions deferred to reviews",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The deferral rests on the statement that life expectancy projections are uncertain 'as has been shown in recent decades', which is uncited, with no evidence offered for how that uncertainty has played out."
+    }
+  ],
+  "reasoning": "The two core themes that carry most weight reach level 2. For 'Linking State Pension age to life expectancy' the 32% target is linked to a cited comparison: Refs 1, 18, 38 and 39 state that a 32% scenario gives 31.3% of adult life over SPA against the 1992-2016 experience, Ref 35 gives the Government Actuary's terms, and Ref 37 explains the \u00a3400 per household figure. The alternative of lower pensions is rejected with reasoning. For 'Rise to 68 in 2037-39' the \u00a374bn saving comes with Table A.1, Refs 43 and 44 on the model and assumptions, and Refs 15 and 16 on the 0.3% of GDP and employment effects. Other options (32% and 33.3% timetables) are compared. Two core themes are weaker: 'Universal State Pension age' (level 1) cites only Ref 40 and refers to PPI and Cridland analysis in prose, and 'Later decisions deferred to reviews' (level 1) asserts projection uncertainty without any source. The core mean is (2+2+1+1)/4 = 1.5, which rounds down to 1. The strongest counter-example is that the first two themes are individually level 2 and the ungrouped sentences add an acknowledged uncertainty (2012- vs 2014-based projections shifting the rise by 5 years), which could argue for level 2 overall. To reach level 2, the document would need to cite the PPI, Cridland and life expectancy projection evidence it relies on in the weaker themes. To reach level 3 it would need to assess the modelling and show sensitivities.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

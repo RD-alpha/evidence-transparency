@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Delivery through the PWLB",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on the PWLB, the National Loans Fund, the three-year window and 50-year term only describe the delivery route and offer no evidence, and no reference is given for why this route or these terms were chosen."
+    },
+    {
+      "theme": "Competitive bid and appraisal process",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The Green Book-style appraisal, the Section 151 sign-off and the 'high value for money' test are described as proposals with no evidence that this process will work or why it was chosen, and the references and links are empty."
+    },
+    {
+      "theme": "Eligibility and scope limits",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The \u00a31 billion cap, the eligible bodies and sectors, and the exclusion of refinancing are stated as design choices with no evidence for why they were set this way."
+    },
+    {
+      "theme": "Governance and rate setting",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on Treasury responsibility, gilt-linked rates and unscheduled rate changes describe current arrangements and say details will follow, with no evidence."
+    }
+  ],
+  "reasoning": "All three core themes sit at level 0, so the mean is 0 and the section scores 0. In 'Delivery through the PWLB', the lines such as 'Loans at the new rate would be available for a period of three years, with a maximum term of 50 years' and 'accessed through the Public Works Loan Board' describe the route and terms. They give no reason for choosing them, no comparison with other delivery routes, and no evidence on costs. The claim of 'no expected extra administrative cost' has no figures behind it. 'Competitive bid and appraisal process' sets out a Green Book-style appraisal with a Net Present Value estimate and Section 151 sign-off. It is only a proposal, and 'Full details would be set out in due course' shows the method is still undecided. No evidence is offered that this process selects good projects. 'Eligibility and scope limits' lists the \u00a31 billion cap, the eligible bodies and sectors, and the ban on refinancing, with no data or analysis for why these limits were set. The non-core theme 'Governance and rate setting' also scores 0. The references and links are empty throughout. The strongest counter-example is the statement that bids must 'provide evidence of high value for money', which shows some evidential thinking. But it is a requirement on bidders and not evidence the department itself used. To reach level 1, the document would need to offer some evidence for why the PWLB route, the three-year window, the 50-year term, the cap or the sectors were chosen, such as costings, past lending experience or consultation findings. It would also need to explain how that evidence was used. Level 2 would need cited sources and a clear chain of reasoning from them.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

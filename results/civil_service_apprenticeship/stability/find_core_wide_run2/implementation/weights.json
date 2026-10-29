@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "theme": "Three Delivery Routes for Creating Apprenticeships",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Recruitment, Pay and Career Path Reform",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Governance and Departmental Accountability",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "UK-Wide Extension via Devolved Administrations",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Targeted Outreach for Diversity and Social Mobility",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Apprenticeship Scope and Levels",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Quality Assurance and Training Standards",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Career Progression and Talent Pipeline",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Financial and Levy Management",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Cross-Sector Collaboration",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

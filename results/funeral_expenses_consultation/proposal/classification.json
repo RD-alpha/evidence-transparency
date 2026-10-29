@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "name": "Clarifying eligibility and covered costs",
+      "ids": [
+        "S0003",
+        "S0032",
+        "S0044",
+        "S0045",
+        "S0061",
+        "S0062",
+        "S0073",
+        "S0074"
+      ]
+    },
+    {
+      "name": "Letting contributions top up payments",
+      "ids": [
+        "S0037",
+        "S0038"
+      ]
+    },
+    {
+      "name": "Simplifying the claims process",
+      "ids": [
+        "S0049",
+        "S0050",
+        "S0053",
+        "S0054",
+        "S0055",
+        "S0066"
+      ]
+    },
+    {
+      "name": "Stakeholder engagement and consultation basis",
+      "ids": [
+        "S0006",
+        "S0033"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": [
+        "S0012"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "themes": [
+    {
+      "name": "Changing the AE duties trigger date",
+      "ids": [
+        "S0056",
+        "S0080",
+        "S0081",
+        "S0082"
+      ]
+    },
+    {
+      "name": "Extending the deferral/postponement easement",
+      "ids": [
+        "S0085",
+        "S0086",
+        "S0087",
+        "S0088",
+        "S0089",
+        "S0090",
+        "S0091",
+        "S0092",
+        "S0095"
+      ]
+    },
+    {
+      "name": "Evolution of Automatic Enrolment framework",
+      "ids": [
+        "S0045",
+        "S0046",
+        "S0047",
+        "S0048",
+        "S0049",
+        "S0050",
+        "S0051",
+        "S0052"
+      ]
+    },
+    {
+      "name": "Consultation objectives and scope",
+      "ids": [
+        "S0002",
+        "S0003",
+        "S0004",
+        "S0058",
+        "S0060"
+      ]
+    }
+  ]
+}

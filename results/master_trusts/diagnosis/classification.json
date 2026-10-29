@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "name": "Growth of master trusts under automatic enrolment",
+      "ids": [
+        "S0039",
+        "S0041",
+        "S0047",
+        "S0014",
+        "S0002"
+      ]
+    },
+    {
+      "name": "Master trust-specific risks to savers",
+      "ids": [
+        "S0002",
+        "S0057",
+        "S0047"
+      ]
+    },
+    {
+      "name": "Pension freedoms and exit charges",
+      "ids": [
+        "S0015",
+        "S0016",
+        "S0048"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": []
+    }
+  ]
+}

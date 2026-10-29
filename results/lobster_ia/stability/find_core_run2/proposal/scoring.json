@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Choice of a national landing ban over alternatives",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Cefas's own sampling data showing berried lobsters are ~14% of landings and the long-standing but ineffective v-notch law (Ref 1,13) are cited to show voluntary schemes fail, and MMO Fisheries Activity Database evidence (Ref 2) is explicitly linked to the enforcement problems that rule out extending IFCA byelaws, giving linked, cited evidence without a fuller assessment of its own limitations."
+    },
+    {
+      "theme": "Expected conservation and economic benefits from stock recovery",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Cefas's dynamic population model (Ref 2,3,8,9,10) is described in detail and its limitations openly flagged (\"Cefas were unable to run the model for crawfish due to the lack of data\", \"it is uncertain how well this general lobster population corresponds to each of the individual functional units\"), meeting the level 3 bar for assessed, linked evidence."
+    },
+    {
+      "theme": "Costs to business and government under stated assumptions",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Detailed, cited (MMO FAD Ref 2, Seafish/ONS Ref 16-17) cost modelling is accompanied by explicit sensitivity analysis (low/high scenarios) and acknowledged uncertainty, e.g. \"there is no evidence on how prevalent this is\" and \"this scenario is less likely than the best estimate scenario\"."
+    },
+    {
+      "theme": "Unresolved design choice on ban scope/timing",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that lobsters \"can carry their eggs for up to 10 months in variable periods\" is asserted with reasoning but no citation attached to that specific line, only a loosely attached Ref 3 (an EU fleet economics report) that does not evidently support it."
+    },
+    {
+      "theme": "Regulatory context and international obligations",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The EU proposal to ban berried landings and the exclusion of Nephrops from the Landing Obligation are used to explain why national legislation is still needed, but no reference or link is attached to any line in this theme."
+    },
+    {
+      "theme": "Delivery, enforcement and implementation",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Familiarisation cost estimates draw on cited ONS and Seafish data (Ref 16,17) and the document notes this \"is likely to be an overestimate,\" linking evidence to the figure with a limited acknowledgement of its weakness."
+    },
+    {
+      "theme": "Business impact and scope",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Vessel and fleet figures are cited (MMO Ref 1,21,22, pers. comm. Ref 23) and the document notes the estimate of affected vessels is likely an overestimate, but the assessment of this evidence base is thin."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Key modelling assumptions (e.g. full compliance, uniform berried proportions) are listed with only one citation (Marine and Coastal Access Act, Ref 5) and no discussion of how these affect reliability."
+    }
+  ],
+  "reasoning": "The four core themes vary considerably. 'Choice of a national landing ban over alternatives' (level 2) links Cefas's 14% berried-landings sampling and MMO FAD data (Ref 2) to the rejection of voluntary and IFCA-byelaw options, but does not critically assess that evidence's own limits. 'Expected conservation and economic benefits' (level 3) is the strongest: Cefas's population model (Ref 2,3,8,9,10) is described and its gaps openly admitted, e.g. 'Cefas were unable to run the model for crawfish due to the lack of data' and 'it is uncertain how well this general lobster population corresponds to each of the individual functional units.' 'Costs to business and government' (level 3) similarly sets out cited MMO/Seafish/ONS data with sensitivity ranges and explicit caveats like 'there is no evidence on how prevalent this is.' 'Unresolved design choice on ban scope/timing' (level 1) is weakest: the key biological claim that eggs can be carried 'for up to 10 months in variable periods' has no clear citation, making it closer to asserted reasoning than linked evidence. The mean of (2+3+3+1)/4 = 2.25, rounding to 2. The strongest counter-example pulling the score down is this uncited seasonal-ban reasoning. To reach level 3 overall, the document would need to cite the source for the egg-carrying duration and more critically assess the enforcement/voluntary-scheme evidence underpinning the chosen option.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.25,
+  "score_consistent": true,
+  "missing_core": []
+}

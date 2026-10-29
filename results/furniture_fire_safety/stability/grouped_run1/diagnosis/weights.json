@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Effectiveness and Safety Benefits of Current Regulations",
+      "reason": "Establishes the baseline that regulations work and safety is the primary objective, providing context for why reform must preserve safety outcomes, but it is background justification rather than the diagnosis of what is wrong.",
+      "weight": "not core"
+    },
+    {
+      "theme": "History of Regulations and Case for Reform",
+      "reason": "Gives procedural/administrative background (1988 origin, 2010 Red Tape Challenge) explaining why reform was considered, but this is administrative context rather than the substantive diagnosis of the problem.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Health and Environmental Harms from Flame Retardant Chemicals",
+      "reason": "This is a central pillar of the diagnosis: it explains the scale, causes and effects of chemical harms (health, environment) that outdated testing drives, directly supporting the stated problem that outdated fire-safety testing drives chemical use.",
+      "weight": "core"
+    },
+    {
+      "theme": "Weaknesses in Flammability Testing Regime",
+      "reason": "This theme directly explains why the current match test is outdated and technically flawed, causing excessive chemical use—this is the core causal mechanism linking outdated testing to chemical use, essential to the diagnosis.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope, Definitions and Supply Chain Traceability",
+      "reason": "Raises secondary definitional and traceability gaps in the regulations, which are relevant but peripheral issues not central to the core diagnosis of testing driving chemical use.",
+      "weight": "not core"
+    }
+  ]
+}

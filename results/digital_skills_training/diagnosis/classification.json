@@ -1,0 +1,32 @@
+{
+  "themes": [
+    {
+      "name": "Scale of the digital skills gap",
+      "ids": [
+        "S0004",
+        "S0006",
+        "S0007"
+      ]
+    },
+    {
+      "name": "Groups most affected",
+      "ids": [
+        "S0009",
+        "S0010",
+        "S0011"
+      ]
+    },
+    {
+      "name": "Consequences of exclusion",
+      "ids": [
+        "S0008",
+        "S0010",
+        "S0013"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": []
+    }
+  ]
+}

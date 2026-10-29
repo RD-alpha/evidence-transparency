@@ -1,0 +1,76 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Three delivery routes for creating apprenticeships",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The three routes are described as plans with no data, research finding or prior pilot results explaining why these particular routes were chosen over alternatives."
+    },
+    {
+      "theme": "Reforming recruitment, pay and career structures",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "References the Talent Action Plan 2016 and Workforce Plan by name but gives no result or finding from them, and the pilots on competency-based recruitment are described with no outcome data, so no evidence is actually used to justify the approach."
+    },
+    {
+      "theme": "Governance and UK-wide delivery structure",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The governance split between Cabinet Office and departments and the 2.3% target are stated as commitments with no evidence of why this structure or split of responsibilities was chosen; reference 5 only clarifies a definitional point about Northern Ireland, not a claim."
+    },
+    {
+      "theme": "Data collection and long-term tracking for monitoring",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The need for 'data-driven procedures' is asserted as reasoning with no statistic, survey, dataset or named analysis given to show what data exists or how it will shape decisions."
+    },
+    {
+      "theme": "Diversity, inclusion and socio-economic access",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes diversity ambitions and outreach plans with no evidence (e.g. no baseline data, no named research) supporting why these specific approaches were chosen."
+    },
+    {
+      "theme": "Breadth of apprenticeship provision and skill development",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States ambitions and 2020 targets for apprenticeship breadth with no evidence, such as workforce data or skills analysis, cited to justify them."
+    },
+    {
+      "theme": "Quality assurance and training standards",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Mentions Ofsted ratings as a procurement criterion but offers no evidence that this criterion improves quality, and no data on current training quality."
+    },
+    {
+      "theme": "Career progression and talent pipeline",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States intentions to track progression to Grade 7 and Senior Civil Service with no supporting data or prior evidence of effectiveness."
+    },
+    {
+      "theme": "Cross-sector collaboration and wider economy support",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Asserts that cross-sector collaboration will be effective and references a prior partnership on socio-economic measures without explaining what it found or how it supports this claim."
+    },
+    {
+      "theme": "Programme governance and strategic direction",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims 'substantial progress' and 'significant headway' from the Apprenticeship Programme governance structure with no data or assessment given."
+    },
+    {
+      "theme": "Apprenticeship levy funding",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States a funding approach and cap with no evidence of costs, benefits or modelling behind the levy strategy."
+    }
+  ],
+  "reasoning": "All four core themes describe what the Civil Service intends to do\u2014three recruitment routes, reformed pay/selection, a Cabinet Office-led governance split, and data monitoring\u2014but none point to evidence for why these particular choices were made. 'Three delivery routes' (lines on converting recruitment, upskilling, enhancing schemes) is pure description of mechanism with no supporting data. 'Reforming recruitment, pay and career structures' names the 'Talent Action Plan 2016' and 'Workforce Plan' but gives no finding or result from either, only that pilots are underway. 'Governance and UK-wide delivery structure' asserts the 2.3% target and Cabinet Office/department split with no justification beyond stating it, and reference 5 only defines the Northern Ireland Civil Service rather than supporting a claim. 'Data collection and long-term tracking' argues reasoning ('we need data-driven procedures... to inform the right policy interventions') without presenting any dataset, survey or finding. Each core theme therefore sits at level 0, giving a mean of 0 and a section score of 0. The strongest counter-example is the reference to the Talent Action Plan 2016, which at least names a document, but since no outcome or evidence from it is described, it cannot lift the theme above 0. To reach level 1, the document would need to explain, for at least one route or structural choice, what data, consultation result or comparable case supported choosing it.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

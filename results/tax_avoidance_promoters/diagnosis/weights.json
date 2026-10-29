@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Circumvention of POTAS through associated entities",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Nature of the POTAS regime and its target",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

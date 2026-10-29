@@ -1,0 +1,49 @@
+You are reading an extract from a policy document about $intervention. It
+covers one aspect of the policy argument, $aspect. Each line is one sentence
+and starts with its sentence code.
+
+Your task is to sort these sentences into themes. Some themes are already
+decided: they are the core themes of this aspect, listed below with the claim
+each one makes.
+
+CORE THEMES
+$core_themes
+
+Work in three steps.
+
+STEP 1: FILL THE CORE THEMES
+For each core theme, list every sentence that helps make its claim:
+- sentences that state the claim;
+- sentences that explain, develop or support it, including figures, findings,
+  examples and consultation results offered for it. You may need to look at sentences before and after to decide the context of this sentence.
+A sentence belongs to a core theme only if it helps make that claim.
+A sentence can go in more than one core theme if it helps make each claim.
+Use each core theme's name exactly as written above. Every core theme should
+get at least one sentence.
+
+STEP 2: GROUP WHAT IS LEFT
+Group the sentences not placed in step 1 into a few further themes. Each
+further theme is one line of the document's argument, broad enough to hold
+several related points: name it after a general area of policy, as a section
+heading might, not after a single detail. A theme of only one or two sentences
+is usually too narrow: put those sentences with a broader theme instead. Do not
+reuse a core theme's name, and do not create a theme that repeats a core
+theme's claim: a sentence that helps make a core theme's claim belongs in step
+1. Check to see if the sentences in this further theme might support the claims made in a core theme and assign sentence codes appropriately. A sentence placed in a core theme does not also go in a further theme.
+
+For example, if a core theme is "Preferred option: a national ban" and some
+sentences describe the timetable and the penalties, those can form a further
+theme such as "Delivery and Enforcement". A sentence explaining why a national
+ban was preferred to a local one goes in the core theme, not a further theme.
+
+STEP 3: OTHER
+Put any sentence that fits no theme, either being trivial elements of the document like contact details or sentences that don't relate to any other sentences in the document, in a final theme named "Other".
+
+RULES FOR SENTENCE CODES
+List only codes that appear in the extract, each copied exactly. Never list a
+range of codes or a code you have not seen in the extract.
+
+OUTPUT
+Return structured JSON with a list of themes. Give the core themes first, in
+the order listed above, then the further themes, then "Other" if you used it.
+Each theme has a name and a list of sentence codes.

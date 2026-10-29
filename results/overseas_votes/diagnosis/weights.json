@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "The 15-year rule",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Exclusion of the never-previously-registered",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Voluntary sector-led implementation group",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line announcing Sir Martyn Lewis will chair the group offers no evidence, reference or reasoning for choosing this delivery route and no alternatives."
+    },
+    {
+      "theme": "Crown Representative priorities",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line says priorities are still being identified, with no evidence, no method for deciding them and no references."
+    }
+  ],
+  "reasoning": "Both core themes are bare statements of delivery arrangements with no evidence behind them. For the \"Voluntary sector-led implementation group\" theme, the only line is \"Mr Wilson has also announced that Sir Martyn Lewis will chair a voluntary sector-led implementation group on these proposals, to put them into practice.\" This describes what will happen. It gives no grounds for choosing a voluntary sector-led group over other routes, no evidence that such a group works, and no costs or benefits. For the \"Crown Representative priorities\" theme, the only line is \"Government is currently identifying key priorities for the Crown Rep which will complement the public services programme.\" It admits the delivery detail is undecided, but it does not say how the priorities will be decided, who will be consulted, or what evidence will inform them. It also asserts that the role will complement the public services programme without support. Both reference and link blocks are empty, and there is no ungrouped material. Both themes therefore score level 0, and the mean of the core themes is 0, which gives a section score of 0. The strongest counter-example is that the Crown Rep line at least signals that the decision is still open, which is a minimal gesture toward transparency. But it does not set out a method for deciding, so it does not reach level 1. To reach level 1, the document would need to offer some evidence or explanation for why this implementation route was chosen, for example findings from consultation responses or comparable schemes. To reach level 2, that evidence would need to be cited or its method described.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

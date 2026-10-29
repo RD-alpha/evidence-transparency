@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Enforcement architecture led by local authorities, with optional stronger tools",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant empowerment and education as an enforcement mechanism",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Penalty design for non-compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Defining the scope and exemptions of the ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Data sharing and intelligence as an enforcement tool",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Legislation and regulatory framework",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Mitigation of discrimination impacts",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "International precedent and comparative regulation",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

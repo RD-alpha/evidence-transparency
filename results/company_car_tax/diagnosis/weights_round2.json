@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Government Policy Goals and Long-term Vision",
+      "reason": "Provides broader context on long-term ULEV targets but does not explain the specific diagnosis of why current bands fail to differentiate ULEVs; the case for outdated bands stands without this background.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Environmental and Health Rationale for ULEV Support",
+      "reason": "Explains why ULEVs matter environmentally but does not diagnose the specific problem of outdated tax bands failing to differentiate between ULEV types.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Company Car Tax Reform and Structure",
+      "reason": "Describes the current band structure that is the subject of the diagnosis, establishing the baseline system that is shown to be inadequate; necessary to understand what is being critiqued.",
+      "weight": "core"
+    },
+    {
+      "theme": "Historical CO2-Based Tax System Development",
+      "reason": "Provides historical background on how bands evolved, which is context rather than the core diagnostic argument about current inadequacy.",
+      "weight": "not core"
+    },
+    {
+      "theme": "ULEV Market Growth and Technology Advancement",
+      "reason": "Demonstrates the scale and pace of technological change that is placing pressure on the banding structure, directly supporting the diagnosis that bands are outdated and failing to keep pace with the market.",
+      "weight": "core"
+    },
+    {
+      "theme": "Government Investment and Support Measures",
+      "reason": "Describes investment and support mechanisms, which is background on policy tools rather than part of the diagnosis of band inadequacy.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Current ULEV Definition and Classification Challenges",
+      "reason": "Directly identifies the core problem: that the current two-band classification system cannot adequately differentiate between ULEVs with vastly different emissions profiles and capabilities, which is the central diagnostic claim.",
+      "weight": "core"
+    },
+    {
+      "theme": "UK Environmental Performance and Emissions Targets",
+      "reason": "Provides general context on UK emissions performance against EU targets, which is background rather than part of the specific diagnosis about band differentiation failure.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Zero Emission Miles Capability",
+      "reason": "Provides specific evidence of how current bands fail to distinguish between vehicles with vastly different zero-emission capabilities, directly substantiating the core diagnosis of outdated bands failing to differentiate ULEVs.",
+      "weight": "core"
+    }
+  ]
+}

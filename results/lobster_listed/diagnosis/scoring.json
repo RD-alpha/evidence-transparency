@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Overfishing of lobster and crawfish stocks",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The claim that 'current stock assessments on European lobster and landing trends on crawfish...indicate that these stocks are being overfished, with no lobster stocks being exploited at levels associated with MSY' offers the department's own primary evidence, but gives no reference, link, or explanation of methodology."
+    },
+    {
+      "theme": "EU and biodiversity obligations",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Reference 16 links to the Biodiversity 2020 strategy and quotes its species objective, but the core CFP/MSFD MSY obligations and the Reference 14 citation (which appears mismatched) are asserted without a traceable source, and the claim mainly restates targets rather than diagnostic evidence."
+    },
+    {
+      "theme": "Market failure in a common resource",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The whole theme is economic theory/reasoning about common-pool resources, with Reference 22 only defining the term 'common good' rather than evidencing the lobster/crawfish diagnosis."
+    },
+    {
+      "theme": "Inadequate and inconsistent existing management",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Figures such as 'six of the ten IFCAs' having bans and 'anecdotal reports of an increase in the lobster population' support the inconsistency claim and the document notes 'there have not been any assessments of the effectiveness of these local bans', but none of this carries a reference number or link."
+    },
+    {
+      "theme": "Economic value and employment in the shellfish sector",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Specific landing values and employment figures (e.g. '\u00a317.8 million...third most valuable species landed', Reference 1,2; '4000 people' employed, Reference 13,14) are clearly linked to their claims and properly cited."
+    },
+    {
+      "theme": "Governance and management responsibilities",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Reference 15 (Marine and Coastal Access Act) is cited only to describe current devolved responsibilities, not as evidence supporting the diagnosis."
+    }
+  ],
+  "reasoning": "The diagnosis rests on four core themes. 'Overfishing of lobster and crawfish stocks' (level 1) cites the department's own stock assessments and landing trends but gives no reference or methodology. 'EU and biodiversity obligations' (level 1) partially cites the Biodiversity 2020 strategy (Reference 16) but otherwise restates CFP/MSFD targets, which per the framework are commitments rather than diagnostic evidence. 'Market failure in a common resource' (level 0) is pure economic reasoning, with Reference 22 merely defining a term rather than evidencing the lobster/crawfish case. 'Inadequate and inconsistent existing management' (level 1) notes that only six of ten IFCAs ban landing berried lobsters and that any stock improvements rely on 'anecdotal reports', explicitly admitting 'there have not been any assessments of the effectiveness of these local bans' - a near-level-3 acknowledgement of weak evidence, but it is blocked from reaching level 2 because no figures carry a reference or link. The mean of (1,1,0,1) is 0.75, rounding down to 1. The strongest counter-example is the Biodiversity 2020 citation (Reference 16), which is properly linked and quoted, showing the document can cite well when it chooses to. To reach level 2, the document would need to attach citable sources (e.g. Cefas stock assessments, IFCA bylaw records) directly to the overfishing and management-inadequacy claims, and specify how any primary data were obtained.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

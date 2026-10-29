@@ -1,0 +1,76 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Narrowing Ofcom's Role from Broad Choice to Core Information Duty",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Cites Ofcom's Feb 2016 advice (45%/35% listener survey, uncited) and the John Myers 2009 review (Reference 22, properly linked) to justify retaining news/core info duties, and explicitly acknowledges the contrary finding 'according to Ofcom, there is no current market failure' before deciding to proceed anyway."
+    },
+    {
+      "theme": "Deregulating Local Format and Production Requirements",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Ofcom's music formats consultation (Reference 19) is directly linked to the claim that removing format rules won't harm listeners, though the Kantar Media findings on networking/local production are named but uncited, and counter-arguments for s.314 are reasoning rather than evidence assessment."
+    },
+    {
+      "theme": "Preserving National Licence Formats While Allowing Flexible Renewal",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims about spectrum scarcity, competition risk and the 12-year licence term are asserted as reasoning with no cited data, research or Ofcom analysis to support them."
+    },
+    {
+      "theme": "Extending News/Core Information Duties to Digital-Only Stations",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Relies on 'Ofcom's assessment' that local news would be underprovided without regulation, named but uncited, with no source a reader could follow."
+    },
+    {
+      "theme": "Alignment of Analogue and Digital Licensing Frameworks",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes the rationale and process for reform with no statistic, study or citation offered as grounds."
+    },
+    {
+      "theme": "Government Rationale for Reform",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "References Ofcom's Feb 2016 report to DCMS and its conclusions on music formats/local news, but no reference number or link is given to the report itself."
+    },
+    {
+      "theme": "Enhanced Regulatory Powers and Flexibility",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Sets out proposed flexibilities (local production freedom, overseas licensing) without any evidence of why these specific designs were chosen."
+    },
+    {
+      "theme": "Digital Radio Transition and Infrastructure Support",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Cites the September 2016 Ofcom small-scale DAB trial results as demonstrating robustness and lower costs, but gives no reference or link to the trial data."
+    },
+    {
+      "theme": "Maintaining Content Standards and Regulatory Framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States the licence renewal regime 'has broadly worked well' with no data or research cited to support this judgement."
+    },
+    {
+      "theme": "Future of Analogue Licensing",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Mentions the 50% digital listening projection for 2017/18 as a target but cites no source or analysis behind it."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes stakeholder views and policy intentions (e.g. on local production, handback of licences) without any cited evidence."
+    }
+  ],
+  "reasoning": "The four core themes vary widely in evidentiary grounding. 'Narrowing Ofcom's Role' reaches level 3: it cites the Myers 2009 review (Reference 22) directly linked to retaining news duties, cites Ofcom's 45%/35% listener research (uncited but explained), and explicitly notes the contradictory finding that 'according to Ofcom, there is no current market failure' before proceeding regardless \u2014 a genuine, if brief, assessment of conflicting evidence. 'Deregulating Local Format' reaches level 2 via the properly cited Ofcom music-formats consultation (Reference 19) directly linked to the claim that format removal won't harm listeners, though the Kantar findings remain uncited and the s.314 counter-arguments are reasoning, not evidence assessment. 'Preserving National Licence Formats' scores 0: claims about spectrum scarcity and competition risk are pure reasoning with no citation. 'Extending Duties to Digital-Only Stations' scores 1: it leans on an unnamed, uncited 'Ofcom assessment' of underprovision. The mean of (3+2+0+1)/4 = 1.5, which rounds down to 1 per the stated rule. The strongest counter-example against a higher score is the complete absence of evidence behind the national-licence preservation theme, which drags the average down despite the stronger showing elsewhere. To reach level 2 overall, the document would need to cite and link evidence (e.g. spectrum/market data) for the national licence decision and give a source for the digital-only underprovision claim.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

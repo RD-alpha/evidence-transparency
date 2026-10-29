@@ -1,0 +1,100 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Opaque, variable and high tenant fees",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "DCLG's own survey of 50 agents is described with clear method ('we randomly chose 50 agents... and searched their website'), and claims are backed by cited figures from EHS 2014/15, NALS/ARLA (Reference 3,4), Generation Rent (Reference 6,10) and Shelter (Reference 5), directly linking fee variation (\u00a330-\u00a3747) to the 'opaque and variable fees' claim, but the document never assesses which source is most reliable or why figures diverge."
+    },
+    {
+      "theme": "Market failure in fee-setting",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only evidence offered is the OFT's 2013 market study finding that tenants focus on headline rent rather than fees, which is named in prose but carries no reference number or link, so it cannot exceed level 1; the rest of the theme is unevidenced reasoning about landlord/agent incentives."
+    },
+    {
+      "theme": "Existing regulation has not fixed the problem",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim that transparency rules are not working is backed by cited, linked figures - 'Of the 912 agents surveyed by Generation Rent, 12% did not publically display their fees' (Reference 10) and 'A quarter of the landlords surveyed by the NLA either did not know...' (Reference 11) - but no assessment of these surveys' reliability is offered."
+    },
+    {
+      "theme": "Financial harm to tenants",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The core harm claim is supported by a cited figure, 'Citizens' Advice found that 64% of tenants experienced problems paying letting agents' fees, and 42% had to borrow money' (Reference 13), directly linking evidence to the claim, while the EHS 2014-15 moving-decision statistics (35%/34%) are reported without a citation marker and so stay at level 1 on their own."
+    },
+    {
+      "theme": "Private rented sector overview and growth",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Growth statistics (e.g. 'housing 4.3 million households... 19% of all households, up from 11%') are cited (Reference 1) but this theme is background, not diagnosis evidence of the fee problem itself."
+    },
+    {
+      "theme": "Role and services of letting agents",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Purely descriptive of agent functions with no statistic or source offered as evidence."
+    },
+    {
+      "theme": "Letting agent fees to landlords",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Citizens Advice finding that 88% of renters pay fees when a letting agent is involved versus 60% overall (Reference 9) is cited and explained, giving level 1-2 but no assessment of the evidence, and the NLA's 'anecdotal evidence' on landlord fees is explicitly uncited and informal."
+    },
+    {
+      "theme": "Tenancy process and tenant fees",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This is a procedural description of the letting process with no statistics or sources used as evidence."
+    },
+    {
+      "theme": "Short-term tenancies and fee repetition",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that tenancies are typically 6-12 months and fees are paid repeatedly is attributed to the English Housing Survey 2014/15 (Reference 7), giving some explanation but the link to 'incentive for short-term lets' is asserted rather than evidenced."
+    },
+    {
+      "theme": "Landlord regulation and requirements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme describes legal requirements on landlords, not evidence about the fee problem."
+    },
+    {
+      "theme": "Government action on letting agent regulation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes existing and planned regulatory powers without presenting evidence of the problem's scale or causes."
+    },
+    {
+      "theme": "Letting agent regulation in other UK nations",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States that fees are unregulated in Wales/NI and that 'recent surveys evidence concern' without citing or detailing any such survey."
+    },
+    {
+      "theme": "Confusion about fee responsibility",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim about landlord confusion is backed by the NLA Quarter 4 survey 2016 (Reference 11), named but without a link, giving some explanation but limited traceability."
+    },
+    {
+      "theme": "Letting agent malpractice",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Shelter's 2013 finding that 'nearly one in four people... feel they've been charged unfair fees' is referenced (Reference 12) and explained, but there is no assessment of the survey's robustness."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line asserting fees 'have increased significantly in recent years' carries no citation or supporting data."
+    }
+  ],
+  "reasoning": "The diagnosis rests on four core themes. 'Opaque, variable and high tenant fees' reaches level 2: DCLG's own market research is described with method ('we randomly chose 50 agents... and searched their website'), and figures from EHS 2014/15, NALS/ARLA, Generation Rent and Shelter (References 3-6,10) are clearly linked to the claim of variable, high fees, though the document never assesses why the sources disagree (\u00a3172 vs \u00a3400 average). 'Market failure in fee-setting' stays at level 1: its only evidence, the OFT's 2013 study on tenants focusing on headline rents, is named but uncited. 'Existing regulation has not fixed the problem' reaches level 2 via 'Of the 912 agents surveyed by Generation Rent, 12% did not publically display their fees' (Reference 10) and the NLA survey finding (Reference 11), both clearly linked to the claim that transparency rules are not working. 'Financial harm to tenants' reaches level 2 through the cited Citizens Advice finding that '64% of tenants experienced problems paying letting agents' fees, and 42% had to borrow money' (Reference 13), though the EHS moving-decision statistics are uncited. The mean of 2, 1, 2, 2 is 1.75, rounding down to 2. The strongest counter-example is the weak, uncited 'market failure' theme, which relies on assertion rather than evidence. To reach level 3, the document would need to explicitly weigh the conflicting fee-average figures (NALS vs Generation Rent vs EHS) and discuss their reliability or representativeness.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

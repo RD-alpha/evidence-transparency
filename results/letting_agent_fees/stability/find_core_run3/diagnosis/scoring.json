@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Growth and significance of the private rented sector",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim about scale (4.3m households, 19% vs 11%) is backed by a specific, cited English Housing Survey figure (Reference 1), but no assessment of its reliability or limits is offered."
+    },
+    {
+      "theme": "High, variable and opaque tenant fees",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Multiple cited sources (EHS, NALS, ARLA, Generation Rent, Shelter, refs 3-6,10) are compared against each other ('By contrast, the National Approved Letting Scheme found...Generation Rent found...Shelter found...') and DCLG's own 50-agent website survey is described with its method, showing both citation and acknowledgment of inconsistent findings."
+    },
+    {
+      "theme": "Asymmetric market power between landlords and tenants",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim rests mainly on reasoning plus a single named but uncited source ('as the Office of Fair Trading found in their 2013 market study'), with no reference number or link given."
+    },
+    {
+      "theme": "Financial and behavioural harm to tenants",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The Citizens' Advice finding (64% had problems, 42% borrowed money) is properly cited as Reference 13, while the EHS 35%/34% moving-deterrence figures appear without a reference marker in this theme, leaving part of the claim at level 1 but the whole reaching level 2 overall."
+    }
+  ],
+  "reasoning": "The diagnosis draws on a reasonably rich evidence base for the core claims. 'Growth and significance' (level 2) is grounded in a single cited EHS statistic (Reference 1) but with no scrutiny of its robustness. 'High, variable and opaque tenant fees' (level 3) is the strongest: it cites EHS, NALS, ARLA, Generation Rent and Shelter (references 3-6,10), explicitly contrasts their differing fee estimates ('By contrast...'), and describes DCLG's own 50-agent website survey methodology, so both citation and assessment of contradictory evidence are present. 'Asymmetric market power' (level 1) relies heavily on argument, with only one named-but-uncited OFT 2013 study as support - the clearest counter-example to a higher score, since no reference or link lets a reader verify it. 'Financial and behavioural harm' (level 2) mixes a properly cited Citizens Advice finding (Reference 13, '64% experienced problems...42% had to borrow money') with an uncited EHS statistic on moving deterrence. The mean of (2+3+1+2)/4 = 2 gives a section score of 2. To reach level 3 overall, the asymmetric-power theme would need a properly cited, linked source (e.g. the OFT study with a reference number) and some explicit discussion of its limitations or counter-evidence, bringing all four core themes to a consistently assessed, cited standard.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.0,
+  "score_consistent": true,
+  "missing_core": []
+}

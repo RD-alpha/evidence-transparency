@@ -1,0 +1,73 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Opaque and inconsistent fee practices",
+        "claim": "Letting agents charge tenants fees in widely varying amounts and formats, often not clearly displayed or itemised, making it hard for tenants to understand or compare costs."
+      },
+      {
+        "name": "Tenants' lack of bargaining power",
+        "claim": "Because landlords, not tenants, appoint and pay the letting agent, tenants have little or no ability to negotiate, avoid or opt out of the fees charged to them."
+      },
+      {
+        "name": "Misaligned incentives and weak competition on tenant fees",
+        "claim": "Landlords and agents are incentivised to compete on landlord-side fees but have no incentive to minimise or compete on tenant-side fees, which can even be used to subsidise lower landlord fees or result in double-charging."
+      },
+      {
+        "name": "Scale, growth and financial harm of fees",
+        "claim": "Tenant letting fees are widespread, have risen significantly in recent years, and impose real financial hardship, deterring moves and making it harder to save for a deposit."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Rationale for shifting fees to landlords",
+        "claim": "Because landlords hold the stronger market position and choose the agent, banning tenant fees and making landlords bear agent costs will sharpen competition among agents and improve transparency."
+      },
+      {
+        "name": "Insufficiency of existing transparency regulation",
+        "claim": "Earlier transparency requirements under the Consumer Rights Act 2015 have not proven effective at improving standards or enabling tenants to shop around, justifying a stronger intervention such as a ban."
+      },
+      {
+        "name": "Scottish precedent as supporting evidence",
+        "claim": "Evidence from Scotland's long-standing ban on tenant letting fees shows that such a ban can operate with minimal negative side-effects on landlords, agents or the rental sector, supporting the case for a similar ban in England."
+      },
+      {
+        "name": "Scope of the ban",
+        "claim": "The ban should cover all fees, premiums or charges linked to granting, renewing or continuing a tenancy, whether charged by agents, landlords or third parties, so that tenants pay only rent and a refundable deposit."
+      },
+      {
+        "name": "Anticipated costs and benefits",
+        "claim": "While some agent costs may be passed through into higher rents, competitive pressure will limit full pass-through, and the ban will yield benefits including lower upfront costs, easier moving, reduced homelessness risk and easier saving for a deposit."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Primary enforcement by local authorities",
+        "claim": "The ban will be enforced primarily by local authority Trading Standards, building on their existing role enforcing redress scheme membership and fee transparency requirements."
+      },
+      {
+        "name": "Additional enforcement mechanisms under consideration",
+        "claim": "The Government is exploring further enforcement supports—such as a lead enforcement authority, increased data sharing, and wider regulation of the sector—to strengthen and make more consistent the enforcement of the ban."
+      },
+      {
+        "name": "Tenant empowerment and education as enforcement tool",
+        "claim": "Educating and empowering tenants to challenge non-compliant agents, including routes to local authorities or the county court, is presented as key to effective enforcement and reducing the burden on local authorities."
+      },
+      {
+        "name": "Penalty regime for non-compliance",
+        "claim": "The Government is considering whether breaches of the ban should attract civil penalties (potentially up to £30,000) or criminal sanctions such as banning orders, to provide an effective deterrent."
+      },
+      {
+        "name": "Defining permitted charges and mitigating financial burden",
+        "claim": "Implementation will specify which charges remain permissible (such as holding deposits and tenant-caused service charges) and will explore ways to reduce the financial burden of deposits, such as capping or instalment models."
+      }
+    ],
+    "note": ""
+  }
+}

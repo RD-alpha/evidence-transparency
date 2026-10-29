@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Local authority enforcement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that Trading Standards should enforce the ban rests only on the fact that they already enforce redress-scheme membership and the Consumer Rights Act 2015 transparency rules, which describes current duties rather than offering any evidence that this arrangement will work effectively."
+    },
+    {
+      "theme": "Strengthened enforcement architecture",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The theme describes the comparable NTSEAT lead-authority model under the Estate Agent Act 1979 and cites existing penalty figures (\u00a35,000 civil penalty, \u00a330,000 under the Housing and Planning Act 2016) as benchmarks for a new regime, but none of this carries a Reference or Link so it cannot reach level 2."
+    },
+    {
+      "theme": "Tenant empowerment and education",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements such as the risk that tenants 'may feel that they are not able to challenge an agent' and claims that education will 'empower tenants and reduce the burden on local authorities' are reasoning and assertion with no data, research or consultation evidence behind them."
+    },
+    {
+      "theme": "Defining permitted charges and deposit arrangements",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The line 'Deposit levels have been increasing' is offered as grounds for exploring a cap, functioning as an unnamed/uncited finding, which reaches level 1 but no further since no source is identified."
+    }
+  ],
+  "reasoning": "The four core themes score unevenly. 'Local authority enforcement' (0) relies only on describing Trading Standards' existing statutory duties under the Consumer Rights Act 2015, not evidence that this delivery route works. 'Strengthened enforcement architecture' (1) draws on the comparable NTSEAT/Estate Agent Act model and existing penalty figures (\u00a35,000; \u00a330,000 under the Housing and Planning Act 2016) to justify possible new enforcement tools, but these appear in prose with empty <references> and <links>, so they cannot be traced to a source. 'Tenant empowerment and education' (0) is pure assertion and risk-reasoning, e.g. 'tenants may feel that they are not able to challenge an agent', with no supporting data. 'Defining permitted charges and deposit arrangements' (1) offers the uncited trend claim 'Deposit levels have been increasing' as grounds for exploring a cap, but no source is named. The mean of 0, 1, 0, 1 is 0.5, which rounds down to 0. The strongest counter-example is the NTSEAT description, which is detailed and functionally analogous evidence, but its lack of any citation keeps it from reaching level 2. To reach level 1 overall the document would need to show how Trading Standards' current enforcement has performed and why tenant education changes behaviour; to reach level 2 it would need to properly cite the NTSEAT comparison, penalty data and deposit trend so readers could verify them.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.5,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,9 @@
+{
+  "themes": [
+    {
+      "theme": "Rollout timetable and local publication",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+Proposals to ban the use of plastic microbeads in cosmetics and personal care products in the UK and call for evidence on other sources of microplastics entering the marine environment
+December 2016
+S0001 © Crown copyright 2016
+S0002 You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of the Open Government Licence v.3.
+S0003 To view this licence visit www.nationalarchives.gov.uk/doc/open-government-licence/version/3/ **(Link: 1) or email PSI@nationalarchives.gsi.gov.uk **(Link: 2)
+S0004 This publication is available at www.gov.uk/government/publications **(Link: 3)
+S0005 Any enquiries regarding this publication should be sent to us at marinelitter@defra.gsi.gov.uk **(Link: 4)
+S0006 www.gov.uk/defra **(Link: 5)
+Summary
+S0007 Topic of this consultation
+S0008 Proposals to ban the manufacture and sale of cosmetics and personal care products containing microbeads which may cause harm to the marine environment.
+S0009 The consultation also seeks to gather evidence on the extent of the environmental impacts of microbeads found in other products, to inform future UK actions to protect the marine environment.
+S0010 Scope of this consultation
+S0011 This consultation aims to address microplastic particles which may cause harm to the marine environment.
+S0012 We are not seeking comments on wider forms of marine litter such as micro-sized particles of non-plastic litter.
+S0013 Geographical scope
+S0014 The proposals would extend and apply to the UK including Scotland, Wales and Northern Ireland.
+S0015 They do not apply to overseas territories.
+S0016 To This consultation has particular relevance to:
+S0017  groups or individuals who use the sea for any purpose, or
+S0018 have an interest in it, including business users of the sea
+S0019  people that use products containing microbeads and those
+S0020 businesses responsible for manufacturing and selling those products
+S0021  businesses using primary microplastics or creating secondary
+S0022 microplastics
+S0023  producers, manufacturers, re-processors and retailers of
+S0024 plastic packaging
+S0025  national and local interest groups such as environmental and
+S0026 recreational non-governmental organisations and industry federations
+S0027  governments in other states who may be considering their
+S0028 own bans on microbeads in cosmetics and personal care products
+S0029  academic research institutions
+S0030 This consultation is being carried out by Defra’s Marine Division on behalf of the UK Government and the Devolved Administrations.
+S0031 Body responsible for the consultation
+S0032 Duration Consultation starts: 20th December 2016
+S0033 Consultation ends: 28th February 2017
+S0034 Enquiries During the consultation, if you have any enquiries or wish to
+ | receive hard copies of the documents, please contact:
+marinelitter@defra.gsi.gov.uk
+Information on the measures the UK Government is already taking
+to address marine litter can be found in the Marine Strategy Part
+Three: UK Programme of Measures, at:
+https://www.gov.uk/government/uploads/system/uploads/attachme
+nt data/file/486623/marine-strategy-part3-programme-of-
+_
+measures.pdf
+How to respond | Written responses can be submitted to:
+Marine Litter Policy Team
+Defra
+Area 8B Millbank
+c/o
+Nobel House
+17 Smith Square
+London
+SW1P 3JR
+Emailed to: marinelitter@defra.gsi.gov.uk
+Or completed online via
+https://consult.defra.gov.uk/marine/microbead-ban-proposals
+Responses must be submitted by 28th February 2017.
+After the
+consultation | At the end of the consultation period we will summarise the
+responses and place this summary on our website at
+www.gov.uk/government/publications?publication filter option=con
+_ _
+sultations.
+Copies of responses will be made available to the public on
+request. If you do not want your response – including your name,
+contact details and any other personal information – to be publicly
+available, please say so clearly in writing when you send your
+response to the consultation. Please explain why you need to keep
+details confidential. We will take your reasons into account if
+someone asks for this information under freedom of information
+legislation. But, because of the law, we cannot promise that we will
+always be able to keep those details confidential. Please note, if
+your computer automatically includes a confidentiality disclaimer,
+this will not count as a confidentiality request.
+Compliance with
+Consultation
+Principles | This consultation is in line with the government’s Consultation
+Principles. This can be found at
+www.cabinetoffice.gov.uk/resource-library/consultation-principles-
+guidance.
+Getting to this
+stage | The UK Government takes a wide range of actions to protect the
+marine environment from marine litter, as set out in the UK Marine
+Strategy Part Three:
+https://www.gov.uk/government/uploads/system/uploads/attachme
+nt data/file/486623/marine-strategy-part3-programme-of-
+_
+measures.pdf.
+A recent Defra study on the potential for microplastics to cause
+harm in the marine environment has provided evidence to support
+the need for the UK Government to propose further measures to
+address microplastics, including microbeads:
+http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More
+&Location=None&ProjectID=17683&FromSearch=Y&Publisher=1&
+SearchText=5416&SortString=ProjectCode&SortOrder=Asc&Pagin
+g=10#Description
+Previous
+engagement | Under the Oslo and Paris Convention for the Protection of the
+North-East Atlantic (OSPAR) Regional Action Plan (RAP) on
+Marine Litter, the UK and other Contracting Parties have engaged
+with the cosmetics industry, led by the industry body Cosmetics
+Europe, on a voluntary agreement to phase out the use of
+microplastics as a component in cosmetics and personal care
+products.
+In recent months the UK has engaged with the UK cosmetics
+industry body, the Cosmetic, Toiletry and Perfumery Association
+(CTPA); and with environmental non-governmental organisations
+(eNGOs) and academia, to understand the case for and options for
+a ban on microbeads in cosmetics and personal care products and
+the potential to address other products containing microbeads.
+Part 1: Explanation of the consultation
+S0035 Marine litter is defined as any solid material which has been deliberately discarded or unintentionally lost on beaches, on shores or at sea, including materials transported into the marine environment from land by rivers, draining or sewage systems or winds. It includes any persistent, manufactured or processed solid material. ** (Reference: 1)
+S0036 Marine litter originates from a variety of sea- and land-based sources.
+S0037 The 2012 initial assessment for the UK Marine Strategy Part One indicated some problems from marine litter in all regions of UK seas where there are systematic surveys of beach litter density. ** (Reference: 2)
+S0038 In addition to this, there is growing evidence that the accumulating quantities of litter in our aquatic environments can harm marine ecosystems and affect coastal communities.
+S0039 Smaller items such as microplastic particles can be consumed by marine animals, damaging their health.
+S0040 Larger items can entangle animals, smother habitats, damage tourism and pose a serious risk to life and livelihood by causing breakdown of vessels at sea.
+S0041 Tackling aquatic litter requires governments, businesses and communities to work together, both to reduce the amount of litter entering the marine environment from land- based and sea-based sources and to remove litter that is already there.
+S0042 The UK Marine Strategy Part Three (2015) sets out a comprehensive set of existing and planned measures to address marine litter. ** (Reference: 3)
+S0043 Defra and the Devolved Administrations also fund litter monitoring, play an active role in advising and influencing marine litter and microplastics research and education, and are members of the Marine Litter Action Network, which works with stakeholders from various sectors to raise awareness of the sources and problems associated with marine litter.
+S0044 For example the Welsh Government provides funding to Keep Wales Tidy, who work with partners in the public and private sectors to support community groups, residents, individuals, schools and businesses in raising awareness of marine litter and conducting beach cleans.
+S0045 The UK Government and the Devolved Administrations are also working with water companies to reduce the severity of sewage-related debris and untreated overflows.
+S0046 As marine litter is a transboundary problem, international collaboration is important to effectively address this issue.
+S0047 The UK is an active participant in OSPAR through which we collaborate with neighbouring countries to address marine litter.
+S0048 Through OSPAR we have developed, and are implementing, a Regional Action Plan (RAP) on Marine Litter, which includes actions to address key sources of litter and industries producing litter. ** (Reference: 4)
+S0049 The UK
+S0050 also actively participates in other international marine litter fora, including G7 and the United Nations Environment Programme.
+S0051 We continue to support research, and to implement additional measures to protect the marine environment.
+S0052 All parts of the UK now have a levy on single use plastic carrier bags.
+S0053 These levies have succeeded in significantly reducing the number of plastic bags being issued and have raised millions of pounds for good causes.
+S0054 Marine litter strategies are already available such as the Marine Litter Strategy for Scotland and the Northern Ireland Marine Litter Strategy. Defra are developing a National Litter Strategy for England, covering marine and aquatic litter as well as terrestrial litter. ** (Reference: 5,6)
+S0055 The National Litter Strategy will promote affordable, scalable and replicable ways to influence littering behaviour.
+S0056 There is growing concern about microplastics in the marine environment.
+S0057 Microplastics are plastic pieces less than 5mm in size and are a widespread ocean pollutant.
+S0058 Sources of microplastic include fibres from synthetic textiles, wear and tear of plastic products such as tyres, fishing nets, rope and carpets, plastics in paints and varnishes, microbeads used as exfoliants in cosmetics and personal care products, preproduction pellets (nurdles) and large items of plastic debris that fragment and degrade into smaller pieces. Once released in to the environment it is impossible to recover them. ** (Reference: 7)
+S0059 There is an increasing evidence base which shows that microplastics have a negative impact on the environment.
+S0060 They do not biodegrade, they accumulate in the marine environment, they can absorb toxic chemicals and pathogens, and have the potential to be ingested by marine organisms, therefore entering the food chain.
+S0061 In particular, in a recent Defra-funded project undertaken by the University of Plymouth to study the effects of microplastics in the marine environment, laboratory experiments showed:
+S0062  marine organisms can ingest plastic particles and can pass them along the food
+S0063 chain;
+S0064  ingestion of microplastics could cause ‘harm’, reducing the ability of a marine
+S0065 organism to process food, but only at concentrations comparable to heavily contaminated shorelines;
+S0066  in addition, chemical pollutants can stick to plastic particles, be transported into
+S0067 marine organisms and could potentially cause harm, but this route is unlikely to make a major contribution to overall body burdens, compared to pollutants transferred via contaminated food or seawater; and
+S0068  the concentrations of chemical additives incorporated into plastics during
+S0069 manufacture can be higher than the concentrations of chemical pollutants that stick to the plastic in the marine environment, and can potentially be ingested.
+S0070 In addition, the Environmental Audit Committee recently undertook an inquiry on the environmental impact of microplastics in the marine environment.
+S0071 Its report included a number of recommendations for the UK Government to address key sources of microplastic pollution. ** (Reference: 8)
+S0072 For the past 2 years we have been working with OSPAR and industry to address a variety of sources of marine microplastic pollution.
+S0073 The cosmetics industry in particular has already made some important steps to reducing their contribution to marine litter.
+S0074 Cosmetics and personal care products sometimes contain plastic microbeads for exfoliating purposes.
+S0075 Working with OSPAR the cosmetics industry has voluntarily taken steps to discontinue their use of microbeads and to research suitable alternatives.
+S0076 More than 72% of major cosmetics companies will have ceased to sell cosmetic products containing microbeads by 2017. ** (Reference: 9)
+S0077 We now want to strengthen this important commitment, ensure a level playing field for the industry and build consumer confidence by introducing legislation to ban the sale and manufacture of cosmetics and personal care products containing microbeads which may harm the marine environment.
+S0078 At the same time we want to gather evidence on the extent of the environmental impacts of microbeads found in other products, to inform future UK actions to protect the marine environment.
+S0079 What is the purpose of this consultation?
+S0080 The purpose of this consultation is to seek views on our proposals to ban the sale and manufacture of cosmetics and personal care products containing microbeads which may harm the marine environment.
+S0081 The consultation also seeks to gather evidence on the extent of the environmental impacts of microbeads found in other products, to inform future UK actions to protect the marine environment.
+S0082 Who will be interested in responding?
+S0083 This is a public consultation and it is open to anyone with an interest to provide comments.
+S0084 The consultation should be of particular interest to users of the products, businesses involved in the sale and manufacture of cosmetics and personal care products containing microbeads, their trade associations/bodies and non-governmental organisations (NGOs) concerned about the status of the marine environment.
+S0085 Having your say
+S0086 Responses or queries should be submitted no later than 28th February 2017 either in writing to the Marine Litter Policy Team, Area 8B Millbank, c/o Nobel House, 17 Smith Square, London, SW1P 3JR; by email to marinelitter@defra.gsi.gov.uk; **(Link: 6) or online via https://consult.defra.gov.uk/marine/microbead-ban-proposals.
+S0087 Copies of responses will be made available to the public on request.
+S0088 If you do not want your response – including your
+S0089 name, contact details and any other personal information – to be publicly available, please say so clearly in writing when you send your response to the consultation.
+S0090 Please explain why you need to keep details confidential.
+S0091 We will take your reasons into account if someone asks for this information under freedom of information legislation.
+S0092 But, because of the law, we cannot promise that we will always be able to keep those details confidential.
+S0093 Please note, if your computer automatically includes a confidentiality disclaimer, this will not count as a confidentiality request.
+Part 2: Proposals for a ban on microbeads in cosmetics and personal care products
+Background
+S0094 Microbeads (small particles of plastic) are a common ingredient in many cosmetics and personal care products such as face scrubs and toothpastes, and may be used in other products and processes including industrial blasting where abrasive materials are propelled under high pressure to remove surface deposits such as paint.
+S0095 They are washed down the drain but are too small to be completely filtered out in sewage treatment systems so a proportion is washed out into the aquatic environment.
+S0096 It is suggested that as many as 100,000 microbeads per shower are washed into our seas. There is growing evidence that microplastics cause harm to marine animals and can get into the food chain. ** (Reference: 10,11)
+S0097 Microbeads from personal care products are believed to make up a very small percentage of the total of microplastics entering the marine environment, with estimates ranging from 0.01% to 4.1%.
+S0098 A ban only on microbeads within personal care products in the UK would therefore be expected to have only a small impact on the environmental situation around microplastics.
+S0099 However this is an important move as microbeads, like other microplastics, do not biodegrade and therefore accumulate in the environment.
+S0100 There are also suitable less harmful alternatives.
+S0101 Government action will create a level playing field for industry, tackle inconsistency, support consumer confidence and stop new products containing tiny pieces of plastic ending up in the marine environment.
+S0102 In response to this the UK Government announced plans to ban the sale and manufacture of cosmetics and personal care products containing microbeads which may
+S0103 harm the marine environment.
+S0104 This consultation seeks views on our proposals for a UK- wide ban.
+S0105 At the same time, we recognise that there might be other sources of microbeads and microfibres that end up in the marine environment.
+S0106 We are therefore taking this opportunity to ask for evidence on the extent of the environmental impacts of microbeads found in other products, to inform future UK actions to protect the marine environment.
+Proposals for a ban
+S0107 Scope of proposed ban
+S0108 The current evidence shows that microplastics, including microbeads, cause harm in the marine environment.
+S0109 We also know that microbeads used in rinse-off products (e.g. shower gels, face scrubs and toothpastes) are washed down the drain, enter the sewer system and a proportion end up in the marine environment where they contribute to the overall microplastic pollution load.
+S0110 There are also suitable alternatives readily available.
+S0111 We do not currently have similar evidence on microplastic particles from other cosmetics and personal care products (such as make-up and suncreams) or from other products that could contain microbeads such as household and industrial cleaning products.
+S0112 The second part of this consultation asks for further evidence on the extent of the environmental impacts of microplastics found in other such products.
+S0113 Our current proposals are that:
+S0114 a. we ban the manufacture and sale of cosmetics and personal care products
+S0115 containing microbeads in the UK (including all devolved territories).
+S0116 b.
+S0117 the ban would apply to solid microplastic ingredients <5mm in size in every
+S0118 dimension that are used as an ingredients in rinse-off cosmetics and personal care products including but not limited to exfoliating scrubs, shower gels and toothpastes.
+S0119 c. in England, the legislation is expected to come into force by 1st October 2017,
+S0120 the latest common commencement date in 2017 for regulation bearing on business.
+S0121 We will aim to coordinate our approach with Devolved Administrations who will introduce legislation according to their own legislative processes and timetables.
+S0122 d. in England, the ban on manufacture is expected to apply from 1 January 2018
+S0123 and the ban on sale expected from 30 June 2018.
+S0124 We will aim to coordinate our approach with Devolved Administrations who will introduce legislation according to their own legislative processes and timetables.
+S0125 e. the legislation will be developed collaboratively with the Devolved
+S0126 Administrations and secondary legislation introduced to implement the proposed ban across the whole of the UK.
+S0127 It is expected that such legislation
+S0128 will be made by each Administration as a result of the devolution settlements.
+S0129 It is expected that the implementing legislation will be published prior to it being made and therefore those with an interest will be able to make representations on it.
+S0130 f. in England, it is proposed that the policy will in practice be enforced through
+S0131 civil sanctions set out in part 3 of the Regulatory Enforcement and Sanctions Act 2008 (though this would require the creation of an offence punishable by a fine, to facilitate the use of the 2008 Act).
+S0132 As part of the consultation, we are seeking views on how such civil enforcement can most effectively and proportionately be carried out.
+S0133 The Devolved Administrations will establish appropriate enforcement mechanisms and would welcome views on this issue.
+Explanation
+S0134 This ban protects the marine environment and reduces the risk and severity of impacts of microplastics; supports the cosmetics industry by providing a level playing field, ensuring that all companies meet the same standards; and increases consumer confidence that products will not cause marine pollution or harm to the animals and plants found there.
+S0135 A ban on manufacture affects export and a ban on sale affects import for commercial purposes.
+S0136 The phased introduction of the ban is designed to provide sufficient time for small- and medium-sized enterprises to comply with requirements as outlined.
+Similar bans in other countries
+S0137 Several other countries have already implemented or are planning to implement bans on microbeads, including the USA.
+S0138 The USA Microbead-Free Waters Act of 2015 defines a plastic microbead as “any solid plastic particle that is less than five millimetres in size and is intended to be used to exfoliate or cleanse the human body or any part thereof” as these are the products which enter the marine environment.
+S0139 The definitions included in the legislative measures in several US states including California, New York and Illinois specify plastic microbeads that are used to exfoliate or cleanse in rinse-off products.
+S0140 Following the UK announcement to ban there have been similar announcements in several other countries.
+S0141 Italy has now approved a bill in parliament to ban the manufacture and sale of microbeads from the 1st of January 2019.
+S0142 Similarly, France has announced a ban on rinse-off cosmetic products for exfoliation or cleaning that contain solid plastic particles from January 2018.
+S0143 Other countries now seeking to impose a ban include Ireland, South Korea, Taiwan, India and Australia.
+Consultation questions on the proposals for a ban
+S0144 a. Are our proposals for a ban fit for purpose?
+S0145 If not, please explain why.
+S0146 What
+S0147 alternative wording in a ban would most effectively reduce the risk of microplastic particles from personal care and cosmetic products reaching the marine environment?
+S0148 b.
+S0149 This proposed ban applies to rinse-off cosmetics and personal care products
+S0150 including but not limited to exfoliating scrubs, shower gels and toothpastes.
+S0151 Is this category appropriate?
+S0152 If not, what range of products should the ban apply to, bearing in mind that the purpose of the ban is to protect the marine environment?
+S0153 Please supply evidence to support your suggestions.
+S0154 c. Should any products be exempt from the ban?
+S0155 If so, please supply evidence to
+S0156 support your suggestions.
+S0157 d.
+S0158 If products are not designed to go down the drain, but may still be disposed of in
+S0159 this way, what interventions or warnings are appropriate to protect the marine environment?
+S0160 e.
+S0161 How should compliance with the ban be monitored?
+S0162 f.
+S0163 Our proposals for enforcement are set out at point (f) on page 9.
+S0164 We would
+S0165 welcome comments on our proposed approach, suggestions for alternative approaches and views on how enforcement of the ban can most effectively and proportionately be carried out?
+S0166 Details of the types of civil sanctions available are set out in the Regulatory Enforcement and Sanctions Act 2008 Part 3 Civil Sanctions sections in particular sections 39, 42 and 46. ** (Reference: 12)
+S0167 g.
+S0168 What costs and/or constraints would industry, including in particular small and
+S0169 medium-sized enterprises (SMEs), incur in meeting a ban on microplastics in cosmetics and personal care products?
+S0170 h. To what extent will imports be affected by the ban?
+S0171 Please supply evidence to
+S0172 support your suggestions.
+S0173 i.
+S0174 What are the risks that alternatives to microbeads will themselves have significant
+S0175 environmental impacts?
+S0176 If so, how could these risks be avoided, minimised or mitigated?
+S0177 Please supply evidence to support your suggestions.
+S0178 j. Is there anything else you would like to tell us?
+Part 3: Gathering evidence to inform future UK action on marine microplastic pollution
+Background
+S0179 Microplastics are a common aquatic pollutant and come from a variety of sources. They are intentionally used in some products and processes, such as cosmetics and personal care products, household and industrial cleaning products and industrial blast media. ** (Reference: 13)
+S0180 They may also be released by wear and tear of plastic products such as tyres, fishing nets, rope, carpets, paints and varnishes, by washing synthetic textiles, as well as by the degradation in the marine environment of large items of plastic debris, such as plastic bottles, that fragment and degrade into smaller pieces.
+S0181 In addition, they may be released through accidental loss or poor management of preproduction pellets (nurdles).
+S0182 The UK Government and Devolved Administrations already have in place a wide range of measures to address marine litter, including microplastics, as summarised in Part 1.
+S0183 Some measures address microplastics directly; others contribute indirectly by removing, or avoiding the release of, larger plastic particles, preventing their degradation into microplastics.
+S0184 The OSPAR RAP includes an action to evaluate all products and processes that include primary microplastics eg microbeads and act, if appropriate, to reduce their impact on the marine environment.
+S0185 This programme of work will help to inform the UK’s approach to other sources of microbeads such as in washing powders, household cleaners or industrial blast media.
+S0186 This consultation seeks to gather evidence on the extent of the environmental impacts of microbeads found in other products and other sources of microplastics, to inform future UK actions to protect the marine environment by identifying targeted, proportionate measures to address key avoidable sources of marine plastics pollution.
+Consultation questions on further sources of potential marine microplastic pollution including larger marine plastic debris that breaks down into microplastics, such as plastic bottles and other packaging
+S0187 a. Key sources of microplastics are set out in Part 3: Background.
+S0188 Are any missing or
+S0189 inappropriate?
+S0190 Please provide evidence to support your response.
+S0191 b. Which sources of microplastic pose the greatest risks to the marine environment?
+S0192 Please provide evidence to support your response.
+S0193 c.
+S0194 How should sources be prioritised for action?
+S0195 Please explain your response.
+S0196 d.
+S0197 What possible interventions could be developed to reduce these risks and how
+S0198 might the cost of these interventions be minimised?
+S0199 What is the likely impact on industry of these interventions?
+S0200 Please explain your response.

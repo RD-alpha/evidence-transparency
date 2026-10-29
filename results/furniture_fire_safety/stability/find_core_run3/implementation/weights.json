@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Flexible routes to compliance reflecting stakeholder feedback",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Extended transition period to limit business costs",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Strengthened traceability record-keeping requirements",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Unresolved design details to be settled through further consultation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope clarification for baby products and grey-area items",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Business support and guidance",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Regulatory and enforcement framework",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

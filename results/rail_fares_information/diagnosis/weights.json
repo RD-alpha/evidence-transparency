@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "Complex fares system undermining trust",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Historical origins of complexity",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "themes": [
+    {
+      "theme": "Other",
+      "reason": "The extract contains no actual content or sentences addressing testing, measurement, evaluation, or consultation plans; the document provides no argument for this aspect.",
+      "weight": "not core"
+    }
+  ]
+}

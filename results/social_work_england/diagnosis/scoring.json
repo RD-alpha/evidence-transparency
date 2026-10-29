@@ -1,0 +1,22 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Consequences of incompetent social work",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines such as 'The consequences for people when social workers are not able to fulfil their role competently can be catastrophic' are assertions with no statistic, finding, case or source behind them, and no references are attached."
+    },
+    {
+      "theme": "Weaknesses in current regulation",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The line citing the 2014 Narey and Croisdale-Appleby reviews names the sources and says they point to possible improvements, but gives no reference or link and does not say what they found or what the improvements are."
+    }
+  ],
+  "reasoning": "Both themes are core, so the section score is their mean. 'Consequences of incompetent social work' scores 0. Its lines (\"The consequences for people when social workers are not able to fulfil their role competently can be catastrophic\"; \"children and adults would be left at risk of abuse or neglect\") are plausible argument, but no figure, case, research finding or source is offered, and the references and links blocks are empty. Reasoning is not evidence, so this stays at level 0. 'Weaknesses in current regulation' scores 1. The line \"Recent (2014) independent reviews by Sir Martin Narey and Professor David Croisdale-Appleby point to the fact that there are improvements that could be made\" names two reviews and says they support the claim that the regulatory system could be improved. That is enough for level 1. It carries no reference or link, so a citizen cannot go straight to the reports. It also does not say what the reviews found, which improvements they recommended, or how those relate to the Health and Care Professions Council's weaknesses. The mean is (0+1)/2 = 0.5, which rounds to 1. The strongest counter-example to this level is that the only evidence is a vague gesture at two reviews, so one could argue for 0 on the whole section. To reach level 2, the document would need to cite the Narey and Croisdale-Appleby reports with references or links, and state their specific findings on the regulator's shortcomings. It would also need evidence on the scale or examples of harm from poor practice. Level 3 would need an assessment of the strength of that evidence and acknowledgement of any uncertainty.",
+  "score": 0,
+  "model_score": 1,
+  "core_mean": 0.5,
+  "score_consistent": false,
+  "missing_core": []
+}

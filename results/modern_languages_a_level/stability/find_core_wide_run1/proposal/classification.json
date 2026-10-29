@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "name": "Modern languages as interdisciplinary academic subject",
+      "ids": [
+        "S0004"
+      ]
+    },
+    {
+      "name": "Transferable skills benefit",
+      "ids": [
+        "S0005"
+      ]
+    },
+    {
+      "name": "Universal relevance of content",
+      "ids": [
+        "S0006",
+        "S0007"
+      ]
+    }
+  ]
+}

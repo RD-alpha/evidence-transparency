@@ -1,0 +1,73 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Outdated match test and excess chemical use",
+        "claim": "The 1988 match test no longer reflects how furniture is actually constructed, forcing manufacturers to over-use flame retardant chemicals to pass it."
+      },
+      {
+        "name": "Health and environmental harm from flame retardants",
+        "claim": "The flame retardant chemicals used to meet the current test are linked to significant health harms (endocrine disruption, cancer, neurological effects) and environmental damage through dust, landfill leaching and combustion by-products."
+      },
+      {
+        "name": "Proven safety record of existing regulations",
+        "claim": "The current regulations have been highly effective, saving around 54 lives and preventing 800 injuries and 1,000 fires annually, so any change must preserve these safety benefits."
+      },
+      {
+        "name": "Ambiguous scope of regulations",
+        "claim": "The prescriptive list defining what is in and out of scope creates ambiguities and grey areas (e.g. scatter cushions, baby products) that undermine clarity for business."
+      },
+      {
+        "name": "Weak traceability hampering enforcement",
+        "claim": "Current traceability requirements lack supply-chain information needed to enable product recall and effective enforcement by Trading Standards."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Choice of 'update the regulations' over alternatives",
+        "claim": "Updating the regulations (Option 1) is preferred over doing nothing (which forgoes savings) or revoking the regulations (which would unacceptably risk consumer safety by relying on weaker EU standards)."
+      },
+      {
+        "name": "New match test reduces FR use without compromising safety",
+        "claim": "Introducing a more realistic match test, tested over representative foam fillings, allows manufacturers to reduce flame retardant use while maintaining current fire safety standards."
+      },
+      {
+        "name": "Removal of the cigarette test as a redundant requirement",
+        "claim": "The cigarette test can be revoked for fabrics required to pass the match test because it is less stringent and fabrics that pass the match test will automatically pass it, generating cost savings."
+      },
+      {
+        "name": "Consultation evidence reshaping the proposal's cost-benefit case",
+        "claim": "Industry consultation responses disputing the original cost-savings estimates led BIS/BEIS to revise down the assumed scale of benefits and adjust the policy design accordingly."
+      },
+      {
+        "name": "Quantified net benefit case for the policy",
+        "claim": "Despite one-off and ongoing compliance costs, the preferred option is estimated to deliver net annual cost savings to business (from reduced FR use and removal of the cigarette test) that outweigh the costs."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Flexible routes to compliance",
+        "claim": "The new regulations will offer multiple routes to compliance (interliner, interliner plus match test, protective cover, non-protective cover plus components test), designed in response to stakeholder feedback to balance cost and flexibility."
+      },
+      {
+        "name": "Extended transition period to limit business disruption",
+        "claim": "The transition period for manufacturers and retailers to adopt the new test and sell existing stock has been extended from 18 to 24 months in response to industry concern about re-testing costs and stock losses."
+      },
+      {
+        "name": "Enhanced traceability and record-keeping requirements",
+        "claim": "Manufacturers and importers will be required to keep more detailed technical records for a longer period (10 years) to improve product traceability and support enforcement."
+      },
+      {
+        "name": "Scope clarification through consultation",
+        "claim": "Decisions on ambiguous scope issues, such as the exclusion of baby products and treatment of second-hand furniture, will be tested and finalised through further consultation rather than settled definitively now."
+      }
+    ],
+    "note": ""
+  }
+}

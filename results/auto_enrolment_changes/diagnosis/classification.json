@@ -1,0 +1,46 @@
+{
+  "themes": [
+    {
+      "name": "TPR's inability to identify the trigger date",
+      "ids": [
+        "S0069",
+        "S0070",
+        "S0071"
+      ]
+    },
+    {
+      "name": "Mismatch with industry understanding",
+      "ids": [
+        "S0072",
+        "S0073",
+        "S0074"
+      ]
+    },
+    {
+      "name": "Administrative complexity for employers",
+      "ids": [
+        "S0075"
+      ]
+    },
+    {
+      "name": "Delayed pension saving for workers",
+      "ids": [
+        "S0076",
+        "S0077",
+        "S0079"
+      ]
+    },
+    {
+      "name": "Policy context and scope",
+      "ids": [
+        "S0042",
+        "S0043",
+        "S0044",
+        "S0065",
+        "S0066",
+        "S0067",
+        "S0068"
+      ]
+    }
+  ]
+}

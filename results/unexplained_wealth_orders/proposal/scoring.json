@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "SARs reform and consent regime",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The decision to keep the consent regime rests on 'extensive consultations' with no consensus (line 'Having conducted extensive consultations...') and on stakeholder views in the ungrouped 4.1-4.4 lines (52 responses from 2.3), but the evidence is summarised loosely, the 186-day limit is unjustified, and no weighing is shown."
+    },
+    {
+      "theme": "Private sector information-sharing gateway",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Support is claimed from the JMLIT pilot and 'strong support from consultation respondents' (5.6) and the ungrouped 4.12-4.16 responses and JMLIT results (2.14, eleven arrests, \u00a3558,144 restrained), but nothing is cited and the link to the gateway design is thin; Reference 11 only describes POCA consent rules."
+    },
+    {
+      "theme": "New asset recovery powers",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The government gives reasons for the powers (5.21 no seizure powers, \u00a310,000 de minimis threshold in the High Court) and cites consultation views (ungrouped 4.17-4.22, 4.31-4.34), but these are uncited assertions, and the \u00a31,000 and \u00a3100,000 thresholds are not justified with data."
+    },
+    {
+      "theme": "Rejected or deferred options",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Rejection rests on consultation concerns and reasoning (5.14 burden of proof, 'few other countries have successfully used' it, unresolved judicial oversight and source protection in 5.16), with only Reference 14 (UNCAC Article 20) cited, as a requirement to consider rather than a constraint; ungrouped 4.23-4.30 give the consultation views."
+    }
+  ],
+  "reasoning": "Four core themes were scored: consent regime (1), information-sharing gateway (1), new asset recovery powers (1) and rejected or deferred options (1). The mean is 1.0, so the score is 1.\n\nThe document does show what evidence it drew on. It states that the consultation ran April to June 2016 and received 52 responses (2.3). The ungrouped paragraphs 4.1-4.35 summarise sector views in some detail, for example legal-sector concern that 'the principal offences of money laundering' would need reshaping if consent were removed. It also offers JMLIT pilot results (eleven arrests, \u00a3558,144 restrained) and the 5.21 diagnosis that civil recovery has a \u00a310,000 threshold and no seizure power. This is why each theme reaches level 1.\n\nNone of it reaches level 2. The decisions are announced with phrases like 'having listened carefully' and 'no consensus', without showing which responses led to which choice. The specific parameters, such as 186 days, \u00a31,000 and \u00a3100,000, have no stated basis. The consultation figures and JMLIT results are not tied to the policy through references. The only relevant citation, Reference 14, is on the UNCAC offence and only describes a requirement to consider it. There are no cost-benefit estimates.\n\nThe strongest counter-example to level 1 is the clear consultation method in 2.2-2.3, plus the section 5.21 diagnosis, which suggests level 2 for the asset recovery theme. But the 5.21 diagnosis is uncited and the consultation views are summarised without a link to the choices made. To reach level 2 the document would need to link each choice and threshold to specific, cited evidence, and to reach level 3 it would need to weigh the contrary views and uncertainties.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

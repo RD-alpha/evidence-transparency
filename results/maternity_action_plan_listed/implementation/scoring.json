@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Named safety champions at every level",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The theme only sets target dates and describes the champion roles (e.g. 'Board level Maternity Champion appointed... Target date: January 2017') without citing any evidence that this governance structure improves safety."
+    },
+    {
+      "theme": "Earmarked funding for training and innovation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The \u00a38m Maternity Safety Training Fund and \u00a3250,000 Innovation Fund are described purely as funding mechanisms with no references or links and no evidence offered for why these amounts or funding routes were chosen."
+    },
+    {
+      "theme": "New national data, review and investigation infrastructure",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Named datasets (MBRRACE-UK, Each Baby Counts, National Neonatal Dataset) and the HSIB are described as tools to be used, but no evidence or citation is given for why this particular data/review architecture was selected over alternatives."
+    },
+    {
+      "theme": "Local adoption of standardised programmes and bundles",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The line 'Informed by the independent evaluation, NHS England will publish the final version of the Saving Babies' Lives care bundle... by April 2018' mentions evidence shaping the delivery timetable but gives no citation, link, or detail of the evaluation's findings."
+    }
+  ],
+  "reasoning": "Across the four core themes the document mostly describes what will be delivered and by when, rather than justifying why these delivery mechanisms were chosen. 'Named safety champions' (board champions, joint obstetrician/midwife leads, national champions) is entirely descriptive, with target dates but no evidence of effectiveness, giving level 0. 'Earmarked funding' similarly lists the \u00a38m Training Fund and \u00a3250,000 Innovation Fund with no references or links at all, also level 0. 'New national data infrastructure' names datasets and HSIB but offers no evidence for why this architecture was chosen over alternatives, again level 0. 'Local adoption of standardised programmes' reaches level 1 because of the line 'Informed by the independent evaluation, NHS England will publish the final version of the Saving Babies' Lives care bundle... by April 2018', which gestures at evidence shaping a delivery decision, though it is uncited and unexplained. The mean of 0, 0, 0 and 1 is 0.25, which rounds down to 0. The strongest counter-example is this Saving Babies' Lives evaluation reference, which shows the document is capable of pointing to evidence for a delivery choice, but even here it fails to cite the evaluation or explain its findings. To reach level 1 overall, the document would need to explain, for each core theme, what evidence (e.g. pilot results, consultation responses, comparable trust data) supported choosing champions, this funding structure, or this data/review infrastructure as the delivery method, rather than simply stating the actions and deadlines.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.25,
+  "score_consistent": true,
+  "missing_core": []
+}

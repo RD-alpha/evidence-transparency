@@ -1,0 +1,59 @@
+{
+  "themes": [
+    {
+      "theme": "Ban on Letting Agent Fees - Core Policy",
+      "reason": "States that primary legislation will be used to implement the ban, but this is a brief statement of intent rather than detail on how delivery will work; the implementation case does not hinge on this alone.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Deposit Reform and Affordability",
+      "reason": "Concerns a related but separate policy question (deposit size/affordability) rather than how the fee ban itself will be rolled out, so it does not carry the implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Holding Deposits and Protections",
+      "reason": "Defines scope of permissible charges (what counts as a fee vs legitimate holding deposit) rather than the mechanics of delivering and enforcing the ban.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Permissible Charges and Services",
+      "reason": "Clarifies which charges remain allowed, a scoping/definition matter rather than a description of the implementation method or enforcement approach.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Tenant Passports and Reference Checks",
+      "reason": "Addresses a specific practice to be prohibited within the ban's scope, not how the ban will be rolled out or enforced.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Anti-Discrimination Safeguards",
+      "reason": "Bears on a side-effect risk of the ban (discrimination) rather than on the chosen implementation or enforcement method itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Enforcement Authority and Structure",
+      "reason": "This is the central pillar of the implementation argument, explaining who will enforce the ban (local authorities/Trading Standards), the option of a lead enforcement authority, and comparison to the Estate Agent sector model as precedent and alternative-method discussion.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant Education and Empowerment",
+      "reason": "Presents tenant awareness and challenge as a key mechanism for enforcing the ban, explicitly described as a tool to reduce burden on authorities, making it one of the chosen delivery methods.",
+      "weight": "core"
+    },
+    {
+      "theme": "Data Sharing and Information Management",
+      "reason": "Offers a supplementary enforcement-support idea (better data sharing) that strengthens but is not essential to the core enforcement architecture already established.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Sector Regulation and Standards",
+      "reason": "Discusses wider, still-undecided regulatory options as additional measures being explored, functioning as a secondary consideration rather than the chosen implementation route.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Penalties and Enforcement Mechanisms",
+      "reason": "Directly addresses how non-compliance will be penalised (civil vs criminal, fine levels, banning orders), which is essential to explaining how the ban will actually be enforced in practice.",
+      "weight": "core"
+    }
+  ]
+}

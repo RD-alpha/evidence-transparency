@@ -1,0 +1,69 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "National skills shortage and productivity gap",
+        "claim": "The document argues that the UK faces skill shortages and weak productivity that apprenticeships, including the Government's three-million manifesto target, are meant to address."
+      },
+      {
+        "name": "Public sector lag behind private sector",
+        "claim": "The document argues that the public sector has historically lagged behind the private sector (where three-quarters of apprentices work) and must therefore deliver a greater share of apprenticeship growth."
+      },
+      {
+        "name": "Diversity, inclusion and social mobility deficit",
+        "claim": "The document argues that the Civil Service and wider public sector have struggled to achieve true diversity, representation and social mobility, including specific gaps for disabled people, which apprenticeships are needed to close."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Apprenticeships as the skills solution",
+        "claim": "The document argues that expanding high-quality apprenticeships will build job-specific and transferable skills needed to close Civil Service and economy-wide skills gaps."
+      },
+      {
+        "name": "Numerical growth commitment",
+        "claim": "The document argues that the Civil Service must commit to a specific, ambitious target of at least 30,000 apprenticeship starts by 2020 (2.3% of the England workforce annually) as the chosen intervention."
+      },
+      {
+        "name": "Social mobility and diversity vehicle",
+        "claim": "The document argues that apprenticeships are a key route to open Civil Service opportunities to people of all backgrounds and improve workforce diversity and inclusivity."
+      },
+      {
+        "name": "Economic and business case for apprenticeships",
+        "claim": "The document argues that apprenticeships make business sense, citing productivity gains, return on investment and lifetime earnings benefits as justification for the policy."
+      },
+      {
+        "name": "Leading by example and quality over quantity",
+        "claim": "The document argues that the Civil Service must lead the public sector and support the wider Government apprenticeship agenda by pursuing quality alongside numerical growth, rather than numbers alone."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Three delivery routes for creating apprenticeships",
+        "claim": "The document argues that apprenticeships will be created through converting planned external recruitment, retraining the existing workforce, and enhancing current corporate schemes."
+      },
+      {
+        "name": "Governance and departmental accountability",
+        "claim": "The document argues that delivery will be driven through a Cabinet Office-led governance structure, with the Cabinet Office setting strategic direction and departments held accountable for delivering numbers and quality."
+      },
+      {
+        "name": "Reform of recruitment, pay and selection practices",
+        "claim": "The document argues that successful delivery requires rethinking pay structures and recruitment/selection processes so that apprenticeships attract talent based on potential rather than existing qualifications."
+      },
+      {
+        "name": "Embedding apprenticeships in career pathways",
+        "claim": "The document argues that apprenticeships must be built into professional career ladders, talent management and workforce planning to provide a genuine route into and up through the Civil Service."
+      },
+      {
+        "name": "Targeted outreach to underrepresented groups and all UK nations",
+        "claim": "The document argues that delivery will include targeted promotion to low socio-economic and underrepresented groups, integration with schemes like Movement to Work, and engagement with Devolved Administrations to ensure equitable access across the UK."
+      }
+    ],
+    "note": ""
+  }
+}

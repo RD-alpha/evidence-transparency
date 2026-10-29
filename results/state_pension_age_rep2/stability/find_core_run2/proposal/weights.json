@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Linking State Pension age to life expectancy at about 32% of adult life",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Rise to 68 in 2037-39",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Fiscal savings and benefits",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Universal State Pension age",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Later decisions deferred to further reviews",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Bovine TB testing in high-risk areas",
+  "alias": "bovine_tb_combined",
+  "uploaded_at": "2026-10-13T10:38:50.808527+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "10:38:50 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "bovine_tb_measures",
+      "title": "Bovine TB Enhanced Surveillance and Controls Consultation",
+      "sentence_count": 310,
+      "first_sentence": "S0001",
+      "last_sentence": "S0310",
+      "reference_count": 4,
+      "first_reference": "1",
+      "last_reference": "4",
+      "link_count": 11
+    },
+    {
+      "alias": "bovine_tb_call_for_views",
+      "title": "Bovine TB Call for Views",
+      "sentence_count": 74,
+      "first_sentence": "S0311",
+      "last_sentence": "S0384",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 8
+    }
+  ],
+  "appendix2_date": "30 August 2016",
+  "appendix2_type": "consultation + consultation (combined in Appendix order)"
+}

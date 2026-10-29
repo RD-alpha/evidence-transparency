@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Academic status of modern languages",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Transferable skills and wider value",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Universal relevance and progression pathway",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

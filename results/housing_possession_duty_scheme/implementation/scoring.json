@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Design of the consolidated scheme areas",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Line 5 lists the factors considered (work volumes, court locations, local authority areas, HMCTS estate changes) and references 5, 6 and 7 are only explanatory footnotes, but no figures, data or analysis of volumes are shown, so the factors are mentioned without evidence."
+    },
+    {
+      "theme": "Tender eligibility and capacity requirements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 1-4 describe eligibility, capacity criteria and sub-contracting rules with no evidence that these requirements will identify capable providers, and no citations."
+    },
+    {
+      "theme": "Fixed-fee remuneration based on bid price",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines on unique fixed fees, unpaid travel and waiting time and follow-on funding are descriptions of the payment design, with no evidence offered that it will be sustainable and no references."
+    }
+  ],
+  "reasoning": "All three core themes are scored on the evidence given that each delivery measure will work as intended. The strongest is the scheme-design theme, which says groupings were drawn up by considering \"the volume of work going through existing schemes; the location of current courts and the current grouping of courts; local authority areas... and the recently proposed changes to the court estate\". This names the inputs, which is why it reaches level 1. But it gives no volume figures, no analysis and no link from those factors to the specific groupings in Annex A. References 5, 6 and 7 are explanatory footnotes about naming, court closures and the Isle of Wight funding, not evidence. The tender eligibility theme (lines on quality criteria, capacity, single legal entities and sub-contracting) and the fixed-fee theme (unique fee from bid price, no payment for travel or waiting time) describe design choices only, with no evidence they will deliver sustainable contracts, so both are level 0. The mean is (1+0+0)/3 = 0.33, which rounds to 0. The strongest counter-example is the scheme-design theme, whose stated factors might be read as reaching level 1 for the whole section, but even that has no data. To reach level 1 across the section the document would need to show the data behind its choices, such as contract volumes by scheme, evidence on why larger contracts are more sustainable, and the basis for the fee model. It would also need to cite those sources.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

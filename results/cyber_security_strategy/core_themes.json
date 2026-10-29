@@ -1,0 +1,57 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Escalating and diversifying threat actors",
+        "claim": "Cyber attacks are growing in frequency, sophistication and damage, driven by hostile states, organised criminals, terrorists, hacktivists and insiders whose capabilities are rising and are aided by freely available tools, as shown by incidents such as TalkTalk, Bangladesh Bank and the Ukraine power outage."
+      },
+      {
+        "name": "Growing dependency and vulnerability of systems",
+        "claim": "The UK's economy, government and essential services depend on internet-connected systems that were not designed with security, including legacy software and the Internet of Things, so attackers can exploit easily preventable weaknesses and the threat can be reduced but never eliminated."
+      },
+      {
+        "name": "Market failure and weak cyber behaviour",
+        "claim": "The 2011 market-led approach has not produced the scale and pace of change needed, because organisations and individuals do not properly value or manage cyber risk and are still breached by basic attacks."
+      },
+      {
+        "name": "Skills and sector gaps",
+        "claim": "A shortage of cyber skills and knowledge across the workforce and public, and too little investment in cyber entrepreneurs, is a national vulnerability that leaves the UK unable to keep pace with the threat."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Government-led intervention beyond the market",
+        "claim": "Because the 2011 market-based approach achieved too little, the Government will lead and intervene more directly, with £1.9bn over five years and regulation if required, while still relying on businesses and citizens to protect themselves."
+      },
+      {
+        "name": "Defend: active cyber defence and a National Cyber Security Centre",
+        "claim": "The UK will make itself more resilient by blocking commodity attacks at scale through active cyber defence, secure-by-default technology, a single NCSC authority for advice and incident response, and higher standards for government systems and critical national infrastructure."
+      },
+      {
+        "name": "Deter: disrupting and prosecuting adversaries",
+        "claim": "The UK will raise the cost and risk of attacking it by expanding law enforcement and intelligence disruption of criminals, hostile states and terrorists, backed by an offensive cyber capability and sovereign cryptography."
+      },
+      {
+        "name": "Develop: skills, innovation and research",
+        "claim": "The Government will build a sustained supply of cyber talent, a thriving cyber security industry and world-leading research through education reforms, innovation centres, procurement and research funding."
+      }
+    ],
+    "note": "The proposal is a package of many separate measures grouped under defend, deter, develop and international action, with the international action strand argued more thinly."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Partnership delivery with industry, devolved administrations and others",
+        "claim": "Delivery will be shared with industry, the Devolved Administrations, academia and regulators, with industry often designing and leading and Government providing expertise, because the Government alone cannot secure the nation's cyber space."
+      },
+      {
+        "name": "NCSC as the central delivery body, built in phases",
+        "claim": "The NCSC, launched in October 2016 under GCHQ, will be the unified vehicle for delivering the strategy, with its capabilities built up in phases and adapted as lessons are learned."
+      }
+    ],
+    "note": "Implementation sentences are scattered and mostly describe delivery arrangements, with little explicit argument about why these methods were chosen over alternatives."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Pensionability of NHS sub-contracts",
+  "alias": "nhs_pensionability",
+  "uploaded_at": "2026-10-13T11:52:55.666428+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "11:52:55 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "nhs_pensionability_consultation",
+      "title": "NHS Pensionability Consultation",
+      "sentence_count": 259,
+      "first_sentence": "S0001",
+      "last_sentence": "S0259",
+      "reference_count": 6,
+      "first_reference": "1",
+      "last_reference": "6",
+      "link_count": 3
+    },
+    {
+      "alias": "nhs_pensionability_amendments",
+      "title": "NHS Pensionability Draft Amendments",
+      "sentence_count": 301,
+      "first_sentence": "S0260",
+      "last_sentence": "S0560",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 0
+    }
+  ],
+  "appendix2_date": "1 December 2016",
+  "appendix2_type": "consultation + draft amendments (combined in Appendix order)",
+  "extraction_note": "Table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

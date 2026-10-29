@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Offence categories and bands replacing proxies",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Unbundling and paying for work done",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Guilty plea and cracked trial fees",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Cost neutrality and expected distributional effects",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Reduced special preparation and fairness to groups",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

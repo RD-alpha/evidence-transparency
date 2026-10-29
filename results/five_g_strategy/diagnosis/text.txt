@@ -1,0 +1,252 @@
+S0007 But this can only happen with private sector investment in new networks, engaged customers and innovative service providers.
+S0024 Mobile technology is constantly evolving to keep pace with growing demand.
+S0025 One estimate is that by 2020, global mobile data traffic is expected to reach a monthly rate of 30.6 exabytes, as compared to 3.7 exabytes in 2015. That is a compound annual growth rate of 53%. ** (Reference: 1,2)
+S0028 5G is not yet fully developed, with definitive standards only due to be agreed in 2019 and incremental deployment expected over the following decade.
+S0031 These new technologies are expected to transform how we interact with the world - providing opportunities for wide-ranging and, as yet, unforeseen new applications, business models, enhanced lifestyles and increased productivity.
+S0032 They will open the door to potentially revolutionary technologies such as automated cars and advanced manufacturing, as well as enabling the many thousands of connected devices, such as smart energy meters, that are predicted to enter our everyday world as part of the Internet of Things (IoT).
+S0033 This sea change will result in huge economic benefits.
+S0034 IHS Economics estimated that 5G will enable USD$12.3 trillion of global economic output in 2035. ** (Reference: 3)
+S0035 What are the potential uses of 5G Whilst it is impossible to predict exactly where 5G will make the biggest impact, sectors across the whole of the economy are expected to make use of new 5G technologies and applications.
+S0036 There is widespread agreement that these could include transport and logistics; financial services; health and social care; retail; digital creativity and information services; and production, manufacturing and robotics.
+S0037 5G could also enhance everyday consumer experiences - for example, as a result of seamless connectivity and advances in Artificial Intelligence and both virtual and augmented reality applications.
+S0038 Within each sector, we expect to see a number of different ‘use cases’ emerge as well as applications and services that will sit alongside them.
+S0039 So, for example, the lower latency (i.e. quicker reaction times) expected to be a feature of 5G networks could make it possible to support the large-scale use of driverless vehicles for the first time.
+S0040 Even within one specific use case - such as a journey from A to B in a driverless car - there are many potential sub-use cases: vehicle to vehicle connections; connections between vehicles and street infrastructure for traffic management; and high speed connectivity to support in-car information and entertainment systems, to name just a few.
+S0041 Other possible use cases of 5G are many and varied.
+S0043 • industrial predictive maintenance: helping to reduce running costs by warning about imminent equipment malfunctions;
+S0044 • retail logistics: fleets of connected/driverless lorries and vans transporting goods across the UK;
+S0045 • smart cities: improving quality of life in urban environments through applications like traffic management, streetlight control, waste management, and smart grids;
+S0046 • agri-tech: increasingly precise and efficient farming to help meet the challenges of a successful agricultural sector; and • augmented or virtual reality: offering new ‘ultra-realistic’ applications in gaming or giving sports fans the opportunity to ‘play’ alongside their favourite athletes.
+S0047 5G could also support significant efficiencies in public service delivery.
+S0048 For example, 5G applications in the health sector, such as wearable sensors, could help to monitor people with health conditions, predicting if someone is likely to suffer a heart attack, or monitoring ill health in elderly people, helping to reduce pressures on primary care and A&E.
+S0049 In education, augmented and virtual reality applications supported by 5G may allow students to learn in completely new ways by making lessons more interactive.
+S0061 As a technology, 5G is still not fully developed, and the wide variety of potential future uses of 5G, as well as the level of integration that will be required between them, means that future networks and systems will be considerably more complex than they are now.
+S0062 And even though we are looking at ways to accelerate the deployment of 5G, the ambition for seamless connectivity should not be seen as something that will just happen automatically when 5G arrives - we need to ensure that we continue to improve mobile coverage and capacity for users now.
+S0072 Building the economic case Given the complexity of future 5G systems, it is not yet clear how and where 5G networks will be deployed.
+S0073 It is likely that their development will be part of a much wider ecosystem of wireless connectivity, building on investment in 4G networks and the ongoing development of fixed network infrastructure, with different upgrades required to deliver different use cases in different areas.
+S0074 In connectivity “hot-spots”, additional capacity will likely be provided by hundreds of thousands of small cell radios with short-range, high speed connectivity that support the existing network.
+S0075 5G networks will therefore require a step change in investment in digital communications infrastructure as well as the right skills to deliver its capabilities.
+S0080 However, the vast majority of the capital investment required for both full-fibre and 5G rollout will need to come from the private sector.
+S0081 Despite the potential for substantial returns, the business case for the investment required for the deployment of 5G is not yet established.
+S0082 5G is still a technology in development, and the market needs time to understand how to deploy infrastructure at commercial scale and invest in 5G applications and services profitably.
+S0083 Unlike previous generations of mobile telecommunications, it is possible, given the breadth of the potential 5G ecosystem, that the additional investment required in digital infrastructure will not come purely from established network operators.
+S0123 Fit for purpose regulations The speed of technological progress in the mobile market means that we need a flexible regulatory framework that keeps pace with developments.
+S0126 However, given the volume of infrastructure envisaged within 5G networks, there may still be a case for going further.
+S0129 Many of the potential use cases of 5G will also be subject to their own regulatory regimes (e.g. financial services) that could act as a barrier to their swift deployment.
+S0131 Local areas - governance and capability The Government agrees with the NIC that there will be a significant challenge both in finding suitable sites for 5G infrastructure, and ensuring that telecommunications networks meet local needs.
+S0143 However, the path to a 5G future is unlikely to replicate the linear progression from one mobile standard to the next that we have seen to date.
+S0145 However, the evolution towards 5G is likely to require greater alignment between wireless networks and fixed line networks.
+S0146 Providing the levels of connectivity and coverage required for 5G means having the best possible networks today.
+S0153 However, we note the difficulties of establishing metrics for 5G now, particularly when the technology is in development and individual services or applications may ultimately have different requirements.
+S0159 Ensuring a safe and secure deployment of 5G Given the technological advances that 5G will enable, and the wide-ranging impact that new 5G applications and services will have on modern life, it will be important to ensure that networks and services are deployed in a safe and secure manner and in a way that the public understands and accepts.
+S0163 Spectrum Like previous generations of mobile technologies, 5G deployment will rely on the availability of sufficient radio spectrum at the right frequencies.
+S0169 We expect that 5G will need a mix of low, medium and high frequency spectrum, some of which will be “new” spectrum and some will be “refarmed” spectrum (i.e. previously used by other services or even shared with existing services).
+S0170 The indications are that demand for additional spectrum for 5G will be high, and the Government welcomes Ofcom’s commitment “to ensure that 5G spectrum is made available in the most appropriate and timely way”. The Digital Economy Bill contains several measures to allow for increased flexibility within the spectrum regulatory regime, such as new powers to help Ofcom allow secondary use of licensed spectrum when it is unused by the existing user. ** (Reference: 8)
+S0180 It is written in the clear knowledge that 5G is still in an embryonic development stage and that there are many questions that cannot yet be answered.
+S0218 5G is not yet fully developed, with definitive standards only due to be agreed in 2019 and incremental deployment expected over the following decade.
+S0235 Although high frequency 5G spectrum offers significant potential benefits, it is only able to transmit data across very short distances compared to the frequencies that are currently used to deliver mobile services.
+S0236 So where high capacity and ultrafast capabilities are required - for example, on a busy commuter train - this will need to be supported by the deployment of many so-called ‘small cell’ radios as well as a dense fibre network to provide backhaul.
+S0237 To give a sense of scale, analysis for the NIC found that as many as 42,000 small cell sites could be needed to deliver the ultra-fast broadband speeds expected of future networks in an area the size of the City of London.
+S0238 By comparison, currently around 40,000 radio access points service the entire UK network.
+S0239 The successful and early deployment of full 5G networks will therefore require a step change in infrastructure investment.
+S0240 It will also need significant coordination and an evolution of regulatory frameworks.
+S0252 This means that there is unlikely to be a ‘big bang’ moment when we will be able to say that 5G networks have been ‘switched on’ - it will be an evolutionary process - and, as the NIC report notes, it means we need to continue to focus on ways of improving connectivity across the UK now.
+S0261 Although there is widespread agreement that 4G will not achieve its maximum potential for a number of years, and that there will be further 4G developments over the short to medium term, there is already significant attention on 5G.
+S0262 This is because the search for solutions to some of the 21st Century’s biggest technology challenges (connectivity, data capacity and the infrastructure required to realise revolutionary innovations such as driverless cars, for example) will increase the demands on mobile networks exponentially in the coming years, and beyond the capabilities envisaged from 4G.
+S0263 As an example, in its 2020 forecast, Cisco predicted that, globally, mobile data traffic will grow eight-fold from 2015 to 2020, a compound annual growth rate of 53%. ** (Reference: 17)
+S0264 As well as supporting ever greater flows of data, the advent of new systems and technologies such as the IoT and smart cities, means that there is a growing need for more flexible and multi- capable networks.
+S0265 Being at the forefront of the development and deployment of 5G networks will help the UK digital sector compete in global markets for a range of products and services; enhance UK capabilities at home and overseas, and help attract inward investment.
+S0274 17 http://www.cisco.com/c/dam/assets/sol/sp/vni/forecast_highlights_mobile/index.html#~Country Conversely, a significant lag in the development of new mobile capabilities would harm the UK’s prospects in all these areas.
+S0275 Internationally, our competitors are already making significant investments in new mobile technologies.
+S0276 The European Commission has also issued an ambitious strategy for European countries to develop 5G networks.
+S0278 While the Government is committed to ensuring that the UK seizes the opportunity to be a world leader in 5G, we are realistic that other countries may already have an inbuilt advantage in the development of some aspects of 5G (e.g. the development of 5G hardware).
+S0295 New 5G networks are likely to be much more complex than current systems.
+S0296 As Analysys Mason recently noted, “5G will take the business case for mobile infrastructure investment significantly beyond the scope of today’s consumer-driven mobile broadband services, towards support for a diverse range of use cases” across different sectors. ** (Reference: 19)
+S0297 This means that the success of the next generation will need to be underpinned by a vertical industry uptake of the technology as well as direct consumer services.
+S0333 The potential economic benefits of 5G Mobile connectivity allows business to be done on the move, enables access to information and services anywhere, and opens up new opportunities and markets.
+S0334 The mobile sector itself is a major contributor to the UK economy with retail revenues of over £15 billion in 2015, but it is also an enabler of economic activity in other sectors. ** (Reference: 21)
+S0335 The mobile industry group, the GSMA, estimates that a doubling of mobile data usage is associated with an increase in annual GDP per capita growth of 0.5 per cent. Simply as an incremental improvement on current mobile broadband networks, 5G could therefore deliver real economic benefit. ** (Reference: 22)
+S0336 However, the promised improvements in speed, reliability and latency mean that 5G has the potential to be an even greater transformative technology - enabling new markets to develop and reshaping others, as well as supporting research and development for economic and social benefit.
+S0337 5G’s full economic impact is difficult to predict at this early stage but there is emerging consensus that one of the main benefits will be in enabling new applications in a number of different sectors.
+S0338 For example, the GSMA estimates that the contribution of mobile to the global economy will be worth USD$3.9 trillion in 2020, of which over 75% will be benefits to the wider economy that are enabled by mobile. Other recent reports have illustrated the potential gains from 5G. In particular: ** (Reference: 23)
+S0339 • the FCCG’s report suggests that UK leadership in 5G could result in the opportunity to create £173 billion of incremental UK GDP growth over a ten year period from 2020 to 2030. • IHS Economics / IHS Technology estimated by modelling industry investment and impacts on total factor productivity from expected use cases that 5G will enable USD$12.3 trillion of global economic output in 2035. In addition, the public sector could be a key beneficiary of 5G applications through improved services and more productive ways of working. ** (Reference: 24,25)
+S0340 These estimates are by their nature speculative but give a sense of the potential growth and productivity benefits and opportunities that 5G can bring to the UK.
+S0342 Existing mobile phone masts and other base station sites will be adaptable for use with 5G, with different upgrades required to deliver use cases in different areas.
+S0343 But to deliver the high speed, high capacity capabilities of 5G will likely require hundreds of thousands of small cells to be deployed, alongside dense fibre networks or another form of backhaul.
+S0344 To give a sense of scale, analysis for the NIC found that as many as 42,000 small cell sites could be needed to deliver the ultra-fast broadband speeds expected of future networks in an area the size of the City of London.
+S0345 Therefore, if predictions are correct, small cell 5G deployment will require a step change in infrastructure investment.
+S0346 The overwhelming majority of this investment will need to come from the private sector.
+S0347 Existing mobile and fixed operators, alternative network and independent infrastructure providers and other communications service providers will have a critical role to play in the successful deployment of 5G networks.
+S0348 As such, the ability of the UK telecommunications market to scale large amounts of capital investment will affect the speed and potentially also the quality of 5G rollout.
+S0349 However, unlike previous generations of mobile telecommunications and, given the likely breadth of the 5G ecosystem, it is possible that the additional investment needed will not come purely from established network operators.
+S0350 Despite the potential for substantial returns, the business case for the initial investment required for 5G is not yet established.
+S0362 The infrastructure needed to deliver users’ needs will vary, with the market largely deciding which elements of 5G are needed in different places, based on where demand and potential applications provide added value and cost-effectiveness.
+S0363 It is possible that the more complex and expensive capabilities of 5G may only be cost- effectively deployed in a limited number of locations.
+S0365 Government action to encourage deployment of new fibre 5G will not purely be a single end-to-end network like earlier generations of mobile technology.
+S0366 It could lead to further convergence of existing mobile infrastructure and technology with fixed networks.
+S0367 It is possible that the evolution towards 5G means that wireless operators will need to be able to work ever more closely with fixed line providers.
+S0368 5G itself also potentially offers an alternative to fibre over the so-called “final mile”.
+S0369 It is clear that in any scenario, 5G will need large amounts of fibre connections for mobile backhaul.
+S0370 Although in more remote areas it is possible to use fixed wireless links for backhaul, the need to transport the higher rates of data possible over 5G will make access to fibre a vital element of 5G rollout, particularly for smaller, high-capacity cells.
+S0371 This will go hand-in-hand with the growth of full-fibre networks.
+S0372 The bulk of the investment required for both fibre and 5G roll-out will come from the private sector.
+S0378 The Government recognises that having access to fibre is a critical limiting factor in the deployment of 5G and will continue to drive the deployment of new fibre networks.
+S0386 Mobile networks have already seen consolidation through joint ventures between Vodafone and Telefonica (CTIL) and between EE and Three (MBNL).
+S0389 We recognise that regulatory and legal frameworks can impact the extent of infrastructure sharing.
+S0392 Commercialisation of 5G technologies As mentioned elsewhere in this document, 5G is an evolving technology and its development and deployment at a commercial scale is still some way off.
+S0431 Skills Delivering the necessary fibre, masts, small cells and network capabilities to ensure a seamless 5G experience around the UK will also require sufficient civil engineering capacity and technical skills in the supply chain.
+S0432 At present, the UK has a supply of specialist skills.
+S0433 The existing workforce that is delivering communications projects, such as extending 4G coverage or building new fibre networks, may be able to be refocused towards delivery of 5G.
+S0434 However, we are mindful that a lack of available workers to install the necessary infrastructure would delay deployment and full exploitation.
+S0441 5G is still an undefined technology.
+S0442 Industry has produced a very expansive 5G vision, and whilst the limits of that vision are a matter for industry, the speed of technological progress means that a flexible regulatory framework is needed to keep pace with developments and innovations.
+S0444 Planning regulations Planning regulations are a key factor influencing a network infrastructure provider’s ability to expand its network, as they govern where sites can be built and the physical appearance of the equipment that can be installed on such sites.
+S0445 As noted elsewhere in this document, the deployment of 5G will require a significant increase in the number of small radio cells - likely to be located on street furniture, the sides of buildings etc. - in order to facilitate the requirements of 5G networks.
+S0446 Therefore, flexible and fit for purpose planning regulations will be required to support the deployment of 5G networks.
+S0454 However, given the sheer scale of infrastructure envisaged within 5G networks, there may still be a case for going further.
+S0463 Some of these new applications will be created for use in regulated industries (e.g. financial services), and, as they develop, it will be important to ensure that the regulatory frameworks in which they operate do not inhibit their development unnecessarily.
+S0469 Providing suitable sites for infrastructure As the NIC noted, the significant volume of sites required in dense urban areas will require support from local government to ensure networks can expand to meet future requirements. ** (Reference: 27,28)
+S0470 The NIC also identified a need for MNOs to bring together their network expertise with that of local authorities, who best understand their area and can provide an accurate picture of its requirements. ** (Reference: 29)
+S0471 The Government agrees that there will be a significant challenge both in finding suitable sites for 5G infrastructure and ensuring that telecoms networks meet local needs.
+S0475 Research into a 5G mapping tool Mobile network planners need to take into account the location of things that are likely to weaken or block the signal from their masts - for example trees, buildings or lamp-posts.
+S0476 This is going to be particularly important for 5G, which uses high-frequency radio waves that do not travel as far as those used for 4G.
+S0480 The public sector will have a critical role to play in providing sites for 5G infrastructure.
+S0500 Current coverage levels Mobile coverage in the UK continues to increase.
+S0501 Ofcom’s latest coverage statistics indicate that 4G coverage is now available to 96% of UK premises and over 70% of UK landmass. This has been driven by the UK’s competitive mobile market as well as licence obligations on MNOs which require each operator to deliver voice and text coverage to 90% of the UK by the end of 2017, and requires O2 to deliver indoor 4G coverage to 98% of UK premises, also by the end of 2017. ** (Reference: 31)
+S0502 As a result of these obligations, by the end of 2017, 98% of the UK landmass and premises should have 4G coverage from at least one MNO.
+S0503 The evolution from 3G to 4G in the early part of this decade has brought forward applications that were unforeseen just ten years ago.
+S0504 These innovations have led to significant increases in data use that will only continue to grow and therefore place greater demands on network capacity.
+S0505 However, the path to a 5G future is unlikely to replicate the linear progression from one mobile standard to the next that we have seen to date.
+S0506 Rather, the evolution towards 5G is likely to require wireless networks to align ever more closely with fixed line networks.
+S0507 At the same time, 5G networks will work alongside and build on existing 4G networks, which will form the infrastructure spine for the next generation of mobile networks and support many of the things that we currently think of as 5G use cases.
+S0513 The NIC cites evidence suggesting that there is a gap between consumers’ experience of the mobile services that they receive and the coverage reported by operators and government.
+S0521 We note the difficulties of establishing metrics for 5G in the future, particularly when the technology is in development and each individual 5G service or application may have different requirements around latency and reliability as well as download speeds.
+S0523 For voice and data services, better metrics may be more achievable, but this depends not only on MNOs’ networks but also on the characteristics of the mobile phone or other device receiving the signal and its location.
+S0527 Spectrum is the lifeblood of digital communications and 5G will require spectrum at several different frequencies.
+S0528 MNOs currently hold spectrum licences to operate mainly in the 800MHz, 900MHz, 1400 MHz, 1800MHz, 2100MHz and 2600MHz bands; and in the past, obligations to provide a certain level of geographical coverage have been placed in new spectrum licences.
+S0529 Spectrum is finite - you cannot make more of it - so it has the potential to become congested.
+S0530 It therefore becomes increasingly important to use it as efficiently and effectively as possible.
+S0531 Like previous generations of mobile technology 5G will rely on having available sufficient radio spectrum of the ‘right kind’.
+S0534 Geographic coverage of 5G 5G will deliver flexible networks by making use of multiple spectrum bands.
+S0535 This will include the highest frequency spectrum, which offers huge potential connectivity benefits, but is only able to transmit data across very short distances compared to the frequencies that are currently used to deliver mobile services.
+S0536 Therefore, its deployment is likely to be restricted to connectivity ‘hot spots’ and will be supported by the building of many so-called ‘small cell’ radios as well as a dense fibre network.
+S0537 There will, however, be other aspects of 5G technologies that are suitable to be deployed more widely.
+S0539 If 5G is to live up to the vision of providing users with apparently seamless and limitless capacity then it will require a ‘layer’ with good geographical coverage but relatively limited capacity.
+S0540 As noted below, different spectrum bands are useful for different purposes, with lower frequency bands such as 700 MHz being suitable for providing coverage over a wide geographical area.
+S0541 ‘Capacity’ spectrum at 3. GHz, for example, has a much shorter range but can support faster data transfers than 700 MHz, while millimetre-wave spectrum 5G cells operating at or above 24 GHz are even shorter-ranged and faster. ** (Reference: 4)
+S0542 In the past, obligations to provide a certain level of geographical coverage have been placed in new spectrum licences.
+S0543 As Ofcom has previously noted, for ‘intermediate’ bands such as 3. GHz spectrum, a simple geographic coverage target is unlikely to be appropriate. Consideration could be given to more targeted coverage, either regional or covering a particular type of area, to improve areas perceived as weaker in overall coverage such as specific roads or rail routes. ** (Reference: 4,32)
+S0544 For the highest frequencies (24+ GHz) there may be a need to coordinate use to avoid interference, but the Government agrees with the NIC’s view that extensive coverage obligations are unlikely to be appropriate.
+S0545 The key factor driving coverage is more likely to be the overall commercial viability of deployment and operation for the network provider and permission from the owner of the building or other infrastructure to install equipment.
+S0546 Since licences for mobile broadband are valid indefinitely, subject to a five-year notice period, new coverage requirements in practice need to be agreed by mobile operators, as happened in 2015 for example.
+S0552 Coverage on road and rail Connectivity on the UK’s road and railways has improved over time, but it is clear that there is considerable room for further improvement.
+S0553 As well as being an issue to address now, improving coverage on our main transport routes will also be desirable for 5G.
+S0554 However, the required infrastructure will not come cheaply and deploying it will present some practical challenges.
+S0555 With regard to the UK’s motorways and other major roads, the NIC notes the importance of meeting both the long-term operational needs of connected vehicles and the connectivity needs of passengers, and of ensuring that best use is made of existing infrastructure, such as masts, poles, ducts, power supplies and the roadside fibre network.
+S0567 The Government accepts that there is further to go to have world-class connectivity on the rail network.
+S0577 Other recent reports have highlighted similar issues with coverage on road and rail.
+S0579 • Analysys Mason highlighted the challenging economics of ensuring coverage on road and rail, and recommended “allowing network sharing and pre-installing 5G (i.e. making cabinet, power and fibre available)” to improve coverage; • in their work for the NIC, LS Telecom indicated that there was spare fibre capacity and duct space that could be readily used by third party operators to provide better wireless coverage and to deliver high speed connectivity to vehicles enabling numerous transport-related applications; • ** (Reference: 33,34)
+S0580 LS Telecom also suggested that deployment of a new wireless network on railways would be costly and time consuming, given the access limitations.
+S0581 Any new infrastructure should therefore be pre-equipped with the necessary capabilities to support the new mobile technologies that are being developed; and • Real Wireless suggested an analysis of the benefits and challenges in deploying cell sites along the rail and road corridors using land owned by the rail and road operators to highlight the opportunities of deploying shared infrastructure where rail and road networks run close to each other.
+S0586 Developing fit for purpose 5G security systems Given the technological advances that 5G will enable, the increased data flow, and the wide- ranging impact that new 5G applications and services will have on modern life, it will be important to ensure that 5G networks and services are deployed in both a safe and secure manner and in a way that the public understands and accepts.
+S0588 Robust and fit for purpose security architecture needs to be at the centre of 5G development to ensure privacy and customer security.
+S0589 Customers will not adopt 5G-enabled services if they do not have confidence that their information will be handled securely and if adequate privacy protocols are not in place.
+S0593 We recognise that the public is, as yet, largely unaware of 5G and the potential benefits that it will bring.
+S0611 These policies are complemented by Ofcom’s Spectrum Management Strategy which sets out the measures it plans to take, again with a major focus on 5G mobile. Ofcom’s strategy is also expanded into specific strategies for areas such as space and mobile data. Ofcom has recently published an update on spectrum for 5G. 5G spectrum needs Indications are that demand for additional spectrum for 5G, on top of existing allocations to mobile, will be high. ** (Reference: 37,40,3839)
+S0613 It is not just about releasing new spectrum but also about refarming and repurposing existing spectrum to provide the wide range of frequencies to which 5G will need access.
+S0615 Modern mobile networks need a variety of spectrum with different frequencies providing different key components.
+S0616 Low frequency spectrum tends to offer better coverage, travelling distances and giving in building coverage, at the expense of data rates (i.e. speed).
+S0617 High frequency spectrum offers shorter coverage distances but substantially higher data rates.
+S0618 We expect that 5G will need a mix of low, medium and high frequency spectrum, some of which will be ‘new’ spectrum and some will be ‘refarmed’ spectrum, previously used by other services or even shared with existing services.
+S0621 These, and other spectrum sharing solutions, have the potential to play a greater part in improving the availability and quality of mobile services.
+S0627 5G candidate bands Spectrum use is international; frequencies available in the UK only would be expensive to use without the economies of scale for network equipment and device manufacturers that come from harmonised bands.
+S0630 Given this background, and in the light of Ofcom’s recent update on spectrum for 5G, we expect the spectrum bands that become available and suitable for 5G will include (but will not be limited to):
+S0631 • 700 MHz - (spectrum from 694 MHz to 790 MHz that has previously been used for broadcast television and other services which are being relocated).
+S0632 This band is ideal for coverage and for control frequencies for a future 5G network.
+S0633 This band is being cleared across Europe.
+S0634 The Government is investing up to £600 million in making the band available in the UK, and Ofcom expects to auction it in 2018/19. • 3. GHz - (150 MHz of spectrum within the band from 3. GHz to 3. GHz, which is a band suitable for higher capacity than 700 MHz). ** (Reference: 4,6,42)
+S0635 This band is expected to be auctioned by Ofcom during 2017.
+S0636 • 3. GHz - 3. GHz - within Europe the whole of 3.4-3. GHz is being considered as a 5G band. ** (Reference: 6,8)
+S0637 In the UK, 3605-3689 MHz is assigned to electronic communications services and currently licensed to UK Broadband.
+S0638 Ofcom has consulted on making the remaining 116 MHz available for mobile services, and intends to issue a further publication in the first half of 2017.
+S0639 • 24. GHz - 27. GHz - this band is being looked at across Europe for future 5G use as a harmonised band. ** (Reference: 5,25)
+S0640 Using it would require moving or co-existence with other public sector users in 26.5-27. GHz. ** (Reference: 5)
+S0641 Ofcom intends to consult in the first half of 2017 on proposals to make all or part of the band available for 5G.
+S0642 • other candidate bands above 30 GHz.
+S0643 Ofcom particularly notes the potential of 32 GHz, 40 GHz and 66 GHz bands, although it sees the first two as longer-term prospects.
+S0648 Spectrum in 3.8-4. GHz spectrum is currently used for fixed satellite services. ** (Reference: 2)
+S0649 The opportunity for 5G to share spectrum within 3.8-4. GHz would need to be considered by both the Public Sector Spectrum Release Programme that manages government spectrum sharing and the current users of that band. ** (Reference: 2)
+S0655 Refarming Another significant opportunity for 5G spectrum will come from so-called ‘refarming’ of existing spectrum already in the hands of mobile network operators.
+S0656 Licences issued by Ofcom are generally service and technology-neutral.
+S0657 That means that an operator could move one service out of a given band and deploy a different service as long as the overall emissions from the band fall within defined limits.
+S0658 It is likely that some of the spectrum that ultimately gets used for 5G will come from such refarming.
+S0659 Unlicensed Spectrum Not all spectrum use is licenced.
+S0660 Unlicensed use is very important to the economy, not least through the value derived from Wi-Fi use in both 2. GHz and 5.0 GHz bands. ** (Reference: 4)
+S0661 One potential pitfall for unlicensed use is that it comes without any protection from interference.
+S0662 Licensed spectrum will therefore still be needed to deliver reliable, high quality and wide coverage networks, but it is possible that 5G will be able to make use of a combination of licensed and unlicensed spectrum to deliver higher capacity in some circumstances.
+S0664 Ofcom has been looking at extending Wi-Fi use from the 5.0 GHz band into adjacent bands.
+S0665 Similar issues apply to the radio networks likely to be used for the IoT. IoT communications can be carried over cellular networks using technologies such as NB-IoT (the NB stands for Narrow Band).
+S0666 But similar low power wide-area (radio) networks (LPWAN) can also operate in licence-exempt spectrum.
+S0667 5G networks therefore may or may not be used for a particular IoT application - there is a choice of competing technologies.
+S0668 Spectrum Release Since 2010, government has been running the Public Sector Spectrum Release (PSSR) Programme to release spectrum from public sector use to private sector use and enable new services and new uses to benefit the UK economy.
+S0669 The April 2016 update from the UK Government Investments team managing the programme, the Central Management Unit (CMU), highlights that 384 MHz has been released from public sector use since 2010 and sets out from where future releases are likely to come. The initial target was to release 500 MHz of spectrum below 5 GHz by 2020. ** (Reference: 45)
+S0670 This target was recently extended to a total of 750 MHz below 10 GHz by 2020, with 500 MHz of that being by 2020.
+S0671 This revision of the target recognised the increasing value of spectrum in the 5-10 GHz range.
+S0672 Spectrum above 10 GHz may well also be valuable for future 5G use.
+S0674 The forthcoming new Emergency Services Network is an example of where government is now using private sector networks, operating an additional service within their spectrum, to avoid the need for dedicated spectrum that might not be the most efficient use.
+S0680 Standards for 5G A technical standard is fundamentally an agreement between parties developing a technology to do things in a particular way.
+S0681 Standards development is a business-led activity, drawing on ideas from academic research and commercial research and development.
+S0682 In Information and Communication Technology (ICT), standards are essential commercial tools, without which there would be a proliferation of incompatible technologies.
+S0683 For 5G a lack of widely agreed standardisation could mean phones that do not work on all networks or in all countries - as was the case 25 years ago - or base stations that do not meet regulators’ criteria.
+S0684 Government and regulators are often involved in standards development, partly to contribute relevant knowledge but mainly to ensure that wider societal needs are addressed by standards.
+S0685 These may, for example, include: security, spectrum protection, safety, interoperability, accessibility, environmental performance, and provision for government needs in products.
+S0686 Establishing 5G standards will mainly follow the process that set standards for 2G, 3G, and 4G. They are being developed by a group of pan-regional standards bodies through the 3G Partnership Project (3GPP).
+S0687 The European Telecommunications Standards Institute (ETSI), the regional standards body for Europe, hosts the staff who work for 3GPP.
+S0688 Once developed, the standards will be issued by ETSI and its regional partners across the world.
+S0689 3GPP will follow two parallel strands of work on 5G: one to allow the use of existing 4G equipment (an evolutionary path), the other (longer-term) building on 4G standards initially but working towards an almost total replacement of them by new 5G standards.
+S0690 Mobile phone standards sit within a global regulatory regime administered by the International Telecommunications Union (ITU – a United Nations specialised agency).
+S0691 These are supplemented by national and regional requirements as appropriate.
+S0692 The ITU’s International Mobile Telecommunications 2020 work (IMT 2020) draws together discussion and study of the developing 5G standards.
+S0693 This will provide increasing clarity around the likely shape of 5G standards until it sets out the final definition for IMT - the formal 5G standard.
+S0694 3GPP plans for two releases of 5G standards in 2018 (Release 15, largely an evolution of 4G) which will allow early adopters of 5G to have an agreed baseline and in 2020 (Release 16) a more comprehensive set of standards.
+S0695 Standards for 5G will include a concept called New Radio (NR) that will describe a completely different radio system from 4G. NR will be better able to support massive data and low speed data, and be more spectrum efficient.
+S0696 The initial standards release in mid-2018 will cover an evolution of the 4G core network, which provides interconnection between all the base stations and control of the overall network and users.
+S0697 Further developments for the core network are expected to be based heavily on Software Defined Networks (SDN), where software controls elements of network function that were previously ‘baked into’ the hardware and could not be changed.
+S0698 SDN will allow core networks to be readily built on general purpose computing systems and use cloud computing.
+S0699 The recently developed Network Function Virtualisation (NFV) standards will be the implementation of SDN used as the starting point for new 5G core network standards.
+S0700 Greater use of SDN may lead to new combinations of manufacturers and providers in the market.
+S0701 Such standards work also has security implications.
+S0703 Key issues to consider The ongoing 3GPP standards work is likely to be influenced by two issues in particular: the need to work well with both internet standards and the standards set by particular use cases or verticals.
+S0704 The first is perhaps obvious, given the growing significance of mobile phones in internet access, but the second will equally be important in getting the full benefits of 5G.
+S0705 The full significance of these drivers will ultimately depend on the market for 5G services.
+S0706 People will expect what is delivered over fixed broadband also to be available via 5G connectivity.
+S0707 The growing importance of internet data in mobile communications has to some extent been reflected in current 3GPP standards, but many devices also incorporate features based on non-3GPP standards, such as Wi-Fi in mobile phones.
+S0708 These wider ICT technologies will need to work in an integrated way with the 5G environment – whether or not they are formally part of 5G.
+S0709 5G devices will incorporate not only internet and web standards from Internet Engineering Task Force and W3C but also others (particularly from verticals) that overlap with 5G or add additional linked features.
+S0710 These complex interoperability requirements will be defined over time by the market, but meeting them will require a new level of sophistication in the relationship between standards.
+S0711 Potential use cases of 5G in sectors such as health or transport have well established standards and ways of working and standards used in these environments will need to integrate with 5G standards.
+S0712 Therefore, a high level of collaboration will be needed between vertical sectors’ standards bodies and the ICT standards bodies responsible for the central core of 5G standards.
+S0713 Timely development of appropriate standards should help to tackle any security or spectrum use problems before 5G devices come to market, and therefore put supported verticals on a firm footing.
+S0714 This will support the early success and long-term value of 5G networks.
+S0715 We expect a limited range of standards to receive initial focus; providers will roll-out a set of features that are cost effective for them and attractive to users.
+S0716 Enhanced broadband is likely to be the early driver, using lower frequencies for good coverall coverage.
+S0717 Other features such as low latency are more difficult to deliver and so standards work on these aspects will have less priority as well as slower provision of equipment.
+S0720 Intellectual property rights and standards Intellectual Property Rights (IPR), particularly patents and copyright, are particularly important in the ICT standards community.
+S0721 Standards-essential IPR in telecommunications area tends to be freely licensable for a fixed fee, on terms that are meant to be fair, reasonable and non-discriminatory (FRAND).
+S0722 Standards that are software or IT centric tend to include IPR on a royalty free (RF) basis (i.e. the IPR is made available gratis), or do not allow IPR at all.
+S0723 There is a changing economic model around IPR.
+S0724 As ICT becomes more software based, we see increasing use of the RF model in technologies that were previously considered as telecommunications.
+S0725 The use of intellectual property in standards can be difficult, not least for the generator of IPR – noticeably for SMEs and academics.
+S0726 Where IPR is licensed on a FRAND basis then using it on equitable terms can be difficult, especially for SME users.
+S0727 Patent pools and patent portfolios, where patent rights are brought together and there is some level of agreement around charging, can be helpful tools in easing the process of using intellectual property.
+S0729 SMEs have different involvements in standards work.
+S0730 Some are actively involved because their business is generating ideas and getting them used.
+S0731 Many just want standards they can use easily.
+S0732 Others find it a difficult area to access and influence.
+S0736 RF and payment agreements will both have a part to play in licensing 5G patents (so-called Standards Essential Patents).
+S0748 We have had a number of representations suggesting the potential for net neutrality regulation to interact with the technical characteristics of 5G services, including network slicing.
+S0772 The Government recognises that having access to fibre is a critical limiting factor in the deployment of 5G and will continue to drive the deployment of new fibre networks.
+S0941 This will be particularly important for areas of the country where competition driven markets have struggled to provide the necessary mobile infrastructure.
+S0942 The Government agrees with the NIC that infrastructure sharing, in compliance with competition rules, can be an effective and economically efficient way of delivering telecommunications infrastructure, especially in areas where it is uneconomic to deploy competing infrastructure networks.
+S0944 Mobile networks have already seen consolidation through joint ventures between Vodafone and Telefonica (CTIL) and between EE and Three (MBNL).
+S0945 Independent infrastructure providers that lease capacity on masts to several network operators provide a similar benefit.

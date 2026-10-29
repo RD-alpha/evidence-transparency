@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Aims and Purpose of Modern Language Study",
+      "reason": "Sets out the overarching objectives all specifications must meet, providing the rationale for what standardized content aims to achieve, but it is a foundational statement rather than the mechanism of standardization itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Curriculum Content, Themes and Language Skills Development",
+      "reason": "This theme lays out the concrete, mandatory structure (themes, skills, integration of language and culture) that all AS/A level specifications must follow, forming the backbone of how standardization is actually implemented across awarding organisations.",
+      "weight": "core"
+    },
+    {
+      "theme": "Literary and Film Study Requirements",
+      "reason": "Specifies a particular component (works to be studied) that elaborates the curriculum but is a subsidiary detail rather than the central mechanism driving standardization.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Research Skills Requirement",
+      "reason": "Adds an additional A-level-only requirement that supplements the curriculum but is not essential to the core case for how standardization is delivered.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Language-Specific Assessment Variations (Chinese)",
+      "reason": "Describes an exception/adaptation for one language, illustrating flexibility in implementation but not a load-bearing part of the general standardization argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Grammar and Structural Requirements",
+      "reason": "Provides the extremely detailed, language-specific grammar lists that operationalize standardization at the most granular level, demonstrating the actual mechanism by which uniform content requirements are enforced across French, German and Spanish (and by extension other languages).",
+      "weight": "core"
+    }
+  ]
+}

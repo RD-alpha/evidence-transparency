@@ -1,0 +1,149 @@
+{
+  "themes": [
+    {
+      "name": "High and opaque tenant fees",
+      "ids": [
+        "S0012",
+        "S0013",
+        "S0014",
+        "S0015",
+        "S0016",
+        "S0130",
+        "S0131",
+        "S0136",
+        "S0138",
+        "S0139",
+        "S0142",
+        "S0143",
+        "S0150",
+        "S0151",
+        "S0152",
+        "S0153",
+        "S0154",
+        "S0155",
+        "S0157",
+        "S0158",
+        "S0159",
+        "S0160",
+        "S0161",
+        "S0162",
+        "S0163",
+        "S0164",
+        "S0165",
+        "S0167",
+        "S0168",
+        "S0169",
+        "S0189",
+        "S0190",
+        "S0193",
+        "S0194",
+        "S0195",
+        "S0196",
+        "S0197",
+        "S0199",
+        "S0205"
+      ]
+    },
+    {
+      "name": "Market failure from misaligned incentives",
+      "ids": [
+        "S0201",
+        "S0202",
+        "S0222",
+        "S0223",
+        "S0224",
+        "S0226",
+        "S0227",
+        "S0228",
+        "S0230",
+        "S0231",
+        "S0232",
+        "S0233",
+        "S0235",
+        "S0236",
+        "S0238"
+      ]
+    },
+    {
+      "name": "Existing transparency regulation has not worked",
+      "ids": [
+        "S0204",
+        "S0212",
+        "S0213",
+        "S0214",
+        "S0216",
+        "S0217",
+        "S0218",
+        "S0220"
+      ]
+    },
+    {
+      "name": "Financial harm and barriers to mobility",
+      "ids": [
+        "S0265",
+        "S0266",
+        "S0267",
+        "S0268",
+        "S0271",
+        "S0272",
+        "S0273",
+        "S0274",
+        "S0276",
+        "S0277"
+      ]
+    },
+    {
+      "name": "Deposit and advance rent requirements",
+      "ids": [
+        "S0134",
+        "S0135",
+        "S0145",
+        "S0146",
+        "S0147",
+        "S0148"
+      ]
+    },
+    {
+      "name": "Sector scale and structure",
+      "ids": [
+        "S0005",
+        "S0006",
+        "S0007",
+        "S0170"
+      ]
+    },
+    {
+      "name": "Landlord fees and practices",
+      "ids": [
+        "S0173",
+        "S0174",
+        "S0175",
+        "S0177",
+        "S0178",
+        "S0180",
+        "S0181",
+        "S0182",
+        "S0184",
+        "S0185",
+        "S0186"
+      ]
+    },
+    {
+      "name": "Agent conduct and conflicts of interest",
+      "ids": [
+        "S0207",
+        "S0208",
+        "S0209",
+        "S0210"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": [
+        "S0317",
+        "S0320",
+        "S0525"
+      ]
+    }
+  ]
+}

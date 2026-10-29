@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Delivery through the Student Loans Company with regulatory compliance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Section 22 Teaching and Higher Education Act 1998 and Sale of Student Loans Act 2008 provisions are named and explained as the basis for the exemption, but no reference number or link is attached to these legal citations."
+    },
+    {
+      "theme": "Choice between a demand-led model and a capped institutional allocation model",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The HEFCE RDP funding metric and 300-place cap are described as design options with no evidence offered for why either the demand-led or capped model would work better or be preferred."
+    },
+    {
+      "theme": "Rollout timing and phased decision-making",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 2018/19 start date and deferral of eligibility details are asserted as pending decisions 'on the grounds of affordability, feasibility and value for money' with no data, modelling or analysis shown to support that timing."
+    },
+    {
+      "theme": "Integrated repayment administration alongside other loans",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The combined 6% repayment design is described and employer views are sought, but no evidence is given for why this repayment structure was chosen or how it will affect employers or borrowers."
+    },
+    {
+      "theme": "Consultation informing policy design",
+      "primary_evidence": true,
+      "score": 0,
+      "justification": "The extract repeatedly states responses 'will inform' design decisions but gives no detail of who was consulted, how many responded, or what was asked."
+    },
+    {
+      "theme": "Loan terms and amount",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The \u00a325,000 cap and tranche structure are stated with no supporting evidence or rationale given."
+    },
+    {
+      "theme": "Alternative Islamic finance product",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Ongoing work on an alternative finance product is mentioned with no evidence of progress, feasibility or demand."
+    },
+    {
+      "theme": "Nature of doctoral study",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "These lines describe the viva and thesis process descriptively, with no evidence used to support any claim."
+    }
+  ],
+  "reasoning": "The four core themes score unevenly low. The SLC delivery theme reaches level 1: Section 22 of the Teaching and Higher Education Act 1998 and the Sale of Student Loans Act 2008 are named and explained as reasons the loan is structured to be exempt from consumer credit regulation, but neither carries a reference or link, so it cannot reach level 2. The demand-led vs capped allocation theme merely describes the two options (including the HEFCE RDP metric and a possible 300-place cap) without any evidence for why either should be chosen, scoring 0. The rollout timing theme states the 2018/19 start and deferred eligibility details are 'pending a final policy decision... on the grounds of affordability, feasibility and value for money' but shows no analysis behind that judgement, scoring 0. The repayment administration theme describes the combined postgraduate repayment mechanism and says the department 'would welcome views from employers' but provides no evidence for the design choice itself, scoring 0. The strongest counter-example to raising the score is the legal citations in the SLC theme, which do explain a real constraint, but even this stops short of proper citation. Mean of (1,0,0,0)/4 = 0.25, rounding to 0. To reach level 1 overall, the other three core themes would need at least some explained evidence (e.g. modelling of take-up under each allocation model, or data behind the 2018/19 timetable); to reach level 2 the legal citations and any such evidence would need proper references or links.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.25,
+  "score_consistent": true,
+  "missing_core": []
+}

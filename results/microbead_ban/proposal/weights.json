@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Ban on microbeads in cosmetics and personal care products",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Voluntary industry action as insufficient basis",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "International alignment and precedent",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Limited impact but symbolic/precautionary value",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Related environmental and policy context",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

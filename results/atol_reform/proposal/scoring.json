@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Retain and amend ATOL (preferred option 2)",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The rejection of Option 3 rests on uncited discussions and workshops with finance, insurance and travel stakeholders (\"Discussions with the finance and insurance sectors have led us to conclude...\", \"explored through workshops\"), with no numbers, participants or method given, and the legal-challenge risk for Option 1 is asserted without a cited provision."
+    },
+    {
+      "theme": "Alignment of ATOL scope with PTD 2015",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Directive definitions (refs 6, 7) are cited and the 2011 consultation support for agent-for-consumer is mentioned, but the CAA survey (ref 22) and figures (refs 35, 36 undefined) are only partly traceable, and the 0.4% click-through figure (ref 25) is a definition, so the extent of cited and linked evidence is thin."
+    },
+    {
+      "theme": "Linked travel arrangements and information provisions",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The CAA survey (ref 26) and 2014 Business Engagement Assessment support some cost figures, but the LTA market-solution leaning rests on unevidenced reasoning (\"it is not believed to be a particularly common sales model\"), and the wage and time assumptions (refs 29, 37) are loosely sourced."
+    },
+    {
+      "theme": "Costs and benefits of the proposals",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The cost-benefit table gives worked derivations with stated assumptions (80,000 B2B trips, \u00a3302 average claim, 3,450 licensed businesses, \u00a31,200 website cost) and some cited sources (refs 20, 21, 32, 33), and acknowledges risk of firms 'playing the system' and unknown scale, though several references are undefined and the NPV of -\u00a38.45m is not decomposed."
+    },
+    {
+      "theme": "Longer-term ATOL reform direction",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The reform options (risk-based levy, market involvement, flight-only treatment) are set out with a statement that 'a lack of financial information has precluded us from a detailed analysis', and the 2013 call for evidence and 2014 response (ref 8) are named, but no findings from them are given."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The family test and equalities statements are asserted with no evidence."
+    }
+  ],
+  "reasoning": "Four core themes were weighed (the fifth, \"Longer-term ATOL reform direction\", is also core): Retain and amend ATOL scored 1, Alignment of scope scored 1, LTAs and information provisions scored 1, Costs and benefits scored 2, and Longer-term reform scored 1. The mean is 6/5 = 1.2, which rounds to 1. The strongest evidence for the choice is the dismissal of the market option: \"Discussions with the finance and insurance sectors have led us to conclude that it would not be feasible to transition to a market approach by 2018\" and \"Option 3 has been explored through workshops\". This is primary evidence, but the document does not say who took part, how many, or what they were asked, so it stays at level 1. The legal-risk case against doing nothing (\"potential for legal challenge and financial cost\") is asserted without citing a provision. Scope changes cite Directive definitions (refs 6, 7), but these describe the rules rather than justify the chosen response. The impact assessment is the best part: it shows its working (80,000 B2B trips, \u00a3302 average claim, \u00a31,200 per website, 2,200 entities) and admits uncertainty over firms relocating, with a CAA survey (ref 22) and the 2014 Business Engagement Assessment behind some inputs. The strongest counter-example is that theme, which reaches level 2. Even there, refs 35 and 36 are undefined and the -\u00a38.45m figure is not reconciled with the component totals. To reach level 2 overall, the document would need to report the stakeholder consultation method and results, cite the legal basis for the do-nothing risk, and link the evidence to each measure.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.2,
+  "score_consistent": true,
+  "missing_core": []
+}

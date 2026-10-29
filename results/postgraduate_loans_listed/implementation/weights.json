@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Delivery through the Student Loans Company with regulatory compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Choice between a demand-led model and a capped institutional allocation model",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Rollout timing and phased decision-making",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Integrated repayment administration alongside other loans",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation informing policy design",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Loan terms and amount",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Alternative Islamic finance product",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Nature of doctoral study",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

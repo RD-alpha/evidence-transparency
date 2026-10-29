@@ -1,0 +1,82 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Outdated, Burdensome Regulatory Framework",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim that local requirements are complex and burdensome is backed by Ofcom's own localness guidance (Reference 23/24, quantifying 7-10 hour local content requirements) and the Myers review's finding on fixed costs (Reference 25), both linked directly to the burden claim, but no weaknesses or counter-evidence are assessed."
+    },
+    {
+      "theme": "Digital Disruption and Changing Listener Behaviour",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Reference 15 (Ofcom Communications Market 2016) gives specific, linked figures (14.5 vs 21.4 hours, five hours less than 2005) supporting the youth-drift claim, though the RAJAR '4.9%/70%' statistic is named but uncited, and no assessment of the evidence's limits is offered."
+    },
+    {
+      "theme": "Enduring Public Value of Commercial Radio, Especially Local News",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Multiple properly cited sources (References 1, 2, 3, 11, 12, 13, 21) give specific, linked figures (51% vs 17% reach, 45%/35%/20% value splits) directly supporting the public-value claim, but the document does not critically assess the research's reliability or limitations."
+    },
+    {
+      "theme": "Choice-Securing Duty No Longer Necessary",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim rests on the uncited assertion that '300 licensed stations' and digital growth have 'revolutionised listening', offered as grounds but without a reference or link to a source."
+    },
+    {
+      "theme": "Digital Radio Development and Market Transition",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Figures such as 45.5% digital share and national multiplex details are cited (References 4, 7, 8, 16, 17) and linked to specific claims about market transition, though without assessment of uncertainty."
+    },
+    {
+      "theme": "Commercial Radio Consolidation and Industry Structure",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims about Global/Bauer's market share and the shift to national listening are asserted with no citation at all."
+    },
+    {
+      "theme": "Historical Development and Regulatory Evolution",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Historical narrative is detailed but only Reference 6 (Myers review) is cited, with most factual claims (e.g. 49 stations by 1987, 17% revenue fall 2007-09) left unsourced."
+    },
+    {
+      "theme": "Multiplex Licensing and Technical Regulation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims about multiplex variation rules and RTE impact are described via legislation (s.54(6A) BA1996) used only to explain current rules, with no outside evidence of effect or scale."
+    },
+    {
+      "theme": "News and Public Service Content Requirements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Figures on numbers of DAB-only stations are stated with no citation or source."
+    },
+    {
+      "theme": "Community Radio",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim of '244 community radio services' and sector growth is asserted without any citation."
+    },
+    {
+      "theme": "Licence Renewal and Switchover Arrangements",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Reference 27 and 28 are named with some explanation (e.g. only 4 incumbents losing relicensing) but the links between figures and the switchover claim are only partially drawn out."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Reference 20 (Ofcom's 2015 format review) gives a specific, linked figure (77% of stations with 'mainstream popular music' obligation) directly supporting the claim about format prescriptiveness."
+    }
+  ],
+  "reasoning": "The diagnosis of an outdated commercial radio framework draws on real but unevenly sourced evidence. The core theme on burdensome regulation cites Ofcom's localness guidance (Reference 23/24) and the Myers review's point on fixed costs (Reference 25) to support its complexity claim, reaching level 2. The digital disruption theme is anchored by Ofcom's Communications Market 2016 data (Reference 15: 14.5 vs 21.4 average listening hours), also level 2, though the RAJAR '4.9%/70%' figure is left uncited. The public-value theme is the best evidenced, citing Oxford Economics, RAJAR MIDAS, and Kantar/Ofcom research (References 1-3, 11-13, 21) with clear figures like '51% vs 17%' local news reach, reaching level 2. The choice-securing-duty theme, by contrast, rests on the bare assertion that '300 licensed stations' have 'revolutionised listening' with no citation, reaching only level 1. None of the four themes shows the document itself critically assessing the strength, representativeness or limitations of its evidence, which would be needed for level 3 \u2014 for instance, no discussion of whether RAJAR or Kantar samples are robust. Averaging levels 2, 2, 2 and 1 gives a mean of 1.75, rounding to 2. To reach level 3, the document would need to acknowledge uncertainties or contradictions in this evidence base, and to reach a higher level on Theme 4 it would need a cited source for the '300 stations' claim.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

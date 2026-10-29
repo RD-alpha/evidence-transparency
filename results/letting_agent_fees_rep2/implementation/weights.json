@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Local authority enforcement via Trading Standards",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Additional enforcement infrastructure",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant empowerment and education",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Penalties for non-compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Holding deposits and alternative tenant protections",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Permitted charges for tenant-initiated services",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Premium market services and bespoke offerings",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Complementary legislation and implementation",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

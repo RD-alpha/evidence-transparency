@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Background and Case for Regulatory Reform",
+      "reason": "Sets up the historical context (1988, Red Tape Challenge) and identifies the two core issues - FR chemical use and testing weaknesses - that the whole diagnosis is built on; without this framing the rest of the argument loses its anchor.",
+      "weight": "core"
+    },
+    {
+      "theme": "Safety Benefits and Effectiveness of Fire Safety Regulations",
+      "reason": "Establishes that current regulations work and save lives, which is necessary context showing the problem is about unintended harms of compliance methods, not regulation failure itself, but it is supporting background rather than the diagnosis of why change is needed.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Health and Environmental Harms of Flame Retardant Chemicals",
+      "reason": "Provides the detailed causal link between testing-driven chemical use and health/environmental harm, which is the central 'why this is a problem' evidence for the diagnosis; removing it would eliminate the harm case entirely.",
+      "weight": "core"
+    },
+    {
+      "theme": "Weaknesses in Testing Regime and Match Test Design",
+      "reason": "Explains precisely how the outdated match test causes excessive/unnecessary chemical use by failing to reflect modern furniture construction, directly supporting the stated problem of outdated testing driving chemical use.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope and Traceability of Regulations",
+      "reason": "Discusses ambiguities in scope and lack of traceability, which are separate procedural/administrative issues not central to the stated problem of testing driving chemical use.",
+      "weight": "not core"
+    }
+  ]
+}

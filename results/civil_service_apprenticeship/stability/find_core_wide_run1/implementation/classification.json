@@ -1,0 +1,113 @@
+{
+  "themes": [
+    {
+      "name": "Three delivery routes for creating apprenticeships",
+      "ids": [
+        "S0060",
+        "S0061",
+        "S0062",
+        "S0063",
+        "S0064",
+        "S0065",
+        "S0066"
+      ]
+    },
+    {
+      "name": "Governance and departmental accountability",
+      "ids": [
+        "S0081",
+        "S0082",
+        "S0083",
+        "S0084",
+        "S0085",
+        "S0118",
+        "S0159"
+      ]
+    },
+    {
+      "name": "Reform of recruitment, pay and selection practices",
+      "ids": [
+        "S0067",
+        "S0068",
+        "S0069",
+        "S0070",
+        "S0071",
+        "S0108",
+        "S0193"
+      ]
+    },
+    {
+      "name": "Embedding apprenticeships in career pathways",
+      "ids": [
+        "S0039",
+        "S0072",
+        "S0073",
+        "S0075",
+        "S0076",
+        "S0111",
+        "S0200",
+        "S0202",
+        "S0206"
+      ]
+    },
+    {
+      "name": "Targeted outreach to underrepresented groups and all UK nations",
+      "ids": [
+        "S0008",
+        "S0079",
+        "S0080",
+        "S0087",
+        "S0088",
+        "S0089",
+        "S0090",
+        "S0091",
+        "S0092",
+        "S0143",
+        "S0144",
+        "S0181",
+        "S0189",
+        "S0190",
+        "S0192"
+      ]
+    },
+    {
+      "name": "Apprenticeship frameworks, standards and quality assurance",
+      "ids": [
+        "S0029",
+        "S0105",
+        "S0114",
+        "S0139",
+        "S0140",
+        "S0141",
+        "S0221",
+        "S0222",
+        "S0223"
+      ]
+    },
+    {
+      "name": "Strategic direction and national coordination",
+      "ids": [
+        "S0040",
+        "S0086",
+        "S0134",
+        "S0135",
+        "S0136"
+      ]
+    },
+    {
+      "name": "Training provision and funding",
+      "ids": [
+        "S0166",
+        "S0243",
+        "S0252"
+      ]
+    },
+    {
+      "name": "Monitoring and progression",
+      "ids": [
+        "S0205",
+        "S0169"
+      ]
+    }
+  ]
+}

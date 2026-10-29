@@ -1,0 +1,69 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Overfishing of lobster and crawfish stocks",
+        "claim": "Current stock assessments and landing trends show that lobster and crawfish stocks in English waters are being overfished and are not being exploited at Maximum Sustainable Yield levels."
+      },
+      {
+        "name": "EU and biodiversity obligations at risk",
+        "claim": "Continued overfishing jeopardises the UK's ability to meet its EU obligations (CFP/MSFD) to achieve MSY by 2020 and its Biodiversity 2020 commitments for crawfish."
+      },
+      {
+        "name": "Common-good market failure",
+        "claim": "Fishing is a common-good problem where private incentives to exploit stocks diverge from the social cost, leading to over-exploitation and ecosystem harm."
+      },
+      {
+        "name": "Particular harm from landing berried (egg-bearing) individuals",
+        "claim": "Landing berried lobsters and crawfish imposes a disproportionately large external cost because it removes future reproductive capacity essential to stock recovery."
+      },
+      {
+        "name": "Inadequacy of existing local measures",
+        "claim": "Current patchwork of regional IFCA bans and conservation reference sizes is insufficient and inconsistently enforced, leaving stocks exposed to overfishing beyond inshore limits."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "National ban as the preferred intervention",
+        "claim": "A national ban on landing berried lobsters and crawfish is the preferred option because it provides sufficient spatial coverage and resolves enforcement problems associated with local bans."
+      },
+      {
+        "name": "Rejection of voluntary action",
+        "claim": "Existing voluntary v-notching legislation has not achieved sufficient uptake, so a further voluntary scheme is unlikely to succeed and cannot be relied upon."
+      },
+      {
+        "name": "Rejection of IFCA byelaw approach",
+        "claim": "A full inshore ban through IFCA byelaws was rejected because IFCA powers only extend to 6nm, leaving stocks beyond that limit unprotected and enforcement problems unresolved."
+      },
+      {
+        "name": "Rejection of a seasonal ban",
+        "claim": "A seasonal ban was considered but rejected because the variable and lengthy egg-carrying period of lobsters and crawfish makes it impractical to define an effective national season and would not deliver the expected conservation benefits."
+      },
+      {
+        "name": "Costs versus long-term benefits",
+        "claim": "Although the ban imposes quantified short-term costs on business (lost revenue from berried landings) and government, these are justified by expected but unquantified long-term benefits from stock recovery and higher future landings, based on modelled assumptions."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Legal mechanism for the ban",
+        "claim": "The ban will be implemented by amending the existing Statutory Instrument on v-notched lobsters under the Sea Fish (Conservation) Act 1967, applying to UK and Scottish vessels fishing in or landing into English waters, which supports simplification of the legislative landscape."
+      },
+      {
+        "name": "Enforcement costs and responsibilities",
+        "claim": "The MMO and IFCAs will enforce the ban using testing kits and training, incurring estimated annual costs, with enforcement folded into routine inspection activity."
+      },
+      {
+        "name": "Consultation to test assumptions and gather evidence",
+        "claim": "Key implementation assumptions, including on fisher behaviour and the effectiveness of existing bans, will be tested through a formal consultation and stakeholder workshops before the policy is finalised."
+      }
+    ],
+    "note": ""
+  }
+}

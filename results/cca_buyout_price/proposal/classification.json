@@ -1,0 +1,62 @@
+{
+  "themes": [
+    {
+      "name": "Raise buy-out price in line with RPI to £14",
+      "ids": [
+        "S0067",
+        "S0068",
+        "S0078",
+        "S0080",
+        "S0081",
+        "S0082",
+        "S0083",
+        "S0084",
+        "S0085"
+      ]
+    },
+    {
+      "name": "Rejection of alternative price options",
+      "ids": [
+        "S0070",
+        "S0072",
+        "S0073",
+        "S0074",
+        "S0075",
+        "S0076",
+        "S0077",
+        "S0086",
+        "S0088",
+        "S0089",
+        "S0090",
+        "S0091"
+      ]
+    },
+    {
+      "name": "Balance of incentive and competitiveness",
+      "ids": [
+        "S0059",
+        "S0009",
+        "S0047",
+        "S0048",
+        "S0049",
+        "S0057",
+        "S0058",
+        "S0060",
+        "S0064"
+      ]
+    },
+    {
+      "name": "Background on the CCL and CRC price changes",
+      "ids": [
+        "S0061",
+        "S0062",
+        "S0063",
+        "S0066"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": []
+    }
+  ]
+}

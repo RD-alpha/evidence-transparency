@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Enforcement architecture led by local authorities, with optional stronger tools",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The detailed description of NTSEAT's powers and remit in the estate agency sector is used as a comparable precedent to justify a possible lead enforcement authority, but it carries no reference or link so stays uncited."
+    },
+    {
+      "theme": "Tenant empowerment and education as an enforcement mechanism",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that tenant empowerment \"has helped to improve compliance\" is illustrated by describing the deposit-protection county-court remedy, but no data on actual compliance improvement or any citation is given."
+    },
+    {
+      "theme": "Penalty design for non-compliance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The existing \u00a35,000 redress/transparency penalty and the \u00a330,000 Housing and Planning Act 2016 banning-order penalty are named and used to reason toward a higher deterrent fine, but neither is linked to a citable source."
+    },
+    {
+      "theme": "Defining the scope and exemptions of the ban",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Holding-deposit and in-tenancy-charge exemptions are justified only by unsupported reasoning about speculation risk and fraud, with no data, research or named precedent offered."
+    },
+    {
+      "theme": "Data sharing and intelligence as an enforcement tool",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The benefits of better data sharing are asserted (\"would better utilise the data on rogue agents\") without any evidence of effectiveness elsewhere or figures."
+    },
+    {
+      "theme": "Legislation and regulatory framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements that primary legislation will be introduced are purely descriptive of intent with no supporting evidence."
+    },
+    {
+      "theme": "Mitigation of discrimination impacts",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that holding deposits mitigate discrimination risk is asserted with no supporting data or research."
+    },
+    {
+      "theme": "International precedent and comparative regulation",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Scotland Act 2011 and 1984 Act precedents are described with some detail on how ambiguity was resolved, but no reference/link is given."
+    }
+  ],
+  "reasoning": "The four core themes each offer only lightly-evidenced reasoning. The enforcement-architecture theme draws an analogy to the estate agency sector's NTSEAT, describing its powers in detail, but this comparator is never formally cited (level 1). The tenant-empowerment theme similarly points to deposit-protection enforcement (\"Tenant empowerment and education has helped to improve compliance in other areas of the sector, for example, deposit protection\") but gives no figures on how much compliance improved, and no citation (level 1). The penalty-design theme cites concrete figures - the existing \u00a35,000 civil penalty and the \u00a330,000 Housing and Planning Act 2016 banning-order penalty - and reasons from these toward a higher deterrent, but again without a reference or link a reader could follow (level 1). The scope/exemptions theme, covering holding deposits and in-tenancy charges, is argued entirely through unsupported reasoning about risk and fraud, with no evidence at all (level 0). The mean of (1+1+1+0)/4 = 0.75, rounding down to 1. The strongest counter-example pulling the score up is the Housing and Planning Act 2016 figure, which is a real legal precedent directly tied to the policy choice; but it falls short of level 2 because it lacks a traceable citation. To reach level 2, the document would need to properly cite its comparator sources (e.g. link to the Estate Agent Act 1979, the Housing and Planning Act 2016, or Scotland Act provisions) and show the specific data behind claims like improved deposit-protection compliance.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

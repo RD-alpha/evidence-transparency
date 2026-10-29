@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "Regulatory definition of categories and offence list",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Bar fee-sharing protocol",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

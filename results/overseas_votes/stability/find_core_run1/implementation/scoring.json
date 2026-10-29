@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Identity verification",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The attestation limit is justified only by the assertion it is 'designed to put a limit on any potentially fraudulent applications' with no data or finding offered to show fraud risk or that two attestations is the right limit, and reference 4 merely defines a time period."
+    },
+    {
+      "theme": "Address verification",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The document describes how connection to an address will be verified (previous register checks, documentary evidence, attestation) but gives no statistic, finding or named evidence for why these methods are reliable or sufficient."
+    },
+    {
+      "theme": "Annual renewal process",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that simplified requirements will 'increase the numbers of overseas electors who renew annually' is asserted with no renewal-rate data, research or consultation evidence cited, and reference 5 only clarifies a date definition."
+    },
+    {
+      "theme": "Unchanged scope of the franchise",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The decision not to extend voting rights to other election types is stated as fact with no evidence, data or reasoning given for why this scope was retained."
+    },
+    {
+      "theme": "Application process and special provisions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes special categories (armed forces, Crown servants) and application channels including reference 3 (a plain URL to GOV.UK) with no evidence of effectiveness or uptake."
+    },
+    {
+      "theme": "Policy implementation and complexity",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States funding will be provided 'in accordance with the new burdens doctrine' with 'further details... in due course', giving no cost figures, assumptions or evidence base."
+    }
+  ],
+  "reasoning": "All four core themes describe the mechanics of the new registration system -- identity checks, address verification, annual renewal, and the unchanged franchise scope -- but none cites any statistic, research finding, named dataset, consultation result or comparable policy experience to justify why these specific designs were chosen or why they will work. Identity verification justifies the attestation limit only by assertion ('designed to put a limit on any potentially fraudulent applications'), which is reasoning, not evidence. Address verification simply lists procedures with no evidence of their reliability. Annual renewal claims simplified requirements will 'increase the numbers of overseas electors who renew annually' with no renewal-rate data behind it. The franchise-scope theme states the restriction continues with no evidence for the decision at all. References 3-5 are present but only clarify URLs, periods or dates -- they are not evidence supporting a delivery choice. The strongest counter-example is the attestation-limit reasoning, which at least gestures at a rationale (fraud prevention), but this stays at level 0 because no figures or findings back it. All four core themes score 0, giving a mean of 0 and a section score of 0. To reach level 1, the document would need to mention some evidence (e.g. current renewal rates, fraud incidence data, or consultation responses) with an explanation of how it informed these specific design choices.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

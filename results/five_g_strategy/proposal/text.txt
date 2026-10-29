@@ -1,0 +1,139 @@
+S0050 The Government and wider public sector can therefore play a vital role in driving early demand as a major purchaser of 5G services as well as helping to address issues around public perception and safety.
+S0052 The Government has had extensive engagement with a wide range of interested parties - including industry and academia - and have received two major reports, commissioned by the Government, that have helped to inform our thinking:
+S0053 • the National Infrastructure Commission (NIC) set out in December 2016 its recommendations on steps that the UK should take to become a world leader in the deployment of 5G telecommunications networks; and • the Future Communications Challenge Group (FCCG), established by DCMS, who provided advice in January 2017 on how the UK could become a world leader in the development of 5G telecommunication networks.
+S0064 We can ensure this happens by taking a coordinated approach - with the Government playing an active, facilitating role, not least through its own 5G and full-fibre programmes.
+S0076 The Government is already taking action to drive the deployment of fibre; notably via the £1.1 billion of a proportion of the new investment announced at the Autumn Statement 2016.
+S0077 A significant portion of this will be used to deliver more extensive full fibre networks.
+S0078 £200 million will fund a programme of local projects to test ways to accelerate market delivery, and £400 million, at least matched by private sector investors, will establish a new Digital Infrastructure Investment Fund, to provide developers with greater access to commercial finance.
+S0079 We have also introduced a 100% business rate relief for new full-fibre infrastructure.
+S0084 While industry is best placed to respond to market demand and determine the scope of 5G, the Government has an important role to play - creating a robust framework that helps to underpin and accelerate investment here in the UK; and helping to prove the business case for commercial investment in 5G infrastructure, particularly where increased investment is needed to cover the roll-out of small cells in connectivity ‘hot spots’.
+S0085 That is why we are launching a new national programme of 5G testbeds and trials.
+S0086 A core objective of the programme will be to work with industry - through a new national 5G Innovation Network - to coordinate the development of 5G services and applications in the UK within a common framework, and to create the conditions for innovation to emerge in the 5G ecosystem.
+S0088 We will use the 5G testbeds and trials programme to test use cases in both rural and urban areas; and to improve our understanding of the economics of infrastructure deployment in different scenarios and locations and how infrastructure can be deployed in a cost-effective way.
+S0089 The Government agrees with the NIC that infrastructure sharing, in compliance with competition rules, can be an effective and economically efficient way of delivering telecoms infrastructure, especially in areas where it is uneconomic to deploy competing infrastructure networks.
+S0090 Increasingly, independent infrastructure providers will play an important role in the deployment of 5G infrastructure, alongside both national mobile and fixed operators.
+S0091 We will work with Ofcom to identify and tackle unnecessary barriers to infrastructure sharing and will explore the potential for a clearer and more robust framework to allow companies to share infrastructure, while preserving investment incentives.
+S0092 Realising the potential of 5G: The Government’s 5G testbeds and trials programme The Government is committed to ensuring that the UK is a world leader in the development and deployment of 5G, and, as announced at Autumn Statement 2016, will invest in a nationally coordinated programme of 5G testbed facilities and application trials.
+S0093 The programme will deliver significant benefits: accelerating the deployment of 5G networks; maximising productivity gains from applications and services; and enhancing commercial opportunities for UK companies (including SMEs) at home and abroad, as well as encouraging investment into the UK by sending a clear signal of the Government’s ambitions.
+S0094 Our approach has been informed by the FCCG, who recommended a ‘hub and spoke’ model for the new 5G network.
+S0095 The programme will establish ‘hubs’ - facilities that will provide the core network infrastructure to support the testing of 5G use cases.
+S0096 Each hub will be connected to a number of ‘spokes’ - testbeds that provide an environment where new 5G applications and services can be trialled in a controlled way.
+S0097 Testbeds could include partnerships between local areas, public sector bodies, industry and academic institutions.
+S0098 The spokes will test the benefits of a variety of 5G-specific use cases in a range of locations and contexts.
+S0099 The Government will create a new national 5G Innovation Network to trial and demonstrate 5G applications.
+S0100 The Government’s initial investment will be up to £16 million for a cutting edge facility with the technology to run the trials, delivered through cooperation between leading 5G research institutions during 2017/18.
+S0103 The ‘hub and spoke’ model will help to accelerate the development of 5G technologies out of the R&D phase and towards commercial deployment.
+S0106 The programme’s approach will ensure that the development of 5G in the UK is coordinated, standards based, and can be scaled up and is open to a range of businesses, including SMEs.
+S0107 It will focus on areas of existing UK strength, in particular systems integration (i.e. how different systems and services interact across and within the same networks to give the end user a seamless experience) and cyber security.
+S0108 The programme is not designed to replace or crowd-out private sector investment, but will help fill in the gaps where there is not yet a clear case for commercial activity.
+S0109 The vast majority of investment in 5G will need to come from the private sector, and we expect the programme to lever in significant investment from industry.
+S0185 The National Infrastructure Commission report on 5G At the 2016 Budget, the Chancellor announced that the National Infrastructure Commission (NIC) would study what the UK needs to do to become a world leader in 5G deployment, and to ensure that the UK can take early advantage of the potential applications of 5G services.
+S0187 The NIC’s central finding is that mobile connectivity has become a necessity and that securing the mobile networks necessary to put the UK at the forefront of this emerging technology will be critical to the growth of our economy.
+S0249 We have had a number of representations suggesting the potential for net neutrality regulation to interact with the technical characteristics of 5G services, including network slicing.
+S0273 A key objective of the 5G testbeds and trials programme will be to facilitate and develop international links ensuring that we maximise the benefits for the UK from collaboration and learning.
+S0279 That is why the Government is taking a targeted approach that builds on the UK’s existing strengths - in particular, enabling the 5G ecosystem by focusing on systems integration and interoperability, and leveraging UK expertise in cyber security.
+S0280 We will be looking carefully at early trials of deployment around the world, including:
+S0281 • Japan - A trial 5G network will be launched in areas of Tokyo this year to evaluate the performance of prospective 5G technologies in a live environment.
+S0282 Japan is working to launch 5G in time for the summer Olympics in 2020, though probably only in the host city, Tokyo.
+S0283 • South Korea - Samsung and KT CORPORATION have completed early 5G connectivity trials and they are planning to facilitate the world’s first mobile 5G trial service at the PyeongChang 2018 Winter Olympic Games.
+S0284 All three Korean mobile operators are expected to commercially launch 5G by 2020.
+S0285 • United States - AT&T is seeking a three-year licence to run 5G tests.
+S0286 Verizon has also announced 5G trials, which are set to begin this year.
+S0287 • China - state-run telecommunications companies China Mobile, China Unicom and China Telecom have announced 5G testing this year together with telecommunications vendors Huawei and ZTE.
+S0288 The 2022 Winter Olympics in Beijing is likely to be a showcase of new 5G technologies.
+S0289 • Australia - Telstra, in partnership with Ericsson, tested one of the world’s first 5G radio testbeds in Melbourne.
+S0290 It aims to conduct full trials of 5G at the 2018 Commonwealth Games on the Gold Coast.
+S0291 • Sweden - Telia worked with Ericsson to conduct trials in Kista, Sweden, over a live 5G network.
+S0292 Telia plans to offer service in Tallin (Estonia) and Stockholm in 2018.
+S0299 We will not simply subsidise industry, or undertake activities as government that are best done by experts in research institutions or the private sector.
+S0300 There are already 5G-related activities happening in the UK, many tied to an academic institution and focused on the R&D phase.
+S0301 We do not intend to replace these.
+S0302 Instead, the Government believes that its role at this stage is to coordinate work to ensure that the UK maximises the potential benefits; to provide a supportive policy and regulatory framework; and to help prove not only that the technology works but also that a market exists to monetise that technology.
+S0303 We will be doing this through our programme of 5G testbeds and trials.
+S0322 It suggested that other countries may have an inbuilt advantage in the development of some aspects of 5G (for example, the development of 5G hardware) but that the UK could be a global leader if we focused on our existing strengths - such as systems integration and cyber security.
+S0323 The centrepiece of the FCCG’s recommendations is for a programme of coordinated ‘5G testbeds and trials that will help to accelerate and de-risk the deployment of 5G infrastructure and services, as well as presenting significant opportunities for UK companies at home and abroad.
+S0325 • the establishment of a 5G implementation advisory board to advise on maximising the significant opportunities for the UK of the 5G ecosystem;
+S0326 • that the Government should encourage and strengthen links with international partners and bodies who are also working on the development of 5G;
+S0327 • that the Government should adopt a digital first approach to encourage the trialling of solutions to ensure that the structure of 5G networks will maximise energy efficiency;
+S0328 • that government departments should assess how 5G adoption can support the delivery of their priorities e.g. creative industries transport, health;
+S0329 • that we should explore through testbeds and trials, models for improving coverage alongside roads and rail lines;
+S0330 • that the Government should consider regulatory and planning changes to support 5G infrastructure deployment; and • that the Government and Ofcom should ensure that spectrum is available to support the early and rapid deployment of 5G.
+S0351 While industry is best placed to determine the scope of 5G, both the Government and Ofcom have an important role to play in creating the conditions for the market to develop and deploy 5G as rapidly and efficiently as possible here in the UK, whilst supporting innovation in the ecosystem.
+S0352 That is why we are launching a new programme of 5G testbeds and trials to help to prove that 5G technology works.
+S0353 The programme will provide a catalyst for the development of products and services that will use future communications networks, and therefore help to prove that a market exists to monetise that technology.
+S0354 This is particularly important where increased investment will be needed to cover roll-out of small cells in connectivity hot spots.
+S0355 Through the programme, the Government will also explore the key public sector challenges that 5G and related technologies could help to solve.
+S0356 A core objective of the programme will be to coordinate the development of 5G services and applications in the UK within a common framework.
+S0358 By providing access to testbeds and working with the developers of applications and services to ensure they are built using common standards, the programme will help to ensure that the benefits are scalable at a national level.
+S0359 In this way the public sector can harness its purchasing power to become a major driver of 5G services.
+S0360 This will not only deliver cost savings for the taxpayer but also provide a revenue stream to support the commercial case for development.
+S0364 However, the Government will use the 5G testbeds and trials programme to test use cases in both rural and urban areas and to improve our understanding of the economics of infrastructure deployment in different scenarios and locations, and how infrastructure can be deployed in a cost-effective way.
+S0374 • the 100% business rate relief for new full-fibre infrastructure for a five year period announced at Autumn Statement 2016; and • the £400 million Digital Infrastructure Investment Fund which will make available much needed finance to smaller fibre network providers.
+S0375 Starting in 2017, the Government will invest £200 million to fund a programme of local projects to test ways to accelerate market delivery of new full-fibre broadband networks.
+S0376 This programme will make better connections available to business and residential premises across the UK and help to deliver fibre connections that will support 5G.
+S0377 The Government’s full-fibre and 5G programmes will help to develop our understanding of how these technologies will be brought together and the challenges around the fibre that will be required.
+S0380 Infrastructure sharing The Government agrees with the NIC that infrastructure sharing, in compliance with competition rules, can be an effective and economically efficient way of delivering telecommunications infrastructure, especially in areas where it is uneconomic to deploy competing infrastructure networks.
+S0381 However, we are also mindful of the need to protect investment incentives.
+S0393 It is widely recognised that a typical cycle of activities for the development and deployment of new uses of technologies consists of four phases:
+S0394 • phase 1 - research and development, where technologies are initially developed;
+S0395 • phase 2 - testbeds and trials, to further develop, test and iterate solutions working with industry sectors for use cases;
+S0396 • phase 3 - early deployment infrastructure, where following phase 2, early commercial trials can commence to scale and create early deployment infrastructure; and • phase 4 - full commercialisation.
+S0397 The Government’s programme of 5G testbeds and trials will primarily be focused on ‘phase 2’ and will be developed in the context of a much larger set of related activities across the UK.
+S0398 These activities, including projects focused on smart cities and IoT, are helping to build the case for 5G networks as well as helping to build expertise and commitment to the digital economy amongst local areas and industry.
+S0402 This is a joint venture between the University of Bristol, Bristol City Council and industry partners Nokia and NEC to explore new forms of ‘on-demand’ network connectivity using fibre, 3G, 4G and 5G, and an IoT mesh network across the city.
+S0403 This software defined network is used to support research and development initiatives that contribute to the development of smart cities and IoT.
+S0404 • Aberdeen City Council has ensured that new digital infrastructure in the city is available to all network providers in order to maximise connectivity.
+S0405 Over a two-year period, representatives from the Council and the Wireless Infrastructure Group (WIG) have worked together to develop plans to launch a 5G-ready small cell network connected by fibre in the city.
+S0407 This is a project funded by DCMS as part of the IoTUK programme to test services using IoT technology in healthcare, transport, energy, and culture.
+S0408 It includes plans for talking bus stops, which let bus operators know when commuters are waiting, and a network of sensors in parks and along commuter routes to encourage people to do more physical activity.
+S0410 A project to support the local digital sector to develop applications for common 5G use cases, run by the Digital Catapult and Digital Catapult Centre Brighton.
+S0412 This project has made the campus of Keele University into a giant ‘laboratory’ where new energy-efficient technologies can be researched, developed and tested in a real world environment.
+S0413 • University College London’s TRIANGLE project is building a framework to help application developers and device manufacturers to test and benchmark new mobile applications in Europe, utilising existing and extended testbeds.
+S0414 • BT and Nokia are working together to research potential customer use cases for 5G technologies and are conducting trials focusing on the technology enablers for 5G.
+S0416 This is a project to make Glasgow a smart city by using open data sources in order to create a range of services to make the city safer, smarter and more sustainable.
+S0418 This is an initiative to implement the borough’s ‘smart city’ strategy, which, amongst other things is transforming the way that their services are managed while also managing an innovation fund to pilot new approaches and ideas for the borough.
+S0420 A joint Department for Transport (DfT) and Department for Business, Energy and Industrial Strategy (BEIS) programme, set up to keep the UK at the forefront of the development of connected and autonomous vehicle technologies.
+S0421 • The City of London Corporation has announced that it will be replacing and upgrading its current free Wi-Fi service to support gigabit speeds and to help foster a future 5G network.
+S0422 The new network will be rolled-out in early 2017 and will be accompanied by over 400 small cells to boost the strength and reliability of the current wireless coverage by using street objects like lampposts, street signs, buildings and CCTV columns.
+S0423 • Arqiva and Samsung have recently launched a 5G fixed-wireless access technology in central London designed to deliver mobile broadband to consumers.
+S0424 • Ericsson, BT and King’s College London have agreed a multi-year collaboration on 5G testing and development, focused on creating 5G use cases in commercial and consumer markets, with particular focus on mission-critical services such as medical applications.
+S0426 A consortium of key organisations in the field of precision agriculture and engineering to help the UK’s agri-food sector develop advanced technologies that will increase productivity and sustainability in UK agriculture.
+S0427 In 2012, the Government invested £12 million in the 5G Innovation Centre (5GIC) at the University of Surrey, which has in turn leveraged significant co-investment from industry and regional partners.
+S0428 The 5GIC is the UK’s largest academic research centre dedicated to the development of the next generation of mobile and wireless communications.
+S0429 It brings together leading academic expertise and key industry partners to help to define and develop 5G infrastructure that will drive the delivery of mobile communications and wireless connectivity capable of meeting the needs of tomorrow’s connected society and digital economy.
+S0473 This will not only accelerate deployment of millimetre wave systems in the UK but also lead to opportunities for the UK to export expertise in network planning.
+S0479 In doing so it will inform thinking on the deployment of infrastructure in the UK.
+S0493 Trials will consider how high-quality design can minimise the impact of digital infrastructure on the built environment in order to make deployment more effective.
+S0510 We are looking at how we can make sure that 4G networks are deployed to a scale and quality that will meet this ambition, while also supporting investments that will enable future 5G networks.
+S0511 This will mean that networks will need to go further than the requirements of the current licence obligations both in terms of coverage and quality.
+S0538 As mentioned previously, the Government will use the 5G testbeds and trials programme to improve our understanding of the economics of infrastructure deployment in different scenarios and locations, and how infrastructure can be deployed in a cost-effective way.
+S0564 The Government will also consider funding live trials where there is potential for wider UK benefit as part of the 5G testbeds and trials programme, particularly where this could build on other work such as the planned A2/M2 connected corridor or the connected and autonomous vehicle testbeds programme announced at Autumn Statement 2016.
+S0565 In this way, we will look to gain further insights into the challenges and benefits of the deployment of 5G and related technologies on the motorway network ahead of any proposed national rollout.
+S0575 The Government will also consider funding live trials where there is potential for wider UK benefit as part of the 5G testbeds and trials programme, particularly where this could build on existing or planned projects around railway connectivity.
+S0576 Any trials will also help to deliver benefits to passengers from improved connectivity.
+S0591 The 5G testbeds and trials programme will work with organisations such as the NCSC to support the development of new security architectures that meet the expectations of customers and the needs of 5G services and applications.
+S0594 The 5G testbeds and trials programme will also explore, along with other government bodies, how to improve the public’s understanding of the opportunities and potential of 5G and the different applications and services that it will offer.
+S0600 This programme of work will ultimately enable the UK to achieve a proactive stance in addressing 5G security issues, so that they can be identified during the shaping of new 5G networks and services.
+S0601 Such a position will ensure a stronger security posture at the outset of any service delivery and reduce the need for more costly re- engineering after deployment.
+S0741 The Government will create a new national 5G Innovation Network to trial and demonstrate 5G applications.
+S0742 The Government’s initial investment will be up to £16 million for a cutting edge facility with the technology to run the trials, delivered through cooperation between leading 5G research institutions during 2017/18.
+S0754 A key objective of the 5G testbeds and trials programme will be to facilitate and develop international links ensuring that we maximise the benefits for the UK from collaboration and learning.
+S0766 Building the economic case • The 5G testbed and trials programme will provide a catalyst for the development of products and services that will use future communications networks, and therefore help to prove that a market exists to monetise that technology.
+S0767 Through the programme, the Government will also explore the key public sector challenges that 5G and related technologies could help to solve.
+S0769 The Government will use the 5G testbeds and trials programme to test use cases in both rural and urban areas and to improve our understanding of the economics of infrastructure deployment in different scenarios and locations, and how infrastructure can be deployed in a cost-effective way.
+S0770 • Starting in 2017, the Government will invest £200 million to fund a programme of local projects to test ways to accelerate market delivery of new full-fibre broadband networks.
+S0777 • As far as possible, the Government expects to build on existing projects through the 5G testbeds and trials programme and will work with the private sector as appropriate to help prove where and how 5G can be commercialised.
+S0780 • We will use the 5G testbeds and trials programme to improve our understanding of the different regulatory regimes in which 5G applications and services will operate, working with the UK’s regulatory authorities as appropriate, and report back by the end of 2018.
+S0797 We are looking at how we can make sure that 4G networks are deployed to a scale and quality that will meet this ambition, while also supporting investments that will enable future 5G networks.
+S0798 This will mean that networks will need to go further than the requirements of the current licence obligations both in terms of coverage and quality.
+S0807 The Government will also consider funding live trials where there is potential for wider UK benefit as part of the 5G testbeds and trials programme, particularly where this could build on other work such as the planned A2/M2 connected corridor or the connected and autonomous vehicle testbeds programme announced at Autumn Statement 2016.
+S0810 The Government will also consider funding live trials where there is potential for wider UK benefit as part of the 5G testbeds and trials programme, particularly where this could build on existing or planned projects around railway connectivity.
+S0811 Any trials will also help to deliver benefits to passengers from improved connectivity.
+S0815 Ensuring a safe and secure deployment of 5G • The 5G testbeds and trials programme will work with organisations such as the NCSC to support the development of new security architectures that meet the expectations of customers and the needs of 5G services and applications.
+S0816 • The 5G testbeds and trials programme will also explore, along with other government bodies, how to improve the public’s understanding of the opportunities and potential of 5G and the different applications and services that it will offer.
+S0880 The Government will also consider funding live trials where there is potential for wider UK benefit as part of the coordinated 5G testbeds and trials programme, particularly where this could build on other work such as the planned A2/M2 connected corridor or the connected and autonomous vehicles testbeds programme announced at Autumn Statement 2016.
+S0881 In this way we will look to gain further insights into the challenges and benefits of the deployment of 5G and related technologies on the motorway network.
+S0895 The Government will also consider funding live trials where there is potential for wider UK benefit as part of the 5G testbeds and trials programme, particularly where this could build on existing or planned projects around railway connectivity.
+S0896 Any trials will also help to deliver benefits to passengers from improved connectivity.
+S0917 Trials will consider how high-quality design can minimise the impact of digital infrastructure on the built environment in order to make deployment more effective.
+S0938 We are looking at how we can make sure that 4G networks are deployed to a scale and quality that will meet this ambition, while also supporting investments that will enable future 5G networks.

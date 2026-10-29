@@ -1,0 +1,69 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Skills Shortages and Economic Growth",
+        "claim": "The document argues that national skills shortages and the need to boost productivity and economic growth are driving the push for more apprenticeships, including in the public sector."
+      },
+      {
+        "name": "Workforce Diversity and Inclusion Gap",
+        "claim": "The document argues that the Civil Service and public sector more broadly have struggled to achieve true diversity, representation and social mobility, despite being more diverse than before."
+      },
+      {
+        "name": "Disability Employment Gap",
+        "claim": "The document argues that disabled people, particularly those with conditions like autism, face a significant employment gap that the Civil Service must help address."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Skills and Productivity Business Case",
+        "claim": "The document argues that apprenticeships build transferable and job-specific skills that close capability gaps, raise national and organisational productivity, and deliver measurable returns on investment for both employers and apprentices."
+      },
+      {
+        "name": "Social Mobility and Diversity Business Case",
+        "claim": "The document argues that apprenticeships, by removing barriers tied to educational attainment and background, are a key route to widening access, improving diversity and advancing social mobility within the Civil Service and economy."
+      },
+      {
+        "name": "Numerical Commitment as the Chosen Scale of Action",
+        "claim": "The document argues that committing to at least 30,000 apprenticeship starts by 2020 (2.3% of the England workforce annually, with parallel growth elsewhere in the UK) is the concrete form the Government's apprenticeship ambition should take."
+      },
+      {
+        "name": "Quality Alongside Quantity",
+        "claim": "The document argues that the apprenticeship strategy must prioritise quality and value, not just numerical targets, in direct response to criticism from bodies such as Ofsted and the National Audit Office that growth could come at quality's expense."
+      },
+      {
+        "name": "Leading by Example in the Public Sector and Wider Economy",
+        "claim": "The document argues that the Civil Service should use its apprenticeship programme to set a leading example for the public sector and to support the wider Government agenda of three million apprenticeships across the economy."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Three Delivery Routes for Creating Apprenticeships",
+        "claim": "The document argues that apprenticeship growth will be delivered through three specific routes: converting planned external recruitment, retraining and upskilling existing staff, and enhancing current apprenticeship schemes."
+      },
+      {
+        "name": "Recruitment, Pay and Career Path Reform",
+        "claim": "The document argues that successful delivery requires rethinking Civil Service pay structures, moving recruitment and selection toward potential-based rather than competency-based approaches, and embedding apprenticeships into career pathways."
+      },
+      {
+        "name": "Governance and Departmental Accountability",
+        "claim": "The document argues that delivery will be governed by the Cabinet Office acting as Senior Responsible Officer setting strategic direction, while individual departments are accountable for delivering the numbers and quality of apprenticeships."
+      },
+      {
+        "name": "UK-Wide Extension via Devolved Administrations",
+        "claim": "The document argues that implementation must extend beyond England by engaging with the Devolved Administrations and departments employing civil servants in Wales, Scotland and Northern Ireland to ensure equivalent apprenticeship opportunities."
+      },
+      {
+        "name": "Targeted Outreach for Diversity and Social Mobility",
+        "claim": "The document argues that delivery will include targeted recruitment, outreach and marketing strategies aimed at underrepresented groups, those from low socio-economic backgrounds, and NEET populations, including integration with programmes like Movement to Work and Traineeships."
+      }
+    ],
+    "note": ""
+  }
+}

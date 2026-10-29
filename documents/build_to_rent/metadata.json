@@ -1,0 +1,19 @@
+{
+  "title": "Build To Rent",
+  "alias": "build_to_rent",
+  "uploaded_at": "2026-10-06T16:06:01.025136+01:00",
+  "uploaded_date": "2026-10-06",
+  "uploaded_time": "16:06:01 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "note": "Annex A was removed before processing to save costs. A note was manually added to input.txt",
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "consultation_response",
+    "type_listed_in_2018_appendix": "consultation (7 February 2017)",
+    "matches_2018_listed_source": "no",
+    "basis": "S0026: \"This consultation analysis report summarises the views expressed by consultees\" - a response/analysis document, not the invitation. Annex A removed (human note).",
+    "source_check": "Listed document(s) retrieved on 2026-10-08 and compared with the ingested text: 15% of sentences found in the listed consultation PDF (file 589939)."
+  }
+}

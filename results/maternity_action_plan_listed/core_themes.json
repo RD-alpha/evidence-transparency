@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Safe but falling short of potential",
+        "claim": "NHS maternity care is broadly safe and outcomes are improving, but stillbirth rates remain unacceptably high and improving too slowly compared with other high-income countries such as the Netherlands."
+      },
+      {
+        "name": "Quality of care drives outcome variation",
+        "claim": "Variation in stillbirth and maternal death rates across England cannot be explained by differences in women's risk alone, since more than half of term stillbirths and many maternal deaths involved care that could have been better, including avoidable separation of mother and baby and inconsistent screening practices."
+      },
+      {
+        "name": "Public health risk factors are a major driver",
+        "claim": "Women's underlying health and behaviours before and during pregnancy - including obesity, smoking and perinatal mental illness - are key factors driving stillbirths, neonatal deaths and maternal deaths, meaning maternity service improvements alone cannot solve the problem."
+      },
+      {
+        "name": "Workforce skills and staffing consistency gaps",
+        "claim": "Although workforce supply is forecast to be adequate, multi-professional training has been inconsistent across the country, undermining safe team working."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Quantified national ambition",
+        "claim": "The plan commits to a quantified national ambition of halving stillbirths, neonatal deaths, maternal deaths and birth-related brain injuries by 2030, with an interim 20% reduction target by 2020."
+      },
+      {
+        "name": "Five-driver improvement framework",
+        "claim": "The chosen intervention structures action around five key drivers - leadership, learning and best practice, teams, data, and innovation - building on the existing Spotlight on Maternity guidance, as the means to achieve the ambition."
+      },
+      {
+        "name": "National ambition requires local and regional partnership",
+        "claim": "The national ambition cannot be delivered through national initiatives or NHS maternity services alone; it requires an energised programme of local and regional action and a culture of openness and shared learning."
+      },
+      {
+        "name": "Public health and prevention contribution",
+        "claim": "Addressing public health risk factors such as smoking, obesity and perinatal mental illness, alongside clinical maternity improvements, is essential to achieving the ambition."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Named safety champions at every level",
+        "claim": "Delivery relies on appointing designated accountable individuals - board-level Maternity Champions and joint obstetrician/midwife leads in trusts, Safety Champions in Maternity Clinical Networks, and national Maternity Safety Champions - to drive local ownership of safety improvement."
+      },
+      {
+        "name": "Earmarked funding for training and innovation",
+        "claim": "Implementation depends on dedicated funding streams, including the £8m Maternity Safety Training Fund and the £250,000 Maternity Safety Innovation Fund, that trusts and individuals can bid for to support staff training and local innovation."
+      },
+      {
+        "name": "New national data, review and investigation infrastructure",
+        "claim": "Delivery relies on building standardised national systems - the Maternity Services Dataset, the Standardised Perinatal Mortality Review Tool, a national indicators dashboard, and the new Healthcare Safety Investigation Branch - to enable consistent data collection, benchmarking and independent investigation."
+      },
+      {
+        "name": "Local adoption of standardised programmes and bundles",
+        "claim": "Implementation is carried out by requiring or encouraging local maternity and public health systems to adopt pre-developed national programmes such as the Saving Babies' Lives care bundle, the 'atain' programme, and expanded perinatal mental health networks."
+      }
+    ],
+    "note": "This aspect consists largely of a long list of discrete actions with target dates rather than a single argued rationale for the delivery method, so the themes group these into their common underlying mechanisms."
+  }
+}

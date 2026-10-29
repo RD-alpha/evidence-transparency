@@ -1,0 +1,64 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Three delivery routes for creating apprenticeships",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The three routes (converting external recruitment, retraining, enhancing schemes like Fast Track) are described as actions with no data, research or consultation evidence given for why these routes were chosen over others."
+    },
+    {
+      "theme": "Enabling recruitment, pay and career-path reforms",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements such as 'we are piloting alternative approaches to competency based recruitment' and 'developing a fair, coherent...reward structure' describe actions underway but give no findings, data, or explanation of how these choices were derived."
+    },
+    {
+      "theme": "Governance via Cabinet Office SRO and departmental/devolved delivery",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The governance split (Cabinet Office as SRO, departments delivering 2.3% targets, engagement with Devolved Administrations) is asserted as the chosen structure with no evidence offered for why this model was adopted or how the 2.3% figure was derived."
+    },
+    {
+      "theme": "Cross-sector collaboration and alignment with national standards agenda",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims that cross-sector collaboration 'is more likely to further the agenda at pace and on a large scale' and references to the 2020 frameworks-to-standards shift are asserted with no supporting data, research or named source."
+    },
+    {
+      "theme": "Diversity, inclusion and social mobility in apprenticeships",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Aims to increase BAME representation and halve the disability employment gap are stated as commitments with no baseline data, survey or research cited to justify the targeted approaches described."
+    },
+    {
+      "theme": "Quality assurance and training standards",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Reliance on Ofsted/equivalent ratings is a procedural rule, not evidence that this criterion ensures quality, and no data or findings are cited."
+    },
+    {
+      "theme": "Apprenticeship programme structure and strategic development",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims of 'substantial progress' and 'significant headway' through the Cabinet Office-led programme are asserted with no metrics, reports or data supporting them."
+    },
+    {
+      "theme": "Profession-specific and career pathway integration",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Plans for professions to develop apprenticeship schemes by 2020 and monitor progress to Grade 7/SCS are stated as targets with no evidence of feasibility or prior results."
+    },
+    {
+      "theme": "Organisational coordination and resource management",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "References to levy funding and funding caps describe constraints but offer no evidence (figures, analysis) of costs or benefits of the chosen resourcing approach."
+    }
+  ],
+  "reasoning": "All four core themes describe what the Civil Service will do to implement the apprenticeship expansion -- the three delivery routes, recruitment/pay/career reforms, Cabinet Office-led governance with departmental and devolved delivery, and cross-sector collaboration with the frameworks-to-standards shift -- but none of them is backed by a statistic, named report, dataset, consultation finding or comparable-policy evidence. Lines such as 'we are piloting alternative approaches to competency based recruitment' (theme 2) and 'departments...have agreed to achieve 2.3% of their workforce...as apprenticeship starts' (theme 3) describe actions and targets rather than evidence that these particular choices work or were derived from analysis. No alternative delivery methods are discussed or ruled out with reasons, and no cost/benefit figures or assumptions appear anywhere in the extract. Core theme levels: Three delivery routes = 0, Enabling reforms = 0, Governance = 0, Cross-sector collaboration = 0. Mean = 0, giving a section score of 0. The strongest counter-example is the mention of 'piloting alternative approaches to competency based recruitment' under the Talent Action Plan 2016, which gestures at an evidence-generating process, but no results or method details are given, so it cannot even reach level 1. To reach level 1 the document would need to state, for example, what the pilot found or what data justified the 2.3% target or the choice of governance split between Cabinet Office and departments.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

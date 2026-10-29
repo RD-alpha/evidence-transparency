@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "theme": "Broad scope covering all abuse types and a wide range of professions/organisations",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Choice of accountability level (individual, organisational, or both)",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tiered sanctions framework combining existing, DBS and criminal routes",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Cost assumptions underpinning implementation estimates",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation design and evidence gathering",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Models of mandatory reporting from comparative international evidence",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Duty to act versus mandatory reporting distinction",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Referral process and multi-agency response",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Existing sanctions framework and regulatory bodies",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Implementation governance and departmental responsibility",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

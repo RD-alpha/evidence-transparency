@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rebalancing the market by shifting fee liability to landlords",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "All eleven lines are asserted reasoning about incentives and transparency with no statistic, study, or cited source behind them."
+    },
+    {
+      "theme": "Scottish precedent as evidence for the chosen approach",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "The claim is backed by the named Shelter/Rettie/BDRC report (Reference 16) with specific figures (1-2% rent-rise effect, 17% fee pass-through, 56% tenant approval), and the document itself flags the uncertainty, e.g. 'this is inconclusive' and 'it is difficult to directly compare the English and Scottish markets'."
+    },
+    {
+      "theme": "Acceptable trade-off of possible rent increases",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "Its core claim is directly supported by the cited, assessed Scottish evidence appearing in the neighbouring theme ('early evidence from Scotland indicates that rents may increase... but that agents... are unlikely to pass the full costs onto landlords', Reference 16), though the separate claim that 'there is evidence' agents charge excessive or double fees remains uncited."
+    },
+    {
+      "theme": "Reducing the deposit burden as a complementary measure",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines describe an intention to 'explore' capping deposits with no data, consultation finding, or research cited to justify the approach."
+    }
+  ],
+  "reasoning": "The document explains the policy logic clearly but grounds it in evidence unevenly. 'Rebalancing the market' (level 0) and 'Reducing the deposit burden' (level 0) are pure reasoning or stated intentions with no statistic or source. 'Scottish precedent' (level 3) is the strongest: it names the Shelter/Rettie/BDRC report (Reference 16), gives concrete figures (1-2% rent effect, 17% of agencies raising fees, 56% tenant approval), and the text itself weighs the evidence, noting it is 'inconclusive' and that comparison is 'difficult' given market differences - a genuine assessment of uncertainty. 'Acceptable trade-off' also reaches level 3 because its central claim ('unlikely to pass the full costs... onto landlords') is the very sentence drawn from the same cited and assessed Scottish evidence, though its own line about agents 'charging excessive fees' and 'double charging' is unnamed and uncited, which is a real weakness. The mean across the four core themes is (0+3+3+0)/4 = 1.5, which rounds down to a score of 1. The strongest counter-example against a higher score is that two of the four core claims (market rebalancing and deposit reform) have no evidence at all, pulling the average down despite the genuinely strong Scottish evidence. To reach level 2 overall, the document would need at least cited, linked evidence for the rebalancing and deposit themes, not just the Scottish comparison.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Policy Objective and Rationale",
+      "reason": "Establishes why the government has chosen this intervention: to ensure stocks are exploited at MSY, meet EU and biodiversity obligations, and support fishery viability; this is the direct justification for the proposal and the case cannot stand without it.",
+      "weight": "core"
+    },
+    {
+      "theme": "Policy Options Considered and Rejected Alternatives",
+      "reason": "Directly addresses the should-explain point of what other options existed and why they were rejected (voluntary v-notching, IFCA byelaws, seasonal ban), showing why the national ban via SI was chosen over alternatives; essential to justifying the chosen intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Costs to Business and Government",
+      "reason": "Provides the detailed cost estimates and assumptions underlying the economic appraisal, which is a should-explain point, but the core justification for choosing the intervention rests on the policy objective and rejected alternatives rather than on these cost figures themselves.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Stock Recovery Benefits and Modelling",
+      "reason": "Provides the modelled benefits (increased stock biomass and landings) that underpin the claim that the ban will achieve the policy objective, directly supporting the rationale for choosing this intervention and making it a core support of the argument.",
+      "weight": "core"
+    }
+  ]
+}

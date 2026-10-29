@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Apprenticeship Strategy Goals and Ambitions",
+      "reason": "Sets out the overarching ambition (30,000 apprenticeships) and the shift from counting starts to measuring quality, framing the need for a system of measures and an evaluation timetable; this underpins why testing/measurement is needed at all.",
+      "weight": "core"
+    },
+    {
+      "theme": "Data Collection, Tracking and Governance",
+      "reason": "Describes the concrete plan for measuring and evaluating impact: quarterly data collection, long-term tracking of career outcomes, baseline establishment, review timetable (end of 2016/17, annual thereafter) and governance to ensure accountability—this is the core mechanism by which success will be known.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scale and Spread of Apprenticeships Across Professions",
+      "reason": "Lists specific metrics (numbers across professions, levels, delivery plans) that form part of what is measured, but is a sub-component of the broader data/measurement system rather than a separate pillar of the argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Diversity, Inclusion and Social Mobility",
+      "reason": "Specifies diversity-related outcome measures tied to the social mobility problem, but functions as one of several outcome indicators within the data collection framework rather than an independent argument for how success will be evaluated.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Apprentice Engagement, Progress and Quality",
+      "reason": "Provides specific quality/engagement metrics (People Survey scores, external recognition) that supplement the data collection plan but are examples of measures rather than the structural basis for the testing/evaluation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Employer Value, Productivity and Return on Investment",
+      "reason": "Details employer-survey-based measures of productivity and return on investment, which are specific indicators within the overall measurement framework rather than a core pillar of the testing/evaluation case.",
+      "weight": "not core"
+    }
+  ]
+}

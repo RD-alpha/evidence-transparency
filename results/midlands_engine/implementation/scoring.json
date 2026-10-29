@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Delivery through local partnership",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines such as \"1.15 The government cannot deliver this strategy alone\" and the \u00a34 million for the Partnership assert the delivery route with no statistic, finding or source, and no references are attached."
+    },
+    {
+      "theme": "Delivery of connectivity and HS2 benefits",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on Midlands Connect joining the Smart Ticketing Delivery Board and working with HS2 station authorities describe arrangements and a target (smart tickets by end of 2018) without any evidence for why this route will work."
+    },
+    {
+      "theme": "Work still to be designed",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The line about developing proposals that \"draw on the evidence identified in the Audit\" names the region's science and innovation audit and says how it will be used, but gives no reference, and the other lines only defer work with \"announced in due course\" or commit to examining the skills gap."
+    },
+    {
+      "theme": "Trade and investment delivery timetable",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The dated list of events, missions and publications is a schedule of activities with no evidence offered for why these actions or this timetable were chosen; even the planned research (\"Procure econometric research\", the Trade Barriers and Drivers results) is future work, not evidence used."
+    },
+    {
+      "theme": "Housing and public land delivery",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on the Homes and Communities Agency producing a schedule of sites by end of 2017 describe a procedure and deadline with no evidence behind them."
+    }
+  ],
+  "reasoning": "The four core themes mostly assert delivery routes without grounds. \"Delivery through local partnership\" (level 0) rests on \"The government cannot deliver this strategy alone\" and a \u00a34 million award; no figure, finding or reference supports the claim that the Midlands Engine Partnership is the right vehicle. \"Delivery of connectivity and HS2 benefits\" (level 0) describes working with Midlands Connect and a smart ticketing target by the end of 2018 but gives no evidence that this will work. \"Trade and investment delivery timetable\" (level 0) is a dated list of missions, summits and publications with no explanation of why these actions or dates were chosen. \"Work still to be designed\" (level 1) is the one theme with any evidence: it says proposals will \"draw on the evidence identified in the Audit\" of science and innovation strengths and refers to the skills gap, so evidence is mentioned with some account of its use. However, no reference or link is attached, so it cannot reach level 2. Also, much of this theme only defers decisions (\"announced in due course\") and does not set out a method for deciding. The mean of the core themes is 0.25, which rounds to 0. The strongest counter-example is the Audit line, which suggests some evidence informs the innovation work; it covers only one part of the strategy. To reach level 1 overall, the document would need to explain what evidence supports its chosen delivery routes and timetable; to reach level 2 it would also need to cite the sources and link them to those choices.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.25,
+  "score_consistent": true,
+  "missing_core": []
+}

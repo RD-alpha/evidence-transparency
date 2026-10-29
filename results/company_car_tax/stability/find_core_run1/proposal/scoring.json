@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Retaining CO2 as the core basis",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The claim rests on the government's own uncited fleet-emissions statistic (\"from around 170 gCO2/km to 120 g/km\") and unexplained \"feedback from all key stakeholders\" with no indication of who was consulted or how many responded, and no reference or link is attached."
+    },
+    {
+      "theme": "Whether to add zero emission miles as a secondary metric",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The unnamed \"evidence suggests\" claim about consumer preference for longer-range EVs (line 3.15) is explained but has no named source or citation, so it cannot exceed level 1."
+    },
+    {
+      "theme": "Choice of band structure (continuous vs wider bands)",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The discussion of wider vs narrow bands (3.18-3.19) is entirely reasoning about incentives and cliff-edges with no statistic, finding or named source offered as grounds."
+    },
+    {
+      "theme": "Company car market as a lever for wider fleet decarbonisation",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Department-derived figures (\"around half of all new cars... purchased by companies\", \"average company car ownership is three years\") support the claim but carry no citation and no explanation of how the data was obtained."
+    }
+  ],
+  "reasoning": "Of the four core themes, three reach level 1 and one reaches level 0, giving a mean of 0.75, which rounds down to a section score of 1. The CO2-retention theme cites the government's own fall in fleet emissions (\"170 gCO2/km to 120 g/km\") and \"feedback from all key stakeholders\" as grounds, but neither figure nor stakeholder feedback is referenced or explained methodologically, so it stays at level 1. The zero-emission-miles theme similarly uses an unnamed \"evidence suggests\" (line 3.15) about consumer preference for longer-range EVs, explained but uncited. The company-car-market theme relies on uncited primary statistics (\"half of all new cars\", \"three years\" turnover) with no account of their source or methodology. The band-structure theme is pure argument about incentive effects and cliff-edges with no statistic or source at all, so it scores 0. The strongest counter-example to raising the score is that even the best-supported theme (CO2 retention) never cites its emissions data or stakeholder feedback, leaving a reader unable to verify either claim. To reach level 2, the document would need to attach proper citations or links to its emissions statistics, market-share figures and stakeholder feedback, and show explicitly how each piece of evidence led to the specific banding decisions being proposed.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

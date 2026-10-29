@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Outdated Concordat requires simplification",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The review of the 2012 Concordat is described as concluding that elements are outdated and simplification is needed, but no detail on who conducted the review, its methodology or scope is given, so it stays uncited primary evidence."
+    },
+    {
+      "theme": "Vessel mobility mismatches with licensing administration",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This is an unsupported assertion about why vessels might wish to operate in different parts of the UK, with no data, example or source given."
+    },
+    {
+      "theme": "Economic link condition needs re-examination",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The existing economic link condition is described but no evidence (data on compliance, benefit delivered to coastal communities, or analysis) is offered for why it needs review."
+    },
+    {
+      "theme": "FQA trading creates tension with their legal status",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The claims about general expectation of quota shares and an active trade in FQA units are asserted as departmental knowledge/acknowledgement but with no data on scale, number of trades, or methodology behind the acknowledgement."
+    },
+    {
+      "theme": "UK fisheries governance framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "These are descriptive statements about how the Concordat and quota management work, not evidence for a diagnosis claim."
+    },
+    {
+      "theme": "EU membership status and rights",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "A factual/legal statement about EU membership status, not evidence supporting a diagnosis claim."
+    }
+  ],
+  "reasoning": "The core themes are: Outdated Concordat requires simplification, Vessel mobility mismatches, Economic link condition needs re-examination, and FQA trading creates tension with their legal status. The first relies on a 'scheduled review' concluding the Concordat is outdated, which is the department's own primary evidence (e.g. 'The review concluded that the existing Concordat contained elements which are no longer relevant'), but no detail on how the review was conducted is given, so it reaches level 1, not 2. The FQA theme similarly asserts 'Administrations acknowledge... a general expectation' and 'a trade in FQA units' as internal knowledge, again without methodology, scoring 1. The vessel mobility and economic link themes offer no evidence at all beyond assertion -- no figures on how many vessels change ownership, no data on economic link compliance or benefit -- so both score 0. Mean of (1,0,0,1) = 0.5, rounding down to 0. The strongest counter-example is the review language in the first theme, which comes closest to evidence, but it lacks citation detail (who ran it, what it examined) needed for level 2. To reach level 1 overall the document would need to extend this kind of grounding to the vessel mobility and economic link claims; to reach level 2 it would need to cite the review's methodology and give sourced data on FQA trading volumes and economic link outcomes.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.5,
+  "score_consistent": true,
+  "missing_core": []
+}

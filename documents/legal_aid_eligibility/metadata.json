@@ -1,0 +1,57 @@
+{
+  "title": "Changing the legal aid financial eligibility system",
+  "alias": "legal_aid_eligibility",
+  "uploaded_at": "2026-10-13T11:52:55.672913+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "11:52:55 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "legal_aid_consultation",
+      "title": "Legal Aid Eligibility Consultation",
+      "sentence_count": 260,
+      "first_sentence": "S0001",
+      "last_sentence": "S0260",
+      "reference_count": 6,
+      "first_reference": "1",
+      "last_reference": "6",
+      "link_count": 11
+    },
+    {
+      "alias": "legal_aid_ia",
+      "title": "Legal Aid Eligibility Impact Assessment",
+      "sentence_count": 183,
+      "first_sentence": "S0261",
+      "last_sentence": "S0443",
+      "reference_count": 3,
+      "first_reference": "7",
+      "last_reference": "9",
+      "link_count": 0
+    },
+    {
+      "alias": "legal_aid_equality",
+      "title": "Legal Aid Eligibility Equality Statement",
+      "sentence_count": 137,
+      "first_sentence": "S0444",
+      "last_sentence": "S0580",
+      "reference_count": 11,
+      "first_reference": "10",
+      "last_reference": "20",
+      "link_count": 0
+    },
+    {
+      "alias": "legal_aid_annex_c",
+      "title": "Legal Aid Eligibility Annex C",
+      "sentence_count": 99,
+      "first_sentence": "S0581",
+      "last_sentence": "S0679",
+      "reference_count": 9,
+      "first_reference": "21",
+      "last_reference": "29",
+      "link_count": 0
+    }
+  ],
+  "appendix2_date": "15-16 March 2017",
+  "appendix2_type": "consultation + IA + equality statement + Annex C (combined in Appendix order)",
+  "extraction_note": "Table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

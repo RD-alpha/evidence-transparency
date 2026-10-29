@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Transition period design",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Statutory mechanism for delivery",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Technical file and labelling specification",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Business guidance and support for compliance",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "SME support and equity considerations",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Consultation and evidence-gathering approach",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Enforcement timelines and authority powers",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

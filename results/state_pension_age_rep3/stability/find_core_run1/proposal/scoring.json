@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Linking State Pension age to life expectancy for intergenerational fairness",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 32% benchmark is tied to the past 25 years' experience with a worked 31.3% comparison (refs 1, 38, 39; ref 3 Government Actuary and ref 4 DWP/ONS modelling), and the document reasons through the alternatives of lower pensions or higher taxes, but it does not assess the weaknesses of the evidence."
+    },
+    {
+      "theme": "Raising State Pension age to 68 in 2037\u201339",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 2037\u201339 timing is linked to the Cridland recommendation, the Government Actuary timetable comparison, the cohort 'baby boomer' pace argument and the \u00a370bn saving (ref 36 explains the method), while uncertainty is assessed in the further-review theme but not in this one."
+    },
+    {
+      "theme": "Costs, savings and benefits",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The \u00a374bn saving and \u00a311bn/0.4% GDP figures are modelled by DWP and explained (refs 37, 43, 44, Table A with assumptions on prices, FSR consistency and OBR uprating), with OBR and DWP working paper citations (refs 15, 16, 33), though the caveat that Working Age benefit and tax effects were not estimated is only a partial assessment."
+    },
+    {
+      "theme": "Universal State Pension age",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The reasoning relies on Cridland's findings and unreferenced Pensions Policy Institute analysis about drawing more than was contributed, with no citations, so it stays at level 1."
+    },
+    {
+      "theme": "Further review and open decisions",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The document acknowledges that life expectancy projections are uncertain and that Cridland used both the 2012-based and 2014-based ONS projections, but these ONS projections are not cited and the explanation of how they bear on the open decisions is brief."
+    }
+  ],
+  "reasoning": "Four themes are core: the life-expectancy link, the rise to 68 in 2037\u201339, costs and savings, and universal State Pension age. They score 2, 2, 2 and 1, a mean of 1.75, which rounds to 2. The strongest material is the costs theme. It gives the \u00a374bn saving and \u00a311bn gap in 2039/40, with Table A and notes on the modelling basis (refs 37, 43, 44), plus the OBR and DWP citations for the 0.3% of GDP per year effect (refs 15, 16, 33). The 32% principle is anchored in the 31.3% comparison with the last 25 years (refs 1, 38, 39). The timing theme links the Cridland recommendation to the Government Actuary's timetables, and ref 36 explains how the 2037 date was set. The document also acknowledges uncertainty in life expectancy projections and why it will not formalise policy beyond 2037\u201339. The strongest counter-example to level 2 is the universal-age theme, which leans on uncited Pensions Policy Institute analysis. It makes sound arguments but is largely reasoning and uncited, and it is level 1. Against a higher score, the document does not assess the weaknesses of its own evidence in the core themes. It states that tax and Working Age benefit effects were not estimated, and it admits the life expectancy uncertainty, but it does not weigh contradictory evidence on the choice of 68 or on the employment effect. To reach level 3 it would need to assess the strength of the evidence behind each core claim, set out contrary findings, and cite the supporting analysis.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.6,
+  "score_consistent": true,
+  "missing_core": []
+}

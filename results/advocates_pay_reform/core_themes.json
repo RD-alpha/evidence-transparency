@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Reliance on pages of evidence and witness counts",
+        "claim": "The current scheme relies too heavily on pages of prosecution evidence and witness numbers as proxies for case complexity, which no longer reflect the advocacy work actually done, particularly as electronic evidence is converted into pages."
+      },
+      {
+        "name": "Changing criminal justice system",
+        "claim": "Reforms such as the Crown Court Digital Case System, increased electronic evidence and Better Case Management have changed how cases are run since the scheme was last reformed in 2007, so the scheme no longer fits."
+      },
+      {
+        "name": "Complexity, bundling and uncertainty in the current scheme",
+        "claim": "The current scheme is complicated, inflexible and bundles hearings regardless of whether they occur, so advocates cannot know their fee at the outset and are not paid for work done, with a large miscellaneous class undermining confidence in fairness."
+      },
+      {
+        "name": "Trigger for cracked trials",
+        "claim": "The current 'thirds' trigger for treating a guilty plea as a cracked trial is too early, since significant preparation occurs just before trial."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Offence categories and bands replacing proxies",
+        "claim": "Payment should be driven by a more detailed system of sixteen categories and forty-two bands reflecting typical work required, with standard cases and limited retained page counts in drugs and dishonesty, instead of witness numbers and PPE, because this better captures complexity and is more durable."
+      },
+      {
+        "name": "Unbundling and paying for work done",
+        "claim": "Hearings (the first six standard appearances, sentencing, ineffective trial days, trial days) should be paid separately and bundling reduced, so that advocates, especially juniors, are paid for work done with more certainty and in line with Better Case Management."
+      },
+      {
+        "name": "Guilty plea and cracked trial fees",
+        "claim": "A certificate of trial readiness should mark the point after which a cracked trial is paid at 85% of the trial fee, with earlier guilty pleas at 50%, because this better reflects the preparation done."
+      },
+      {
+        "name": "Cost neutrality and expected distributional effects",
+        "claim": "The scheme is designed to be cost neutral against 2014-15 and to redistribute fees (up for trials and QCs, down for pleas and cracks), with the cost estimate resting on assumptions and sensitivity analysis showing it could cost more or less."
+      },
+      {
+        "name": "Reduced special preparation and fairness to groups",
+        "claim": "Special preparation should be narrowed to genuinely exceptional cases as the new categories capture complexity, and equalities analysis finds no substantial favouring of any group, with the unbundling mitigating effects on juniors."
+      }
+    ],
+    "note": "The proposal is a package of separate fee-design measures plus the cost and equalities assessment, and the document gives little on alternatives other than doing nothing."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Regulatory definition of categories and offence list",
+        "claim": "The categories, bands and standard cases would be set out in regulations, with the full offence list determinative, with fees stated by advocate type."
+      },
+      {
+        "name": "Bar fee-sharing protocol",
+        "claim": "Delivery of separate hearing payments relies on the Bar amending its fee sharing protocol so fees deplete only in the small minority of cases with more than six standard appearances."
+      }
+    ],
+    "note": "Very few sentences are labelled implementation and they give procedural detail with little reasoning about delivery method, alternatives or costs."
+  }
+}

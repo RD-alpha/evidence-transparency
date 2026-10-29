@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Growth and Scale of Private Rental Sector",
+      "reason": "Provides background context on the size and growth of the PRS, establishing scale of the market affected but not itself explaining the fee problem.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Letting Agent Fee Structure and Variation",
+      "reason": "Details how fees are structured, charged and vary widely across agents, directly evidencing the 'high, opaque' fee problem and its scale.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant Control and Fee Impact",
+      "reason": "Explains why tenants cannot avoid or negotiate fees and the financial harm caused, directly addressing the causes and effects of the problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Transparency and Regulation",
+      "reason": "Shows that existing regulation fails to achieve real transparency, directly supporting the diagnosis that fees are opaque despite rules meant to address this.",
+      "weight": "core"
+    },
+    {
+      "theme": "Comparison and Market Competition",
+      "reason": "Explains the market failure mechanism (lack of incentive to lower tenant fees) that causes high and varied fees, a key causal explanation for the problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Poor Practices and Confusion",
+      "reason": "Illustrates specific unfair or exploitative practices by some agents, reinforcing but not founding the core diagnosis of systemic opacity and high fees.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Fee Trends and Rising Costs",
+      "reason": "Provides evidence of rising fee trends over time, supporting the scale/trajectory of the problem described in other themes.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Tenant Vulnerability and Barriers",
+      "reason": "Reiterates points about tenant harm already covered under Tenant Control and Fee Impact, adding specific vulnerability framing rather than new core argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Contains miscellaneous facts (agent vs landlord letting, tenancy length, discrimination, Northern Ireland) that are background detail not central to the fee diagnosis.",
+      "weight": "not core"
+    }
+  ]
+}

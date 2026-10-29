@@ -1,0 +1,64 @@
+{
+  "themes": [
+    {
+      "theme": "Policy Objectives and Rationale",
+      "reason": "States why government intervention is needed and sets out the objectives the proposal must meet, directly explaining why this intervention was chosen.",
+      "weight": "core"
+    },
+    {
+      "theme": "Regulatory Options and Comparison",
+      "reason": "Lays out the preferred option versus alternatives (do nothing, revoke regulations) and justifies why Option 1 was chosen, directly addressing the 'other options' and 'why chosen' points.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation Process and Stakeholder Feedback",
+      "reason": "Explains how prior consultation evidence and stakeholder concerns shaped and revised the proposal, bearing on how the evidence base was assessed and what had been tried before.",
+      "weight": "core"
+    },
+    {
+      "theme": "Test Design and Technical Changes",
+      "reason": "Describes the specific technical design of the new match test and removal of the cigarette test, which is the substance of the chosen intervention itself.",
+      "weight": "core"
+    },
+    {
+      "theme": "Monetised Costs to Business",
+      "reason": "Provides the cost estimates and assumptions behind the proposal, addressing the should-explain point on costs and benefits.",
+      "weight": "core"
+    },
+    {
+      "theme": "Monetised Benefits to Business",
+      "reason": "Provides benefit estimates and assumptions underpinning the case for the proposal, addressing the costs/benefits should-explain point.",
+      "weight": "core"
+    },
+    {
+      "theme": "Non-Monetised Costs and Benefits",
+      "reason": "Covers additional qualitative benefits (health, environment, enforcement) that support the rationale for the chosen intervention beyond pure monetised figures.",
+      "weight": "core"
+    },
+    {
+      "theme": "Affected Industries and Business Impact",
+      "reason": "Describes background on industry size and structure affected by the proposal; contextual rather than carrying the core argument for why this intervention was chosen.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Uncertainties and Data Limitations",
+      "reason": "Acknowledges key uncertainties and data limitations in the cost-benefit assumptions, which is part of explaining the evidence base and its assessment.",
+      "weight": "core"
+    },
+    {
+      "theme": "International Comparison and EU Standards",
+      "reason": "Explains why relying on EU standards (revoking regulations) was not chosen, supporting the 'other options not chosen' explanation.",
+      "weight": "core"
+    },
+    {
+      "theme": "Impact Assessment Summary and Net Costs",
+      "reason": "Summary net cost figures are administrative appraisal detail rather than part of the core reasoning for the chosen intervention.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Contains methodological and procedural detail on data estimation techniques, background sales data, and annex material not central to the proposal's rationale.",
+      "weight": "not core"
+    }
+  ]
+}

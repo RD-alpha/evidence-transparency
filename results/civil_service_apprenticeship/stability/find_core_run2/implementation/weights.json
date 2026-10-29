@@ -1,0 +1,59 @@
+{
+  "themes": [
+    {
+      "theme": "Three delivery routes for creating apprenticeships",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Reforming recruitment, pay and career structures",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Governance and UK-wide delivery structure",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Data collection and long-term tracking for monitoring",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Diversity, inclusion and socio-economic access",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Breadth of apprenticeship provision and skill development",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Quality assurance and training standards",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Career progression and talent pipeline",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Cross-sector collaboration and wider economy support",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Programme governance and strategic direction",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Apprenticeship levy funding",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

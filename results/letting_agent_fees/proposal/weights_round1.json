@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "theme": "Policy Rationale and Market Position",
+      "reason": "Explains the core economic rationale for why the ban shifts incentives to landlords (who hold market power) and expected effects on agent behaviour, directly addressing why this intervention was chosen.",
+      "weight": "core"
+    },
+    {
+      "theme": "Benefits for Tenants",
+      "reason": "Articulates the main intended benefits of the ban for tenants, directly addressing the problem of high, opaque fees and why this intervention addresses it.",
+      "weight": "core"
+    },
+    {
+      "theme": "Transparency and Consumer Information",
+      "reason": "Shows the government considered and reviewed existing transparency measures before deciding a ban was needed, explaining why this stronger intervention was chosen over alternatives.",
+      "weight": "core"
+    },
+    {
+      "theme": "Limitations of Current Transparency Requirements",
+      "reason": "Provides the key justification for rejecting lighter-touch transparency regulation in favour of a ban, directly addressing why other options were not chosen.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scottish Precedent and Evidence",
+      "reason": "Supplies the main evidence base drawn on to support the chosen intervention, addressing what evidence the choice rests on and how it was assessed.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope and Implementation of the Ban",
+      "reason": "Describes the specific design and scope of the proposed ban, directly explaining what the intervention actually is.",
+      "weight": "core"
+    },
+    {
+      "theme": "Impact on Agents and Landlords",
+      "reason": "Addresses anticipated effects on agents and landlords, including costs and behavioural responses, bearing on the costs/benefits and assumptions point.",
+      "weight": "core"
+    },
+    {
+      "theme": "Deposit Regulation",
+      "reason": "A brief mention of a related but separate policy consideration (deposit caps) not central to the fee ban argument itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Longer-term Tenancy Effects",
+      "reason": "A secondary, speculative potential effect mentioned briefly, not a load-bearing part of the main argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Background/contextual statements about policy announcement timing and regulatory status elsewhere, not part of the core argument.",
+      "weight": "not core"
+    }
+  ]
+}

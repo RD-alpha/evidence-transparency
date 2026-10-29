@@ -1,0 +1,129 @@
+{
+  "themes": [
+    {
+      "theme": "Prison System Purpose and Statutory Framework",
+      "reason": "Establishes the statutory purpose as the foundation against which governor autonomy and accountability are built; without this framework, the rest of the proposal has no defined goals to empower governors toward or hold them accountable for.",
+      "weight": "core"
+    },
+    {
+      "theme": "Governor Autonomy and Responsibility",
+      "reason": "This is the central intervention itself: devolving power, budget and decision-making to governors as the chosen mechanism to tackle reoffending and violence.",
+      "weight": "core"
+    },
+    {
+      "theme": "Accountability and Transparency",
+      "reason": "The proposal explicitly pairs autonomy with accountability and transparency as its necessary counterpart; the argument is that devolved power only works if matched by robust accountability, making this a core pillar of the intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Performance Measurement and Standards",
+      "reason": "Provides specific detail on how accountability is operationalised (league tables, performance measures), but this is implementation detail under the broader accountability pillar rather than a separate core support.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prison Staff Training and Workforce Development",
+      "reason": "Describes supporting investment in staff capability to work alongside empowered governors, but is an implementation/supporting measure rather than the core autonomy-accountability mechanism.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Reform and Rehabilitation of Offenders",
+      "reason": "Describes the desired outcome and rationale (reducing reoffending) rather than the specific governor autonomy intervention itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prisoner Safety and Security",
+      "reason": "Describes the safety problem and general approach, but is background/justification rather than the core proposed mechanism of governor empowerment.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Combating Drugs and Contraband in Prisons",
+      "reason": "A specific operational measure addressing security threats, not part of the core autonomy-accountability proposal structure.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Mobile Phones and Drones in Prisons",
+      "reason": "Specific tactical security measure, an implementation detail rather than a pillar of the governor empowerment proposal.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Intelligence Gathering and Criminal Activity in Prisons",
+      "reason": "Specific operational/security measure supporting safety, not central to the autonomy-accountability argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Inspection and Scrutiny Arrangements",
+      "reason": "Details specific scrutiny bodies (HMIP, PPO, IMBs) that implement the broader accountability principle but are not themselves the core argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Employment and Skills Development for Prisoners",
+      "reason": "Illustrates one area where governor autonomy could be applied (employment training) but is an example/application rather than a core support for the proposal.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Sentence Planning and Case Management",
+      "reason": "A specific transfer of responsibility to governors illustrating autonomy in practice, but not itself a core pillar of the argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Health and Mental Health Services in Prisons",
+      "reason": "A specific service area where governor coordination is needed, peripheral detail rather than core to the autonomy-accountability proposal.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Family Engagement and Resettlement Preparation",
+      "reason": "Specific area of governor responsibility, an application of autonomy rather than a core support.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Release on Temporary Licence (ROTL)",
+      "reason": "A specific policy mechanism illustrating governor discretion, not a core pillar of the proposal.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prison Policies and Procedural Reforms",
+      "reason": "Describes specific procedural flexibility measures, supporting detail rather than core argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prisoner Incentives and Behaviour Management",
+      "reason": "A specific power granted to governors, illustrative rather than foundational to the case for governor empowerment.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Women's Prisons and Specialized Approaches",
+      "reason": "A specific application of the broader reform approach to a subpopulation, not core to the overall autonomy-accountability argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Youth Justice System Reforms",
+      "reason": "A brief mention of extending the approach elsewhere, not a substantive support for the core proposal.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Probation Services Coordination",
+      "reason": "Describes coordination with another service, a peripheral detail rather than core to the governor empowerment proposal.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prison Estate Investment and Modernization",
+      "reason": "Concerns infrastructure investment as a separate foundational condition, not the core governor autonomy/accountability mechanism itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Evidence-Based Practice and Resources",
+      "reason": "Describes support resources to help governors make good decisions, an enabling detail rather than a core pillar of the proposal.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Commissioning and Service Delivery",
+      "reason": "Describes how governors will commission services under their new authority, an implementation detail of autonomy rather than a separate core support.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Generic framing statements about systemic change, not substantive support for the specific governor autonomy-accountability proposal.",
+      "weight": "not core"
+    }
+  ]
+}

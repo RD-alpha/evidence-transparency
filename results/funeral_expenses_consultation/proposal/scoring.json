@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Clarifying eligibility and covered costs",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on care-home exceptions, burial plots and medical examiner fees are descriptions and reasoning (\"to ensure Funeral Payments cover the necessary costs\") with no statistic, finding or source, and the Social Fund Regulations mention only describes current rules."
+    },
+    {
+      "theme": "Letting contributions top up payments",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The line \"the total cost of a funeral is often larger than the value of a Funeral Payment\" is an uncited factual assertion offered as grounds, with no figures or source, so it reaches level 1 at best."
+    },
+    {
+      "theme": "Simplifying the claims process",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims that the post-bereavement period is difficult, that invoices by post cause delays and that child-funeral questions mostly do not apply are reasoning and assertion with no data, source or cited evidence."
+    },
+    {
+      "theme": "Stakeholder engagement and consultation basis",
+      "primary_evidence": true,
+      "score": 0,
+      "justification": "Lines say reforms were developed with stakeholders and \"in response to public correspondence\" but give no numbers, method or findings, so the evidence is named without showing what it supports."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The impact assessment line asserts no additional burden is anticipated with no analysis or evidence behind it."
+    }
+  ],
+  "reasoning": "The three core themes are weak on evidence. \"Clarifying eligibility and covered costs\" is level 0: it describes the changes (care-home exemption, burial plots, medical examiner fees) and gives reasons such as covering \"necessary costs\", but offers no statistic, finding or source. The Social Fund Regulations are mentioned only to describe current rules, so they do not count as evidence. \"Simplifying the claims process\" is also level 0: the claims that the period after bereavement is difficult, that postal invoices cause \"undue delays\" and that most questions do not apply to children's funerals are plausible reasoning, with no data on processing times, claim volumes or how many claims lapsed after 3 months. \"Letting contributions top up payments\" reaches level 1 because it states that \"the total cost of a funeral is often larger than the value of a Funeral Payment\", a factual claim offered as grounds, though with no figures or citation. The mean of the core levels is (0+1+0)/3 = 0.33, which rounds to 0. The strongest counter-example is the funeral-cost assertion, which shows the document does sometimes cite a factual basis, and the mention of stakeholder and public correspondence, which hints at primary evidence. But the document gives no number of respondents, no content and no method, so that cannot raise a theme. To reach level 1 across the section, the document would need to offer evidence for each core change, such as claim data, the number of late or refused claims, processing delays, or the average funeral cost against the payment. Level 2 would also need sources and a method a reader can follow.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

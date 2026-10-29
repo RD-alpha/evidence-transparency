@@ -1,0 +1,169 @@
+A democracy that works
+for everyone: survivors of domestic abuse
+Policy Statement
+S0001 March 2017
+S0002 © Crown copyright 2017 Produced by Cabinet Office You may re-use this information (excluding logos) free of charge in any format or medium, under the terms of the Open Government Licence.
+S0003 To view this licence, visit http://www.nationalarchives.gov.uk/doc/open-government-licence/ or email: psi@nationalarchives.gsi.gov.uk Where we have identified any third party copyright material you will need to obtain permission from the copyright holders concerned.
+S0004 Alternative format versions of this report are available on request from anonymous-registration@cabinetoffice.gov.uk.
+A democracy that works for everyone: survivors of domestic abuse
+S0005 Foreword 2!
+S0006 Policy summary 3!
+S0007 Introduction 3!
+S0008 Current system 3!
+S0009 Proposed system 4!
+S0010 Annex A: List of court orders and injunctions 9!
+S0011 Annex B: List of qualifying officers 10!
+A democracy that works for everyone: survivors of domestic abuse
+Foreword
+S0012 As part of our determination to have a democracy that works for everyone, I am very pleased to publish this policy statement setting out our aim of ensuring survivors of domestic abuse can participate in our democracy.
+S0013 We are committed to removing barriers that prevent voters from exercising their democratic rights.
+S0014 Protecting the safety of survivors of abuse by making it easier for them to register to vote without their names and addresses appearing in the electoral register is a key part of that change.
+S0015 I have worked closely with domestic abuse organisations to review the anonymous registration process.
+S0016 I have met survivors of abuse who have been unable to register to vote anonymously – and therefore securely – because the information they need to provide is simply too complex, or they do not have access to the people who could attest about risks to their safety.
+S0017 It is clear to me that these difficulties in navigating the system may have led those affected by them to decide that the easiest thing to do was simply not to register to vote.
+S0018 This Government will not allow this to continue.
+S0019 Those who have been constrained by their abusers must have full freedom to express themselves in the democratic processes and political life of our nation.
+S0020 I am committed to developing a democracy that works for everyone, where every voice matters.
+S0021 This policy statement sets out planned and proposed reforms to the anonymous registration scheme, intended to make it more accessible to those escaping domestic abuse.
+S0022 I would welcome feedback from any interested party on the proposals detailed herein.
+S0023 I am keen to make progress on legislative changes quickly, so that we can start making a difference to people’s lives in this area as soon as possible.
+S0024 Under provisions of the Scotland Act 2016, the Scottish Parliament will shortly gain legislative competence for all electoral registration in relation to the local government register of electors in Scotland.
+S0025 I will work with the Scottish Government in the coming months to ensure that we can together deliver reforms to anonymous registration which properly reflect and respect the differences in law and practice in Scotland.
+S0026 We will need to ensure that, subject to the Scottish Government’s views, we make legislative changes in lockstep, applying equally to the Parliamentary and local government registers in Scotland.
+S0027 Similar powers will be devolved to the National Assembly for Wales in due course, but most likely after changes to anonymous registration have come into force.
+S0028 Northern Ireland has a similar anonymous registration scheme in place to that which currently applies in Great Britain.
+S0029 Cabinet Office will work with the Northern Ireland Office to determine whether they wish to update their scheme in line with our proposed reforms.
+S0030 I look forward to continuing to work with electoral organisations and domestic abuse charities as we move forward with this Government’s proposals to make anonymous registration work effectively for all whom it is intended to help.
+S0031 Chris Skidmore MP Minister for the Constitution
+A democracy that works for everyone: survivors of domestic abuse
+Policy summary
+Introduction
+S0032 1.
+S0033 The Government announced in September 2016 that it would look closely at whether the current system of anonymous electoral registration could be improved to make it easier for survivors of domestic abuse to safely register to vote.
+S0034 2.
+S0035 This document sets out the Government’s approach to reforming anonymous registration, with particular reference to England and Wales.
+S0036 We would hope that similar changes will also be made in Scotland.
+S0037 A consequence of the further devolution of powers to Scotland is that the Scottish Parliament will shortly gain legislative competence in respect of all of the local government electoral register in Scotland (the Parliamentary register remains reserved).
+S0038 The UK Government will work with the Scottish Government to agree and implement joint reforms to anonymous registration for all elections in Scotland.
+S0039 3.
+S0040 This policy statement covers planned reforms and proposals for the future of anonymous electoral registration, on which we seek feedback from all interested parties.
+S0041 4. We are keen to ensure that the reforms balance: • access to anonymous registration for those who need it; • clarity and certainty for electoral administrators about who is eligible for anonymous registration; and • assurance for those who might be asked to attest to the risk to an individual’s safety that they will not be subject to inappropriate administrative burdens.
+S0042 5. All the proposed changes to the current arrangements would require the current legislation to be amended.
+Current system
+S0043 6. Anonymous registration was first introduced in Great Britain by the Electoral Administration Act 2006, which amended the Representation of the People Act 1983 and provided for the overall structure of the scheme.
+S0044 The detail of how anonymous registration works is provided for, in relation to England and Wales, in the Representation of the People (England and Wales) Regulations 2001.
+S0045 7.
+S0046 The scheme was intended to protect those whose safety would be at risk if their name and address appeared in the electoral register.
+S0047 It was envisaged that this might include for example victims of harassment or stalking, as well as some witnesses in criminal court cases.
+S0048 It was not intended to be available to those who simply wanted to keep their name and address private.
+S0049 Consequently, the threshold for anonymous registration was set at quite a high level.
+A democracy that works for everyone: survivors of domestic abuse
+S0050 8.
+S0051 A person can register to vote anonymously if they can show that their safety, or the safety of someone else in their household, would be at risk if the electoral register contained their name or address.
+S0052 9.
+S0053 An applicant must prove the risk to their safety by providing either: • a live court order or injunction from a set list of orders and injunctions; or • an attestation about the risk to their safety made by a qualifying officer, such as a Superintendent of Police or a Director of Social Services. 10. ** (Reference: 1,2)
+S0054 Applicants can use either of these types of evidence.
+S0055 They do not have to provide both.
+S0056 As with all applications to register to vote, the final determination as to the applicant’s eligibility rests with the Electoral Registration Officer (ERO) for the local authority area in which the applicant lives.
+S0057 An applicant who makes a declaration in support of an application for an anonymous entry when they know that they are disqualified from voting or when they know that the declaration contains a statement which is false would be guilty of an offence under the Representation of the People Act 1983. 11. ** (Reference: 3)
+S0058 An anonymous entry on the electoral register is terminated 12 months after it first takes effect.
+S0059 If someone continues to require anonymous registration, they must reapply for it on a yearly basis.
+S0060 12.
+S0061 The anonymous registration scheme has been updated on a number of occasions since it was first introduced to add new types of court order and to update the list of qualifying officers who can provide an attestation.
+Proposed system
+S0062 13.
+S0063 As a first step, the Government now intends to update the list of court and other orders that are acceptable as evidence of the risk to an applicant’s safety, to reflect new orders which have been added to the statute book.
+S0064 The Government also intends to lower the seniority required of attestors from both the police and social services.
+S0065 14.
+S0066 The Government intends to further reform the anonymous registration scheme to make it more accessible to those escaping domestic abuse.
+S0067 We seek feedback from all interested parties on the proposals set out below to expand the types of documentary evidence and the types of attestors an applicant for anonymous registration can rely on as evidence of the risk to their safety.
+A democracy that works for everyone: survivors of domestic abuse
+S0068 Expanding the list of qualified attestors
+S0069 15.
+S0070 The Government intends to lower the seniority required of an attestor from the police or social services.
+S0071 The current system limits the provision of police attestations to police officers of or above the rank of Superintendent and social services attestations to Directors of Social Services.
+S0072 We intend to allow applicants in England and Wales to get an attestation from a police officer of the rank of Inspector and above, or from a social worker.
+S0073 This change in seniority would expand the list of qualified attestors, creating roughly seven times the number of potential police attestors than there are at present.
+S0074 It would also greatly increase the number of potential social services attestors.
+S0075 The expansion of the list would include people to whom survivors of domestic abuse would be likely to have access.
+S0076 16.
+S0077 A number of additional professions could be added to the list of those who can attest to the risk to an applicant’s safety.
+S0078 The Government welcomes feedback on proposals to add health professionals; domestic abuse refuge managers; domestic abuse advocates (whether Independent Domestic Violence Advocates or Advisors (IDVAs) or Independent Domestic Abuse Advocates (IDAAs)); and Multi-Agency Risk Assessment Conference (MARAC) chairs to the list of qualified attestors.
+S0079 17.
+S0080 These proposals seek to expand the list of qualified attestors to include the points of contact with whom survivors of domestic abuse would be most likely to meet.
+S0081 These are people who would appear to be well qualified to verify with authority the risk to an applicant’s safety.
+S0082 18.
+S0083 The Government could add health professionals such as GPs, nurses and midwives to the list of qualified attestors.
+S0084 Health professionals are one of the groups of people to whom survivors of abuse may actually disclose what has happened to them.
+S0085 As such, they may be well placed to provide an independent judgment of the validity of the risk to the safety of an applicant for anonymous registration who is a survivor of abuse.
+S0086 19.
+S0087 The Government could also add the managers of domestic abuse refuges to the list of qualified attestors.
+S0088 We could allow any domestic abuse refuge manager to attest about any applicant or allow only the manager of a refuge which is currently providing or has provided services to an applicant to provide an attestation.
+S0089 A domestic abuse refuge may need to be defined in legislation in such a way as to include and exclude the appropriate organisations.
+S0090 20.
+S0091 The Government could add domestic abuse advocates – IDAAs or IDVAs – to the list of qualified attestors.
+S0092 Domestic abuse advocates work as primary points of contact for high risk victims of domestic abuse and should be in a very well-informed position to judge the risk to the safety of a client.
+S0093 21.
+S0094 Similarly, MARAC chairs could also be added to the list of qualified attestors.
+S0095 MARACs are conferences at a local level which discuss how to help high-risk victims of domestic abuse, bringing together various groups such as domestic abuse advocates, the police, social services, health professionals and others.
+S0096 MARAC chairs should be able to judge the risk to the safety of an applicant for anonymous registration whose circumstances are
+A democracy that works for everyone: survivors of domestic abuse
+S0097 being considered by that MARAC.
+S0098 There are over 280 MARACs operating across the United Kingdom.
+S0099 Expanding the list of documentary evidence
+S0100 22.
+S0101 The Government intends to add three new court orders to the list of live court orders and injunctions that applicants for anonymous registration can use as evidence of the risk to their safety.
+S0102 23.
+S0103 In England and Wales, the Government intends to update the legislation to allow applicants for anonymous registration to use the following orders to show a risk to their safety: • domestic violence protection notices (DVPNs) and domestic violence protection orders (DVPOs); and • Female Genital Mutilation (FGM) protection orders. 24. ** (Reference: 4,5)
+S0104 DVPNs and DVPOs are used after domestic incidents to provide short-term protection to victims, granting them a period of distance from their abusers. FGM protection orders are for the protection of people against the commission of a genital mutilation offence or against whom such offences have been committed. 25. ** (Reference: 6,7)
+S0105 The Government could expand the list of documentary evidence – used by EROs to determine that there is a risk to the safety of an applicant for anonymous registration – more broadly to include different types of evidence.
+S0106 This would bring the list of acceptable documentary evidence for anonymous registration more closely in line with the documentary evidence allowed in the processes for settlement in the UK as a victim of domestic violence and for entitlement to legal aid in private family proceedings as a victim of domestic violence.
+S0107 26.
+S0108 Potential additions to an expanded list of documentary evidence which the Government is considering include: • relevant unspent court convictions for a domestic abuse-related offence; • criminal proceedings or evidence of bail for a domestic abuse-related offence; • court undertakings relating to domestic abuse; • court findings of fact that domestic abuse has taken place; • relevant police cautions for domestic abuse;
+A democracy that works for everyone: survivors of domestic abuse
+S0109 • evidence that someone has been granted indefinite leave to remain in the UK as a victim of domestic violence; and • evidence that someone has been granted legal aid in private family proceedings on domestic violence grounds.
+S0110 Changing the requirement that court orders used as evidence must be live
+S0111 27.
+S0112 For applicants who use an order or injunction as evidence of the risk to their safety, the law requires that the order or injunction must be live on the day when the anonymous registration application is made.
+S0113 The Government seeks feedback on its proposals to modify or remove this requirement.
+S0114 28.
+S0115 The Government could remove the requirement for an order or injunction to be in force when it is used as evidence.
+S0116 This would allow spent orders or injunctions to be used as evidence by an applicant no matter how long ago the order or injunction was first issued.
+S0117 This reform would reflect the fact that abuse does not necessarily fit within a time limit and many survivors of abuse fear for their safety years after escaping abuse.
+S0118 29.
+S0119 Removing the time limit would make it difficult to guard against applicants for anonymous registration continuing to successfully register long after the need to do so has expired.
+S0120 Proof of a relevant live order or injunction is a strong sign to electoral administrators of the immediacy of the risk to safety faced by an applicant for anonymous registration.
+S0121 Given the lengthy application process and the need to re-register every year, the risk of this may be low but it is still present.
+S0122 30.
+S0123 Alternatively, the Government could remove the requirement for an order or injunction to be in force when it is used as evidence and replace it with a time limit on the use of spent orders or injunctions.
+S0124 Depending on the time limit set, this could allow survivors of historical abuse who still fear for their safety to register anonymously but also make sure that applicants for anonymous registration could not continue to register anonymously indefinitely when the need to do so had expired.
+S0125 Extending the duration of an anonymous entry on the register
+S0126 31.
+S0127 At present, an anonymous entry on the register is terminated 12 months after it first takes effect.
+S0128 Those whose safety remains at risk can reapply annually, but the same level of evidence is required each time.
+S0129 The Government is continuing to investigate whether this requirement can be modified to reduce the burden on victims of domestic abuse of yearly renewals and hopes to come forward with proposals in due course.
+S0130 We would welcome suggestions as to how this might be achieved. ** (Reference: 8)
+S0131 Feedback
+S0132 32.
+S0133 The Government welcomes feedback on any aspect of the proposals from all interested parties.
+S0134 We would also welcome feedback on the following specific questions:
+S0135 • Should health professionals be added to the list of qualified attestors?
+S0136 If so, which health professionals should be added to the list?
+A democracy that works for everyone: survivors of domestic abuse
+S0137 • Should domestic abuse refuge managers be added to the list of qualified attestors?
+S0138 If so, should there be a direct connection between an applicant and that refuge?
+S0139 • How should domestic abuse refuges be defined in order to capture all appropriate organisations?
+S0140 • Should the requirement that court orders used as evidence must be live at the time of application be removed and, if so, should it be replaced with a time limit on the use of spent court orders?
+S0141 33.
+S0142 Feedback should be sent by 26 May 2017 to anonymous-registration@cabinetoffice.gov.uk or by post to:
+S0143 Electoral Registration and Franchise Team Cabinet Office 4th Floor Orange Zone 1 Horse Guards Road London SW1A 2HQ
+A democracy that works for everyone: survivors of domestic abuse
+Annex A: List of court orders and injunctions
+S0144 The list of court orders and injunctions which are acceptable as evidence for anonymous registration is as follows: • an injunction for the purpose of restraining a person from pursuing any conduct which amounts to harassment granted in proceedings under section 3 of the Protection from Harassment Act 1997; • an injunction granted under section 3A(2) of the Protection from Harassment Act 1997; • a restraining order made under section 5(1) of the Protection from Harassment Act 1997; • a restraining order on acquittal made under section 5A(1) of the Protection from Harassment Act 1997; • a non-harassment order, interdict or interim interdict made under section 8 or 8A of the Protection from Harassment Act 1997; • a non-harassment order made under section 234A(2) of the Criminal Procedure (Scotland) Act 1995; • a non-molestation order made under section 42(2) of the Family Law Act 1996; • an injunction for the purpose of restraining a person from pursuing any conduct which amounts to harassment granted in proceedings under article 5 of the Protection from Harassment (Northern Ireland) Order 1997; • a restraining order made under article 7 of the Protection from Harassment (Northern Ireland) Order 1997; • a restraining order on acquittal made under article 7A(1) of the Protection from Harassment (Northern Ireland) Order 1997; • a non-molestation order made under article 20(2) of the Family Homes and Domestic Violence (Northern Ireland)
+S0145 Order 1998; • a matrimonial interdict within the meaning of section 14 of the Matrimonial Homes (Family Protection)
+S0146 Scotland Act 1981; • a domestic interdict within the meaning of section 18A of the Matrimonial Homes (Family Protection)
+S0147 Scotland Act 1981; • a relevant interdict within the meaning of section 113 of the Civil Partnership Act 2004; • an interdict that has been determined to be a domestic abuse interdict within the meaning of section 3 of the Domestic Abuse (Scotland) Act 2011; • any interdict with an attached power of arrest made under section 1 of the Protection from Abuse (Scotland) Act 2001; • a forced marriage protection order or interim forced marriage protection order under any of the following provisions— • Part 4A of the Family Law Act 1996; • section 2 of, and paragraph 1 of Schedule 1 to, the Forced Marriage (Civil Protection) Act 2007; • section 1 of the Forced Marriage etc.
+S0148 (Protection & Jurisdiction) (Scotland) Act 2011; and • section 5 of the Forced Marriage etc. (Protection & Jurisdiction) (Scotland) Act 2011.
+A democracy that works for everyone: survivors of domestic abuse
+Annex B: List of qualifying officers
+S0149 The list of qualifying officers who can provide an attestation for anonymous registration is as follows: • a police officer of or above the rank of Superintendent of any police force in England and Wales; • a police officer of or above the rank of Superintendent of the Police Service of Scotland; • a police officer of or above the rank of Superintendent of the Police Service of Northern Ireland; • the Director General of the Security Service; • the Director General of the National Crime Agency; • any director of adult social services in England within the meaning of section 6(A1) of the Local Authority Social Services Act 1970; • any director of children's services in England within the meaning of section 18 of the Children Act 2004; • any director of social services in Wales within the meaning of section 144 of the Social Services and Well-being (Wales) Act 2014; • any chief social work officer in Scotland within the meaning of section 3 of the Social Work (Scotland) Act 1968; • any director of social services of a Health and Social Services Board established under article 16 of the Health and Personal Social Services (Northern Ireland) Order 1972; • any executive director of social work of a Health and Social Services Trust established under article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991.

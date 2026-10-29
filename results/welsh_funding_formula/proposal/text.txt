@@ -1,0 +1,88 @@
+S0005 This agreement will enable the powers in the Wales Act 2014 – and any further powers devolved under the current Wales Bill – to be implemented.
+S0006 In particular, it will support the devolution of stamp duty land tax and landfill tax, and the creation of Welsh rates of income tax (subject to the enactment of the Wales Bill currently before Parliament).
+S0007 Building on the joint funding announcement in 2012 and the funding floor implemented at the 2015 Spending Review, this agreement puts in place fair, sustainable and coherent funding arrangements across all the Welsh Government’s tax and spending responsibilities.
+S0008 It also provides the Welsh Government with additional capital borrowing powers and a new Wales Reserve to help manage its budget.
+S0013 This agreement sets out the Welsh Government’s funding arrangements to support its existing responsibilities, the implementation of Wales Act 2014, and any further powers devolved under the current Wales Bill.
+S0015 The funding arrangements for areas that are currently within EU competence are outside the scope of this agreement.
+S0021 The Welsh Government’s block grant funding is therefore being updated (subject to the enactment of the current Wales Bill and the implementation of Welsh rates of income tax in 2019-20) to reflect these new powers and to address longstanding concerns in Wales about fair funding.
+S0026 As summarised in Box 1 and set out in further detail below, the Welsh Government’s new block grant funding arrangements comprise two elements: a Barnett-based ‘Holtham floor’ in relation to spending devolution and Comparable block grant adjustments for tax devolution. ** (Reference: 1)
+S0029 • From 2018-19 a new needs-based factor will be included in the Barnett Formula to determine changes to Welsh Government block grant funding in relation to spending devolution
+S0030 • This needs-based factor will be set at 115% based on the range suggested by the Holtham Commission and the SR15 funding floor
+S0031 • While relative Welsh Government funding per head remains above 115%, a transitional factor of 105% will be set
+S0032 • Changes to block grant funding in relation to tax devolution will be determined through the Comparable model (after an initial baseline deduction to reflect tax foregone by the UK government at the point of devolution)
+S0034 The Comparable model will be applied to stamp duty land tax, landfill tax and each band of income tax
+S0035 • These arrangements will provide stability to the Welsh Government’s funding in a way that is fair to Wales and the rest of the UK
+S0080 The UK and Welsh governments have agreed a set of block grant funding principles designed to support the development of a robust and sustainable approach to funding:
+S0081 • Relatively simple to operate and understand – the funding system should use straightforward and objective calculations rather than relying on complex statistical techniques or assumptions;
+S0082 • Not subject to ongoing negotiation – aside from periodic review, the funding system should operate mechanically (like the Barnett Formula);
+S0083 • Fair funding for the long-term – the Welsh Government should have a fair level of funding based on relative need, subject to appropriate risks in relation to tax devolution;
+S0084 • Consistent treatment of risks and opportunities – the Welsh Government should hold symmetric (and therefore off-setting) risks and opportunities across tax and spending, in particular through using the same population numbers for all elements of block grant funding.
+S0086 The new funding agreement set out below meets all of these principles.
+S0087 In particular, it provides the Welsh Government with a long-term and sustainable fair funding guarantee that incorporates a consistent approach to risks and opportunities.
+S0090 At the 2015 Spending Review (SR15) the UK government implemented a funding floor in Wales.
+S0091 This provided a guarantee that the Welsh Government’s block grant funding per head would not fall below 115% of equivalent funding per head in England.
+S0092 This guarantee was provided for the current Parliament, after which the floor would be reset.
+S0094 The two governments have now agreed to implement a new funding floor mechanism from 2018-19, which was originally recommended by the Holtham Commission.
+S0095 Under this Holtham floor, all changes in the Welsh Government’s block grant determined by the Barnett Formula will be multiplied by a new needs-based factor.
+S0096 While this retains almost all of the features of the Barnett Formula, there is one key difference – all else being equal, relative Welsh Government funding will converge towards this needs- based factor over time (rather than towards 100% as under the current arrangements).
+S0097 This therefore provides a more mechanical funding floor than the simple floor introduced at SR15.
+S0123 The governments have agreed this needs-based factor will be set at 115%, based on the range recommended by the Holtham Commission and the funding floor implemented at the SR15.
+S0124 However, for a transitional period, while relative Welsh Government block grant funding per head remains above 115% of equivalent England funding per head, the factor will be set at 105%.
+S0127 Relative Welsh Government block grant funding is expected to converge slowly from around 120% into the range recommended as fair by the Holtham Commission (114% to 117%).
+S0136 When further areas of spending are devolved, the changes to the Welsh Government’s block grant funding comprise two elements:
+S0137 • Initial baseline adjustment – this reflects UK government spending plans at the point of devolution
+S0138 • Subsequent block grant changes – these are based on changes in equivalent UK government spending in the rest of the UK (via the Barnett Formula)
+S0140 For tax devolution, there are two similar elements:
+S0141 • Initial baseline adjustment – this reflects tax foregone by the UK government at the point of devolution
+S0142 • Subsequent block grant changes – these are based on changes in equivalent UK government tax in the rest of the UK
+S0144 The initial baseline adjustment for tax devolution is relatively straightforward – the approach that will be used to estimate Welsh taxes at the point of devolution is set out in Annex B.
+S0145 However, as has been widely explored in recent academic literature, there are a range of choices about how subsequent block grant changes are determined.
+S0147 Based on the agreed principles, there are two key issues:
+S0148 • Impact of tax base growth – the Welsh Government should have fair funding subject to “appropriate” tax risks.
+S0150 Treatment of population change – the same population numbers should be used to calculate changes in the block grant in relation to tax devolution and spending devolution.
+S0152 Alongside the Barnett-based funding floor, the UK and Welsh governments have agreed these principles are satisfied by the application of the Comparable model to each of the devolved taxes (stamp duty land tax and landfill tax) and to each band of income tax.
+S0165 • An increase in equivalent UK government tax corresponds to a reduction in the Welsh Government block grant (and vice versa).
+S0166 • The comparability factor reflects tax per head in Wales as a proportion of the corresponding UK government tax per head at the point of devolution.
+S0167 For example, based on HMRC’s 2015-16 estimates, the comparability factor is 25% for stamp duty land tax and 87% for landfill tax. ** (Reference: 6)
+S0168 • The Comparable model uses the same population share as the Barnett Formula.
+S0171 • Consistent treatment of population change – As noted, in a recent report by the Welsh Governance Centre and Institute for Fiscal Studies, the agreed approach to block grant funding delivers a consistent approach to population change – the same population numbers will be used to calculate changes in the Welsh Government’s block grant funding in relation to both tax and spending (so any impacts of differential growth will offset within the Welsh Government’s funding). ** (Reference: 8)
+S0172 This will be the case even during the transitional period.
+S0180 • Direct effects – These will all be accounted for, either mechanically through the block grant adjustment or separately once identified.
+S0181 • Behavioural effects – These will only be accounted for in exceptional circumstances, where the effects are material and demonstrable, and both governments agree that it is appropriate to do so.
+S0182 • Second round effects – These will not be accounted for.
+S0184 Policy ‘spill-over’ effects occur where a decision by one government has an impact on the tax or spending of another. There are three main categories: ** (Reference: 9)
+S0185 • Direct effects – these are the financial effects that will directly and mechanically exist as a result of a policy decision (before any associated change in behaviour).
+S0186 For example, if the UK government increases the personal allowance then the Welsh Government will receive less revenue from Welsh rates of income tax.
+S0187 • Behavioural effects – these are the financial effects that result from people changing behaviour following a policy decision.
+S0188 For example, if the Welsh Government sets a different additional rate of income tax, it may encourage people to move across the border thereby affecting the UK government’s revenues. ** (Reference: 10)
+S0189 • Second round effects – these are the wider economic impacts that may result more indirectly from policy decisions.
+S0190 For example, a change in income tax rates in Wales could affect economic activity and therefore the amount of VAT generated for the UK government in Wales.
+S0192 Taking these in turn, the UK and Welsh governments have agreed all direct effects will be accounted for.
+S0193 As set out in the block grant funding section, applying the Comparable model to each income tax band separately will ensure UK government income tax policy decisions (such as changes to the personal allowance) will be dealt with entirely mechanically.
+S0195 The UK and Welsh governments have also agreed behavioural effects can be accounted for in exceptional circumstances, where the effects are material and demonstrable, and both governments agree it is appropriate to do so.
+S0197 Finally, it has been agreed second round effects will not be accounted for due to the significant uncertainty surrounding the causality and scale of any financial impact.
+S0213 The Welsh Government’s overall capital borrowing cap will be increased to £1bn
+S0214 • From April 2019 the Welsh Government’s annual capital borrowing limit will be increased to £150m (15% of the overall cap)
+S0216 The Welsh Government’s existing capital borrowing limits (set out in the Wales Act 2014) are being increased.
+S0226 The governments have now agreed the statutory limit on borrowing for capital expenditure will be increased to £1bn.
+S0228 The annual limit on the amount of borrowing for capital expenditure will also be increased.
+S0229 Alongside the introduction of Welsh rates of income tax, the annual limit will be set at 15% of the overall borrowing cap, which is equivalent to £150m a year.
+S0230 There remain no restrictions about how the Welsh Government can use its borrowing powers to deliver its devolved responsibilities.
+S0241 The Welsh Government’s cash reserve and access to the Budget Exchange facility are being combined into a new Wales Reserve from April 2018
+S0242 • There will be no annual limit for payments in to the Wales Reserve
+S0244 The Wales Reserve can hold up to £350m in aggregate
+S0245 • There will be an annual drawdown limit of £125m for resource and £50m for capital
+S0247 The Welsh Government’s resource borrowing powers will remain as set out in Wales Act 2014
+S0249 The Welsh Government’s budget management tools are being extended and rationalised.
+S0257 The two governments have agreed the cash reserve and access to the Budget Exchange facility will be replaced with a new Wales Reserve from April 2018.
+S0258 This timing will allow the Welsh Government to save any 2017-18 underspends in the new Reserve to support the devolution of stamp duty land tax and landfill tax and the introduction of their successor taxes in Wales – land transaction tax and landfill disposals tax, respectively, in April 2018.
+S0259 The Reserve will also include £98.5m as agreed as part of the arrangements for the full financial devolution of non-domestic rates in Wales.
+S0261 The Wales Reserve will be held within the UK government and will be separated between resource and capital.
+S0262 Resource funding (including resource block grant and tax receipts) can be paid into the resource reserve.
+S0263 Funds in the resource reserve may be drawn down to fund resource or capital spending.
+S0264 Capital funding (including capital block grant and capital borrowing) can be paid into the capital reserve.
+S0265 Funds in the capital reserve may be drawn down to fund capital spending only.
+S0267 The Wales Reserve will be capped in aggregate at £350m. There are no annual limits for payments into the Wales Reserve.
+S0268 Annual drawdowns will be limited to £125m for resource and £50m for capital.
+S0270 In line with existing arrangements, Welsh Ministers may request additional flexibility with the consent of Treasury Ministers in exceptional circumstances.
+S0272 The governments have also agreed the resource borrowing powers set out in Wales Act 2014 remain unchanged as they already reflect the expected volatility from full implementation of the Welsh Government’s new tax powers, including Welsh rates of income tax).

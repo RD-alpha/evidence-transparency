@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "name": "Academic status of modern languages",
+      "ids": [
+        "S0004",
+        "S0005"
+      ]
+    },
+    {
+      "name": "Transferable skills and wider value",
+      "ids": [
+        "S0005"
+      ]
+    },
+    {
+      "name": "Universal relevance and progression pathway",
+      "ids": [
+        "S0006",
+        "S0007"
+      ]
+    }
+  ]
+}

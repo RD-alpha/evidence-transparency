@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Skills and Productivity Business Case",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Social Mobility and Diversity Business Case",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Numerical Commitment as the Chosen Scale of Action",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Quality Alongside Quantity",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Leading by Example in the Public Sector and Wider Economy",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Workforce Planning and Skills Gap Alignment",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Apprenticeship Programme Outcomes and Impact",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Inclusive Civil Service and Working Environment",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Apprenticeship Funding and Investment",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

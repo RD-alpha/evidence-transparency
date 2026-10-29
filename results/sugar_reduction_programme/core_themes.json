@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Scale and health consequences of childhood obesity",
+        "claim": "Nearly a third of children aged 2-15 are overweight or obese, starting earlier and persisting longer, which raises the risk of premature death, type 2 diabetes and depression and costs the NHS billions."
+      },
+      {
+        "name": "Inequality in obesity burden",
+        "claim": "Obesity falls hardest on children from the most deprived areas, with rates two to three times higher than for the best-off children and still worsening."
+      },
+      {
+        "name": "Excess sugar and calorie intake",
+        "claim": "Children consume too many calories and too much sugar, especially from sugar-sweetened drinks, and obesity at root stems from energy imbalance, with SACN concluding that sugar raises the risk of excess calories, tooth decay and weight gain."
+      },
+      {
+        "name": "Low physical activity and early-years onset",
+        "claim": "Children are not active enough, and many are already overweight before school while few toddlers meet activity guidelines, so more needs to be done to encourage daily activity."
+      }
+    ],
+    "note": "Diagnosis sentences also include a labelling gap (current labels show total sugars rather than the specific sugars guidelines target), which is a secondary point."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Soft drinks industry levy",
+        "claim": "A levy on producers and importers of sugary drinks, not consumers, is the first major step because it pushes producers to cut sugar and shift consumers to healthier alternatives, with revenue funding school sport and breakfast clubs."
+      },
+      {
+        "name": "Industry sugar and calorie reduction programme",
+        "claim": "Gradually reformulating products, shrinking portions or shifting purchases is chosen because universal changes do not rely on individual behaviour change, so all sectors are challenged to cut sugar by at least 20% by 2020."
+      },
+      {
+        "name": "Physical activity and school-based action",
+        "claim": "Children need 60 minutes of activity a day, 30 of it in school, backed by sport funding, healthy rating scheme, updated school food standards and breakfast clubs, because activity and school food shape healthy habits and benefit health and attainment."
+      },
+      {
+        "name": "Healthier food environment and informed choice",
+        "claim": "Clear nutrient profiling, public-sector food standards, better labelling, digital tools and health-professional advice will make healthy choices easy and let families choose well."
+      }
+    ],
+    "note": "The proposal is a package of many separate measures with the levy and reformulation programme as the lead elements; little is said about alternatives rejected or costs and benefits."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Levy delivery and timetable",
+        "claim": "The levy will be legislated in the Finance Bill 2017 after consultation on technical detail, with producers given two years to cut sugar to avoid the charge."
+      },
+      {
+        "name": "Public Health England-led reduction programme",
+        "claim": "PHE will lead the sugar reduction programme, setting category targets per 100g and calorie caps, starting with nine categories, using a 2015 baseline so early reformulators are recognised, and keeping government ready to use other levers if progress is insufficient."
+      },
+      {
+        "name": "School delivery mechanisms",
+        "claim": "Schools will be supported to deliver activity and healthier food through Ofsted inspection of the PE premium, PHE advice, an online planning tool, County Sports Partnerships and a rating scheme built in consultation."
+      }
+    ],
+    "note": "Implementation is mostly a series of delivery arrangements for separate measures, with little stated reasoning or evidence for choosing these delivery methods."
+  }
+}

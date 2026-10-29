@@ -1,0 +1,18 @@
+{
+  "title": "Commerical Radio Deregulation",
+  "alias": "commerical_radio_deregulation",
+  "uploaded_at": "2026-10-06T16:49:27.008990+01:00",
+  "uploaded_date": "2026-10-06",
+  "uploaded_time": "16:49:27 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "consultation_response",
+    "type_listed_in_2018_appendix": "consultation (13 February 2017)",
+    "matches_2018_listed_source": "no",
+    "basis": "Contents list \"Overview of consultation responses\" and roundtable summaries - an outcome report, not the invitation.",
+    "source_check": "Listed document(s) retrieved on 2026-10-08 and compared with the ingested text: 4% found in the listed consultation PDF (file 591508)."
+  }
+}

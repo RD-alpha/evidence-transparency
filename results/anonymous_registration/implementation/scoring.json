@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Legislative amendment",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines such as \"All the proposed changes to the current arrangements would require the current legislation to be amended\" and the Scotland Act 2016 mention describe the current rules and the intended speed, with no reference and no evidence for why this route or timetable was chosen."
+    },
+    {
+      "theme": "Coordination with devolved administrations",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines on Scotland, Wales and Northern Ireland describe devolution arrangements and intentions to cooperate, and no cited evidence or reference supports the choice of joint working or lockstep legislation."
+    },
+    {
+      "theme": "Consultation on open design questions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line, \"A domestic abuse refuge may need to be defined in legislation...\", flags a design issue with no evidence and no explanation of how it will be settled."
+    }
+  ],
+  "reasoning": "All three themes, two of them core, score level 0 for implementation. The extract contains no statistic, research finding, named report, consultation response or costing for how anonymous registration will be rolled out. \"Legislative amendment\" (core, level 0) says \"All the proposed changes to the current arrangements would require the current legislation to be amended\" and notes the Scotland Act 2016 devolution of local register competence. That Act is cited only to describe the current rules, and the extract carries no reference for it, so it does not count as evidence of a constraint that drove the choice of route. \"Coordination with devolved administrations\" (core, level 0) sets out intentions: working with the Scottish Government \"in lockstep\", and Cabinet Office working with the Northern Ireland Office. These are commitments and descriptions of what will happen, not evidence. The Northern Ireland scheme is mentioned as similar to the Great Britain one, but it is not used as comparative evidence of what works. The non-core theme, \"Consultation on open design questions\" (level 0), merely flags that a refuge may need defining. The mean of the core themes is 0, so the section score is 0. The strongest counter-example is that the devolution constraint is a real legal reason for the lockstep approach, and one could argue it deserves level 1. But it is not cited or tied to a choice between alternatives. To reach level 1, the document would need to cite the evidence behind the chosen route and timetable, for example consultation responses on delivery or the Scotland Act provisions explicitly linked to why lockstep legislation was selected over alternatives. It would also need to describe how open questions will be decided and give costs.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Modern languages as academically rigorous and interdisciplinary",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that modern languages offer the same cognitive and academic advantages as other humanities disciplines is asserted with no supporting statistic, finding, source or citation."
+    },
+    {
+      "theme": "Transferable skills and wider value",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The list of transferable skills (critical thinking, autonomy, creativity, cognitive flexibility) and their value to employers and higher education is asserted with no research finding, data or citation behind it."
+    },
+    {
+      "theme": "Universal relevance and progression route",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that the content suits students of all disciplines and provides a robust foundation for degree-level study is a bare assertion with no evidence of how this was determined or tested."
+    }
+  ],
+  "reasoning": "All three themes are marked core, so the section score is the mean of their levels. Each theme makes a substantive claim -- that modern languages carry the same academic value as other humanities, that the specification fosters transferable skills valuable to society and employers, and that the content suits all students while also preparing specialists for degree study -- but none of these claims is backed by any cited research, data, consultation finding or named source. The references and links blocks for all three themes are empty, and the text itself contains no phrases like 'research shows' or 'a survey found' that would even reach level 1 as unsourced evidence. These are reasoned assertions about the presumed benefits of the subject content, not evidence-based claims, and reasoning alone is explicitly excluded from counting as evidence. The strongest counter-example in the document's favour is that the claims are plausible and align with general consensus about language learning benefits, but plausibility is not evidence per the framework. All three core themes therefore sit at level 0, giving a mean of 0 and a section score of 0. To reach level 1, the document would need to mention some evidence -- for example a named study on cognitive benefits of language learning, employer survey data on language skills demand, or consultation responses about curriculum design -- with some explanation of how it was used to justify these claims.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

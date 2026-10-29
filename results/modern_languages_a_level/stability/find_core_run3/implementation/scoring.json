@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Core language skills and communicative competence",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "All 21 lines describe required skills (e.g. 'develop control of the language system...', 'translating an unseen passage...') with no citation, data, or research cited anywhere in <references> or <links> to justify why these particular skills or this structure were chosen."
+    },
+    {
+      "theme": "Cultural and thematic content study",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The theme lists required themes and areas of interest (e.g. 'social issues and trends', 'political and/or intellectual and/or artistic culture') purely as specification content, with no evidence offered for why these areas or the 2/4-theme split were selected."
+    },
+    {
+      "theme": "Literary and film works study",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Requirements for one work at AS and two at A level, and genre lists, are stated as rules with no supporting evidence, study, or rationale for why this number or genre mix was chosen."
+    },
+    {
+      "theme": "Grammar specification and cross-language comparability",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Despite its length, the 165 lines are almost entirely the grammar lists themselves (nouns, verbs, pronouns, etc.); the only methodological claims -- that other languages must be 'comparable... to the requirements for French, German and Spanish' -- are asserted with no evidence of how comparability is assessed or why French/German/Spanish were used as the baseline."
+    },
+    {
+      "theme": "Special provisions for Chinese language",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The Chinese exceptions (e.g. 'Questions and responses in comprehension... tasks must be in English') are stated as rules with no evidence or rationale given for why Chinese is treated differently."
+    },
+    {
+      "theme": "Overview and integration of content",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "General aims such as fostering 'transferable skills' and 'critical and analytical thinking' are asserted with no evidence of how these aims were derived or validated."
+    }
+  ],
+  "reasoning": "All four core themes -- Core language skills, Cultural and thematic content, Literary and film works study, and Grammar specification -- consist almost entirely of prescriptive content (what students must learn and how specifications must be structured), with <references> and <links> empty in every theme block. None of the lines offer a statistic, named study, consultation finding, or primary data to justify why these particular skills, themes, works, or grammar comparability requirements were chosen over alternatives, nor any cost-benefit reasoning. For example, the grammar theme simply asserts lists 'must be developed... to represent a level of challenge and breadth comparable to' French, German and Spanish, with no explanation of how comparability is judged or evidenced. Similarly, 'Students must study one theme at AS and two themes at A level' is a specification rule, not a claim backed by evidence. Per the rubric, describing the measure is not evidence that it will work; since no theme offers any evidence at all, each core theme sits at level 0. The strongest counter-example considered was the grammar theme's sheer volume of detail, which might seem to imply expert derivation, but volume of description is not evidence of validation. Mean of (0,0,0,0) = 0, giving a section score of 0. To reach level 1, the document would need to mention some evidence (e.g. exam board data, teacher survey, or international comparison) and explain how it informed these choices.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

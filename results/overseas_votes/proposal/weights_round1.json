@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Policy Commitment and Rationale",
+      "reason": "Directly states the manifesto commitment and the rationale for choosing this intervention (removing the 15-year ban), explaining why the government has chosen this policy and the links expats retain to the UK.",
+      "weight": "core"
+    },
+    {
+      "theme": "Policy Implementation and Eligibility",
+      "reason": "Describes how the policy will be implemented, specifying eligibility criteria which is a key part of defining the chosen intervention's scope.",
+      "weight": "core"
+    },
+    {
+      "theme": "Costs and Resource Requirements",
+      "reason": "Provides cost estimates and assumptions for implementing the policy, addressing the should-explain point about estimated costs and benefits, though it is supporting detail rather than the core rationale for choosing the intervention.",
+      "weight": "not core"
+    }
+  ]
+}

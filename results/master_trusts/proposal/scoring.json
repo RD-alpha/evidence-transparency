@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Master trust authorisation and supervision regime",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The theme describes the five criteria, penalties and powers (lines on clauses 5, 7-19), and the only support is the Regulator chief executive's quoted assertion that the Bill will 'drive up standards', which is not evidence; no data, consultation or research is offered for why these criteria or limits were chosen."
+    },
+    {
+      "theme": "Orderly exit and continuity protections",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Clauses 20-35 and Schedule 1 set out triggering events, continuity options, pause orders and the three- and six-month limits without any evidence, source or assessment of why they will protect members or why those details were set."
+    },
+    {
+      "theme": "Cap on early exit charges and commission ban",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on the Bank of England Act 2016, the March 2014 commitment and Schedule 18 describe the legal powers and government intentions, but they give no data, findings or analysis on charges; the legislative citations only describe the existing rules."
+    },
+    {
+      "theme": "Regulatory costs, funding and impact",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines assert there is no DWP expenditure impact, that the Regulator may face increased expenditure and that HM Treasury approved the measure, with no figures, assumptions or method shown."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 156-171 are descriptions of consequential amendments and regulation-making powers, with no evidence offered."
+    }
+  ],
+  "reasoning": "All three core themes sit at level 0, so the mean is 0 and the section scores 0. The extract is an Explanatory Notes and Bill text: it describes what the regime does but never shows evidence that master trust savers were inadequately protected or that these measures will fix it. The authorisation theme lists five criteria (clause 5(3)) and penalty limits of \u00a350,000 and \u00a310,000 a day, but gives no reason or data for those choices. The only supporting statement is Lesley Titcomb's quote that the Bill 'will drive up standards and give us tough new supervisory powers'. That is an assertion by the Regulator's chief executive, not evidence. The continuity theme sets out triggering events, two continuity options and pause orders limited to three months, extendable to six (Schedule 1, paragraph 2), again with no justification. The charges theme refers to the Bank of England Act 2016 and the March 2014 commitment, but these describe existing powers and commitments, not findings. Strongest counter-example: the early exit charges theme at least points to a prior policy (the FCA's powers from April 2017) and the 2014 commitment, which gives some context. That is still not evidence of effect. To reach level 1 the document would need to cite concrete findings, such as the number or size of master trusts, past failures or consultation responses, and explain how they led to these particular criteria, options and limits. Level 2 would also need those cited and clearly linked.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

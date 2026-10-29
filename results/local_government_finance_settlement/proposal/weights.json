@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Multi-year settlement and 100% retention reform",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Improved Better Care Fund allocation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Council tax referendum principles",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Revaluation neutrality and pilot adjustments",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+S0477 (a) must consult the Board and the Public Accounts Commission, and
+S0478 (b) must give any other persons who appear to the Minister to have an interest in the proposed regulations an opportunity to comment on them.
+S0479 (9) Regulations under subsection (7) may include consequential provision (including provision amending this Act).
+S0480 (10) A statutory instrument containing regulations under subsection (7) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+S0481 (1) Where, immediately before the commencement date, a person was one in respect of whom an investigation could be carried out—
+S0484 (a) by the Parliamentary Commissioner for Administration under the Parliamentary Commissioner Act 1967,
+S0485 (b) by the Health Service Commissioner for England under the Health Service Commissioners Act 1993, or
+S0486 (c) by a member of the Commission for Local Administration in England under Part 3 or 3A of the Local Government Act 1974,
+S0487 the person is to be treated as having been designated under section 21(1) on the commencement date.
+S0488 (2) Where, immediately before the commencement date, a function was one in respect of which an investigation could be carried out as mentioned in subsection (1), a person carrying out the function is to be treated as having been designated under section 21(1)—
+S0489 (a) on the commencement date, and
+S0490 (b) so far as relating to that function.
+S0491 (3) Where at any time on or after the commencement date—
+S0492 (a) a function previously exercisable by a designated authority becomes exercisable by another person (“the transferee”),
+S0493 (b) the transferee is not a designated authority, and
+S0494 (c) the transferee is within the scope of the Ombudsman’s jurisdiction,
+S0495 the transferee is to be treated as having been designated under section 21(1) so far as relating to that function.
+S0496 (4) References in this Act to a designation under section 21(1) include references to a deemed designation by virtue of this section.
+S0497 (5) In this section, “the commencement date” means the date on which this section comes into force.
+S0498 (1) The Minister—
+S0499 (a) must publish a list of designations made under section 21(1) (and must keep the published list up-to-date), and
+S0500 (b) must lay the up-to-date list before Parliament at least once every year.
+S0501 (2) In publishing the list, the Minister must have regard to the need to ensure that it is readily available to—
+S0502 (a) designated authorities, and
+S0503 (b) members of the public.
+S0504 (3) Where—
+S0505 (a) a determination under section 21(5) has effect in relation to a person or description of persons, or
+S0506 (b) a designation by virtue of section 24 has effect only so far as relating to particular functions of a person,
+S0507 the entry in the list in relation to the person or description must indicate the extent of the designation.
+S0508 (4) The Minister may arrange for the duty under subsection (1)(a) to be performed by another person (and in such a case subsection (2) has effect accordingly).
+S0511 (1) The Minister may by regulations made by statutory instrument make provision for the purpose of bringing social landlords (other than local authorities) within the scope of the Ombudsman's jurisdiction so far as relating to their housing activities.
+S0513 (2) Before making regulations under subsection (1), the Minister must consult—
+S0514 (a) the Board,
+S0515 (b) the Public Accounts Commission,
+S0516 (c) the housing ombudsman under an approved scheme,
+S0517 (d) the Regulator of Social Housing, and
+S0518 (e) any other persons who appear to the Minister to have an interest in the proposed regulations.
+S0520 (3) Subsection (4) applies where, as a result of regulations under subsection (1), all social landlords are, or are to be brought, within the scope of the Ombudsman's jurisdiction.
+S0522 (4) The Minister may by regulations repeal section 51 of, and Schedule 2 to, the Housing Act 1996 (schemes for investigation of housing complaints).
+S0523 (5) Regulations under this section—
+S0524 (a) may make consequential, transitional, supplementary or saving provision;
+S0525 (b) may amend, repeal or revoke any provision made by or under an Act (including this Act).
+S0527 (6) A statutory instrument containing regulations under this section may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+S0530 “approved scheme” means a scheme approved for the purposes of Schedule 2 to the Housing Act 1996 (social rented sector: housing complaints);
+S0531 “housing activities” has the meaning given by section 63(1) of that Act;
+S0532 “social landlord” means a person who is required by paragraph 1(1) or (1A) of Schedule 2 to that Act to be a member of one or more approved schemes.
+S0564 (2) The Minister may by regulations made by statutory instrument make transitional or consequential provision in connection with subsection (1).
+S0565 (3) A statutory instrument containing regulations under subsection (2) is subject to annulment in pursuance of a resolution of either House of Parliament.
+S0649 (2) This Act (other than this section) comes into force on such day or days as the Minister may by regulations made by statutory instrument appoint.
+S0650 (3) This section comes into force on the day on which this Act is passed.
+S0651 (4) Regulations under subsection (2) –
+S0652 (a) may make different provision for different purposes;
+S0653 (b) may contain transitional and saving provision.
+S1328 The Bill extends to the United Kingdom.
+S1329 The Ombudsman's powers to investigate are UK-wide but follow devolution boundaries where a matter has been devolved.
+S1330 48 There are public service ombudsmen in each devolved administration.
+S1331 This Bill carries forward and rationalises existing powers for the Ombudsman to consult and co-operate with devolved ombudsmen.
+S1335 50 The Bill does not contain any provisions falling within the terms of the Sewel Convention.
+S1336 If there are amendments relating to such matters which trigger the consent of the Scottish Parliament, and because the Sewel Convention provides that Westminster will not normally legislate with regard to devolved matters, the consent of the Scottish Parliament will be sought for them.
+S1338 The Bill does not contain any provisions relating to devolved matters.
+S1339 If there are amendments which relate to such matters, the consent of the National Assembly for Wales will be sought for them.
+S1340 52 The Bill does not contain any provisions relating to devolved matters.
+S1341 If there are amendments which relate to such matters, the consent of the Northern Ireland Assembly will be sought for them.
+S1428 87 Subsection (6)(d), read alongside subsection (7) allows for legal representation at the Ombudsman's discretion.
+S1429 88 Subsection (8) gives the Ombudsman the discretion to make payments to persons who properly incur expense, or lose remunerative time, in attending or furnishing information for her investigations.
+S1430 89 Subsection (9) makes it clear that where a matter is under investigation by the Ombudsman, the designated authority may (if it has the power) and must (if it has the duty) continue with actions in the matter.
+S1431 The provision of public services are not to be disrupted or delayed by claims to the Ombudsman.
+S1432 90 This clause deals with the Ombudsman's ability to obtain information and evidence for the purposes of her investigations.
+S1433 As under the current legislation, those powers are extensive, giving her similar powers as the Courts to obtain oral or documentary evidence.
+S1434 91 Subsections (1) and (2) give the Ombudsman the general authority to require information which she thinks would be relevant to her investigations from any person whom she thinks would be able to produce it.
+S1435 This includes information that may help the Ombudsman decide whether or not to begin an investigation.
+S1436 92 Subsection (3) gives the Ombudsman the same powers as the High Court or the Court of Session to compel persons to attend and be examined and to produce documents.
+S1437 93 Subsection (4) provides that persons who are compelled to give evidence or produce documents are given the equivalent rights of witnesses before the High Court or the Court of Session.
+S1438 In particular, a person cannot be compelled to give evidence or produce documents which they could not be compelled to do in those courts.
+S1439 94 Subsection (5) lifts legal restrictions on designated authorities on the disclosure of information, including an obligation to maintain secrecy where it is for the purposes of an investigation by the Ombudsman.
+S1440 95 Subsection (6) provides that designated authorities may not rely on legal or other privilege as a basis to refuse to produce documents or information that the Ombudsman requires for an investigation.
+S1441 This restriction is complemented by restrictions which prevent the Ombudsman from disclosing privileged information obtained under this clause unless the designated authority consents: see Schedule 5, paragraph (5).
+S1442 96 Subsection (7) replicates section 12(4) of the Parliamentary Commissioner Act 1967.
+S1443 It stops the Ombudsman from obtaining documents or information relating to the Cabinet or Cabinet Committee proceedings.
+S1444 This includes not only the Cabinet and Cabinet Committee papers but also departmental papers giving information concerning proceedings in the Cabinet or Cabinet Committee.
+S1445 Where there is doubt about whether or not this absolute bar applies to a specific document or information it will be for the Cabinet Secretary to determine the matter and, if necessary, issue a certificate confirming that it cannot be disclosed.
+S1446 97 Clause 12 gives the Ombudsman a sanction which she can use if anyone without a lawful excuse obstructs an investigation, for example by refusing information which she is entitled to require.
+S1447 The sanction is also available if anyone does something in relation to an investigation which would amount to a contempt of court were the investigation court proceedings.
+S1448 98 The process is for the Ombudsman to certify the matter to the High Court (or Court of Session in Scotland).
+S1449 The court may inquire into the certified act or obstruction and hear witnesses.
+S1450 The matter may then be dealt with as if a contempt had arisen in relation to the court itself.
+S1451 There is a similar provision in section 9 of the Parliamentary Commissioner Act 1967.
+S1452 99 Clause 13 enables the Ombudsman to investigate matters that come to her attention during the course of an investigation where certain requirements are met.
+S1453 It allows the Ombudsman to widen an existing investigation within defined limits where certain conditions are met.
+S1454 100 Those conditions are:
+S1455 that the additional matter relates to facts which are the same, or substantially the same, as the facts to which the matter alleged in the original complaint relates;
+S1456 that the additional matter relates to action taken by one or more designated authorities;
+S1457 that the matter is one that the Ombudsman is entitled to investigate; and
+S1458 that it appears to the Ombudsman that (a) the additional matter arose, or is likely to have arisen, at the same or substantially the same as the matter alleged in the original complaint; (b) the affected person or another member of the public may have suffered injustice or hardship in consequence of the additional matter; and (c) it would be appropriate for the additional matter to be investigated at the same time as the matter alleged in the original complaint.
+S1459 101 Clause 14 sets out in subsection (1) a requirement for the Ombudsman to prepare written statements where she completes an investigation, discontinues an investigation, or decides not to investigate.
+S1460 102 Subsection (2) provides that a statement on a decision not to investigate a complaint or to discontinue an investigation into a complaint must set out reasons for that decision.
+S1461 103 Where the Ombudsman has completed an investigation into a complaint, the statement must set out the Ombudsman's findings and any recommendations made in connection with those findings (subsection (3)).
+S1462 104 Subsection (4) sets out that the Ombudsman must send her statement to the persons listed in subsection (5) – including the affected person, the designated authority, and an authorised representative.
+S1463 She may also send her statement to any other persons she considers appropriate – for example, it may be that the investigation has highlighted matters which the Ombudsman believes should be brought to the attention of a regulator.
+S1464 105 Subsection (6) allows for the duty under subsection (5)(c) to be discharged by the designated authority where, for example, staff, former employees or sub-contractors are named in the complaint.
+S1465 106 The Ombudsman does not have to send a statement with her reasons for not investigating a complaint to either the designated authority or a another person alleged to be responsible for the matter complained of, if she thinks it would not be appropriate to do so (subsection (7)).
+S1466 107 Under subsection (8) the designated authority must have regard to any recommendations in respect of the authority contained in a statement under this clause.
+S1467 This Act does not require the designated authority to carry out those recommendations.
+S1468 108 Subsection (9) provides that, where the Ombudsman has not completed her investigation of a complaint within twelve months of receiving that complaint, she must send a statement to the affected person explaining why.
+S1469 This replicates and extends the provisions contained in the Health Service Commissioner for England (Complaint Handling) Act 2015.
+S1470 109 Subsection (10) allows the Ombudsman to publish all or part of a statement if she considers it in the public interest to do so.
+S1471 Before doing so, she must take into account the interests of the person who made the complaint and any other appropriate persons.
+S1472 110 Subsection (11) allows the Ombudsman to lay a statement under this clause before Parliament.
+S1473 For complaints about local government it may be more appropriate for the Ombudsman to bring the statement to the attention of the elected members of the relevant local authority.
+S1474 The Bill does not give a separate power to the Ombudsman to do that which is already permitted by subsection (4)(b).
+S1475 111 Clause 15 applies where there has been a finding of injustice or hardship in a matter investigated by the Ombudsman and the Ombudsman considers that the injustice or hardship has not been or will not be remedied.
+S1476 112 It gives the Ombudsman the power to bring wider attention to those cases where (i) she considers that injustice or harm has been caused to the affected person in consequence of the designated authority's maladministration, service failure, or failure to provide a service; and (ii) the designated authority has either declined to put matters right, or is unable to do so, or the Ombudsman is not satisfied that they will do so.
+S1477 113 Subsection (2) allows the Ombudsman to require a designated authority to provide information about how it has or will respond to the Ombudsman's finding.
+S1478 By subsection (3), the authority must provide that information within the time specified by the Ombudsman.
+S1479 114 Subsection (4) allows the Ombudsman to bring that information to the attention of any person the Ombudsman considers appropriate, with comments, in the form of a "special statement".
+S1480 This might be done, for example, by laying the report before Parliament, sending it to the members of a local authority (so that it is brought to the attention of the elected members as well as their officials), or by requiring the designated authority to publish it.
+S1481 115 By making a special statement the Ombudsman may exert pressure on a designated authority to remedy the injustice or hardship if it is possible to do so; or the statement may draw attention to the fact that the designated authority cannot or will not provide a
+S1482 remedy for example because it believes itself to be debarred from doing so, whether because of the policy or by the law.
+S1483 116 The Ombudsman is given no formal power to require designated authorities to act on the basis of her recommendations, or sanctions or powers to fine.
+S1484 Instead the Ombudsman has this power to publicise unremedied hardship or injustice and to draw it to the attention of national and local elected representatives and lawmakers.
+S1485 117 Subsection (1) gives the Ombudsman the power to prepare and share reports which highlight any issues arising from her casework.
+S1486 118 Subsection (2) provides that a report under this section may include any general recommendations arising from the Ombudsman’s work.
+S1487 119 It may be that these reports highlight themes and trends in a particular class or classes of investigations, or focus on a single investigation where the Ombudsman believes there is a public interest in reporting its findings and/or recommendations more widely.
+S1488 By subsection (3) such reports are to be laid before Parliament.
+S1489 The Ombudsman may also send the report directly to anyone she thinks appropriate.
+S1490 120 Clause 17 gives the Ombudsman and those carrying out investigations for her absolute privilege in relation to libel or slander in connection with a complaint or an investigation.
+S1491 This provides them with protection against defamation claims as they go about their work.
+S1492 121 Subsection (3) provides that there is no protection if publication is done with malice.
+S1493 122 This absolute privilege does not extend beyond the Ombudsman and those carrying out her functions.
+S1494 123 Clause 18 allows the designated authority to refer a complaint to the Ombudsman.
+S1495 An example of where a complaint may be referred is when, during the course of the local investigation of the complaint relations between the designated authority and the person irretrievably break down and there is no prospect of the complaint being resolved between the parties.
+S1496 It is for the Ombudsman to decide whether or not to accept a complaint which is referred by the designated authority.
+S1497 124 Subsection (2) sets out the requirements for a complaint to be “properly referred”.
+S1498 125 Subsection (6) provides that, before investigating a complaint referred by a designated authority, the Ombudsman must be satisfied that the authority has considered the complaint itself and that the decision to refer is reasonable.
+S1499 The intention is that designated authorities should normally complete their initial consideration of a matter, so referred complaints are an exception that should only be used sparingly.
+S1500 126 Clause 19 deals with consultation and co-operation between the Ombudsman, other ombudsmen, and statutory complaint handlers in the United Kingdom.
+S1501 Its purpose is to allow the Ombudsman to consult her counterparts, including in the devolved administrations, if she considers that a complaint or part of a complaint may fall within their jurisdiction.
+S1503 127 Subsection (2) provides that where a complaint falls wholly or partly for consideration by another ombudsman or complaint handler, the Ombudsman may, with the consent of the person who made the complaint, transfer all or part of the complaint including information held by the Ombudsman relating to the complaint.
+S1504 Alternatively, the clause allows for the Ombudsman and her counterpart to work together and jointly investigate the complaint.
+S1505 128 Clause 20 introduces Schedule 5 which sets out when the Ombudsman can and cannot disclose information she has obtained.
+S1506 129 The Ombudsman may only investigate complaints that relate to a designated authority.
+S1507 Clause 21 sets out the process for designating an authority.
+S1508 It also sets out the process for revoking those designations.
+S1509 130 By subsection (1), where a person is designated by the Minister for the Cabinet Office under that subsection, the person becomes a designated authority for the purposes of this Act.
+S1510 131 Subsection (2) provides that a person must fall within the scope of the Ombudsman's jurisdiction as set out in Clause 22 before they can be designated.
+S1511 A person can be designated individually or by class.
+S1512 132 By subsection (3), before making a designation the Minister must consult key parties, including the Board and the Public Accounts Commission and provide anyone else who appears to have an interest with an opportunity to comment.
+S1513 The Board will be able to provide the Minister with an expert view on whether or not an authority fits within the Ombudsman's jurisdiction and advice on the strategic and budgetary implications for the Board of admitting the body into jurisdiction.
+S1514 The requirement for the Public Accounts Commission to be consulted reflects Parliament's sponsorship of the Ombudsman and will provide a parliamentary check on whether the purpose of this Bill is being met by the designation of an authority or class of authority.
+S1515 133 Subsection (4) provides that all the designated authorities functions and activities will be within jurisdiction unless the Minister has determined that, following consultation with the Board, the designation only relates to specific functions and activities (subsections 5 and 6).
+S1516 134 Subsections (7) and (8) set out the process for revoking a designation, including a deemed designation (for which see clause 24).
+S1517 Revocation is subject to the same consultation requirements as making a designation.
+S1518 135 Subsection (9) allows the Board to recommend where they believe adjustments to the Ombudsman's jurisdiction should be made.
+S1519 136 Clause 22 sets out the scope of the Ombudsman's jurisdiction by providing what sort of persons and bodies are eligible for designation.
+S1520 That scope includes central government authorities, those providing health services in England, local authorities, and those providing adult social care.
+S1522 137 If a person or body does not fall within the scope set out here, they may not be made subject to investigation by the Ombudsman by being designated under clause 21.
+S1523 The clause therefore limits how the designation power in that clause may be used.
+S1524 138 Subsection (2) sets out the meaning of a central government authority and provides that it includes government departments, any person who exercises functions on behalf of the Crown, and other persons who meet specified criteria set out in paragraph (c).
+S1525 The criteria include that 'at least half' of the person's funding must derive from public funds and so excludes those bodies which raise most of their funds from other sources.
+S1526 139 Clause 23 sets out that a Minister must not designate a person under clause 21 if they meet certain criteria.
+S1527 Those criteria are set out in subsections (1), (3) and (5) and follow those that already exist in the legislative framework for the PHSO and the LGO.
+S1528 140 Subsection (1) places restrictions on designating providers of education, training, and related activities; regulators of the professions and complaints resolution organisations.
+S1529 141 Subsection (2) disapplies subsection (1) to the extent that the Minister may make designations in relation to the admission authorities of certain types of schools.
+S1530 142 Subsection (3) places restrictions on designating persons who operate in a commercial manner and do not provide services of a public nature.
+S1531 143 Subsection (4) disapplies subsection (3) to the extent that the Minister may make designations in relation to registered General Practitioners and adult social care providers.
+S1532 144 Subsection (5) places restrictions on designating persons who are within the jurisdiction of a devolved ombudsman.
+S1533 145 Subsections (7), (8), (9) and (10) allow the Minister to amend this section by secondary legislation but only after any revisions have been approved by Parliament under the "affirmative procedure".
+S1534 146 Clause 24(1) provides that all those bodies that are within the jurisdictions of the PHSO and the LGO immediately before the new Ombudsman starts operations will automatically fall to be investigated by her.
+S1535 147 Subsection (3) provides continuity where a function transfers from a designated authority to a person who is not designated.
+S1536 The person to whom the functions transfers is deemed, in these circumstances, to have been designated if they still satisfy the requirements in clause 22.
+S1537 148 Clause 25 provides for the Minister to maintain and publish an up-to-date list of designated authorities, and to lay that list before Parliament at least once a year.
+S1542 150 Subsection (4) enables the Minister to delegate the publication of the list to another person, for example to the Board.
+S1543 151 Clause 26 makes provision for the Minister to bring social landlords fully within the scope of the jurisdiction of the Ombudsman and to repeal corresponding provision relating to the Housing Ombudsman under the Housing Act 1996.
+S1544 This would be done by secondary legislation.
+S1545 152 Subsection (2) sets out who the Minister would need to consult before making this change.
+S1546 These include the Board of the Public Service Ombudsman, the Public Accounts Commission, any housing ombudsman under an approved scheme, the Regulator of Social Housing and anyone else the Minister considers may have an interest in the proposed regulations.
+S1547 153 If all social landlords were brought within the scope of the Ombudsman's jurisdiction, subsections (3) and (4) allow for the Minister to repeal, through secondary legislation, those parts of the Housing Act 1996 that provide for schemes for the investigation of housing complaints by a housing ombudsman.
+S1548 154 Subsection (5) allows for regulations under this clause to make consequential, transitional, supplementary or saving provision, including amendments to relevant legislation.
+S1549 155 Subsection (6) states that any secondary legislation under the powers of this clause must follow the affirmative procedure.
+S1550 156 Clause 27 requires the Ombudsman to promote best practice in the handling of complaints by providing information, advice and training to designated authorities.
+S1551 It also seeks to build on the practice of both the PHSO and the LGO in publishing general and targeted information which draws on their expertise and insight with a view to others using that information to improve services, for example the PHSO's "Principles of good administration".
+S1552 157 By subsections (4) and (5), designated authorities must have regard to the relevant material provided by the Ombudsman when handling a complaint, unless they lack the necessary powers to do so or to do so would be inconsistent with any other legislation.
+S1553 158 Subsection (6) provides that the Ombudsman may provide information to designated authorities and others about complaints and investigations that have been handled by the Ombudsman.
+S1555 159 Subsection (7) requires that all the materials produced by the Ombudsman under this clause are published.
+S1556 160 Clause 28 introduces a new statutory duty on designated authorities to make sure that individuals are made aware of their right of redress to the Ombudsman, including the time limits for escalating their complaint to the Ombudsman and the relevant contact details.
+S1557 161 In most cases this duty will be met through making such information available on the
+S1558 designated authority's website.
+S1559 Where that is not possible the designated authority will need to take reasonable steps to bring that information to the attention of those who may be entitled to make a complaint.
+S1560 162 Clause 28 abolishes the offices of the Parliamentary Commissioner for Administration, the Health Service Commissioner for England and the Commission for Local Administration in England.
+S1561 It also allows the Minister to make transitional or consequential provisions in connection with that by secondary legislation following the negative procedure in Parliament.
+S1564 164 Subsection (2) provides that actions taken by a designated authority include actions taken on or behalf of the authority by members of the authority, members of its staff, and or any other body or individual.
+S1565 Its purpose is to allow the actions of those who deliver services on behalf of designated authorities to be investigable as if they had been performed by the authority itself.
+S1566 165 Clause 31 sets out which persons providing health or social care are within the scope of the Ombudsman's jurisdiction.
+S1567 166 Clause 32 defines a "member of the public" as any person other than a designated authority or another public authority which is not a designated authority.
+S1568 Its effect is that while complaints can be made by individuals, businesses and associations, a complaint cannot be made by a designated authority or another public authority.
+S1569 This is to ensure that the Ombudsman remains a redress mechanism for the ordinary man or woman rather than a source of alternative dispute resolution for counter-claims by bodies of the executive.
+S1571 The Bill is to be commenced by regulations made by the Minister for the Cabinet Office (except for this clause which comes into force on Royal Assent).
+S1572 168 This Schedule makes provision for the appointment, conditions of tenure and functions of the office of the Public Service Ombudsman.
+S1573 169 Paragraph 1 sets out that the Ombudsman will be appointed by Her Majesty by Letters Patent following an address presented by the House of Commons.
+S1574 The Prime Minister moves the motion for that address with the agreement of the Public Accounts Commission and on the recommendation of the chair of the Board.
+S1575 Subparagraph (5) limits the term of office to a single term of up to seven years, as is the case now for the PHSO and the LGO.
+S1576 170 Paragraph 2 provides that the Ombudsman can be relieved from office either at her own
+S1578 request or following an address of both Houses of Parliament to Her Majesty.
+S1579 171 Subparagraphs (4) to (6) deal with a situation where an Ombudsman is unable or unwilling to carry out her functions.
+S1580 In such circumstances the Board may appoint a person to act as the Ombudsman.
+S1581 That person will be known as the acting Ombudsman and will hold office until a new Ombudsman has been appointed or, if sooner, twelve months after her appointment.
+S1582 Should the acting Ombudsman be appointed as the new Ombudsman her time as acting Ombudsman will count towards the period for which she holds office as Ombudsman.
+S1583 172 This paragraph sets out that the remuneration arrangements for the Ombudsman are to be made by the Prime Minister and the Public Accounts Commission in advance of the appointment.
+S1584 These arrangements may cover such matters as salary, allowances, access to a pension and the provision of other benefits.
+S1585 173 By subparagraph (3), performance-based incentives are not permitted since they could constrain the operational independence of the Ombudsman.
+S1586 174 The Ombudsman’s salary is to be set by reference to a high court judge or any other holder of judicial office that the Prime Minister and the Public Accounts Commission consider appropriate.
+S1587 Having regard to that point of reference, there is flexibility over the specific level of remuneration and other terms and conditions.
+S1588 175 Subparagraph (5) also applies the remuneration provisions to an acting Ombudsman.
+S1589 176 Subparagraph (6) provides that the remuneration arrangements are to be charged on and paid out of the Consolidated Fund.
+S1590 This replicates the arrangements already in place for the PHSO.
+S1591 177 Paragraph 4 sets out that the Ombudsman or an acting Ombudsman may not be a member of the House of Commons, may not be a designated authority, or be employed or hold office in a designated authority.
+S1592 The purpose of this provision is to protect and demonstrate the political impartiality of the Ombudsman and her independence from those she can investigate.
+S1593 If an Ombudsman or an acting Ombudsman becomes disqualified during her term of office, she ceases to hold office.
+S1594 However, subparagraph (4) clarifies that any actions or functions carried out by an Ombudsman or acting Ombudsman who is disqualified under this provision remain valid.
+S1595 178 The Ombudsman has absolute responsibility for carrying out the functions vested in that office.
+S1596 It is envisaged that, as now, the Ombudsman will be supported in the discharge of those functions by others.
+S1597 This paragraph gives the Ombudsman the ability to delegate her functions as she or he believes is appropriate.
+S1598 In most cases this delegation will be to employees of the Board, however sub-paragraph (1) allows the Ombudsman to delegate her functions to any person she considers appropriate.
+S1599 For example, it may be that a complaint raises specialist matters that the Ombudsman feels are most appropriately investigated by an expert in that field and that expertise is not held by a member of staff.
+S1600 179 Paragraph 6 requires the Ombudsman to report to Parliament annually on the performance of her functions during a financial year.
+S1601 Because the functions of the
+S1603 Ombudsman will relate to her investigations, the report will cover the complaints that have come to her and how she resolved them.
+S1604 It will serve as an overview for Parliament and others of which public services are attracting complaints and whether or not those complaints are warranted.
+S1605 The Board will report separately on the administration of the organisation which supports the Ombudsman (see paragraph 21 of Schedule 2).
+S1606 180 Paragraph 7 requires the Ombudsman to publish aggregated data about all complaints.
+S1607 The Ombudsman is given discretion about how the information is published.
+S1608 This provision would allow the Ombudsman to publish up-to-date information on the types of complaints she receives, the designated authorities complained about and the geographical location of those making the complaints.
+S1610 The corporate Board of the Public Service Ombudsman is established under clause 3 with the principal duty of providing staff and resources to the Ombudsman.
+S1611 It is a separate legal entity whose governance structure and constitution are set out in this Schedule.
+S1612 These structures are based on established public sector models, adapted for the role of the Ombudsman.
+S1613 182 The members appointed under sub-paragraph (1) together constitute the Board of the Public Service Ombudsman.
+S1614 It is led by a non-executive chair.
+S1615 It will be for the chair to decide on the number of members and to gain agreement to the composition of the Board from the Public Accounts Commission.
+S1616 Whatever the size of the Board, sub-paragraph (3) requires that the majority of the Board must be non-executive members, that is, members who are neither employees nor the Ombudsman.
+S1617 183 Paragraphs 2, 3 and 4 set out the process to be followed for the appointment of the non-executive members.
+S1618 One of the non-executive members will chair the Board.
+S1619 The chair will be appointed by Her Majesty by Letters Patent following an address of the House of Commons.
+S1620 It will be for the Prime Minister to move the motion for the address after gaining the agreement of the Public Accounts Commission.
+S1621 The chair will hold office for a term of not more than three years, and may serve no more than two such terms.
+S1623 The other non-executive members will be appointed by the Public Accounts Commission on the recommendation of the chair.
+S1624 The Bill does not set out any requirements with regard to the non-executive members' knowledge or expertise, leaving it to the chair and the Public Accounts Commission to determine the criteria that best fits the needs of the Board at any particular juncture.
+S1625 As with the chair, non-executive appointments can be made for no longer than a term of three years and may only be renewed once.
+S1626 185 Paragraph 6 makes provision for the remuneration of non-executive members.
+S1627 In the case of the chair the remuneration arrangements must be agreed between the Prime Minister and the Public Accounts Commission before appointment, and any amount payable will be paid out of the Consolidated Fund.
+S1628 That arrangement recognises the importance of the position and gives the chair greater financial independence from Parliament and the executive.
+S1629 Any remuneration of other non-executive members will be set by the Public Accounts Commission and be paid by the Board from voted resources.
+S1630 None of the non-executive members, including the chair, will be entitled to a
+S1632 pension.
+S1633 186 Paragraph 7 allows the Public Accounts Commission to make other terms for the appointment of non-executive members, including restrictions relating to other offices or positions or contractual arrangements that that member may hold during their tenure.
+S1634 Such restrictions may also apply for no more than two years after the appointment ends.
+S1635 The purpose of this provision is to prevent conflicts of interest between a person’s role as a non-executive of the Board and any other work or role they perform.
+S1636 187 Paragraph 8 enables a non-executive member, including the chair, to resign by giving notice to the Public Accounts Commission.
+S1637 188 Removal of the chair, by paragraph 9(1), requires an address of both Houses of Parliament.
+S1638 Paragraph 9 (2) makes provision for the Public Accounts Commission to terminate the appointment of a non-executive member by giving written notice in a range of circumstances.
+S1639 189 It is anticipated that the Ombudsman will usually also perform the functions of the chief executive of the Board, including that of accounting officer.
+S1640 However, paragraph 10 allows the Board to appoint another person to perform that role where it believes it is in the best interests of the Board to do so.
+S1641 Any such appointment must be approved by the Public Accounts Commission.
+S1642 A chief executive who does not also hold the office of ombudsman will be an employee of the Board.
+S1643 Where under paragraph 10, the Board has appointed a chief executive who is not the Ombudsman, that person will automatically become an executive member.
+S1644 190 Paragraph 11 provides otherwise for the appointment of employees as executive members of the Board.
+S1645 It is for the non-executive members to appoint the executive members, on a recommendation by the chief executive.
+S1646 The terms of appointment for executive members are set by the non-executive members.
+S1647 191 Paragraph 12 provides that executive member’s appointment shall terminate either at the end of any period set for the appointment, or when the employee ceases to be employed by the Board.
+S1648 192 Paragraph 13 provides that an executive member may resign by giving written notice to the Board.
+S1649 193 Paragraph 14 gives the Board power to employ staff.
+S1650 The terms of employment for staff are to be kept broadly in line with those of civil servants.
+S1651 Employees are barred from holding any office or position in a designated authority.
+S1652 194 Sub-paragraphs (4) and (5) clarify that staff are not to be treated as servants or agents of the Crown other than for the purposes of the Official Secrets Act 1989.
+S1653 195 Paragraph 15 requires the Board to make internal procedural rules.
+S1654 196 Paragraphs 16 and 17 enable the Board to set up such Committees as it believes appropriate to help it carry out its statutory functions and to delegate its functions to those Committees.
+S1655 This does not impact on the ability of the Board to carry out those functions or remove the Board’s liability.
+S1656 197 Paragraph 18 gives the Board a general power to enter into agreements and
+S1658 arrangements to provide services and to commission services from other persons.
+S1659 These powers are additional to the specific powers which the Board has under this legislation.
+S1660 198 The effect of sub-paragraph (2) is to rule out the possibility of the Board offering a service which would amount to the Ombudsman taking on a voluntary complaints jurisdiction.
+S1661 Any addition to the Ombudsman's jurisdiction is to be decided by a designation in accordance with the procedure set out in clause 21.199 Paragraph 19 sets out the arrangements for the preparation, audit and publication of the Board's accounts.200 The Board will be funded from money voted annually by Parliament for that purpose (see paragraph 25).
+S1662 There are two exceptions to that; the remuneration packages of the Ombudsman and the chair of the Board will be paid directly from the Consolidated Fund.201 Under sub-paragraph (1) of paragraph 19 the chief executive must prepare the annual accounts of the Board and submit them to the Comptroller and Auditor General.
+S1663 The accounts must be of the kind set out in section 5 of the Government Resources and Accounts Act 2000 and prepared in accordance with any direction given by HM Treasury (sub-paragraph (2)).202 Paragraph 20 enables the Comptroller and Auditor General to access documentation held by the Board in order to carry out an examination of the accounts or a value for money examination.203 Paragraph 21 provides for the chief executive to prepare an annual report for each financial year on the Board's performance.
+S1664 The report is to be sent to the Public Accounts Commission.
+S1666 The report is designed to allow the Public Accounts Commission to hold the Board to account.205 Paragraph 22 sets out the arrangements for the Board's estimate and strategy206 Subparagraphs (1) and (2) provide that the Board must, for each financial year, prepare an estimate of the resources it will require and submit that estimate to the Public Accounts Commission.207 Subparagraphs (3) and (4) provide that the Board must also prepare a document setting out its functions and resources strategy and submit it to the Public Accounts Commission.
+S1667 This document must be reviewed annually and any revisions also submitted to the Public Accounts Commission.208 Sub-paragraph (7) sets out that the Board must send the estimate and strategy to the Treasury as well as such information that the Treasury reasonably requires in connection with those documents.
+S1668 This is to enable the Treasury to make informed representations to the Public Accounts Commission.
+S1674 211 Paragraph 25 sets out that any expenditure incurred by the Board will be met by money provided by Parliament.
+S1675 212 Paragraph 26 enables the Board to do anything calculated to facilitate, or incidental or conducive to the carrying out of its functions.
+S1676 213 Schedule 3, which is introduced by Clause 3(6), contains provisions that govern the operating details of the relationship between the Ombudsman and the Board.
+S1677 These include the process for preparing, reviewing, reporting and revising a code of practice.
+S1678 The Board is required to prepare such a code under paragraph 1.
+S1679 It must set out: (a) how the Board is going to perform its principal duty of providing resources and staff without impinging on the independence of the Ombudsman, and (b) how it will prepare, review and revise specified documents including the annual report, estimate and strategy.
+S1680 The Code may also include provisions for the management of the Board's affairs and any other matters the Board considers appropriate.
+S1681 214 Schedule 4, which is introduced by Clause 8, specifies matters into which the Ombudsman may not conduct an investigation even though they relate to the actions and/or functions of a designated authority.
+S1682 215 In the main these excluded matters replicate those present in the legislative framework for the PHSO and the LGO.
+S1683 The reasons for their exclusion include: where such matters are within the jurisdiction of another Ombudsman or are more appropriately resolved in another forum; where they are governed by international law or take place outside the UK; where they relate to the criminal justice system, national security and the exercise of judicial authority; and where the matter is within the personal prerogative of the sovereign.
+S1684 216 Paragraph 15 clarifies that the Ombudsman shall not have jurisdiction over any of the statutory functions carried out by the Comptroller and Auditor General.
+S1685 217 Schedule 5, which is introduced by Clause 20, sets out when the Ombudsman can and cannot disclose "relevant information".
+S1686 218 Paragraph 1 gives the meaning of "relevant information".
+S1687 It includes information the Ombudsman, her staff and those acting on her behalf have obtained in the course of carrying out her functions; information obtained from another Ombudsman; and information obtained from the Information Commissioner under section 76 of the Freedom of Information Act 2000.
+S1688 219 Paragraph 2 provides that the Ombudsman may only disclose relevant information in accordance with this Schedule.
+S1689 220 Paragraph 3 (1) allows relevant information to be disclosed for the purposes of the Ombudsman's complaint handling, investigatory and reporting functions as set out.
+S1691 The circumstances in which disclosure is permitted include:
+S1692 for the purposes of an investigation (paragraph (b));
+S1693 for statements and reports about investigations, including any decisions not to investigate a complaint or to discontinue a complaint (paragraph (d));
+S1694 for the purposes of consulting and co-operating with other ombudsmen under clause 19 (paragraph (f)); and
+S1695 for the purposes of the provision of information, advice and training under clause 26 (paragraph (g)).
+S1696 221 She will also be able to disclose relevant information in other circumstances specified in sub-paragraphs (2) and (3):
+S1697 to a statutory body or office holder, such as a regulator, for that body or office holder to carry out their functions in relation to the authority which is the subject of the complaint;
+S1698 where a person has threatened or is likely to constitute a threat to health or safety of one or more persons, information may be disclosed to a person where the Ombudsman thinks it is in the public interest to do so; and
+S1699 to the Information Commissioner, where the information relates to a matter where the Commissioner has statutory powers to act.
+S1700 222 Paragraph 4 sets out how the Ombudsman must approach information which is personal or confidential for the purposes of reports and statements under clauses 14, 15 and 16 and information about best practice in complaints handling in clause 27.
+S1701 By sub-paragraph (1), such information may only be included in a qualifying document where a public interest test is satisfied.
+S1702 223 In this paragraph, “personal information” means a person’s name or particulars that allow a person to be identified.
+S1703 “Confidential information” means information whose disclosure would normally be prevented by law but which is permitted to be disclosed for the purposes of an investigation by the Ombudsman because of clause 11(5)
+S1704 (see sub-paragraph (5)).
+S1705 224 The public interest test is set out in sub-paragraph (3).
+S1706 Its effect is to allow the Ombudsman to include personal or confidential information in the specified reports and statements where, having taken into account the interests of the person who made the complaint (and the interests of any other appropriate person), she considers it is in the public interest to include that information.
+S1707 It operates, therefore, as a safeguard against the unnecessary disclosure of personal and confidential information in material published by the Ombudsman.
+S1708 225 Sub-paragraph (5) provides that the public interest test for personal information is to be treated as having been met where the name or identifying particulars relate to a senior member of staff at a designated authority; a member of a designated authority and the Mayor and members of the Greater London Assembly.
+S1709 This means that senior staff cannot use the protection for personal information to remain anonymous in reports and statements issued by the Ombudsman.
+S1710 226 Paragraph 5 relates to information obtained by the Ombudsman which is protected by legal and other forms of privilege.
+S1711 Legal procedural rules usually protect such information from disclosure in order to protect a person’s litigation rights, including the
+S1712 ability to seek and act on legal advice.
+S1713 Clause 11(6) sets aside that rule of law for the purposes of an Ombudsman investigation to allow her full access to information held by a designated authority for the purposes of an investigation.
+S1714 It operates as a statutory waiver, for limited purposes.
+S1715 Paragraph 5 prevents the Ombudsman from disclosing whether she has received privileged information under clause 11(6), and the privileged information itself, in each case unless the designated authority consents to her doing so.
+S1716 227 Paragraph 6 maintains the provision in the Parliamentary Commissioner Act 1967 for a Minister of the Crown to prevent the disclosure of information by the Ombudsman which may harm the public interest.
+S1717 The Minister does so by giving notice to the Ombudsman under sub-paragraph (1).
+S1718 The Ombudsman is thereby prevented from disclosing such information to any person for any purpose.
+S1719 She may, however, apply to the court for permission to ignore such a notice.
+S1720 Such notices could be used, for example, to protect material relating to national security.
+S1723 The provisions are to be commenced by Order made by the Minister for the Cabinet Office.
+S1724 In accordance with usual practice, the Bill will not be commenced until at least two months after Royal Assent.
+S1743 All the provisions in the Bill extend to and apply to England and Wales, Scotland and Northern Ireland ** (Reference: 1)
+S1745 If a complaint relates to a matter within the competence of a devolved ombudsman, that ombudsman has exclusive competence for that matter.
+S1747 The Ombudsman is given powers to consult and co-operate with other ombudsmen, including devolved ombudsmen, under clause 19.
+S1748 The purpose of that provision is to help ensure that complaints are investigated by the appropriate ombudsman.
+S1749 If a complaint relates to matters some of which are devolved and some not, the Ombudsman is given powers to investigate jointly with a devolved ombudsman.
+S1750 The Bill does not confer additional powers or functions on devolved ombudsmen in this respect.
+S1756 Devolved legislatures have legislative competence to establish and regulate public service ombudsmen to investigate complaints from members of the public about the provision of devolved public services.
+S1757 This Bill deals exclusively with complaints about non-devolved public services.
+S1783 This consultation aims to provide a further opportunity to test this proposition (and the principles underpinning it) - and in particular to get the customer perspective on what any new ombudsman service should deliver, as well as how those services should be delivered.
+S1784 Responses to this consultation will inform the development of plans for future legislation changes.
+S1785 Should the Government confirm its intention to create a new PSO, detailed further work will be required to look at the precise powers of, and structures within, such an organisation.
+S1786 There are currently a number of differences between these ombudsman services which need to be taken into account when looking at any modernisation programme.
+S1787 These include their jurisdictions, their local lines of accountability and their funding mechanisms - including how existing charging models might transition.
+S1788 This consultation does not seek to test this level of detail, instead seeking views on the premise in question, and whether the proposal of a single PSO meets the needs of consumers in terms of what a modern Ombudsman service should/can provide.
+S1790 In light of the ongoing discussions around devolution, any progress towards the establishment of a Public Service Ombudsman service would have to take account of any devolution settlement.
+S1809 Efforts have also been made, for example by the Housing Ombudsman, to ensure that customers can get their complaints resolved at a local level before they are escalated further, a principle which must be retained in taking forward any reform.
+S1835 The Housing Ombudsman We recognise that there is further work to be done in terms of understanding how all these jurisdictions and responsibilities would fit together and in identifying issues that are specific to individual sectors.
+S1841 Any new Ombudsman service should retain the current high level of expertise and experience which exists in current organisations, ensuring no diminution in the provision of service to the public or to the sectors involved.
+S1842 There is an expectation that a Chief Ombudsman would have a series of senior ombudsmen reporting to them with full expertise in specific areas eg Housing.
+S1843 We recognise that the new service needs to retain - and build upon - the relationship and trust that has existed in the current separate organisations.
+S1857 The principle would remain that customers would only seek assistance from the Ombudsman once initial formal avenues of complaint had been explored.
+S1858 We will continue to support local complaints resolution and current local arrangements for designated persons where they support the individual customer (eg for Housing complaints).
+S1860 Any new structure would not cut across or undermine the first point of redress.
+S1862  online
+S1874 The Government will consider whether the PSO should have the discretion to instigate investigations (or widen the scope of existing complaints), working with others in the redress or regulatory sector, and with Parliament, to assess where issues are best considered.
+S1875 This consideration would include when the PSO would benefit from a wider range of tools and what the triggers for the use of tools could be.
+S1876 For example, this could include the ability for bodies to self refer to the Ombudsman where they believe an investigation is merited.
+S2020 Next Steps - The programme of change proposed in the previous chapters should be evaluated to determine feasibility of implementation, a realistic timescale for putting the changes in place and the financial and other resource implications of doing so (paragraph 144).
+S2021 - This work should be undertaken by a short life task group bringing together key interests under Cabinet Office or independent chairmanship - and produce a high level feasibility and implementation project plan to validate the coherence of the changes (paragraph 145).
+S2022 - In parallel with this work Government may wish to seek the views of Parliament, key stakeholders and the public more generally on the proposals (paragraph 146).
+S2023 - The programme of joint convergence work to which the PHSO and LGO are committed should continue with pace (paragraph 147).
+S2148 There is a question for Government about the extent to which such obligations should be set down in statute – as they are in Scotland – or should be part of an MOU or similar agreement between Government or another part of the public sector and any new ombudsman.
+S2254 However, in chapter 9 on next steps, I recommend scoping work to test assumptions and calculate costs, savings and timescales.
+S2255 There is a significant challenge in bringing together a range of organisations with separate legislation, procedures and cultures.
+S2256 However, there is also a shared appetite for and ambition to deliver reform.
+S2258 This work will also need to consider how organisations with different funding sources and revenue generating powers can be brought together – and whether the kind of fee based approach the HO operates should apply in other parts of a PSO’s jurisdiction.
+S2259 PHSO/LGO Joint working The PHOS/LGO’s Joint Convergence Committee’s programme is focussed on identifying the opportunities for collaboration that will act as enablers for a new public services ombudsman, principally by reducing the future costs and risks associated with the creation of the new organisation.
+S2260 A jointly-funded Programme Manager will lead this work.
+S2261 Key work streams already running within the project include:
+S2262 - A common approach to information security standards, removing a key technical barriers to convergence;
+S2263 - Harmonisation of back-office financial systems;
+S2264 - Joint procurement of a new casework management system.
+S2265 The PHSO and LGO executive teams now meet together regularly as a Joint Executive Team and are in the process of establishing a single, joint investigation unit to handle all complaints that involve both health and social care.
+S2299 Similar considerations and concerns have been raised in other areas – for instance health and local government generally - and I refer to means of ensuring appropriate levels of specialist expertise in the PSO leadership (and flowing from that at all levels in the organisation) later.
+S2300 Transitional arrangements will also be important – and this applies too to the Social Care aspect of the LGO’s current remit which shares some of the distinctive features of the HO - and I suggest later how these might be scoped as part of the next phase of the work to deliver the PSO.
+S2464 There are then options for the method of selection and appointment of the Chief Executive equivalent.
+S2465 On the one hand it is argued that selection by the proposed PSO Board would provide clarity of accountability and roles within the organisation, and removes potential scope for conflict between multiple office holders.
+S2466 Set against this are concerns about the impact on the status of the office of the chief ombudsman (as the decision taker on individual complaints) – and the extent to which a model which does not have Parliamentary control over or involvement in the appointment of the Chief Ombudsman creates a disconnect between that function and Parliament (and therefore in turn the public).
+S2467 Ultimately it will be for Government and Parliament to decide.
+S2469 Government in proposing legislation will wish to consider to what extent it is necessary or helpful to be prescriptive in the area of the composition of the non- executive element of the Board of the PSO.
+S2470 For instance it could be argued that legislation should provide for different interests, backgrounds and skillsets to be represented on the Board, or to provide reassurance to particular sectors within jurisdiction, or to ensure that the views of complainants are to the fore, or to provide geographical representation and so on.
+S2471 While this will ultimately be for Parliament, my view is that the legislation should not be overly prescriptive but should ensure that those 47 Financial Services and Markets Act 2000, Schedule 17 http://www.legislation.gov.uk/ukpga/2000/8/schedule/17 charged with selecting members of the Board seek in preferred candidates experience, abilities and passions that resonate with the overarching ambitions of the PSO as well as the areas of specialist knowledge and background that can make a substantive contribution to the effective, challenging, prudent and aspirational governance of the organisation.
+S2473 The detail of the leadership structure and the skills, expertise and experience which the organisation will need to thrive and deliver its objectives will be developed during the period through to the establishment of the PSO.
+S2474 My view is that the organisational and leadership strength in the bodies coming together to form the PSO should be retained, fostered and nurtured - and will have a key part to play in leading through the transition.
+S2475 But the opportunity should be taken - perhaps starting as early as the initial scoping work recommended later - to work up the appropriate leadership structure for a new integrated organisation acknowledging that there will be a period of uncertainty for staff that will need to be managed, that the organisation will have to be dynamic and respond to unexpected challenges and opportunities along the way but that ultimately it will function as one body.
+S2520 I recommend that this activity should be undertaken as energetically in relation to UK reserved matters in NI, Scotland and Wales as in England.
+S2521 The UKPO, in consultation with the NIO, SPSO and PSOW, should consider whether there is a contribution to this important effort, which the UKPO will lead, that these ombudsmen can make in the parts of the UK where they are "most purpose" public services ombudsmen and where they have greater familiarity with public service delivery arrangements and expectations.
+S2523 The bodies delivering services in reserved areas in Northern Ireland, Scotland and Wales should pursue this activity as assiduously in these parts of the UK as elsewhere.
+S2526 It is probable that in the area of “reserved matters” complaints the NIO, SPSO and PSOW will be approached more regularly and will be able to play an important role in referring complaints to UKPO.
+S2575 The extension of such a requirement to those delivering services on behalf of Government or local government will, as noted elsewhere, need to be taken forward in the context of Government’s wider consideration of its approach in this area.
+S2587 The framework within which such an investigation could be triggered needs to be clearly articulated and understood from the outset.
+S2588 Specific proposals would need to be tested and I suggest that the framework would include:
+S2589 • a published statement setting out the ombudsman’s general approach to own- initiative investigations;
+S2590 • a decision framework that is used to document in a systemic way the detailed reasoning that informs the decision to launch an own initiative investigation, covering the rationale and evidence base for the investigation, any relevant jurisdictional issues (and in particular why the ombudsman is better placed than others to act) and other background, the methodology to be used and the proposed timeline; and • a protocol that commits the ombudsman to notify the leadership of the relevant organisation that it will be subject of an own-initiative investigation.
+S2591 The notification would specify the legal basis and reason for the investigation, as well as the scope or terms of reference of the investigation.
+S2592 • The Board of the PSO should be required to sign off any proposal, having taken account of any views of the body or bodies in question.
+S2593 A report should then be made to the proposed Public Administration Commission recording the case put to the Board and including any comments received from the leadership of the organisation.
+S2612 Further consideration of these points is for the next phase of this work.
+S2613 Most of the issues would benefit from exposure to wide consultation so that the range of views can be expressed and a considered judgement reached on how to proceed as part of the task of preparing legislation.
+S2617 In the course of the current short review there has not been time to consider in detail the programming of the implementation of the various changes.
+S2618 Subject to Government being broadly content with the package proposed, I recommend testing the coherence, feasibility of implementation and resource (financial and other)
+S2619 implications of making these changes together with producing a fuller assessment of the benefits that would flow from a reformed ombudsman services along the lines proposed.
+S2621 I also recommend that this work should be undertaken by a short life (no more than 90 day elapsed time) task group - bringing together key interests in Parliament, Government, PHSO, LGO and HO under Cabinet Office or independent chairmanship – to produce a high level feasibility and implementation project plan both to validate the coherence of the changes and to confirm that they have the potential: (a) to be an adequate response to public service delivery landscape changes, (b) to improve performance and (c) to yield value for money.
+S2624 However, I recommend that Government consider, in parallel with the scoping work recommended, conducting wider public consultation on the proposals for change.
+S2626 The PHSO and LGO are, as noted earlier, committed to a programme of joint convergence work.
+S2627 This should continue.
+S2628 A number of natural ‘change’ points will arise in the period ahead such as the conclusions of terms of office, the need for investment decisions (eg in relation to systems) or other contractual issues.
+S2629 These opportunities should be taken to move the programme of reform forward as far and as fast as possible ahead of legislative change.
+S2713 We will therefore seek views from Parliament on ways that it can provide stronger external scrutiny of the organisation.
+S2714 This includes the possibility of a statutory body comprised of Parliamentarians to oversee PSO’s budget, strategy and performance.
+S2758 It will therefore be for the organisation’s Board to decide how to brand its service in the interests of clarity and accessibility.
+S2759 There will be an expectation that in doing so the Board will take into account the views of the public service ombudsmen in Scotland, Wales and Northern Ireland, as well as representatives of the sectors over which it has jurisdiction.
+S2780 However we must take into account the views of MPs themselves on this issue and remain open to further discussions following the publication of draft legislation.
+S2782 We will therefore work closely with Parliament to make sure that the draft legislation preserves and strengthens this relationship including through the introduction of greater parliamentary oversight of the operations of PSO, the retention of Parliament’s ability to examine PSO’s reports, and by reinforcing PSO’s status as a body accountable to the legislature.
+S2844 We will now continue to develop the detail and will work with interested parties to clarify further the role, structure, governance, and accountability of the new service.
+S2845 Following this, we intend to publish draft legislation that sets out the detail of the proposals for further consideration before the end of the current Parliamentary session.

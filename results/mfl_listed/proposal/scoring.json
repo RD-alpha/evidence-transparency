@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Dropping the speaking assessment, compensated by combined skills",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that recruitment of speaking examiners is difficult and that combining listening/reading/writing preserves challenge is asserted as reasoning with no data, study, or consultation evidence offered (no figures on examiner shortages, no cited source)."
+    },
+    {
+      "theme": "Content aligned with, but adapted from, the 2015 main MFL content",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Adaptations like 'society past and present' or 'cinematic technique' replacing 'camera work' are justified only by unsupported reasoning (e.g. 'will secure a suitable level of academic challenge') with no evidence, data, or cited comparison to show comparability of demand."
+    },
+    {
+      "theme": "Distinct qualification title",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The rationale for a distinct title is asserted purely as reasoning ('has been drafted to provide a clear distinction') with no evidence such as consultation feedback or confusion data cited."
+    },
+    {
+      "theme": "Policy development and scope",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes the 2013 Smith review and ALCAB process factually but offers no evidence (findings, data) that these reviews support the specific content choices made."
+    },
+    {
+      "theme": "Qualification purpose and progression",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States the qualification's intended relevance and foundation value as assertion, with no supporting evidence or citation."
+    }
+  ],
+  "reasoning": "All three core themes rest on assertion and reasoning rather than evidence. The removal of speaking assessment is justified only by the unsupported claim of 'difficulties in recruiting trained examiners with the specialist expertise' (no figures, no study, no consultation data cited), scoring 0. The adaptation of content from the 2015 main MFL specification is explained through plausible-sounding reasoning ('By requiring the study of society in the past as well as the present, the content will secure a suitable level of academic challenge') but with no evidence that these specific substitutions (e.g. cinematic technique for camera work, dropping online media) actually preserve comparable rigour, scoring 0. The distinct title theme is justified purely by stated intent ('has been drafted to provide a clear distinction') with no evidence such as stakeholder confusion data or consultation findings, scoring 0. Reference 4 is only a link to the existing MFL specification page, used to describe current rules rather than as evidence for the proposed changes. Mean of core themes (0, 0, 0) = 0, giving a section score of 0. The strongest counter-example is the examiner recruitment claim, which reads as though it should be backed by recruitment statistics or consultation responses, but none are shown. To reach level 1, the document would need to mention at least some evidence\u2014such as data on examiner numbers, or consultation responses\u2014explaining how it informed these specific design choices.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

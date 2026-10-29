@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Overfishing of lobster and crawfish stocks",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "EU and biodiversity obligations",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Market failure in common-pool fisheries",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Inadequacy of existing local protections",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Economic importance of shellfish fisheries",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Biology and management of berried lobsters and crawfish",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

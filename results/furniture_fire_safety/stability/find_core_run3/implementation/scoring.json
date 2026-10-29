@@ -1,0 +1,52 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Flexible routes to compliance reflecting stakeholder feedback",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The uptake percentages (25%/5%/50%/20%) are said to be 'based on discussions with stakeholders and BIS estimates' but no numbers of stakeholders, methodology or testing detail is given, and the figures are explicitly flagged as 'to be tested further in consultation'."
+    },
+    {
+      "theme": "Extended transition period to limit business costs",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Consultation responses are described as 'generally indicat[ing]' 24 months and a costed model (testing cycle brought forward a year, discount factor, '\u00a30.6m of additional one-off costs', refs 11-13) is explained and explicitly flagged as 'a crude estimate'."
+    },
+    {
+      "theme": "Strengthened traceability record-keeping requirements",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The '16 hours' admin-time assumption and \u00a31m one-off cost figure are stated but not sourced or justified, and references 9/10/14 attached to the sentences do not clearly correspond to the costing claim."
+    },
+    {
+      "theme": "Unresolved design details to be settled through further consultation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The theme is a string of 'we will test/consider this in consultation' statements with no evidence offered for why these particular items remain undecided or how consultation will resolve them."
+    },
+    {
+      "theme": "Scope clarification for baby products and grey-area items",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The Baby Products Association's argument is reported but only as an assertion of disproportionate burden, with no data or study (ref 6 relates to a different cost item), and the grey-area items proposal is reasoning only."
+    },
+    {
+      "theme": "Business support and guidance",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Guidance plans and reliance on test houses/trade associations are asserted with no evidence of need, uptake or effectiveness, only the uncited ref 1 report on the 1988 regulations' effectiveness generally."
+    },
+    {
+      "theme": "Regulatory and enforcement framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The prosecution time-limit change is said to align with 'other consumer safety legislation' and stakeholder feedback (ref 8) but with no detail on what that comparison showed or how it supports 12 months specifically."
+    }
+  ],
+  "reasoning": "The four core themes score unevenly. 'Flexible routes to compliance' (level 1) rests on stakeholder discussions and BIS estimates for the uptake percentages, but with no methodological detail and an admission the figures are 'to be tested further in consultation'. 'Extended transition period' (level 2) is the strongest: consultation responses are described as favouring 24 months, and a costed model with stated assumptions (testing cycle, discount factor, '\u00a30.6m of additional one-off costs', refs 11-13) is given and self-flagged as 'crude'. 'Strengthened traceability' (level 1) gives a bare admin-time assumption ('16 hours... \u00a31m') with no sourcing, and its reference numbers (9/10/14) don't visibly match the claims. 'Unresolved design details' (level 0) is essentially a list of 'we will test this in consultation' statements with no evidence behind the decision to defer, such as the undetermined 'protective cover' test. The mean of (1,2,1,0) is 1.0, giving a section score of 1. The strongest counter-example is the transition-period costing, which comes closest to level 3 but isn't representative of the whole set. To reach level 2 overall, the document would need to cite the stakeholder/consultation numbers behind the route percentages and the admin-time assumption, and properly link each reference to the specific claim it supports.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

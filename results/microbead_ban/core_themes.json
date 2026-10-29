@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Microplastic harm to marine life and ecosystems",
+        "claim": "Microplastics do not biodegrade, accumulate in the marine environment, can carry toxic chemicals, and are ingested by marine organisms, causing harm and entering the food chain."
+      },
+      {
+        "name": "Microbeads as a source of microplastic pollution",
+        "claim": "Microbeads used in rinse-off cosmetics and personal care products are washed down drains, pass through sewage systems incompletely filtered, and enter the marine environment, contributing to overall microplastic pollution."
+      },
+      {
+        "name": "Evidence base from research and inquiry",
+        "claim": "Defra-funded research by the University of Plymouth and the Environmental Audit Committee inquiry provide evidence on the mechanisms and extent of microplastic harm, while acknowledging microbeads are a small proportion of total microplastic pollution."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Ban on microbeads in cosmetics and personal care products",
+        "claim": "The government proposes to ban the manufacture and sale of cosmetics and personal care products containing microbeads to protect the marine environment, strengthen industry commitments, ensure a level playing field, and build consumer confidence."
+      },
+      {
+        "name": "Voluntary industry action as insufficient basis",
+        "claim": "Although the cosmetics industry has voluntarily reduced microbead use with over 72% committing to cease sales by 2017, this voluntary approach is insufficient and must be strengthened through legislation."
+      },
+      {
+        "name": "International alignment and precedent",
+        "claim": "The proposed UK ban follows and aligns with similar bans and announcements in other countries such as the USA, Italy, and France, supporting the case for UK action."
+      },
+      {
+        "name": "Limited impact but symbolic/precautionary value",
+        "claim": "Although a ban on microbeads alone would have only a small impact on overall microplastic pollution, it is an important precautionary step because microbeads are avoidable and alternatives exist."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Scope and definition of the ban",
+        "claim": "The ban will apply to solid microplastic ingredients under 5mm used in rinse-off cosmetics and personal care products such as exfoliating scrubs, shower gels and toothpastes, across the whole UK including devolved administrations."
+      },
+      {
+        "name": "Phased timetable for manufacture and sale",
+        "claim": "The ban will be phased in with manufacture prohibited from January 2018 and sale from June 2018 in England, with the legislation in force by October 2017, to allow businesses, especially SMEs, time to comply."
+      },
+      {
+        "name": "Devolved and collaborative legislative approach",
+        "claim": "The legislation will be developed collaboratively with the Devolved Administrations, each introducing their own secondary legislation according to their own timetables while coordinating with England's approach."
+      },
+      {
+        "name": "Enforcement through civil sanctions",
+        "claim": "In England the ban is proposed to be enforced through civil sanctions under the Regulatory Enforcement and Sanctions Act 2008, requiring creation of an offence punishable by fine, with views sought on effective enforcement."
+      }
+    ],
+    "note": ""
+  }
+}

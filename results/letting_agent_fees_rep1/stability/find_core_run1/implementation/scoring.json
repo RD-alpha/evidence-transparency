@@ -1,0 +1,82 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Local authority enforcement",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that tenant empowerment will ease the Trading Standards burden rests on the uncited line 'Tenant empowerment and education has helped to improve compliance in other areas of the sector, for example, deposit protection,' which offers a comparator but no source or data."
+    },
+    {
+      "theme": "Additional enforcement infrastructure",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The case for a lead enforcement authority is built on a detailed but uncited description of NTSEAT's powers and remit in the estate agency sector ('NTSEAT... is designated by the Secretary of State as the UK's lead enforcement authority'), used analogically with no reference or link."
+    },
+    {
+      "theme": "Penalties for non-compliance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The proposed penalty level is reasoned from the existing uncited \u00a35,000 civil penalty and the Housing and Planning Act 2016's \u00a330,000 banning-order fine ('the Government is introducing civil penalties of up to \u00a330,000'), neither of which carries a reference."
+    },
+    {
+      "theme": "Tenant empowerment and education",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Relies on the same unreferenced deposit-protection comparator ('Tenant empowerment and education has helped to improve compliance... for example, deposit protection') to justify guidance-based education, with no citation of how this worked."
+    },
+    {
+      "theme": "Policy scope and implementation timing",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Purely a statement of intent to legislate, with no evidence offered."
+    },
+    {
+      "theme": "Alternative deposit models",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes possible deposit alternatives and asks for views but gives no evidence they work."
+    },
+    {
+      "theme": "Charges and fees beyond scope",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lists examples of excluded charges with no supporting evidence or data."
+    },
+    {
+      "theme": "Tenant protections and reference checks",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States a proposed rule on tenant passports with no evidence behind it."
+    },
+    {
+      "theme": "Scottish regulation framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Descriptive account of Scottish law (e.g. \u00a31,000 and \u00a350,000 fines) not explicitly linked to any UK delivery decision or assessed."
+    },
+    {
+      "theme": "Welsh regulation framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Descriptive account of Rent Smart Wales licensing with no evidence of effectiveness or link to the ban's delivery choice."
+    },
+    {
+      "theme": "Northern Ireland regulation framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Descriptive account of NI landlord registration fees and process, not used as evidence for any delivery claim here."
+    },
+    {
+      "theme": "Enforcement outcomes and remedies",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes court remedy mechanics for deposit protection with no evidential claim attached."
+    }
+  ],
+  "reasoning": "Across the four core themes\u2014Local authority enforcement, Additional enforcement infrastructure, Penalties for non-compliance, and Tenant empowerment and education\u2014the document consistently offers some explanation for its delivery choices but never cites a traceable source. The recurring comparator 'Tenant empowerment and education has helped to improve compliance in other areas of the sector, for example, deposit protection' supports both enforcement themes but carries no reference. The detailed account of NTSEAT ('designated by the Secretary of State as the UK's lead enforcement authority... responsible for issuing formal prohibition or warning orders') gives a real comparable-policy rationale for a lead authority, but again with no reference or link. Penalty levels are reasoned from existing law ('a maximum fine of \u00a35,000' and 'civil penalties of up to \u00a330,000' under the Housing and Planning Act 2016), used to argue for a 'considerable deterrent,' but these are uncited legal facts rather than properly referenced evidence. Each core theme therefore reaches level 1: evidence mentioned with some explanation, but not linked via citation. None reach level 2 because no reference numbers or links appear anywhere in these themes. The mean of 1,1,1,1 is 1, giving a section score of 1. The strongest counter-case for a higher score would be the NTSEAT comparison, which is unusually detailed, but it still lacks citation. To reach level 2, the document would need to cite sources for the deposit-protection compliance claim and link the NTSEAT/penalty comparisons to data or named reports.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

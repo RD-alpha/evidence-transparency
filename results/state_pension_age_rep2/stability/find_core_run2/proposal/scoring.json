@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Linking State Pension age to life expectancy at about 32% of adult life",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 32% figure is tied to the Government Actuary's modelling (Ref 35 terms of reference) and to the 31.3% vs 1992-2016 experience comparison (Refs 1, 18, 38, 39), with a clear chain from fairness to the 32% choice, but no uncertainty assessment of the underlying projections beyond the stated cost-based preference."
+    },
+    {
+      "theme": "Rise to 68 in 2037-39",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The \u00a374bn saving and the Table A modelling are linked to DWP model assumptions (Refs 43, 37, 36) and the choice against the 32% timetable is explained, while the 'see Annex' pointer (Ref 17) is generic and the uncertainty is handled in another theme (lines on 2012- and 2014-based ONS projections, counted from the deferred-decisions theme), but not enough on the cost model's weaknesses to reach 3."
+    },
+    {
+      "theme": "Fiscal savings and benefits",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Figures such as 0.3% of GDP per year (Ref 15, OBR), 1% GDP (Ref 16) and the 6.3 percentage point employment effect (Ref 33) are cited and the \u00a311bn/household figure is explained (Ref 37), and the document admits that working-age benefit and tax effects 'have not been produced', but this is only a partial acknowledgement and the sources are not weighed."
+    },
+    {
+      "theme": "Universal State Pension age",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The argument leans on Cridland's report and unreferenced Pensions Policy Institute analysis, with only Ref 40 (ONS life expectancy trend) cited, so most claims about disadvantaged groups and complexity rest on assertion and uncited findings."
+    },
+    {
+      "theme": "Later decisions deferred to further reviews",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The document explicitly recognises that 'life expectancy projections are uncertain, and more so over longer projection periods' and that it is too early to set a timetable beyond 68, explaining its plan for further reviews, but the supporting evidence is uncited apart from the generic 'See Annex' (Ref 17), so it falls short of level 3."
+    }
+  ],
+  "reasoning": "Four of the five themes are weighted core in this section and I scored them as: State Pension age linked to life expectancy at 32% (2), rise to 68 in 2037-39 (2), fiscal savings and benefits (2), universal State Pension age (1), and later decisions deferred (2). The mean of the five core themes is 1.8, which rounds to 2. The strongest material is the cited, quantified evidence: 'a one year increase in State Pension age saves around 0.3% of GDP per year' (Ref 15), the \u00a374bn saving from DWP modelling with its assumptions stated (Ref 43), the \u00a311bn-per-household derivation (Ref 37), and the 31.3% versus last-25-years comparison (Refs 1, 18, 38, 39). The reasoning from fairness-between-generations evidence to the chosen timetable is generally clear, including why the 32% timetable's immediate rise to 68 was rejected. The strongest counter-example to level 2 is the universal-pension-age theme, where the Pensions Policy Institute analysis is cited only in prose and most claims are asserted. A counter-example to a higher score is that the document acknowledges projection uncertainty but does not assess the quality of its own sources, and says the effects on working-age benefits and tax receipts 'have not been produced'. To reach level 3 the document would need to assess the strength of the modelling and OBR/ONS projections, show sensitivity of the \u00a374bn saving to life expectancy assumptions, and quantify or explain the missing offsetting costs.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.8,
+  "score_consistent": true,
+  "missing_core": []
+}

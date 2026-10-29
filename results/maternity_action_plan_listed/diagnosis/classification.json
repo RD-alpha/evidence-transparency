@@ -1,0 +1,75 @@
+{
+  "themes": [
+    {
+      "name": "Safe but falling short of potential",
+      "ids": [
+        "S0022",
+        "S0162",
+        "S0163",
+        "S0164",
+        "S0165",
+        "S0166",
+        "S0167"
+      ]
+    },
+    {
+      "name": "Quality of care drives outcome variation",
+      "ids": [
+        "S0173",
+        "S0174",
+        "S0216",
+        "S0217",
+        "S0218",
+        "S0220"
+      ]
+    },
+    {
+      "name": "Public health risk factors are a major driver",
+      "ids": [
+        "S0035",
+        "S0036",
+        "S0037",
+        "S0038",
+        "S0222",
+        "S0223",
+        "S0224",
+        "S0225",
+        "S0227",
+        "S0228",
+        "S0234",
+        "S0245",
+        "S0246"
+      ]
+    },
+    {
+      "name": "Workforce skills and staffing consistency gaps",
+      "ids": [
+        "S0274",
+        "S0275",
+        "S0276"
+      ]
+    },
+    {
+      "name": "Clinical leadership and safety culture",
+      "ids": [
+        "S0028",
+        "S0056",
+        "S0057",
+        "S0063"
+      ]
+    },
+    {
+      "name": "Socioeconomic and geographical disparities",
+      "ids": [
+        "S0171",
+        "S0172"
+      ]
+    },
+    {
+      "name": "Data collection and monitoring",
+      "ids": [
+        "S0296"
+      ]
+    }
+  ]
+}

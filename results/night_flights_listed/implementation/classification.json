@@ -1,0 +1,172 @@
+{
+  "themes": [
+    {
+      "name": "Use of existing legal powers under transitional EU/domestic rules",
+      "ids": [
+        "S0117",
+        "S0314",
+        "S0315",
+        "S0316",
+        "S1154",
+        "S1155",
+        "S1156",
+        "S1251",
+        "S1252",
+        "S1253"
+      ]
+    },
+    {
+      "name": "Timing driven by the sunset clause, separate from Heathrow expansion",
+      "ids": [
+        "S0055",
+        "S0075",
+        "S0077",
+        "S0101",
+        "S0119",
+        "S0147"
+      ]
+    },
+    {
+      "name": "Mechanism for resolving undecided details via consultation and future policy",
+      "ids": [
+        "S0097",
+        "S0103",
+        "S0532",
+        "S0539",
+        "S0540",
+        "S0568",
+        "S0577",
+        "S0589",
+        "S0594",
+        "S1244",
+        "S1246",
+        "S1247",
+        "S1248",
+        "S1249",
+        "S1250",
+        "S1326",
+        "S1327",
+        "S1328",
+        "S1329",
+        "S1330",
+        "S1772"
+      ]
+    },
+    {
+      "name": "Dispensations framework and exceptional circumstances",
+      "ids": [
+        "S0648",
+        "S0649",
+        "S0650",
+        "S0651",
+        "S0652",
+        "S0655",
+        "S0658",
+        "S0659",
+        "S0660",
+        "S0661",
+        "S0662",
+        "S0664",
+        "S0665",
+        "S0666",
+        "S0668",
+        "S0669",
+        "S0670",
+        "S0672",
+        "S0673",
+        "S0674",
+        "S0676",
+        "S0677",
+        "S0679",
+        "S0681",
+        "S0683",
+        "S0684",
+        "S0685",
+        "S0686",
+        "S0688",
+        "S0689",
+        "S0690",
+        "S0691",
+        "S0692",
+        "S0693",
+        "S0694",
+        "S0695",
+        "S0696",
+        "S0697",
+        "S0698",
+        "S0699",
+        "S0700",
+        "S0703"
+      ]
+    },
+    {
+      "name": "Operational flexibility and carryover arrangements",
+      "ids": [
+        "S1123",
+        "S1126",
+        "S1127",
+        "S1128",
+        "S1130",
+        "S1790"
+      ]
+    },
+    {
+      "name": "Environmental objectives and balanced approach framework",
+      "ids": [
+        "S0322",
+        "S0323",
+        "S0324",
+        "S0326",
+        "S0327",
+        "S0388",
+        "S0389"
+      ]
+    },
+    {
+      "name": "Governance and locally agreed arrangements",
+      "ids": [
+        "S0439",
+        "S0440",
+        "S0441"
+      ]
+    },
+    {
+      "name": "Aircraft performance classification and exemptions",
+      "ids": [
+        "S0705",
+        "S0706",
+        "S0707",
+        "S0718",
+        "S1777"
+      ]
+    },
+    {
+      "name": "Business impact and evidence gathering",
+      "ids": [
+        "S1734",
+        "S1735",
+        "S1736",
+        "S1737",
+        "S1738",
+        "S1739",
+        "S1745",
+        "S1750",
+        "S1758",
+        "S1764",
+        "S1765"
+      ]
+    },
+    {
+      "name": "Consultation process and stakeholder input",
+      "ids": [
+        "S1623",
+        "S1624",
+        "S1776",
+        "S1991",
+        "S1992",
+        "S2000",
+        "S2001"
+      ]
+    }
+  ]
+}

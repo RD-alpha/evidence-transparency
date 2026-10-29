@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Phased timetable and pilot",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The timetable and pilot (e.g. 'We will therefore pilot the Review's recommended approach... in the 2017 to 2018 academic year') are commitments and a decision method, with no statistic, finding or source offered to show why this schedule was chosen, beyond the assertion that it gives schools 'adequate time'."
+    },
+    {
+      "theme": "Reviewing the standards and supporting consistent teacher judgements",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Consultation evidence is used ('a substantial number of consultation respondents said that they would benefit from additional information', the 16% survey figure) but without numbers of respondents or method, and the unresolved references 16 and 8 point to nothing the reader can follow, while the peer-to-peer moderation pilot is a plan rather than evidence."
+    },
+    {
+      "theme": "Training, collaboration and guidance for schools",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Consultation figures ('Eighty-three per cent of respondents agreed', 'Nine per cent... did not agree') and references 23-25, 35, 36, 39-41 (ITT framework, EEF, Bell Foundation) are given, but the base and question for the consultation are not described, the references mostly describe existing programmes rather than evidence of effect, and nothing is assessed."
+    },
+    {
+      "theme": "Accountability and reporting of assessment data",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The Rochford survey figures (16% overall, 24% mainstream, 9% special) and the Ofsted handbook quotation are offered as grounds, but no sample size or citation is given; the stakeholder view that figures 'probably under-estimate' adds a limited acknowledgement of uncertainty."
+    }
+  ],
+  "reasoning": "The three core themes are the phased timetable and pilot (level 0), reviewing the standards and supporting consistent judgements (level 1), and training, collaboration and guidance (level 1). The mean is 0.67, which rounds to 1. The timetable theme is almost entirely commitment: 'To give schools adequate time to prepare for these changes, this recommendation will take effect from the 2018 to 2019 academic year onwards' is an assertion, and the 2017-18 pilot is a decision method, not evidence for the chosen route. The standards theme draws on consultation ('a substantial number of consultation respondents said...') and the survey figure 'Sixteen per cent', but gives no counts, questions or method, and references 16 and 8 are recorded as cited but undefined. The training theme offers the best evidence, 'Eighty-three per cent of respondents agreed' and 'Nine per cent... did not agree' alongside references 23-25 and 39-41. Even here, the consultation base is not described, and the references describe existing programmes rather than showing what works. The strongest counter-example to level 1 is that training theme, which might be argued to reach level 2 because of the references and the percentages; the lack of consultation method and of any link from evidence to the ITT and CPD design holds it back. To reach level 2 the document would need to give consultation response numbers and questions, resolve the broken references, and explain why the timetable and delivery routes follow from the evidence. Level 3 would need it to assess that evidence and acknowledge its limits.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Policy Commitment and Rationale",
+      "reason": "States the manifesto commitment to introduce votes for life and gives the core rationale (ongoing ties, family, service) for why this specific intervention was chosen to address the 15-year ban; the proposal's justification rests on this.",
+      "weight": "core"
+    },
+    {
+      "theme": "Policy Implementation and Eligibility",
+      "reason": "Defines the scope of the intervention (who becomes eligible), which is central to understanding what the chosen policy actually does and how it addresses the problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Costs and Resource Requirements",
+      "reason": "Provides cost estimates and assumptions for implementing the policy, which supports the should-explain point on costs/benefits but is supplementary detail rather than the basis for why this intervention was chosen.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "themes": [
+    {
+      "name": "Choice of an outright ban over strengthened transparency",
+      "ids": [
+        "S0213",
+        "S0214",
+        "S0216",
+        "S0217",
+        "S0218",
+        "S0220",
+        "S0222"
+      ]
+    },
+    {
+      "name": "Scope of the ban and limited exceptions",
+      "ids": [
+        "S0285",
+        "S0287",
+        "S0288",
+        "S0299"
+      ]
+    },
+    {
+      "name": "Scottish precedent as supporting evidence",
+      "ids": [
+        "S0061",
+        "S0062",
+        "S0426",
+        "S0427",
+        "S0429",
+        "S0430",
+        "S0432",
+        "S0433",
+        "S0435",
+        "S0436",
+        "S0437",
+        "S0438",
+        "S0440",
+        "S0441",
+        "S0442",
+        "S0443",
+        "S0445",
+        "S0447",
+        "S0448",
+        "S0450",
+        "S0451",
+        "S0453",
+        "S0454"
+      ]
+    },
+    {
+      "name": "Expected pass-through of costs to rents",
+      "ids": [
+        "S0326",
+        "S0327",
+        "S0328",
+        "S0329",
+        "S0331",
+        "S0332"
+      ]
+    },
+    {
+      "name": "Benefits to tenants and market transparency",
+      "ids": [
+        "S0019",
+        "S0023",
+        "S0240",
+        "S0241",
+        "S0243",
+        "S0246",
+        "S0247",
+        "S0279",
+        "S0281",
+        "S0334",
+        "S0335",
+        "S0336"
+      ]
+    },
+    {
+      "name": "Landlord competition and agent incentives",
+      "ids": [
+        "S0020",
+        "S0021"
+      ]
+    },
+    {
+      "name": "Simplicity and clarity of the ban",
+      "ids": [
+        "S0283",
+        "S0298"
+      ]
+    },
+    {
+      "name": "Deposit regulation",
+      "ids": [
+        "S0291"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": [
+        "S0063",
+        "S0244",
+        "S0259",
+        "S0260",
+        "S0325",
+        "S0532"
+      ]
+    }
+  ]
+}

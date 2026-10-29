@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Notice and certainty for individuals",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The ten-year notice pledge and the 'practical terms' line (lines 2, 9) are commitments and reasoning with no statistic, finding or source, and the Pensions Act 2014 is cited only to describe the review mechanism, so no evidence is offered."
+    },
+    {
+      "theme": "Communications strategy",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The strategy lines are descriptions of what the Government 'could' do, plus agreement with Cridland that 'good communication will be at the heart' of strategy, which is a named recommendation with no evidence of what it shows and no reference."
+    },
+    {
+      "theme": "Wider package of support for working and saving",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on Cridland's recommendations and the health and work consultation are named without any findings or explanation of how they shaped the delivery, and the claim that the welfare system 'already provides protection' is asserted without support."
+    },
+    {
+      "theme": "Legislative and independent review process",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The extract explains that the Government Actuary's timetables rest on 'up to one third' of adult life in receipt and cover 2028 to 2064, and that Cridland reported on wider factors, but nothing is cited and no assessment of the evidence is given."
+    }
+  ],
+  "reasoning": "The three core themes all score 0, so the mean is 0 and the section score is 0. The notice theme rests on commitments and reasoning: 'We will also seek to provide a minimum of ten years' notice' is a pledge, and 'in practical terms individuals need time to prepare' is an assertion with no data on how much notice people need or how they respond to it. The Pensions Act 2014 is cited only to describe the review mechanism, not to explain why a delivery route was chosen. The communications theme lists what a strategy 'could' do and names the online Check your State Pension service and the Pensions Dashboard, but offers no evidence that these tools reach affected people or change behaviour. Cridland's view that 'good communication will be at the heart' of strategy is named, not evidenced. The wider-support theme refers to the health and work consultation and to Cridland's recommendations, but says nothing about what they found or how they will shape delivery. The strongest counter-example is the non-core theme on the legislative and independent review process, which explains how the Government Actuary's timetables were built on the 'up to one third' principle and so reaches level 1. It supports the timetable rather than the delivery claims in the core themes, so I did not count it towards them. To reach level 1, the core themes would need to offer actual findings, such as evidence on how much notice people need, on the reach of digital tools, or on the health and work consultation, and explain how those findings shaped the delivery approach. Level 2 would also require references or links a reader can follow.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

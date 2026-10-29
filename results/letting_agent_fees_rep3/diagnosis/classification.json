@@ -1,0 +1,141 @@
+{
+  "themes": [
+    {
+      "name": "Scale and variability of tenant fees",
+      "ids": [
+        "S0013",
+        "S0014",
+        "S0015",
+        "S0016",
+        "S0130",
+        "S0131",
+        "S0136",
+        "S0138",
+        "S0139",
+        "S0142",
+        "S0143",
+        "S0150",
+        "S0151",
+        "S0152",
+        "S0154",
+        "S0155",
+        "S0162",
+        "S0163",
+        "S0164",
+        "S0165",
+        "S0167",
+        "S0168",
+        "S0169",
+        "S0193",
+        "S0194",
+        "S0195",
+        "S0196",
+        "S0197",
+        "S0199"
+      ]
+    },
+    {
+      "name": "Weak tenant market power and misaligned incentives",
+      "ids": [
+        "S0015",
+        "S0223",
+        "S0224",
+        "S0226",
+        "S0227",
+        "S0228",
+        "S0230",
+        "S0231",
+        "S0232",
+        "S0233",
+        "S0235",
+        "S0236",
+        "S0238"
+      ]
+    },
+    {
+      "name": "Failure of existing transparency requirements",
+      "ids": [
+        "S0030",
+        "S0031",
+        "S0193",
+        "S0194",
+        "S0195",
+        "S0199",
+        "S0201",
+        "S0202",
+        "S0205"
+      ]
+    },
+    {
+      "name": "Financial and behavioural harm to tenants",
+      "ids": [
+        "S0257",
+        "S0262",
+        "S0263",
+        "S0264",
+        "S0265",
+        "S0266",
+        "S0267",
+        "S0268",
+        "S0271",
+        "S0272",
+        "S0273",
+        "S0274",
+        "S0276",
+        "S0277"
+      ]
+    },
+    {
+      "name": "Sector growth and characteristics",
+      "ids": [
+        "S0006",
+        "S0007",
+        "S0250",
+        "S0251",
+        "S0254"
+      ]
+    },
+    {
+      "name": "Deposit and up-front requirements",
+      "ids": [
+        "S0134",
+        "S0135",
+        "S0145",
+        "S0146",
+        "S0147",
+        "S0148"
+      ]
+    },
+    {
+      "name": "Landlord fees and cost structures",
+      "ids": [
+        "S0173",
+        "S0174",
+        "S0175",
+        "S0177",
+        "S0178",
+        "S0180",
+        "S0181",
+        "S0182",
+        "S0184",
+        "S0185",
+        "S0186"
+      ]
+    },
+    {
+      "name": "Agent conduct and market issues",
+      "ids": [
+        "S0207",
+        "S0208",
+        "S0209",
+        "S0210"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": [
+        "S0317"
+      ]
+    }
+  ]
+}

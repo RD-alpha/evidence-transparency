@@ -1,0 +1,34 @@
+S0019 It is also important that these vehicles are safe and appropriately maintained, especially as many older vehicles lack appropriate safety features, to ensure the risk to road safety is reduced.
+S0020 Under current GB and EU law all vehicles that were manufactured before 1960 are exempted from compulsory annual roadworthiness testing.
+S0021 A new European Roadworthiness Directive makes changes to the existing vehicle testing scheme, including the provisions for exempting vehicles of historical interest.
+S0023 The Directive still enables exemptions from regular testing, and in respect of vehicles of historical interest, it applies to vehicles manufactured or registered for the first time at least 30 years ago, which are no longer in production and have not been substantially changed.
+S0037 The Directive sets new rules on periodic roadworthiness testing for vehicles and their trailers and repeals the old EU Directive 2009/40/EC.
+S0043 1.3 Under existing GB and EU law all vehicles manufactured before 1960 are exempted from compulsory annual roadworthiness testing.
+S0044 The Directive also exempts vehicles from regular testing, but now vehicles must be manufactured or registered at least 30 years ago, must no longer be in production and must not be substantially changed.
+S0045 This ensures that the vehicles benefiting from MOT exemptions are actually in the original condition they purport to be.
+S0046 This is a useful amendment which aims to ensure that people who drive vehicles which have been significantly changed cannot profit from an exemption.
+S0076 1.1 The Directive sets out minimum requirements for periodic roadworthiness testing of vehicles used on public roads.
+S0077 Vehicles are categorised by type and the rules differ for each category.
+S0078 Cars and vans must be tested at least biennially from 4 years old, unless exempted.
+S0079 Heavy goods vehicles, buses and coaches that are not exempted must be tested annually from new.
+S0084 1.3 Under current GB and EU law all vehicles that were manufactured before 1960 are exempted from compulsory annual roadworthiness testing.
+S0085 The new EU Directive still enables us to allow exemptions from regular testing, but now vehicles must be manufactured at least 30 years ago, must no longer be in production and must not been substantially changed.
+S0086 1.4 If we wish to continue to exempt VHIs we will need to amend domestic law to implement the requirements of the Directive.
+S0088 1.5 Under the Directive, VHIs (described in paragraph 1.3 above) can be exempted from regular testing in Great Britain if we opt to do so.
+S0171 In Great Britain all vehicles manufactured before 1960 are exempt from regular road-worthiness testing.
+S0172 EU Directive 2014/45 changes the rules around this.
+S0173 The new rules allow Member States to exempt vehicles of historical interest (VHIs) from testing if they are at least 30 years old, no longer in production and have not had substantial changes made to them.
+S0174 If we wish to continue to exempt VHIs from regular testing to implement the new EU requirements we’ll need to update GB law.
+S0175 The new Directive also allows Member States to determine the periodicity of testing for VHIs if not exempt.
+S0350 New EU Directive 2014/45 (“the Directive”) sets out minimum requirements for periodic road-worthiness testing of vehicles used on public roads.
+S0351 Vehicles are categorised by type and the rules differ for each category.
+S0352 Cars and vans must be tested at least biennially, unless exempted.
+S0353 Heavy goods vehicles, buses and coaches that are not exempted must be tested annually.
+S0358 Under current GB and EU law all vehicles that were manufactured or registered before 1960 can be exempted from periodic testing.
+S0359 The new EU directive still enables exemptions from regular testing, but vehicles must be at least 30 years old, no longer in production and should not be substantially changed.
+S0360 If we wish to continue to exempt VHIs we will need to implement EU requirements and amend GB law.
+S0361 The Road Traffic Act 1988 provides the legislative basis for MOT testing of cars, other light vehicles (including some light goods vehicles), private buses/coaches, and motorcycles.
+S0362 Heavy Goods Vehicles are required to have a statutory roadworthiness test under the Goods Vehicles (Plating and Testing) Regulations 1988.
+S0372 2) Rationale for intervention At the moment GB legislation simply allows all vehicles manufactured before 1960 to be exempt from roadworthiness testing.
+S0373 There are no additional requirements or criteria to be met.
+S0374 The ‘substantial change’ provision in the Directive means we will need to amend GB legislation to implement the requirements of the Directive, to continue to exempt VHIs from MOT testing.

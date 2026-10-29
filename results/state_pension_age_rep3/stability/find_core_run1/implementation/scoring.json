@@ -1,0 +1,19 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Notice and communications strategy",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only evidence is the Government Actuary's finding that using 2012-based rather than 2014-based projections would bring the rise to 68 forward five years, which is named in prose with no reference and only loosely linked to the ten-year notice commitment; the rest is commitment and assertion (e.g. 'no legislative requirement' and 'individuals need time to prepare').}},{"
+    }
+  ],
+  "reasoning": "placeholder",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": [
+    "Wider support package for saving and working longer",
+    "Support for those who cannot work"
+  ]
+}

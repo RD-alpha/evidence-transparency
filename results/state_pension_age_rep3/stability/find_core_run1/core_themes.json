@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Rising life expectancy",
+        "claim": "Life expectancy at 65 has risen steadily for decades and is projected to keep rising, so people spend a growing proportion of adult life receiving State Pension unless the pension age changes."
+      },
+      {
+        "name": "Demographic shift and pay-as-you-go burden",
+        "claim": "Baby-boomer retirement and a rising old age dependency ratio mean fewer workers support more pensioners under a pay-as-you-go system, so State Pension spending and the per-household cost will rise sharply."
+      },
+      {
+        "name": "Past delay and the case for a structured framework",
+        "claim": "The UK was slow to adjust State Pension age to longevity, forcing rapid, repeated rises across three Acts, which shows a structured framework is needed."
+      },
+      {
+        "name": "Wider ageing costs and projection uncertainty",
+        "claim": "Ageing also raises health and social care spending across public finances, and life expectancy projections are uncertain, so costs must be managed prudently."
+      }
+    ],
+    "note": "The diagnosis is spread across the foreword, executive summary and chapter 1, with much of it repeated verbatim."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Linking State Pension age to life expectancy for intergenerational fairness",
+        "claim": "State Pension age should rise with life expectancy so each generation spends broadly the same share of adult life (up to 32%) in receipt of pension, which is fairer and more affordable than leaving the age fixed and cutting pension value."
+      },
+      {
+        "name": "Raising State Pension age to 68 in 2037–39",
+        "claim": "Following Cridland, the Government will bring the rise to 68 forward to 2037–39 because it balances affordability, fairness and the pace of change better than the legislated 2044–46 date or faster timetables such as the 32% scenario."
+      },
+      {
+        "name": "Costs, savings and benefits",
+        "claim": "The earlier rise saves £74bn to 2045/46 and about 0.4% of GDP by 2039/40, avoids lower pensions or higher taxes, and should raise employment and GDP."
+      },
+      {
+        "name": "Universal State Pension age",
+        "claim": "A single universal State Pension age is retained over flexible or early-access options because it is simple and clear for planning and disadvantaged groups are better helped through the benefit system."
+      },
+      {
+        "name": "Further review and open decisions",
+        "claim": "Because projections are uncertain, the Government will not legislate for 68 until a further review and will not fix policy beyond 2037–39 or set a firm 32% target yet."
+      }
+    ],
+    "note": "Testing-labelled sentences about the further review are folded into the proposal because they say how undecided parts will be handled."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Notice and communications strategy",
+        "claim": "The Government will give at least ten years' notice of State Pension age changes and communicate them through digital and stakeholder channels to support individual planning."
+      },
+      {
+        "name": "Wider support package for saving and working longer",
+        "claim": "Rises in State Pension age must come with measures such as Automatic Enrolment, the Fuller Working Lives strategy and the new State Pension to help people save and stay in work."
+      },
+      {
+        "name": "Support for those who cannot work",
+        "claim": "People unable to work because of disability, health conditions or caring responsibilities will be supported through the welfare system, with options to be assessed as Universal Credit, the new State Pension and earlier rises are evaluated."
+      }
+    ],
+    "note": "Implementation is a package of separate supporting measures rather than a single delivery method, and the evidence for how they will work is thin."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "themes": [
+    {
+      "name": "Climate and air quality imperative",
+      "ids": [
+        "S0028",
+        "S0029",
+        "S0030",
+        "S0031",
+        "S0032",
+        "S0033",
+        "S0034"
+      ]
+    },
+    {
+      "name": "Technological proliferation outpacing banding",
+      "ids": [
+        "S0008",
+        "S0009",
+        "S0036",
+        "S0037",
+        "S0104",
+        "S0120",
+        "S0121",
+        "S0129",
+        "S0130"
+      ]
+    },
+    {
+      "name": "CO2-only measure losing precision for ULEVs",
+      "ids": [
+        "S0108",
+        "S0110",
+        "S0124",
+        "S0128",
+        "S0129"
+      ]
+    },
+    {
+      "name": "Existing bands locked in until 2019-20",
+      "ids": [
+        "S0002"
+      ]
+    },
+    {
+      "name": "Government support and incentives for ULEVs",
+      "ids": [
+        "S0040",
+        "S0041",
+        "S0042"
+      ]
+    },
+    {
+      "name": "Company car tax reform and ULEV band history",
+      "ids": [
+        "S0046",
+        "S0058",
+        "S0059",
+        "S0060",
+        "S0061",
+        "S0062",
+        "S0063",
+        "S0064",
+        "S0151",
+        "S0152"
+      ]
+    },
+    {
+      "name": "Diesel supplement and air quality standards",
+      "ids": [
+        "S0056",
+        "S0057"
+      ]
+    },
+    {
+      "name": "UK automotive performance and EU targets",
+      "ids": [
+        "S0088",
+        "S0089"
+      ]
+    },
+    {
+      "name": "ULEV market uptake and definition",
+      "ids": [
+        "S0105",
+        "S0106",
+        "S0107"
+      ]
+    }
+  ]
+}

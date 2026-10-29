@@ -1,0 +1,9 @@
+{# Header bar shared by the upload and analyse pages; mirrors the viewer's. Set `active` before including. #}
+<header class="site-bar">
+    <a class="site-bar-title" href="{{ url_for('index') }}">Evidence transparency</a>
+    <nav class="site-bar-nav" aria-label="Workflow">
+        <a class="generate-report-button generate-report-button-secondary{% if active == 'upload' %} is-current{% endif %}" href="{{ url_for('upload.upload_page') }}">Upload</a>
+        <a class="generate-report-button generate-report-button-secondary{% if active == 'analyse' %} is-current{% endif %}" href="{{ url_for('analyse.analyse_page') }}">Analyse</a>
+        <a class="generate-report-button generate-report-button-secondary" href="{{ url_for('index') }}">Viewer</a>
+    </nav>
+</header>

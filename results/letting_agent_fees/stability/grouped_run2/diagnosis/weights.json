@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Private Rented Sector Context and Regulation",
+      "reason": "Provides background scale and regulatory context for the sector but does not itself explain why fees are high or opaque; sets the stage rather than carrying the argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Letting Agent Fees Charged to Tenants",
+      "reason": "This is the central evidence establishing that tenant fees are high, variable, hard to compare and inconsistently charged, directly substantiating the diagnosis of high, opaque fees.",
+      "weight": "core"
+    },
+    {
+      "theme": "Letting Agent Fees Charged to Landlords",
+      "reason": "Provides a contrast showing landlord fees are more transparent and market-based, but is supporting/comparative detail rather than a main pillar of the diagnosis.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Transparency, Disclosure and Fair Practice",
+      "reason": "Demonstrates directly that fees are opaque despite legal requirements and that some agents engage in unfair practices, core to the 'opaque' part of the diagnosis.",
+      "weight": "core"
+    },
+    {
+      "theme": "Market Competition and Incentives",
+      "reason": "Explains the causal mechanism—weak competitive pressure and misaligned incentives—for why fees are high and opaque, a core explanatory pillar of the diagnosis.",
+      "weight": "core"
+    },
+    {
+      "theme": "Financial Impact on Tenants and Tenancy Churn",
+      "reason": "Shows the scale and real-world harm of high fees (financial strain, repeated charges), central to establishing why the high fees are a problem worth addressing.",
+      "weight": "core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Contains unrelated or marginal remarks (discrimination against benefit claimants, Northern Ireland surveys) that are not integral to the core diagnosis argument.",
+      "weight": "not core"
+    }
+  ]
+}

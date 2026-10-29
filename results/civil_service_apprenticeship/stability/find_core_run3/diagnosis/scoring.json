@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "National Skills Shortage",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that there is a national skills shortage and need for 3 million apprenticeships rests only on the manifesto commitment with no statistic, data or source given."
+    },
+    {
+      "theme": "Public Sector Apprenticeship Gap",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim offers a specific figure (three-quarters of apprentices work in the private sector) as grounds for the public/private gap, but it is unsourced and uncited."
+    },
+    {
+      "theme": "Workforce Diversity and Inclusion Deficit",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that diversity/inclusion is lacking is supported by the statistic that only 15% of autistic people are in full-time employment, but no source is cited for this figure."
+    },
+    {
+      "theme": "Changing Perceptions of Apprenticeships",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This not-core theme asserts a need to change perceptions with no evidence of how perceptions are measured or what supports this claim."
+    }
+  ],
+  "reasoning": "The diagnosis rests on three core themes. 'National Skills Shortage' asserts a skills shortage and productivity problem but offers no statistic, study or named source\u2014only the manifesto target itself, which is a commitment not evidence\u2014so it scores 0. 'Public Sector Apprenticeship Gap' gives a concrete figure ('an estimated three-quarters of apprentices work' in the private sector) that is used to justify the public sector's greater share of growth, but it carries no reference or link, keeping it at level 1. 'Workforce Diversity and Inclusion Deficit' similarly offers a specific statistic ('only 15% of people who have autism currently in full time employment') to ground the claim of a persistent inclusion gap, but again this is uncited, so it also reaches level 1. The strongest counter-example to raising any of these is that every potentially evidential sentence ('three-quarters', '15%') lacks a reference marker or link anywhere in the extract, so a reader cannot verify these figures despite their specificity. The mean of the three core themes (0, 1, 1) is 0.67, which rounds to 0. To reach level 1 overall the skills-shortage theme would need at least an unsourced statistic or finding; to reach level 2 across themes, the document would need to attach citations (e.g. ONS or DfE data) to the private-sector and disability-employment figures so readers could trace them to their source.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

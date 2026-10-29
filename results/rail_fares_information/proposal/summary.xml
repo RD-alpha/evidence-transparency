@@ -1,0 +1,91 @@
+<root>
+<theme sentences="16" weight="core">
+<name>Better information and clearer ticket choice</name>
+<claim>Reducing jargon, explaining tickets plainly, and flagging scarce Advance tickets and cheaper options will help passengers find and choose the best ticket.</claim>
+<text>
+<line id="S0010">We will take steps to improve the information passengers are offered so they can make an informed choice of ticket.</line>
+<line id="S0011">We will enable innovative new ticket products to emerge in the retail market and ensure customers always get a simple explanation of their chosen ticket.</line>
+<line id="S0017">We will use less jargon on Ticket Vending Machines (TVMs), websites and tickets, and include easily available information to explain terminology.</line>
+<line id="S0018">We will provide clear names for tickets and definitions that passengers understand.</line>
+<line id="S0019">We will remove terms such as “Any Permitted” and “London Terminals” except where they actively help customers understand a tickets validity and in such cases that they are properly explained.</line>
+<line id="S0020">We will develop an online ticket restrictions look-up tool for customers.</line>
+<line id="S0022">Train operators will make information available to inform customers when Advance tickets for long distance operators are running low to ensure that customers don’t miss out on the best price if there are only a few left.</line>
+<line id="S0023">Customers will be informed when there are fewer than nine Advance tickets available at a certain price.</line>
+<line id="S0025">When purchasing a ticket, customers will be told if they could get a cheaper ticket by changing the time of travel.</line>
+<line id="S0027">TVMs will tell customers when they are configured to sell of-fpeak tickets so that the customer will know that by waiting (e.g. in 15 minutes) they can purchase a cheaper ticket or by going to the ticket ofifce.</line>
+<line id="S0029">Online customers will get a plain English explanation of the ticket they have chosen before making final payment.</line>
+<line id="S0030">National Rail Enquiries will provide a link directly to the industry “What can I do with my ticket?” tool.</line>
+<line id="S0031">Ticket retailers will embed this service in their online ticket purchase process.</line>
+<line id="S0033">Customers will be able to purchase cheaper Advance tickets on the day of travel from longer distance operators (currently only possible for CrossCountry customers).</line>
+<line id="S0055">Customers should have access to a clear and understandable choice of tickets when buying from vending machines, including information on relevant cheaper options that could be bought by waiting a short time or travelling on a difefrent service.</line>
+<line id="S0057">This will include delivery of the 10 Point Plan which will make cheaper options clearer, and will include clearer information on when a ticket can be used.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="13" weight="core">
+<name>Simpler, wider ticket buying and retail market</name>
+<claim>Making purchase simpler, improving vending machines and websites, opening data and the retail market to third parties, and extending where tickets can be bought will improve passenger outcomes through competition and innovation.</claim>
+<text>
+<line id="S0012">We will improve the process of buying a ticket to make it as simple as possible.</line>
+<line id="S0013">We will increase and improve the scope of where and the ways passengers can buy tickets.</line>
+<line id="S0026">All retailers to include options for finding the cheapest fare for online/ app ticket purchases by May 2017.</line>
+<line id="S0041">We will provide better and more targeted information to website and app developers to enable them to develop new products and services for consumers.</line>
+<line id="S0042">This information includes timetable and fares data and live running information.</line>
+<line id="S0043">The rail industry will ensure that more raw data is available to third party developers (e.g. retailers, CityMapper) so that they can create better and consistent consumer- facing products (e.g. information on how busy trains are, and on performance of individual routes).</line>
+<line id="S0046">We will take steps to open up the ticket retail market, enabling third party retailers to play a greater role, and removing barriers to entry for new market entrants.</line>
+<line id="S0047">This should lead to increased competition, and better outcomes for consumers.</line>
+<line id="S0048">RDG to reform its governance, including implementing a new process for consulting third party retailers on decisions that will impact them.</line>
+<line id="S0049">RDG will develop a transparent process to share board meeting outputs with third party retailers.</line>
+<line id="S0050">Third party retailers will have access to all permanent fares and the data underpinning them.</line>
+<line id="S0051">There will be improved oversight to ensure “temporary” fares meet existing regulations.</line>
+<line id="S0052">DfT, RDG and recent market entrants will work together to identify regulatory changes to simplify framework and reduce barriers to entry for new entrants.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="core">
+<name>Fares reform through franchising and pilots</name>
+<claim>Pilots and exploration of options such as simplified commuter fares and single-leg pricing, delivered through franchising and balanced against market abuse, innovation and taxpayer cost, will lead to a clearer, fairer fares structure over the longer term.</claim>
+<text>
+<line id="S0078">The DfT is committed to working with industry partners to explore what can be done to provide a clear, fair and consistent fares structure for passengers, which could include simplifying commuter fares.</line>
+<line id="S0079">We will also explore options for moving to single-leg pricing for longer distance journeys, which would make it easier for passengers to get good value tickets when travelling at peak and off-peak times.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="6" weight="core">
+<name>Passenger protection and trust</name>
+<claim>Measures such as refunds for forgotten Railcards, accessible terms and conditions, and work on disabled passengers' needs will build passenger trust and confidence.</claim>
+<text>
+<line id="S0014">Successfully delivering on these actions should mean that we are able to build passenger trust in the railways and confidence in choosing the best ticket for their journey.</line>
+<line id="S0067">Customers will have access to all relevant terms and conditions in a simple to understand format when choosing and buying ticket.</line>
+<line id="S0068">As well as clear access to relevant terms and conditions during the buying process retailers will have access to and signpost where to find any additional information.</line>
+<line id="S0071">Where a customer holding a valid Railcard forgets it at the time of travel, they will on the first occasion be able to claim back any additional expense, including the cost of any extra fare and any penalty fare issued.</line>
+<line id="S0074">We will work with the Disabled Persons Transport Advisory Committee (DPTAC) to assess what we can do to improve the experience for disabled and vulnerable passengers and build awareness of passenger rights, acting on research from Transport Focus, ORR and DfT, including through the franchising process.</line>
+<line id="S0075">We will build the evidence base (ORR, Transport Focus and DfT research is underway) and engage with passenger groups.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="3" weight="not core">
+<name>Delivery and governance</name>
+<text>
+<line id="S0001">That is why the Secretary of State has established a special project team, under senior leadership, to work with the industry and accelerate progress towards smart ticketing for both commuters and passengers that travel less frequently.</line>
+<line id="S0004">This action plan sets out clear and agreed steps between Government, industry and consumer groups that will help passengers find and choose the best ticket for their journey.</line>
+<line id="S0008">We have worked closely with the Office of Rail and Road (ORR) to utilise their experience and expertise, and have also commissioned input from train companies, consumer groups and passenger representatives, technology firms, and ticket retailers.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

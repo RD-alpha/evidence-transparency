@@ -1,0 +1,57 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "National Skills Shortage",
+        "claim": "The document diagnoses a national shortage of skills and low productivity that apprenticeships, driven by the manifesto commitment to three million starts, are needed to address."
+      },
+      {
+        "name": "Public Sector Apprenticeship Gap",
+        "claim": "The public sector, including the Civil Service, has lagged behind the private sector (where three-quarters of apprentices work) and has therefore been asked to deliver a disproportionate share of apprenticeship growth."
+      },
+      {
+        "name": "Workforce Diversity and Inclusion Deficit",
+        "claim": "Despite being more diverse than ever, the Civil Service and wider public sector still lack true representation and inclusivity, including a persistent employment gap for disabled people such as those with autism."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Apprenticeship Numerical Target",
+        "claim": "The Civil Service commits to at least 30,000 apprenticeship starts by 2020 (2.3% of the workforce annually), set ahead of and in line with the legislative target, as its chosen intervention to lead by example."
+      },
+      {
+        "name": "Three-Fold Business Case",
+        "claim": "Apprenticeships are justified by a three-part business case: they build workforce capability against skills gaps identified in the Workforce Plan, they deliver measurable financial return on investment for apprentices and employers, and they allow the Civil Service to lead by example and support the wider government apprenticeship agenda."
+      },
+      {
+        "name": "Diversity and Social Mobility Objective",
+        "claim": "Apprenticeships are proposed specifically as a route to improve diversity, social mobility and inclusivity by opening career paths to people regardless of educational attainment or background."
+      },
+      {
+        "name": "Quality Beyond Quantity",
+        "claim": "In response to criticism (e.g. from Ofsted and the NAO) that a focus on numbers risks undermining value, the strategy is designed around five quality-focused success areas rather than the numerical target alone."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Three Delivery Routes",
+        "claim": "Apprenticeships will be created through three operational routes: converting planned external recruitment into apprenticeships, offering existing staff opportunities to retrain and upskill, and enhancing current corporate apprenticeship schemes."
+      },
+      {
+        "name": "Governance and Multi-Level Delivery",
+        "claim": "Delivery is structured through Cabinet Office stewardship as Senior Responsible Owner, departmental ownership of numbers and quality, engagement with Devolved Administrations and Arms Length Bodies, and cross-sector collaboration to scale the agenda."
+      },
+      {
+        "name": "Enabling Reforms and Targeted Outreach",
+        "claim": "Successful delivery requires reforming pay structures, recruitment and selection processes to assess potential over 'the finished product', and embedding targeted outreach to low socio-economic and underrepresented groups so that apprenticeships become genuine career pathways."
+      }
+    ],
+    "note": ""
+  }
+}

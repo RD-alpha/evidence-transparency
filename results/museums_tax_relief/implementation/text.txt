@@ -1,0 +1,58 @@
+S0080 4.5 Claims process Qualifying museums and galleries will be able to claim an additional deduction against their corporate taxable profits that can be surrendered for a payable tax credit if this results in a trading loss.
+S0081 Because this policy will take the form of a corporation tax relief, only entities that are within the charge of UK corporation tax and are directly involved in the development of an exhibition will be able to claim relief.
+S0082 ‘Directly involved’ means that the company is responsible for creating and developing the content of the exhibition and is actively involved in the decision making process to deliver it.
+S0083 This relief is targeted at museums and galleries run as charities or owned by local government authorities, many of whom do not pay corporation tax.
+S0084 These institutions will still be able to claim the relief.
+S0085 For the existing reliefs, some institutions have decided to use a wholly owned trading subsidiary in order to claim tax relief, although this is not compulsory.
+S0086 For example, a charitable theatre company might claim the relief through the subsidiary they use for their restaurant or gift shop, or by setting up a new trading subsidiary company.
+S0087 In this situation, the subsidiary company must be the company directly responsible for producing the exhibition.
+S0088 Those that have not used these subsidiaries before should ensure that using this model would not impact on their charitable status and would not have any VAT implications.
+S0089 The process for setting up such a trading subsidiary is the same as it would be for establishing any other business.
+S0090 Guidance is available on GOV.UK and how this arrangement works for the theatre industry**(Link: 2) is explained.
+S0091 Following the model for previous creative sector tax reliefs, the relief will be capped at the lesser of 80% of core expenditure, incurred in any country, or the total core expenditure occurred in the EEA .
+S0092 As with other creative sector tax reliefs for video games and theatre at least 25% of the qualifying core expenditure must be incurred in the EEA .
+S0093 This would be applicable for both the temporary and touring relief, including on any exhibitions that were aimed at being toured internationally.
+S0094 To claim the relief, a qualifying institution will need to submit an end of year tax return to HMRC, disclosing all expenditure that would qualify for the tax relief (details of qualifying and ineligible expenditure can be found in box 4.D).
+S0095 HMRC will then aim to pay out successful claims within 40 days.
+S0096 As with theatre tax relief, institutions will be required to treat each exhibition as a separate trade and must make a separate claim for relief for each one.
+S0103 Other issues 5.1 Commencement The government wants to provide institutions with the time to make any necessary arrangements so they are in a position to claim the relief once it becomes available.
+S0104 Museums and galleries tax relief will therefore have a commencement date of 1 April 2017.
+S0105 The government will provide relief on qualifying expenditure that is incurred on or after 1 April 2017.
+S0106 Where an accounting period straddles that date, expenditure arising in that period must be apportioned between the period on or before 31 March 2017 and the period on or after 1 April 2017.
+S0107 5.2 State aid The British people have voted to leave the European Union but while this exit is negotiated, the country remains a full member of the EU and must meet its obligations as a member of the EU , including in relation to State aid.
+S0108 This relief is intended to fall under revised General Block Exemption Regulation rules, which allow for an exemption from notification when aid is for culture and heritage.
+S0110 Under these rules, the maximum relief available per company is €50 million a year, and the maximum aid intensity should not exceed 100% of eligible costs.
+S0111 Aid intensity includes all sources of government funding including, for example, some grants and lottery funding.
+S0112 Companies in receipt of other funding may need to declare all sources of funding to HMRC and confirm that they do not exceed this limit.
+S0113 Should companies receive excessive aid, then this aid could be clawed back for a period of up to 10 years.
+S0115 5.3 Claiming tax relief from HMRC Claims for the museums and galleries tax relief will need to be included in a company’s corporation tax return for an accounting period.
+S0116 This model is generally expected to provide businesses with enough certainty to be able to self-assess without the need for a formal clearance process.
+S0117 5.4 Interaction with other reliefs Where a company claims the museums and galleries tax relief, it will not be able to claim relief under another tax credit scheme such as theatre tax relief or the research and development tax credit on the same expenditure.
+S0118 A company will not be able to claim both the temporary and touring tax relief on the same ‘core’ expenditure.
+S0119 5.5 Expenditure incurred but unpaid Any amount of costs incurred but unpaid within 4 months of the end of a period of account will not qualify for the tax relief for that period.
+S0120 Costs paid outside this period will be eligible for claims if they are paid in later accounting periods.
+S0121 5.6 Openness to abuse One of the key design criteria for the tax relief is that it should not be open to abuse.
+S0122 An effective strategy to prevent abuse at the outset is a key requirement to maintain the long term sustainability of this relief and to ensure that it remains effective and sufficiently targeted.
+S0123 The government will, in particular, consider whether rules are required to prevent: artificially inflated claims for tax credit or transactions not entered into for genuine commercial reasons wrongful disclosure tax avoidance arrangements relating to the exhibition It is important for businesses as well as the government to ensure that the new tax relief does not create new avoidance risks, otherwise this will create uncertainty for business as the regimes may be subject to change.
+S0124 In extreme situations where substantial avoidance risks are created, such as the old film tax scheme, the regime was entirely replaced.
+S0142 Annex A: How the relief works in practice 7.1 Illustrative museums and galleries example timeline Chart illustrating the museums and galleries example timeline January 2018: Museum directors get together to discuss ideas around future exhibitions – speculative expenditure not allowed unless exhibition is green-lit.
+S0143 March 2018: Museum agrees that an exhibition on a given topic will run from January-March 2019.
+S0144 The museum’s subsidiary company (which must be in existence at the development stage) will take direct responsibility for putting on the exhibition – all qualifying expenditure that is directly linked to the exhibition is now eligible for relief as trade has commenced.
+S0145 March – December 2018: Museum Company plans, curates and sets-up exhibition – directly incurred costs for planning and setting-up the exhibition are claimable.
+S0146 January – March 2019: Exhibition runs – general running costs excluded from the relief.
+S0147 31 March 2019: End of year accounts date for museum’s trading subsidiary (31 March is the usual year end date for charities, but this could be any date).
+S0148 April 2019: Museum closes and takes down exhibition – removal costs and curating for storage are claimable where these directly relate to the exhibition.
+S0149 June 2019: Museum’s trading subsidiary files return with HMRC, including all qualifying expenditure up until its end of year return date of 31 March (note if an exhibition straddles this date, the company can claim qualifying costs in two separate claims, one relating to the accounting period to 31 March 2019 and one relating to the subsequent accounting period).
+S0150 HMRC aims to pay out on legitimate claims within 40 days.
+S0152 7.2 Illustrative theatre example The following example is loosely based on an anonymous theatre company who claimed the theatre tax relief on the below production.
+S0153 It is included for illustrative purposes to draw attention to the types of costs that may qualify for the museums and galleries tax relief and to provide an example of how the amount of relief is calculated.
+S0154 It should be noted that all qualifying costs and rates for the museums and galleries tax relief will be decided after the consultation period.
+S0155 For the purposes of the illustration, the company earned £600,000 in income from the production, and spent £614,400 on costs of which £177,400 met the qualifying core expenditure criteria (including £12,000 closing costs).
+S0156 Table illustrating theatre example The company therefore had a pre-tax relief loss of £14,400.
+S0157 It was able to add up to 80% of its qualifying core expenditure to that loss (£141,920) giving it an overall post-tax relief loss of £156,320.
+S0158 Table showing pre-tax relief loss amount The theatre was then able to surrender the lesser of the post-tax relief trading loss (£156,320) and the expenditure enhanced for the calculation of the relief (£141,920).
+S0159 It chose to surrender the full amount of £141,920 and was given a payable credit from HMRC worth 20% (note this rate has still to be confirmed for the museums and galleries tax relief) of this figure: £28,384.
+S0178 The existing creative industry specialist unit will help to facilitate claims.
+S0215 Consultation period: The government will work with the sector to finalise the definitions proposed in this consultation.
+S0216 Autumn 2016: Draft legislation will be published.
+S0217 April 2017: The new relief will take effect and will be legislated for in Finance Bill 2017.

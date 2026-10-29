@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "name": "Evidence thresholds and attestor access",
+      "ids": [
+        "S0016",
+        "S0017",
+        "S0051",
+        "S0053",
+        "S0054",
+        "S0055",
+        "S0071"
+      ]
+    },
+    {
+      "name": "Scheme purpose and high threshold",
+      "ids": [
+        "S0043",
+        "S0046",
+        "S0047",
+        "S0048",
+        "S0049",
+        "S0056"
+      ]
+    },
+    {
+      "name": "Live-order and annual renewal requirements",
+      "ids": [
+        "S0058",
+        "S0059",
+        "S0112",
+        "S0127",
+        "S0128"
+      ]
+    },
+    {
+      "name": "Scheme history and legal framework",
+      "ids": [
+        "S0044",
+        "S0057",
+        "S0061"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": []
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+S0001 Title: Prohibition on Landing Egg-Bearing Lobsters and Crawfish
+S0002 IA
+S0003 No:Defra1993
+S0004 Date: 13/09/2016
+S0005 Stage: Pre-Consultation
+S0006 Source of intervention: Domestic
+S0007 Lead department or agency: Department for Environment, Food and Rural Affairs Other departments or agencies:
+S0008 Type of measure: Secondary Legislation Contact for enquiries: Paul Little
+S0009 Cost of Preferred (or more likely) Option
+S0010 Measure qualifies as
+S0011 Total Net Present Value
+S0012 Business Net Present Value
+S0013 Net cost to business per year (EANCB on 2014 prices)
+S0014 In scope of One-In, Three-Out?
+S0015 £-28.55m £-28.37m £2.29m Yes IN
+S0016 What is the problem under consideration?
+S0017 Why is government intervention necessary?
+S0018 The nature of fisheries means that without government intervention, most stocks would be over-fished.
+S0019 Even though there are management measures (e.g. Minimum Conservation Reference Sizes) in place which aim to ensure the continuation of some spawning activity, current stock assessments on European lobster and landing trends on crawfish in English waters indicate that these stocks are being overfished, with no lobster stocks being exploited at levels associated with Maximum Sustainable Yield (MSY).
+S0020 If this over-exploitation is not addressed, not only would there be a risk to the future availability of this fishery but this would also jeopardise the UK’s ability to meet its EU obligations to ensure that harvested shellfish species are being exploited at MSY levels by 2020.
+S0021 What are the policy objectives and the intended effects?
+S0022 Fisheries are a devolved responsibility in the UK.
+S0023 For England, the policy objective is to improve stock health in order to ensure the future viability of these fisheries and that stocks are exploited at MSY in line with our EU obligations.
+S0024 Currently female lobsters and crawfish that are carrying fertilised eggs, also known as ‘berried’, are allowed to be landed into England, although there are some regional inshore bans in place by Inshore Fisheries and Conservation Authorities (IFCAs).
+S0025 Introducing a national ban on the landing of all berried lobsters and crawfish should increase stock biomass and in the long term, increase the amount available to be caught by fishers.
+S0026 The national ban will also be seen as a positive step by those who already support the current local bans and should reduce enforcement issues with these local bans.
+S0027 What policy options have been considered, including any alternatives to regulation?
+S0028 Please justify preferred option (further details in Evidence Base)
+S0029 The two options considered in this IA are a ‘do nothing’ scenario and introduce a national ban through secondary legislation.
+S0030 The preferred option is to introduce a national ban on the landing of berried lobsters and crawfish by making a Statutory Instrument (SI) as it has sufficient spatial coverage to provide the expected conservational benefits and addresses the enforcement issues with current local bans.
+S0031 National legislation is already in place to support voluntary action by fishers to return berried lobsters and crawfish to the sea but there has been insufficient uptake so it’s unlikely any further voluntary schemes will be successful.
+S0032 Introducing a full inshore ban through IFCA byelaws was considered however, as both lobster and crawfish stocks extend beyond IFCA districts, it wouldn’t provide sufficient protection to the stocks.
+S0033 Will the policy be reviewed?
+S0034 It will be reviewed.
+S0035 If applicable, set review date:
+S0036 Does implementation go beyond minimum EU requirements?
+S0037 N/A Are any of these organisations in scope?
+S0038 If Micros not Micro < 20 Small exempted set out reason in Evidence Base.
+S0039 Yes
+S0040 Yes
+S0041 Yes
+S0042 Micro Yes
+S0043 < 20 Yes
+S0044 Small Yes
+S0045 Medium Yes
+S0046 Traded: N/A
+S0047 Are any of these organisations in scope?
+S0048 If Micros not Micro < 20 Small Medium Large exempted set out reason in Evidence Base.
+S0049 Yes
+S0050 Yes
+S0051 Yes
+S0052 Yes Yes What is the CO2 equivalent change in greenhouse gas emissions?
+S0053 Traded: Non-traded: (Million tonnes CO2 equivalent) N/A N/A
+S0054 What is the CO2 equivalent change in greenhouse gas emissions?
+S0055 Traded: Non-traded: (Million tonnes CO2 equivalent) N/A N/A I have read the Impact Assessment and I am satisfied that (a) it represents a fair and reasonable view of the expected costs, benefits and impact of the policy, and (b) that the benefits justify the costs.
+S0056 Signed by the responsible: Minister Date:
+S0057 Description: Introduce a national ban on landing any egg-bearing lobsters and crawfish through national legislation FULL ECONOMIC ASSESSMENT
+S0058 Net Benefit (Present Value (PV)) (£m)
+S0059 Price Base Year 2015
+S0060 PV Base Year 2016
+S0061 Time Period Years 15
+S0062 Low: -28.55
+S0063 High: -27.25
+S0064 Best Estimate: -28.55
+S0065 COSTS (£m) Total Transition (Constant Price) Years
+S0066 Low 0.03
+S0067 2.27 27.25
+S0068 High 0.03 1 2.39 28.55
+S0069 Best Estimate 0.03 2.39 28.55
+S0070 Description and scale of key monetised costs by ‘main affected groups’ Costs to private businesses: revenue lost from not landing berried lobsters (annual costs of £2.36m), revenue lost from not landing berried crawfish (annual costs of £0.01m), familiarisation costs (one-off costs of £0.03m).
+S0071 Costs to public sector: costs to MMO and IFCAs of implementing and enforcing ban (average annual costs of £0.01m)
+S0072 Other key non-monetised costs by ‘main affected groups’ Fishers may incur additional costs in order to sort berried lobsters or crawfish from non-berried lobsters or crawfish at sea, but these are considered to be minimal.
+S0073 Processors and others in the supply chain may be negatively affected by a short-term reduction in supply of lobsters and crawfish.
+S0074 These effects are indirect and have not been monetised due to a lack of evidence.
+S0075 BENEFITS (£m) Total Transition (Constant Price) Years
+S0076 Low
+S0077 High
+S0078 Best Estimate Unquantified Unquantified Unquantified
+S0079 Description and scale of key monetised benefits by ‘main affected groups’ None
+S0080 Other key non-monetised benefits by ‘main affected groups’ Long-term benefits to fishers from increased landings of lobster due to stock recovery.
+S0081 These benefits are uncertain, but modelling results for a generic lobster stock indicate that landings of lobster would be 3-43% higher fifteen years after implementing a ban on landing egg bearing lobsters than in the baseline.
+S0082 The range in estimated benefits reflects baseline fishing patterns, with stocks more highly fished yielding greater benefits.
+S0083 Higher landings would have further benefits for others in the supply chain, such as processors.
+S0084 Benefits for crawfish are expected to follow a similar trend.
+S0085 Key assumptions/sensitivities/risks Discount rate (%) 3. Key assumptions: Full compliance with existing bans on landing berried lobsters in some inshore areas (0-6 nautical miles); under-10m fishers fishing in these areas do not land berried lobsters, but over-10m vessels do as they fish further out to sea. ** (Reference: 5)
+S0086 The proportion of lobsters caught which are berried is the same for all vessel sizes.
+S0087 There is no voluntary discarding of berried lobsters.
+S0088 Landings and prices based on 2011-2014 averages.
+S0089 Appraisal period is 15 years due to long-term benefits of population recovery.
+S0090 BUSINESS ASSESSMENT (Option 1)
+S0091 1. Background ** (Reference: 1)
+S0092 1.1. The English shellfish sector is one of our most important fisheries, which has consistently produced very high value of landings to English ports. ** (Reference: 1)
+S0093 Landings of European lobster (Homarus gammarus) into English ports alone were worth £17.7 million in 2014 which made it the third most valuable species landed into England. ** (Reference: 1)
+S0094 The crawfish (Palinurus elephas) fishery is far smaller and more localised compared to lobster with around 12 tonnes and 18,000 tonnes landed into England in 2014 respectively. ** (Reference: 1,2)
+S0095 Nevertheless, crawfish is a very lucrative fishery fetching the highest price per kilogram amongst all shellfish species resulting in landings into England being worth £218,115 in 2014. ** (Reference: 2)
+S0096 How this relates to employment can be inferred from the number of vessels using certain gear.
+S0097 Vessels using pots and traps (gear primarily used for catching lobsters and crawfish as well as crabs) employed 4000 people in 2013, and supports shellfish processors who employed a further 4000 people in 2014. Lobsters and crawfish are caught using other gears, the most significant being fixed nets to catch crawfish ** (Reference: 3,4)
+S0098 however it’s difficult to quantify employment from this.
+S0099 1.1. ** (Reference: 2)
+S0100 Management of shellfish fisheries is largely devolved in the UK.
+S0101 In English Waters, management and enforcement is split between the Marine Management Organisation (MMO) which covers 0-200 nautical miles (nm) and the 10 Inshore Fisheries and Conservation Authorities (IFCAs) which cover coastal waters inside 6nm. IFCAs are responsible for ensuring “that the exploitation of sea fisheries resources is carried out in a sustainable way” and can implement management measures through introducing byelaws for their district. ** (Reference: 5)
+S0102 1.1. Even though shellfish management is devolved in the UK, we share the same EU obligations. ** (Reference: 3)
+S0103 The UK is required under the reformed Common Fisheries Policy (CFP) and Marine Strategy Framework Directive (MSFD) to ensure that all commercially exploited shellfish are fished at levels associated with Maximum Sustainable Yield (MSY) and stocks must be exploited at this level to attain Good Environmental Status (GES) by 2020.
+S0104 MSY is the highest theoretical equilibrium yield that can be continuously taken on average from a stock under existing average environmental conditions, whilst maintaining optimum reproductive capacity.
+S0105 MSY can refer to biomass (BMSY) or exploitation rates (FMSY), also known as Fishing Mortality (F).
+S0106 The MSY level varies amongst species and stocks; further details on how this specifically relates to lobsters are included in paragraph 1.1. Crawfish was added to the list of UK Biodiversity Action Plan (UK BAP) species when it was reviewed in 2007. ** (Reference: 4)
+S0107 The UK BAP represented the UK Government’s response to the Convention on Biological Diversity and outlines the UK’s biological resources in most need of priority conservation action.
+S0108 The UK BAP is now focused at a country-level rather than a UK- level and the current Biodiversity 2020 strategy has been developed from this.
+S0109 The objective of this strategy in relation to species is “By 2020, we will see an overall improvement in the status of our wildlife and will have prevented further human-induced extinctions of known
+S0110 threatened species”. ** (Reference: 6)
+S0111 How this will be taken forward for commercially exploited marine species such as crawfish is currently under review however, key tasks have been identified for crawfish.
+S0112 The most relevant task to fisheries management is to better regulate fisheries as it’s likely that recruitment to stocks in England, are now coming from populations that are at a 'residual' level through over-exploitation.
+S0113 1. Problem Under Consideration ** (Reference: 2)
+S0114 throughout England, is the prohibition on landing egg-bearing lobsters with two of these IFCAs also extending this prohibition to include crawfish (a map is included at Annex B).
+S0115 Female lobsters and crawfish carry their fertilised eggs on the underside of their abdomen which look like berries, hence why there are also known as berried lobsters or crawfish (photos included in Annex A).
+S0116 They carry their eggs externally for around 9 months, which they then release into the sea to hatch.
+S0117 When berried lobsters and crawfish are landed, the eggs don’t tend to be used and usually get scraped off by the processor or buyers, particularly as most export markets now won’t accept berried lobsters or crawfish.
+S0118 1.2. ** (Reference: 4)
+S0119 The local bans already in place are supported by many, including some fishers, as the short term gain of landing a berried lobster or crawfish could affect the future viability of the fishery as it prevents viable eggs from hatching and increasing the stock biomass.
+S0120 There haven’t been any assessments on the effectiveness of these local bans and it would be difficult to attribute any improvements in the stock to this specific management measure.
+S0121 Nevertheless, IFCAs have received several anecdotal reports of an increase in the lobster population and it is recognised as good fisheries practice to protect spawning stock.
+S0122 The consultation will ask whether respondents can provide evidence of the effects of existing local IFCA bans on landing berried lobster.
+S0123 1. Rationale for Intervention ** (Reference: 3)
+S0124 1.3. Fishing is an example of a common good problem where the private cost of exploitation is not equal to the social cost. ** (Reference: 1,12)
+S0125 This is because where a fisher extracts a fish from the fish stock (a common resource), this imposes an external cost on other fishers, who can no longer extract that fish or any future offspring from that fish.
+S0126 This leads to the depletion of a shared resource, as individuals act independently and rationally according to their self-interest, despite understanding that this is contrary to the long-term best interests of the group of fishers.
+S0127 This is a market failure, whereby there is an incentive to fish intensively and maximise profits without any corresponding incentives to refrain whilst stocks are available, and leads to inefficient outcomes with the fish stock being over-exploited.
+S0128 Over-exploitation of fish stocks also affects other ecosystem services by disrupting the food chain, leading to a further market failure.
+S0129 1.3. ** (Reference: 2)
+S0130 In the case of landing berried lobsters or crawfish, this imposes a particularly large external cost to both industry and society.
+S0131 This is because berried lobsters and crawfish are essential for the future health of the population.
+S0132 Berried lobsters and crawfish carry a large number of fertilised eggs which are not yet able to survive independently.
+S0133 Removing berried lobsters or crawfish from the population means that these eggs cannot grow into mature lobsters or crawfish to augment the population in the future.
+S0134 This increases the risk of low recruitment in future years resulting in less being available to be caught by other fishers in the future.
+S0135 Section 4.5 considers the benefits from resolving the market failure from this external cost.
+S0136 1. Policy Objectives and Intended Effects ** (Reference: 4)
+S0137 1.4. ** (Reference: 1)
+S0138 The overall policy objective is to ensure lobster and crawfish stocks in English waters are exploited sustainably to safeguard their health and support the UK’s commitments under the MSFD and the reformed CFP.
+S0139 Introducing a national ban in England on the landing of berried lobsters and crawfish should lead to an increase in stock biomass which would contribute to our efforts to ensure the stocks are exploited at MSY in line with our EU obligations, as well
+S0140 as support the future viability of both fisheries.
+S0141 It will also assist the UK in progressing its Biodiversity 2020 commitments for crawfish.
+S0142 1.4. ** (Reference: 2)
+S0143 An additional benefit has been highlighted by the MMO and those IFCAs who already have a ban on landing berried lobsters or crawfish: having a national ban in place will reduce some enforcement issues, as currently there can be difficulties with determining whether a berried lobster or crawfish has been caught within or outside an IFCA district.
+S0144 1. Other Relevant Policies ** (Reference: 5)
+S0145 1.5. There are a number of other policies currently being considered or implemented that are relevant to introducing a ban on the landing of berried lobsters and crawfish which will need to be taken into account. ** (Reference: 1)
+S0146 However, we don’t expect these to have any implications for this proposed ban.
+S0147 Specifically:
+S0148 1.5. Landing Obligation: One of the changes introduced by the reformed CFP was the implementation of a landing obligation, often referred to as the discard ban. ** (Reference: 2)
+S0149 Previously limits (i.e. quota) were set on the amount of fish landed at port, rather than caught, meaning vessels could return a proportion of their catch to the sea, a practice known as discarding.
+S0150 The Landing Obligation is a ban on discarding fish which are subject to EU catch limits and was introduced from January 2015 for pelagic species.
+S0151 The demersal Landing Obligation is being gradually phased in from January 2016 to January 2019 at which point all fish stocks subject to catch limits will come under the Landing Obligation.
+S0152 The Landing Obligation has been introduced because much of the catch returned to the sea does not survive, thereby reducing the spawning population for no economic value.
+S0153 The Landing Obligation doesn’t apply to lobsters or crawfish as they are not subject to catch limits.
+S0154 However, whilst the obligation does apply to the related Norway lobster (also known as Nephrops), we don’t expect there to be an issue with this proposed ban on berried lobsters and crawfish as it specifically excludes Nephrops, which are usually targeted with different fishing gear compared to lobsters and crawfish.
+S0155 1.5. Review of EU Technical Measures: The European Council Regulation 850/98 includes technical measures for the protection of juvenile marine organisms such as Minimum Conservation Reference Sizes. ** (Reference: 3)
+S0156 A European Commission proposal to update the technical measures and replace the current EC Regulation 850/98 was released in March 2016 and includes the provision to prohibit the landing of berried lobsters and crawfish throughout the EU.
+S0157 Nevertheless, there is no guarantee that this provision will remain in the final regulation, as the proposal is currently under the consideration of Member States and is yet to be debated; it will also need to go through the EU legislative process.
+S0158 This overhaul may also take up to two years to complete and could be subject to further delays.
+S0159 Therefore, we have decided to continue our implementation through national legislation to ensure a ban is in force in English waters.
+S0160 2. Background ** (Reference: 1)
+S0161 2.1. These options were considered but have been rejected and will not be included in the consultation. ** (Reference: 1)
+S0162 They were considered as alternatives to introducing national legislation but were found to not be fit for purpose.
+S0163 2. Voluntary Scheme ** (Reference: 2)
+S0164 2.2. There is already national legislation in place which supports voluntary action by fishers to return berried lobsters and crawfish. ** (Reference: 1,13)
+S0165 It prohibits the landing of lobsters and crawfish with a notch shaped like a ‘V’ in their tail fan: this is commonly known as a v-notch, and is done voluntarily by fishers to identify breeding lobsters and crawfish, staying visible for at least 2 moults (approx.
+S0166 2-3 years).
+S0167 This practice allows fishers to voluntarily v-notch any berried lobsters or crawfish they catch, return them to the sea which then prohibits their landing by anyone else who catches it thereafter, whether berried or not.
+S0168 Therefore, if enough fishers were to adopt this practice then this would effectively prevent the majority of berried lobsters and crawfish being landed.
+S0169 This legislation addresses fishers’ concerns that returning a berried lobster or crawfish voluntarily could enable another to catch and land it, gaining the profits from it.
+S0170 2.2. ** (Reference: 2)
+S0171 However considering this legislation has been in place since 2000, the level of uptake of v- notching by fishers is not sufficient as a large number of berried lobsters and crawfish are still landed.
+S0172 Cefas portside sampling of landings shows that berried lobsters make up around 14% of the total lobster landings per year (further details in analysis of costs in paragraph 4.3.4).
+S0173 Therefore, any further voluntary scheme is unlikely to be successful.
+S0174 One of the reasons for the lack of uptake could be that berried lobsters and crawfish can account for a high proportion of the catch at certain times of the year and so the fishers may be reluctant to lose this income.
+S0175 The consultation will ask for evidence of where there is evidence of the success of voluntary action by fishers.
+S0176 2. Introduce a Full Inshore Ban through IFCA Byelaws ** (Reference: 3)
+S0177 2.3. Under this option, the four remaining IFCAs that do not already have a ban would be encouraged with Defra support, to introduce IFCA byelaws to ban the landing of berried lobsters. ** (Reference: 1)
+S0178 This would result in a blanket ban on all vessels fishing within the 0-6nm zone round the English coast.
+S0179 We would also encourage them to include crawfish in the ban although the main focus would be those IFCAs that have a crawfish fishery and have no ban on landing berried crawfish.
+S0180 2.3. ** (Reference: 2)
+S0181 This option would be less resource intensive for government both in terms of implementation and enforcement compared to bringing in national legislation.
+S0182 Even though byelaws still require an impact assessment and consultation, the process tends to be shorter and is not subject to the same governmental scrutiny.
+S0183 There would also be fewer resources needed for offshore enforcement or monitoring as the ban would cover a smaller area.
+S0184 However, IFCA powers only extend to 6nm so this option would leave the 6-12nm zone and beyond unregulated.
+S0185 Therefore, this would only provide limited conservational benefits to the stocks as lobster and crawfish stocks extend beyond 6nm and vessels fish beyond the 6nm limit of
+S0186 application of an IFCA byelaw.
+S0187 This also doesn’t address the issues that both the MMO and IFCAs experience when enforcing a ban in circumstances when vessels fish both within 6nm and beyond 6nm which is one of the factors deterring the remaining IFCAs to adopt a ban.
+S0188 3. Option 0 – Do Nothing ** (Reference: 1)
+S0189 3.1. ** (Reference: 1)
+S0190 This option would allow the landing berried lobsters and crawfish into England to continue, although the current IFCA byelaws would remain in place.
+S0191 It’s very unlikely that without additional management measures that we will meet our EU obligations to ensure shellfish stocks (including lobster) are exploited at MSY by 2020, leading to less certainty over their future sustainability.
+S0192 A failure to implement measures to conserve lobster and crawfish stocks is likely to lead to lower populations and reduced landings of these species.
+S0193 This will also reduce the likelihood of meeting our objectives for crawfish under the Biodiversity 2020 strategy and increase the risk of stock collapse.
+S0194 Section 4.5 on the benefits from the preferred option discusses this further.
+S0195 3. Option 1 - Introduce a National Ban through a Statutory Instrument (Preferred Option) ** (Reference: 2)
+S0196 3.2. It is proposed that an order (SI) be made to make it an offence to fish for or land a berried lobster or crawfish in England using the power under Sections 5 and 6 of The Sea Fish (Conservation) Act 1967. ** (Reference: 1,14)
+S0197 The ban would apply to all relevant British fishing vessels registered in the UK, any other relevant British fishing vessel (including those exempt from licensing requirements) and Scottish fishing vessels, fishing in English waters (0-200nm) and/or landing into English ports.
+S0198 The order applies within British fishery limits excluding; Scottish waters, Northern Irish waters and territorial sea adjacent to Wales, Isle of Man, Bailiwick of Jersey and Guernsey.
+S0199 We plan to implement this national ban through amending the current SI that prohibits the landing of v-notched lobsters and crawfish rather than make a new separate order. ** (Reference: 9)
+S0200 The provisions of the existing order will remain the same with the new provisions on berried lobsters and crawfish added to it and applying to the same vessels currently regulated by the existing order.
+S0201 This should help with the familiarisation of this new regulation and will support the Government’s agenda on simplifying the legislative landscape.
+S0202 3.2. This option should provide the expected conservational benefits as it has sufficient spatial coverage and addresses the enforcement issues currently experienced by the MMO and IFCAs enforcing local bans. ** (Reference: 2)
+S0203 The ban wouldn’t apply to foreign vessels, as only a small amount of lobster and crawfish is landed by foreign vessels into England (only 206kg in 2014). ** (Reference: 15)
+S0204 The small level of landings by foreign vessels means that the ban not applying to them shouldn’t impact the conservational benefits.
+S0205 3.2. We had considered bringing in a seasonal ban, using the same mechanism of a SI, as it may reduce the loss of catch compared to a full ban as landings of berried lobsters and crawfish would only be prohibited for part of the year. ** (Reference: 3)
+S0206 The seasonal ban would apply ideally during the main breeding season to offer protection to the majority of the eggs.
+S0207 However in the case of lobsters and crawfish, determining an appropriate period of time and time of year for a seasonal ban may be difficult, particularly on a national scale, as lobsters and crawfish can carry their eggs for up to 10 months in variable periods around the coast.
+S0208 In addition, a seasonal ban may not provide the expected conservational benefits, particularly when considering the length of time lobsters can carry their eggs.
+S0209 This section explains the costs and benefits of this policy and the methodology used to estimate them.
+S0210 4. Methodology and Baseline ** (Reference: 1)
+S0211 4.1. As mentioned above, several IFCA districts already have a ban on landing berried lobsters and crawfish from within 0-6 nm. ** (Reference: 1)
+S0212 Annex B shows where a ban on landing berried lobsters or crawfish is already enforced.
+S0213 4.1. Estimates for the impacts on fishers of a loss of landing for berried lobster and crawfish have followed a similar methodology. ** (Reference: 2)
+S0214 This has involved making several simplifying assumptions, which will be tested during consultation:  Vessels subject to a ban on landing berried lobsters (i.e. those fishing in IFCA districts where bans are in place) or crawfish comply with this ban, and all other vessels continue to land berried lobsters or crawfish.
+S0215 The IA assumes full compliance with existing regulation.
+S0216 Therefore the impact of the policy will only extend to vessels fishing in areas which do not currently have restrictions on landing berried lobsters or crawfish.
+S0217 As mentioned above, some fishers voluntarily choose not to land berried lobsters, and use ‘v-notching’ as a means to ensure that the lobster is not landed by another fisherman after it has been returned to the sea.
+S0218 However, there is no evidence on how prevalent this is, and therefore this IA assumes that all vessels not subject to a ban on landing berried lobsters will continue to land them under the ’do nothing’ option.
+S0219  Vessels under 10 metres in length do not fish for lobster or crawfish outside of 6nm, and vessels longer than 10 metres only fish for lobster or crawfish outside of 6nm.
+S0220 The available data on lobster and crawfish landings do not contain information about where they were caught, meaning that it is not possible to tell whether lobsters or crawfish were caught within or outside of 6nm.
+S0221 Data are only available for the size of the vessel landing lobsters/crawfish.
+S0222 As a result, it is necessary to make assumptions about where vessels of different sizes fish.
+S0223 As smaller vessels are less likely to fish further away from the coast, this IA has assumed that under 10m vessels only catch lobsters or crawfish within 6nm, and over 10 metre vessels only catch lobsters or crawfish beyond 6nm.
+S0224 In reality, vessels in both size groups are likely to expend effort inside and outside of the 6nm limit.
+S0225 
+S0226 The analysis uses average annual landings data from 2011-2014, and therefore assumes that the volume of lobster and crawfish landings do not change over the fifteen-year appraisal period.
+S0227 Data from 2011-2014 is used, as data earlier than this is not considered robust, and there is insufficient evidence to estimate future trends in landings of lobsters and crawfish.
+S0228 Fishers may make several responses to adapt to a ban on landing berried lobsters and crawfish, including changing the level of fishing effort, changing the frequency with which they check their fishing pots and targeting areas known to have lower densities of berried lobsters or crawfish.
+S0229 However, there is insufficient evidence to know how these reactions would affect costs for fishers.
+S0230 Familiarisation costs for fishers to consider how to adjust their fishing effort are considered in Section 4.2.
+S0231 
+S0232 The proportion of lobsters and crawfish caught by under 10m vessels and over 10m vessels which are berried is the same.
+S0233 There is insufficient data to show whether under 10m vessels are more or less likely than over 10m vessels to catch berried lobsters or crawfish, and therefore this IA assumes that both under 10m and over 10m vessels catch the same proportion of berried lobsters and crawfish.
+S0234 This assumption will be tested during consultation.
+S0235 As described above, it is also assumed that fishers will land any berried lobsters or crawfish they catch if they are not subject to an existing ban.
+S0236  Lobster stocks correspond to IFCA districts.
+S0237 Existing berried lobster bans are enforced within IFCA borders, depending on which IFCAs have chosen to implement a ban on landing berried lobsters.
+S0238 However, reported data on the landings of lobsters are based on the lobster stock or functional unit in which they are caught.
+S0239 As shown in Table 1, where functional units overlap into more than one IFCA district, the IFCA districts concerned generally have the same rules regarding landing of berried lobsters.
+S0240 There are two exceptions.
+S0241 The first is for the South-East and South-Coast functional unit, which overlaps the Southern IFCA district (which has a ban on landing berried lobsters) and Sussex IFCA district (which does not).
+S0242 The second is for the South- West functional unit, where this overlaps the Cornwall and Devon & Severn IFCA districts (which do have a ban on landing berried lobsters) and the Isles of Scilly IFCA district (which does not).
+S0243 This IA assumes that all under 10m vessels landing lobsters from the South East and South Cost and South West functional units do not land berried lobsters, even though this is not currently banned within the Sussex IFCA and Isles of Scilly IFCA districts.
+S0244 For crawfish, this is only caught around the South-West region where all IFCAs apart from Isles of Scilly IFCA, have a ban on landing berried crawfish within their districts.
+S0245  Appraisal period of fifteen years.
+S0246 Impacts are assessed over a longer time scale than the default IA 10 year period.
+S0247 The benefits of lobster population recovery will only become apparent in the longer-term, as it takes at least four years for a lobster to become mature.
+S0248 As a result, we have used an appraisal period of 15 years to match the available evidence on the benefits of population recovery (see section on benefits).
+S0249 Table 1: Functional Units and IFCA Districts.
+S0250 Italics indicate that an IFCA district already has a berried lobster ban in place for 0-6 nm from the coast.
+S0251 4.1. While the North-West functional unit has been included in Table 1, landings of lobsters from this functional unit are very low, making up 1% of total lobster landings into England in 2014. ** (Reference: 3)
+S0252 Due to a lack of sampling activity, there is no evidence on the proportion of lobsters in this area which are berried, and as a result it has not been possible to include lobsters from the North-West functional unit in the cost calculations below.
+S0253 As the North Western IFCA already has a ban on landing berried lobsters within 6 nautical miles and landings of lobster from this area are very low, this has only a very minor effect on the estimates of costs.
+S0254 4.1. Some of these assumptions have been adjusted in sensitivity analysis when calculating costs. ** (Reference: 4)
+S0255 Table 2 shows the assumed baseline regulations used for calculating the best estimate of costs of lost revenue from landing berried lobsters in Section 4.3.
+S0256 Table 2: Assumed baseline regulations on landing of berried lobsters
+S0257 4. Familiarisation Costs to Fishers ** (Reference: 2)
+S0258 4.2. Lobster (and crawfish) fishers may need to take some time to become accustomed to the new regulations and to reconsider where they place their fishing pots and how often they check their fishing pots. ** (Reference: 1)
+S0259 This IA assumes that each lobster fisherman takes 2 hours in the first year of operation to familiarise themselves with the new regulations and to take any adaptive actions.
+S0260 4.2. ** (Reference: 2)
+S0261 The mean average hourly wage for marine fishers in 2014 was £8.23 per hour in 2015 prices. ** (Reference: 16)
+S0262 This IA uses a 30% allowance for non-wage costs to calculate an hourly cost to businesses of £10.70.
+S0263 4.2. ** (Reference: 3)
+S0264 In 2013 there were 1257 fishers using pots and traps in the UK, meaning that the estimated one-off familiarisation cost is £26,900. ** (Reference: 17)
+S0265 This is likely to be an overestimate, as many of these fishers will either not fish in English waters, will only fish in areas which already have a ban on landing berried lobsters, or target species other than lobsters or crawfish (e.g. crabs).
+S0266 4.2. There are no additional expected costs for fishers to implement the measure, beyond the revenue they no longer receive due to not being able to land lobsters or crawfish, which are covered in Section 4.3. ** (Reference: 4)
+S0267 In particular, there are no expected costs for fishers to sort berried and non-berried lobsters or crawfish, as both berried lobsters and crawfish can be easily spotted and immediately discarded while at sea.
+S0268 In addition, fishers will already need to check that the lobsters and crawfish they are landing comply with existing rules such as v-notching and minimum landing sizes.
+S0269 4. Costs of Lost Revenue for Fishers ** (Reference: 3)
+S0270 4.3. Where fishers catch berried lobsters, they will no longer be able to land these lobsters and will lose out on any revenue they would have earned from these landings. ** (Reference: 1)
+S0271 4.3. This IA assumes that there will be no cost savings to fishers from no longer landing berried lobsters. ** (Reference: 2)
+S0272 This is because lobster fishers must still incur the costs of going out to sea to check their pots to see if lobsters are contained within are berried or not.
+S0273 As a result, the best estimate of costs to fishers is the revenue they can no longer earn from landing berried lobsters.
+S0274 4.3. Evidence from sampling of lobster populations has enabled Cefas to estimate the proportion of lobsters which are berried in each functional unit at different times of the year. ** (Reference: 3)
+S0275 This has then been compared to data from the MMO on landings of lobsters from each functional unit to estimate the value of berried lobsters caught by under and over 10m fishers.
+S0276 4.3. ** (Reference: 4)
+S0277 This was then combined with the assumptions shown in Table 2 to estimate the annual value of berried lobsters landed, allowing for where existing rules require fishers to return berried lobsters to the sea.
+S0278 The best estimate of the value of berried lobsters landed into English ports from UK vessels is £2.36m, based on an annual average tonnage from 2011-2014 and price data from 2015.
+S0279 This compares to average annual landings of all lobsters into English ports worth £17.03m over the same period, meaning that berried lobsters represent around 14% of all lobster landings into English ports.
+S0280 Table 3: Best estimate of annual landings of berried lobsters from functional units.
+S0281 Figures rounded to nearest £1000
+S0282 Annual Landings of Berried Lobsters Functional Unit <10m vessels 10-12m vessels >12m vessels Total South-West £0 £59,000 £121,000 £180,000 South-East and South £91,000 £0 £40,000 £51,000 Coast
+S0283 £1,540,000
+S0284 East Anglia £0 £10,000 £2,000 £11,000 Yorkshire and £1,540,000 Humberside £799,000 £242,000 £500,000
+S0285 Northumberland £434,000 £107,000 £1,000 £541,000 Total £1,233,000 £458,000 £673,000 £2,364,000 Red shaded areas are £0 due to existing IFCA bans on landing berried lobsters.
+S0286 Green shaded areas show estimated annual landings of berried lobsters in the best estimate of costs; in the low case estimate of costs, these values are assumed to be £0 as existing IFCA bans are assumed to also cover 10-12m vessels.
+S0287 4.3. The best estimate of costs to fishers of lost revenue from no longer landing berried lobsters is therefore £2.36m. It should also be noted that whilst there are two functional areas with significant losses, it does not necessarily mean that vessels exploiting the stocks are from these areas. ** (Reference: 6)
+S0288 In addition, while vessels exploiting the stocks would bear the largest costs, they would also gain the largest benefits for stock recovery.
+S0289 4.3. In the low-cost case, it is assumed that vessels up to 12 metres in length do not land lobsters more than 6nm from the coast. ** (Reference: 7)
+S0290 As a result, under this scenario in some areas 12 metre vessels would not land berried lobsters in the baseline, therefore reducing the estimate of costs from introducing a nationwide ban on landing lobsters.
+S0291 In this scenario, the costs are estimated to be £2.25m per year.
+S0292 However, it is not considered likely that vessels between 10 to 12 metres in length will be restricted to fishing within 6nm, and therefore this scenario is less likely than the best estimate scenario.
+S0293 4.3. ** (Reference: 8)
+S0294 For crawfish, the proportion of landings which are berried are estimated to be similar to those of lobster, however there are few direct observations.
+S0295 The value of crawfish lost due to a berried ban was therefore estimated using the observed proportions of lobster in the South West functional unit.
+S0296 Cornwall IFCA and Devon & Severn IFCA already have a ban on the landing of berried crawfish and therefore the lost earnings were assumed to come from over 10m vessels landing to all ports and under 10m vessels landing to the Isles of Scilly.
+S0297 The total lost revenue is estimated to be £14,100, representing 6% of the value of crawfish landings into England in 2014.
+S0298 4. Cost of Implementation to Government ** (Reference: 4)
+S0299 4.4. In order to enforce the ban on landing berried lobsters, the MMO and IFCAs will need to invest in testing kits. ** (Reference: 1)
+S0300 This is so that they can test whether lobsters have had the eggs scrubbed from their bodies to hide that they have been berried.
+S0301 This testing should also be able to be applied to crawfish but costs have been based on existing testing kits for lobsters.
+S0302 Each testing kit would cost around £500, and be required to be replaced annually.
+S0303 There would also be an annual cost of £50 per annum per kit for replacing chemicals and other disposable materials used during testing. ** (Reference: 19)
+S0304 The MMO would be required to purchase one kit per office or inspection platform and each IFCA would be required to purchase two.
+S0305 As there are 12 MMO coastal offices and three inspection vessels and four IFCAs which do not currently enforce the ban on landings of berried lobsters, this results in a total annual cost to government of £11,500 to purchase the testing kits, and an annual cost of £1,150 for replacing chemicals.
+S0306 4.4. There will also be additional costs to IFCAs and the MMO for training inspectors to use the testing kits. ** (Reference: 2)
+S0307 This is estimated at £500 per MMO marine area for which there are four and per IFCA district for which there are four without a ban currently.
+S0308 Training is assumed to need to be repeated every two years, leading to a cost every two years of £4,000.
+S0309 Nevertheless, this is likely to be the highest estimate as it’s likely that costs can be reduced through conducting larger training sessions for multiple areas.
+S0310 4.4. ** (Reference: 3)
+S0311 The implementation of a national ban on berried lobsters may lead to cost savings for IFCAs which already have a ban on landing berried lobsters caught within 6nm in place.
+S0312 This is because IFCAs will no longer have to investigate whether any berried lobsters which are landed have been caught from within 6nm.
+S0313 These savings have not been quantified.
+S0314 4.4. There will be no other costs to the MMO or IFCAs for implementing or enforcing the ban. ** (Reference: 4)
+S0315 This is because enforcement activities will be carried out as part of routine inspection activity (for example, checking that fishers are complying with other existing technical regulations such as minimum landing sizes) and there would be no additional or specific inspection or enforcement activity associated with the ban on landing berried lobsters.
+S0316 This means that the total cost of enforcement and implementation to public bodies is £16,650 in years where training is needed and £12,650 in other years.
+S0317 4. Benefits from Improved Stock ** (Reference: 5)
+S0318 4.5. Restricting the removal of berried lobsters and crawfish from the lobster stock is expected to lead to healthier lobster and crawfish stocks, as the eggs the lobster or crawfish was carrying are able to develop to maturity. ** (Reference: 1)
+S0319 Cefas have used a fully dynamic population model to estimate the future impacts of a berried ban on lobsters.
+S0320 Annex C contains details of the model which Cefas have used.
+S0321 Cefas were unable to run the model for crawfish due to the lack of data available which is a common issue amongst smaller fisheries.
+S0322 However, it is considered that the trends shown for lobster may not be that dissimilar to what may happen in the crawfish stock.
+S0323 4.5. The model was run until the population was stable, then the management scenario was put in place and the population was followed for a further 15 years. ** (Reference: 2)
+S0324 The model explored three possible scenarios, one scenario for Option 0 and two different scenarios for Option 1, which are explained below.
+S0325 In particular, the model considered two assumptions on how fishers might respond to a ban by changing how much they fish (also known as fishing effort).
+S0326 In particular, for lobster fishers this might mean changing the number of lobster pots they use, or the frequency with which they check the pots.
+S0327 
+S0328 No change (Option 0 - baseline)
+S0329 
+S0330 A ban on landing berried lobsters, with no change in fishing effort (Option 1 – No change in effort) 
+S0331 A ban on landing berried lobsters, with a ~10% increase in fishing effort (Option 1- simulating a
+S0332 possible reaction by industry to try and compensate for lost revenue resulting from the ban)
+S0333 4.5. As not all lobster stocks are fished at the same rate, two different starting rates were explored, a “high” fishing rate (F=0.9) and a “low” fishing rate (F=0.4), in order to explore what might happen in the different stock units. ** (Reference: 3)
+S0334 In England, the South-west functional unit is exploited at a low fishing rate, while the Northumberland and the Yorkshire & Humberside functional units are exploited at a high fishing rate.
+S0335 The analysis assumed that there were no further changes in regulations governing exploitation of lobster stocks.
+S0336 4.5. ** (Reference: 4)
+S0337 The model was run assuming a berried lobster ban to 6 nm was already in place for the low fishing rate stock, and that vessels comply with this ban.
+S0338 This reflects that the IFCA districts in the South-West functional unit all have bans on landing berried lobsters.
+S0339 The model did not assume a berried lobster ban to 6 nm in the high fishing rate stock, as the IFCAs for the Northumberland and Yorkshire & Humberside functional units do not have bans on landing berried lobsters.
+S0340 4.5. ** (Reference: 5)
+S0341 The model is used to illustrate the expected stock recovery of a general lobster population, based on observed characteristics of lobsters.
+S0342 It is uncertain how well this general lobster population corresponds to each of the individual functional units in English waters, and it is not possible to tie it to any of the functional units present in English waters.
+S0343 Therefore the results shown here illustrate the long-term benefits of banning the landing of berried lobsters,
+S0344 but have not been monetised to formally estimate the benefits of the preferred option.
+S0345 The assumptions used in modelling will be tested during consultation.
+S0346 4.5. ** (Reference: 6)
+S0347 The results of the modelling are shown below in Figure 1; this shows the central estimates of changes in spawning stock biomass and landings, with the range of estimates shown in Annex C.
+S0348 This shows that the stock biomass is consistently higher under the preferred option of a ban on landing berried lobsters when compared to the baseline option, even if fishing effort increases after a ban.
+S0349 After 15 years of a berried lobster ban, the stock biomass is 80% greater than the no-ban baseline option in a higher fishing rate scenario and 15% higher under a low fishing rate scenario.
+S0350 These effects are much larger for the high fishing rate scenario than the low fishing rate scenario, as the benefits from restricting exploitation of the lobster or crawfish population are higher where the population is more depleted due to over- fishing.
+S0351 4.5. ** (Reference: 7)
+S0352 By contrast, landings of lobster initially dip before recovering as stock biomass grows.
+S0353 Landings under the preferred ban option surpass the no-ban baseline option both in Year 8, under the high fishing rate scenario, and also in Year 11, under the low fishing rate scenario.
+S0354 After 15 years of a berried lobster ban, landings are 43% higher, in the high fishing rate scenario, and 3% higher in the low fishing rate scenario, than when compared to the no-ban baseline option.
+S0355 Figure 1: Results from modelling of impacts of a ban on landing berried lobsters on lobster spawning stocks and landings of lobster for a generic lobster stock
+S0356 4.5. Table 4 shows the aggregated results of this analysis for lobster landings over the fifteen year appraisal period, expressed as a percentage of baseline landings of lobster in Year 0. ** (Reference: 8)
+S0357 This is shown for the no-ban baseline option (Option 0) and the preferred ban option (Option 1), assuming no change in fishing effort.
+S0358 The results are shown as both absolute totals and an estimate of the present value using a discount rate of 3.5%.
+S0359 4.5. As shown in Table 4, in the high fishing rate scenario the model estimates that there are considerable benefits under the preferred option of a ban on landing berried lobsters, with an accumulated net present value equivalent to 80% of annual landings in Year 0 compared to the baseline option. ** (Reference: 9)
+S0360 For the low fishing rate scenario, the model shows lower landings under the preferred ban option across the fifteen year period compared to the baseline option.
+S0361 However, Figure 1Figure 1 suggests that the berried lobster ban is yielding higher annual landings than the baseline option at the close of the appraisal period, and therefore the difference between the two options would close if the appraisal period were extended beyond 15 years.
+S0362 In addition, in the scenario where fishing effort increases by ~10% due to the ban, the accumulated landings over the 15 year period would be higher than the baseline option.
+S0363 Table 4: Estimated total lobster landings over the 15-year appraisal period for no-ban baseline option (Option 0) and berried lobster ban (Option 1) scenarios for high and low fishing rate stocks.
+S0364 Values expressed as a percentage of Year 0 baseline landings ** (Reference: 20)
+S0365 4.5. The model results shown above assume that lobster fishers either maintain the same levels of fishing effort following a berried lobster ban or increase their effort by around 10% in an effort to compensate for reduced landings. ** (Reference: 10)
+S0366 The model does predict that the returns on fishing effort for lobster fishers will decrease in the short-term and increase in the long-term if a berried lobster ban is implemented.
+S0367 The economics literature indicates that the response to a short-term reduction in returns on effort or labour is uncertain; fishers may increase their effort to compensate for the loss of earnings, or may reduce their effort or switch to another fishery due to lobster fishing being less lucrative.
+S0368 The reverse is true if long-term returns increase following the imposition of a ban on landing berried lobsters.
+S0369 As a result, the effects of the ban on landing berried lobsters on fishing revenues and profits is difficult to estimate accurately due to uncertainty regarding the response of fishers to a ban on landing berried lobsters.
+S0370 4. Summary of Costs and One In, Three Out Calculation ** (Reference: 6)
+S0371 4.6. Table 5 shows a summary of the costs which were estimated in Sections 4.2 to 4.4. ** (Reference: 1)
+S0372 The total costs to government and businesses over the 15 year appraisal period are £35.9m, with the majority of costs borne by fishers as a result of reduced revenue from no longer being able to land egg-bearing lobsters.
+S0373 4.6. ** (Reference: 2)
+S0374 This regulation is of domestic origin, and therefore counts towards the One
+S0375 In, Three Out calculation.
+S0376 The best estimate of the Equivalent Annual Net Cost to Business is £2.29m. Although this suggests a significant burden on business, this should be seen in the context of the un-monetised benefits to lobster fishers from implementing the regulation in the longer term.
+S0377 As shown in Section 4.5, modelling for a generic lobster stock estimates that lobster fishers will receive net benefits through higher landings of lobster after seven years of the regulation in highly fished stocks and eleven years in less fished stocks.
+S0378 Table 5: Summary of best estimate of undiscounted costs (2015 prices, rounded to nearest £0.01m)
+S0379 4. Small and Micro Business Assessment ** (Reference: 7)
+S0380 4.7. The UK fishing fleet in 2013 had 6,399 vessels and employed 12,150 fishers. Of these vessels, Seafish estimates that 1,257 fishing vessels use pots and traps, the principal fishing gear for catching lobsters. However many of these vessels will instead target crabs, or already be subject to a ban on landing berried lobsters or crawfish, so this is an overestimate of the number of vessels likely to be affected. ** (Reference: 1,21,22)
+S0381 4.7. ** (Reference: 2)
+S0382 The MMO reports that over 99% of commercial fishing enterprises in England and Wales had fewer than 10 full-time equivalent employees in 2013, with the remainder having between ** (Reference: 23)
+S0383 5.1. The evidence indicates that both European lobster and crawfish stocks in English waters are overfished which, if not addressed, could risk the sustainability of these fisheries. ** (Reference: 1)
+S0384 Introducing a national ban on the landing of berried lobsters and crawfish should lead to an increase in stock biomass which would contribute to our efforts to ensure the stocks are exploited at MSY in line with our EU obligations, as well as support the future viability of both fisheries.
+S0385 It will also help the UK to progress its Biodiversity 2020 commitments for crawfish and should reduce enforcement issues with current local bans.
+S0386 5.1. ** (Reference: 2)
+S0387 The preferred option is to make an order (Statutory Instrument) to make it an offence to fish for or land a berried lobster or crawfish in England.
+S0388 The ban would apply to all relevant British fishing vessels registered in the UK, any other relevant British fishing vessel (including those exempt from licensing requirements) and Scottish fishing vessels, fishing in English waters (0-200nm) and/or landing into English ports.
+S0389 The best estimate of undiscounted total costs to Government and business over a fifteen year appraisal period is £35.9m, with an estimated Equivalent Annual Net Cost to Business of £2.29m. As discussed in Section 4.5, the benefits of the proposed policy option would mostly accrue to lobster and crawfish fishers, with landings of lobsters estimated to be between 3-43% higher in less fished and highly-fished stocks respectively after 15 years of the policy (see Annex C).
+S0390 The assumptions used in this analysis are discussed in Section 4, and will be tested during consultation.
+S0391 5.1. To implement this national ban, it is proposed that an amendment will made to the current SI that prohibits the landing of v-notched lobsters and crawfish rather than make a new separate order. ** (Reference: 3,9)
+S0392 This will support the Government’s agenda on simplifying the legislative landscape.
+S0393 The MMO and IFCAs will continue to be responsible for implementing this regulation and we plan to work with them and build on current procedures.
+S0394 We will develop this further after the consultation in order to take into account any feedback received.
+S0395 The next step will be to hold a formal consultation on this proposal with an aim to for it to come into force in Tranche 1 (period to 31st December 2017).
+S0396 It is also proposed that a number of regional stakeholder workshops will be held both prior and during the consultation.
+S0397 To date we have extensively engaged with the MMO and IFCAs on the proposal for consideration, as well as larger stakeholders such as the Shellfish Association of Great Britain (SAGB) and National Federation of Fishemen’s Organisations (NFFO).
+S0398 These organisations will be invited to participate in the stakeholder workshops.

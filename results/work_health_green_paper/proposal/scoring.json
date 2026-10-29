@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Personalised, integrated employment and health support",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Refs 66, 67, 69 and 71 are cited and linked to the integrated-support and early-engagement design (IPS finding that employment chances double; UC more likely to move into work; early intervention), but the document does not assess their limits or uncertainties, and the Personal Support Package details have no evidence behind them."
+    },
+    {
+      "theme": "Reforming assessment and engagement of the Support Group",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only ref 84 (52% of the Support Group want to work) and ref 85 are cited, while the core case for separating assessment from employment support and for data sharing is reasoning without evidence; the Caldicott review (ref 88) is cited only for data sensitivities."
+    },
+    {
+      "theme": "Employer action and healthy workplaces",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "Many cited statistics and studies (refs 89-100, 122) support the business case, and the document itself assesses the evidence: 'evidence about the effectiveness of such initiatives... is mixed', 'our understanding of the effectiveness of different types of occupational health support... is incomplete', and 'there is scope for it to be stronger still'."
+    },
+    {
+      "theme": "Health system treating work as a health outcome",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Refs 143, 144, 145-147 are cited and linked to integration and work-as-a-health-outcome, with a Physiotherapy First case study, but the document does not assess the strength or limits of the evidence, and most proposals (fit note review, occupational health) are asserted."
+    },
+    {
+      "theme": "Test-and-learn innovation and culture change",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Mostly commitments and descriptions of programmes; only refs 59, 64 and 73 are cited, and the 'invest in innovation to gain a better understanding of what works' line signals evidence gaps without assessing them, so the test-and-learn rationale is largely unsupported."
+    }
+  ],
+  "reasoning": "Mean of the five core themes: (2 + 1 + 3 + 2 + 1) / 5 = 1.8, which rounds to 2. The strongest theme is employer action, where cited statistics (refs 90-94, 96-99, 122) are tied to the argument. It is also the only theme where the document itself assesses the evidence: \"the evidence about the effectiveness of such initiatives in sustaining people in or supporting them into employment is mixed\" and \"our understanding of the effectiveness of different types of occupational health support... is incomplete\". The personalised support theme is cited and linked: refs 66 and 67 show Individual Placement and Support doubling employment chances, ref 69 compares Universal Credit with Jobseeker's Allowance, and ref 71 supports early intervention. The document does not discuss the limits of these studies, though. The health-system theme cites refs 143-147 but also does not weigh the evidence. The Support Group reform theme relies on reasoning, with only the 52% survey (ref 84) cited. The innovation theme is mostly commitments. The strongest counter-example to a score of 2 is that two of five core themes sit at level 1 and only one reaches level 3. The reforms with the least support, the assessment separation and the Personal Support Package components, have the most weight. To reach level 3, the document would need to assess the strength and limits of the evidence on integrated support, UK trial applicability and the Support Group changes, and acknowledge contradictory findings consistently across themes.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.8,
+  "score_consistent": true,
+  "missing_core": []
+}

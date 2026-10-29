@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Raise State Pension age to 68 in 2037-39",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The \u00a374bn saving and \u00a3400 per household figures (refs 17, 37) come from DWP modelling with method partly explained in ref 43/44 and the Annex Table A, but the choice of 2037-39 rests mostly on reasoning about pace and Cridland's recommendation, with no assessment of the evidence."
+    },
+    {
+      "theme": "Linking State Pension age to life expectancy for intergenerational fairness",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 32% proportion is tied to the last 25 years' average with explained calculation (refs 1, 18, 38, 39 giving 31.3% and 1992-2016), and the 2013 policy background (refs 10, 24) is cited, though uncertainty in life expectancy projections is only acknowledged in the further-review theme (lines on 'life expectancy projections are uncertain')."
+    },
+    {
+      "theme": "Costs, savings and affordability",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Table A with refs 43 and 44 explains the DWP model, 2017/18 prices and OBR assumptions and ref 15 (OBR FSR) supports the 0.3% of GDP claim, and it notes that working-age benefit and tax effects were not estimated, but it does not weigh the strength of the evidence overall."
+    },
+    {
+      "theme": "Universal State Pension age",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Ref 40 (ONS life expectancy by socio-economic group) is the only cited source, while the PPI analysis and Cridland findings are named in prose without a reference and the other arguments are reasoning about simplicity."
+    },
+    {
+      "theme": "Further review before legislating",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The theme explicitly acknowledges that life expectancy projections are uncertain and that there will be at least three further reviews, but it carries no references so the evidence is uncited, and it mostly sets out plans."
+    }
+  ],
+  "reasoning": "The section rests on five core themes. Raising the age to 68 in 2037-39 reaches level 1: the \u00a374bn saving and \u00a3400 per household (refs 17, 37) come from DWP modelling, but the choice of 2037-39 is justified mostly by pace-of-change reasoning and by following Cridland. The life-expectancy link reaches level 2: the 32% principle is explained against the 31.3% average of 1992-2016 (refs 1, 18, 38, 39) and the policy background is cited (refs 10, 24). Costs and affordability reaches level 2: Table A is accompanied by refs 43 and 44, which give the model, prices and OBR assumptions, and ref 15 supports the 0.3% of GDP claim; the document also admits that working-age benefit and tax effects were not estimated. Universal pension age reaches level 1: only ref 40 is cited, while the PPI analysis and Cridland's findings are named in prose without references. Further review reaches level 1: it openly says 'life expectancy projections are uncertain' but cites no sources. The mean of the core levels is (1+2+2+1+1)/5 = 1.4, which rounds to 1. The strongest counter-example is the costs theme, where the modelling method is well documented and the document admits a gap in its estimates, which approaches level 3. To reach level 2 overall, the document would need to cite sources for its remaining claims and link the evidence directly to the 2037-39 timing and the universal age, rather than relying on endorsement of Cridland and on assertion.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.4,
+  "score_consistent": true,
+  "missing_core": []
+}

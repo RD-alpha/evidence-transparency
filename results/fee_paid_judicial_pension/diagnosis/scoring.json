@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Court findings of less favourable treatment",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The extract relies on court and tribunal findings, naming O'Brien and Miller and the Supreme Court decision in O'Brien v MoJ (lines 1-5) and explaining what they established, but there is no reference or link, so the reader cannot follow it to a source."
+    },
+    {
+      "theme": "Scope of entitlement still contested",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Lines on the Supreme Court's February 2013 decision, Employment Tribunal decisions and MoJ-published lists explain how entitlement was established and where litigation continues, but no case names, references or links are given and nothing assesses how firm the evidence is."
+    },
+    {
+      "theme": "Gaps in access to ancillary schemes and tax treatment",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The lines on JAVCS, added years and transfers (2)-(5) are the department's reasoning about HMRC tax treatment and its stated unawareness of affected individuals, which is an uncited acknowledgement of uncertainty, with no data or source for the claim, so it only reaches level 1."
+    }
+  ],
+  "reasoning": "All three themes are core. The first, 'Court findings of less favourable treatment', rests on judicial rulings: 'The UK courts and tribunals considered... including the case of O'Brien and Miller' and 'The Supreme Court decision in O'Brien v MoJ established that recorders were entitled...'. These findings are named and their implications are explained, so the theme reaches level 1. It carries no reference or link, so a citizen cannot follow it to the judgments, which keeps it from level 2. 'Scope of entitlement still contested' also reaches level 1. It describes tribunal decisions, MoJ-accepted lists and the ongoing litigation, and it is candid that 'a small number of issues [are] yet to be determined'. But it gives no case names, list locations or links. 'Gaps in access to ancillary schemes and tax treatment' states that fee-paid judges lacked JAVCS and added-years rights, and says HMRC will treat the rights as exercised on the payment date. It also says the department 'is not currently aware of any individual' who will be disadvantaged. This acknowledges uncertainty, but there is no data, no source and no method for how the department looked for affected individuals, so it is level 1. The mean is (1+1+1)/3 = 1, which gives a score of 1. The strongest counter-example is the document's open admission that litigation is ongoing and that tax effects 'may or may not' disadvantage individuals, which looks like assessment of the evidence and so could point to level 3. However, this is acknowledgement without cited evidence underneath, so it does not lift the level. To reach level 2, the document would need to cite the judgments (for example with neutral citations or links to O'Brien and Miller) and the published lists of offices. It would also need to explain how the department checked for people affected by the tax treatment.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

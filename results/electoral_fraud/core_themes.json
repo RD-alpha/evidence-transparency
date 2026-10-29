@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Polling station and voting-channel vulnerabilities",
+        "claim": "The trust-based system leaves polling stations, postal voting and proxy voting open to personation, intimidation, harvesting and undue influence, as shown by Tower Hamlets and by observers such as OSCE/ODIHR and the Electoral Commission."
+      },
+      {
+        "name": "Registration weaknesses",
+        "claim": "Registration lacks systematic checks on nationality, residence and previous address, and registration fraud is linked to financial fraud and illegal immigration, though its scale is unclear."
+      },
+      {
+        "name": "Weak legal framework, enforcement and oversight",
+        "claim": "Outdated or unclear electoral offences and petition rules, police inaction after Tower Hamlets, and the Electoral Commission's weak oversight and role conflict mean fraud is hard to challenge or prosecute."
+      },
+      {
+        "name": "Scale of fraud and public trust",
+        "claim": "Recorded fraud is limited and its true scale is unknown, but the precautionary principle and the damage that perceived fraud does to trust justify acting."
+      }
+    ],
+    "note": "Diagnosis is spread across the Pickles review's evidence, with some Government response sentences; the evidence on scale is acknowledged as weak or uncertain."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Proportionate strengthening of all voting channels",
+        "claim": "Rather than abolishing postal voting on demand or imposing blunt measures, the government backs targeted tightening of polling station, postal and proxy voting that targets wrongdoers and limits the burden on legitimate electors."
+      },
+      {
+        "name": "Voter ID piloting",
+        "claim": "Voters should show ID at polling stations, trialled first through pilots of several models, because ID is supported by the Electoral Commission and observers and has worked in Northern Ireland; a dedicated electoral ID card is rejected for 2018 on cost and logistics."
+      },
+      {
+        "name": "Registration integrity measures",
+        "claim": "Registration should be tightened through guidance and clearer definition of residence, mandatory previous-address responses and nationality warnings, while an automated nationality check, IP address retention and a separate municipal register are not taken forward or need more evidence."
+      },
+      {
+        "name": "Stronger offences, powers and challenge routes",
+        "claim": "Clearer and stronger offences (undue influence, campaigner handling of postal votes, higher penalties) and easier election petitions and complaints routes are needed because existing law sets the bar too high and does not deter or remedy fraud."
+      },
+      {
+        "name": "Governance and accountability reforms",
+        "claim": "Closer police and NCA engagement, senior officers acting as returning officers, FOI coverage and a refocused Electoral Commission are needed to improve oversight and consistent responses to fraud."
+      }
+    ],
+    "note": "The proposal is a package of about fifty separate recommendations, each accepted, deferred or rejected by the government; there are no overall cost estimates apart from Electoral Commission ID card costs."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Delivery by guidance, secondary and primary legislation",
+        "claim": "Where possible changes are delivered quickly through Electoral Commission guidance and secondary legislation, while stronger offences and powers need primary legislation when parliamentary time allows."
+      },
+      {
+        "name": "Phased ID pilots at local elections",
+        "claim": "Voter ID will be tested through pilots at 2018 English local elections using the Representation of the People Act 2000, in both high-risk and other areas, to assess fraud protection, perceived integrity and turnout."
+      },
+      {
+        "name": "Consultation with devolved administrations and stakeholders",
+        "claim": "Delivery depends on working with devolved administrations, the Electoral Commission, police and electoral administrators to settle practical details, enforcement and consistency where matters are devolved or undecided."
+      }
+    ],
+    "note": "Implementation is largely deferred: many measures are still to be considered or consulted on, with no timetable or cost estimates."
+  }
+}

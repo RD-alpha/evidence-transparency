@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Opaque, variable and high tenant fees",
+        "claim": "Letting agents charge tenants highly variable fees that run into hundreds of pounds and are difficult to find, understand or compare across agents."
+      },
+      {
+        "name": "Market failure in fee-setting",
+        "claim": "Because landlords, not tenants, appoint and negotiate with agents, tenants have no power to negotiate or avoid fees and agents/landlords have little incentive to keep tenant fees low, so competitive pressure on tenant fees is weak."
+      },
+      {
+        "name": "Existing regulation has not fixed the problem",
+        "claim": "Redress scheme membership and the Consumer Rights Act 2015 transparency requirements have not been effective or consistently enforced and have not curbed excessive or inconsistent fees."
+      },
+      {
+        "name": "Financial harm to tenants",
+        "claim": "High, repeated and unpredictable upfront fees cause real financial hardship, deter house-moves, force borrowing, and make it harder for tenants to save for a deposit."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Banning tenant fees rather than relying on transparency",
+        "claim": "Because landlords hold the stronger market position and can shop around for agents, the Government proposes banning all letting fees charged to tenants rather than continuing to rely on transparency requirements, which have proven insufficient to improve competition or standards."
+      },
+      {
+        "name": "Scope and design of the ban",
+        "claim": "The ban will cover all fees, premiums or charges (from agents, landlords or third parties) that facilitate a tenancy, limited to rent and a refundable deposit, with narrow carve-outs for refundable holding deposits and tenant-caused in-tenancy charges to manage risk and discrimination concerns."
+      },
+      {
+        "name": "Costs, benefits and assumptions about rent effects",
+        "claim": "The Government assumes agents will not pass on the full level of former tenant fees to landlords and that any resulting rent increases are outweighed by the benefits of transparency, easier comparison and lower upfront costs, pointing to Scotland's experience of only minimal rent effects from its existing ban."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Local authority enforcement",
+        "claim": "The ban will be enforced primarily by local authorities' Trading Standards services, building on their existing enforcement of redress scheme membership and transparency rules."
+      },
+      {
+        "name": "Additional enforcement infrastructure",
+        "claim": "The Government is exploring whether a lead enforcement authority (modelled on the estate agency sector's NTSEAT), increased data sharing between regulators, and wider statutory regulation of agents are needed to support local authorities in enforcing the ban."
+      },
+      {
+        "name": "Penalties for non-compliance",
+        "claim": "Non-compliant agents should face a civil penalty, likely set higher than the existing £5,000 fine used for redress/transparency breaches, with the option of criminal sanction and banning orders under the Housing and Planning Act 2016 for serious or repeated breaches."
+      },
+      {
+        "name": "Tenant empowerment and education",
+        "claim": "Educating and empowering tenants to recognise and challenge unlawful fees, through updated guidance and routes to local authorities or the county court, is presented as a necessary complement to formal enforcement."
+      }
+    ],
+    "note": ""
+  }
+}

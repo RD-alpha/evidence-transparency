@@ -1,0 +1,16 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Telephone support for claims",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line says applicants will continue to use the telephony service with trained advisers completing the form, which describes the measure and offers no statistic, finding, source or reference that it keeps claims quick and accessible."
+    }
+  ],
+  "reasoning": "The extract has one core theme, \"Telephone support for claims\", with one line: \"Applicants will continue to be able to use our telephony service to make their claims more quickly and one of our specially trained advisers will continue to be able to complete the form on their behalf.\" The claim is that this keeps claims quick and accessible alongside the shorter child's funeral form. The line describes what the service will do. It gives no data on call volumes, completion times, take-up, user satisfaction or cost, and no consultation responses or analysis. It carries no reference or link. The words \"more quickly\" assert a benefit without support. Describing a measure is not evidence that it works as intended, and reasoning without evidence is level 0. The core theme scores 0, so the mean is 0 and the section score is 0. The strongest counter-example is that continuing an existing service needs less justification than a new measure, and a reader might accept that the service is already working. Even so, the document shows no evidence of that, so I cannot credit it. To reach level 1, the document would need to offer some evidence, such as usage figures for the telephony service, how many claims are made by phone, or feedback from applicants, and explain how that supports keeping the service. To reach level 2, it would also need to cite the source or say how the data was collected. It would also need to compare other delivery routes and explain why they were not chosen.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

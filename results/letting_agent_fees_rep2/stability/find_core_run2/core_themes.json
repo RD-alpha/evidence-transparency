@@ -1,0 +1,69 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Imbalance of market power between landlords and tenants",
+        "claim": "Because landlords, not tenants, choose and instruct letting agents, agents have no incentive to keep tenant fees low or transparent, so competitive pressure on tenant-facing fees is weak."
+      },
+      {
+        "name": "Scale, variability and opacity of tenant fees",
+        "claim": "Survey and market research evidence shows letting agent fees charged to tenants are widespread, have risen significantly, and vary so much between agents that tenants cannot easily find or compare them."
+      },
+      {
+        "name": "Failure of existing transparency regulation",
+        "claim": "The Consumer Rights Act 2015 transparency requirements have not been effective or consistently enforced, so fee disclosure alone has not curbed high or opaque charges."
+      },
+      {
+        "name": "Financial and behavioural harm to tenants",
+        "claim": "High, unpredictable upfront letting fees create real financial hardship, deter tenants from moving, and can even increase discrimination risk, demonstrating the human cost of the status quo."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Rebalancing the market by shifting fee liability to landlords",
+        "claim": "Banning tenant fees forces agents to compete for landlords' business on price and quality, which will sharpen incentives, increase transparency, and give tenants clear, comparable advertised rents."
+      },
+      {
+        "name": "Scottish precedent as evidence for the chosen approach",
+        "claim": "Scotland's long-standing ban on tenant fees shows that such a ban can operate without seriously damaging the letting sector, supporting the case for adopting a similar ban in England."
+      },
+      {
+        "name": "Acceptable trade-off of possible rent increases",
+        "claim": "Although landlords may pass some agent costs into rents, the ban is still justified because fees are unlikely to be passed on in full and tenants benefit from paying costs transparently through rent rather than hidden upfront fees."
+      },
+      {
+        "name": "Reducing the deposit burden as a complementary measure",
+        "claim": "Alongside banning fees, the government proposes to explore capping deposits and alternative deposit models to further reduce the upfront financial burden on tenants."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Local authority enforcement built on existing Trading Standards role",
+        "claim": "The ban will be enforced primarily by local authorities' Trading Standards teams, extending their existing role in policing redress-scheme membership and fee transparency."
+      },
+      {
+        "name": "Need for additional enforcement support mechanisms",
+        "claim": "Because Trading Standards may lack capacity, the government is exploring further supports such as a lead enforcement authority, increased data sharing, and wider sector regulation, without yet deciding between them."
+      },
+      {
+        "name": "Tenant empowerment and education as an enforcement tool",
+        "claim": "Informing and empowering tenants to recognise and challenge unlawful fees, including through the county courts, is proposed as a way to reduce reliance on proactive policing by authorities."
+      },
+      {
+        "name": "Penalty regime for non-compliance",
+        "claim": "The government is deciding between civil penalties and criminal/banning-order sanctions, modelled on existing redress-scheme fines and Housing and Planning Act penalties, to deter agents from continuing to charge banned fees."
+      },
+      {
+        "name": "Defining permitted charges and exceptions to the ban",
+        "claim": "To keep the ban workable, the government proposes allowing agents to retain certain charges, such as refundable holding deposits and tenant-caused service costs, while restricting opportunities for circumvention."
+      }
+    ],
+    "note": "Implementation holds more candidate themes than usual because the document sets out several distinct, still-undecided delivery mechanisms (enforcement body, penalties, scope) rather than a single implementation route."
+  }
+}

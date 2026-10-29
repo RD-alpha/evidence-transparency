@@ -1,0 +1,64 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Choice of an outright ban over strengthened transparency",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Draws on the 2016 Client Money Protection call for evidence (consultation responses saying requirements were insufficient, had no evident impact, and were inconsistently enforced) but gives no citation, respondent numbers, or assessment of that evidence's reliability."
+    },
+    {
+      "theme": "Scope of the ban and limited exceptions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines describing what the ban will cover and what exceptions remain are purely descriptive, with no evidence offered for why these particular boundaries were set."
+    },
+    {
+      "theme": "Scottish precedent as supporting evidence",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "Cites Shelter's commissioned Rettie/BDRC Continental research (Reference 16) with specific findings (e.g. '56% of private tenants agreed', '1% and 2% of the rent rises... could, in part, be caused by the law'), and explicitly flags the inconclusiveness of the modelling and the difficulty of comparing English and Scottish markets."
+    },
+    {
+      "theme": "Expected pass-through of costs to rents",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "Combines an uncited claim ('there is evidence that a number of agents are charging excessive fees') with the cited, cross-referenced Scottish data (Reference 16) on the 17% fee rise to landlords and 1-2% rent effect, concluding 'agents... are unlikely to pass the full costs of the fees onto landlords', with the inconclusiveness of that estimate acknowledged."
+    },
+    {
+      "theme": "Benefits to tenants and market transparency",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Entirely asserted reasoning about transparency and tenant benefit with no statistic, finding or citation behind it."
+    },
+    {
+      "theme": "Landlord competition and agent incentives",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Asserts that the ban will sharpen agent competition with no supporting evidence."
+    },
+    {
+      "theme": "Simplicity and clarity of the ban",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States a preference for a clear ban without any evidence of why clarity was prioritised."
+    },
+    {
+      "theme": "Deposit regulation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Notes deposit levels 'have been increasing' with no data, source or citation."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Descriptive statements about Wales/Northern Ireland and agent business models carry no evidence."
+    }
+  ],
+  "reasoning": "The four core themes vary widely in evidentiary strength. 'Choice of an outright ban' (level 1) rests on the department's own 2016 Client Money Protection consultation, but only vague quantifiers ('majority', 'many', 'a number') are given, with no respondent numbers or citation, so it cannot reach level 2. 'Scope of the ban and limited exceptions' (level 0) is purely descriptive, with no evidence offered for why particular charges or exceptions were included. 'Scottish precedent' (level 3) is the strongest theme: it cites Shelter's commissioned Rettie/BDRC Continental research (Reference 16), gives concrete figures ('56% of private tenants agreed...', '1% and 2% of the rent rises... inconclusive'), and explicitly weighs the uncertainty and comparability limits ('difficult to directly compare the English and Scottish markets'). 'Expected pass-through of costs to rents' (level 3) draws on this same cited Scottish evidence ('agents... are unlikely to pass the full costs of the fees onto landlords'), linking it directly to its claim and acknowledging the same uncertainty, even though its own unnamed claim about 'agents charging excessive fees' remains uncited. The mean of the four core levels (1+0+3+3)/4 = 1.75, rounding to 2. The clearest counter-example weakening the level is the 'scope' theme's complete absence of evidence for its specific design choices. To reach level 3 overall, the document would need to similarly cite and assess evidence behind the transparency-versus-ban decision and the scope of exceptions, not just the Scottish comparison.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

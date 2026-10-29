@@ -1,0 +1,53 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Complex fares system undermining trust",
+        "claim": "The fares system is complicated and hard to navigate, which damages passengers' trust in the railway."
+      },
+      {
+        "name": "Historical origins of complexity",
+        "claim": "The complexity has built up over time, so undoing it will take time and must avoid significant costs for passengers or taxpayers."
+      }
+    ],
+    "note": "The diagnosis is very thin: only two sentences, with no evidence on the scale or causes of the problem or on how its strength was assessed."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Better information and clearer ticket choice",
+        "claim": "Reducing jargon, explaining tickets plainly, and flagging scarce Advance tickets and cheaper options will help passengers find and choose the best ticket."
+      },
+      {
+        "name": "Simpler, wider ticket buying and retail market",
+        "claim": "Making purchase simpler, improving vending machines and websites, opening data and the retail market to third parties, and extending where tickets can be bought will improve passenger outcomes through competition and innovation."
+      },
+      {
+        "name": "Fares reform through franchising and pilots",
+        "claim": "Pilots and exploration of options such as simplified commuter fares and single-leg pricing, delivered through franchising and balanced against market abuse, innovation and taxpayer cost, will lead to a clearer, fairer fares structure over the longer term."
+      },
+      {
+        "name": "Passenger protection and trust",
+        "claim": "Measures such as refunds for forgotten Railcards, accessible terms and conditions, and work on disabled passengers' needs will build passenger trust and confidence."
+      }
+    ],
+    "note": "The proposal is a package of separate measures; the document gives no evidence for why they were chosen, no alternatives considered, and no costs or benefits."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Industry-led delivery with named owners and deadlines",
+        "claim": "Actions are delivered mainly by RDG, train operating companies and DfT, each with a named owner and a timescale, with first changes in 2017 to give passengers real results within about two years."
+      },
+      {
+        "name": "Collaborative development and consultation",
+        "claim": "The plan was developed with ORR, train companies, consumer groups, technology firms and retailers, and delivery will involve passenger groups and third parties."
+      },
+      {
+        "name": "Longer-term reform via franchising",
+        "claim": "Deeper fares reforms will take time and will be delivered through the franchising programme and further work with industry."
+      }
+    ],
+    "note": "Mostly timescale and owner annotations for each action, with little justification for the chosen delivery method, no alternatives, and no costs; monitoring and reporting sit in Testing sentences."
+  }
+}

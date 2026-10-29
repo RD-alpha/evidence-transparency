@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Devolved vessel licensing with managed mobility",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States the four Administrations agree vessels should move and licensing be simplified, but gives no evidence or data showing why this design was chosen or will work."
+    },
+    {
+      "theme": "Reform of the economic link condition",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Asserts the condition should deliver 'meaningful benefits for coastal communities' and proposes removing the paragraph for further discussion, but offers no data or assessment of current effectiveness to support this."
+    },
+    {
+      "theme": "Administration discretion over FQA transfers",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims discretion will give Administrations 'greater scope to manage quota according to each administrations needs and priorities' but provides no evidence of need or impact."
+    },
+    {
+      "theme": "Minor and consequential updates",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States changes reflect EU regulation and administrative changes since 2012 but gives no specifics or evidence of what changed or why it matters."
+    },
+    {
+      "theme": "Consultation scope and context",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Purely descriptive of the consultation's scope and structure (e.g. 'three main areas'), with no evidence offered for any claim."
+    }
+  ],
+  "reasoning": "All four core themes describe what the revised Concordat will do -- devolved licensing with managed vessel mobility, reform of the economic link condition, Administration discretion over FQA transfers, and minor consequential updates -- but none cites any evidence for why these specific designs were chosen or how they will achieve their stated aims. For example, 'This will give individual fisheries administrations greater scope to manage quota according to each administrations needs and priorities' is asserted without data on current quota management problems. Similarly, 'Administrations are agreed that it is essential that the economic link licence condition contribute to meaningful benefits for coastal communities' is a statement of agreement, not evidence of current shortfall or likely effect. The minor changes theme simply states that changes 'reflect changes in EU regulations and also changes in administrative procedure made since 2012' without detailing what these are or their impact. No consultation data, modelling, or cited reports appear anywhere in the extract to support these choices. The non-core 'Consultation scope and context' theme is purely descriptive and also scores 0. All four core themes score 0, giving a mean of 0, so the section score is 0. The strongest counter-example might be the general assertion of Administrations' agreement, which could be read as a form of consensus-based reasoning, but this is reasoning, not evidence. To reach level 1, the document would need to mention some evidence -- such as feedback from the 2012 Concordat's operation, data on vessel movement patterns, or consultation responses -- with some explanation of how it informed these specific proposals.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

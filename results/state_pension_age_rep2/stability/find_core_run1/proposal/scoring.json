@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Raise State Pension age to 68 in 2037-39 and reject alternatives",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The \u00a374bn saving and \u00a3400-per-household figure (Ref 17 'See Annex', Ref 37 explaining the division by ONS households) are DWP modelling, but the Annex pointer is generic and the rejected alternatives (lower pensions, 32% timetable) are dismissed by reasoning, with only the \u00a3250bn cap comparison offered as evidence, so it stays at level 1."
+    },
+    {
+      "theme": "Longevity link and fairness between generations",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The 31.3% versus last-25-years comparison (Refs 1, 18, 38, 39) and the Government Actuary report (Ref 3) are cited, but the reasoning for choosing 32% rests on an assertion that 20-30 years is 'the classic view of a generation', and no uncertainty or contrary evidence is assessed, so it stays at level 1."
+    },
+    {
+      "theme": "Costs and benefits of the earlier rise",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Table A with Refs 1, 43 and 44 gives modelled expenditure, the model basis and the FSR assumption; the OBR (Ref 15), Barrell et al. (Ref 16) and DWP evidence base (Ref 33) are cited for GDP and employment effects, and the document acknowledges that working-age benefit and tax effects were not estimated, but it does not assess the strength of the evidence, so it reaches level 2 rather than 3."
+    },
+    {
+      "theme": "Pace, notice and a further review before legislating",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The document acknowledges uncertainty in life expectancy projections ('recent decades have shown that life expectancy projections are uncertain') and commits to a further review before legislating, with Refs 17 and 36, but the 'one year in every ten' pace is asserted without evidence and the Ref 17 pointer is generic, so it stays at level 1."
+    },
+    {
+      "theme": "Universal State Pension age and simplicity",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The ONS life-expectancy data (Ref 40) is cited and the Pensions Policy Institute analysis is mentioned only in prose with no reference; the case for a universal age is mostly argument and reliance on Cridland's report."
+    },
+    {
+      "theme": "Background to the State Pension reforms",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "This theme largely describes the legislative history and framework (Refs 10, 22-24 cited only to describe the framework), which is not evidence, and the repeated 0.4% GDP and 31.3% figures carry no reference here, so it earns level 1 at most."
+    }
+  ],
+  "reasoning": "The core themes are one evidence-heavy theme and three weaker ones. The costs-and-benefits theme reaches level 2 (Table A, Refs 1, 43, 44 on method; Refs 15, 16, 33 for the GDP and employment claims) and states that working-age benefit and tax effects 'have not been produced'. The headline theme on raising the age to 68 reaches level 1: the \u00a374bn saving points to 'See Annex for details' (Ref 17) and the alternatives (lower pensions, the 32% timetable) are dismissed by argument, with no evidence on, for example, pensioner poverty. The longevity-link theme reaches level 1: the 31.3% comparison with the last 25 years is cited (Refs 1, 18, 38, 39), but 'the classic view of a generation' is an assertion, and the 32% versus 33.3% choice is not tested against contrary evidence. The pace and notice theme reaches level 1: it concedes that 'life expectancy projections are uncertain' and promises a further review, but 'one year in every ten' is asserted without supporting evidence. The mean of the four core themes (1, 1, 2, 1) is 1.25, which rounds to 1. The strongest counter-example to this level is the cost theme, which at level 2 shows how the evidence is built up. To reach level 2 overall, the document would have to link the Annex modelling, the rejected alternatives and the 'one year in ten' pace to specific cited evidence; to reach level 3 it would have to assess the strength of that evidence and the uncertainty in the projections.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.25,
+  "score_consistent": true,
+  "missing_core": []
+}

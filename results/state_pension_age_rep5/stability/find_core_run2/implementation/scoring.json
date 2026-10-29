@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Notice and communication",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The ten-year notice commitment and communications strategy are commitments and reasoning (e.g. 'in practical terms individuals need time to prepare') with no statistic, finding or source, and the only gesture to evidence is agreement with Cridland's recommendation on communication, which is not explained or cited."
+    },
+    {
+      "theme": "Wider support for working longer and those unable to work",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines assert agreement with Cridland and mention a 'recent consultation on health and work' and 'other evidence' without any results, method or citation, and the claim that 'the welfare system already provides protection' is bare assertion."
+    },
+    {
+      "theme": "Review and legislative process",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Government Actuary's report and Cridland's independent report are named and their use explained (indicative timetables, 'up to one third' of adult life, 2028 to 2064), but there are no references or links, and the Pensions Act 2014 is cited only to describe the process."
+    }
+  ],
+  "reasoning": "All three themes are core. The extract has no references or links at all, so no theme can reach level 2. Notice and communication scores 0: the ten-year minimum notice rests on reasoning ('in practical terms individuals need time to prepare') and on agreement with Cridland that 'individuals should have sufficient warning', but no data, research or consultation result shows why ten years is the right period or that the communications approach will work. Wider support scores 0: it names Cridland's recommendations, 'other evidence' and 'the Government's recent consultation on health and work', but says nothing about what they found or how they shaped the plan, and 'the welfare system already provides protection' is bare assertion. Review and legislative process scores 1: it explains that the Government Actuary's timetables apply the 'up to one third' of adult life principle over 2028 to 2064 and that Cridland's report covered fairness, affordability and fuller working lives, and both were laid before Parliament. These reports are named and their use described, but without citation. The mean of 0, 0 and 1 is 0.33, which rounds to 0. The strongest counter-example is the review theme, which shows real evidence use and could argue for a higher overall score. However, it concerns the statutory process rather than evidence for the delivery method, and there is no assessment of uncertainty. To reach level 1 the notice and support themes would need to explain what evidence underpins them. To reach level 2 the document would need to cite the reports and consultation, and link them to the ten-year notice and support measures.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

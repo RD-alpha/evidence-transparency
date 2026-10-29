@@ -1,0 +1,73 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Outdated match test and FR overuse",
+        "claim": "The 1988 match test is tested over illegal, highly flammable foam rather than the combustion-modified foam and fibre wrap found in real furniture, so it forces manufacturers to over-use flame retardant chemicals to pass a test that no longer reflects how furniture is actually made."
+      },
+      {
+        "name": "Health and environmental harm from flame retardants",
+        "claim": "Flame retardant chemicals, particularly brominated types used on cover fabrics, are linked to a growing body of evidence on endocrine disruption, cancer, neurological harm, and environmental contamination through house dust, landfill leaching and combustion by-products."
+      },
+      {
+        "name": "FFRs' proven safety record as the baseline to protect",
+        "claim": "The existing regulations are demonstrably effective, saving around 54 lives and preventing hundreds of injuries and fires each year, so any reform must preserve these fire-safety outcomes even as it addresses the testing and chemical-use problems."
+      },
+      {
+        "name": "Scope and traceability weaknesses undermine clarity and enforcement",
+        "claim": "The prescriptive inclusion/exclusion list creates ambiguity over which products are covered, and the lack of supply-chain information in current traceability requirements hampers product recall and enforcement, compounding the problems caused by the outdated test."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Preferred option: updating the regulations",
+        "claim": "Updating the regulations (Option 1) is justified as the preferred course because it meets the policy objectives of maintaining safety, cutting costs and reducing flame retardant use, whereas doing nothing forgoes these benefits and revoking the regulations in favour of weaker EU standards would risk consumer safety."
+      },
+      {
+        "name": "Redesigned match test reduces chemical use without compromising safety",
+        "claim": "A new match test using a fibre wrap and combustion-modified foam that mirrors real furniture construction is proposed as the central mechanism for cutting flame retardant use while maintaining current fire-safety standards."
+      },
+      {
+        "name": "Removal of the cigarette test as a redundant requirement",
+        "claim": "The cigarette test is proposed for removal for fabrics that pass the new match test, because it is less stringent and virtually always passed once the match test is met, yielding direct cost savings."
+      },
+      {
+        "name": "Quantified cost-benefit case for the preferred option",
+        "claim": "The proposal's net present value of £123.93m and an EANCB of -£14.17m rest on estimated costs (familiarisation, transition, traceability) weighed against estimated benefits (FR-use savings, cigarette test removal, baby-product scope exclusion), albeit with wide ranges and acknowledged uncertainty."
+      },
+      {
+        "name": "Consultation-driven revision of the original proposal",
+        "claim": "Because industry consultation respondents disputed the scale of cost savings and raised transition and flexibility concerns, BIS revised the original 2014 proposal's test design, routes to compliance and transition period to produce a more defensible, lower-savings estimate."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Multiple routes to compliance for cover fabric testing",
+        "claim": "The regulations will offer four alternative routes to compliance (interliner exemption, interliner plus match test, protective cover, non-protective cover plus components test), each with estimated uptake shares, to give industry flexibility in how it meets the new match test while reducing FR use."
+      },
+      {
+        "name": "Clarifying scope through consultation-tested exclusions",
+        "claim": "Ambiguous product categories (baby products, outdoor furniture, scatter cushions, second-hand furniture) will have their regulatory status clarified and tested through consultation, generally aiming to preserve the status quo while enabling targeted exclusions such as baby products."
+      },
+      {
+        "name": "Strengthened traceability and record-keeping requirements",
+        "claim": "New documentary and labelling requirements, including extending record retention from 5 to 10 years and recording constituent materials, FR use and supply-chain details, will be introduced in line with practice used in other product-safety regimes to improve enforcement."
+      },
+      {
+        "name": "Extended transition period to limit business disruption",
+        "claim": "The transition period for compliance has been extended from the originally proposed 18 months to 24 months for both manufacturers and retailers, in direct response to stakeholder concerns about stock write-offs and premature re-testing costs."
+      },
+      {
+        "name": "Cost assumptions underpinning implementation choices remain provisional",
+        "claim": "Key implementation costs (testing set-up, traceability administration, labelling) are estimated using provisional assumptions that BEIS acknowledges are uncertain and intends to test and refine further through consultation before finalising the delivery approach."
+      }
+    ],
+    "note": ""
+  }
+}

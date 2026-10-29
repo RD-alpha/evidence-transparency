@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Tailored, iterative delivery of assisted digital",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The theme mentions lessons from \"a number of recent Government initiatives\" and tests of two new services (plea online, court fee help), plus an assumption that professional users need less assistance, but none is named, cited or shown to support the design, and the remaining lines are commitments or argument."
+    },
+    {
+      "theme": "Phased roll-out of online conviction",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines give the timetable (end 2016, 2017 pilots, 2018 roll-out) and the three initial offences, but offer no evidence for why this phasing or these offences were chosen, so they are plan description only."
+    },
+    {
+      "theme": "Open justice and legislation for reform",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines such as \"Where required, we will bring forward legislation\" and \"The principle of open justice will be upheld\" are commitments with no evidence behind them."
+    }
+  ],
+  "reasoning": "All three core themes are scored, and the mean falls at the bottom of the scale. The assisted digital theme reaches level 1. It points to some evidence: \"A number of recent Government initiatives have delivered assisted digital support to smaller groups of people, and we are learning the lessons from these\", and the testing of two new services (online plea and court fee help). The document says how these are used, to inform the approach, but it never names the initiatives, gives a source, or states what they found. Its assumption that \"professional users are likely to need less assistance than the general population\" is also unsupported. The online conviction theme (level 0) sets out a timetable and the three starting offences (railway and tram fare evasion, unlicensed rod and line), and says wider roll-out depends on the first phase succeeding. It gives no evidence for why these offences or this staging were chosen, or what success means. The open justice and legislation theme (level 0) is made up of commitments to legislate and to create a Rules Committee, with no evidence. The mean is (1+0+0)/3 = 0.33, which rounds to 0. The strongest counter-example is the assisted digital theme, whose mention of lessons from earlier initiatives and pilot testing is real, if thin, and could justify a higher rating for that theme alone. To reach level 1 overall, the document would need to show what evidence led to the phased approach and offence selection. To reach level 2, it would need to cite the specific initiatives and pilot findings.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,58 @@
+S0015 Under the current legal aid means test certain legal aid applicants are deemed to be automatically financially eligible for free legal aid if they are in receipt of certain income-based qualifying benefits.
+S0016 This system is known as “passporting”.
+S0018 The changes to the benefits system currently being implemented under the Welfare Reform Act 2012 mean that a number of benefits that have historically been used as an administrative marker to “passport” applicants through the legal aid means tests to free (i.e. non-contributory) legal aid will progressively be replaced by Universal Credit.
+S0019 In order to accommodate the introduction of Universal Credit, which was initially restricted to particular areas and types of claimant, the list of passporting benefits for civil and criminal legal aid was amended to include Universal Credit as an interim measure.
+S0020 However, Universal Credit has a wider scope than the existing passporting benefits that it replaces, and it can be paid to claimants who are also in receipt of earnings.
+S0021 This means that people who would have been in receipt of certain current non- passported benefits will, once they become entitled to Universal Credit, become eligible for passporting to free legal aid.
+S0022 If Universal Credit continues to be a passporting benefit for legal aid, the increase in legal aid expenditure will be approximately £14m per year in steady state.
+S0023 In addition, those in receipt of Universal Credit may be advantaged over those on similar incomes but not in receipt of Universal Credit meaning that legal aid is not focused on those who need it most.
+S0024 Such additional financial pressure on the legal aid system is not affordable.
+S0035 As set out in Chapter 2 (Introduction), the need to amend the legal aid financial eligibility arrangements arises from the progressive roll out of Universal Credit.
+S0036 Continuing to passport all recipients of Universal Credit is likely to generate additional cost burdens for the legal aid budget which in the current financial climate are not affordable.
+S0063 Under the current legal aid means tests (described in more detail in Annex C), some legal aid applicants are deemed to be automatically financially eligible for legal aid (without a contribution) if they are in receipt of certain income-based qualifying benefits. ** (Reference: 1)
+S0064 This system of using receipt of qualifying benefits, known as “passporting”, allows the Legal Aid Agency (LAA) and providers to make use of information already collected by the Department for Work and Pensions (DWP) thereby avoiding administrative duplication.
+S0065 These income-based qualifying benefits have been historically used to passport applicants through the income means tests for both civil and criminal legal aid and through the capital means test for criminal legal aid. ** (Reference: 2)
+S0066 As a short term measure, the relevant legal aid regulations setting out the means tests included Universal Credit as a passporting benefit with effect from April 2013.
+S0068 The above diagram shows the legal aid qualifying benefits for passporting since April 2013 and the benefits that Universal Credit replaces.
+S0069 As can be seen, Universal Credit replaces a wider scope of benefits than were historically passported to non-contributory legal aid prior to April 2013, specifically, Tax Credits, which includes Working Tax Credit and Child Tax Credit, and housing benefit.
+S0070 Continuing with the current arrangements would eventually result in a significant pressure on the legal aid fund.
+S0071 It is estimated that this could result in an additional cost of £14m per year for the legal aid fund. ** (Reference: 3)
+S0072 Alongside the financial implications, if we continue to passport all Universal Credit recipients with income, we would be putting at a disadvantage those who may be in receipt of a similar level of income but are not in receipt of Universal Credit.
+S0073 Resources are not limitless and the means test must ensure that legal aid is targeted at those most in need.
+S0095 As set out in 2.2 above, Universal Credit means that the current system of passporting those on specific qualifying benefits, including Universal Credit, will not be financially sustainable in the long term.
+S0096 Universal Credit replaces a wider scope of benefits than are currently passported.
+S0097 Continuing to passport to all those in receipt of Universal Credit would eventually result in significant pressure on the legal aid fund, estimated at an additional £14m per annum in steady state.
+S0099 In addition, continuing to passport on the basis of receipt of Universal Credit is likely to lead to a substantial disparity in terms of financial eligibility for legal aid between those in receipt of Universal Credit and those in low-paid employment who are subject to the full means test.
+S0100 Universal Credit has been designed to support people back into work and is available to some households with average (rather than very low) incomes.
+S0101 Universal Credit has been designed to improve work incentives by making sure that recipients will always be better off in work.
+S0102 Universal Credit payments will be gradually reduced at the rate of 65p for every £ earned (63p from April 2017).
+S0103 Universal Credit recipients may in some circumstance also be entitled to a work allowance (an amount that can be earned before Universal Credit payments are affected).
+S0104 Therefore, Universal Credit recipients could be in receipt of household income that exceeds the upper eligibility thresholds for legal aid.
+S0105 If we continue to passport all recipients of Universal Credit, some households in this group will have an advantage in terms of financial eligibility over those not in receipt of Universal Credit.
+S0106 This does not meet the policy objective of targeting legal aid at those most in need.
+S0108 Therefore a solution is required that will make sure that legal aid is targeted at those that need it most and ensure minimal additional costs to the taxpayer.
+S0272 Universal Credit was introduced in 2013 in some parts of the country, and is now available to single people in all Jobcentres in Great Britain.
+S0273 Universal Credit is continuing to expand to all claimant types nationally.
+S0274 It replaces six existing welfare payments: Working Tax Credit; Child Tax Credit; Housing Benefit; Income Support; Income Related Job Seekers Allowance; Income Related Employment and Support Allowances (referred to as "legacy UC benefits").
+S0275 The Department for Work and Pensions (DWP) currently expect that the roll out will be complete by September 2018 and that the legacy UC benefits will have been phased out by March 2022.
+S0276 Under the current legal aid system, receipt of certain benefits are used as an administrative shortcut for 'passporting' applicants through the financial means tests to receive non-contributory legal aid.
+S0277 These benefits are: Income Support, income-based Jobseeker's Allowance, income-related Employment and Support Allowance and State Pension Guarantee Credit (referred to as 'legacy passporting benefits') and from 2013, included Universal Credit.
+S0278 All legal aid applicants in receipt of Universal Credit have been passported since the benefit was introduced.
+S0279 This was a short term measure, on the understanding that we would revisit this decision in due course.
+S0287 Universal Credit replaces a wider scope of benefits than are currently passported.
+S0288 The Government does not think that continuing to passport recipients of Universal Credit will be financially sustainable in the long term because of the number of additional legal aid claimants who would be eligible for non-contributory legal aid.
+S0289 In addition, continuing to passport on the basis of receipt of Universal Credit is likely to lead to a substantial disparity in terms of financial eligibility for legal aid between those in receipt of Universal Credit and those in low-paid employment who are subject to the full means test.
+S0290 Universal Credit has been designed to improve work incentives by making sure that recipients will always be better off in work.
+S0291 Universal Credit payments will be gradually reduced at the rate of 65p for every pound earned (63p from April 2017).
+S0292 Universal Credit recipients may, in some circumstances, also be entitled to a work allowance (an amount that can be earned before Universal Credit payments are affected).
+S0293 Therefore, Universal
+S0294 Credit recipients could be in receipt of a household income that exceeds the upper eligibility thresholds for legal aid that are applied to individuals not in receipt of Universal Credit, yet may automatically qualify for non-contributory legal aid.
+S0295 If we continue to passport recipients of Universal Credit, this group may have an advantage in terms of financial eligibility over those not in receipt of the benefit and so does not meet the policy objective of targeting legal aid at those most in need.
+S0313 However, as was stated above, since Universal Credit continues to expand, and includes more benefits than we currently passport, more people will become eligible for passporting if we do nothing.
+S0314 In the absence of government intervention, this will increase spend on legal aid.
+S0315 Using our modelling approach, we estimate that continuing to passport all individuals applying for legal aid in receipt of Universal Credit will cost an additional £14m per year in steady state once the rollout is complete, compared to what we would expect to spend if Universal Credit had not been made a passporting benefit.
+S0316 Note that due to DWP's roll out of UC and the billing of legal aid, it will take some time to reach steady state, but cost will be incurred progressively.
+S0317 Sensitivity analysis of our key modelling uncertainty suggests a range around this of £9m to £20m. This is against our stated policy objective of minimising additional costs to the taxpayer, and our preferred option would mitigate much of this expenditure.
+S0354 However, Universal Credit was added to the list of passporting benefits in April 2013 as a temporary solution.
+S0355 We fully expected legal aid fund costs to increase and that an amendment would be required as Universal Credit was expanded.
+S0356 The do-nothing option will not result in a level baseline, as Universal Credit is expanded.

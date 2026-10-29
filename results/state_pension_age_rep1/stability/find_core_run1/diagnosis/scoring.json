@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rising life expectancy and time spent in retirement",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Figures on life expectancy at 65 (13\u00bd, 18\u00bd, 21 years; 23%, 29%, 32%) cite ONS data (Refs 5, 12, 13, 19, 26, 27) and DWP calculations/analysis (Refs 21, 28) with the ONS basis stated, and the document acknowledges 'life expectancy projections are uncertain, and more so over longer projection periods' and the 1940-1990 outturn."
+    },
+    {
+      "theme": "Demographic shift and pay-as-you-go pressure",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Pensioner numbers (12.4m to 16.9m) and the old age dependency ratio (301 to 375 per 1,000) are cited to ONS projections (Refs 7, 8, 29) and clearly linked to pay-as-you-go pressure, but this theme has no assessment of the strength or uncertainty of those projections (uncertainty caveats sit in other themes and concern life expectancy)."
+    },
+    {
+      "theme": "Rising State Pension and age-related spending",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The 1% of GDP rise (5.2% to 6.2%), \u00a3725 per household and the OBR figures of 7.6%/7.1% and 7.9% of GDP are cited to the independent review and OBR (Refs 9, 30, 31, 32), though the age-related spending lines (7.9%, 5.7%, 0.9%, 2.1%) carry no reference and no uncertainty on the spending projections is discussed."
+    },
+    {
+      "theme": "Past delay and uncertainty in projections",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "The Pensions Commission recommendation is cited (Ref 20) and the document explicitly assesses uncertainty, noting 'considerable uncertainty in future life expectancy projections' and the Government Actuary's finding that 2012-based rather than 2014-based projections would bring forward the rise to 68 by 5 years, though some historical claims are uncited."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Mostly descriptive background on legislative timetables and general assertions (e.g. 'considerable recent improvements in life expectancy') with no evidence or citations."
+    }
+  ],
+  "reasoning": "The diagnosis rests on four core themes. 'Rising life expectancy and time spent in retirement' reaches level 3: it gives figures such as 'a 65-year-old could expect to spend 13\u00bd years, or 23%' in 1948 rising to 32% by 2007, cites ONS tables (Refs 5, 12, 13, 19) and DWP calculations/analysis (Refs 21, 28), and acknowledges that 'life expectancy projections are uncertain, and more so over longer projection periods', with the 1940-1990 outturn as context. 'Past delay and uncertainty in projections' also reaches 3, because the document names the Government Actuary's sensitivity result (2012- versus 2014-based projections bringing the rise to 68 forward by 5 years) and cites the Pensions Commission (Ref 20). 'Demographic shift and pay-as-you-go pressure' reaches 2: the 301 to 375 pensioners per 1,000 figure is tied to ONS projections (Refs 7, 8, 29) and to the pay-as-you-go mechanism, but the projections are not assessed. 'Rising State Pension and age-related spending' reaches 2: the 1% of GDP and \u00a3725 per household figures cite the independent review and OBR (Refs 9, 30, 31), but the 7.9% age-related spending lines carry no reference and the spending projections are not assessed. The mean of the core levels is (3+3+2+2)/4 = 2.5, which rounds down to 2. The strongest counter-example for a higher score is the explicit uncertainty discussion, but it covers only life expectancy, not the demographic or spending projections. To reach level 3, the document would need to assess the strengths and limits of the dependency ratio and OBR spending projections, and cite the uncited age-related spending figures.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.5,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,24 @@
+<root>
+<theme sentences="1" weight="core">
+<name>Complex fares system undermining trust</name>
+<claim>The fares system is complicated and hard to navigate, which damages passengers' trust in the railway.</claim>
+<text>
+<line id="S0003">We also recognise that the fares system is complicated and hard to navigate, and the impact this has on people’s trust in the railway.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="core">
+<name>Historical origins of complexity</name>
+<claim>The complexity has built up over time, so undoing it will take time and must avoid significant costs for passengers or taxpayers.</claim>
+<text>
+<line id="S0081">The complexity of the current fares system has developed over time, and it will take time to undo this in a way that doesn’t carry significant costs for passengers or taxpayers.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

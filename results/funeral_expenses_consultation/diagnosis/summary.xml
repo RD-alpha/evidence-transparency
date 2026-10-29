@@ -1,0 +1,69 @@
+<root>
+<theme sentences="6" weight="core">
+<name>Eligibility rules that wrongly exclude applicants</name>
+<claim>Current regulations deny or reduce payments in ways that do not fit applicants' circumstances, such as treating a care-home relative on local authority funding as the responsible person and ignoring non-exclusive burial plots.</claim>
+<text>
+<line id="S0040">4.2 Exceptions for people living in care homes To be awarded a Funeral Payment an applicant must be the responsible person for organising the funeral of the deceased.</line>
+<line id="S0041">The applicant will not receive a Funeral Payment if the deceased has another immediate relative who is not currently receiving qualifying benefits from DWP .</line>
+<line id="S0042">In a small number of cases, applicants have been denied a Funeral Payment because the deceased had another immediate relative, but this relative was in a care home and receiving funding from their local authority therefore not receiving a qualifying benefit from DWP .</line>
+<line id="S0043">Under the current regulations we would assign this relative the responsibility of funding the funeral, despite the fact that they are in a care home and receiving income-assessed funding from their local authority and therefore unlikely to be able pay for the funeral.</line>
+<line id="S0059">The use of the phrase ‘exclusive rights of burial’ in regards to a burial plot has meant that we have so far only paid for the burial plots which have been granted exclusively to a single owner.</line>
+<line id="S0060">This is an issue because some people opt for burial plots that are non-exclusive, where other people can be buried inside them by the landowner.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="core">
+<name>Deduction of third-party contributions</name>
+<claim>Current regulations deduct contributions from charities, friends and relatives from the Funeral Payment regardless of the total funeral cost.</claim>
+<text>
+<line id="S0035">4.1 Contributions from charities, friends and relatives We ask applicants to declare any contributions towards the costs of the funeral that they have received from charities, friends and relatives.</line>
+<line id="S0036">Under the current regulations we then deduct the value of these contributions from the Funeral Payment that we make, regardless of the total cost of the funeral.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="5" weight="core">
+<name>Burdensome and slow claims process</name>
+<claim>The 3-month deadline with no discretion, the 22-page form and the ban on electronic evidence make claiming difficult and slow for bereaved applicants and funeral directors.</claim>
+<text>
+<line id="S0047">4.3 Extending the claim period from 3 to 6 months Currently applicants must submit their application for a Funeral Payment within 3 months of the date of the funeral.</line>
+<line id="S0048">If they do not submit an application within this period then their claim is rejected regardless of the circumstances.</line>
+<line id="S0052">4.4 Shorter application forms for children’s funerals The Funeral Payments application form was revised in November 2016 to remove unnecessary questions, but it is still 22 pages long because of the amount of information we need in order to confirm a claimant’s eligibility.</line>
+<line id="S0064">4.6 Electronic submission of evidence The current regulations do not allow applicants to submit supporting evidence for their applications electronically.</line>
+<line id="S0065">This is an issue because funeral directors need to submit their invoices to us to process the payment owed to them or the Funeral Payment’s applicant.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="5" weight="core">
+<name>Prospective medical examiner fees</name>
+<claim>Proposed new medical examiner fees for all deaths would fall outside the current cover for cremation form fees, leaving a gap in what counts as necessary costs.</claim>
+<text>
+<line id="S0068">4.7 Assistance with new death certification fees Currently a fee is payable to medical practitioners for the completion of Cremation Forms where the deceased is going to be cremated.</line>
+<line id="S0069">These forms are not required, and therefore no fee is payable, where the deceased will be buried.</line>
+<line id="S0070">In March 2016, the Department of Health published a consultation on the Introduction of Medical Examiners and Reform to Death Certification in England and Wales.</line>
+<line id="S0071">It proposed introducing a unified system of scrutiny by independent medical examiners of all deaths in England and Wales that are not investigated by a coroner and also proposed that this medical examiner service would be funded by a fee payable by the public.</line>
+<line id="S0072">The government has not yet published its response to this consultation.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<ungrouped sentences="1">
+<text>
+<line id="S0058">4.5 Clarifying exclusive rights of burial Terminology in the current regulations has led to some confusion about what Funeral Payments cover as the necessary costs of a funeral.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</ungrouped>
+</root>

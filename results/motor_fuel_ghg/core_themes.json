@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Transport emissions and climate targets",
+        "claim": "Transport is the largest emitting UK sector (about a quarter of emissions) and rising, so decarbonising it more rapidly is essential to meet the 2050 target and the Carbon Budgets."
+      },
+      {
+        "name": "Continued reliance on liquid fuels",
+        "claim": "Even with ultra-low emission vehicle uptake, liquid fuels will remain dominant to 2030 and beyond (notably aviation and freight), so reducing the life cycle emissions of fossil and renewable fuels is essential."
+      },
+      {
+        "name": "EU Fuel Quality Directive 6% obligation and the gap",
+        "claim": "The amended FQD requires suppliers to cut fuel life cycle GHG intensity by 6% by 2020 (about 10 MtCO2e), and RTFO biofuels alone are projected to fall short of this, leaving a gap of about 2.5 MtCO2e."
+      }
+    ],
+    "note": "Diagnosis is mostly a statement of legal commitments, emissions scale and projected shortfall, with limited discussion of evidence strength."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "GHG obligation with tradeable credits",
+        "claim": "A 6% GHG reduction obligation on fuel suppliers, phased 2%, 4%, 6% over 2018-20 and met through tradeable GHG credits running parallel to the RTFO, is the preferred mechanism because it gives flexibility and cost effectiveness, a gradual lead-in for industry, and avoids the risks of the single-scheme and higher 10% target alternatives."
+      },
+      {
+        "name": "Upstream emission reductions as cost-effective savings",
+        "claim": "Upstream emission reductions, mainly from reduced flaring and venting of associated gas, are the cheapest way to deliver the savings biofuels cannot, given large global potential, though their additionality is uncertain and the scheme must be designed to secure genuine savings."
+      },
+      {
+        "name": "Buy-out price and cost-benefit case",
+        "claim": "A mid-range buy-out price of £74/tCO2 (option 2b), aligned with the non-traded carbon value, caps pump price impact at 0.42ppl and balances cost against delivery risk, being preferred over the low and high price and one-year options."
+      },
+      {
+        "name": "Wider eligible fuels and industrial opportunity",
+        "claim": "Crediting electricity in electric vehicles, renewable aviation fuel and non-biological renewables such as hydrogen, together with fuels reporting and transparency measures, supports hard-to-electrify sectors, builds a domestic low-carbon fuels industry and improves information on fossil fuel carbon intensity."
+      }
+    ],
+    "note": "The proposal is a package of related measures; the cost-benefit analysis of six options with wide additionality ranges carries much of the justification."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Joint administration and alignment with the RTFO",
+        "claim": "Delivering the scheme in parallel with the RTFO through the same Administrator, IT system, single applications and aligned calendar-year deadlines minimises administrative burden on suppliers."
+      },
+      {
+        "name": "UER standards, verification and anti-double-counting",
+        "claim": "UER credits will be delivered by legislating core criteria and verifying projects against ISO standards, with remaining details such as baselines, verifier appointment and chain of custody left to national guidance and further consultation, to ensure additionality and prevent multiple claiming."
+      },
+      {
+        "name": "Electricity supplier data and reporting approach",
+        "claim": "Electricity suppliers will claim credits using metered data supplemented by estimates obtained from charge point operators and verified independently, chosen over a market-share allocation because it is fairer and passes reward to infrastructure."
+      },
+      {
+        "name": "Compliance, penalties and proportionate reporting",
+        "claim": "Enforcement through civil penalties and credit revocation modelled on the RTFO, plus exemptions and simplified reporting for small suppliers and where origin data is unavailable, keeps compliance effective yet proportionate."
+      }
+    ],
+    "note": "Many implementation details are explicitly deferred to later national guidance or the parallel RTFO consultation."
+  }
+}

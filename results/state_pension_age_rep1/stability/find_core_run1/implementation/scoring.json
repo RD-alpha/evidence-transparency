@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Ten years' notice and communication",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The ten-year notice commitment and communications strategy lines (e.g. 'We will also seek to provide a minimum of ten years\u2019 notice') are commitments and reasoning with no statistic, finding or source, and the reference to Cridland's recommendation is not evidence of what it shows."
+    },
+    {
+      "theme": "Wider package of support for saving, working and those who cannot work",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only the benefit spending figure of around \u00a350 billion (Reference: 42, DWP benefit expenditure tables) is offered as evidence, and it is cited but only loosely linked to the claim, while the rest are commitments to future assessment."
+    },
+    {
+      "theme": "Review and legislative process",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The Government Actuary's 32.0%/33.3% timetables and the Independent Reviewer's report (Pensions Act 2014 requirement) are described, but there is no reference or link and the method behind the actuary's analysis is not explained, so the evidence stays at level 1."
+    }
+  ],
+  "reasoning": "All three themes are core, so the section score is the mean of their levels. 'Ten years' notice and communication' reaches level 0: the lines 'We will also seek to provide a minimum of ten years\u2019 notice' and the communications strategy bullets are commitments and reasoning. Nothing shows that ten years is the right notice period, and the statement that 'in practical terms individuals need time to prepare' is asserted without evidence. 'Wider package of support' reaches level 1: the only evidence is 'Current spending on benefits to support disabled people and people with health conditions is around \u00a350 billion a year' (Reference: 42), a cited DWP source. However, it is not clearly linked to how the support package will be delivered, and the other lines only promise future assessment. 'Review and legislative process' reaches level 1: the Government Actuary's report showing 'up to either 32.0% or 33.3%' of adult life in receipt, and the 2028 to 2064 timetables, are the department's own commissioned analysis. The extract gives no reference, link or description of the actuary's method and assumptions, and it does not assess uncertainties in the projections beyond noting that life expectancy projections could change. Mean = (0+1+1)/3 = 0.67, which rounds to 1. The strongest counter-example is that the review theme could be viewed as level 0, since the legislation and reports are described mainly as process rather than as evidence for the chosen timing. To reach level 2, the document would need to cite the actuary's and Cridland's reports with references or links, explain how their results justify the timing of the rise to 68 and the ten-year notice, and give evidence supporting the notice period and the support measures.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

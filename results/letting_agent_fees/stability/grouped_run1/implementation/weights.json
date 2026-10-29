@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Legislative Introduction and Implementation",
+      "reason": "States that primary legislation is the chosen vehicle for delivering the ban, which is the foundational method of implementation; without this the case for how the policy will actually be rolled out has no delivery mechanism.",
+      "weight": "core"
+    },
+    {
+      "theme": "Deposits and Financial Burden on Tenants",
+      "reason": "This is a related but separate exploratory policy strand (deposit reform) rather than part of how the fee ban itself is implemented; the implementation argument for the fee ban does not depend on it.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Permitted Fees, Charges and Discrimination Risks",
+      "reason": "Defines what counts as a permitted charge versus a banned fee (holding deposits, service charges, tenant passports), which is essential to making the ban operable in practice and addresses discrimination risk, a key should-explain point.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enforcement Framework and Local Authority Role",
+      "reason": "Establishes the core enforcement mechanism (Trading Standards/local authorities) without which the ban could not be implemented or given effect.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant Empowerment and Education",
+      "reason": "Supports enforcement by relying on tenant awareness and challenge, but this is a supplementary tool layered on top of the core enforcement framework rather than a mechanism the implementation case could not stand without.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Data Sharing, Lead Enforcement Authority and Further Regulation",
+      "reason": "Explores optional enhancements and alternative enforcement structures (lead authority, data sharing, wider regulation) as possibilities still being considered, supplementing rather than underpinning the basic implementation plan already set by local authority enforcement.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Penalties and Offences for Non-Compliance",
+      "reason": "Establishes the consequences for breaching the ban (civil penalties, possible criminal offence/banning order), which is essential to giving the enforcement framework teeth and addresses the should-explain point on costs/benefits of different deterrent levels.",
+      "weight": "core"
+    }
+  ]
+}

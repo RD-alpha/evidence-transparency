@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Widening the control definitions to cover significant influence and joint control",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines only state the aim ('closes the gaps', 'ensure promoters cannot reorganise') and reproduce the draft legislation and explanatory notes, with no data, cases or findings showing the gap exists or that 'significant influence' will close it, and no references."
+    },
+    {
+      "theme": "Deterrence of avoidance through promoter behaviour",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines assert that the changes 'deter the use of avoidance schemes through influencing the behaviour of promoters' as a policy objective, with no evidence or references."
+    },
+    {
+      "theme": "Limited impacts and costs",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements such as 'not expected to have additional Exchequer impact' and 'no significant operational impact' are bare assertions with no figures, assumptions or analysis shown, and the reference to the original Budget 2013 costing is not cited."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line says the amendments are consequential and will not change how the paragraphs operate, which is an assertion with no evidence."
+    }
+  ],
+  "reasoning": "All three core themes sit at level 0, so the mean is 0 and the section scores 0. The first theme, widening the control definitions, is mostly draft legislation and explanatory notes. It says the amendments will 'ensure promoters cannot reorganise their business so that they put a person or persons between themselves and the promoting business', but it gives no cases, data, consultation responses or findings showing how promoters have done this or how often. The legislation text describes what the measure does and is not evidence that it will work. The deterrence theme asserts that 'the changes to this legislation deter the use of avoidance schemes through influencing the behaviour of promoters, their intermediaries and clients'. It offers no evidence of past deterrent effects from POTAS. The impacts theme says 'This measure is not expected to have additional Exchequer impact' and 'no significant operational impact', with no figures or assumptions. It mentions the 'original Budget 2013 costing for POTAS' without a reference or link. The strongest counter-example is that the Budget 2013 costing mention gestures at an existing costing. It is named only in passing and is not tied to a result, so it does not reach level 1. To reach level 1, the document would need to give evidence of the circumvention it describes, such as cases or HMRC data on promoters restructuring, and explain how that evidence led to adding 'significant influence'. To reach level 2 it would also need to cite that evidence.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

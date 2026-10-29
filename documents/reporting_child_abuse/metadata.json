@@ -1,0 +1,63 @@
+{
+  "title": "Reporting Child Abuse",
+  "alias": "reporting_child_abuse",
+  "uploaded_at": "2026-10-06T16:39:45.992829+01:00",
+  "uploaded_date": "2026-10-06",
+  "uploaded_time": "16:39:45 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "reporting_child_abuse_consultation",
+      "title": "Reporting Child Abuse Consultation",
+      "sentence_count": 527,
+      "first_sentence": "S0001",
+      "last_sentence": "S0527",
+      "reference_count": 4,
+      "first_reference": "1",
+      "last_reference": "4",
+      "link_count": 4
+    },
+    {
+      "alias": "reporting_child_abuse_ia",
+      "title": "Reporting Child Abuse IA",
+      "sentence_count": 869,
+      "first_sentence": "S0528",
+      "last_sentence": "S1396",
+      "reference_count": 48,
+      "first_reference": "5",
+      "last_reference": "52",
+      "link_count": 0
+    },
+    {
+      "alias": "reporting_child_abuse_annex",
+      "title": "Reporting Child Abuse Annex",
+      "sentence_count": 571,
+      "first_sentence": "S1397",
+      "last_sentence": "S1967",
+      "reference_count": 85,
+      "first_reference": "53",
+      "last_reference": "137",
+      "link_count": 24
+    },
+    {
+      "alias": "reporting_child_abuse_rpc",
+      "title": "Reporting Child Abuse RPC",
+      "sentence_count": 45,
+      "first_sentence": "S1968",
+      "last_sentence": "S2012",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 0
+    }
+  ],
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "combined_government_response",
+    "type_listed_in_2018_appendix": "consultation + annexes + impact assessment + RPC opinion",
+    "matches_2018_listed_source": "partial",
+    "basis": "The \"consultation\" part (reporting_child_abuse_consultation) is dated 05 March 2018 and contains \"Summary of responses and conclusions\" and \"Government response\" (S0001, S0008-S0009); it is the outcome report, which postdates the 9 January 2018 access date. IA, annex and RPC opinion were not checked.",
+    "source_check": "Listed document(s) retrieved on 2026-10-08 and compared with the ingested text: Component check: consultation part 3% found in the listed consultation PDF (file 539641); annex 91%, impact assessment 95% and RPC opinion 98% found in the listed files."
+  }
+}

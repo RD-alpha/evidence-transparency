@@ -1,0 +1,41 @@
+{
+  "title": "Night Flight Combined",
+  "alias": "night_flight_combined",
+  "uploaded_at": "2026-10-01T13:31:23.889673+01:00",
+  "uploaded_date": "2026-10-01",
+  "uploaded_time": "13:31:23 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "night_flight_decision",
+      "title": "Night Flight Decision",
+      "sentence_count": 537,
+      "first_sentence": "S0001",
+      "last_sentence": "S0537",
+      "reference_count": 23,
+      "first_reference": "1",
+      "last_reference": "23",
+      "link_count": 3
+    },
+    {
+      "alias": "night_flight_impact_assessment",
+      "title": "Night Flight Impact Assessment",
+      "sentence_count": 1291,
+      "first_sentence": "S0538",
+      "last_sentence": "S1828",
+      "reference_count": 90,
+      "first_reference": "24",
+      "last_reference": "113",
+      "link_count": 4
+    }
+  ],
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "combined_government_response",
+    "type_listed_in_2018_appendix": "consultation + impact assessment",
+    "matches_2018_listed_source": "partial",
+    "basis": "Combined from night_flight_decision (government response following the consultation, S0026), plus the impact assessment. Appendix 2 lists the consultation itself. The impact assessment ingested is also a different version from the one listed (Final, 12/07/17, against consultation stage, 16/11/2016).",
+    "source_check": "Listed document(s) retrieved on 2026-10-08 and compared with the ingested text: Component check: night_flight_decision 11% found in the listed consultation PDF; night_flight_impact_assessment 21% found in the listed IA (listed IA is the consultation-stage IA dated 16/11/2016; the ingested IA is the Final IA dated 12/07/17, RPC17-3554(2))."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Academic and Cognitive Benefits",
+      "reason": "Explains why modern language study is valued as a subject in its own right, forming part of the rationale for why the government has chosen to specify this content as the intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Skills Development and Transferable Competencies",
+      "reason": "Details the specific transferable skills the specification aims to produce, directly justifying the design choices behind the proposed content and why this intervention was chosen over alternatives.",
+      "weight": "core"
+    },
+    {
+      "theme": "Educational Relevance and Access",
+      "reason": "Addresses why the content is designed to suit all students regardless of further study plans, supporting the rationale for the chosen scope of the intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Foundation for Advanced Study",
+      "reason": "A brief supporting point noting the qualification prepares students for degree-level study, adding to but not being the central basis of the proposal's rationale.",
+      "weight": "not core"
+    }
+  ]
+}

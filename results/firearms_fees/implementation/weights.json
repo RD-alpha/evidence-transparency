@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "Fees set by secondary legislation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Review of fees and efficiency savings",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

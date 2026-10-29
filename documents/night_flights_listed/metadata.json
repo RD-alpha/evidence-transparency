@@ -1,0 +1,40 @@
+{
+  "title": "Night flight restrictions (listed sources)",
+  "alias": "night_flights_listed",
+  "uploaded_at": "2026-10-08T17:53:17.021706+01:00",
+  "uploaded_date": "2026-10-08",
+  "uploaded_time": "17:53:17 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "night_flights_consultation_listed",
+      "title": "Night flight restrictions consultation (listed source)",
+      "sentence_count": 897,
+      "first_sentence": "S0001",
+      "last_sentence": "S0897",
+      "reference_count": 56,
+      "first_reference": "1",
+      "last_reference": "56",
+      "link_count": 12
+    },
+    {
+      "alias": "night_flights_ia_listed",
+      "title": "Night flight restrictions impact assessment, consultation stage (listed source)",
+      "sentence_count": 1114,
+      "first_sentence": "S0898",
+      "last_sentence": "S2011",
+      "reference_count": 61,
+      "first_reference": "57",
+      "last_reference": "117",
+      "link_count": 3
+    }
+  ],
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "consultation_invitation",
+    "source_documents": 2,
+    "matches_2018_listed_source": "yes",
+    "basis": "Consultation + consultation-stage impact assessment (both listed). Ingested from the files Appendix 2 links to (verified by retrieval)."
+  }
+}

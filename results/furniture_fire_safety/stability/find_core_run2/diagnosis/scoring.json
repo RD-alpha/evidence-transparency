@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Outdated match test drives excess FR use",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The theme gives a detailed mechanistic explanation of why the match test over-drives FR use (e.g. 'cover fabric is placed directly against a block of highly flammable polyurethane test foam' and 'most modern furniture contains a fibre wrap...'), but this is asserted description rather than a cited study, and the only citation attached (Reference 4, an ONS business survey on SIC codes) is unrelated to the causal claim."
+    },
+    {
+      "theme": "Health and environmental harm from flame retardants",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Harms are described with some specificity ('endocrine disruption, immunotoxicity, cancer...', 'US fire fighters have high rates of cancers...') but sources are only pointed to generically via Reference 2 and 11 ('see Annex for sources'), so the claims are explained but not properly linked to a findable source."
+    },
+    {
+      "theme": "Scope ambiguity and weak traceability undermine enforcement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The sofa/scatter-cushion example and the traceability gap are illustrative reasoning with no empirical evidence of scale or effect, and the attached Reference 6 (about UK test-house cost savings) does not actually support this claim."
+    },
+    {
+      "theme": "Existing regime's safety record must be preserved",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim is backed by specific, named, cited evidence - 'A BIS-commissioned report in 2009 shows... saving around 54 lives, preventing around 800 injuries and over 1,000 fires... valued at around \u00a3140m per year' with Reference 1 identifying the Greenstreet Berman Ltd study - which is properly linked to the claim, though no limitations are discussed."
+    }
+  ],
+  "reasoning": "The diagnosis rests on four core themes. 'Outdated match test drives excess FR use' (level 1) explains the test mechanism in detail but cites nothing relevant to its causal claim - Reference 4 is an unrelated ONS business survey. 'Health and environmental harm' (level 1) offers substantive findings ('endocrine disruption...', fire-fighter cancer rates) but only points generically to 'Annex for sources' (References 2, 11), so a reader cannot trace specific claims to specific sources. 'Scope ambiguity and weak traceability' (level 0) relies on a hypothetical illustration (sofas with scatter cushions) and asserts a traceability gap with no supporting data, and its attached Reference 6 is irrelevant. 'Existing regime's safety record' (level 2) is the strongest: it cites a named BIS-commissioned 2009 Greenstreet Berman report giving specific figures (54 lives, 800 injuries, 1,000 fires, \u00a3140m/year) directly supporting the claim. The mean of (1,1,0,2)=1, giving a section score of 1. The strongest counter-example against raising the score is the safety-record theme's clear, well-cited figures, which on its own would reach level 2-3; but the other three core themes drag the mean down because their key causal claims (test driving FR overuse, scope ambiguity harming enforcement) are argued rather than evidenced. To reach level 2 overall, the document would need to cite specific, traceable studies or data for the match-test mechanism and the chemical-harm findings, and provide some empirical basis (e.g. enforcement case data) for the scope/traceability problem.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

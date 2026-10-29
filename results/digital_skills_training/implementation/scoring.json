@@ -1,0 +1,22 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Delivery through existing providers and budget",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line stating courses will be delivered by colleges and other providers and funded from the existing Adult Education Budget is a description of the delivery plan with no evidence, citation, or cost figure offered for why this route was chosen."
+    },
+    {
+      "theme": "Consultation on details",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The line that government will consult on details in the coming months only states an intention to consult, with no method, timetable, or evidence for how the details will be decided."
+    }
+  ],
+  "reasoning": "The extract has two core themes, and neither offers any evidence. \"Delivery through existing providers and budget\" (level 0) states that \"Courses will be delivered by colleges and other adult education providers, and training will be funded from the existing Adult Education Budget.\" This describes the delivery method but gives no grounds for choosing it: no statistic, research finding, comparable policy, or cost estimate. It does not say whether alternatives were considered or whether the Adult Education Budget can absorb the extra demand. \"Consultation on details\" (level 0) says only that \"Government will consult on the details of this new offer in the coming months.\" This does show the details are still undecided, which the framework wants acknowledged. But it gives no method for deciding: who will be consulted, what they will be asked, when, or how responses will shape the outcome. A commitment to consult is a statement of intent, not evidence. Neither theme carries any references or links. The mean of the core levels is (0+0)/2 = 0, so the section scores 0. The strongest counter-example is that the consultation line is honest about uncertainty, and a generous reader might give it partial credit for transparency. Even so, it supplies no evidence, so it stays at 0. To reach level 1, the document would need to offer some evidence for choosing existing providers and the current budget, such as provider capacity data, costs, or experience from earlier skills programmes. It would also need to set out how the consultation will work. Citing the sources would then be the step towards level 2.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

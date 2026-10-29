@@ -1,0 +1,1092 @@
+S0024 That is why introducing fair funding was a key manifesto commitment.
+S0026 The response we received to our first consultation, and the vision, principles and proposed structure and funding factors for the national funding formulae that it set out, demonstrated that the unfairness of the current system and the case to reform it are widely accepted.
+S0034 A fairer funding system will help to provide all schools with the resources needed to ensure an excellent education for all pupils.
+S0035 The national funding formula will help schools to manage cost pressures, by directing resources where they are most needed and by creating greater certainty and transparency in the funding system to allow schools to plan ahead with confidence.
+S0038 Funding every school using the national funding formula will mean a fair settlement for each school.
+S0039 The formula will determine whether, and to what extent, schools are due to gain funding or will need to adjust to a lower level of funding.
+S0040 We have always been clear that a fairer system will require some redistribution.
+S0055 The proposals outlined in this consultation are based on the total national core schools budget available up to 2019-20.
+S0056 They make no assumption of any further change in the funding available after 2019-20, which will be determined through future spending reviews.
+S0060 1.2 In the first stage consultation, we proposed the principles that should underpin funding reform and the structural changes needed to allocate funding directly to schools from 2019-20.
+S0061 We proposed that the building blocks of the national funding formula for schools should be basic per-pupil funding, additional needs funding, school-led funding and geographic funding.
+S0062 1.3 Following the first stage consultation, figure 1 shows the 13 factors that we are now confirming will be included in the national funding formula for schools.
+S0063 Figure 1: The building blocks and factors in the national funding formula for schools 1. Having established the factors that will be included in the formula, we are now putting forward detailed proposals for the relative weighting of each factor, and therefore the per-pupil unit values we have used to work out schools’ estimated funding levels under the proposed formula. ** (Reference: 3)
+S0064 Our starting point for developing the formula weightings has been the collective formulae used by local authorities to distribute funding to schools.
+S0065 This represents the conclusions made over a number of years by local authorities and their schools forums; and in many instances there are similarities between the choices made locally.
+S0067 Looking at national averages can only be a starting point.
+S0069 1.6 We have also looked at the best available evidence on the impact of resources on outcomes.
+S0070 The formula we propose is grounded in the current distribution of funding, but includes a number of proposals to vary from that where we believe doing so would better support fairness and opportunity for all.
+S0071 In particular, we propose increasing total spend on the additional needs factors, and recognising disadvantage in a broader sense, including targeting more resource towards schools serving the just managing group.
+S0074 In summary, our proposed formula will mean that every school is funded on a consistent and fair basis, with significant additional funding following the pupils who are likely to need the most support.
+S0077 1.8 In constructing the national funding formula, our starting point has been the formulae used by local authorities to distribute funding to schools.
+S0078 Key parts of the formula are anchored in the average allocation of funding through factors in the current system, and deliberately so.
+S0080 We have sought to learn from this process and take account of the decisions that local authorities have made, collectively, over the years. ** (Reference: 2)
+S0081 1.9 Since local formulae were simplified in 2013-14, and the Department has collected formula data on a consistent basis, we have been able to monitor the ratio in funding between the primary and secondary phases.
+S0082 Over this period, the average primary to secondary ratio has remained relatively stable and some areas have – as encouraged in our operational guidance – chosen to move their ratio towards the national average, which is 1:1.29 in 2016-17 (which means funding per pupil is on average 29% higher overall in the secondary phase than in the primary phase).
+S0083 1.10 Local authorities distribute the vast majority of funding through pupil-led factors.
+S0084 While regulations require them to allocate at least 80% of funding to these factors, all local authorities go further, distributing 90% on average.
+S0085 This tells us that significant investment in pupil-led factors helps get funding to the right place, and we have reflected this in the national formula.
+S0086 1.11 Pupil-led factors are made up of the age-weighted pupil unit (AWPU, which we refer to in this consultation as ‘basic per-pupil funding’) and the additional needs factors.
+S0087 We ask local authorities to set basic per-pupil funding rates of at least £2,000 per pupil at primary and £3,000 at secondary.
+S0088 Again, we see all local authorities going further here, setting the rates at least 10% higher, and on average 49% higher, than the minimum required.
+S0089 1.12 We know that some local authorities – especially those in areas of high deprivation – have chosen to set high basic per-pupil funding rates and distribute very little through the deprivation factor, as a separate factor is less relevant when there are high numbers of pupils with similar deprivation characteristics.
+S0090 This means that there is a significant sum of money which is currently being targeted to pupils from a deprived background, but through basic per-pupil funding.
+S0091 Under the national funding formula, we are proposing to spend more through the additional needs factors than is currently the case in local authority formulae, so that this funding continues to go to schools with pupils from a deprived background.
+S0092 1.13 We have also looked closely at how local authorities currently allocate funding between the additional needs factors for schools with pupils likely to need extra support.
+S0093 It is clear that the deprivation factor should be significant, with 80% of local authorities targeting at least 5% of all funding through it.
+S0094 In total, over £2.4 billion was allocated through the deprivation factor in 2016-17.
+S0095 This is in addition and separate to the funding allocated directly to schools through the pupil premium – worth £2.5 billion in 2016-17.
+S0099 1.15 Local authorities also make considerable use of both the low prior attainment and English as an additional language factors.
+S0100 All but 4 local authorities used the low prior attainment factor in 2016-17, spending £1.4 billion in total.
+S0101 For most authorities, low prior attainment was the main factor contributing to their notional special educational needs (SEN) budget in 2016-17, as in previous years.
+S0102 136 local authorities used the English as an additional language factor in 2016-17, spending £282 million in total.
+S0103 Collectively, local authorities use the mobility factor to a lesser degree than the other additional needs factors, but we heard through the first stage consultation that for those areas it is an important way of getting additional funding to schools with a high proportion of pupils joining the school partway through the academic year.
+S0104 1.16 Although it is an optional factor, all authorities chose to include a lump sum in their formula in 2016-17, as was the case in 2015-16.
+S0107 We do see some consistency when it comes to how local authorities treat primary and secondary schools, with a majority (86) setting lump sums at the same level for primary and secondary; 54 setting a higher secondary lump sum; and 12 setting a higher primary lump sum.
+S0112 In the current system, local authorities can choose which factors to use, which means the number of pupils funded, and therefore the per-pupil amounts, vary widely.
+S0113 For example, a local authority that allocates funding using both free school meals (FSM) eligibility and IDACI is likely to have lower unit values than one that only uses FSM.
+S0114 In the national funding formula, by contrast, all the factors will be used and will be applied consistently to all eligible pupils in every school.
+S0115 The local authority factor values also include the extra resources some local authorities have received as a result of area cost adjustments, whereas the national funding formula unit values do not, as it is more transparent to show this adjustment separately.
+S0116 This means a like for like comparison of current factors and national funding formula factors is not possible, but it is possible to compare total spend and percentage weighting.
+S0117 Figure 2: Summary of local authority spend through formula factors in 2016-17 1. Our proposed formula reflects some of the common decisions local authorities have made over the years. ** (Reference: 18)
+S0118 However, to base the whole formula on local authority averages would be too simplistic.
+S0119 The building of a national funding formula is an opportunity to reflect everything we know about the funding system and the evidence base on the links between funding and attainment.
+S0120 For example, the way some local authorities have channelled their deprivation funding through basic per-pupil funding means that an approach based solely on local authority averages would give a false picture of how much funding is truly allocated on the basis of additional needs.
+S0121 And crucially, when it comes to weighting one factor against another, it is essential that we take stock of the best available evidence about factors that most affect attainment, and reflect it in the decisions we make.
+S0125 • maintain the primary to secondary ratio in line with the current national average • maximise the proportion of funding allocated to pupil-led factors compared to the current funding system, so that as much funding as possible is spent in relation to pupils and their characteristics With regard to basic per-pupil funding, to:
+S0126 • reflect that the majority of funding is used to provide a basic amount for every pupil, but that some of this funding is at present specifically supporting pupils from disadvantaged backgrounds.
+S0127 To do this, we propose increasing the total spend on the additional needs factors in the national funding formula • continue to increase the basic rate as pupils progress through the key stages With regard to additional needs funding, to:
+S0128 • increase total spend on the additional needs factors (socio-economic deprivation, low prior attainment, English as an additional language, and mobility) to recognise that some basic per-pupil funding is currently supporting pupils from disadvantaged backgrounds, and recognise disadvantage in a broader sense • continue to have a substantial deprivation factor, in addition to the pupil premium, to ensure schools with pupils from a socio-economically disadvantaged background attract significant extra funding, and within this:
+S0129 o increase the amount of funding explicitly targeted towards deprivation o include a greater weighting towards areas with high concentrations of just managing families who do not typically qualify for FSM deprivation funding, through the use of a significant area-level deprivation factor (using the Income Deprivation Affecting Children Index, IDACI).
+S0130 This will help to ensure that we are supporting all those whose background may create a barrier to their education, not only those with a history of free school meal (FSM) eligibility • increase substantially the weighting of the low prior attainment factor, because we know that attainment data is one of the strongest indicators of how children are likely to do later, and we want to target funding to schools to help all pupils catch up • continue to have an English as an additional language factor, increased in terms of total spend in comparison to the current system because the national funding formula will fund all eligible pupils consistently • protect local authorities’ spend on the current mobility factor, while we develop a more sophisticated mobility indicator for use in the national funding formula from 2019-20 onwards, as discussed in our response to the stage one consultation With regard to school-led funding, to:
+S0131 • continue to provide every school with a lump sum, but at a lower level than the current national average so that we can direct more funding to the pupil-led factors • provide small and remote schools with additional funding, over and above the lump sum, to recognise that they can face greater challenges in finding efficiencies and partnering with other schools • proceed with our proposal to fund rates and premises factors (PFI; split sites; exceptional circumstances) in 2018-19 on the basis of historic spend, but with an adjustment to the PFI factor so that it is automatically uprated in line with inflation, using the RPIX measure • ** (Reference: 6)
+S0132 proceed with our proposal to fund the growth factor on an historic basis for 2018- 19, and seek views through this consultation on what we think would be a better approach for the long term, using lagged growth data With regard to geographic funding, to:
+S0133 • recognise the higher salary costs faced by some schools, especially in London, by making an area cost adjustment.
+S0134 We will use the hybrid area cost adjustment methodology, which takes into account variation in both the general and teaching labour markets To ensure sufficient stability, we also propose:
+S0135 • to build in an overall ‘funding floor’, so that no school will face a reduction of more than 3% per-pupil overall as a result of this formula And during transition:
+S0148 2.2 A key consideration in designing the national funding formula for schools is the ratio of funding between the primary and secondary phases.
+S0149 The balance in funding between the primary and secondary phases has been relatively stable since the reforms to local funding formulae in 2013-14, with the secondary phase consistently funded higher than the primary phase overall.
+S0150 In 2016-17, no local authority chose to fund primary higher than secondary.
+S0151 Although there are still some significant individual differences from the national average, the average has remained steadily around 1:1. (i.e. secondary funding being on average 29% higher overall than primary funding) and some areas have moved their ratio towards the national average over this period. ** (Reference: 28)
+S0153 By setting a national primary to secondary ratio, we bring primary and secondary schools across the country onto a more equal footing.
+S0154 2.4 Our view is that the present evidence base does not provide a compelling reason for a significant shift in the overall balance of school funding either towards primary or secondary.
+S0155 A recent review of the existing evidence on the impact of investment across phases (Gibbons and McNally, 2013) found that the impact of additional spend is similar across primary and secondary.
+S0156 The review concluded that early investment needs to be backed up by later investment otherwise the impact fades, and that there is no strong case to make significant change to the current balance between the phases. ** (Reference: 10)
+S0157 2.5 We are therefore proposing that the national funding formula should maintain the current national average distribution of funding between the primary and secondary phases.
+S0158 This means that the formula would allocate 29% more funding overall to secondary compared to primary, to reflect the higher costs in the secondary phase.
+S0159 That represents a national ratio across the whole formula.
+S0160 It does not mean that every secondary pupil attracts 29% more funding than every primary pupil – the exact amount each pupil attracts to their school will depend on their characteristics.
+S0162 2.7 Another important decision in designing the national funding formula is the balance between pupil-led factors (the basic per-pupil funding factor and the additional needs factors) and school-led factors (funding that contributes to fixed costs or specific costs related to the school’s circumstances).
+S0163 In the current system, local authorities are required to allocate at least 80% of their funding through pupil-led factors.
+S0164 In 2016-17 the range was 82% to 96%, and 90% on average. ** (Reference: 11)
+S0165 We propose to allocate 91% of total funding through per-pupil factors in the national funding formula.
+S0167 The key factors for determining the split between pupil-led and school-led spending are the premises factors (rates, split sites, private finance initiative (PFI) and exceptional circumstances) and the lump sum.
+S0168 In the interests of securing a funding system where funding is matched transparently to need, and relates to the characteristics of the pupils in that school, we intend to reduce spending on school- led factors where possible, in order to maximise spending on pupil-led factors.
+S0169 As we set out in the first stage of the consultation, we intend to maintain funding for premises factors in the first year of the national funding formula on the basis of historic spend. It is important that local authorities know that funding for such costs will remain stable, while we continue to consider options for allocation in the context of a hard national funding formula. ** (Reference: 12)
+S0170 2.9 While we are protecting spend on the premises factors in cash terms, we do intend to reduce the total spend on lump sums.
+S0173 In our proposed formula, funding freed up from the lump sum factor has been re-invested into pupil-led funding.
+S0174 2.10 The national funding formula must include a basic amount that every pupil attracts to their school.
+S0175 As is the case in the current funding system, we believe this should be the largest formula factor.
+S0178 2.11 Under the national funding formula, we are proposing to spend slightly less on the basic per-pupil funding factor compared to current local authority spend, setting it at just under three quarters of the total schools block (73% or £23.3 billion). ** (Reference: 15)
+S0179 We are making a corresponding change to increase the amount spent through the additional needs factors.
+S0180 This is to reflect that some spend through local authority basic per-pupil funding factors is actually intended for pupils with additional needs.
+S0181 For example, the local authorities that set the highest 10 basic per-pupil funding rates at secondary are all in the top third in terms of the proportion of secondary pupils in their area who are eligible for free school meals.
+S0182 In these areas, basic per- pupil funding has much the same effect as funding through the deprivation factor, as a consistently high proportion of pupils are from disadvantaged backgrounds.
+S0183 2.12 In the first stage consultation, we proposed that we should continue to differentiate basic per-pupil funding between key stages.
+S0184 Most respondents felt there should be separate basic per-pupil funding rates for primary, key stage 3 and key stage 4.
+S0185 Reasons cited included the increase in complexity of the curriculum from primary to key stage 3 and then key stage 4; the need to employ more subject experts and have specialist teaching facilities; and the additional cost of examination fees at key stage 4.
+S0186 This is evidenced in the decisions made by local authorities in their local formulae: in 2016-17, no local authority funded primary pupils higher than secondary; three quarters increased their per-pupil funding with each key stage, and all but one of the rest used a flat rate for all secondary pupils.
+S0187 2.13 In the national funding formula, we are proposing to maintain stepped rates between primary, key stage 3 and key stage 4, to reflect the higher costs as pupils progress.
+S0188 We have explored whether to differentiate funding rates between key stages 1 and 2, and have taken into account views expressed during the first stage of consultation.
+S0189 At this point, we do not see a strong case to differentiate between these key stages, and instead prefer the simplicity and predictability of a single rate across primary.
+S0191 2.14 Our proposed basic per-pupil factor weighting of 73% means that – based on the 2016-17 pupil numbers – we have modelled basic per-pupil unit values as per figure 4.
+S0192 Figure 4: Unit values for the basic per-pupil factor 2. We have set the individual per-pupil rates with reference to the national averages, although it is important to note that the national funding formula basic per- pupil funding rates do not include the area cost adjustment, so appear lower than the average 2016-17 spend reported by local authorities. ** (Reference: 14)
+S0193 2.16 In the current system, local authorities can choose to include a ‘reception uplift’ adjustment in their local funding formula, as a way of capturing additional pupils who join a school after the October census.
+S0194 This adjustment adds complexity to the funding system, while having a very small impact on schools’ budgets.
+S0195 We do not think it necessary to include a reception uplift adjustment once we move to a hard national funding formula.
+S0199 2.18 The 4 additional needs factors used by local authorities in their formulae are deprivation, low prior attainment, English as an additional language and mobility.
+S0201 2.19 Evidence tells us that if a pupil is eligible for one of these factors, they are highly likely to face barriers to their education which can impact on their attainment at school, access to university, an apprenticeship or other advanced study, and to their chosen career. Investment in this area is vital to promote social mobility, and to support those who are just about managing as well as those from the most deprived backgrounds. ** (Reference: 16)
+S0202 Schools told us in their response to our first stage consultation that they find these additional needs factors to be the most suitable proxies for pupils who need extra support and resources.
+S0203 This view is reflected in local authority formulae, with £4.1 billion, or 13% of their total budgets, allocated to the additional needs factors in 2016-17. ** (Reference: 17)
+S0204 2.20 We understand that this £4.1 billion local authority spend is not the only funding that is intended for pupils with additional needs.
+S0205 As discussed earlier, in areas of highest deprivation, some local authorities have chosen to set high basic per-pupil funding, and relatively low deprivation funding, because all their schools typically have a high proportion of disadvantaged pupils. Simply matching current spend explicitly targeted on additional needs to these factors in the national funding formula would significantly under-estimate current spend allocated on the basis of educational disadvantage. ** (Reference: 18)
+S0206 2.21 We want to support schools as they continue to work to break the link between these factors and attainment, and we think significant investment in the additional needs factors is an important part of this.
+S0207 We are therefore proposing to raise the profile and overall weighting of the additional needs factors, increasing them to 18%, or £5.8 billion, of the total national schools block budget.
+S0208 Taking into account the pupil premium, funding for pupils with additional needs would account for over a fifth of the core schools budget.
+S0209 A pupil with low prior attainment and eligibility for free school meals would attract at least an additional £3,350 to their primary school, and £3,710 to their secondary school, on top of their basic per-pupil funding; and more if they also lived in an area of deprivation, or had English as an additional language. ** (Reference: 19)
+S0210 2.22 This Government is committed to supporting families who struggle to access the same opportunities as others, even if they are not in the lowest income households.
+S0211 We have thought carefully about how we can measure and balance the additional needs factors so that we maintain focus on the most disadvantaged while also identifying and targeting a broader range of pupils who are likely to need additional support.
+S0212 Our proposed formula therefore has a broader definition of disadvantage than is typical in the current system, as set out in detail in the section below.
+S0213 2.23 Disadvantage has a significant impact on pupils’ attainment.
+S0214 This impact is seen throughout the school system and compounded in areas of higher deprivation.
+S0215 Through the work of the Education Endowment Foundation there is increasing evidence of what works in raising the attainment of disadvantaged pupils.
+S0216 The Education Endowment Foundation assesses the impact of different interventions on attainment and considers their cost-effectiveness.
+S0217 The cost of interventions identified as being most effective ranges from around £80 (for example for improving feedback) to more than £1,200 (for example, for one-to-one tuition and early years intervention). With research highlighting that additional, effective spending on deprived pupils can help to improve their attainment, we are committed to having deprivation funding as a key part of the national funding formula. ** (Reference: 20)
+S0218 2.24 We are proposing that the deprivation factor should be the biggest additional needs factor, accounting for £3.0 billion.
+S0219 This would be 9.3% of the national schools block budget and half of all funding distributed through the additional needs factors.
+S0220 We will also continue to provide the pupil premium – worth £2.5 billion this year – to schools on top of their national funding formula allocation.
+S0221 2.25 In the first stage of consultation we proposed using both pupil- and area-level deprivation data in the national funding formula.
+S0222 There was strong support for this proposal, and the illustrative allocations we are publishing therefore include funding allocated on the basis of current free school meals (FSM) eligibility, Ever6 FSM eligibility, and the Income Deprivation Affecting Children Index (IDACI).
+S0223 Pupils will attract funding for each separate indicator they qualify for.
+S0224 2.26 We are proposing that pupil-level and area-level deprivation data both play a significant role in the formula.
+S0225 Pupil-level deprivation data has been shown to predict children’s later attainment more strongly, so we have weighted it at 5.4% of the national schools block budget compared to 3.9% for area-level data.
+S0226 This balance means that we maintain the focus on the most disadvantaged pupils, targeting funding to those pupils who have been eligible for free school meals in the last 6 years, with additional support if they face the double disadvantage of living in a deprived area.
+S0227 The use of area-level data gives us a broader measure of deprivation, targeting additional funding to pupils who might not be eligible for free school meals, but whose families are still struggling to get by.
+S0228 2.27 Figure 5 shows the unit values we have used for the national funding formula, based on the factor weightings for pupil (5.4%) and area-level (3.9%) deprivation.
+S0230 The first deprivation indicator is history of FSM eligibility – Ever6 FSM.
+S0231 This uses the same data source as the pupil premium, capturing all children who have been eligible for FSM at any point in the previous 6 years.
+S0232 The link between family income and children’s attainment does not necessarily disappear once a child ceases to receive free school meals, and we want the national funding formula to reflect that.
+S0233 In the national funding formula, we have set the Ever6 FSM rate higher at secondary than at primary.
+S0234 This reflects our decision on the overall primary to secondary ratio, as well as typical local authority practice; it also acknowledges the balance of pupil premium rates, whereby primary pupils attract the higher rate of £1,320 compared to £935 at secondary.
+S0235 2.29 The second indicator in the deprivation basket is current FSM eligibility, based on the number of pupils who were eligible for FSM at the previous year’s census.
+S0236 Schools have to meet the costs of providing a free meal to eligible children from their core budget.
+S0237 The national funding formula should therefore recognise that FSM eligibility itself directly drives some costs.
+S0238 The factor value is calculated using the Universal Infant Free School Meals methodology, recognising the average annual cost of providing a meal (£440 per pupil), and is the same for primary and secondary.
+S0239 Pupils who are currently eligible for free school meals will attract this amount in addition to the Ever6 FSM unit value.
+S0240 2.30 This third deprivation indicator is area-level, measured by IDACI.
+S0241 Area-level deprivation data has an important role to play in the national funding formula, recognising the double disadvantage that pupils can face when they grow up in a disadvantaged area and in a disadvantaged household.
+S0242 It also allows us to target additional support to children in families who face significant obstacles to accessing the same educational opportunities as their peers, but whose family income means they are not eligible for free school meals.
+S0243 2.31 IDACI measures the level of deprivation in the area where a child lives, and matches each area to a band.
+S0244 We have thought carefully about how we treat the IDACI bands in a national funding formula.
+S0247 2.32 We recognise that IDACI raises some methodological challenges and we have made a significant change to our banding methodology to help address them.
+S0248 In the first stage consultation, respondents expressed concerns about IDACI data updates.
+S0249 As IDACI data is only updated on a five-year cycle, the 2015 update generated significant turbulence in budgets.
+S0251 The IDACI scores for each area will now be constant for 5 years, making it a relatively steady way of identifying around 40% of pupils.
+S0252 This will include many of the just about managing families we want to support.
+S0255 2.33 By using all 6 IDACI bands, we identify 44% of pupils in our schools.
+S0256 While the individual experiences of these pupils will vary widely, as a group, they are more likely to suffer the effects of deprivation to some extent.
+S0257 Allocating funding to all IDACI bands means that every pupil who lives in a deprived area will attract additional funding to their school, whether or not they live in one of the 49 local authorities which choose to use all IDACI bands currently.
+S0258 Reflecting current local authority practice, we propose to apply different unit values within the bands, so pupils attract more funding if they live in a more deprived area.
+S0259 2.34 Research has shown that a pupil’s prior attainment is the strongest predictor of their likely later attainment.
+S0260 High quality provision from age 2 has a lasting impact on children’s attainment and behaviour, and performance at key stage 2 is the strongest predictor of a child’s performance later on. Prior attainment data is therefore an important tool for schools to identify pupils who are likely to need extra support. ** (Reference: 22)
+S0261 To reflect this in the formula, we propose to allocate 7.5% of the total national schools block budget to low prior attainment (£2.4 billion), compared to 4.3% in the current system.
+S0262 2.35 Based on a factor weighting of 7.5%, the unit values we have modelled for the national funding formula are shown in figure 6 below.
+S0264 The low prior attainment factor directs additional funding to each pupil who did not reach the expected standard at the previous stage.
+S0265 It takes into account every pupil in the school, and eligible pupils continue to attract this additional funding for as long as they remain in the primary or secondary phase.
+S0266 Importantly, as well as helping schools to support all pupils who need to catch up with their peers, this factor directs funding to schools likely to be supporting pupils with special educational needs in mainstream provision.
+S0267 2.37 In the first stage of the consultation we noted the interaction between the low prior attainment factor for primary schools and ongoing consideration of primary assessment policy.
+S0271 Our decision to invest more in the secondary low prior attainment factor is driven by our objective to better match funding to need, led by available evidence, and not by the change to secondary assessment.
+S0272 The new key stage 2 tests, introduced in summer 2016, are deliberately more challenging than the previous tests and, as expected, have resulted in more pupils being identified as having low prior attainment. We expect that this is largely due to an increase in our expectation of the standard, rather than because the pupils sitting these tests have achieved less than previous cohorts. ** (Reference: 23)
+S0277 2.40 In the longer-term, we think we could make a further change to the secondary low prior attainment factor that might improve our targeting of funding to need.
+S0278 Currently, low prior attainment funding is the same for all pupils who did not reach the expected standard, whether they narrowly missed the standard or were in the lowest few per cent of their cohort.
+S0279 2.41 With the new key stage 2 tests, it would be possible to ‘tier’ the secondary low prior attainment factor, differentiating funding by likely level of need.
+S0280 With a tiered low prior attainment factor, we could continue to target additional funding at all pupils who do not reach the standard, while providing a higher unit value to pupils in, for example, the lowest 10 or 20%.
+S0281 Such an approach might better target funding to the schools with the highest level of need, and would make the factor an even more effective proxy for the likely distribution of pupils with special educational needs.
+S0283 2.42 The third additional needs factor in the national funding formula targets funding to pupils who speak English as an additional language (defined on the census as pupils whose first language is other than English).
+S0284 Pupils will attract extra funding to their school if they meet this criterion, and have entered the state education system during the last three years (known as EAL3).
+S0285 2.43 Along with the deprivation and low prior attainment factors, the EAL factor is also weighted more heavily in our proposals than current local authority spend.
+S0286 Our proposed EAL factor is 1.2% of the total national schools block budget, compared to 0.9% in the current system.
+S0287 Not all local authorities use the EAL factor at both phases, and not all fund EAL pupils for three years (they can choose to use one, two or three years).
+S0288 We want to extend the factor to cover all EAL pupils across the country on the same basis, without reducing the average per-pupil spend in the current system.
+S0293 This will allow us to better identify pupils who are in the early stages of English proficiency, and who therefore need more support than those who are bilingual.
+S0295 2.45 Three-quarters of the proposed £388 million allocated to the EAL factor would be allocated to primary schools, reflecting the much high number of EAL pupils in the primary phase.
+S0296 We propose to set the unit value higher for secondary pupils, as evidence indicates that per-pupil costs are much higher in secondary, as additional language acquisition becomes increasingly complex and intensive as children get older.
+S0297 2.46 Current local authority practice reflects this pattern – overall spend through the EAL factor is higher in the primary phase, but average per-pupil funding is higher for secondary pupils.
+S0300 2.47 Following our initial proposal to exclude the mobility factor from the national funding formula, we have listened to concerns raised during the consultation about the challenges faced by schools when pupils join during the academic year, especially when the levels of pupil mobility are high.
+S0301 We recognise that there are costs associated with pupils who join their school midway through the academic year, and that these can be significant for schools with a high proportion of mobile pupils.
+S0302 We have therefore concluded that our formula will be strengthened by the addition of a mobility factor.
+S0303 2.48 An important issue in developing a mobility indicator for use in the national funding formula is that the underpinning data that we currently hold is not sufficiently robust for local authorities that do not currently use this as a factor.
+S0306 We are not convinced – and neither are many who responded to the first consultation – that the current mobility factor is designed in a way that targets funding most effectively to the pupils and schools that need it most.
+S0307 In its current form, the mobility factor targets funding at pupils who join the school in any month other than August or September (or January for reception pupils), and continues for 3 years.
+S0308 The factor applies to schools where the proportion of mobile pupils is at least 10% of the total cohort.
+S0311 2.51 We consulted previously on whether the funding formula should include a lump sum.
+S0312 This factor is intended to contribute to the costs that do not vary with pupil numbers, and to give schools (especially small schools) certainty that they will receive a certain amount each year in addition to their pupil-led funding.
+S0313 We received strong support for this proposal.
+S0314 2.52 A number of responses cautioned that the lump sum should not be so large that it removes the incentive for schools to seek to grow, form partnerships and find efficiencies.
+S0315 Where we set the lump sum value, therefore, must balance the need to
+S0317 recognise the fixed costs of running a school and to provide an element of financial certainty, with a broad objective to reduce reliance on funding that is not pupil-led.
+S0318 2.53 While there is general agreement that schools face fixed costs, the evidence available suggests there is no agreement on the scale of those costs, or that they are the same for all schools.
+S0319 In the evidence put forward through the consultation process so far we have found no consensus about the amount of lump sum funding schools require.
+S0320 We have also found no clear trend to explain the wide variation in the lump sum values local authorities set – for example, the lump sums in local authorities that also use the sparsity factor still vary from £59,500 to £175,000, and we have found no significant relationship between the lump sum and the average school size in an area.
+S0321 We consider that lump sum funding should therefore be considered as a contribution to the fixed costs that schools are likely to face, rather than a sum that is specifically matched to a set of precise costs.
+S0322 2.54 We have considered whether the lump sum should be differentiated by phase.
+S0323 In the current system the majority of local authorities set equal lump sums for primary and secondary schools, and we are proposing to take the same approach in the national funding formula.
+S0324 The lump sum is more significant for primary schools, which are typically smaller and more reliant on an element of funding that is not driven by pupil numbers.
+S0325 A single rate will also bring greater simplicity for middle and all-through schools.
+S0326 2.55 We are proposing to set the national funding formula lump sum at £110,000, lower than the current average set by local authorities, particularly in relation to secondary schools.
+S0327 The amount we are proposing reflects our objective to encourage schools to share services and functions where possible so that resources are freed up for teaching and leadership, and to make more funding available to invest in pupil-led factors.
+S0328 But we recognise that schools that have low pupil numbers because they are in remote areas will find it more difficult to share services in this way, and they will therefore receive additional support through the sparsity factor, explained below.
+S0334 The majority of respondents agreed with our proposal to include a sparsity factor in the formula, to target extra funding to schools that are both small and remote.
+S0335 These schools are especially important to their local communities and ensure children do not have to travel long distances to school.
+S0336 Their location, however, means they can find it more difficult to achieve savings by working with other schools to share services and functions.
+S0337 While we encourage all schools to continue seeking ways to spend more efficiently and effectively, we recognise that small and remote schools face particular challenges.
+S0345 In summary, we first look at the average distance, as the crow flies, that pupils would need to travel to the nearest alternative school, to judge how remote a school is.
+S0346 We then look at the average year group size to see if it is sufficiently small.
+S0347 If the school meets both the distance and size criteria it qualifies for sparsity funding.
+S0348 2.60 Local authorities are currently able to choose to apply sparsity funding either as a fixed sum or with a taper, where the amount of funding is lower for schools with more pupils.
+S0349 We are proposing to use a taper in the national funding formula to avoid cliff edges, where small pupil number changes would otherwise result in schools moving from significant additional funding to no sparsity funding.
+S0350 But we also propose building in a floor to the sparsity factor, so that the smallest remote schools (i.e. those whose average year group size is less than 50% of the year group
+S0352 threshold for that phase) receive the full sparsity sum.
+S0353 Sparsity funding for schools above this floor will be tapered as the average year group size increases.
+S0355 2.61 We have set the level of sparsity funding in the national funding formula in conjunction with our proposal to reduce the lump sum compared to the current national average.
+S0356 This means that, overall, while we reduce reliance on funding that is not pupil-led and encourage efficiency, we continue to target significant additional resources to small schools in remote areas.
+S0357 We are proposing that primary schools qualifying for sparsity funding would receive up to £25,000 and secondary schools (as well as middle and all-through schools) up to £65,000.
+S0358 We are allocating more funding overall to sparsity (0.08% of the total national schools block, compared to 0.05% currently), so that we can reach all qualifying schools.
+S0360 We are not proposing to continue that arrangement in the national funding formula.
+S0363 2.62 In the first stage of the consultation we proposed to retain the group of factors that relate to specific premises costs: rates, split sites, private finance initiative (PFI) and exceptional circumstances.
+S0367 2.64 We have made one modification to our initial proposals, which is to uprate funding for PFI in line with inflation, following a number of comments in response to the first stage consultation that PFI contracts are often index-linked.
+S0373 2.66 The total spent on premises factors in 2016-17 was £567 million.
+S0381 The national funding formula will include a growth factor, so that it is responsive to significant changes to pupil numbers that are not recognised by lagged funding.
+S0382 Small changes in pupil numbers from year to year will not typically create significant costs for schools, and we consider that the funding certainty provided by the use of lagged pupil numbers – particularly for those with falling rolls – is more beneficial than reflecting the precise number of pupils by seeking to adjust schools’ budgets in- year.
+S0383 But we recognise this will not be the case for schools where numbers grow substantially from year to year, and the national funding formula will recognise the need to ensure such schools can be funded fairly.
+S0418 2.77 We received strong support for our proposal to include an area cost adjustment in the schools funding formula to reflect the variation in labour market costs.
+S0419 The majority of respondents thought we should use the ‘hybrid’ area cost adjustment methodology which takes into account both General Labour Market trends and the particular salary variations in the teaching workforce, and we have decided to follow that approach.
+S0421 The area cost adjustment is applied to qualifying schools’ allocations once the rest of the formula has been run.
+S0422 It depends on the local district area in which the school is located.
+S0423 Some local authorities – in ‘London Fringe’ areas – contain both districts that receive an area cost adjustment, and districts that do not, for example, Kent and Essex.
+S0424 Whether schools in these local authorities receive an uplift will depend on their specific location.
+S0425 Nationally, the area cost adjustment will provide for increases of up to 18%.
+S0474 2.92 To work out a school’s funding level under the national funding formula, we apply each of the formula factors to its pupils and circumstances.
+S0475 We then multiply the resulting funding allocation by the relevant area cost adjustment for the school’s location.
+S0476 At this point, we compare the school’s national funding formula per-pupil funding level to the per pupil funding level they receive currently.
+S0477 If it is more than 3% below their current per-pupil funding level, the school is protected from any reduction beyond 3% per pupil.
+S0478 This, along with the school-led funding, gives the school’s total funding under the national funding formula in ‘steady state’ (assuming no change to pupil numbers or characteristics).
+S0487 The school has 210 pupils and received £908,000 in core funding through the schools block in the baseline year.
+S0488 The area cost adjustment score is 1.06 as the school is located in an area of higher labour market cost.
+S0489 Step 1: calculate illustrative NFF pupil-led and NFF school-led funding Step 2: apply area cost adjustment Apply ACA to NFF pupil-led funding £750,151 Apply ACA to NFF school-led funding £116,600 Step 3: calculate whether additional funding is needed through the funding floor School's original lump sum £150,000 School's adjusted baseline funding in 2016-17 (per pupil)
+S0490 School's adjusted baseline funding in 2016-17 (per pupil) £3,769 this includes protecting the reduction in the lump sum £3,572 -5.2% £83 NFF pupil-led funding (per pupil) % change from the school's baseline Additional funding so that school loses no more than -3% overall (per pupil): 97% * baseline - NFF amount Step 4: calculate total illustrative NFF funding Add funding floor funding to NFF pupil-led funding (per pupil)
+S0491 £3,656 Final % change in per pupil funding
+S0492 -3.0% Multiply by number of pupils to reach total NFF pupil-led funding Multiply by number of pupils to reach total NFF pupil-led funding £767,658 Add NFF school-led funding to reach illustrative NFF funding £884,258 School's total baseline: adjusted baseline per pupil plus NFF lump sum £908,000 % change from the school's baseline -2.6%
+S0493 Basic per pupil funding: NFF factor value: £2,712; No. of pupils: 210; Total funding: £569,520.
+S0494 FSM: NFF factor value: £980; No. of pupils: 40; Total funding: £39,200.
+S0495 Ever6 FSM: NFF factor value: £540; No. of pupils: 60; Total funding: £32,400.
+S0496 IDACI A: NFF factor value: £575; No. of pupils: 4; Total funding: £2,300.
+S0497 IDACI B: NFF factor value: £420; No. of pupils: 8; Total funding: £3,360.
+S0498 IDACI C: NFF factor value: £360; No. of pupils: 8; Total funding: £2,880.
+S0499 IDACI D: NFF factor value: £360; No. of pupils: 12; Total funding: £4,320.
+S0500 IDACI E: NFF factor value: £240; No. of pupils: 14; Total funding: £3,360.
+S0501 IDACI F: NFF factor value: £200; No. of pupils: 16; Total funding: £3,200.
+S0502 Low prior attainment: NFF factor value: £1,050; No. of pupils: 40; Total funding: £42,000.
+S0503 EAL: NFF factor value: £515; No. of pupils: 10; Total funding: £5,150.
+S0504 NFF pupil-led funding: NFF factor value: £707,690.
+S0505 Lump sum: NFF factor value: £110,000; Total funding: £110,000.
+S0506 Sparsity: NFF factor value: Up to £25,000; Total funding: £0.
+S0507 NFF school-led funding: NFF factor value: £110,000.
+S0508 Basic per pupil funding (KS3): NFF factor value: £3,797; No. of pupils: 450; Total funding: £1,708,650.
+S0509 Basic per pupil funding (KS4): NFF factor value: £4,312; No. of pupils: 300; Total funding: £1,293,600.
+S0510 FSM: NFF factor value: £1,225; No. of pupils: 100; Total funding: £122,500.
+S0511 Ever6 FSM: NFF factor value: £785; No. of pupils: 140; Total funding: £109,900.
+S0512 IDACI A: NFF factor value: £810; No. of pupils: 20; Total funding: £16,200.
+S0513 IDACI B: NFF factor value: £600; No. of pupils: 20; Total funding: £12,000.
+S0514 IDACI C: NFF factor value: £515; No. of pupils: 30; Total funding: £15,450.
+S0515 IDACI D: NFF factor value: £515; No. of pupils: 30; Total funding: £15,450.
+S0516 IDACI E: NFF factor value: £390; No. of pupils: 40; Total funding: £15,600.
+S0517 IDACI F: NFF factor value: £290; No. of pupils: 50; Total funding: £14,500.
+S0518 Low prior attainment: NFF factor value: £1,550; No. of pupils: 90; Total funding: £139,500.
+S0519 EAL: NFF factor value: £1,385; No. of pupils: 40; Total funding: £55,400.
+S0520 NFF pupil-led funding: NFF factor value: £3,518,750.
+S0521 Lump sum: NFF factor value: £110,000; Total funding: £110,000.
+S0522 Sparsity: NFF factor value: Up to £65,000; Total funding: £0.
+S0523 NFF school-led funding: NFF factor value: £110,000.
+S0525 The formula is based on schools having pupils in all year groups.
+S0569 3.2 The proposed national funding formula will mean, for the first time, all schools being funded on the same basis.
+S0575 However, there are clear themes to the types of schools and areas that would gain and lose – and we have looked very closely at the distributional impact in designing the national funding formula.
+S0577 3.4 To assess the impact of the proposed formula, we use actual pupil and school characteristics data from 2016-17, rather than projections for future years.
+S0578 We believe it is clearer to illustrate the formula using real data, so that schools can compare the formula’s impact to the funding they are currently receiving.
+S0579 We look at what would happen once the formula was implemented in full, assuming the same pupil and school characteristics as in 2016-17.
+S0580 These are therefore not actual allocations for any specific year: they are illustrations to support the consultation.
+S0581 Actual allocations will reflect the final formula (following this consultation) and will be updated for the latest pupil numbers and characteristics data.
+S0582 3.5 We have also calculated illustrative allocations in the first year of transition towards the formula, taking account of our proposals for the minimum funding guarantee and the level at which we can afford to pay out gains.
+S0583 These are also calculated on the basis of no change to pupil or school characteristics from 2016-17.
+S0584 Where schools are anticipating changes in pupil numbers or characteristics, they will be able to use the published formula to estimate the effect that such changes would have on their budgets.
+S0585 3.6 It is important to note that we have illustrated all national funding formula figures in cash terms per pupil.
+S0589 But it is not possible to translate these pressures into individual school level estimates.
+S0590 That is partly because many schools will see significant increases in pupil numbers over the coming period, feeding through into increased total budgets.
+S0591 It is also because the circumstances of every school are unique – with different pay and non-pay costs and very different staffing structures.
+S0592 Every school will need to understand and plan for their own situation.
+S0593 Illustrating core funding levels in cash terms per pupil – based on real 2016-17 data – is the clearest and most helpful way of enabling them to do so.
+S0595 3.8 The introduction of a national funding formula will result in pupils attracting funding on a comparable basis wherever they are in the country.
+S0596 3.9 The formula itself is designed to ensure that the level of funding that schools receive will reflect the degree to which their pupils are likely to need extra help to overcome barriers to their success.
+S0597 Evidence shows that particular characteristics are strong predictors of later outcomes and schools with high proportions of children with additional needs face the greatest challenges in enabling every pupil to leave the school system equipped with the knowledge they need to succeed in adult life.
+S0598 We propose that the additional needs factors (which increase funding to schools serving such pupils) should be weighted more heavily than in the current system.
+S0599 In particular, we have increased the amount of funding that will explicitly follow pupils with low prior attainment and made sure that all pupils in the most deprived areas of the country will attract extra support.
+S0600 Overall, our proposals mean that, taking the pupil premium into account, a pupil with additional needs could attract twice as much funding as a pupil attracting only the basic per-pupil amount.
+S0601 Figure 16 shows the additional amounts that different types of pupil will attract into their school through the core national funding formula.
+S0602 In addition, pupils eligible for free school meals in the last 6 years will continue to attract additional funding through the pupil premium of £1,320 (primary) and £935 (secondary).
+S0604 • 1.1 million pupils (15% of all pupils) attending schools that would gain 5% or more, per pupil, as a result of the national funding formula;
+S0607 NFF funding on the basis of pupils' characteristics: Funding allocated.
+S0608 Primary; KS3; KS4.
+S0609 Basic per-pupil funding: £2,712; £3,797; £4,312.
+S0610 And if pupil also has the following characteristics:: Ever6 FSM; £3,252; £4,582; £5,097.
+S0611 Current FSM; £3,692; £5,022; £5,537.
+S0612 English as an additional language (EAL); £3,227; £5,182; £5,697.
+S0613 Low prior attainment; £3,762; £5,347; £5,862.
+S0614 FSM and EAL; £4,207; £6,407; £6,922.
+S0615 FSM and low prior attainment; £4,742; £6,572; £7,087.
+S0616 FSM and EAL and low prior attainment; £5,257; £7,957; £8,472.
+S0617 • 2.5 million pupils (36%) attending schools that would gain 2% or more, per pupil, as a result of the national funding formula;
+S0618 • 2.2 million pupils (31%) attending schools that lose between 2% and 3%, per pupil, as a result of the national funding formula; and • 2.3 million (33%) pupils attending schools whose funding would be within 2% of their current level.
+S0619 3.11 We have considered carefully the potential impact on pupil attainment in schools likely to face reductions as a result of these reforms.
+S0620 Adjusting to a new, lower, funding level will require schools to find economies and efficiencies in non-pay spend and find efficiencies in deploying and using staff.
+S0621 In the current funding system, however, we see excellent schools at all points of the funding spectrum, confirming that how schools spend money is as important as the amount of funding they receive.
+S0622 With the inclusion of both the minimum funding guarantee, and the funding floor, we are confident that the introduction of the national funding formula will put all schools on a more equal footing to meet the challenge of delivering educational excellence for all their pupils, with levels of funding that are matched to their needs.
+S0623 3.12 The equalities impact assessment **(Link: 15) sets out the impact of our proposals with regard to the eight protected characteristics identified in the Equalities Act 2010.
+S0624 3.13 As a result of these proposals, 10,740 schools would be funded at a higher level than in 2016-17 – 54% of all schools.
+S0625 Just under three-quarters (73%) of these schools are due to gain up to 5.5% per pupil and are likely to be funded on the proposed national funding formula by 2019-20; the remaining quarter are due greater increases to their per-pupil funding under the proposed formula. ** (Reference: 31)
+S0626 9,128 schools would be funded at a lower level under the proposed formula – 46% of all schools.
+S0627 For 1,525 schools, the reduction would be between 0 and 1% per pupil; for 7,603 schools the reduction would be between 1% and 3%.
+S0634 3.16 There is no change in the overall national distribution of funding between primary and secondary schools, because we have deliberately retained the existing national average primary to secondary ratio in the formula.
+S0635 However, schools in local authority areas that have chosen to set a different primary to secondary ratio would – over time – see their funding allocations move towards the national average.
+S0636 Individual schools in these areas will therefore gain or see reductions in funding accordingly.
+S0637 3.17 There are 1,935 primaries in local authorities where the current primary to secondary ratio is greater than 1:1.34, and 469 secondaries in local authorities where the ratio is lower than 1:1.24.
+S0638 These schools will, on average, gain from the national funding formula, and in 2018-19, we would encourage local authorities to move their formulae towards the national funding formula values.
+S0639 Conversely, there are 2,563 primaries and 397 secondaries in areas that fund their phase significantly more generously than the proposed national funding formula would do and thus these schools, on average, are more likely to lose from the national funding formula.
+S0641 3.19 Through a combination of historical funding decisions and the policy proposals we are making in this consultation for the national funding formula, certain types of schools are more likely to see their funding increase as a result of the proposed formula.
+S0643 • Schools with low prior attainment.
+S0644 Our proposed formula allocates more funding through this factor than local authorities collectively do now and thus schools with high levels of low prior attainment are more likely to see their funding increase.
+S0645 Schools with the highest levels of low prior attainment will gain on average 1.8%. ** (Reference: 32)
+S0646 The schools with the highest levels of pupils with low prior attainment, but not in areas of high deprivation, gain on average 2.8%. ** (Reference: 33)
+S0647 • Schools with pupils who live in areas with above average levels of deprivation but who have not been heavily targeted through historic funding decisions.
+S0648 The inclusion of a wide definition of deprivation through the IDACI area-level deprivation data allows us to target funding more widely, to those who are more likely to have additional needs.
+S0649 Combined with the increased emphasis on low prior attainment, this means our proposed formula has a broader definition of additional need.
+S0650 This will particularly support schools to address the needs of pupils from families that are just managing.
+S0651 Outside London, these schools gain 1.4% on average. ** (Reference: 34)
+S0652 • Schools in areas where funding levels have historically been low.
+S0653 The proposed national formula will typically give these schools higher levels of funding than can be afforded from their local authority’s current funding allocation.
+S0654 Schools in the historically lowest-funded local authority areas would gain on average 3.6% under the proposed formula. ** (Reference: 35)
+S0655 It is of course not the case that every school in a relatively low-funded local authority area will gain funding – the precise outcome for an individual school will depend on the characteristics of their pupils, as well as their overall current funding position.
+S0656 • Small rural schools.
+S0657 Small schools in districts identified as rural by the Department for Environment, Food and Rural Affairs would gain on average 1.3% under the formula through our combined proposals on the lump sum and sparsity which ensure that the higher costs of these inevitably small schools are recognised. ** (Reference: 36)
+S0658 Of these, schools meeting the criteria for the sparsity factor would gain on average 3.3%.
+S0659 Some of these schools are in local authority areas which, through not including a sparsity factor, have never recognised their additional needs.
+S0660 3.20 Amongst the schools that would see the greatest increases to their per-pupil funding are some schools in Knowsley, Barnsley and Derby that have been heavily affected by PFI.
+S0661 Under the national funding formula, we will fund local authorities for PFI on the basis of historic spend, uprated for inflation.
+S0662 At the same time, per-pupil funding for all schools will be calculated based on the same, national formula.
+S0663 This means that schools where per-pupil funding is currently affected by PFI costs (because the local formula has had to include a substantial PFI factor, tieing up funding that would otherwise be invested in the pupil-led factors) will be funded more fairly under the national funding formula.
+S0664 This is much more comparable to treatment under other capital funding programmes such as the Priority Schools Building Programme, which allocate funding without disadvantaging the recipient’s revenue funding.
+S0666 3.21 Under our proposed national funding formula, it will remain the case that the highest funded schools in the country are schools in Inner London, followed by schools in other urban areas with higher levels of socio-economic deprivation – Manchester, Liverpool and Birmingham.
+S0667 Under the proposed formula, schools in (inner and outer)
+S0668 London would still be funded, on average, 17.4% higher than schools elsewhere.
+S0669 This higher funding is a proportionate reflection of the higher labour market costs and higher concentration of pupils with additional needs in these areas.
+S0670 The data shows that, in spite of recent economic growth, schools in these areas remain the most likely to have pupils with additional needs – in particular, pupils from a socio-economically disadvantaged background.
+S0671 For example, although absolute and comparative deprivation levels are falling, inner London still has the highest concentration of pupils from a disadvantaged background (while London has 5.1% of all pupils; it has 8.8% of all the pupils in England with a history of eligibility for free school meals) and 47.2% of pupils in inner London are eligible for funding through the Ever6 FSM factor.
+S0672 Schools in London in particular also face higher general and teaching labour market costs, which is particularly important as between 70 and 80% of schools’ spending is, on average, directed to staffing costs.
+S0673 3.22 Our analysis indicates that, under the proposed formula, 9,128 schools would be funded at a lower level per pupil than in 2016-17.
+S0674 Of those, 1,525 would receive a minimal reduction of between 0 and 1% per pupil.
+S0675 All schools will continue to be protected from substantial reductions to per-pupil funding year-on-year through the continuation of the minimum funding guarantee at minus 1.5%.
+S0676 We have also proposed a floor that would mean no school loses more than 3% against their current per-pupil funding level.
+S0677 3.23 The schools most likely to face reductions under the proposed formula are those in Inner London and some other urban areas that have particularly benefited from historic funding decisions and where underlying levels of deprivation have fallen over recent years.
+S0678 As set out above, even after this reduction has fully taken effect, inner London schools would still be funded at the highest level of all schools, and would continue to receive the greatest share of pupil premium funding of any region relative to their size.
+S0679 Manchester, Nottingham, Liverpool, Birmingham would be the highest funded areas outside of London.
+S0680 3.24 The main reason that this formula would reduce funding to schools in these areas is that we are using the most recent data about relative levels of socio- economic deprivation.
+S0687 Under the national funding formula, the total available quantum in the DSG schools block will be allocated fairly through the national formula.
+S0688 This means that some funding that was disproportionately or indeed only received by a limited number of areas is now spread consistently and fairly across the country as a whole, in line with the latest data about socio-economic deprivation and levels of need.
+S0689 3.26 Another factor explaining the reduction in funding to London is how area costs are calculated.
+S0692 Moving to the hybrid approach better reflects actual costs, slightly reducing the level of additional funding provided to London.
+S0693 3.27 Some smaller schools in urban rather than rural areas would be funded at a lower level as a result of the proposed formula.
+S0694 This is primarily a result of our proposal to set the lump sum factor at a somewhat lower level than the current national average, so that we are able to focus as much funding as possible on the pupil-led factors.
+S0695 It is important to note the discussion in chapter 2 about the particular arrangements we propose to put in place to protect new schools that are still filling up, many of which are urban.
+S0696 These will ensure that such schools are not disadvantaged in comparison to schools that are already full.
+S0697 3.28 Under the proposed schools national funding formula, 101 local authority areas would see funding for their schools increase, while per-pupil funding for schools in 49 local authority areas would be lower. The percentage change in per-pupil funding that would be seen at local authority area would vary between +8.6% and - 2.8%. ** (Reference: 37)
+S0698 The majority of local authorities 81% would experience change in overall funding of between -3% and
+S0699 +3% per-pupil
+S0703 The impact of the national funding formula on local authorities’ schools funding as a whole depends on two main factors:
+S0704 • The historic funding levels received by the local authority and how it chose to allocate these between the DSG funding blocks; and • The characteristics of individual schools, given that the national formula is calculated on a school-by-school basis.
+S0705 In this respect, the impact at local authority level will be similar to the impact on groups of schools discussed previously.
+S0706 3.30 There are 81 local authority areas where schools would – on average – be funded more than 1% higher under the proposed formula.
+S0707 It is important to note that in all local authority areas, there are schools that would be funded higher or lower than in 2016-17 under the proposed formula, depending on their particular characteristics.
+S0708 The following assessment is done on the basis of the average impact at local authority level, as we have already discussed the impact on particular types of school.
+S0709 3.31 Local authorities which have previously received low levels of funding relative to their need are likely to see their schools gain as a whole from our proposed national formula.
+S0711 With the move to a single national formula, such authorities are likely to gain as funding which previously reflected a myriad of unconnected decisions is now all allocated on a single basis.
+S0712 So the lowest funded local authority areas would gain on average 3.6% under the proposed formula. ** (Reference: 38)
+S0713 3.32 Some local authority areas will see their schools gain as a whole because historically the local authority has directed more of its DSG through non-schools funding blocks such as through higher central spend or high needs.
+S0714 The move to a national formula will remove differences in funding between areas from these factors.
+S0715 3.33 In addition, local authorities are more likely to gain as a whole if they have a high number of schools with pupil or school charactertisics which will attract higher levels of funding under the national funding formula than current local authority formulae provide (as discussed above).
+S0717 • Local authority areas with high numbers of schools with low prior attainment.
+S0718 • Local authority areas with higher levels of socio-economic deprivation, under the national funding formula’s broader understanding of deprivation, which have not benefitted where funding has been historically focused on a narrower definition of deprivation.
+S0719 • Local authority areas with a high concentration of small, remote schools, who benefit particularly from the national application of the sparsity factor.
+S0720 • Areas with high historic PFI costs, as these will be treated separately to schools’ per-pupil funding under the national funding formula– ensuring schools in these areas are funded fairly and not bearing high PFI costs.
+S0721 3.34 There are 49 local authority areas where schools would – on average – be funded at a lower level as a result of the proposed formula.
+S0722 As with gaining areas, it is important to note that the individual outcome for schools will depend on their particular circumstances, whereas the following assessment is given at local authority aggregate level.
+S0723 All schools will be protected from excessive year-on-year reductions by the minimum funding guarantee; and all schools will be protected from any reduction beyond 3% per pupil by the proposed formula floor.
+S0725 • All but one local authority area in Inner London would be funded at up to 3% less per pupil than in 2016-17.
+S0726 The reasons for these funding reductions are discussed earlier in this chapter: changing levels of relative socio-economic deprivation in England, and the application of a fair formula to historically unfair funding allocations that had previously rolled over unchecked.
+S0727 • In Manchester, Liverpool and Birmingham, per-pupil funding would decrease on average by 2.2%, again as a result of using up to date data about relative levels of socio-economic deprivation.
+S0728 • Local authorities which have previously funded their schools block at a particularly high level are more likely to see their schools face reductions.
+S0729 However, such authorities are more likely to gain through our high needs funding proposals (see the parallel consultation document on high needs).
+S0730 Where the existing pattern of provision reflects the particularly inclusive nature of schools then local authorities will be able to provide additional funding to such schools from their high needs block.
+S0731 3.36 We have also considered the impact of the proposed reforms to the school funding system with regard to local authority burdens.
+S0732 The impact of our proposals for the central school services block, through which local authorities will be funded for the responsibilities they will continue to carry out when the national funding formulae are introduced, is discussed in chapter 4.
+S0733 Our conclusion is that by setting the total amount of funding for local authorities’ ongoing funding equal to current spending by local authorities, we are protecting local authorities overall, and therefore the national funding formula would create no net burden on the system overall.
+S0734 The central school services block will be updated in future in line with pupil numbers, so local authorities will be compensated for costs that increase with pupil numbers.
+S0735 3.37 Our proposals for a national funding formula for schools would reduce local authorities’ role in determining school funding formulae locally.
+S0738 3.38 We have also assessed the impact of the proposed formula at regional level.
+S0739 Figure 18 shows the extent to which per-pupil funding to each region would change under the proposed national funding formula.
+S0740 The greatest increases in per-pupil funding would be in the East Midlands and South East.
+S0741 The greatest reduction in per-pupil funding for schools would occur in Inner London, as discussed previously.
+S0742 The North West would see little change overall, but would see funding reducing for more schools than those receiving gains.
+S0743 Figure 18 also shows the number of schools in each region due to be funded at a higher and lower level.
+S0745 Region: % change in per-pupil funding under formula-only NFF; Number of schools for which funding would increase; Number of schools for which funding would reduce.
+S0746 East of England: 1.5%; 1,485; 875.
+S0747 East Midlands: 2.5%; 1,208; 705.
+S0748 Inner London: -2.4%; 29; 802.
+S0749 North East: 1.0%; 622; 422.
+S0750 North West: 0.1%; 1,187; 1,695.
+S0751 Outer London: 1.0%; 611; 737.
+S0752 South East: 2.3%; 1,853; 1,195.
+S0753 South West: 2.2%; 1,600; 591.
+S0754 West Midlands: 0.3%; 1,010; 1,163.
+S0755 Yorkshire and the Humber: 1.5%; 1,135; 943.
+S0758 4.1 The proposals set out in this consultation will create a fairer funding system for schools.
+S0759 They represent the greatest change in funding arrangements for over a decade.
+S0760 For some schools, the change will be significant, as they adjust to a new funding level.
+S0761 For many, there may be little change to their funding level, but the introduction of a national funding formula will mean they have more clarity about their future funding, so will be better able to plan their finances strategically for the long term.
+S0822 This will mean that all schools are predominantly funded through a consistent national approach, removing the additional layer of variation and complexity created by the current existence of a different formula in every local authority.
+S0850 4.23 The national funding formula will help schools to make the best use of resources and manage cost pressures, by directing resources where they are most needed and by creating greater certainty and transparency in the funding system to allow schools to plan ahead with confidence.
+S0877 64% of respondents agreed with our proposal.
+S0898 In the first stage of the consultation, 64% of respondents agreed with our proposal to distribute funding on a per-pupil basis.
+S0916 67% of respondents agreed with this approach.
+S0917 We proposed to allocate funding for these based on evidence.
+S0918 5.18 We remain convinced that this is the fairest and most appropriate way to provide funding for historic commitments.
+S0919 In keeping with current policy, no new commitments will be allowed.
+S0920 5.19 Earlier this year, the Education Funding Agency (EFA) collected evidence from local authorities about their historic commitments, and the ongoing costs.
+S0931 5.24 Moving to a national formula for allocating funding for these central functions is likely to result in local authorities receiving a different allocation to what they currently spend on these functions.
+S0948 They show what would happen under the proposed formula if pupil numbers, deprivation levels and historic commitments stayed exactly as they were in 2016-17 and the formula was implemented in full.
+S0949 They will not represent the actual budgets local authorities will receive, for 4 reasons:
+S0952 These will vary year on year 5. Nonetheless, the figures we are publishing give local authorities a good illustration of the overall impact of the proposed formula on their allocation in future years. ** (Reference: 29)
+S0956 5.31 Under the proposed formula, 84 local authority areas would see their funding increase.
+S0957 5.32 The formula would likely reduce the gap between the highest and lowest spending local authorities, according to spend on ongoing responsibilities, by £189 per pupil.
+S0959 5.33 The central school services block increases funding for many of the local authorities who currently spend the least on education services.
+S0961 The central school services block formula now recognises local authorities’ needs on an equal basis across the country.
+S0962 5.34 The gaining areas are all in different regions and have made different decisions about how to fund central services.
+S0963 The top three gainers are Walsall, Wigan and South Tyneside.
+S0964 However, the amount of money that is spent in these areas is significantly lower than similar local authorities in other areas of the country, which is why on average they are gaining.
+S0966 5.35 Local authorities who have been spending considerably more than the central school services block allocates will see reductions in funding.
+S0969 5.37 The proposals set out in this chapter will create a fairer, more transparent funding system for local authority central spend on schools.
+S0984 The total amount of funding in the central school services block is based on the current duties held by local authorities.
+S0985 If we make changes to local authorities’ legal obligations in future, the total amount of funding for the central school services block will need to change to reflect this.
+S1022 Our national funding formula aims to address this unfairness.
+S1023 That is why we are confirming that we want to move towards a ‘hard’ national funding formula that distributes the vast majority of funding directly to schools.
+S1024 It is the only way we can be sure that the same child, with the same needs, will attract the same funding regardless of where they happen to live; and the only way that parents can be sure there is a level playing field.
+S1025 It fits squarely with our vision for a school led system, with as much funding as possible reaching the front-line and headteachers benefiting from more transparent and predictable budgets that allow schools to plan ahead and ensure every pound has maximum impact for their pupils.
+S1030 Over 6,000 people, including headteachers, teachers, governors, school business managers, parents and representative groups took the time to respond to the consultation.
+S1031 Our vision, principles and the proposed structure for the formulae were all met with strong support, and we are now consulting on how we propose to weight funding across the factors in the formulae.
+S1032 Where concerns have been raised, we have considered these carefully and improved our proposals.
+S1034 Our proposals sit alongside and complement the new early years funding formula arrangements that were announced in December.
+S1036 For the first time, we would have a clear, simple and transparent system that matches funding to children’s needs and the schools they attend.
+S1037 Areas and schools across the country that have been underfunded for too long will begin to see increases that will help them achieve more for their pupils.
+S1038 On average, schools in the historically lowest-funded local authority areas will gain 3.6% as a result of this formula.
+S1039 Schools serving large numbers of pupils who live in areas of deprivation but who are not eligible for free school meals – those whose families are just about managing – will benefit from our proposals.
+S1040 Schools in areas of sustained educational underperformance will also gain.
+S1047 Parents can have assurance that wherever they live in the country their children will attract funding that reflects their needs.
+S1065 2. We have protected the national core schools budget since 2010, and we will continue to do so, in real terms overall, to 2020.
+S1066 This year we are spending over £40 billion on schools, the highest amount in history.
+S1078 A fairer funding system will help to provide all schools with the resources needed to ensure an excellent education for all pupils.
+S1079 The national funding formula will help schools to manage cost pressures, by directing resources where they are most needed and by creating greater certainty and transparency in the funding system to allow schools to plan ahead with confidence.
+S1085 a. Confirms that we will introduce national funding formulae for schools, high needs and local authority services for schools in 2018-19;
+S1087 We will split the dedicated schools grant (DSG) into 4 blocks – for schools, high needs, early years (on which we have consulted separately) and central school services;
+S1088 c. Confirms that we will have a school-level (‘hard’) formula for the schools block from 2019-20.
+S1091 d. Confirms that the schools national funding formula will comprise the 12 factors we proposed in the first stage of our consultation, with the addition of a mobility factor in light of consultation responses, and summarises our proposals for the relative weighting of the factors;
+S1092 e. Confirms that the high needs formula will comprise the 9 factors we proposed in the first consultation, and summarises our proposals for the relative weighting of the factors;
+S1113 The national core schools budget has been protected in real terms since 2010, and we are continuing to protect it in real terms overall, to 2020.
+S1115 Our proposals are concerned with how to distribute the total funding within the different blocks of the DSG.
+S1116 New formulae will result in changes to budgets and a redistribution of funding between local areas and institutions, but will not reduce the national total provided to schools and local authorities.
+S1121 As set out in the first stage of our consultation, the pupil premium, pupil premium plus, and service premium will continue to operate through the separate pupil premium grant; and we have already separately committed to retain the early years pupil premium in its current form.
+S1122 With the exception of an adjustment to the pupil premium plus (explained in the government’s response to the stage one consultation), these grants are unaffected by our proposals.
+S1130 The first stage of consultation set out our proposal to create a fourth block of the DSG, to fund those duties that local authorities carry out for both maintained schools and academies, such as admissions and education welfare services.
+S1131 We are confirming that we will introduce this new block – the central school services block — from 2018-19.
+S1133 We also proposed a school-level formula (a hard national funding formula) from 2019- 20, where each school’s budget would be set nationally.
+S1134 This would apply to the funding for 5-16 year olds for all mainstream schools (special schools would continue to be funded as they are now).
+S1135 A hard formula would mean that all schools would be funded through a single, national approach, removing the additional layer of variation and complexity created by the current existence of a different formula in every local authority.
+S1137 We are now confirming our intention that a school-level formula will be used to calculate the vast majority of a mainstream school’s budget from 2019-20.
+S1145 Under a hard formula, local authorities will continue to make decisions about how to spend their high needs, early years and central school services blocks. ** (Reference: 51)
+S1146 The difference under a hard formula is that there will be limited flexibility for local authorities in how they allocate the schools block funding.
+S1148 A majority of respondents supported the proposal for a ring-fence around mainstream schools funding, though some raised concerns about potential impacts for pupils with high needs.
+S1155 We are taking further steps to make sure that local authorities are supported in other ways to develop the quality of provision for children and young people with SEN and disabilities.
+S1160 In our first stage of consultation we set out the factors we proposed to include in the national funding formulae for the schools, high needs and central school services blocks.
+S1161 The strong support and feedback we received about our proposals gave us a good basis to proceed and develop more detailed proposals.
+S1166 Following the first stage of our consultation, we are confirming that the schools national funding formula will include all the factors we proposed, with the addition of a factor for mobility.
+S1167 The costs to schools associated with in-year pupil mobility were highlighted consistently during consultation.
+S1168 We have listened to these concerns and concluded that we should include a mobility factor to recognise that some schools face additional pressures.
+S1172 We have considered the key principles for the national funding formula that we set out in the first stage of our consultation.
+S1173 We want to achieve a fair and transparent formula, which is simple while reflecting relative need, and which ensures sufficient stability.
+S1175 Our starting point for developing the formula weightings has been the collective formulae used by local authorities to distribute funding to schools.
+S1176 This represents the conclusions made over a number of years by local authorities and their schools forums; and in many instances there are similarities between the choices made locally.
+S1177 We know, however, that the funding system is complex, and that looking at national averages can only be a starting point.
+S1178 In this consultation, therefore, we propose the ways in which we believe the national funding formula should vary from that current distribution of funding.
+S1179 The changes we propose reflect the best available evidence about the impact of resources on outcomes and our ambition of achieving an education system that works for all children.
+S1181 The formula we propose represents our overall view on how best to balance competing priorities.
+S1184 The schools funding formula will distribute a core amount of funding to schools at a consistent rate for every pupil, increasing in value as pupils progress through the key stages.
+S1185 This will be the largest individual factor, accounting for over £23 billion of core schools funding.
+S1186 We are proposing to set the balance in funding between the primary and secondary phases in line with the current national average.
+S1187 We have not found conclusive evidence to suggest that shifting the current balance would lead to better outcomes for pupils.
+S1189 The formula will recognise educational disadvantage in its widest sense, including those who will not be benefiting from the pupil premium but whose families may be just about managing.
+S1190 It increases the total spent on additional needs factors compared to the funding explicitly directed through these factors in the current system.
+S1191 Within this, our proposed formula places a greater emphasis on pupils’ prior attainment, so that schools receive additional funding to ensure no child – regardless of background – is left behind.
+S1193 Over and above the pupil premium – worth £2.5 billion this year – we are proposing that the national funding formula allocates a total of £5.8 billion through the additional needs factors in total – including £3.0 billion in support of deprived pupils and £2.4 billion in support of pupils with low prior attainment.
+S1194 Under these proposals, a secondary school pupil with significant additional needs could attract over £10,000 to their school through the national funding formula and the pupil premium as follows:
+S1195 a. £4,312 as the basic secondary school KS4 pupil rate:
+S1196 b. £2,160 extra for FSM eligibility (£1,225 through the formula and £935 through the pupil premium);
+S1197 c.
+S1198 An extra £810 for living in the most deprived areas; ** (Reference: 52)
+S1199 d.
+S1200 An extra £1,550 for having low prior attainment; and e. An extra £1,385 for having English as an additional language (EAL).
+S1202 The new mobility factor will recognise some of the pressures schools face in accommodating in-year pupil mobility.
+S1203 An important issue in developing a mobility indicator for use in the national funding formula is that the underpinning data is not sufficiently robust for local authorities that do not currently use this as a factor.
+S1206 The formula includes a significant lump sum factor to help schools meet costs that do not vary with pupil numbers.
+S1207 We want to maximise the proportion of funding allocated to pupil-led factors, so are proposing to spend less on the lump sum than local authorities are spending currently.
+S1208 We know that for small and remote schools it is sometimes a particular challenge to find efficiencies and partnerships, and that the lump sum alone may not be sufficient.
+S1209 The formula therefore also includes an enhanced sparsity factor that will target additional funding to support these schools.
+S1213 The final element of the schools formula is the area cost adjustment, which reflects geographic variation in labour market costs.
+S1214 The formula uses the ‘hybrid’ area cost adjustment methodology, which reflects variation in both the general labour market and the teacher labour market, and which commanded the most support in the first stage of the consultation.
+S1215 Area cost adjustment uplifts are calculated depending on the location of the school.
+S1217 There was strong support in the first stage of our consultation for including explicit additional funding for areas expected to face significant growth in pupil numbers as a factor in the formula.
+S1218 Although a majority disagreed with our specific proposal to allocate it in 2018-19 on the basis of historic funding as this may not reflect future growth, there was no consensus on a better method.
+S1228 The schools funding formula we are proposing in this consultation will, rightly, see new levels of funding across the country as funding is better matched to need.
+S1240 We received over 1,000 responses and there was strong support for our proposals for a high needs national funding formula.
+S1241 Over two thirds agreed that the principles on which we are basing our reforms are right, and a majority supported each of the proposed factors we set out for the formula.
+S1242 A significant concern raised during the first stage of the consultation was about how high needs pressures might be managed if a ring-fence was applied to the schools block.
+S1246 Based on the response to the first stage of the consultation, we believe we are right to proceed in building the formula on the basis proposed.
+S1247 We are therefore confirming that the formula will comprise of 9 factors as set out in Figure 2 below.
+S1249 As for the schools block, high needs funding will include a hybrid area cost adjustment; however, the balance in the weighting given to general labour market costs and teacher labour market costs will be adjusted to reflect the different balance of spending in special schools.
+S1253 Around half of the funding will be based on resident population projections (50%), deprivation factors (20%), health and disability factors (15%) and low attainment factors (15%).
+S1254 These are all proxy factors that together correlate with the measures of the distribution of actual SEN and disability that we have available.
+S1255 The use of proxy indicators avoids the risk of creating perverse incentives for the over-identification of high needs and consequent inflationary pressures.
+S1271 In the first stage of consultation, we proposed creating a central school services block by merging two existing funding streams that support the role of the local authority in education – the schools block funding currently held centrally by local authorities, and the retained duties part of the Education Services Grant (ESG).
+S1272 The second stage of the consultation confirms that local authorities’ continuing responsibilities will be funded through the central school services block according to a per pupil rate, adjusted by area costs, with the addition of a deprivation factor to recognise the challenges of providing some central services in areas of high socio-economic deprivation.
+S1276 Our proposal to allow local authorities to retain some of their maintained schools’ DSG centrally for duties currently funded by the general funding rate was supported by a majority of respondents, including 63% of the responses from maintained schools.
+S1313 The tables we are publishing alongside our consultation documents show how our proposed formulae would impact on school and local authority funding allocations. ** (Reference: 55)
+S1316 To help with this, we are releasing data to illustrate how the proposed formulae for each of the blocks would change how much each local area would receive for its schools and high needs pupils.
+S1317 We are enabling individual schools – through our tables and in detail through the COLLECT system – to get a sense of how their funding might change under the national funding formula.
+S1318 These cannot show exactly what each school would get under the national funding formula, as local authorities will continue to determine local formulae during the soft year (2018-19), and, of course, the number of pupils attending each school, and their characteristics, will change, but it will allow schools and local authorities to understand the likely overall impact of what we are proposing. ** (Reference: 56)
+S1328 We have analysed the impact of our proposed formulae and highlighted key changes below.
+S1330 The equalities impact assessment **(Link: 43) sets out the impact of our proposals on the eight protected characteristics identified in the Equalities Act 2010.
+S1332 In designing our formula, we have taken careful steps to balance the competing principles of fairness and stability.
+S1333 To achieve fairness, we believe that our formula should:
+S1334 a. Distribute the majority of funding on the basis of pupil numbers and characteristics rather than types of schools or their premises;
+S1336 Direct more funding than is currently explicitly directed towards pupils with additional needs and recognise educational disadvantage in its widest sense;
+S1337 c. Recognise that some schools face additional costs because they are small and serving rural communities.
+S1339 Achieving these priorities means that funding will need to be redistributed around the country.
+S1340 Our proposal to include a funding floor and to use headroom available within our overall DSG settlement means that we can do this with a manageable impact for schools.
+S1342 The proposed formula would result in 10,740 schools gaining funding.
+S1343 3,379 schools would see increases to their budgets of more than 5%.
+S1344 For 6,487 schools the changes would be limited to plus or minus 2%.
+S1345 The MFG means that reductions would be limited to 1.5% year on year, and the floor means that schools cannot lose more than 3% per pupil overall.
+S1346 5,500 schools will benefit from the minus 3% per pupil funding floor protection.
+S1348 The highest funded schools would – rightly – remain those in areas with the highest concentration of socio-economic deprivation.
+S1349 There are also some specific groups of schools that gain as follows:
+S1350 a. Schools that have high numbers of pupils living in disadvantaged areas that are not necessarily eligible for free school meals – these are identified using area-level deprivation data.
+S1351 These pupils may have additional needs as they face levels of deprivation, but may not necessarily attract the pupil premium.
+S1352 Outside London, these schools gain 1.4% on average;
+S1353 b. Schools with the highest proportion of pupils with low prior attainment but which are not in areas of high deprivation.
+S1354 These gain 2.8% on average;
+S1355 c. Small, rural schools – as a group, these schools gain 1.3% on average; and d. Primary schools in sparse communities.
+S1356 These schools gain 5.3% on average.
+S1358 At local authority level, 101 areas will see gains and 49 will see reductions.
+S1359 The 10 least well-funded local authorities will, as a group, gain on average 3.6%.
+S1360 This is on top of £390 million of additional funding, which was introduced through the minimum funding levels arrangement in 2015-16 and has remained in the baseline for the national core schools budget.
+S1362 London, along with other inner city areas, faces high levels of deprivation and pupils with EAL.
+S1363 Under our formula, schools in inner London will attract 30% more funding per pupil than the national average.
+S1364 This is because funding will be matched to need, and so London schools will continue to receive significant funding to help them support their pupils with additional needs.
+S1365 They will also receive additional funding to reflect the higher cost base they face being in London.
+S1366 They will, however, see some reductions as a result of our formula, reflecting the reduction in levels of deprivation that have been seen in London in recent years. ** (Reference: 57)
+S1367 The floor we have proposed will limit these to 3% per pupil.
+S1376 Our proposed formula would distribute funding on the basis of the local demography and proxy factors that indicate the level of need amongst children and young people in an area.
+S1377 This would mean, for example, that funding is targeted towards areas of deprivation, reflecting the evidence of a link between deprivation and high needs.
+S1387 Under the proposed formula, 84 local authority areas would see their funding increase.
+S1419 This unfairness confirms our view that funding reform is needed to support the life chances of our most vulnerable children and young people; a fairer funding system will help provide all schools and all areas with the resources needed to provide an excellent education for all pupils.
+S1424 The first stage consultation set out the principles, building blocks and factors for the national funding formulae.
+S1426 Our proposals received strong support, confirming the case for proceeding with reform of a system that is not fit for purpose.
+S1427 We have listened carefully where concerns were raised and have been able to improve our proposals as a result.
+S1432 To aid understanding of the potential impact of the proposed weightings of the factors in the funding formula for schools, we have provided illustrative allocations for all schools and local authority areas in England.
+S1433 These show the funding schools and local authorities would receive if the national funding formulae were implemented in 2016-17, without any transitional protections.
+S1434 They are not actual allocations for any specific years: they are illustrations based on 2016-17 data to help inform the consultation.
+S1440 • To introduce a national funding formula for schools from 2018-19.
+S1441 Schools will be funded according to a local formula for the first year, and then according to a national formula from 2019-20 onwards • To use 4 building blocks for the formula: basic per-pupil funding; additional needs funding; school-led funding; and geographic funding •
+S1442 To allocate funding for premises factors, growth, business rates and mobility on the basis of historic spend in 2018-19 to local authorities; and to seek longer term solutions for 2019-20: • To introduce a national funding formula for allocating high needs funding to local authorities from 2018- 19 • To use population; health; disability; low attainment; and deprivation factors in the formula • To ensure stability by allocating through the formula 50% of what local authorities are currently spending •
+S1445 As a result of the proposed schools national funding formula, 10,740 schools would see an increase in their per-pupil funding, and 9,128 would see a decrease compared to their 2016-17 funding.
+S1446 Under the proposed formula, 101 local authority areas would see their overall per-pupil schools block funding increase and 49 local authority areas would see reductions of up to 3% per pupil.
+S1447 The majority of local authorities would experience a change in their overall schools funding between -3% and +3% per pupil.
+S1448 This reflects a fairer, more consistent and transparent distribution of funding that will, over time, narrow the unreasonable variations in funding that currently exist and ensure that schools with the highest need receive the highest funding.
+S1450 As a result of the proposed high needs national funding formula, we expect around half of local authorities would see an increase in their funding (based on the illustrative allocations) and no local authority would face a reduction.
+S1453 To limit the overall reductions for schools to minus 3% per pupil • To create a new ‘central school services block’ to fund the ongoing duties local authorities hold for both maintained schools and academies: authorities as a result of the formula • To provide financial and practical help to authorities to assist them in reshaping their provision, including a strategic planning fund for 2016-17 and capital funding for special free schools and expansion of existing provision • To provide some local budget flexibility to allow local authorities to transfer funds from the ring-fenced schools block to the high needs block in 2018-19.
+S1455 As part of our first stage consultation we published and sought views on our initial assessment of the potential impact with regard to protected characteristics.
+S1456 We received a number of responses to the equalities analysis from a variety of schools, local authorities and stakeholders.
+S1457 The vast majority of comments were not specifically in response to the impact on the identified protected characteristics, but were instead general comments on the national funding formulae.
+S1458 We have taken these responses into account under the relevant questions as set out in the government responses. ** (Reference: 60)
+S1464 We are confident, however, that our modelling provides a sound basis for considering the potential impact on protected characteristics.
+S1466 Our proposals will create a fairer and consistent distribution of funding that is more closely aligned to need and is essential to support opportunity for all children, irrespective of their background, ability, need, or where in the country they live.
+S1467 Our funding system will target funds to those pupil groups where the evidence is clear that they need additional support.
+S1468 It does not seek specifically to target specific groups of pupils simply because they are protected by the Equality Act, but instead targets funding to those groups which the evidence demonstrates face barriers to their educational achievement.
+S1469 We believe that all pupils will benefit from the clearer and fairer distribution of funding that these reforms will produce.
+S1470 We have reviewed the impact of the proposed funding system to ensure there are no unintended impacts on the protected groups.
+S1474 A key consideration in designing the national funding formula for schools is the ratio of funding between the primary and secondary phases.
+S1475 We recognise that there is a differential in funding related to age – that is a deliberate feature of the current funding system, where we require local authorities to provide basic per- pupil funding of at least £2,000 at primary and £3,000 at secondary.
+S1476 As pupils progress through key stages, the breadth and complexity of the curriculum increases, requiring more subject experts, specialist teaching facilities and examination fees expenditure.
+S1477 For this reason, we continue to believe that funding allocations should differentiate between phases to reflect the higher costs in the secondary phase.
+S1479 Our proposal for the schools national funding formula is to increase the basic per-pupil funding rates in steps from primary to key stage 3 and key stage 4, in line with current practice by LAs.
+S1480 This proposal would maintain the current pattern of funding distribution between schools, where almost three quarters of local authorities increase their basic per-pupil funding rates at every key stage.
+S1481 Overall our proposed funding system does not shift the current overall primary to secondary ratio.
+S1482 It is for schools to decide how to use their funding across the age groups within the school.
+S1484 Some respondents to the stage 1 consultation were concerned that reductions in funding could potentially incentivise premature retirement of older teachers in favour of younger, potentially less costly teachers.
+S1485 For a redundancy to be lawful there needs to be a genuine redundancy situation.
+S1486 The concerns described in consultation responses do not strike us as genuine redundancy situations.
+S1491 High needs funding supports provision for pupils and students with special educational needs (SEN) or disabilities from age 0 to 25.
+S1492 We are not proposing to weight any element of the high needs national funding formula towards any particular age group because the cost of providing additional support for pupils and students with SEN is not significantly affected by their age.
+S1493 Some respondents to the stage 1 consultation raised concerns that using the population count for 2-18 year olds would ignore the 19-25 year olds with SEN or disabilities for which local authorities are also responsible.
+S1494 We have looked carefully at including the population for 19-25 year olds.
+S1495 However, we are aware that the total number of young people in this age group, in each local authority, is not necessarily proportionate to the number with high needs: for example, areas with significant university student populations are likely to have large concentrations of 19-25 year olds without high needs.
+S1496 As such, we remain convinced that the 2-18 population count is our best available population measure.
+S1497 It is for local authorities to decide how to spend their high needs budget to ensure that there is suitable provision for all pupils, taking account of their responsibilities to the entire 0-25 year old cohort.
+S1499 In the first stage consultation we set out our proposal to replicate the current funding arrangements for schools and high needs by not differentiating funding levels on the basis of gender.
+S1500 We concluded that, whilst we recognise there is an attainment gap between boys and girls, evidence does not suggest funding levels disproportionately benefit a particular sex; targeting funding on the sex of pupils would have virtually no impact as the vast majority of schools have a broadly equivalent number of boys and girls. ** (Reference: 63)
+S1502 Some respondents to the first stage consultation raised concerns about this proposal.
+S1503 Although we recognise that boys, and in particular white boys, often have lower attainment, they will benefit from our proposal to target funding through low prior attainment and therefore differentiating funding on the basis of sex would not narrow this attainment gap.
+S1505 We have also considered consultation responses that argued the female workforce will be impacted disproportionately by any primary school staffing changes that schools decide to put in place as a result of funding reductions.
+S1506 Remuneration of teachers will continue to be determined at a local level by schools and local authorities in accordance with the framework for teachers pay set out in the School Teachers’ Pay and Conditions Document. ** (Reference: 64)
+S1507 Therefore, although decisions about funding levels for schools will have an impact on sex, it is only one factor that affects teachers’ pay.
+S1514 In the first stage consultation our initial assessment was that there is no direct link between the funding reform proposals and the protected characteristics of gender reassignment, pregnancy or sexual orientation.
+S1515 We received no responses relating to these characteristics in the first stage consultation and have not been made aware of any evidence indicating that our funding reform proposals would differentially affect these characteristics.
+S1516 We therefore do not believe there to be any direct impact on the protected characteristics of gender reassignment, pregnancy or sexual orientation from our funding reform proposals.
+S1518 Our funding reform proposals will be applied to all schools consistently, including faith schools.
+S1519 Schools’ funding will increase or decrease to bring them in line with funding of other similar schools around the country.
+S1520 It follows that schools designated with a religious character would see their funding change, not due to the status of their school, but because they are subject to the funding reform in the same way as all other local state-funded schools.
+S1522 Under the proposed national funding formula, 52% of all Christian faith schools would see an increase in funding – broadly in line with the national picture for all schools.
+S1523 For those faith schools seeing a reduction in funding, the overall reduction would be no more than 3% per pupil – again, as will be the case for all schools.
+S1524 Non-Christian faith schools are more likely to see a reduction in funding, reflecting their higher occurrence in London and other urban areas who have been funded at a higher rate in the past.
+S1525 But, again reflecting their location, they will still be funded higher than the national average.
+S1527 In our initial equality analysis, we considered the impact of our funding reform proposals on the protected characteristic of race.
+S1528 For schools we proposed to use 3 ‘additional needs’ factors – deprivation, low prior attainment and English as an additional language.
+S1529 For high needs, we proposed to target funding according to low attainment, children’s health and disability, and deprivation.
+S1531 In our initial assessment we showed the achievement variation between different ethnic groups.
+S1532 The chart below shows that the majority of ethnic groups achieve above the national average.
+S1533 Those ethnic groups that achieve below the national average will be targeted for additional funding through the additional needs factors we proposed to include in the formulae, particularly low prior attainment which we have increased significantly in weighting compared to the current spend by local authorities.
+S1536 Some respondents to the first stage consultation raised concerns about our proposal to exclude a mobility factor from the national funding formula.
+S1537 Some felt that this could disproportionately impact Gypsy / Roma and traveller of Irish heritage pupils.
+S1538 We acknowledge the concerns raised and have decided to include a mobility factor.
+S1540 Some respondents also expressed concern that the introduction of a national funding formula could divert money away from ethnic minority groups.
+S1541 We have deliberately chosen not to include the broad characteristic of ethnicity as a funding factor in the national funding formula.
+S1542 However, we know that there is a significant overlap between areas of high deprivation and the proportion of pupils from an ethnic minority background.
+S1544 It follows, therefore, that the impact on schools with a high proportion of ethnic minority pupils will be similar to that of schools in highly deprived areas.
+S1545 Schools with a high proportion of ethnic minority pupils will continue to be funded well above the national average as their pupils will attract more funding through the additional needs factors we are including, for which we are using broad measures.
+S1546 Under our proposals, for example, a secondary school pupil with significant additional needs could attract over £10,000 to their school through the national funding formula and the pupil premium.
+S1547 Thus the schools with the high proportions of ethnic minority pupils will continue to receive significantly higher levels of funding than the national average.
+S1549 However, schools with a high proportion of ethnic minority pupils tend to be concentrated in areas with higher deprivation levels.
+S1550 Many of these areas have seen a significant reduction in their level of deprivation since 2005-06, when a formula was last used to allocate funding to local authorities.
+S1551 Thus, schools with the highest proportions of ethnic minority pupils will continue to receive a higher level of funding than the national average but are more likely to see losses from the introduction of the formula.
+S1552 The table below shows the impact of the national funding formula on schools grouped by their proportions of pupils who are from low-achieving ethnic groups.
+S1553 Under our proposed formula, by comparison with schools with a low proportion of pupils from low-achieving ethnic groups, schools with a high proportion of pupils from low-achieving ethnic groups would be funded higher per pupil on average.
+S1554 This reflects the overlap between low- achieving ethnic groups and deprivation.
+S1556 As a result they will still be funded above the national average.
+S1559 As well as the impact of the national funding formula on schools serving higher proportions of children from low-achieving ethnic groups, we have also looked at its impact on total funding for members of those groups.
+S1560 We have estimated the average level of funding that might be spent on each of the groups in the current system and under our proposed formula – see Figure 4. ** (Reference: 67)
+S1562 Two of the under-achieving ethnic minority groups see a small reduction in funding on average, but still attract the highest level of funding of all the under- achieving ethnic groups.
+S1563 On average, a pupil of black Caribbean ethnic origin would be at a school that attracts more than £725 per-pupil than the national average of £4,547 per pupil.
+S1565 1: 1.0%; £4,378; 57%.
+S1566 2: 1.3%; £4,352; 59%.
+S1567 3: 1.4%; £4,415; 58%.
+S1568 4: 0.2%; £4,920; 43%.
+S1569 National average: 0.9%; £4,547; 54%.
+S1571 The impact of the national funding formula on the protected characteristic of race is explained not by the pupils’ ethnicity, but by the wider characteristics of the areas in which they are more likely to live.
+S1572 Our assessment is that the proposals in this consultation will deliver a fairer funding system for all pupils, with pupils from all backgrounds funded on a consistent and transparent basis.
+S1573 Any other black background: Average per-pupil funding in baseline: £5,082; Average per-pupil under our proposals: £5,069; Percentage change:
+S1574 -0.3%; Average per-pupil funding change: -£13; Number of pupils: 50,019.
+S1575 Any other white background: Average per-pupil funding in baseline: £4,682; Average per-pupil under our proposals: £4,713; Percentage change: 0.7%; Average per-pupil funding change: £31; Number of pupils: 400,543.
+S1576 Black Caribbean: Average per-pupil funding in baseline: £5,302; Average per-pupil under our proposals: £5,272; Percentage change:
+S1577 -0.6%; Average per-pupil funding change: -£31; Number of pupils: 82,891.
+S1578 Gypsy / Roma: Average per-pupil funding in baseline: £4,662; Average per-pupil under our proposals: £4,756; Percentage change: 2.0%; Average per-pupil funding change: £95; Number of pupils: 21,516.
+S1579 Pakistani: Average per-pupil funding in baseline: £4,807; Average per-pupil under our proposals: £4,808; Percentage change: 0.0%; Average per-pupil funding change: £1; Number of pupils: 294,663.
+S1580 Traveller of Irish heritage: Average per-pupil funding in baseline: £4,565; Average per-pupil under our proposals: £4,612; Percentage change: 1.0%; Average per-pupil funding change: £48; Number of pupils: 5,315.
+S1581 White and black Caribbean: Average per-pupil funding in baseline: £4,689; Average per-pupil under our proposals: £4,709; Percentage change: 0.4%; Average per-pupil funding change: £20; Number of pupils: 102,342.
+S1582 National average: Average per-pupil funding in baseline: £4,507; Average per-pupil under our proposals: £4,547; Percentage change: 0.9%; Average per-pupil funding change: £40; Number of pupils: 7,009,755.
+S1586 This settlement provides a protection for the funding for children and young people with SEN and disabilities, and year-on-year amounts that will recognise demographic changes and support continuing implementation of important SEN reforms introduced by the Children and Families Act.
+S1588 It is reasonable to draw the conclusion that the number of SEN pupils in a school closely correlates with the number that have a disability, as most of the 12 types of SEN either relate explicitly to disability, or will encompass learning disabilities.
+S1590 The department does not currently collect statistics on school pupils with a disability.
+S1591 We have decided not to include a specific SEN or disability factor in the national funding formula for schools because of the lack of reliable information or robust data, and because using such a measure would create a perverse incentive to over-identify SEN and disability.
+S1592 We have instead chosen to use low prior attainment as a proxy indicator of need, in part because of its strong correlation to SEN.
+S1593 The low prior attainment factor directs additional funding for every pupil who did not reach the expected standard at the previous stage.
+S1594 It takes into account every pupil in the school, and eligible pupils continue to attract this additional funding for as long as they are at the school.
+S1596 As well as helping schools to support all pupils who need to catch up with their peers, a particularly important function of this factor is to direct funding to schools likely to be supporting pupils with special educational needs in mainstream provision.
+S1597 With the new key stage 2 tests, it could be possible to ‘tier’ the secondary low prior attainment factor, differentiating funding by likely level of need.
+S1598 We would like to explore whether this could make the factor an even more effective proxy for pupils with SEN.
+S1600 Schools are required to identify and address the special educational needs of the pupils they support.
+S1601 Mainstream schools are expected to meet the first £6,000 of additional costs for each child.
+S1602 We are not proposing to change these arrangements.
+S1603 The deprivation and low prior attainment factors, reflecting additional need, in the schools national funding formula will direct extra resources towards mainstream schools that are likely to face additional costs in making provision for pupils with SEN and disabilities.
+S1604 But we know that schools can be disadvantaged if they admit a disproportionate number of pupils with high needs, or a significant number of pupils with needs for which the formula does not have a suitable proxy.
+S1605 Where this is the case, it is entirely appropriate for local authorities to use funding from their high needs budgets to support mainstream schools that adopt a particularly inclusive approach, and many authorities already do this.
+S1606 Authorities with a high proportion of mainstream places for those pupils with high needs will not need to resource as many high needs places elsewhere, and the consequent savings should be directed into the inclusive schools.
+S1608 We are clear that the rules regarding admission have not changed and forbid any discrimination against admitting pupils with high needs.
+S1611 We have looked at the impact the national funding formula could have on schools with high numbers of SEN pupils.
+S1612 Under a national funding formula, schools with higher proportions of pupils with a statement of SEN, an educational health and care (EHC) plan, or in receipt of SEN support would receive higher average per-pupil funding rates.
+S1615 Lowest: £4,124; £3,867; £5,076; £4,930.
+S1616 Low: £4,032; £3,977; £5,212; £5,161.
+S1617 High: £4,052; £4,165; £5,250; £5,294.
+S1618 Highest: £4,241; £4,427; £5,413; £5,630.
+S1620 As part of the national schools budget protection, we added £92.5 million to the high needs block of the dedicated schools grant in 2016-17 and will also be providing an uplift to the 2017-18 high needs block.
+S1621 This provides additional funding for children and young people with SEN or disabilities.
+S1623 In the first stage consultation we set out our proposal to improve the funding system that supports provision for children and young people with special educational needs and disability (primarily, but not solely, through the high needs block of the dedicated schools grant) and to allocate more funding on a formulaic basis using proxy indicators to identify that need:
+S1624 a. health and disability: we proposed to introduce two new funding factors that directly relate to disability: disability living allowance and children in bad health.
+S1625 The disability factor specifically targets funding towards children who receive disability living allowance; both factors are specific indicators of the health and disability aspects of SEN and disability b. low attainment: reflecting the strong correlation between attainment and SEN. 16% of pupils with SEN achieved the expected level in reading, writing and mathematics at key stage 2 in 2014/15 compared to 90% of those with no SEN c. socio-economic disadvantage: we proposed to include two indicators of deprivation: pupil-level and area-level deprivation data to reflect the significant overlap between pupils eligible for free school meals and SEN d. population: we proposed to use population data to allocate high needs funding to reflect that in every given population of a certain size there will be a proportion of those with high needs 46. ** (Reference: 68)
+S1626 The proposed weightings of the formula factors, as set out in the second stage consultation, will ensure that schools and local authorities with the highest level of need attract the most funding which, in turn, will have a positive impact on the protected characteristic of disability. ** (Reference: 69)
+S1627 The second stage consultation also proposes that no local authority will lose funding as a result of the formula, which will ensure that children and young people in existing high needs placements will not need to have their provision changed simply because we are introducing a national funding formula.
+S1629 A small majority of respondents agreed with the underpinning principle of using proxy indicators to identify need, and much larger majorities agreed with each of the specific proxy indicators we proposed. ** (Reference: 70)
+S1630 We acknowledge that proxy indicators of need will not reflect every type of SEN or disability but believe that using proxy indicators is most appropriate to avoid any perverse incentives for a local authority to over-identify SEN to secure additional funding.
+S1631 We are also proposing to allocate 50% of funding according to existing spending patterns.
+S1632 Importantly, we are proposing to retain the system of top-up funding at local level, so that resources can be linked directly to the support that institutions give to individual pupils and students.
+S1634 Concerns were expressed in both the schools and high needs consultations about the proposal to ring-fence the schools block impacting those pupils with a disability.
+S1635 We accept that some local authorities may face particular challenges and we confirmed in July we would not ring-fence the schools block in 2017-18.
+S1670 1.5 Under the national funding formula the schools block will allocate funding for pupils in Reception to Year 11 in state-funded mainstream schools and academies in England.
+S1671 Special schools, alternative provision, provision in nursery schools and classes, sixth form provision and post-16 only institutions are not funded under this formula.
+S1672 The City of London and Isles of Scilly are also excluded as they will receive a separate grant of funding for their schools.
+S1673 We have also excluded the two city technology colleges, who have funding agreements outside of the dedicated schools grant.
+S1674 1.6 As part of this consultation, we have published illustrative funding allocations for schools and local authorities, showing illustrative funding if the national funding formula had been implemented in full and without any transitional protection in 2016-17. ** (Reference: 73)
+S1833 The total growth baseline for each local authority is the sum of the explicit and implicit growth baselines.
+S1834 2.21 We do not include explicit growth funding in our illustrations of the impact of the national funding formula at school level as we do not have the 2016-17 data at a school level.
+S1835 We do include implicit growth funding in the illustrative school level impact because we are using adjusted pupil counts that include adjustments for implicit growth.
+S1836 The reason we include implicit growth funding in our illustration of the impact of the national funding formula on schools is so that it is easier for schools to compare the illustrative national funding formula to their baselines.
+S1837 2.22 The total local authority schools block baseline is equal to the 2016-17 schools block baseline from the baselines exercise plus a £92 million transfer from the high needs block to the schools block.
+S1838 This transfer covers the increase in the number of pupils receiving funding through the schools block under the national funding formula because there will no longer be a deduction to the school’s pupil count for pupils in high needs places.
+S1839 2.23 We can split this total baseline into the 4 components:
+S1840 a) Core schools funding baseline: take the APT adjusted baseline for each school and deduct the premises, mobility and implicit growth baselines (set out in chapter 2).
+S1841 b) Premises factors baseline: baseline set out above in chapter 2.
+S1842 c) Mobility factor baseline: baseline as set out above in chapter 2.
+S1843 d) Growth factor baseline: baseline as set out above in chapter 2.
+S1844 2.24 Our published illustrative allocations in December 2016 exclude any new schools that are still filling up and do not have pupils in all year groups yet (as defined in chapter 1) from each local authority’s core schools funding baseline.
+S1846 2.25 The total baseline funding for each school is equal to the adjusted funding baseline – either the APT adjusted or the academy allocations adjusted baseline set out in chapter 2.
+S1847 This includes funding through the:
+S1848 a) Core schools funding factors b)
+S1849 Premises factors c)
+S1850 Mobility factor d)
+S1851 Implicit growth factor
+S1852 3.1 We set out the calculation of each component of the schools block national funding formula below.
+S1853 We use pupil and school characteristics data from the 2016-17 APT data to calculate the national funding formula pupil-led and school-led units of funding.
+S1854 For the other components we use either data from the APT or GAG, as in the baselines approach, depending on whether we are calculating local authority illustrative allocations or the illustrative impact on schools.
+S1855 3.2 Core schools funding covers funding through the national funding formula pupil-led and school-led factors.
+S1856 Through the core schools funding calculation we produce a national funding formula pupil-led unit of funding (£ per pupil) and national funding formula school-led unit of funding (£ per school) for each eligible school.
+S1857 3.3
+S1858 The national funding formula pupil-led unit of funding covers funding for the school through the basic per pupil, deprivation, low prior attainment and English as an additional language (EAL) factors.
+S1859 The area cost adjustment (ACA) is also applied to uplift funding in line with local area costs.
+S1860 Each school’s pupil-led unit of funding is calculated using characteristics data from the 2016-17 APT.
+S1861 The national funding formula pupil-led unit of funding is equal to:
+S1862 a) the total funding through all pupil-led factors;
+S1863 b) uplifted in line with ACA; and c) divided by the APT adjusted pupil count.
+S1864 3.4 The national funding formula school-led unit of funding covers funding for the school through the lump sum and sparsity factors.
+S1865 The ACA is also applied to uplift funding in line with local area costs.
+S1866 Each school’s school-led funding is calculated using characteristics data from the 2016-17 APT.
+S1867 The national funding formula school-led unit of funding is equal to:
+S1868 a) the total funding through all school-led factors;
+S1869 b) uplifted in line with ACA.
+S1870 Figure 3: Basic per pupil funding factors Factor Unit value Eligibility Primary age basic per pupil funding £2,712 Each pupil on the school roll in year groups from reception to year 6 inclusive.
+S1871 The primary APT adjusted pupil count is based on data from the 2016-17 APT with adjustments to include pupils in high needs places and exclude reception uplift.
+S1872 £3,797 Each pupil on the school roll in year groups from year 7 to year 9 inclusive.
+S1873 Key stage 3 (KS3) basic per pupil funding The KS3 APT adjusted pupil count is based on data from the 2016-17 APT with adjustments to include pupils in high needs places.
+S1874 £4,312 Each pupil on the school roll in year groups from year 10 to year 11 inclusive.
+S1875 Key stage 4 (KS4) basic per pupil funding The KS4 APT adjusted pupil count is based on data from the 2016-17 APT with adjustments to include pupils in high needs places.
+S1876 3.5 The total through the basic per pupil funding factor is equal to:
+S1877 a. Primary basic per pupil amount multiplied by the primary APT adjusted pupil count plus b. KS3 basic per pupil amount multiplied by the KS3 APT adjusted pupil count plus c. KS4 basic per pupil amount multiplied by the KS4 APT adjusted pupil count
+S1878 3.6 The additional needs factors allocate funding to schools on the basis of the number of pupils who have particular characteristics.
+S1879 For each factor, schools receive a unit of funding per eligible pupil.
+S1880 The number of eligible pupils is worked out by calculating the proportion of pupils in the school who are eligible for each factor, and then applying this proportion to the APT adjusted pupil count. ** (Reference: 77)
+S1881 This step is necessary to ensure the changes to the pupil number from the unit change and reception change feeds through into the various proxy factors.
+S1882 3.7 The proportion of pupils eligible for each factor only takes account of pupils for whom we have data.
+S1883 We assume that pupils with missing characteristics data are eligible at the same rate as all other pupils.
+S1884 This is the same methodology as local authorities currently use to allocate funding to schools.
+S1885 E.g.
+S1886 a. School B has 400 pupils but only 360 have valid data returns for free school meal (FSM) eligibility.
+S1887 b.
+S1888 Of the 360 pupils with valid FSM data, 90 are claiming FSM.
+S1889 Therefore the proportion of pupils eligible for funding through the FSM factor is 25% (90 divided by 360).
+S1890 c.
+S1891 The total number of eligible pupils is calculated by multiplying the total pupil count, 400, by the school’s proportion of FSM eligible pupils, 25%.
+S1892 Therefore School B receives funding through the FSM factor for 100 pupils.
+S1893 3.8 The additional needs factors are additive so pupils attract funding for all qualifying factors.
+S1894 Socio-economic deprivation – FSM Figure 4: FSM funding factors Factor Unit value Eligibility Primary FSM £440 Schools receive funding for all FSM eligible primary pupils through this factor.
+S1895 We calculate the total number of eligible pupils by taking the proportion of FSM eligible primary pupils from the 2016-17 APT and multiplying by the primary APT adjusted pupil count.
+S1896 Factor Unit value Eligibility Secondary FSM £440 Schools receive funding for all FSM eligible secondary pupils through this factor.
+S1897 We calculate the total number of eligible pupils by taking the proportion of FSM eligible secondary pupils from the 2016-17 APT and multiplying by the secondary APT adjusted pupil count (KS3 APT adjusted pupil count plus KS4 APT adjusted pupil count).
+S1898 Primary FSM6 £540 Schools receive funding for all primary pupils who have been recorded as eligible for FSM at any time in the last six years (FSM6) through this factor.
+S1899 (This includes all primary pupils who are currently eligible for FSM.)
+S1900 We calculate the total number of eligible pupils by taking the proportion of FSM6 eligible primary pupils from the 2016-17 APT and multiplying by the primary APT adjusted pupil count. ** (Reference: 78)
+S1901 Secondary FSM6 £785 Schools receive funding for all secondary pupils who have been recorded as eligible for FSM at any time in the last six years (FSM6) through this factor.
+S1902 (This includes all secondary pupils who are currently eligible for FSM.)
+S1903 We calculate the total number of eligible pupils by taking the proportion of FSM6 eligible secondary pupils from the 2016-17 APT and multiplying by the secondary APT adjusted pupil count.
+S1904 Socio-economic deprivation – Area-level deprivation data:
+S1905 Income Deprivation Affecting Children Index (IDACI) 3. The IDACI element of the deprivation factor is based on the IDACI dataset which is published by the Department for Communities and Local Government. ** (Reference: 79, 81)
+S1906 IDACI is a relative measure of socio-economic deprivation: an IDACI ‘score’ is calculated for a lower super output area (LSOA, an area with about 1,500 residents) based on the characteristics of households in that area.
+S1907 The IDACI score of a given area doesn’t mean that every child living in that area has particular deprivation characteristics: it’s a measure of the likelihood that a child is in a household experiencing socio-economic deprivation.
+S1908 3.10 The Department for Education has previously created a ‘banding’ methodology to enable the IDACI data to be used for school funding purposes.
+S1909 IDACI scores are grouped into seven bands, with each band representing an increase in the expected level of deprivation.
+S1910 We match IDACI data to pupils’ home postcode data recorded in the school census in order to find the IDACI score relevant to each pupil in a school.
+S1911 The amount of IDACI funding received by a school depends on the IDACI scores of each pupil.
+S1912 3.11 We have matched the 2015 IDACI data (the most recent update to the IDACI dataset) to pupil data from the October 2015 school census, on the basis of the LSOA of the pupil’s home address.
+S1913 We have updated our banding methodology and this will be used by local authorities to allocate schools block funding in 2017-18.
+S1914 This is to better reflect the latest IDACI data collected.
+S1915 The distribution of IDACI scores has changed between 2010 and 2015 - there are now fewer pupils living in the most deprived LSOAs.
+S1916 We group IDACI scores into new bands, and these have been designed so that we continue to target funding towards a similar proportion of pupils through the most deprived IDACI bands.
+S1917 The 2016-17 IDACI bands and the new national funding formula IDACI bands (to be used by local authorities to allocate funding through IDACI in 2017- 18) are set out in figure 5.
+S1918 Figure 5: Comparison of the 2016-17 and national funding formula IDACI bands – using pupil level data from the October 2015 schools census National funding formula IDACI 2016-17 IDACI bands bands bands
+S1919 % % IDACI score Band IDACI score Band pupils pupils Between 0.6 and 0.6 and 6 1% 1 Between 0. Between 0. A 3% and 1 Between 0.5 and 5 3% 0.5 and 5 3% 0. Between 0.4 and 0.4 and Between 0. 4 8% 0.5 and 0. Between 0. B 8% and 0. Between 0.35 Between 0.35 C 7% and 0. Between 0.3 and 0.3 and 3 14% 0. Between 0. Between 0. D 8% and 0.35 Between 0.25 and 0.25 and Between 0.25 2 9% 0.3 and 0. Between 0.25 E 9% and 0. Between 0.2 and 0.2 and Between 0. 1 10% 0.25 and 0.25 Between 0. F 10% and 0.25 Less than 0. 0 56% Less than 0. G 56% Figure 6: ** (Reference: 74, 75, 76, 77, 78)
+S1920 IDACI funding factors Factor Unit value Eligibility Primary IDACI band A £575 Schools receive funding for all primary pupils living in areas with an IDACI 2015 score above 0.2 through one of the IDACI factors.
+S1921 £420 Primary IDACI band B £360 Primary IDACI band C £360 We calculate the total number of eligible pupils for funding through each IDACI band by working out the proportion of IDACI band “x” eligible primary pupils for the relevant band, using October 2015 school census data, and multiplying by the primary APT adjusted pupil Primary IDACI band D Factor Unit value Eligibility £240 count.
+S1922 Primary IDACI band E £200 Exceptions for schools that opened after Primary IDACI band £200 October 2015 are set out below the table.
+S1923 F Secondary IDACI band A £810 Schools receive funding for all secondary pupils living in areas with an IDACI 2015 score above 0.2 through one of the IDACI factors.
+S1924 £600 Secondary IDACI band B £515 Secondary IDACI band C £515 Secondary IDACI band D
+S1925 We calculate the total number of eligible pupils for funding through each IDACI band by working out the proportion of IDACI band “x” eligible secondary pupils for the relevant band, using October 2015 school census data, and multiplying by the secondary APT adjusted pupil count.
+S1926 £390 Secondary IDACI band E Exceptions for schools that opened after October 2015 are set out below the table.
+S1927 £290 Secondary IDACI band F 3. Where a school has opened after the October 2015 school census and the local authority has entered estimated IDACI data on the 2016-17 APT, we don’t hold the pupil- level postcode data that we need to work out the new IDACI banding score for each pupil. ** (Reference: 84)
+S1928 For these illustrative allocations the only data we hold for these schools is the proportion of pupils receiving funding under each IDACI band in 2016-17, based on the previous banding methodology, so we have to make assumptions at a school level when rebanding IDACI scores.
+S1929 Figure 7 sets out how the proportions of eligible pupils in the 2016-17 IDACI bands for these schools are mapped to the national funding formula IDACI bands.
+S1930 Figure 7: Estimating pupil eligibility for national funding formula IDACI bands for schools that opened after October 2015 National funding 2016-17 IDACI bands formula IDACI bands
+S1931 Detail
+S1932 IDACI score Band IDACI score Band Between 0.6 and Bands 5 and 6 0.6 and 6 1 Between 0.5 mapped directly across Between 0. A and 1 and 1 Between 0.5 and to band A 5 0.5 and 5 0. Between 0.4 and 0.4 and Between 0. 4 0.5 and 0. Between 0. B and 0. Band 4 mapped directly across to band B Between 0.35 Between 0.35 Band 3 split C and 0.4 between Between 0.3 and 0.3 and 3 0. C and 0.4 between bands C and D Between 0. D Between 0. D and 0.35 Between 0.25 Between 0.25 and and 0. E 0.25 and 2 0. Band 2 mapped directly across to band E Between 0. Between 0.2 and and 0.25 F 0.2 and 1 0.25 Band 1 mapped directly across to band F Less than 0. Less than 0. 0 ** (Reference: 74, 75, 76, 77, 78)
+S1933 G Band 0 mapped directly across to band G 3. In cases where IDACI data for existing schools has been amended in the APT, these amendments are not reflected in the national funding formula allocations, because the amended data is based on pre-2015 bandings. ** (Reference: 85)
+S1934 Low prior attainment factor 3. We use early years foundation stage profile (EYFSP) and key stage 2 (KS2) attainment data to work out how many pupils are eligible for funding through the low prior attainment factor. ** (Reference: 86)
+S1935 As for other factors we use data for these factors as recorded by local authorities in the 2016-17 APT.
+S1936 Figure 8: Low prior attainment funding factors Factor Unit value Eligibility Primary low prior attainment £1,050 Schools receive funding for all primary pupils who didn’t reach the expected level of development at foundation stage through this factor.
+S1937 The number of pupils attracting primary low prior attainment funding has to be calculated in a special way because younger pupils have been tested in a different way to older pupils and because we do not have low prior attainment data for pupils in Reception.
+S1938 We calculate the total number of eligible pupils by 1. taking the proportion of low prior attainment eligible primary pupils in years 1 to 3 (pupils who did not achieve the expected level of development in the EYFSP) from the 2016-17 APT and multiplying by the Y1 –Y3 APT adjusted pupil count 2.
+S1939 then taking the proportion of low prior attainment eligible primary pupils in years 4 to 6 (pupils who achieved fewer than 78 points in the EYFSP) from the 2016- 17 APT and multiplying by the Y4-Y6 APT adjusted pupil count 3. then summing 1 and 2 and dividing by the Y1-6 APT adjusted pupil count, to give the proportion of low prior attainment eligible primary pupils 4. and finally, multiplying this proportion by the primary APT adjusted pupil count, which includes pupils in Reception.
+S1940 Factor Unit value Eligibility Secondary low prior attainment £1,550 Schools receive funding for all secondary pupils who didn’t achieve level 4 at key stage 2 in one or more of reading or writing or mathematics through this factor.
+S1941 We calculate the total number of eligible pupils by taking the proportion of low prior attainment eligible secondary pupils from the 2016-17 APT and multiplying by the secondary APT adjusted pupil count.
+S1942 English as an additional language (EAL) factor The pupils eligible for funding through the national funding formula EAL factor are pupils recorded on the census as having entered state education in England during the last three years, and having been exposed to a mother tongue other than English (EAL3).
+S1943 Figure 9: EAL funding factors Factor Unit value Eligibility Primary EAL £515 Schools receive funding for all EAL eligible primary pupils through this factor.
+S1944 We calculate the total number of eligible pupils by taking the proportion of EAL eligible primary pupils from the 2016-17 APT and multiplying by the primary APT adjusted pupil count.
+S1945 Secondary EAL £1,385 Schools receive funding for all EAL eligible secondary pupils through this factor.
+S1946 We calculate the total number of eligible pupils by taking the proportion of EAL eligible secondary pupils from the 2016-17 APT and multiplying by the secondary APT adjusted pupil count.
+S1947 3.15 Each school receives a lump sum, irrespective of size.
+S1948 Figure 10: Lump sum funding factor Factor Unit value Eligibility Lump sum £110,000 All schools receive this lump sum, we do not differentiate funding by phase.
+S1949 3.16
+S1950 The sparsity factor targets extra funding to schools that are both small and remote.
+S1951 Figure 11: Sparsity funding factor Factor Unit value Eligibility Primary sparsity £0 - £25,000 Sparsity eligibility set out in detail below.
+S1952 Secondary sparsity £0 - £65,000 3.17 To decide if a school is eligible for sparsity funding we use the same criteria as currently recommended by the department for use in local authority schools block funding formulae, and sparsity distance and year group data from the 2016-17 APT.
+S1953 A school is eligible for sparsity funding if:
+S1954 a)
+S1955 For all the pupils for whom it is the nearest compatible school, the average straight-line distance from the pupil’s homes to the second nearest compatible school (the sparsity distance) is more than three miles (for secondary schools) or two miles (for all other schools), and b)
+S1956 The average year group size (APT adjusted pupil count divided by number of year groups) is below the year group threshold.
+S1957 This is 21.4 for primary schools, 69.2 for middle schools, 120 for secondary schools and 62.5 for all-through schools.
+S1958 3.18 We have set a maximum sparsity sum that schools can receive through the sparsity factor.
+S1959 We taper this sparsity sum using the school’s sparsity weighting, so that as the average year group size approaches the threshold sparsity funding decreases.
+S1960 Sparse schools with a greater number of pupils receive less funding than smaller sparse schools.
+S1961 Sparsity weighting 3.19 We calculate a sparsity weighting for each school that is eligible for sparsity funding.
+S1962 This sparsity weighting sets the proportion of the sparsity sum that each sparse school is eligible for.
+S1963 3.20
+S1964 The sparsity weighting for schools with an average year group of less than half the year group threshold is 100%.
+S1965 These sparse schools receive the full sparsity sum.
+S1966 3.21 The sparsity weighting for larger sparse schools is calculated as follows:
+S1967 𝑆= ൭1 − ൱, ൗ≤𝐴< 𝑇 𝑇2 larger sparse 𝐴− ൗ 𝑇2 ൗ 𝑇2 Where S is the sparsity weighting A is the average year group size of the school T is the year group threshold 3.22
+S1968 The sparsity weighting for primary, middle, secondary and all-through schools will receive is set out in figure 12 below.
+S1969 Figure 12 – Sparsity weighting
+S1970 3.23 The national funding formula includes an area cost adjustment to reflect the variation in labour market costs.
+S1971 The government’s response to the first stage national funding formula consultation confirmed that we will use the ‘hybrid’ methodology for the ACA, which takes into account variation in both the general labour market (GLM) and the teacher labour market.
+S1972 3.24 The national funding formula ACA calculation is largely the same as that used to calculate the 2015-16 minumum funding levels hybrid ACA with the following methodological changes:
+S1973 a) Pay data for unqualified and part-time teachers is now reliable enough to be included.
+S1974 b)
+S1975 The weightings of the teacher and non-teacher elements of the ACA are now based on expenditure in mainstream schools only, excluding nursery and special schools. ** (Reference: 80)
+S1976 c) Expenditure data for academies is included in the calculation of the teacher and non-teacher weightings.
+S1977 3.25 The national funding formula ACA is a combination of:
+S1978 a)
+S1979 The teacher pay cost adjustment, an element to reflect the differences in the basic pay ranges between the four regional pay bands for teachers and b) ** (Reference: 81)
+S1980 The general labour market cost adjustment, an element to reflect geographical variation in wage costs for non-teaching staff.
+S1981 3.26 The national funding formula ACA is calculated for each district by:
+S1982 a) Weighting the relevant teachers specific cost adjustment in line with the national proportion of spend on teaching staff.
+S1983 b) Weighting the relevant GLM labour cost adjustment in line with the national proportion of spend on non-teaching staff.
+S1984 3.27 We calculate the national funding formula pupil-led unit of funding (pre funding floor) for each school by:
+S1985 a) Adding together the total funding through each pupil-led factor (basic per pupil, deprivation, low prior attainment and EAL).
+S1986 b) Uplifting in line with the school’s ACA.
+S1987 c)
+S1988 Dividing by the schools total APT adjusted pupil count.
+S1989 3.28 We calculate the national funding formula school-led unit of funding for each school by:
+S1990 a) Adding together the total funding through each school-led factor (lump sum and sparsity).
+S1991 b) Uplifting in line with the school’s ACA.
+S1992 3.29 The national funding formula includes a funding floor which limits the overall per pupil loss any school will experience due to changes to their pupil and school-led funding.
+S1993 We calculate the funding floor twice, once to use in local authority illustrative allocations (using data from the 2016-17 APT only) and once to show the illustrative impact of the national funding formula on schools (using data from the 2016-17 APT or 2016/17 GAG).
+S1994 3.30 To calculate whether a school receives additional funding as a result of the floor (to ensure that their funding is reduced by no more than 3% per pupil overall as a result of this formula)
+S1995 we look at the changes between each school’s funding floor baseline (per pupil) and national funding formula pupil-led unit of funding (per pupil).
+S1996 We take account of changes to a school’s pupil and school-led funding in the funding floor calculation – premises, mobility and growth funding will be allocated and protected at local authority level.
+S1997 3.31 We use APT adjusted baselines for all schools in our calculation of the funding floor for use in the local authority illustrative allocations.
+S1998 Figure 13 sets out the funding floor calculation steps and a worked example.
+S1999 Figure 13 – calculation of the national funding formula funding floor for use in local authority illustrative allocations Calculation step Description Example 1)
+S2000 APT adjusted baseline funding (definition set out in chapter 2)
+S2001 We start with the APT adjusted baseline for each school, the 2016-17 schools baseline funding based on APT data only.
+S2002 School C is an academy and has an APT adjusted baseline of £750,000.
+S2003 School C has premises and mobility baseline funding of £3,000.
+S2004 2) Premises and mobility baseline funding (APT only) (definition set out in chapter 2)
+S2005 We exclude premises and mobility baseline funding before calculating protections, as these factors are calculated and protected at local authority level.
+S2006 Calculation step Description Example 3) National funding formula school-led unit of funding (set out in chapter 3) multiplied by the proportion of the financial year baseline year that the school will be open School C is open for the full baseline year (100%) so national funding formula school- led unit of funding (taking account of % of baseline year the school is open) is £110,000.
+S2007 Most school are open for the full baseline year, so this step does not change the national funding formula school-led unit of funding.
+S2008 However, where schools are only open for a proportion of the baseline year, we need to make the same adjustment to national funding formula funding so the baseline and national funding formula are comparable.
+S2009 4) APT adjusted pupil count (definition set out in chapter 2)
+S2010 School C has total APT adjusted pupil count of 150.
+S2011 Our funding floor calculation works on a per-pupil level, so we need to use the APT adjusted pupil count to calculate the baseline for the funding floor.
+S2012 The baseline for the funding floor is calculated by:
+S2013 5) Baseline for the funding floor calculation (per-pupil)
+S2014 Taking the total APT adjusted baseline funding (step 1)
+S2015 Excluding premises and mobility baseline funding (step 2)
+S2016 School C’s baseline for the funding floor calculation is £637,000 (APT adjusted baseline, excluding premises and mobility and minus national funding formula school-led unit of funding)
+S2017 Divided by 150 (APT adjusted pupil count)
+S2018 Subtracting national funding formula school-led unit of funding (after adjustment for the % of the baseline year the school is open) (step 3)
+S2019 This equals £4,247 per pupil.
+S2020 And dividing by the APT adjusted pupil count (step 4).
+S2021 School C is open for the full baseline year (100%) so national funding formula pupil- led unit of funding (pre funding floor) is £3,750.
+S2022 As with the national funding formula school-led unit of funding, we need to adjust the national funding formula pupil-led unit of funding (pre funding floor) to take account of the proportion of the baseline year a school is open for.
+S2023 6) National funding formula pupil-led unit of funding (pre funding floor) (set out in chapter 3) multiplied by the proportion of the baseline financial year that a school will be open Calculation step Description Example
+S2024 We work out the percentage change between the baseline for the funding floor and the national funding formula pupil-led unit of funding. ** (Reference: 82)
+S2025 7) What is the change between the baseline for the funding floor and the national funding formula pupil- led unit of funding?
+S2026 School C’s % change between the baseline for the funding floor and the national funding formula pupil-led unit of funding is -11.7%.
+S2027 School C loses 11.7% per pupil pre funding floor, so it will receive a protection of:
+S2028 8) How much funding will the school receive through the national funding formula funding floor?
+S2029 8.7% (-3% - -11.7%)
+S2030 Multiplied by £4,247 which is £369 per pupil.
+S2031 We are not allowing any school to see a reduction of over 3% in their per pupil baseline for the funding floor.
+S2032 This includes changes to pupil- led and school-led funding.
+S2033 If a school loses over 3% pre funding floor than the school is eligible for funding through the funding floor.
+S2034 The national funding formula funding floor per pupil for eligible schools is calculated by:
+S2035 Working out the difference between the funding floor (-3%) and the loss pre funding floor (step 7)
+S2036 Multiplying the difference by the baseline for the funding floor (step 5).
+S2037 9) National funding formula pupil-led funding, including funding floor The final output is the national funding formula pupil-led funding for each school, including the funding floor.
+S2038 This is equal to:
+S2039 School C’s national funding formula pupil- led unit of funding, including the funding floor, is £4,119 per pupil.
+S2040 National funding formula pupil-led unit of funding (pre funding floor) (step 6)
+S2041 Plus national funding formula funding floor per pupil (step 8).
+S2042 3.32 To calculate the funding floor for the illustrative impact of the national funding formula on schools we use APT adjusted baselines for local authority maintained schools and academy allocations adjusted baselines for academies.
+S2043 The calculation is exactly the same as used to work out the funding floor for use in local authority illustrative allocations, the change is to the input data.
+S2044 Figure 14 sets out the funding floor calculation steps and a worked example.
+S2045 Figure 14 – calculation of the national funding formula funding floor to show the illustrative impact of the national funding formula on schools Calculation step Description Example
+S2046 We start with the adjusted baseline for each school.
+S2047 School C is an academy and has an academy allocated adjusted baseline of £770,000.
+S2048 1) APT adjusted baseline funding or academy allocations adjusted baselines (definition set out in chapter 2)
+S2049 School C has premises and mobility baseline funding of £3,000.
+S2050 2) Premises and mobility baseline funding (APT or GAG data)
+S2051 (definition set out in chapter 2)
+S2052 We exclude premises and mobility baseline funding before calculating protections, as these factors are calculated and protected at local authority level.
+S2053 3) National funding formula school-led unit of funding (set out in chapter 3) multiplied by the proportion of the financial year or academic year baseline year that the school will be open School C is open for the full baseline year (100%) so national funding formula school- led unit of funding (taking account of % of baseline year the school is open) is £110,000.
+S2054 Most school are open for the full baseline year, so this step does not change the national funding formula school-led unit of funding.
+S2055 However, where schools are only open for a proportion of the baseline year, we need to make the same adjustment to national funding formula funding so the baseline and national funding formula are comparable.
+S2056 School C has total academy adjusted pupil count of 150.
+S2057 Our funding floor calculation works on a per-pupil level, so we need to use the adjusted pupil count to calculate the baseline for the funding floor.
+S2058 4) APT adjusted pupil count or academy allocations adjusted pupil count (definition set out in chapter 2)
+S2059 Calculation step Description Example
+S2060 The baseline for the funding floor is calculated by:
+S2061 5) Baseline for the funding floor calculation (per-pupil)
+S2062 Taking the total adjusted baseline funding (step 1)
+S2063 Excluding premises and mobility baseline funding (step 2)
+S2064 School C’s baseline for the funding floor calculation is £657,000 (adjusted baseline, excluding premises and mobility and minus national funding formula school-led unit of funding)
+S2065 Divided by 150 (adjusted pupil count)
+S2066 Subtracting national funding formula school-led unit of funding (after adjustment for the % of the baseline year the school is open) (step 3)
+S2067 This equals £4,380 per pupil.
+S2068 And dividing by the adjusted pupil count (step 4).
+S2069 School C is open for the full baseline year (100%) so national funding formula pupil- led unit of funding (pre funding floor) is £3,750.
+S2070 As with the national funding formula school-led unit of funding, we need to adjust the national funding formula pupil-led unit of funding (pre funding floor) to take account of the proportion of the baseline year a school is open for.
+S2071 6) National funding formula pupil-led unit of funding (pre funding floor) (set out in chapter 3) multiplied by the proportion of the financial year or academic year baseline year that a school will be open We work out the percentage change between the baseline for the funding floor and the national funding formula pupil-led unit of funding. ** (Reference: 83)
+S2072 7) What is the change between the baseline for the funding floor and the national funding formula pupil- led unit of funding?
+S2073 School C’s % change between the baseline for the funding floor and the national funding formula pupil-led unit of funding is -14.4%.
+S2074 Calculation step Description Example School C loses 14.4% per pupil pre funding floor, so it will receive a protection of 8) How much funding will the school receive through the national funding formula funding floor?
+S2075 11.4% (-3% - -14.4%)
+S2076 Multiplied by £4,380 We are not allowing any school to see a reduction of over 3% in their per pupil baseline for the funding floor.
+S2077 If a school loses over 3% pre funding floor than the school is eligible for funding through the funding floor.
+S2078 The national funding formula funding floor per pupil for eligible schools is calculated by:
+S2079 Which is £499 per pupil Working out the difference between the funding floor (-3%) and the loss pre funding floor (step 7)
+S2080 Multiplying the difference by the baseline for the funding floor (step 5).
+S2081 9) National funding formula pupil-led funding, including funding floor The final output is the national funding formula pupil-led funding for each school, including the funding floor.
+S2082 This is equal to:
+S2083 School C’s national funding formula pupil- led unit of funding, including the funding floor, is £4,249.
+S2084 National funding formula pupil-led unit of funding (pre funding floor) (step 6)
+S2085 Plus national funding formula funding floor per pupil (step 8).
+S2090 3.34 For the local authority illustrative allocations we calculate and protect premises funding on a local authority level.
+S2091 There are three steps to the calculation:
+S2092 a)
+S2093 We take the PFI premises factor baseline, as recorded on the 2016-17 APT and uplift in line with RPIX growth from April 2015 to April 2016 then b) ** (Reference: 84)
+S2094 We take the premises factor baselines for all other factors (split-sites, rates, exceptional circumstances 1-6) and finally c) Add the total through PFI and other factors together to give the national funding formula funding through the premises factors.
+S2095 3.35 To show the illustrative impact of the national funding formula at a school level we have calculated national funding formula premises funding using 2016-17 APT data (for local authority maintained schools) and 2016/17 GAG data (for academies).
+S2096 3.36 For local authority maintained schools we:
+S2097 a) Take the PFI premises factor baseline, as recorded on the 2016-17 APT and uplift in line with RPIX growth from April 2015 to April 2016; then b) Take the premises factor baselines for all other factors (split-sites, rates, exceptional circumstances 1-6); and c) Add the total through PFI and other factors together to give the national funding formula funding through the premises factors.
+S2098 d)
+S2099 If funding through the factors is negative (as some schools have negative premises factor baselines)
+S2100 we set the national funding formula premises factor to £0.
+S2101 3.37 For academies we:
+S2102 a) Take the PFI premises factor baseline, as recorded on the 2016/17 GAG and uplift in line with RPIX growth from April 2015 to April 2016; then b)
+S2103 We take the premises factor baselines for all other factors (split-sites, exceptional circumstances 1-6); and c) Add the total through PFI and other factors together to give the national funding formula funding through the premises factors.
+S2104 d)
+S2105 If funding through the factors is negative (as some schools have negative premises factor baselines)
+S2106 we set the national funding formula premises factor to £0.
+S2109 3.39 For local authority illustrative allocations the national funding formula mobility factor is equal to the mobility factor baseline (details set out in chapter 2).
+S2110 3.40 To show the illustrative impact of the national funding formula at a school level the national funding formula mobility factor is equal to the mobility factor baseline (details set out in chapter 2).
+S2111 3.41 The national funding formula will include a growth factor, so that it is responsive to significant changes to pupil numbers that are not recognised by lagged funding.
+S2117 3.42 For local authority illustrative allocations the national funding formula growth factor is equal to the growth factor baseline (details set out in chapter 2).
+S2118 3.43 We do not illustrate the impact of the national funding formula on explicit growth funding at a school level.
+S2119 We illustrate the impact of the national funding formula on implicit growth by using the adjusted pupil count (which includes local authority adjustments for growth as set out in chapter 2) to calculate the total funding under the national funding formula for each school.
+S2120 4.1 As part of the consultation we have published the illustrative impact of the national funding formula on local authorities – these illustrations set out baseline funding, the illustrative impact of the impact once formula has been fully implemented and the illustrative impact of the national funding formula in year 1.
+S2121 4.2 The baseline funding for each local authority is based on data captured in the 2016-17 APT and baselines exercise and is split in to four components, details are set out in chapter 2.
+S2122 4.3 To calculate the total illustrative funding once all schools in all local authorities are on formula we take the formula output for each component and add together:
+S2123 a) Core schools funding – calculated at a school level.
+S2124 For each school we:
+S2125 i. Take the national funding formula pupil-led funding, including funding floor (based on APT data only, details set out in Figure 13) and multiply by the schools block census count as recorded in October 2015. We use the October 2015 schools block census count as we allocate core schools funding to local authorities based on lagged pupil numbers. ** (Reference: 85)
+S2126 Funding for growth will be allocated separately under the national funding formula.
+S2127 ii.
+S2128 Add the national funding formula school-led funding (details set out in chapter 3) to give a core schools funding total for each school.
+S2129 Then for each local authority we aggregate up all the school level totals to calculate the total core schools funding for each local authority.
+S2130 b) Premises funding – calculated at local authority level.
+S2131 The calculation of national funding formula premises funding for each local authority is set out in chapter 3.
+S2132 c)
+S2133 Mobility funding – calculated at local authority level.
+S2134 The calculation of national funding formula mobility funding for each local authority is set out in chapter 3.
+S2135 d)
+S2136 Growth funding – calculated at local authority level.
+S2137 The calculation of national funding formula growth funding for each local authority is set out is chapter 3.
+S2176 4.5 To calculate the total illustrative funding in national funding formula year 1 for all local authorities we take the national funding formula year 1 output for each component and add together:
+S2177 a) Core schools funding – calculated at a school level.
+S2178 For each school we:
+S2179 i. Take the year 1 national funding formula pupil-led funding (based on APT data only and set out in figure 15) and multiply by the schools block census count as recorded in October 2015. ** (Reference: 87)
+S2180 We use the October 2015 schools block census count as we allocate core schools funding to local authorities based on lagged pupil numbers.
+S2181 Funding for growth will be allocated separately under the national funding formula.
+S2182 ii.
+S2183 Add the national funding formula school-led funding to give a core schools funding total for each school (details set out in chapter 3).
+S2184 Then for each local authority we aggregate up all the school level totals to calculate the total core schools funding for each local authority.
+S2185 b) Premises funding – calculated at local authority level.
+S2186 The calculation of national funding formula premises funding for each local authority is set out in chapter 3.
+S2187 c)
+S2188 Mobility funding – calculated at local authority level.
+S2189 The calculation of national funding formula mobility funding for each local authority is set out in chapter 3.
+S2190 d)
+S2191 Growth funding – calculated at local authority level.
+S2192 The calculation of national funding formula growth funding for each local authority is set out in chapter 3.
+S2193 5.1 As part of the consultation we have also published illustrative national funding formula funding allocations for individual schools – these illustrations set out baseline funding, the illustrative impact of the impact once formula has been fully implemented and the illustrative impact of the national funding formula in year 1.
+S2194 5.2 In order to illustrate the impact of the proposed national funding formula, we compare the funding schools received in 2016-17 (or 2016/17) to their illustrative national funding formula funding if the formula was implemented in full in 2016-17 (or 2016/17) without any transitional protections.
+S2195 So that we are comparing like with like, we make a number of technical adjustments to 2016-17 (or 2016/17) baselines to take into account changes we are making to the funding system as part of the national funding formula.
+S2196 5.3 The baseline funding for each school is either the APT adjusted baseline (for local authority maintained schools) or the academy allocations adjusted baseline (for academies), set out in chapter 2.
+S2197 5.4 To calculate the total illustrative funding once all schools are on the national funding formula we:
+S2198 a) Take the national funding formula pupil-led funding, post funding floor (set out in figure 14), and multiply by the adjusted pupil count (APT adjusted for local authority maintained schools and academy allocations adjusted for academies);
+S2199 b) Add the national funding formula school-led funding (details set out in chapter 3);
+S2200 c) Add the national funding formula premises factors (details set out in chapter 3, based on APT data for local authority maintained schools and GAG data for academies);
+S2201 d) Add the national funding formula mobility factor (details set out in chapter 3, based on APT data for local authority maintained schools and GAG data for academies).
+S2241 5.6 To calculate the total illustrative funding in national funding formula year 1 we:
+S2242 a) Take the national funding formula year 1 pupil-led funding (set out in figure 16) and multiply by the adjusted pupil count (APT adjusted for local authority maintained schools and academy allocations adjusted for academies, as set out in chapter 2).
+S2243 b) Add the national funding formula school-led funding (details set out in chapter 3).
+S2244 c) Add the national funding formula premises factors (details set out in chapter 3, based on APT data for local authority maintained schools and GAG data for academies).
+S2245 d) Add the national funding formula mobility factor (details set out in chapter 3, based on APT data for local authority maintained schools and GAG data for academies).
+S2246 A. The methodology for the teacher pay element of the national funding formula ACA is designed to bring out the differences in pay ranges between the four regional pay bands (Inner London, Outer London, Fringe and Rest of England), but not to reflect any regional differences in distribution along the pay ranges. ** (Reference: 73)
+S2247 We do not want the teacher pay cost adjustment to reflect regional differences in staffing choices, we only want it to reflect the differences in pay ranges between the four regional pay bands.
+S2248 E.g.
+S2249 If in Inner London there are fewer teachers in the leadership grade compared to the national average we do not want this to skew the teacher pay cost adjustment.
+S2250 A. The notional average salary for each pay band is calculated by transforming the basic pay of each teacher in England from the teacher’s actual pay band to the pay band in question and then taking the mean. ** (Reference: 74)
+S2251 This method means that we reflect the national distribution along the pay ranges in the teacher pay cost adjustment, rather than regional distributions.
+S2252 A. The basic pay is the gross salary minus allowances (allowances are classified into teaching and learning responsibilities, special educational needs, recruitment and retention and other). ** (Reference: 75)
+S2253 A. The calculation used to transform the basic pay of each teacher in England from the teacher’s actual pay band to the pay band in question is set out in an example below. ** (Reference: 76)
+S2254 This transformation is repeated for all teachers and all regional pay bands.
+S2255 E.g.
+S2256 The transformation to Inner London notional basic pay for a teacher who is actually in, say, the Rest of England, is calculated as follows:
+S2257 a)
+S2258 First, calculate the difference between the actual basic pay for the teacher and the bottom of the teacher’s actual pay range (the Rest of England range in this case) for this teacher’s grade (leadership, leading practitioner, upper pay range, main pay range or unqualified teacher).
+S2259 The pay ranges are as defined in the School Teachers’ Pay and Conditions Document (STPCD) for the relevant year (e.g. STPCD 2015 if November 2015 salaries are used).
+S2260 b) Then calculate the difference between the top and bottom of the Inner London pay range for this teacher’s grade and divide by the difference between the top and bottom of the teacher’s actual pay range (the Rest of England in this case).
+S2261 This gives an uplift which is used to convert the teacher’s actual basic pay to their Inner London notional basic pay.
+S2262 c) Apply the uplift calculated in step b to the distance from the bottom of the pay range to the teacher’s actual basic pay, calculated in step a.
+S2263 d) Add the figure calculated in step c to the bottom of the pay range for Inner London for this teacher’s grade.
+S2264 This gives the Inner London notional pay for this teacher.
+S2265 A. The following groups of staff are included in our calculation of the ACA teachers’ pay cost adjustment: ** (Reference: 77)
+S2266 a) Qualified and unqualified teachers b) Full-time and part-time teachers c) Classroom teachers and leaders d) Teachers in primary, secondary and special schools.
+S2267 A. ** (Reference: 78)
+S2268 The following groups of staff are not included in our calculation of the ACA teachers’ pay cost adjustment:
+S2269 a) Centrally employed teachers b) Supply teachers c) Teachers with incomplete or unreliable pay data A. ** (Reference: 79)
+S2270 The following caveats apply:
+S2271 a) Data is collected in the School Workforce Census in early November each year, at a time when not all schools have held pay determination meetings for their teachers.
+S2272 This means that salaries of some teachers reflect the previous academic year.
+S2273 b) Approximately 1-2% of schools do not provide School Workforce Census data each year.
+S2274 A. The teachers’ specific cost adjustment (SCA) for each regional pay band is calculated by dividing the mean notional basic pay for that pay band by the mean notional basic pay for the Rest of England pay band. ** (Reference: 80)
+S2275 A. ** (Reference: 81)
+S2276 The non-teacher pay element of the national funding formula ACA is based on the general labour market specific labour cost adjustment calculated by the Department for Communities and Local Government for 2013-14.
+S2277 A. The teacher and non-teaching staff elements of the national funding formula ACA are weighted in proportion to actual expenditure on teaching and non-teaching staff in primary and secondary schools. ** (Reference: 82)
+S2278 A. ** (Reference: 83)
+S2279 The national teacher proportion is the total expenditure on teachers divided by total expenditure on teachers, non-teaching staff and non-pay combined.
+S2280 The non- teaching staff proportion is total expenditure on non-teaching staff divided by total expenditure on teachers, non-teaching staff and non-pay combined.

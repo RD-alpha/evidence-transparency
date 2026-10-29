@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Broad scope covering all abuse types and a wide range of professions/organisations",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Jay Report on Rotherham (Reference 20) is named, cited and linked to the specific decision to include senior managers in scope, but the far larger set of scope choices (all abuse types, all the listed professions and sectors) rests only on unsourced reasoning such as 'because they can all be equally harmful to children'."
+    },
+    {
+      "theme": "Choice of accountability level (individual, organisational, or both)",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The FGM and Welsh models are named only as illustrative labels for individual vs organisational duties, with no outcome data or evaluation offered, so the choice rests entirely on unsupported reasoning about proportionality and impact."
+    },
+    {
+      "theme": "Tiered sanctions framework combining existing, DBS and criminal routes",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The extensive benefits/risks lists for the three sanction tiers (e.g. 'A criminal standard of proof is a high bar...') and the definitional references 23-24 for remedial/publicity orders are reasoning and definitions, not evidence of effect."
+    },
+    {
+      "theme": "Cost assumptions underpinning implementation estimates",
+      "primary_evidence": true,
+      "score": 0,
+      "justification": "Lines such as 'We expect that the consultation exercise will help us to refine the options and assess possible costs and benefits more robustly' describe an intention to gather evidence later, with no figures, methodology, or data presented now."
+    }
+  ],
+  "reasoning": "Across the four core themes the document mostly argues from unevidenced reasoning rather than evidence. The scope theme (level 1) contains one genuine piece of cited evidence -- the Jay Report into Rotherham (Reference 20), linked explicitly to the decision to bring senior managers within scope -- but the much larger set of scope decisions (all abuse types, the long table of professions and sectors) is justified only by assertions like 'because they can all be equally harmful to children', with no data or study behind them. The accountability-level theme (level 0) names the FGM and Welsh models only as illustrative labels for individual versus organisational duties, never reporting how either model has actually performed, so the weighing of pros and cons ('may not be appropriate, constructive or proportionate') is pure reasoning. The tiered sanctions theme (level 0) is similarly argument-only: claims such as 'A criminal standard of proof is a high bar' or that DBS sanctions 'could overload the system' are asserted without any cited study, prosecution data, or comparator. The cost theme (level 0) repeatedly defers evidence-gathering to the consultation itself ('we will consult widely... to provide robust costings'), so no assumptions about the ~2.8 million professionals or referral volumes are actually shown. The strongest counter-example is the Jay Report citation, which does meet level 2 on its own narrow point. Mean of core theme levels (1+0+0+0)/4 = 0.25, rounding to 0. To reach level 1 overall, the document would need to show, for the accountability-level and sanctions choices, at least some named finding or comparator result explaining why a tier or level was chosen.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.25,
+  "score_consistent": true,
+  "missing_core": []
+}

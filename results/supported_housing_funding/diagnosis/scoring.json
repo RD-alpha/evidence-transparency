@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Universal Credit roll-out",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that UC meets housing costs only up to LHA rates is asserted (\"Universal Credit will meet core housing costs, up to the level of the relevant LHA rate\") and the monthly-payment challenge is argued without data, while the only cited lines (references 27, 28) have no definitions and merely describe current rules and exemptions._"
+    },
+    {
+      "theme": "Higher costs and complex funding of supported housing",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Figures of \u00a34.12bn, \u00a32.05bn and 716,000 people come from the department's commissioned review with its method described in ungrouped lines (197 authority responses, 173 provider responses, 54 interviews, 150 discussion participants) and reference 2 is a followable link, though the 716,000 estimate is hedged and many other references (11, 12, 51, 52) are undefined, and the review's caveats (survey and data limits) are noted only in ungrouped lines.__"
+    },
+    {
+      "theme": "Weak local oversight, quality and value for money",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Findings on patchy commissioning and inconsistent HB decisions rest on the review's qualitative interviews and surveys (e.g. 70% of HB teams vs 26% of commissioners, inconsistent rent acceptance lines) with method described in ungrouped lines, but the cited references (13, 26, 7) are undefined or irrelevant, and several claims are unquantified views of 'some' participants.___"
+    },
+    {
+      "theme": "Funding uncertainty and risk to supply",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Claims about closures and stalled investment rest on research participants' views and anecdotes (stalled extra care schemes, CASSH2 allocation turned down), with the review's own caveat that a detailed LHA cap impact assessment was beyond scope and references 55\u201361 undefined, though references 94 and 95 (HCA 2016, NAO 2014) are followable and the 45% NAO cut and 3,569 rough sleepers (+30%) are quantified.____"
+    }
+  ],
+  "reasoning": "Four core themes were scored. Universal Credit roll-out scores 0: the line \"Universal Credit will meet core housing costs, up to the level of the relevant LHA rate\" and the monthly-payment challenge are asserted with no data, and references 27 and 28 have no definitions and only describe current exemptions. Higher costs and complex funding scores 2: the \u00a34.12bn Housing Benefit and \u00a32.05bn support figures, and up to 716,000 people, are the department's own estimates. The method is stated in ungrouped lines (197 authority responses, 173 provider responses, 54 interviews, 150 discussion participants), and reference 2 links to the review. Weak local oversight scores 1: it relies on interview and survey findings (70% of HB teams versus 26% of commissioners) and on 'some providers said' claims, with dead references 13, 26 and 7. Funding uncertainty scores 1: the closure and stalled-investment claims rest on participants' views and anecdotes, though references 94 and 95 (HCA 2016, NAO 2014) are followable and the 45% fall in Supporting People spending is quantified. The mean is (0+2+1+1)/4 = 1.0, so the score is 1. The strongest counter-example is the cost theme, which reaches level 2 and could suggest a higher score. The review also acknowledges that its data are indicative and that the LHA cap impact was out of scope, which edges toward level 3 on that theme alone. To reach level 2 overall, the document would need to cite working references for the Universal Credit, oversight and supply claims and show how the evidence supports each claim. Level 3 would additionally need assessment of the evidence base's limits, in the document itself.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

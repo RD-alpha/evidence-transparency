@@ -1,0 +1,40 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Lower NICs for the self-employed",
+        "claim": "Self-employed people pay lower NICs than employees (9% vs 12% Class 4/Class 1, plus no employer NICs), so the same earnings generate materially less tax and NICs depending on employment status."
+      },
+      {
+        "name": "Fiscal cost and growing self-employment",
+        "claim": "The foregone NICs cost the public finances an estimated £5.1 billion in 2016-17, and with self-employment rising as a share of the workforce and the planned Class 2 abolition widening the gap, this poses significant fiscal challenges."
+      },
+      {
+        "name": "Narrowed benefit access gap",
+        "claim": "The historical justification for lower self-employed contributions, less state support, has weakened because the new State Pension gives the self-employed the same entitlement as employees, leaving only minor differences in parental benefits and contribution-based JSA."
+      }
+    ],
+    "note": "Diagnosis sentences are interleaved with descriptive tax-system detail and worked examples; the core argument is the gap in contributions, its fiscal cost and the erosion of the rationale for it."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Class 2 abolition and Class 4 increase",
+        "claim": "Class 2 NICs will be abolished and the Class 4 rate raised from 9% to 10% in 2018 and 11% in 2019, which simplifies the system for the self-employed, makes it more progressive and narrows the gap with employee NICs."
+      },
+      {
+        "name": "Parity with employees through the new State Pension",
+        "claim": "The Class 4 increase is justified because the self-employed now have the same State Pension as employees, worth up to £1,800 a year more, so the lower contribution rate is no longer warranted."
+      },
+      {
+        "name": "Revenue and distributional impact",
+        "claim": "The reforms raise less revenue at first but a net £215 million a year by 2019-20, and protect low-profit earners because only those with profits above £16,250 pay more, with worked examples showing most gain overall once personal allowance rises are included."
+      }
+    ],
+    "note": "The document does not examine alternative options to this package, and some of the proposal-labelled text is worked examples and budget table rows."
+  },
+  "implementation": {
+    "core_themes": [],
+    "note": "Only one sentence is labelled implementation (Class 4 replacing Class 2 as the basis for benefit entitlement from April 2018), which is too thin to support a core theme."
+  }
+}

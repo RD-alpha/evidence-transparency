@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "National skills shortage and productivity gap",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Public sector lagging the private sector",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Diversity, inclusion and social mobility shortfall",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Changing perceptions of apprenticeships",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

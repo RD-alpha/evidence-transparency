@@ -1,0 +1,5 @@
+{
+  "reasoning": "The extract contains a single line: 'It will be reviewed.' This is the barest possible indication that some form of evaluation might occur, but it gives no success measures, no outcomes to be measured, no testing plans, no timetable, no explanation of methodology, and no indication of what will happen to results or whether they will be published. It does not even specify who will review, what criteria will be used, or when. Because there is no indication of success measures at all (not even a vague one), the document fails to meet even level 1, which requires 'some indication of success measures.' The strongest counter-example to awarding any higher level is simply that 'reviewed' is undefined - it could mean anything from a full impact evaluation to an informal check-in, and no metrics or outcomes are named. To reach level 1, the document would need to specify at least some measurable outcomes (e.g., lobster stock recovery, landing volumes) that would indicate success. To reach higher levels, it would need testing plans, an evaluation timetable, and publication plans.",
+  "score": 0,
+  "block": true
+}

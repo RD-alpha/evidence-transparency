@@ -1,0 +1,77 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Outdated match test drives chemical use",
+        "claim": "The 1988 match test is tested against an illegal, highly flammable foam that no longer reflects modern furniture construction, forcing manufacturers to over-treat cover fabrics with flame retardants to pass it."
+      },
+      {
+        "name": "Health and environmental harm from flame retardants",
+        "claim": "Flame retardant chemicals used to meet the current test, particularly brominated FRs on cover fabrics, are linked to a growing body of evidence on endocrine, neurological, cancer and environmental harms as they migrate into dust, humans, animals and the environment."
+      },
+      {
+        "name": "Ambiguous scope of the regulations",
+        "claim": "The prescriptive list-based scope of the 1988 regulations creates ambiguity over which products and components are covered, undermining certainty for business and consumers."
+      },
+      {
+        "name": "Weak traceability undermines enforcement",
+        "claim": "Current traceability requirements lack supply-chain information, which is needed to enable product recall and effective enforcement by Trading Standards."
+      },
+      {
+        "name": "Existing regulations are effective at preventing harm",
+        "claim": "The FFRs have successfully prevented substantial numbers of deaths, injuries and fires, so any reform must preserve these existing safety benefits."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Preferred option: update the regulations",
+        "claim": "Updating the regulations via a new, more realistic match test is the preferred option because it meets the policy objectives of maintaining safety, reducing flame retardant use, cutting costs and improving clarity and enforcement."
+      },
+      {
+        "name": "Removal of the cigarette test",
+        "claim": "The cigarette test should be revoked for fabrics passing the new match test because it is redundant and its removal generates additional cost savings for industry."
+      },
+      {
+        "name": "Rejection of alternative options",
+        "claim": "Doing nothing would forgo cost and technology benefits, and revoking the regulations in favour of weaker EU standards would unacceptably increase risk to consumer safety, so neither alternative is pursued."
+      },
+      {
+        "name": "Cost-benefit case for the proposal",
+        "claim": "The proposal is justified by a modelled net benefit (best estimate around £124m over ten years) built on quantified costs (familiarisation, transition, traceability) and benefits (reduced FR use, removal of the cigarette test), albeit with significant uncertainty in the underlying assumptions."
+      },
+      {
+        "name": "Consultation-driven revision of the proposal",
+        "claim": "The original 2014 proposal's estimated savings and design were revised downward and reshaped in direct response to industry consultation feedback disputing the scale of benefits and raising transition cost concerns."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Flexible routes to compliance",
+        "claim": "A new set of four routes to compliance (interliner, interliner+match test, protective cover, non-protective cover plus components test), developed with stakeholders, allows businesses flexibility in how they meet the revised testing requirements."
+      },
+      {
+        "name": "Clarifying and narrowing scope",
+        "claim": "Scope will be clarified and potentially narrowed, including testing in consultation whether baby products, second-hand furniture and other grey-area items should be excluded, to reduce unnecessary testing and FR use."
+      },
+      {
+        "name": "Strengthened traceability record-keeping",
+        "claim": "Manufacturers and importers will be required to hold more complete product and supply-chain records for an extended ten-year period to improve enforcement and recall capability."
+      },
+      {
+        "name": "Extended transition period to limit business cost",
+        "claim": "The transition period for compliance has been lengthened to 24 months, in response to stakeholder concerns, to minimise costs from stock scrappage and early re-testing."
+      },
+      {
+        "name": "Unresolved protective cover test to be settled via consultation",
+        "claim": "The methodology for determining whether a cover fabric qualifies as 'protective' has not yet been finalised and will be tested and developed further through consultation."
+      }
+    ],
+    "note": ""
+  }
+}

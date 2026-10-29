@@ -1,0 +1,31 @@
+{
+  "themes": [
+    {
+      "name": "High buy-out use in Target Period 1",
+      "ids": [
+        "S0040",
+        "S0041",
+        "S0042",
+        "S0043"
+      ]
+    },
+    {
+      "name": "Original buy-out price rationale",
+      "ids": [
+        "S0037",
+        "S0038",
+        "S0052",
+        "S0053",
+        "S0054",
+        "S0055"
+      ]
+    },
+    {
+      "name": "Limits of the TP1 evidence",
+      "ids": [
+        "S0045",
+        "S0046"
+      ]
+    }
+  ]
+}

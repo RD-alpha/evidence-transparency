@@ -1,0 +1,103 @@
+<root>
+<theme sentences="21" weight="core">
+<name>Lower NICs for the self-employed</name>
+<claim>Self-employed people pay lower NICs than employees (9% vs 12% Class 4/Class 1, plus no employer NICs), so the same earnings generate materially less tax and NICs depending on employment status.</claim>
+<text>
+<line id="S0017">The self-employed pay the same rates of income tax as employees: 20% at the basic rate; 40% at the higher rate; and 45% at the additional rate.</line>
+<line id="S0018">Both employees and the self-employed benefit from the personal allowance, which will increase to £11,500 in April 2017.</line>
+<line id="S0020">1.6 There are some differences in the way that employed and self-employed tax is calculated.</line>
+<line id="S0021">For example, expenses not subject to income tax are typically more generous for the self-employed than the employed.</line>
+<line id="S0022">In addition, there is a losses regime in place for the self-employed, which allows them to offset losses made in one year against their income tax liability over time.</line>
+<line id="S0023">1.7 The self-employed also pay a lower rate of NICs than employees, at 9% between the lower profits limit (£8,060 in 2016-17) and the upper profits limit (£43,000 in 2016-17) compared to 12% for an employee on earnings between the same thresholds.</line>
+<line id="S0024">Currently, the self-employed also pay Class 2 NICs at a flat rate of £2.80 per week (or £145.60 a year) although this is due to be abolished from April 2018.</line>
+<line id="S0025">1.8 In addition, employer NICs adds a 13.8% charge on employees’ earnings above £8,112.</line>
+<line id="S0026">The employer is liable for paying employer NICs, but the cost of this tends to be passed on to the employee through reduced wages. No such charge is due for those engaged by a business on a self-employed basis. ** (Reference: 1)</line>
+<line id="S0028">1.9 The tax and NICs paid by an individual differs depending on whether they are employed or self-employed.</line>
+<line id="S0029">For example in 2016-17, an individual in employment with a salary of £32,000 will pay £7,073 in tax and employee NICs, whereas a self-employed person earning the same amount will pay £6,500; a difference of £573.</line>
+<line id="S0030">In addition, the employed person’s employer will have to pay an additional £3,297 in employer NICs, making a total differential of £3,870.</line>
+<line id="S0031">This extra employer NICs charge may lower the headline salary offered to the employee.</line>
+<line id="S0033">Basic rate of income tax: Employee: 20%; Self-employed: 20%.</line>
+<line id="S0034">Higher rate of income tax: Employee: 40%; Self-employed: 40%.</line>
+<line id="S0035">Additional rate of income tax: Employee: 45%; Self-employed: 45%.</line>
+<line id="S0036">Class 4 NICs for self-employed: Employee: 12%; Self-employed: 9%.</line>
+<line id="S0037">Class 1 Primary NICs for employed.</line>
+<line id="S0038">Class 4 and Class 1 Primary NICs upper rate (paid above £43,000): Employee: 2%; Self-employed: 2%.</line>
+<line id="S0039">Class 2 NICs (profits above £5,965 until 2018): Employee: -; Self-employed: £2.80pw.</line>
+<line id="S0040">Employer NICs (paid by the employer): Employee: 13.8%; Self-employed: -.</line>
+</text>
+<references>
+<reference number="1">See:  http://www.bankofengland.co.uk/archive/Documents/historicpubs/qb/2002/qb020402.pdf</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="7" weight="core">
+<name>Fiscal cost and growing self-employment</name>
+<claim>The foregone NICs cost the public finances an estimated £5.1 billion in 2016-17, and with self-employment rising as a share of the workforce and the planned Class 2 abolition widening the gap, this poses significant fiscal challenges.</claim>
+<text>
+<line id="S0004">The number of self- employed working in the UK has increased over recent decades and now accounts for 15.1% of the UK workforce.</line>
+<line id="S0063">1.18 While the difference between self-employed and employed individuals’ access to contributory benefits has diminished significantly with the introduction of the new State Pension, the abolition of Class 2 NICs from 2018 means that the difference in NICs paid was due to widen.</line>
+<line id="S0064">At the same time, the proportion of the workforce who are self-employed has risen considerably since the late 1970s, with recent growth continuing a steady upwards trend that began in the early 2000s.</line>
+<line id="S0066">This poses significant fiscal challenges.</line>
+<line id="S0067">The foregone NICs from lower rates paid by the self- employed compared with employees is estimated to cost the public finances £5.1 billion in 2016-17. ** (Reference: 5)</line>
+<line id="S0068">And the Office for Budget Responsibility have revised their self-employment forecast at Spring Budget 2017 to reflect the changing make-up of the labour market, which reduces projected tax receipts by around £1 billion a year by 2020-21.</line>
+<line id="S0513">On its own this would increase the differential between the rates of National Insurance paid by employees and those paid by the self-employed.</line>
+</text>
+<references>
+<reference number="5">This represents the NICs that would be paid if the self-employed were subject to Class 1 (employee and employer) NICs. See: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/579720/Dec_16_Main_Reliefs_Final.pdf</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="7" weight="core">
+<name>Narrowed benefit access gap</name>
+<claim>The historical justification for lower self-employed contributions, less state support, has weakened because the new State Pension gives the self-employed the same entitlement as employees, leaving only minor differences in parental benefits and contribution-based JSA.</claim>
+<text>
+<line id="S0042">1.11 NICs have a specific purpose: receipts from NICs are spent on the NHS and contributory benefits (including the State Pension).</line>
+<line id="S0043">A proportion of NICs, around 20%, goes directly to fund the NHS.</line>
+<line id="S0044">A fund separate from general taxation called the National Insurance Fund takes in NICs receipts and uses them to fund contributory benefits.</line>
+<line id="S0045">1.12 Individuals in work between the age of 16 and State Pension age pay NICs above a certain earnings or profits threshold; this provides eligibility to certain benefits.</line>
+<line id="S0046">1.13 Historically, the differences in rates of contributions reflected the fact that the self- employed received less support than employees from the state in the form of contributory welfare benefits and statutory payments, particularly the State Pension.</line>
+<line id="S0063">1.18 While the difference between self-employed and employed individuals’ access to contributory benefits has diminished significantly with the introduction of the new State Pension, the abolition of Class 2 NICs from 2018 means that the difference in NICs paid was due to widen.</line>
+<line id="S0514">Since April 2016, the self-employed also have access to the same State Pension as employees, worth £1,800 a year more to a self-employed individual than under the previous system. ** (Reference: 35)</line>
+</text>
+<references>
+<reference number="35">This is derived from [published weekly state pension rates for 2016-17] (https://www.gov.uk/state-pension/what-youll-get). ↩</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="4" weight="not core">
+<name>Purpose and funding of National Insurance</name>
+<text>
+<line id="S0042">1.11 NICs have a specific purpose: receipts from NICs are spent on the NHS and contributory benefits (including the State Pension).</line>
+<line id="S0043">A proportion of NICs, around 20%, goes directly to fund the NHS.</line>
+<line id="S0044">A fund separate from general taxation called the National Insurance Fund takes in NICs receipts and uses them to fund contributory benefits.</line>
+<line id="S0045">1.12 Individuals in work between the age of 16 and State Pension age pay NICs above a certain earnings or profits threshold; this provides eligibility to certain benefits.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="not core">
+<name>Other</name>
+<text>
+<line id="S0520">This will reduce the tax differential between the employed and self-employed on the one hand and those working through a company on the other, and raise revenue to invest in our public services. ** (Reference: 36)</line>
+</text>
+<references>
+<reference number="36">HMRC analysis estimates that the Exchequer cost of the existing discretionary company population, as defined by the OBR in its November 2016 Economic and fiscal outlook, will be over £6 billion in 2021-22. ↩</reference>
+</references>
+<links>
+</links>
+</theme>
+<ungrouped sentences="1">
+<text>
+<line id="S0016">1.5 As set out in Table 1.A, the tax and NICs that an individual pays varies according to whether they are employed or self-employed.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</ungrouped>
+</root>

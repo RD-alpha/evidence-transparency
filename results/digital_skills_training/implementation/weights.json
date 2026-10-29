@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "Delivery through existing providers and budget",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation on details",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

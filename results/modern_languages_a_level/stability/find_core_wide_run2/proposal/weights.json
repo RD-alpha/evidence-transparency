@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Modern languages as a rigorous interdisciplinary subject",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Broad transferable benefits",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Relevance to all students",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Foundation for degree-level study",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

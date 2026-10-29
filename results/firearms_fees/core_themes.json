@@ -1,0 +1,53 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Taxpayer subsidy of licensing costs",
+        "claim": "Government and police firearms licences are free or priced far below cost (museum and club fees unreviewed since 1995, prohibited weapons licences uncharged for lack of a power), leaving taxpayers to bear roughly £700,000 a year."
+      },
+      {
+        "name": "Higher-risk licences need Government administration",
+        "claim": "Prohibited weapons, museum and shooting club licences are issued centrally by the Home Office and Scottish Government, with thorough checks and police involvement, to give extra assurance and national consistency, and this work is what imposes the cost."
+      },
+      {
+        "name": "Licence holders are identifiable beneficiaries",
+        "claim": "The licences are held by a defined set of businesses and organisations (dealers, carriers, maritime security firms, museums, clubs), the groups the Government considers should bear the cost, with police and other firearms fees already raised to full cost recovery."
+      }
+    ],
+    "note": "Diagnosis is mostly factual description of current licensing and subsidy; it contains little assessment of the strength of its evidence."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Full cost recovery from licence holders",
+        "claim": "Government chose to introduce fees for prohibited weapons licences and raise museum and club fees so that licence holders rather than taxpayers pay the full cost, in line with other licensing regimes and Managing Public Money, rejecting the do-nothing option that leaves the taxpayer subsidising."
+      },
+      {
+        "name": "Fee levels and costing method",
+        "claim": "Proposed fees by licence and variation type equal Home Office plus police costs, derived from activity-based costing and unit costs under stated assumptions, with no cross-subsidisation and a discount to avoid double charging."
+      },
+      {
+        "name": "Estimated costs and benefits",
+        "claim": "Charging would shift about £712,000 a year from taxpayers to licence holders, giving zero net present value, with application-volume sensitivity (up to +15%) and risks that low-value activities may cease."
+      },
+      {
+        "name": "Enabling charging powers",
+        "claim": "The Policing and Crime Bill supplies flexible powers to charge different fees for different cases, removing the legal barrier that previously prevented charging for prohibited weapons licences."
+      }
+    ],
+    "note": "The proposal rests partly on a legal enabling power and partly on a policy principle; the consultation also invites views on whether any group warrants subsidy, which is left undecided."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Fees set by secondary legislation",
+        "claim": "After consultation responses are considered and the Bill's enabling powers pass, final fees will be set in secondary legislation applying equally across England, Wales and Scotland, with commencement expected in 2017."
+      },
+      {
+        "name": "Review of fees and efficiency savings",
+        "claim": "Data and fee levels will be updated before implementation and reviewed regularly so that savings, including those from the new online application system, are passed on to licence holders."
+      }
+    ],
+    "note": "Implementation is thin and procedural, and repeats the same statements about secondary legislation and timing in several places."
+  }
+}

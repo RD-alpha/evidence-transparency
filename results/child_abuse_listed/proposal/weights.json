@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "theme": "Two alternative statutory duties, with duty to act designed as a bespoke substitute for extending wilful neglect",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Mixed and inconclusive international evidence on mandatory reporting",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Quantifiable costs versus unmonetised benefits",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "High profile failures and case examples motivating reform",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Policy objectives and expected benefits",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Risks and unintended consequences of mandatory reporting",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Risks and unintended consequences of duty to act",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Existing UK and international models for reporting duty",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Scope and definitions of covered professionals",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Impact on small and micro businesses",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

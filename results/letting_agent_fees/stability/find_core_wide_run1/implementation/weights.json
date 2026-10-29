@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Primary enforcement by local authorities",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Additional enforcement mechanisms under consideration",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant empowerment and education as enforcement tool",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Penalty regime for non-compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Defining permitted charges and mitigating financial burden",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Legislative framework and complementary measures",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "reasoning": "The document contains a single line: 'How should compliance with the ban be monitored?' This is merely a question, not an answer. It does not provide any success measures, outcomes to be tracked, plans for testing, evaluation timetable, or consultation plans. It doesn't even explain why testing or evaluation would be inappropriate. The strongest counter-example to any higher score is that this is the only content shown - it raises the issue of monitoring but gives no substantive detail on how this would actually be done, what metrics would be used, or when any evaluation would occur. To reach level 1, the document would need to at least state some concrete success measure (e.g., reduction in microbead pollution levels, number of compliance checks, etc.). To reach level 2 or 3, it would need testing/evaluation plans, a timetable, and details on publication of results. As it stands, this extract shows no indication of success measures, testing or evaluation - just an open question.",
+  "score": 0,
+  "block": true
+}

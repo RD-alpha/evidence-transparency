@@ -1,0 +1,124 @@
+{
+  "themes": [
+    {
+      "name": "Three delivery routes for creating apprenticeships",
+      "ids": [
+        "S0060",
+        "S0061",
+        "S0062",
+        "S0063",
+        "S0064",
+        "S0065",
+        "S0066"
+      ]
+    },
+    {
+      "name": "Reforming recruitment, pay and career structures",
+      "ids": [
+        "S0067",
+        "S0068",
+        "S0069",
+        "S0070",
+        "S0071",
+        "S0072",
+        "S0073",
+        "S0075",
+        "S0076"
+      ]
+    },
+    {
+      "name": "Governance and UK-wide delivery structure",
+      "ids": [
+        "S0081",
+        "S0082",
+        "S0083",
+        "S0084",
+        "S0085",
+        "S0087",
+        "S0088",
+        "S0089",
+        "S0090",
+        "S0091",
+        "S0092"
+      ]
+    },
+    {
+      "name": "Data collection and long-term tracking for monitoring",
+      "ids": [
+        "S0143",
+        "S0144",
+        "S0159"
+      ]
+    },
+    {
+      "name": "Diversity, inclusion and socio-economic access",
+      "ids": [
+        "S0008",
+        "S0079",
+        "S0080",
+        "S0105",
+        "S0108",
+        "S0181",
+        "S0189",
+        "S0190",
+        "S0192",
+        "S0193"
+      ]
+    },
+    {
+      "name": "Breadth of apprenticeship provision and skill development",
+      "ids": [
+        "S0029",
+        "S0039",
+        "S0040",
+        "S0166",
+        "S0169",
+        "S0200",
+        "S0202"
+      ]
+    },
+    {
+      "name": "Quality assurance and training standards",
+      "ids": [
+        "S0114",
+        "S0139",
+        "S0140",
+        "S0141",
+        "S0221",
+        "S0222",
+        "S0223"
+      ]
+    },
+    {
+      "name": "Career progression and talent pipeline",
+      "ids": [
+        "S0111",
+        "S0205",
+        "S0206"
+      ]
+    },
+    {
+      "name": "Cross-sector collaboration and wider economy support",
+      "ids": [
+        "S0086",
+        "S0134",
+        "S0135",
+        "S0136"
+      ]
+    },
+    {
+      "name": "Programme governance and strategic direction",
+      "ids": [
+        "S0118",
+        "S0119"
+      ]
+    },
+    {
+      "name": "Apprenticeship levy funding",
+      "ids": [
+        "S0243",
+        "S0252"
+      ]
+    }
+  ]
+}

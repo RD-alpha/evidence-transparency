@@ -1,0 +1,35 @@
+{
+  "title": "Air Travel Organisers Licencing (ATOL) reform",
+  "alias": "atol_reform",
+  "uploaded_at": "2026-10-13T12:26:21.678150+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "12:26:21 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "atol_consultation",
+      "title": "ATOL Reform Consultation",
+      "sentence_count": 584,
+      "first_sentence": "S0001",
+      "last_sentence": "S0584",
+      "reference_count": 10,
+      "first_reference": "1",
+      "last_reference": "10",
+      "link_count": 8
+    },
+    {
+      "alias": "atol_ia",
+      "title": "ATOL Reform Impact Assessment",
+      "sentence_count": 507,
+      "first_sentence": "S0585",
+      "last_sentence": "S1091",
+      "reference_count": 28,
+      "first_reference": "11",
+      "last_reference": "38",
+      "link_count": 4
+    }
+  ],
+  "appendix2_date": "28 October 2016 / 25 October 2016",
+  "appendix2_type": "consultation + IA (combined in Appendix order)",
+  "extraction_note": "PDF table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

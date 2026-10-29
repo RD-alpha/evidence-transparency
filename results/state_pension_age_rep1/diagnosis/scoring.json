@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rising life expectancy and time spent in retirement",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Figures such as 13\u00bd years/23% in 1948 and 21 years/32% in 2007 (refs 5,6), projections (ref 13, 19, 26) and DWP calculations (refs 21, 28) are cited and linked to the rising share of adult life in retirement; the DWP calculation method is only partly described (adult life starts at 20, ref 6), and the uncertainty lines from the uncertainty theme are not strong enough to make this level 3."
+    },
+    {
+      "theme": "Demographic change and the pay-as-you-go burden",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Dependency ratio 301 to 375 (ref 8), 12.4m to 16.9m (ref 7), 1% of GDP/\u00a3725 per household from Cridland and OBR (refs 9, 30), and OBR spending projections (refs 31, 32) are cited and clearly linked to the cost burden, but the OBR projection uncertainty is not assessed here."
+    },
+    {
+      "theme": "Past slow adjustment of State Pension age",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The history of Acts and the 2005 Pensions Commission finding is explained, but only the Pensions Commission claim carries a reference (ref 20) and the timetable of Acts is mostly uncited description of law rather than evidence."
+    },
+    {
+      "theme": "Uncertainty of life expectancy projections",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The lines on the Government Actuary's 2012- versus 2014-based projections shifting the rise to 68 by five years are a concrete example of uncertainty, but the report is named only in the prose with no reference or link."
+    }
+  ],
+  "reasoning": "The core themes are four. The life expectancy theme reaches level 2: it states that a 65-year-old could expect 13\u00bd years (23% of adult life) in 1948 rising to 21 years (32%) by 2007 (Reference: 5,6), projects a further two years in twenty years (Reference: 13), and cites DWP analysis (Reference: 21, 28). The demographic and pay-as-you-go theme also reaches level 2: the dependency ratio rising from 301 to 375 per 1,000 (Reference: 8), the 1% of GDP and \u00a3725 per household rise (Reference: 9, 30) and the OBR figures (Reference: 31, 32) are cited and tied to the cost claim. The past slow adjustment theme is level 1, because only the Pensions Commission claim is cited (Reference: 20) and the rest of the history is uncited description of law. The uncertainty theme is level 1: it says 'life expectancy projections are uncertain' and gives the Government Actuary example of the 2012-based versus 2014-based projections bringing the rise to 68 forward by five years, but names the report only in the prose without a reference. The mean of the core levels is (2+2+1+1)/4 = 1.5, which rounds down to 1. The strongest counter-example is that the two quantitative themes are well cited and clearly linked, which supports a 2; however, the uncertainty assessment is the weakest and is not itself cited, so the section is not lifted. To reach level 2 overall, the document would need to cite the Government Actuary's report and the Pensions Commission history and legislation evidence; to reach level 3 it would need to assess the uncertainty around its projections throughout.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

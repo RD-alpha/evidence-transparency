@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Outdated match test drives excess chemical use",
+        "claim": "The 1988 match test is tested over obsolete, highly flammable foam rather than the combustion-modified foam used in real products, forcing manufacturers to over-use flame retardant chemicals on cover fabrics to pass a test that no longer reflects how furniture is actually constructed."
+      },
+      {
+        "name": "Health and environmental harm from flame retardants",
+        "claim": "Flame retardant chemicals used to meet the current test are linked to health harms (endocrine disruption, cancer, neurological impairment) and environmental harm (persistence in dust, leaching into landfill and the food chain), creating a growing case for reducing their use."
+      },
+      {
+        "name": "Scope ambiguity and weak traceability undermine enforcement",
+        "claim": "The prescriptive and dated scope definitions create ambiguous 'grey areas' for certain products, and limited supply-chain traceability information hampers enforcement authorities' ability to identify sources of unsafe products and enforce recalls."
+      },
+      {
+        "name": "Existing regulations are effective and must not be weakened",
+        "claim": "The current FFRs have been demonstrably successful in preventing fires, injuries and deaths, so any reform must preserve these safety outcomes even while addressing the chemical and testing problems."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Choice of 'update the regulations' over alternatives",
+        "claim": "The document argues that updating the regulations (new match test, removal of cigarette test, revised scope and traceability) is preferable to doing nothing (which forgoes savings) or revoking the regulations (which would rely on weaker EU standards and risk consumer safety)."
+      },
+      {
+        "name": "Consultation-driven revision of the evidence base",
+        "claim": "Because industry consultation responses disputed the original cost-saving and environmental benefit estimates, BIS/BEIS revised the proposal's design (test set-up, routes to compliance, transition period) and substantially reduced its estimated benefits to reflect this contested and uncertain evidence base."
+      },
+      {
+        "name": "Monetised cost-benefit case for the package",
+        "claim": "The proposal is justified by a quantified net benefit (best estimate around £15-18m per year in savings against familiarisation, testing and traceability costs of around £3-6m), built on explicit assumptions about FR reduction rates, fabric volumes and compliance-route uptake that are acknowledged as uncertain."
+      },
+      {
+        "name": "Scope and traceability reform as part of the proposed package",
+        "claim": "Alongside testing changes, the proposal includes clarifying the scope of covered products (including possible exclusion of baby products) and strengthening traceability record-keeping, to reduce ambiguity and aid enforcement as part of the same reform."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Flexible routes to compliance reflecting stakeholder feedback",
+        "claim": "Implementation will offer multiple routes to compliance (interliner exemption, match test with components testing, and an optional 'protective cover' route) designed and weighted (with estimated uptake percentages) in response to stakeholder concerns that a single rigid test approach was unworkable."
+      },
+      {
+        "name": "Extended transition period to limit business costs",
+        "claim": "The transition period for manufacturers and retailers to adapt was extended from the originally proposed 18 months to 24 months, based on consultation feedback, to minimise stock write-off and early re-testing costs."
+      },
+      {
+        "name": "Strengthened traceability record-keeping requirements",
+        "claim": "Implementation will require manufacturers and importers to maintain more detailed technical files (materials, FR use, contacts) for an extended 10-year period, modelled on practice in other product safety regimes, to improve enforcement without large new burdens."
+      },
+      {
+        "name": "Unresolved design details to be settled through further consultation",
+        "claim": "Key implementation details—such as the methodology for determining a 'protective' cover and which scope exclusions (e.g. baby products, grey-area items) to adopt—remain undecided and will be tested and finalised through further consultation."
+      }
+    ],
+    "note": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Legislative route and timetable",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Interim and retrospective payments to retired members",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Recovery of historic contributions and ancillary scheme windows",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Handling unresolved cases",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

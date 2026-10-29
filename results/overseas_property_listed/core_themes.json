@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Hidden ownership enabling corruption and money laundering",
+        "claim": "The document claims that offshore and complex company structures are used to obscure the true owners of UK property, enabling corruption, money laundering, terrorist financing and tax evasion."
+      },
+      {
+        "name": "Regulatory gap for overseas entities",
+        "claim": "The document claims that the existing PSC register, which successfully reveals beneficial ownership of UK companies, does not apply to companies incorporated overseas, leaving a loophole that is exploited to hide illicit ownership."
+      },
+      {
+        "name": "Dysfunction in the property market from opacity",
+        "claim": "The document claims that opaque overseas ownership also harms the ordinary functioning of the property market, making it hard for tenants, neighbours and others to identify who controls a property."
+      },
+      {
+        "name": "Risk of harm from public disclosure",
+        "claim": "The document claims that making beneficial ownership information public can itself put certain individuals at risk of violence, intimidation or other harm, justifying protective safeguards."
+      }
+    ],
+    "note": "The diagnosis aspect combines the central corruption/transparency problem with a secondary, almost countervailing diagnosis about privacy risk that motivates the later protection regime."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Transparency register as anti-corruption tool",
+        "claim": "The document claims that creating a public register of beneficial owners of overseas entities owning UK property or bidding for government contracts will combat corruption and money laundering and boost market confidence, building on the success of the domestic PSC register."
+      },
+      {
+        "name": "Extending coverage to existing owners and procurement",
+        "claim": "The document claims the register should cover both overseas entities that already own property and those bidding for central government contracts, rather than only future purchasers, to avoid a two-tier system and ensure government knows who it contracts with."
+      },
+      {
+        "name": "Balancing transparency with proportionality for investors",
+        "claim": "The document claims that the new requirements must be designed to be workable and proportionate so as not to deter legitimate foreign investment, since the UK's open economy depends on it."
+      },
+      {
+        "name": "Commissioning evidence to assess costs and benefits",
+        "claim": "The document claims that further research and an Impact Assessment will be commissioned to quantify the economic costs and benefits of the policy before it is finalised."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Registration number and land registry enforcement mechanism",
+        "claim": "The document claims that requiring overseas entities to obtain a registration number from Companies House, linked to restrictive notes on the land title register and voiding of non-compliant transfers, is the chosen mechanism to enforce compliance, backed by Companies House's existing expertise."
+      },
+      {
+        "name": "Aligning definitions with the existing PSC regime",
+        "claim": "The document claims that the beneficial owner definition, scope of legal entities, and leasehold thresholds should mirror the existing PSC regime to ensure consistency, prevent manipulation, and apply workably to diverse overseas legal forms."
+      },
+      {
+        "name": "Choice among procurement compliance options",
+        "claim": "The document claims that one of three specific procurement options (preferred-bidder disclosure, exclusion for non-disclosure, or rejection as non-compliant) must be chosen to enforce beneficial ownership disclosure in government contracting, each with distinct legal and practical trade-offs under procurement law."
+      },
+      {
+        "name": "Protection regime for at-risk individuals",
+        "claim": "The document claims that a suppression mechanism, modelled on but extended beyond the PSC register's protections, is needed to prevent public disclosure of ownership information from putting individuals at risk of harm."
+      }
+    ],
+    "note": "Implementation contains many procedural and definitional details (fees, timelines, specific statutory references) that support but are not themselves load-bearing for the overall delivery argument."
+  }
+}

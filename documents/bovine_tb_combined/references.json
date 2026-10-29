@@ -1,0 +1,30 @@
+[
+  {
+    "number": "1",
+    "text": "APHA (2015). Bovine tuberculosis: Infection status in cattle in England – annual surveillance report for the period January to December 2014 (section 8). Report available online at: https://www.gov.uk/government/publications/bovine-tb-surveillance-in-great-britain-2014",
+    "source_alias": "bovine_tb_measures",
+    "source_title": "Bovine TB Enhanced Surveillance and Controls Consultation",
+    "source_number": "1"
+  },
+  {
+    "number": "2",
+    "text": "Clegg, T. A. et al. Shorter-term risk of Mycobacterium bovis in Irish cattle following an inconclusive diagnosis to the single intradermal comparative tuberculin test; Preventive Veterinary Medicine 102(4):255- 64 ·",
+    "source_alias": "bovine_tb_measures",
+    "source_title": "Bovine TB Enhanced Surveillance and Controls Consultation",
+    "source_number": "2"
+  },
+  {
+    "number": "3",
+    "text": "The Green Book: appraisal and evaluation in central government",
+    "source_alias": "bovine_tb_measures",
+    "source_title": "Bovine TB Enhanced Surveillance and Controls Consultation",
+    "source_number": "3"
+  },
+  {
+    "number": "4",
+    "text": "Defra, Impact Assessment “Measures to address bovine TB in badgers”. Please see paragraph 6.47.",
+    "source_alias": "bovine_tb_measures",
+    "source_title": "Bovine TB Enhanced Surveillance and Controls Consultation",
+    "source_number": "4"
+  }
+]

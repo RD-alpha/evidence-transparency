@@ -1,0 +1,75 @@
+{
+  "themes": [
+    {
+      "name": "Phased approach via secondary legislation informed by consultation",
+      "ids": [
+        "S0024",
+        "S0025",
+        "S0029",
+        "S0089",
+        "S0091",
+        "S0188"
+      ]
+    },
+    {
+      "name": "Principles-led development of smart charging standards",
+      "ids": [
+        "S0185",
+        "S0186",
+        "S0187",
+        "S0189",
+        "S0190",
+        "S0191",
+        "S0192",
+        "S0193",
+        "S0198"
+      ]
+    },
+    {
+      "name": "Placing obligations on retailers/installers and site operators",
+      "ids": [
+        "S0199",
+        "S0200",
+        "S0201",
+        "S0202",
+        "S0203",
+        "S0222",
+        "S0225",
+        "S0226",
+        "S0227",
+        "S0228",
+        "S0230"
+      ]
+    },
+    {
+      "name": "Staged civil penalty enforcement regime",
+      "ids": [
+        "S0269",
+        "S0270",
+        "S0271",
+        "S0272",
+        "S0273",
+        "S0274",
+        "S0275",
+        "S0276",
+        "S0277",
+        "S0278"
+      ]
+    },
+    {
+      "name": "Stakeholder engagement and consultation process",
+      "ids": [
+        "S0023",
+        "S0028",
+        "S0090",
+        "S0346"
+      ]
+    },
+    {
+      "name": "Future scope of smart charging powers",
+      "ids": [
+        "S0197"
+      ]
+    }
+  ]
+}

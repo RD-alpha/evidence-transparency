@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Corporation tax relief modelled on existing creative reliefs",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only evidence is HMRC's July 2016 statistics on film (210 claims, over \u00a31 billion expenditure) and high-end TV (50 programmes), which are uncited and show only that other reliefs are used, not that this relief will work; the remaining lines are assertion about fairness and simplicity."
+    },
+    {
+      "theme": "Targeting to charitable and educational institutions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines assert that the relief should support institutions with charitable or educational objectives and exclude commercial businesses, with no statistic, finding or source behind the market-failure claim."
+    },
+    {
+      "theme": "Definitions and eligible costs",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The definitions, exclusions and core-cost lists in Boxes 4.B-4.D and the 'in line with other creative sector tax reliefs' line are design choices and consultation questions, with no evidence that they will work or why they were set as they are."
+    },
+    {
+      "theme": "Design criteria and open questions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The criteria (effective, affordable, simple, sustainable, abuse-resistant, EU-compliant) and Question 1 are statements of principle; the State aid reference is a general constraint with no cited law, and the 'positive impact' line is asserted without support."
+    },
+    {
+      "theme": "Economic and business impacts",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The impact statements (no macroeconomic, equalities or family effects, a positive effect on small businesses) are asserted without figures, data or sources."
+    }
+  ],
+  "reasoning": "The four core themes mostly offer description and assertion rather than evidence. The strongest material is in the first theme: \"HMRC published official statistics in July 2016 showing that 210 films claimed the film tax credit from 2015 to 2016, with the relief supporting over \u00a31 billion worth of UK expenditure\", plus 50 high-end television programmes. That is evidence the film and TV reliefs are used, so the theme reaches level 1. But it has no reference or link, and it does not show that a relief for exhibitions would increase their number or quality. The targeting theme (\"The government wants the relief to provide support to museums and galleries with charitable or educational objectives\") asserts a market failure with no data. The definitions and eligible-costs theme gives proposed definitions and cost lists with consultation questions, and no evidence for why the boundaries are drawn where they are. The design-criteria theme lists principles, and the EU State aid point is a general constraint with nothing cited. Scores are 1, 0, 0 and 0, a mean of 0.25, which rounds to 0. The strongest counter-example to this level is the HMRC statistics, which could be read as support for modelling on existing reliefs. To reach level 1 overall, the document would need to offer evidence for the problem of under-provision and for the choice of a tax relief, such as sector data or consultation findings. Citing sources, explaining how that evidence leads to this design, and assessing its limits would be needed for levels 2 and 3.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.25,
+  "score_consistent": true,
+  "missing_core": []
+}

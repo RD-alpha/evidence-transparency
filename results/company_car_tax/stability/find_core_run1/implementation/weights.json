@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "Open consultation to decide unresolved design questions",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Separation of structural design from rate-setting",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

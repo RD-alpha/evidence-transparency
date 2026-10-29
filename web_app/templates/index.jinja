@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ document_title }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="header-bar">
+    <div class="header-row header-row-top">
+        <div class="header-bar-text">
+            <h1>{{ document_title }}</h1>
+        </div>
+        <div class="header-actions">
+            <details class="document-switcher">
+                <summary class="document-switcher-button">Switch document</summary>
+                <ul class="document-switcher-menu">
+                    {% for doc in available_documents %}
+                    <li>
+                        <a href="{{ url_for('switch_document', alias=doc.alias) }}" class="{% if doc.alias == current_alias %}is-current{% endif %}">{{ doc.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </details>
+            <a class="generate-report-button generate-report-button-secondary" href="{{ url_for('upload.upload_page') }}">Upload</a>
+            <a class="generate-report-button generate-report-button-secondary" href="{{ url_for('analyse.analyse_page') }}">Analyse</a>
+            <a class="generate-report-button" href="{{ url_for('annotate.annotate_page') }}" target="_blank" rel="noopener">Annotate</a>
+            <a class="generate-report-button" href="{{ url_for('report') }}" target="_blank" rel="noopener">Generate report</a>
+            <a class="generate-report-button generate-report-button-secondary" href="{{ url_for('report', summary=1) }}" target="_blank" rel="noopener">Summary report</a>
+        </div>
+    </div>
+    <div class="header-row header-row-bottom">
+        <div class="category-toggles" aria-label="Highlight categories">
+            <span class="category-toggles-label">Highlights</span>
+            <button type="button" class="category-toggle category-toggle-diagnosis is-active" data-aspect="diagnosis" aria-pressed="true" onclick="toggleAspect(this)">Diagnosis</button>
+            <button type="button" class="category-toggle category-toggle-proposal is-active" data-aspect="proposal" aria-pressed="true" onclick="toggleAspect(this)">Proposal</button>
+            <button type="button" class="category-toggle category-toggle-implementation is-active" data-aspect="implementation" aria-pressed="true" onclick="toggleAspect(this)">Implementation</button>
+            <button type="button" class="category-toggle category-toggle-testing is-active" data-aspect="testing" aria-pressed="true" onclick="toggleAspect(this)">Testing + Evaluation</button>
+        </div>
+    </div>
+</div>
+
+{% if warnings or errors %}
+<div class="alert-container">
+    {% for err in errors %}
+    <div class="alert-error"><strong>Validation Error:</strong> {{ err }}</div>
+    {% endfor %}
+    {% for w in warnings %}
+    <div class="alert-warning"><strong>Validation Warning:</strong> {{ w }}</div>
+    {% endfor %}
+</div>
+{% endif %}
+
+<div class="app-container">
+<div class="text-container">
+<div class="text-container-inner">
+
+{% for line in lines %}
+
+    <span class="tooltip {% if line.category == 'diagnosis' %}highlight-diagnosis {% elif line.category == 'proposal' %}highlight-proposal {% elif line.category == 'implementation' %}highlight-implementation {% elif line.category == 'testing' %}highlight-testing {% endif %}" {% if line.category %}data-highlight-aspect="{{ line.category }}" onclick="toggleHighlightAspect('{{ line.category }}')"{% endif %}>
+        {{ line.text[4:] }}
+         <span class="tooltip-text {% if line.category == 'diagnosis' %}highlight-diagnosis-tooltip {% elif line.category == 'proposal' %}highlight-proposal-tooltip {% elif line.category == 'implementation' %}highlight-implementation-tooltip {% elif line.category == 'testing' %}highlight-testing-tooltip {% else %}not-highlighted{% endif %}">{{ line.text[: 4] }}</span>
+    </span>
+
+{% endfor %}
+</div>
+<script>
+    function toggleAspect(button) {
+        const aspect = button.dataset.aspect;
+        const enabled = button.getAttribute("aria-pressed") !== "true";
+
+        button.setAttribute("aria-pressed", String(enabled));
+        button.classList.toggle("is-active", enabled);
+
+        document.querySelectorAll(`[data-highlight-aspect="${aspect}"]`).forEach(element => {
+            element.classList.toggle("highlight-muted", !enabled);
+        });
+        document.querySelectorAll(`[data-assessment-aspect="${aspect}"]`).forEach(element => {
+            element.classList.toggle("is-hidden", !enabled);
+        });
+    }
+
+    const ASPECT_LABELS = {{ aspect_labels | tojson }};
+    const ASPECTS = ["diagnosis", "proposal", "implementation", "testing"];
+
+    function highlightAspect(aspect) {
+        const resultsWrapper = document.getElementById("results-container-text-1");
+
+        // Clear existing selection highlights across all aspects.
+        ASPECTS.forEach(a => {
+            document.querySelectorAll(`.highlight-${a}-select`).forEach(el => {
+                el.classList.remove(`highlight-${a}-select`);
+            });
+        });
+
+        // Select every sentence belonging to this aspect.
+        document.querySelectorAll(`[data-highlight-aspect="${aspect}"]`).forEach(el => {
+            el.classList.add(`highlight-${aspect}-select`);
+        });
+
+        document.getElementById("claim_type").innerText = `${ASPECT_LABELS[aspect] || aspect} references`;
+
+        // Fetch every reference cited within this aspect, unsorted into themes.
+        resultsWrapper.innerHTML = "<p style='color: #666; font-style: italic;'>Loading references...</p>";
+        fetch('/get_references', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                "aspect": aspect,
+                "session_id": "{{ session_id }}"
+            })
+        })
+        .then(response => response.json())
+        .then(data => {
+            resultsWrapper.innerHTML = "";
+            if (!data || data.length === 0) {
+                const p = document.createElement("p");
+                p.textContent = "No specific reference citations found for this aspect.";
+                p.style.fontStyle = "italic";
+                p.style.color = "#666";
+                resultsWrapper.appendChild(p);
+                return;
+            }
+            data.forEach((reference) => {
+                for (const [key, value] of Object.entries(reference)) {
+                    const p = document.createElement("p");
+                    p.innerHTML = `<strong>Reference ${key}:</strong> ${value.text}`;
+                    resultsWrapper.appendChild(p);
+                }
+            });
+        })
+        .catch(error => {
+            console.error('Error fetching references:', error);
+            resultsWrapper.innerHTML = "<p style='color: #d9534f;'>Error loading references.</p>";
+        });
+    }
+
+    function clearHighlightAspect() {
+        ASPECTS.forEach(a => {
+            document.querySelectorAll(`.highlight-${a}-select`).forEach(el => {
+                el.classList.remove(`highlight-${a}-select`);
+            });
+        });
+        document.getElementById("claim_type").innerText = "Select a highlighted sentence to see its references";
+        const resultsWrapper = document.getElementById("results-container-text-1");
+        if (resultsWrapper) {
+            resultsWrapper.innerHTML = "";
+        }
+    }
+
+    function toggleHighlightAspect(aspect) {
+        const isCurrentlyHighlighted = document.querySelector(`.highlight-${aspect}-select`) !== null;
+
+        if (isCurrentlyHighlighted) {
+            clearHighlightAspect();
+        } else {
+            highlightAspect(aspect);
+        }
+    }
+</script>
+
+
+
+</div>
+<div class="results-container">
+
+{% if assessments %}
+{% for aspect, assessment in assessments.items() %}
+<div class="assessment-panel" data-assessment-aspect="{{ aspect }}">
+    <div class="assessment-header">
+        <div class="assessment-header-left">
+            <span class="assessment-tag assessment-tag-{{ aspect }}">Category Assessment: {{ assessment.label }}</span>
+            <h3 class="assessment-title">Evidence Transparency Outcome</h3>
+        </div>
+        <div class="assessment-score-box score-level-{{ assessment.score }}">
+            <span class="score-label">Score</span>
+            <span class="score-number">{{ assessment.score }}</span>
+            <span class="score-max">/ 3</span>
+        </div>
+    </div>
+    
+    <div class="assessment-rubric">
+        <span class="rubric-badge">Level {{ assessment.score }}</span>
+        <span class="rubric-text">{{ assessment.rubric_label }}</span>
+    </div>
+
+    <div class="assessment-reasoning">
+        <h4>Assessment Reasoning</h4>
+        <p>{{ assessment.reasoning }}</p>
+    </div>
+
+    {% if assessment.theme_scores %}
+    <div class="assessment-themes">
+        <h4>Score by Theme</h4>
+        <table class="theme-score-table">
+            <thead><tr><th>Theme</th><th>Level</th><th>Basis</th></tr></thead>
+            <tbody>
+            {% for theme in assessment.theme_scores %}
+                <tr>
+                    <td>{{ theme.theme }}</td>
+                    <td><span class="theme-score-badge score-level-{{ theme.score }}">{{ theme.score }} / 3</span></td>
+                    <td>{{ theme.justification }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% endif %}
+</div>
+{% endfor %}
+{% endif %}
+
+<div class="claim-panel">
+    <h2 id="claim_type">Select a highlighted sentence to see its references</h2>
+    <div class="results-container-text" id="results-container-text-1">
+        <p></p>
+    </div>
+</div>
+
+</div>
+</div>
+
+</body>
+</html>

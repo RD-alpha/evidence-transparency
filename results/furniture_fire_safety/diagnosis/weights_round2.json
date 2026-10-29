@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Health and Environmental Harms of Flame Retardants",
+      "reason": "Establishes the core harm being addressed: scale and nature of health and environmental damage from flame retardant chemicals, which is the central reason the diagnosis argument exists.",
+      "weight": "core"
+    },
+    {
+      "theme": "Effectiveness of Current Regulations in Preventing Fires and Injuries",
+      "reason": "Provides necessary context that the regulations do work for fire safety, framing the tension that excessive chemical use is the cost of effective but outdated testing; removing it would undercut the problem framing that the issue is not safety failure but chemical harm from an otherwise effective regime.",
+      "weight": "core"
+    },
+    {
+      "theme": "Issues with the Match Test and Testing Regime",
+      "reason": "Explains the specific mechanism—the outdated match test requiring testing over flammable foam not used in modern products—that causally links outdated testing to excessive chemical use, the central causal chain of the diagnosis.",
+      "weight": "core"
+    },
+    {
+      "theme": "Use of Flame Retardant Chemicals in Furniture Manufacturing",
+      "reason": "Describes how manufacturers respond to the testing regime by using FR chemicals, directly connecting the outdated test to the chemical use problem; this is a key link in the causal argument.",
+      "weight": "core"
+    },
+    {
+      "theme": "Outdated Regulations and Need for Updates",
+      "reason": "States the regulations have not been updated since 1988, supporting the 'outdated' framing but is largely a background/procedural fact rather than carrying the substantive causal argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Scope and Ambiguities in Regulations",
+      "reason": "Gives an example of definitional ambiguity in scope, a secondary detail not essential to the core causal argument about chemical use.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Traceability and Supply Chain Requirements",
+      "reason": "Addresses a separate regulatory gap (traceability) not directly tied to the chemical-use diagnosis; a minor supporting point.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Non-Compliant Imports and Enforcement",
+      "reason": "A single passing remark about enforcement against non-compliant imports, tangential to the chemical use diagnosis.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Modern Manufacturing Changes and Unregulated Parts",
+      "reason": "A brief note on unregulated parts becoming more flammable, a minor supplementary observation rather than a pillar of the argument.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "themes": [
+    {
+      "name": "Better information and clearer ticket choice",
+      "ids": [
+        "S0010",
+        "S0011",
+        "S0017",
+        "S0018",
+        "S0019",
+        "S0020",
+        "S0022",
+        "S0023",
+        "S0025",
+        "S0027",
+        "S0029",
+        "S0030",
+        "S0031",
+        "S0033",
+        "S0055",
+        "S0057"
+      ]
+    },
+    {
+      "name": "Simpler, wider ticket buying and retail market",
+      "ids": [
+        "S0012",
+        "S0013",
+        "S0026",
+        "S0041",
+        "S0042",
+        "S0043",
+        "S0046",
+        "S0047",
+        "S0048",
+        "S0049",
+        "S0050",
+        "S0051",
+        "S0052"
+      ]
+    },
+    {
+      "name": "Fares reform through franchising and pilots",
+      "ids": [
+        "S0078",
+        "S0079"
+      ]
+    },
+    {
+      "name": "Passenger protection and trust",
+      "ids": [
+        "S0014",
+        "S0067",
+        "S0068",
+        "S0071",
+        "S0074",
+        "S0075"
+      ]
+    },
+    {
+      "name": "Delivery and governance",
+      "ids": [
+        "S0001",
+        "S0004",
+        "S0008"
+      ]
+    }
+  ]
+}

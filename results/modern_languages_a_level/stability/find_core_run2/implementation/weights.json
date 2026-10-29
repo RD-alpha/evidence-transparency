@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Integrated language, culture and society curriculum",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Comprehensive language skill development",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Study of literary works and films",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Standardised grammar requirements across languages, with language-specific adaptations",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Foundation and progression from GCSE",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Special provisions for Chinese language",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Subject specification overview",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

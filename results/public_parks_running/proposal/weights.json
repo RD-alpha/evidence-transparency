@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Free everyday use versus legitimate charging",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Why parkrun is singled out",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Extension to other users",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Other community and commercial park use",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

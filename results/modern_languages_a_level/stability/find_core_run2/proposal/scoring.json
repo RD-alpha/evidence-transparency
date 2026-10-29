@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Academic status of modern languages",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that modern languages offer 'the same cognitive and academic advantages' and lists of transferable skills are asserted with no citation, study or data to support them."
+    },
+    {
+      "theme": "Transferable skills and wider value",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The list of transferable skills and their value to employers and higher education is stated as fact with no reference, survey or research finding offered."
+    },
+    {
+      "theme": "Universal relevance and progression pathway",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that the content is designed for relevance to all disciplines and provides a 'robust foundation' for degree progression is unsupported assertion with no evidence of design process, consultation or outcomes data."
+    }
+  ],
+  "reasoning": "All three themes are core, and all reach level 0. The 'Academic status' theme asserts cognitive and academic parity with other humanities subjects (lines on interdisciplinary rigour and transferable skills) with no study, statistic or named source behind it. The 'Transferable skills' theme repeats the same unsupported list of benefits ('communication skills, critical thinking, autonomy, resourcefulness, creativity...') without any research finding, survey or data showing these skills are in fact developed or valued by employers and universities as claimed. The 'Universal relevance and progression pathway' theme states the content 'has been designed to be of relevance to students of all disciplines' and will 'provide a robust foundation' for degree-level study, but gives no account of how this design judgement was reached - no consultation results, comparative curriculum analysis, or outcome data are cited. There are no references or links anywhere in this extract, and no unnamed research ('research shows...') that might at least reach level 1. The strongest counter-example would be if the subject content specification process itself (e.g. expert panel input or exam board consultation) were described elsewhere in the document, but nothing of that kind appears here. Mean of three level-0 core themes is 0, rounding to 0. To reach level 1, the document would need to mention some evidence - even unnamed - of why this content fosters these skills or suits all disciplines.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

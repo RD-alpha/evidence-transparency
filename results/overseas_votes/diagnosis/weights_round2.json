@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "Overseas voter registration eligibility and requirements",
+      "reason": "This theme directly describes the current 15-year rule and its registration requirements, which is the core diagnosis of the problem being addressed (the 15-year expat voting ban). Without this explanation of how the current system works and its restrictions, there would be no basis for identifying the issue the policy aims to fix.",
+      "weight": "core"
+    },
+    {
+      "theme": "Other",
+      "reason": "This theme contains no content (0 sentences) and thus carries no part of the argument.",
+      "weight": "not core"
+    }
+  ]
+}

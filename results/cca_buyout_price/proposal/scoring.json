@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Raise buy-out price in line with RPI to \u00a314",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The \u00a312 to \u00a314 rise is tied to the RPI, the CCL discount's real-terms growth and the CRC price approach, but these lines carry no citation; the CCL and CRC figures sit in references 5 and 6, which are in the background theme and not linked to these lines."
+    },
+    {
+      "theme": "Rejection of alternative price options",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Options 1 and 3 are rejected using the published 2017/18 CRC prices, the Budget 2016 announcement (Link 14) and TP1 buy-out use of 49%, but the competitiveness objection is asserted without evidence and the 49% figure has no source or method."
+    },
+    {
+      "theme": "Balance of incentive and competitiveness",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The line that 16 of 20 respondents to the 2014 Discussion Paper opposed a change gives a count and reasons, but there is no citation to the paper or the questions asked, and the claim of a sharper incentive is unevidenced reasoning; the department acknowledges the uncertainty only by seeking more evidence."
+    },
+    {
+      "theme": "Background on the CCL and CRC price changes",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Reference 5 gives CCL rates per tCO2e with a stated conversion method and reference 6 gives CRC allowance prices, both with followable URLs, and they show the rise in the CCL discount and the CRC price, though no assessment of the evidence is made."
+    }
+  ],
+  "reasoning": "Three core themes were scored. For the RPI-linked rise to \u00a314, the case rests on the lines that the \u00a312 price \"remains the same in real terms\" and that the CCL discount \"has increased in real terms\". The figures that would back this, CCL and CRC rates in references 5 and 6, appear only in the background theme. I counted them as support, but the core lines do not cite them, so the chain from evidence to chosen price is only partly clear. No calculation shows that \u00a314 matches RPI. The rejection of alternatives uses the 2017/18 CRC allowance prices, the Budget 2016 announcement (Link 14) and the claim that \"49% of target units used buy-out\" in TP1. The 49% figure has no source and no method. The competitiveness objection to \u00a317 is asserted without data. The balance theme cites \"16 of 20 respondents\" to the 2014 Discussion Paper, which is primary evidence, but there is no citation to the paper and no account of what was asked. The document does admit uncertainty, saying it \"would now like to understand\" whether a change would increase carbon savings, and that it is seeking evidence. That is not an assessment of the evidence base. All three core themes reach level 1, so the mean is 1.0 and the score is 1. The strstrongest counter-example is the Link 14 and reference 5-6 material, which approaches level 2. To reach level 2 the document would need to cite sources on the core lines, give the source and method for the 49% figure, link the consultation to its paper, and show the RPI calculation and any competitiveness impacts.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

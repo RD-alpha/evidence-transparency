@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Flat funding and move to self-sufficiency",
+        "claim": "Core council funding is broadly flat in cash terms for the rest of this Parliament, and reform toward local self-sufficiency is needed to give authorities certainty."
+      },
+      {
+        "name": "Rising parish precepts",
+        "claim": "The average parish Band D increase of 6.1% in 2016/17 is notably higher than in the previous five years, and with around 8,800 precepting parishes varying widely in size and precept, this justifies applying referendum principles to larger parishes."
+      },
+      {
+        "name": "Revaluation effects outside local control",
+        "claim": "The 2017 business rates revaluation is revenue neutral nationally but will raise or lower individual authorities' bills depending on their rateable value performance, creating changes in retained income outside their control."
+      }
+    ],
+    "note": "The diagnosis is thin and spread across separate measures, with no evidence on funding uncertainty itself beyond assertion."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Multi-year settlement and 100% retention reform",
+        "claim": "Moving to 100% local retention of business rates and offering a multi-year settlement (possibly expanded to more grants) gives reform-committed councils long-term certainty and stronger growth incentives, with fiscal neutrality secured by new responsibilities and phased-out grants."
+      },
+      {
+        "name": "Improved Better Care Fund allocation",
+        "claim": "The improved Better Care Fund should be distributed by keeping the 2016/17 approach, giving more funding to authorities that benefit less from the adult social care precept because capacity to raise council tax varies."
+      },
+      {
+        "name": "Council tax referendum principles",
+        "claim": "Keeping the 2016/17 referendum principles (2% core, 2% adult social care precept, flexibilities for districts and low-charging PCCs) balances keeping council tax low against councils' need for funding, while extending principles to larger parishes (with exemption for transferred responsibilities) addresses rapid parish precept rises."
+      },
+      {
+        "name": "Revaluation neutrality and pilot adjustments",
+        "claim": "Tariffs and top ups should be adjusted so that revaluation does not change authorities' retained income, preserving growth incentives, and 100% retention pilots and voluntary Combined Authority transfers should be arranged so they are fiscally neutral and do not harm non-pilot authorities."
+      }
+    ],
+    "note": "The proposal is a package of several separate measures rather than one intervention, and no alternatives or costs are weighed apart from brief mention of extending referendums to all parishes."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Revaluation adjustment method",
+        "claim": "The revaluation adjustment will be estimated using a proxy based on change in gross rates payable (rateable value times small business multiplier) applied to prior income, because directly measuring the income change is too complicated and sensitive to refunds and accounting adjustments, and it will be made in three stages with a reconciliation and a notional multiplier excluding appeals."
+      },
+      {
+        "name": "Multi-year offer process",
+        "claim": "Councils accept the multi-year offer by 14 October 2016 by publishing a locally owned efficiency plan, with confirmed amounts published in the provisional settlement and non-acceptors staying on the annual process."
+      },
+      {
+        "name": "Better Care Fund allocation formula",
+        "claim": "The improved Better Care Fund will be allocated through a stepwise methodology using the 2013 adult social care relative needs formula and each authority's capacity to raise the 2% precept, with negative allocations set to zero and the rest scaled proportionately."
+      },
+      {
+        "name": "Pilot and devolution funding mechanics",
+        "claim": "The local share in 100% retention pilots will be calculated through two options based on baseline funding levels and notional baselines, and voluntary transfers to Mayoral Combined Authorities will proceed by grant, business rates share or council tax only with agreement of all affected authorities."
+      }
+    ],
+    "note": "Implementation is a set of technical mechanisms for separate measures, with the methodology explicitly kept under review for adjustment in 2018/19."
+  }
+}

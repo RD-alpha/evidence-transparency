@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rising life expectancy",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Life expectancy figures carry ONS references (5, 12, 13, 19, 26), the Pensions Commission (20), and Government Actuary (3) with clear direction (23% in 1948 to 32% in 2007, +2 years in 20 years), but the DWP calculations (4, 21) lack method detail and there is little assessment beyond a passing note on uncertainty in the Other theme."
+    },
+    {
+      "theme": "Demographic shift and pay-as-you-go burden",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The old age dependency ratio (301 to 375 per 1,000) and the rise from 12.4m to 16.9m pensioners are linked to ONS 2014-based projections (refs 7, 8) with clear direction and meaning, but projection uncertainty is not assessed."
+    },
+    {
+      "theme": "Rising fiscal cost of ageing",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The 1% of GDP rise and \u00a3725 per household are cited to the Cridland review (refs 9, 30) and OBR Fiscal Sustainability figures (ref 31), clearly linked to the unsustainability claim, but the OBR age-related spending figures (7.9% of GDP) are uncited and no weaknesses or alternative assumptions are assessed."
+    },
+    {
+      "theme": "Past inaction and the case for a structured framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines about past policy neglect and the 1995 Act's equalisation (Act described only to define current rules) are assertions and history with no statistic or cited source, and the reasoning is not evidence."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The line that the report highlights considerable uncertainty in life expectancy projections is an uncited, unspecific acknowledgement, while the other lines are assertions."
+    }
+  ],
+  "reasoning": "Three core themes carry real evidence; the fourth does not. Rising life expectancy (level 2) uses ONS cohort and projection data (refs 5, 12, 13, 19, 26), the Pensions Commission (ref 20) and the Government Actuary (ref 3), with clear direction, for example \"23% in 1948... 32% in 2007\" and \"projected to have increased by a further two years\". Demographic shift (level 2) cites ONS projections (refs 7, 8) for the ratio rising from 301 to 375 pensioners per 1,000. Rising fiscal cost (level 2) cites the Cridland review (refs 9, 30) and OBR (ref 31) for the 1% of GDP and \u00a3725 per household figures. Past inaction and the case for a structured framework (level 0) is assertion: \"The UK has been slow in taking action\" has no figure or source behind it. The mean of the core levels is (2+2+2+0)/4 = 1.5, which rounds down to 1. The strongest counter-example is that three of the four core themes are well cited and linked, which could argue for a 2; the halfway rule and the unsupported framework theme prevent this. The document also does little to assess its evidence: the only nod is the uncited \"considerable uncertainty in future life expectancy projections\", and the DWP calculations (refs 4, 21) give no method. To reach level 2 overall, it would need to evidence the past-inaction and framework claim with sources; for level 3, it must assess the projections' strengths, weaknesses and uncertainty.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

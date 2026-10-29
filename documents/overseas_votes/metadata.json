@@ -1,0 +1,18 @@
+{
+  "title": "Overseas Votes",
+  "alias": "overseas_votes",
+  "uploaded_at": "2026-09-30T15:33:20.919896+01:00",
+  "uploaded_date": "2026-09-30",
+  "uploaded_time": "15:33:20 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "policy_paper",
+    "type_listed_in_2018_appendix": "policy paper",
+    "matches_2018_listed_source": "yes",
+    "basis": "Policy statement with ministerial foreword setting out the intended approach.",
+    "source_check": "Listed document(s) retrieved on 2026-10-08 and compared with the ingested text: 93% found in the listed policy statement PDF."
+  }
+}

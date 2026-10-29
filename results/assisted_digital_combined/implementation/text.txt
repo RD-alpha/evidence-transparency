@@ -1,0 +1,48 @@
+S0049 Where required, we will bring forward legislation in due course.
+S0091 i. Provide a system that works for everyone: Digital and online processes are easy
+S0092 and efficient for many people, but the justice system must also work for people who do not or cannot access services online.
+S0093 We must provide an alternative route of access for every service that moves online.
+S0100 The principle of open justice will be upheld and the public will still be able to see and hear real-time hearings, whilst we continue to protect the privacy of the vulnerable.
+S0144 We will create a new, streamlined Rules Committee to design this new system and keep the processes simple.
+S0155 The senior judiciary will be developing proposals on which we will then consult.
+S0189 6.2 The Government will bring forward legislation in due course to enable these reforms where necessary.
+S0225 The number of people in the third group will vary across the different jurisdictions and they may be disproportionately represented in some parts of the system – in designing different services we will need to tailor the solutions based around the needs of the people using that service.
+S0226 A one-size-fits-all approach is not appropriate.
+S0227 7.1.5 To make sure that our services can be used by everyone, we expect to include the following as part of our approach:
+S0228  Face-to-face assistance – for example, aiding completion of an online form.
+S0229 This type of service may be supplied by a third party organisations in some cases.
+S0231 A telephone help service offering similar advice, which we would expect to be
+S0232 staffed by Her Majesty’s Court and Tribunal System (HMCTS).
+S0233  Web chat to guide people through online processes.
+S0235 Access to paper channels for those who require it.
+S0237 We are testing some elements of this in the development of two new services – the ability to make a plea online for low level traffic offences and applying online for financial help towards court fees, for those on low incomes.
+S0238 7.1.7 A number of recent Government initiatives have delivered assisted digital support to smaller groups of people, and we are learning the lessons from these to inform our approach.
+S0239 Given how many services we are modernising, the number of people who will be affected by the changes across the courts and tribunals will be on a much greater scale.
+S0242 A dedicated team in HMCTS will work to make sure that we are providing intuitive, easy-to-use digital services for everybody, including the digitally excluded and those who may have other difficulties such as impaired vision or low literacy.
+S0254 By the end of 2016 we will complete the roll-out of this procedure across England and Wales.
+S0263 We expect to implement this process from 2018.
+S0291 We propose to test the system with a small number of summary, non-imprisonable offences in the initial phase of introducing the online conviction and fixed fine scheme, which would be:
+S0292  Railway fare evasion
+S0293  Tram fare evasion
+S0294  Possession of unlicensed rod and line.
+S0296 If this initial phase is successful, we plan to bring other offences, particularly certain road traffic offences, into the system in future.
+S0449 A number of recent initiatives across Government have delivered assisted digital support to smaller user groups, and we will learn from these as we develop our approach.
+S0450 Our assisted digital approach will be developed iteratively, with extensive input from service users.
+S0451 We will carry out extensive piloting, user research and testing across the digital skills spectrum to make sure that our services meet the needs of our users, and continue to be improved following their launch.
+S0452 The HMCTS Reform Programme also has a dedicated Accessibility & Inclusion team who will ensure that new digital services
+S0453 are intuitive and simple to use for all users, including those who experience barriers such as impaired vision or low literacy.
+S0454 All our services will be assessed by the Government Digital Services to ensure our assisted digital support meets government standards.
+S0455 This consultation is looking to gather opinion on which channels may be best suited to particular user types, and if the proposed channels are appropriate or if any further options need consideration.
+S0548 Our assisted digital approach will be developed iteratively, with extensive input from service users.
+S0549 We will carry out extensive piloting, user research and testing across the digital skills spectrum to make sure that our services meet the needs of our users, and continue to be improved following their launch.
+S0550 HMCTS has a dedicated Accessibility & Inclusion team who will ensure that new digital services are intuitive and simple to use for all users, including those who experience barriers such as impaired vision or low
+S0551 literacy.
+S0552 All our services will be assessed by the Government Digital Services to ensure our assisted digital support meets government standards.
+S0553 As above, services will be developed iteratively.
+S0566 The pilots will begin in 2017 and national roll-out is expected in early 2018.
+S0575 We envisage this would be contracted to one or more third party organisations, and managed by HMCTS.
+S0583 Our assisted digital support will be built, tested and implemented at the same time as the digital service offering.
+S0584 Informed by user research and user testing throughout the service development phases, the assisted digital support provided to services will be built around the needs of the users of that particular service.
+S0646 Additionally, as the majority of more serious cases involve represented defendants/parties, particularly in the criminal and family courts, is has been assumed that the assisted digital support will be aimed towards professional users who represent these users.
+S0647 It has been assumed that professional users are likely to need less assistance than the general population.
+S0659 Those providing the service will need to understand requirements of those with protected characteristics who may engage; the development and design of the new service and ongoing support will be user focused to ensure this.

@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "High, variable and opaque tenant fees",
+        "claim": "Letting agents charge tenants fees that vary considerably in amount and structure and are not transparently or consistently displayed, making them hard to understand or compare."
+      },
+      {
+        "name": "Weak tenant market power and perverse agent incentives",
+        "claim": "Because landlords, not tenants, appoint and can negotiate with letting agents, tenants have little ability to influence or avoid fees, and agents and landlords have little incentive to keep tenant fees low (and may even shift costs onto tenants), so competitive pressure on tenant fees is very weak."
+      },
+      {
+        "name": "Financial detriment and barriers to mobility",
+        "claim": "High, repeated and often hidden up-front letting fees impose real financial harm on tenants, causing debt, deterring moves and undermining ability to save for a deposit or home purchase."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Ban as the chosen remedy over continued transparency regulation",
+        "claim": "Because existing transparency requirements have proven insufficient and inconsistently enforced, the Government has chosen to ban tenant-paid letting fees rather than rely further on disclosure-based regulation."
+      },
+      {
+        "name": "Ban exploits landlords' stronger market position",
+        "claim": "Shifting fee liability to landlords will work because landlords can shop around and negotiate with agents, sharpening agents' incentives to compete on price and quality for landlords' business, which in turn benefits tenants through clearer, rent-only pricing."
+      },
+      {
+        "name": "Scotland as precedent and evidence base",
+        "claim": "The existing ban on tenant fees in Scotland shows that such a ban is workable and has had minimal negative impact on the sector, supporting the case for introducing an equivalent ban in England."
+      },
+      {
+        "name": "Assessing the risk of rent increases against tenant benefits",
+        "claim": "Although some landlords may raise rents to cover agents' costs, competitive pressure means fees are unlikely to be passed on in full, so the transparency and affordability benefits to tenants are judged to outweigh this risk."
+      }
+    ],
+    "note": "The proposal also sets out a subsidiary measure (capping or restructuring deposits) which supports but is not essential to the core case for the fee ban."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Enforcement architecture led by local authorities, with optional stronger tools",
+        "claim": "The ban will be enforced primarily by local authority Trading Standards, building on their existing role, with the option of adding a lead enforcement authority (modelled on the estate agency sector), increased data sharing and further regulation to strengthen enforcement."
+      },
+      {
+        "name": "Tenant empowerment and education as an enforcement mechanism",
+        "claim": "Informing and empowering tenants to challenge non-compliant agents, as has worked for deposit protection enforcement, is presented as a necessary complement to formal enforcement by reducing the burden on local authorities."
+      },
+      {
+        "name": "Penalty design for non-compliance",
+        "claim": "Non-compliance with the ban should carry a civil penalty, potentially a higher fine than existing redress/transparency penalties (drawing on the £30,000 Housing and Planning Act 2016 precedent) or even criminal sanction, to provide an effective deterrent."
+      },
+      {
+        "name": "Defining the scope and exemptions of the ban",
+        "claim": "Certain charges—holding deposits and in-tenancy charges arising from tenant actions—will remain payable by tenants, and the Government is still determining how these and bespoke/premium services should be treated to keep the ban workable."
+      }
+    ],
+    "note": "Implementation combines several enforcement options (lead authority, data sharing, regulation) that are presented as a linked package of tools rather than separate independent arguments."
+  }
+}

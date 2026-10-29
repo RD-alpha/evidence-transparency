@@ -1,0 +1,57 @@
+{
+  "themes": [
+    {
+      "name": "Microplastic harm to marine life and ecosystems",
+      "ids": [
+        "S0038",
+        "S0039",
+        "S0040",
+        "S0056",
+        "S0057",
+        "S0059",
+        "S0060",
+        "S0061",
+        "S0062",
+        "S0063",
+        "S0064",
+        "S0065",
+        "S0066",
+        "S0067",
+        "S0068",
+        "S0069",
+        "S0108"
+      ]
+    },
+    {
+      "name": "Microbeads as a source of microplastic pollution",
+      "ids": [
+        "S0074",
+        "S0094",
+        "S0095",
+        "S0096",
+        "S0109"
+      ]
+    },
+    {
+      "name": "Evidence base from research and inquiry",
+      "ids": [
+        "S0070",
+        "S0071"
+      ]
+    },
+    {
+      "name": "Definition and sources of marine litter and microplastics",
+      "ids": [
+        "S0035",
+        "S0036",
+        "S0037",
+        "S0058",
+        "S0097",
+        "S0105",
+        "S0179",
+        "S0180",
+        "S0181"
+      ]
+    }
+  ]
+}

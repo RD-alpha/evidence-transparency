@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Proportionate strengthening of all voting channels",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The theme rests mainly on reasoning, with some evidence mentioned but unreferenced (consultation views that postal voting on demand will continue, the Electoral Commission's objection to the proxy limit, the 2016 London emergency proxy example); the method behind the consultation views is not explained, though the trade-offs and the Commission's dissent are acknowledged."
+    },
+    {
+      "theme": "Voter ID piloting",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Refs 4, 5 and Link 2 (OSCE/ODIHR, Electoral Commission, cost model) are linked to the ID proposal along with Northern Ireland experience and the option-by-option assessment of weaknesses, but the Commission cost figures conflict (\u00a33-7.2m vs \u00a31.8-10.8m) and the consultation method is not described, so the cited evidence is not assessed to level 3."
+    },
+    {
+      "theme": "Registration integrity measures",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Ref 1 and Ref 6 (Electoral Commission guidance and the data-mining pilot evaluation) and NPCC views on IP addresses (lines on NPCC agreement) are linked to the choices made, and dataset weaknesses and the national nationality-check challenges are assessed, but the NPCC/respondent consultation method is not described and several citations are generic, so it does not reach level 3."
+    },
+    {
+      "theme": "Stronger offences, powers and challenge routes",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Most recommendations rely on Law Commission and Electoral Commission positions and consultation views named in prose without citation (only Refs 10, 12, 20, two of which are unresolved or generic), though some contrary evidence is weighed (e.g. Law Commission rejecting campaigner offences, 17-area pilot feedback), so it stays at level 1."
+    },
+    {
+      "theme": "Governance and accountability reforms",
+      "primary_evidence": true,
+      "score": 0,
+      "justification": "The recommendations on senior officers as returning officers, FOI coverage and police/NCA links rest on assertion and reasoning (e.g. 'ensuring that senior officers hold those positions is right in the Government's view'), with only vague references to Tower Hamlets and respondent opinions and no citations."
+    }
+  ],
+  "reasoning": "Across the five core themes the document varies widely in how visible its evidence is. Voter ID piloting (level 2) is the strongest: it cites OSCE/ODIHR and Electoral Commission material ('Reference: 4, 5'), a costs link (Link 2), and Northern Ireland's experience, and it works through each ID option's weaknesses. Registration integrity (level 2) cites Ref 1 and Ref 6 and uses NPCC views and dataset problems to explain why the nationality check, IP retention and address matching were not taken forward as proposed. Proportionate strengthening (level 1) and Stronger offences (level 1) lean on consultation responses, Law Commission positions and Electoral Commission views that are named in prose but carry no reference or consultation method. Governance and accountability (level 0) is largely argument. The mean is (1+2+2+1+0)/5 = 1.2, which rounds to 1. The strongest counter-example is the voter ID theme: its cited sources are linked and it admits cost ranges that conflict (\u00a33\u20137.2m versus \u00a31.8\u201310.8m), which approaches level 3, but the assessment is not systematic across the whole package. To reach level 2 the document would need to cite the Law Commission and Electoral Commission material behind the offence and postal voting changes, explain how consultation responses were gathered, and show how this evidence leads to each measure.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.2,
+  "score_consistent": true,
+  "missing_core": []
+}

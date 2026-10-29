@@ -1,0 +1,194 @@
+{
+  "themes": [
+    {
+      "theme": "Learning Objectives and Capabilities",
+      "reason": "Describes the substantive learning goals that the specification sets out; this is the content of the standard rather than argument for why this implementation method (detailed national content specification) was chosen.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Content Areas and Themes of Study",
+      "reason": "Specifies required thematic content areas; this is part of the detailed substance being standardized, not the rationale for the chosen implementation approach.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Language Development and Communication Skills",
+      "reason": "Lists specific communicative skills required; substantive content rather than justification of the implementation method itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Translation Skills",
+      "reason": "A narrow content requirement (translation tasks); illustrative detail rather than core to the implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Literary and Film Study Requirements",
+      "reason": "Detailed content requirements for literary/film study; part of the specification's substance, not the argument for the implementation method chosen.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Research and Independent Study",
+      "reason": "Specifies a skill component of the course; substantive detail rather than core justification for the implementation approach.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Authentic Materials and Sources",
+      "reason": "Specifies a requirement for materials used; a minor substantive detail, not core to explaining the implementation method.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Special Provisions for Chinese Language",
+      "reason": "Explains how the standardized implementation method is adapted for an exceptional case, bearing on how the chosen method handles variation across languages—part of how the rollout is designed.",
+      "weight": "core"
+    },
+    {
+      "theme": "Grammar and Language Structure - General",
+      "reason": "Explains the overarching method for specifying grammar consistently (indicative lists, receptive-knowledge markers, requirement for comparable rigor across languages), directly addressing how standardization is achieved across different language specifications.",
+      "weight": "core"
+    },
+    {
+      "theme": "French Grammar - Nouns and Articles",
+      "reason": "Detailed grammar content for one language; substance of the specification, not argument for the implementation method.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French Grammar - Adjectives",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French Grammar - Numerals and Adverbs",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French Grammar - Pronouns",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French Grammar - Verbs",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French Grammar - Prepositions and Conjunctions",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French Grammar - Negation, Questions, Commands",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French Grammar - Advanced Constructions",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "French A-level Additional Grammar",
+      "reason": "Detailed grammar content for advanced level; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "German Grammar - Nouns and Determiners",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "German Grammar - Pronouns and Adjectives",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "German Grammar - Adverbs and Modal Particles",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "German Grammar - Verbs and Tenses",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "German Grammar - Prepositions and Case System",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "German Grammar - Clause Structure and Word Formation",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "German A-level Additional Grammar",
+      "reason": "Detailed grammar content for advanced level; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Nouns and Articles",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Adjectives and Numerals",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Adverbs and Quantifiers",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Pronouns",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Verbs and Tenses",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Verbal Paraphrases and Subjunctive",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Voice and Verb Constructions",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Prepositions and Conjunctions",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Negation, Questions, Commands",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Word Order and Advanced Constructions",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish Grammar - Discourse Markers and Fillers",
+      "reason": "Detailed grammar content; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Spanish A-level Additional Grammar",
+      "reason": "Detailed grammar content for advanced level; substantive specification detail rather than implementation rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Specification Framework",
+      "reason": "States the overarching approach chosen for implementation—an integrated, common subject content framework building on GCSE that all specifications must follow—directly addressing the rationale and structure of the rollout method.",
+      "weight": "core"
+    }
+  ]
+}

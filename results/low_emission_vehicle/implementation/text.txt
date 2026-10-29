@@ -1,0 +1,43 @@
+S0023 Consulting on measures now provides an opportunity for stakeholders to input into their development before they progress further through the legislative process.
+S0024 In all cases, we propose that measures would not take effect without further secondary legislation.
+S0025 At that stage a full Impact Assessment would be undertaken to quantify the likely impact of these measures taking effect.
+S0028 We will continue to engage with Devolved Administrations to ensure that this is possible within current devolution settlements, and to consider any deviations or alternative approaches which may be necessary.
+S0029 Responses to this consultation will inform our final proposals before we introduce the legislation and help us refine our assessment of the impacts.
+S0089 The feedback received through this consultation will be analysed and considered carefully, and used to inform the scope and detail of measures as they are drafted for inclusion in the Bill.
+S0090 Further scrutiny will take place through Parliamentary procedures once the Bill is deposited.
+S0091 The consultation response will also inform consideration of the timings and nature of any secondary legislation brought forward to enact the powers created by the Bill.
+S0185 1.22 Whilst the Government is committed to ensuring that smart charging services are provided in the future, it is unlikely to specify the precise manner in which chargepoint manufacturers do this (for example, that a chargepoint must contain GPRS communication capability).
+S0186 Government wants to support market led innovation, thereby encouraging the most efficient route to delivering the desired outcome.
+S0187 1.23 Government does not intend to detail the specific requirements for chargepoints in primary legislation.
+S0188 This would follow in secondary legislation following engagement with industry, including through initiatives such as the DNO led Smart EV Project. ** (Reference: 3)
+S0189 However the Government welcomes views on the guiding principles that should inform our approach to developing potential requirements, which are proposed as follows:
+S0190 • open access: open access to allow interoperability of chargepoints and providers for smart charging services is important to underpin a competitive market, allowing owners of chargepoints to switch smart tariffs, or sign up to grid balancing services, without having to change expensive hardware;
+S0191 • data privacy: consumers must be in control of any data exchanged with third parties, such as energy suppliers, aggregators or DNOs, arising from use of the chargepoint with clear consent procedures that will ensure they are able to make informed decisions regarding data sharing;
+S0192 • security: communications between chargepoints and third parties providing smart charging services must be secure, and must not represent a risk consumers or to grid stability (e.g. through cyber attacks);
+S0193 • energy consumption: we would expect the additional energy consumption arising from the ability to respond to signals to be negligible (including additional energy consumption of any associated hardware in the premises).
+S0197 The Government is working to support the development of this market but is unlikely to require bidirectional functionality as part of smart charging requirements.
+S0198 The Government does however intend to draw the scope of primary powers wide enough such that smart charging requirements could extend to directional functionality in the future.
+S0199 1.26 It is the Government’s current intention that requirements would apply on sale and installation of new chargepoints, so that from a prescribed date, all chargepoints sold to business and consumers, or installed by chargepoint installers, would need to meet the required standard.
+S0200 This is because retailers will be in a strong position to understand the functionalities of the products that they sell, and installers are already used to ensuring compliance with a range of regulatory requirements, and will likely be the key conduit for consumers making purchasing decisions.
+S0201 1.27 An alternative approach would be to place the requirements on the manufacturers of chargepoints, however this could only bind UK based manufacturers, leaving those outside the UK able to produce products to different standards and supply these to the UK market.
+S0202 This would cause complications in ensuring compliance and risk creating an uneven playing field between those manufacturing in the UK, and those elsewhere.
+S0203 Applying the requirement on operators would also miss out those chargepoints that do not entail any ongoing operator relationship.
+S0222 It is proposed that MSA operators would be responsible for ensuring this provision of chargepoint infrastructure.
+S0225 Given the variety of businesses currently retailing vehicle fuel, we propose that the measure be restricted to those above a certain size.
+S0226 This could be defined in a number of ways, including turnover, vehicle
+S0227 throughput, and/or volume of fuel sold.
+S0228 Supermarkets and oil companies currently own 30% of UK petrol stations with 60% of market share by volume, and it may be appropriate to focus the requirements on those rather than independent or dealer-owned forecourts.
+S0229 1.31 To replicate current expectations of petrol and diesel refuelling, it may be appropriate for these chargepoints to be available 24 hours a day, with supporting back office functions.
+S0230 It is proposed that fuel retailers will be the party responsible for delivering this measure.
+S0250 1.36 New primary legislative powers would be needed to bring forward regulations for either of these approaches.
+S0269 1.37 The following approach has been identified as the preferred method for ensuring the potential regulations introduced through powers in the Bill are adhered to.
+S0270 This sets out the proposed approach at a relatively high level, and will be refined at the point where secondary legislation is introduced to implement the Bill’s powers:
+S0271 • The Secretary of State for Transport will be designated as responsible for enforcing the regulatory requirements • An executive agency of DfT will be identified to manage and administer enforcement of the regulations including the regular compliance checking •
+S0272 The Infrastructure Operator, fuel retailer and motorway service operator will be subject to a penalty if any of the requirements set out in the Statutory Instrument arising out of the powers under the Modern Transport Bill are not met • Non-compliance will result in a formal written warning and a limited time in which to correct the issue •
+S0273 The next stage will see a civil penalty notice issued.
+S0274 This will take the form of a financial penalty, the size of which will be scaled according to the cost of purchasing the particular infrastructure equipment subject to the penalty notice, and the degree of negative impact non-compliance is likely to have on consumers •
+S0275 Where a breach relates to the accessibility of data a suitable calculation to determine the level of civil penalty will be determined • Fines will be paid to the Consolidated Fund, with a specified deadline in which to pay or object •
+S0276 Upon payment of a civil penalty compliance will be re-checked.
+S0277 Should it be found that the necessary remedial action has not been taken a new penalty notice will be issued and the process will start again •
+S0278 Offenders will have the opportunity to object to the administrating agency against any penalties in the first instance, and then on appeal to the High Court
+S0346 A summary of responses, including the next steps, will be published within three months of the consultation closing on 23 November.

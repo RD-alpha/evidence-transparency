@@ -1,0 +1,618 @@
+[
+  {
+    "number": "1",
+    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "text": "www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "1"
+  },
+  {
+    "number": "2",
+    "url": "mailto:PSI@nationalarchives.gsi.gov.uk",
+    "text": "PSI@nationalarchives.gsi.gov.uk",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "2"
+  },
+  {
+    "number": "3",
+    "url": "http://www.gov.uk/government/publications",
+    "text": "www.gov.uk/government/publications",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "3"
+  },
+  {
+    "number": "4",
+    "url": "mailto:Litter@defra.gsi.gov.uk",
+    "text": "Litter@defra.gsi.gov.uk",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "4"
+  },
+  {
+    "number": "5",
+    "url": "http://www.gov.uk/defra",
+    "text": "www.gov.uk/defra",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "5"
+  },
+  {
+    "number": "6",
+    "url": "https://www.conservatives.com/manifesto",
+    "text": "election",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "6"
+  },
+  {
+    "number": "7",
+    "url": "https://www.conservatives.com/manifesto",
+    "text": "manifesto",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "7"
+  },
+  {
+    "number": "8",
+    "url": "http://www.legislation.gov.uk/ukpga/1990/43/contents",
+    "text": "Environmental Protection Act 1990",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "8"
+  },
+  {
+    "number": "9",
+    "url": "http://www.legislation.gov.uk/uksi/2007/901/contents/made",
+    "text": "Environmental Offences (Use of Fixed Penalty Receipts) Regulations 2007³",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "9"
+  },
+  {
+    "number": "10",
+    "url": "http://www.legislation.gov.uk/uksi/2007/175/contents/made",
+    "text": "Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) Regulations",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "10"
+  },
+  {
+    "number": "11",
+    "url": "http://www.legislation.gov.uk/uksi/2007/175/contents/made",
+    "text": "2007⁴",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "11"
+  },
+  {
+    "number": "12",
+    "url": "http://www.legislation.gov.uk/ukpga/2014/12/contents/enacted",
+    "text": "Anti-social Behaviour, Crime and Policing Act 2014",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "12"
+  },
+  {
+    "number": "13",
+    "url": "http://www.legislation.gov.uk/ukpga/2003/26/part/8/chapter/1/crossheading/performance-categories",
+    "text": "Local Government Act 2003⁶)",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "13"
+  },
+  {
+    "number": "14",
+    "url": "http://www.legislation.gov.uk/ukpga/2014/12/section/154/enacted",
+    "text": "Section 154",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "14"
+  },
+  {
+    "number": "15",
+    "url": "http://www.legislation.gov.uk/ukpga/2014/12/contents/enacted",
+    "text": "Anti-social Behaviour,",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "15"
+  },
+  {
+    "number": "16",
+    "url": "http://www.legislation.gov.uk/ukpga/2014/12/contents/enacted",
+    "text": "Crime and Policing Act 2014",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "16"
+  },
+  {
+    "number": "17",
+    "url": "http://www.legislation.gov.uk/ukpga/1990/43/contents",
+    "text": "Environmental Protection",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "17"
+  },
+  {
+    "number": "18",
+    "url": "http://www.legislation.gov.uk/ukpga/1990/43/contents",
+    "text": "Act 1990",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "18"
+  },
+  {
+    "number": "19",
+    "url": "http://www.legislation.gov.uk/ukpga/1990/43/contents",
+    "text": "Environmental",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "19"
+  },
+  {
+    "number": "20",
+    "url": "http://www.legislation.gov.uk/ukpga/1990/43/contents",
+    "text": "Protection Act 1990",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "20"
+  },
+  {
+    "number": "21",
+    "url": "http://www.legislation.gov.uk/ukpga/1990/43/contents",
+    "text": "Environmental Protection Act 1990)",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "21"
+  },
+  {
+    "number": "22",
+    "url": "http://www.legislation.gov.uk/uksi/2016/334/pdfs/uksi_20160334_en.pdf",
+    "text": "(the Control of Waste (Dealing With Seized",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "22"
+  },
+  {
+    "number": "23",
+    "url": "http://www.legislation.gov.uk/uksi/2016/334/pdfs/uksi_20160334_en.pdf",
+    "text": "Property) (England And Wales) Regulations 2015)",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "23"
+  },
+  {
+    "number": "24",
+    "url": "mailto:litter@defra.gsi.gov.uk",
+    "text": "litter@defra.gsi.gov.uk",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "24"
+  },
+  {
+    "number": "25",
+    "url": "http://www.gov.uk/defra",
+    "text": "www.gov.uk/defra.",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "25"
+  },
+  {
+    "number": "26",
+    "url": "http://www.gov.uk/defra",
+    "text": "www.gov.uk/defra.",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "26"
+  },
+  {
+    "number": "27",
+    "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs/about/personal-information-charter",
+    "text": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "27"
+  },
+  {
+    "number": "28",
+    "url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs/about/personal-information-charter",
+    "text": "affairs/about/personal-information-charter.",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "28"
+  },
+  {
+    "number": "29",
+    "url": "https://www.gov.uk/government/publications/consultation-principles-guidance",
+    "text": "https://www.gov.uk/government/publications/consultation-principles-guidance.",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "29"
+  },
+  {
+    "number": "30",
+    "url": "mailto:consultation.coordinator@defra.gsi.gov.uk",
+    "text": "consultation.coordinator@defra.gsi.gov.uk",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "30"
+  },
+  {
+    "number": "31",
+    "url": "https://www.conservatives.com/manifesto",
+    "text": "manifesto",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "31"
+  },
+  {
+    "number": "32",
+    "url": "http://www.publications.parliament.uk/pa/cm201415/cmselect/cmcomloc/607/60702.html",
+    "text": "report on litter and",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "32"
+  },
+  {
+    "number": "33",
+    "url": "http://www.publications.parliament.uk/pa/cm201415/cmselect/cmcomloc/607/60702.html",
+    "text": "fly-tipping",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "33"
+  },
+  {
+    "number": "34",
+    "url": "http://www.legislation.gov.uk/ukpga/2005/16/contents",
+    "text": "Clean Neighbourhoods and Environment Act 2005,",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "34"
+  },
+  {
+    "number": "35",
+    "url": "http://www.legislation.gov.uk/ukpga/2014/12/contents/enacted",
+    "text": "Anti-social Behaviour, Crime and Policing Act 2014",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "35"
+  },
+  {
+    "number": "36",
+    "url": "https://www.publications.parliament.uk/pa/cm201415/cmselect/cmcomloc/607/60702.html",
+    "text": "Communities and",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "36"
+  },
+  {
+    "number": "37",
+    "url": "https://www.publications.parliament.uk/pa/cm201415/cmselect/cmcomloc/607/60702.html",
+    "text": "Local Government Committee,",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "37"
+  },
+  {
+    "number": "38",
+    "url": "http://www.legislation.gov.uk/ukpga/1990/43/contents",
+    "text": "Environmental Protection Act 1990",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "38"
+  },
+  {
+    "number": "39",
+    "url": "http://www.legislation.gov.uk/ukpga/2014/2/contents/enacted",
+    "text": "Local Accountability & Audit Act 2012.",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "39"
+  },
+  {
+    "number": "40",
+    "url": "http://data.gov.uk/dataset/fixed-penalty-notice-overview",
+    "text": "latest year for which figures are",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "40"
+  },
+  {
+    "number": "41",
+    "url": "http://data.gov.uk/dataset/fixed-penalty-notice-overview",
+    "text": "available (2008/09),",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "41"
+  },
+  {
+    "number": "42",
+    "url": "https://www.gov.uk/guidance/enforcement-officers-issuing-fixed-penalty-notices",
+    "text": "guidance",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "42"
+  },
+  {
+    "number": "43",
+    "url": "https://www.conservatives.com/manifesto",
+    "text": "manifesto",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "43"
+  },
+  {
+    "number": "44",
+    "url": "http://www.legislation.gov.uk/uksi/2009/3157/introduction",
+    "text": "INSPIRE Regulations",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "44"
+  },
+  {
+    "number": "45",
+    "url": "http://inspire.ec.europa.eu/Themes/Data-Specifications/2892",
+    "text": "34 environmental themes.²⁶",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "45"
+  },
+  {
+    "number": "46",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/408386/150227_PUBLICATION_Final_LGTC_2015.pdf",
+    "text": "Local Government Transparency Code 2015",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "46"
+  },
+  {
+    "number": "47",
+    "url": "http://www.legislation.gov.uk/uksi/2009/3157/introduction",
+    "text": "INSPIRE Regulations",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "47"
+  },
+  {
+    "number": "48",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/408386/150227_PUBLICATION_Final_LGTC_2015.pdf",
+    "text": "Local Government",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "48"
+  },
+  {
+    "number": "49",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/408386/150227_PUBLICATION_Final_LGTC_2015.pdf",
+    "text": "Transparency Code",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "49"
+  },
+  {
+    "number": "50",
+    "url": "http://www.legislation.gov.uk/uksi/2009/3157/introduction",
+    "text": "INSPIRE Regulations",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "50"
+  },
+  {
+    "number": "51",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/408386/150227_PUBLICATION_Final_LGTC_2015.pdf",
+    "text": "Local Government Transparency Code",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "51"
+  },
+  {
+    "number": "52",
+    "url": "http://www.legislation.gov.uk/uksi/2007/175/pdfs/uksi_20070175_en.pdf",
+    "text": "Environmental Offences (Fixed Penalties) (Miscellaneous",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "52"
+  },
+  {
+    "number": "53",
+    "url": "http://www.legislation.gov.uk/uksi/2007/175/pdfs/uksi_20070175_en.pdf",
+    "text": "Provisions) Regulations 2007",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "53"
+  },
+  {
+    "number": "54",
+    "url": "https://www.gov.uk/guidance/parish-councils-fixed-penalty-notices",
+    "text": "guidance for parish councils on their enforcement",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "54"
+  },
+  {
+    "number": "55",
+    "url": "https://www.gov.uk/guidance/parish-councils-fixed-penalty-notices",
+    "text": "powers.²⁷",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "55"
+  },
+  {
+    "number": "56",
+    "url": "http://www.legislation.gov.uk/ukla/2007/2/section/24/enacted",
+    "text": "Section 24 of the London Local Authorities Act 2007",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "56"
+  },
+  {
+    "number": "57",
+    "url": "https://www.publications.parliament.uk/pa/cm201415/cmselect/cmcomloc/607/607.pdf",
+    "text": "the CLG Select Committee report on litter and",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "57"
+  },
+  {
+    "number": "58",
+    "url": "https://www.publications.parliament.uk/pa/cm201415/cmselect/cmcomloc/607/607.pdf",
+    "text": "fly-tipping (2015)",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "58"
+  },
+  {
+    "number": "59",
+    "url": "http://www.legislation.gov.uk/ukpga/2014/12/section/154/enacted",
+    "text": "Section 154",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "59"
+  },
+  {
+    "number": "60",
+    "url": "http://www.legislation.gov.uk/ukpga/2014/12/contents/enacted",
+    "text": "Anti-social Behaviour, Crime and Policing Act 2014",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "60"
+  },
+  {
+    "number": "61",
+    "url": "http://www.legislation.gov.uk/ukpga/1990/43/contents",
+    "text": "Environmental Protection Act 1990",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "61"
+  },
+  {
+    "number": "62",
+    "url": "https://www.trafficpenaltytribunal.gov.uk/",
+    "text": "Traffic Penalty Tribunal",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "62"
+  },
+  {
+    "number": "63",
+    "url": "https://www.trafficpenaltytribunal.gov.uk/",
+    "text": "England and Wales",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "63"
+  },
+  {
+    "number": "64",
+    "url": "http://www.legislation.gov.uk/ukpga/2014/12/section/154/enacted",
+    "text": "Section 88A",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "64"
+  },
+  {
+    "number": "65",
+    "url": "http://www.legislation.gov.uk/ukpga/2014/12/section/154/enacted",
+    "text": "Anti-social Behaviour, Crime and Policing Act 2014",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "65"
+  },
+  {
+    "number": "66",
+    "url": "http://www.legislation.gov.uk/ukpga/1990/43/contents",
+    "text": "Environmental Protection Act 1990.",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "66"
+  },
+  {
+    "number": "67",
+    "url": "http://www.legislation.gov.uk/ukla/2007/2/section/75/enacted",
+    "text": "London Local Authorities Act",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "67"
+  },
+  {
+    "number": "68",
+    "url": "http://www.legislation.gov.uk/ukla/2007/2/section/75/enacted",
+    "text": "2007.",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "68"
+  },
+  {
+    "number": "69",
+    "url": "https://www.gov.uk/government/organisations/highways-england",
+    "text": "Highways England",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "69"
+  },
+  {
+    "number": "70",
+    "url": "https://www.gov.uk/government/organisations/highways-england",
+    "text": "Highways England",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "70"
+  },
+  {
+    "number": "71",
+    "url": "https://www.gov.uk/government/organisations/highways-england",
+    "text": "Highways England",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "71"
+  },
+  {
+    "number": "72",
+    "url": "https://www.gov.uk/government/organisations/highways-england",
+    "text": "Highways England",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "72"
+  },
+  {
+    "number": "73",
+    "url": "http://www.legislation.gov.uk/uksi/2009/3157/introduction",
+    "text": "INSPIRE Regulations",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "73"
+  },
+  {
+    "number": "74",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/408386/150227_PUBLICATION_Final_LGTC_2015.pdf",
+    "text": "Local Government Transparency Code.",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "74"
+  },
+  {
+    "number": "75",
+    "url": "http://www.legislation.gov.uk/ukla/2007/2/section/75/enacted",
+    "text": "London Local Authorities Act 2007.",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "75"
+  },
+  {
+    "number": "76",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/408386/150227_PUBLICATION_Final_LGTC_2015.pdf",
+    "text": "Local Government Transparency Code",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "76"
+  },
+  {
+    "number": "77",
+    "url": "http://www.legislation.gov.uk/ukla/2007/2/section/75/enacted",
+    "text": "London Local Authorities Act 2007.",
+    "source_alias": "fixed_penalties_consultation",
+    "source_title": "Fixed Penalties for Environmental Offences Consultation",
+    "source_number": "77"
+  }
+]

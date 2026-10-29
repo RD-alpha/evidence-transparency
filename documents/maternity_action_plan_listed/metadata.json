@@ -1,0 +1,18 @@
+{
+  "title": "Safer maternity care action plan, Oct 2016 (listed source)",
+  "alias": "maternity_action_plan_listed",
+  "uploaded_at": "2026-10-08T17:53:16.970269+01:00",
+  "uploaded_date": "2026-10-08",
+  "uploaded_time": "17:53:16 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "note": "One-off patched ingest (scripts/ingest_listed_with_patches.py, 2026-10-08): roman endnotes i-x and the arabic footnote merged into one 1-11 sequence in order of appearance; whitespace-only spans ignored when sizing footnote blocks.",
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "policy_paper",
+    "source_documents": 1,
+    "matches_2018_listed_source": "yes",
+    "basis": "The October 2016 action plan (listed). Ingested from the files Appendix 2 links to (verified by retrieval)."
+  }
+}

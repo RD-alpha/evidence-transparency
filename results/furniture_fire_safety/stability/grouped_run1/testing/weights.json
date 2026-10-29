@@ -1,0 +1,9 @@
+{
+  "themes": [
+    {
+      "theme": "Other",
+      "reason": "This theme only contains a generic review notice and date, with no substantive content about testing plans, impact measurement, evaluation timetables, or consultation. It provides no actual argument for how the policy's effectiveness will be assessed.",
+      "weight": "not core"
+    }
+  ]
+}

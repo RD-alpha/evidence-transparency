@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Academic and Cognitive Benefits",
+      "reason": "Establishes the core rationale for why modern languages merit standardized A/AS level status, framing the subject as equivalent in rigor to other humanities subjects, which justifies the government's chosen intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Skills Development and Transferable Competencies",
+      "reason": "Details the specific transferable skills the standardized curriculum aims to develop, directly supporting why this particular content design was chosen as the intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Educational Relevance and Access",
+      "reason": "Explains the intended broad applicability of the curriculum to all students regardless of future specialization, supporting the design choice but is more elaborative than foundational to the core justification.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Foundation for Advanced Study",
+      "reason": "A brief single-sentence claim about preparing students for degree-level study; it supplements but does not independently carry the main argument for the intervention.",
+      "weight": "not core"
+    }
+  ]
+}

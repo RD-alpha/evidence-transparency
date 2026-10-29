@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Economic and employer demand for high-level skills",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "UK research base and institutional need for doctoral students",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Unmet demand and a funding gap for doctoral study",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "UK's global research competitiveness and performance",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Doctoral funding sources and delivery mechanisms",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

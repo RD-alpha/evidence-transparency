@@ -1,0 +1,18 @@
+{
+  "title": "Furniture Fire Safety",
+  "alias": "furniture_fire_safety",
+  "uploaded_at": "2026-09-29T14:58:42.682479+01:00",
+  "uploaded_date": "2026-09-29",
+  "uploaded_time": "14:58:42 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "impact_assessment",
+    "type_listed_in_2018_appendix": "consultation + impact assessment + draft regulations + panel review",
+    "matches_2018_listed_source": "partial",
+    "basis": "Only the impact assessment (IA dated 20/07/2016) is ingested, one of four listed sources.",
+    "source_check": "Listed document(s) retrieved on 2026-10-08 and compared with the ingested text: 84% found in the listed impact assessment PDF (file 544020); 0% in the other three listed documents."
+  }
+}

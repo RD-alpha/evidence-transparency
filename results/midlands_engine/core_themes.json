@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Productivity gap",
+        "claim": "Despite considerable economic strengths, Midlands productivity has fallen further behind the UK average (gap widening from about 10% to 15% between 1997 and 2015), with GVA per employee and business creation lagging."
+      },
+      {
+        "name": "Skills shortage",
+        "claim": "The Midlands has a weaker skills base than other regions, with fewer highly qualified people, more with no qualifications, weaker school outcomes and poor graduate retention, which explains regional disparities in growth and productivity."
+      },
+      {
+        "name": "Fragmented transport and connectivity",
+        "claim": "Slow, congested transport links within the region and a dispersed population fragment the economy, raising the cost of moving people, goods and ideas and lowering productivity and wages, despite good national and international links."
+      },
+      {
+        "name": "Existing strengths to build on",
+        "claim": "The region has substantial assets (large economy, manufacturing and services base, industrial clusters, 20 universities, strong exports and inward investment) that provide a base for growth if the weaknesses are addressed."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Local Growth Fund investment package",
+        "claim": "A £392 million Local Growth Fund allocation across the Midlands LEPs, funding specific local projects in transport, skills, clusters, housing and culture, will address barriers to productivity and help clusters grow."
+      },
+      {
+        "name": "Connectivity measures",
+        "claim": "Investing in local transport upgrades, East-West links, smart ticketing, HS2 benefits and digital infrastructure will connect the region's towns and cities and to the rest of the country, addressing fragmentation and raising productivity."
+      },
+      {
+        "name": "Midlands Skills Challenge",
+        "claim": "A £20 million Skills Challenge, with Work Coaches, English-language training, mental health pilots and lifelong learning trials, plus skills infrastructure investment, is the first step towards closing the skills gap."
+      },
+      {
+        "name": "Enterprise, innovation, trade and investment",
+        "claim": "The Midlands Engine Investment Fund of over £250 million, support for science and innovation clusters, and a Trade and Investment Programme and Investment Portfolio will make the economy more dynamic and attract trade and investment."
+      }
+    ],
+    "note": "The proposal is a package of many separate funded measures grouped under five objectives, with little argument for why each was chosen over alternatives."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Delivery through local partnership",
+        "claim": "The government cannot deliver the strategy alone, so delivery relies on the Midlands Engine Partnership, combined authorities, LEPs, local authorities, universities and businesses, backed by £4 million of funding and an industry board."
+      },
+      {
+        "name": "Delivery of connectivity and HS2 benefits",
+        "claim": "Connectivity measures will be delivered by working with Midlands Connect, Transport for West Midlands and local authorities around HS2 stations, with Midlands Connect on the national Smart Ticketing Delivery Board."
+      },
+      {
+        "name": "Work still to be designed",
+        "claim": "Details of skills, innovation and productivity measures are to be developed jointly with partners, such as the long-term skills plan, innovation-ready proposals and supply chain programme, rather than fixed now."
+      },
+      {
+        "name": "Trade and investment delivery timetable",
+        "claim": "The Trade and Investment Programme is delivered through a schedule of dated events, missions, summits and publications with local partners."
+      }
+    ],
+    "note": "Implementation is mostly a list of partnership arrangements and activities, with no reasoning about why these delivery methods were chosen or alternatives considered."
+  }
+}

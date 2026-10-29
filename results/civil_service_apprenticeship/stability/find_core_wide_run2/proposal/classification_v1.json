@@ -1,0 +1,110 @@
+{
+  "themes": [
+    {
+      "name": "Skills and Productivity Business Case",
+      "ids": [
+        "S0005",
+        "S0024",
+        "S0050",
+        "S0051",
+        "S0052",
+        "S0053",
+        "S0054",
+        "S0037",
+        "S0038"
+      ]
+    },
+    {
+      "name": "Social Mobility and Diversity Business Case",
+      "ids": [
+        "S0006",
+        "S0025",
+        "S0044",
+        "S0046",
+        "S0056",
+        "S0107",
+        "S0142",
+        "S0175"
+      ]
+    },
+    {
+      "name": "Numerical Commitment as the Chosen Scale of Action",
+      "ids": [
+        "S0007",
+        "S0028",
+        "S0030"
+      ]
+    },
+    {
+      "name": "Quality Alongside Quantity",
+      "ids": [
+        "S0031",
+        "S0032",
+        "S0099",
+        "S0100",
+        "S0113",
+        "S0116",
+        "S0145",
+        "S0146",
+        "S0147",
+        "S0148"
+      ]
+    },
+    {
+      "name": "Leading by Example in the Public Sector and Wider Economy",
+      "ids": [
+        "S0009",
+        "S0010",
+        "S0027",
+        "S0049",
+        "S0054",
+        "S0138",
+        "S0147"
+      ]
+    },
+    {
+      "name": "Strategic Rationale and Workforce Planning Integration",
+      "ids": [
+        "S0034",
+        "S0035",
+        "S0036",
+        "S0104",
+        "S0110",
+        "S0163",
+        "S0167",
+        "S0170",
+        "S0172"
+      ]
+    },
+    {
+      "name": "Civil Service Commitment and Investment",
+      "ids": [
+        "S0013",
+        "S0058",
+        "S0059"
+      ]
+    },
+    {
+      "name": "Apprentice Experience and Engagement",
+      "ids": [
+        "S0113",
+        "S0208",
+        "S0214",
+        "S0219",
+        "S0226"
+      ]
+    },
+    {
+      "name": "Programme Delivery and Capability",
+      "ids": [
+        "S0234"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": [
+        "S0229"
+      ]
+    }
+  ]
+}

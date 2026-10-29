@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "theme": "Policy Objectives and Rationale for Reform",
+      "reason": "Establishes the problem (outdated test driving chemical use) and the explicit objectives the intervention must meet; without this the case for why any new regulation is needed collapses.",
+      "weight": "core"
+    },
+    {
+      "theme": "Options Appraisal and Regulatory Approach",
+      "reason": "Lays out the alternatives considered (do nothing, revoke regulations, update regulations) and justifies selecting 'update the regulations' as the preferred option; this comparative justification is essential to the proposal argument.",
+      "weight": "core"
+    },
+    {
+      "theme": "The New Match Test and Technical Design",
+      "reason": "Describes the actual technical content of the chosen intervention (the new match test design) which is the central mechanism by which the policy objectives are to be achieved.",
+      "weight": "core"
+    },
+    {
+      "theme": "Removal of the Cigarette Test",
+      "reason": "Provides detail on a complementary regulatory change bundled with the proposal, but the core rationale and design of the intervention stand independently via the match test and options appraisal themes.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Consultation Process and Stakeholder Feedback",
+      "reason": "Describes procedural history and stakeholder reactions that led to revisions, but is background/process detail rather than the substantive justification for the chosen intervention.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Costs to Business",
+      "reason": "Provides detailed quantified cost estimates supporting the should-explain point on costs, but the proposal's rationale does not depend on these specific figures standing or falling.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Benefits and Cost Savings from Reduced Flame Retardant Use",
+      "reason": "Offers quantified benefit estimates that support but are not essential to the core justification for choosing the new test design over alternatives.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Impact on Small and Medium Enterprises",
+      "reason": "A narrower distributional consideration about SME costs that elaborates on cost impacts but is not central to the overall proposal rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Scope of Regulations and Compliance Routes",
+      "reason": "Details secondary design choices (interliners, baby products exclusion) that refine the proposal but are not the main pillars of the argument for the chosen intervention.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Methodology for Estimating Fabric and Flame Retardant Usage",
+      "reason": "Technical appendix-style detail on how fabric/FR usage figures were derived; it underpins cost/benefit estimates but is not core to the justification of the chosen policy intervention itself.",
+      "weight": "not core"
+    }
+  ]
+}

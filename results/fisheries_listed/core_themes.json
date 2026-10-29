@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Outdated Concordat requires simplification",
+        "claim": "A scheduled review of the 2012 Concordat concluded that it contains elements no longer relevant to UK fisheries management and needs to be simplified to provide clarity to fishermen and government."
+      },
+      {
+        "name": "Vessel mobility mismatches with licensing administration",
+        "claim": "Changes of ownership or business decisions mean vessels increasingly operate in and land into a different part of the UK than the Administration that licenses them, creating a need for clearer rules on moving between Administrations."
+      },
+      {
+        "name": "Economic link condition needs re-examination",
+        "claim": "The existing economic link licence condition, which permits foreign-owned quota holders access to UK waters in exchange for an economic link, needs review to ensure it delivers meaningful benefits to coastal communities."
+      },
+      {
+        "name": "FQA trading creates tension with their legal status",
+        "claim": "Although FQA units confer no formal right to a share of UK quota, in practice they are traded and holders have a general expectation of receiving quota allocations, creating a management issue the Concordat must address."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Devolved vessel licensing with managed mobility",
+        "claim": "The proposal is to let each Administration issue licences for vessels under its own jurisdiction while allowing vessels to change Administration where a real, sustained shift in fishing operations has occurred."
+      },
+      {
+        "name": "Reform of the economic link condition",
+        "claim": "The proposal is to remove the existing economic link paragraph from the Concordat so that Administrations can further discuss and redesign the condition to ensure it delivers benefits to coastal communities."
+      },
+      {
+        "name": "Administration discretion over FQA transfers",
+        "claim": "The proposal is to give each Fisheries Administration discretion over whether to approve transfers of FQA units to and from licences issued by other Administrations, so quota can be managed according to each Administration's own needs and priorities."
+      },
+      {
+        "name": "Minor and consequential updates",
+        "claim": "The proposal includes a package of minor and consequential changes to remove obsolete references and align the Concordat with EU regulatory and administrative changes made since 2012."
+      }
+    ],
+    "note": "The proposal is structured around three named main areas of change plus a package of minor consequential changes, treated here as four distinct lines of argument."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Rules for changing licensing Administration",
+        "claim": "Implementation will require vessels to demonstrate 12 months of sustained landings into a different Administration before an application is considered, with conditions to maintain the change and suspension of licences for breaches."
+      },
+      {
+        "name": "Further Administration talks on the economic link condition",
+        "claim": "Removing the economic link paragraph will be implemented by allowing Administrations to hold further discussions on the condition's effectiveness and development as part of post-EU-exit fisheries policy."
+      },
+      {
+        "name": "Administration-specific FQA transfer rules with transitional assumptions",
+        "claim": "Each Administration will confirm in its own quota management rules whether and how it exercises discretion over FQA transfers, with a presumption that transfers will be permitted for units attached to licences moving between Administrations during a transitional period."
+      },
+      {
+        "name": "Paragraph-by-paragraph consequential amendments",
+        "claim": "Implementation of the minor changes involves specific amendments and deletions to named paragraphs of the 2012 Concordat (e.g. 7b, 7d, 7e, 8, 9, 13) to reflect agreements and regulatory changes already in effect since 2012."
+      }
+    ],
+    "note": "This aspect contains extensive procedural detail, including the full revised Concordat text itself, but its argument still rests on the same four areas introduced under the proposal."
+  }
+}

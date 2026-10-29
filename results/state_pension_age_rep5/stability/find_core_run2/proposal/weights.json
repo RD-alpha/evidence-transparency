@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Linking State Pension age to life expectancy",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Rise to 68 in 2037-39",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Universal State Pension age",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Later decisions deferred to reviews",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

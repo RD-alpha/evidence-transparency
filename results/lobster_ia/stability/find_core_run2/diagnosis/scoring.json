@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Overfishing of lobster and crawfish stocks",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The claim that lobster and crawfish stocks are overfished and not at MSY is drawn from 'current stock assessments' and 'landing trends' cited to Reference 1 (MMO UK Sea Fisheries Annual Statistics 2014), which is linked and traceable, but no limitations or uncertainty in the assessment methodology are discussed."
+    },
+    {
+      "theme": "Risk to future viability and EU/biodiversity obligations",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that failure to act risks future viability and EU 2020 MSY/Biodiversity obligations is mainly reasoning extended from the Theme 1 stock-assessment evidence, with the CFP/MSFD and Biodiversity 2020 references (4,6) used only to describe existing legal commitments rather than as evidence the targets will actually be missed."
+    },
+    {
+      "theme": "Market failure from common-pool resource exploitation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The common-good/externality argument (lines citing Reference 1,12) is economic reasoning and a definitional footnote (12), not an empirical finding demonstrating the scale or existence of this market failure for lobster/crawfish specifically."
+    },
+    {
+      "theme": "Inadequacy and inconsistency of existing local measures",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The theme explains that 'there haven't been any assessments on the effectiveness of these local bans' and relies only on uncited 'anecdotal reports' of population increase, so evidence is mentioned and its weakness acknowledged, but nothing is properly cited or linked."
+    }
+  ],
+  "reasoning": "The diagnosis section is built on four core claims. Theme 1 (overfishing) reaches level 2: it cites Reference 1 (MMO UK Sea Fisheries Annual Statistics 2014, with a working link) to support the statement that 'no lobster stocks [are] being exploited at levels associated with Maximum Sustainable Yield', a clear, checkable link between evidence and claim, though no critique of the assessment's reliability is offered, so it falls short of level 3. Theme 2 (future risk/EU obligations) largely reasons forward from that same stock data ('if this over-exploitation is not addressed... jeopardise the UK's ability to meet its EU obligations'), citing CFP/MSFD and Biodiversity 2020 (refs 4, 6) only to describe existing commitments, not as evidence the targets will be missed \u2014 level 1. Theme 3 (market failure) is pure economic argument supported only by a stats reference and a definitional footnote (12), with no empirical demonstration of the externality's scale \u2014 level 0. Theme 4 (inadequate local measures) honestly flags that 'there haven't been any assessments on the effectiveness of these local bans' and relies on uncited 'anecdotal reports' \u2014 level 1. The mean of (2,1,0,1)=1, giving a section score of 1. To reach level 2 overall, Themes 2\u20134 would need properly cited, claim-specific evidence (e.g., a cited assessment of IFCA ban outcomes or quantified projections of 2020 obligation shortfalls) rather than reasoning built on Theme 1's data alone.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

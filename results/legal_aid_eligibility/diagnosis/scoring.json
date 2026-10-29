@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Universal Credit widens passporting and raises costs",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The \u00a314m steady-state figure comes from the department's own modelling (lines 'approximately \u00a314m', 'Using our modelling approach...'), with Reference 3 saying it is a modelling estimate and giving the \u00a39m-\u00a320m sensitivity range, and lines on the six replaced benefits and DWP rollout dates link the figure to the claim, but the modelling method itself is not described."
+    },
+    {
+      "theme": "Unfair advantage over similar-income non-recipients",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim rests on stated UC design features (65p/63p taper, work allowance) offered as grounds for the claim that recipients could exceed thresholds, but there is no citation, no data on how many households are affected, and no assessment."
+    },
+    {
+      "theme": "Interim passporting was temporary",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines such as 'This was a short term measure, on the understanding that we would revisit this decision' describe the department's own past intent and the April 2013 regulations, with no evidence offered."
+    },
+    {
+      "theme": "Passporting system and its administrative basis",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "References 1 and 2 only describe current rules and qualifying benefits, which is not evidence for the diagnosis."
+    },
+    {
+      "theme": "Universal Credit rollout timetable",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line on UC availability to single people in all Jobcentres is an uncited assertion of fact with no evidence behind it."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "A descriptive line about a diagram, offering no evidence."
+    }
+  ],
+  "reasoning": "The three core themes score 3, 1 and 0, a mean of 1.33, which rounds to 1. The cost theme is the strongest. The department's own modelling gives a figure, 'approximately \u00a314m per year in steady state', and ties it to the claim that UC 'replaces a wider scope of benefits than were historically passported' (Tax Credits and housing benefit), with DWP rollout dates (September 2018 complete, legacy benefits phased out by March 2022). Reference 3 says the figure is 'an estimate taken from a modelling exercise' and gives a sensitivity range of \u00a39m-\u00a320m, and the text says the 'key modelling uncertainty' was tested. That is the document assessing its own evidence, so I scored it level 3. I note it does not explain the modelling method or assumptions, which is the strongest argument for a lower score on that theme. The unfair-advantage theme relies on UC design facts (the 65p taper, work allowances) and the conclusion that recipients 'could be in receipt of household income that exceeds the upper eligibility thresholds'. It gives no data on how many people this affects, so it is level 1. The interim-passporting theme is a statement of intent and history with no evidence, so it is level 0. To reach level 2 overall, the document would need to give quantified, cited evidence for the fairness claim, for example the number of UC recipients over the thresholds, and show the basis for the 'temporary' decision. It would also need to describe the modelling method so readers can follow it.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

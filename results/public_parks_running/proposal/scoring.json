@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Free everyday use versus legitimate charging",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines distinguishing shared use from exclusive use (e.g. 'Parkrun and junior parkrun share the park with other park users', 'there is no exclusive use of the park') are assertion and reasoning with no statistic, finding or source, and there are no references."
+    },
+    {
+      "theme": "Why parkrun is singled out",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The only factual grounds are that there are 'hundreds of parkruns nationally' and that Stoke Gifford Parish Council chose to charge, which are uncited, unquantified assertions, and the statutory references (section 151 of the 1989 Act, section 5(3) of the Localism Act 2011) describe the powers used rather than explain why this option was chosen."
+    },
+    {
+      "theme": "Extension to other users",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines on other groups, local agreement and dog walkers (e.g. 'we would expect the event organisers and the relevant local authority to mutually agree the arrangements') are expectations and consultation questions with no evidence offered."
+    },
+    {
+      "theme": "Other community and commercial park use",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines describing fun runs, dog walkers, fitness classes, fetes and cafes are descriptive assertions with no data, source or finding behind them."
+    }
+  ],
+  "reasoning": "All three core themes score level 0, giving a mean of 0 and a section score of 0. In 'Free everyday use versus legitimate charging', the case rests on reasoning: 'Parkrun and junior parkrun share the park with other park users' and 'there is no exclusive use of the park'. No usage data, survey or finding backs this, and nothing is cited. 'Why parkrun is singled out' offers the nearest thing to evidence: 'there are hundreds of parkruns nationally' and the Stoke Gifford Parish Council case. The first is an unquantified figure with no source. The second is a single incident, with no account of what happened or how widespread charging is. The statutory references (section 151 of the Local Government and Housing Act 1989, section 5(3) of the Localism Act 2011) identify the powers to be used and do not explain why a legislative ban was chosen or other options ruled out. 'Extension to other users' only sets out expectations and invites views. The strongest counter-example is the Stoke Gifford incident, which is a concrete trigger for the policy, but it is an anecdote without detail, a source or any assessment of how common such charging is. To reach level 1 the document would need to offer real evidence, such as the number of parkrun events held in council parks, how many councils charge, and what participation or health benefits parkrun brings. To reach level 2 it would also need to cite these sources. To reach level 3 it would need to assess their strengths and limits.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

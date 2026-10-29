@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Permitted exceptions within the ban",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The rationale for exceptions (speculative tenants, cost mitigation) is pure policy reasoning with no statistic, study, dataset or consultation evidence cited anywhere in the lines."
+    },
+    {
+      "theme": "Deposit burden reduction",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Proposals for capping deposits, instalments or credit-line models are described as options to explore, with no evidence (data, research or consultation findings) offered for why these specific mechanisms would work."
+    },
+    {
+      "theme": "Enforcement architecture built on local authorities, with possible lead authority and data sharing",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The detailed description of NTSEAT's existing powers in the Estate Agent sector is used as a comparable-policy example to justify a lead authority option ('Designating a lead enforcement authority... could make enforcement of regulations more consistent and effective'), but it carries no reference/link so cannot reach level 2."
+    },
+    {
+      "theme": "Penalties and tenant empowerment as compliance drivers",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that 'Tenant empowerment and education has helped to improve compliance in other areas of the sector, for example, deposit protection' and the cited precedents of Consumer Rights Act (\u00a35,000) and Housing and Planning Act 2016 (\u00a330,000) penalties are used as evidence for the proposed penalty/empowerment model, but none of these are given a formal reference or link."
+    }
+  ],
+  "reasoning": "The four core themes score unevenly. 'Permitted exceptions' and 'Deposit burden reduction' set out design choices (holding deposits, caps, instalment models) supported only by policy reasoning ('to mitigate the risk of tenants speculating...', 'keen to explore how this financial burden... can be minimised') with no data, research or consultation evidence behind them - level 0 for both. 'Enforcement architecture' draws on the real-world example of NTSEAT in the Estate Agent sector, describing its powers and reasoning that a similar lead authority 'could make enforcement of regulations more consistent and effective' - this is evidence of a comparable policy, explained but uncited, reaching level 1. 'Penalties and tenant empowerment' similarly invokes the deposit-protection precedent and existing Consumer Rights Act/Housing and Planning Act penalty levels (\u00a35,000, \u00a330,000) as evidence that empowerment and civil penalties can drive compliance, again explained but without a citation a reader could follow, so also level 1. The mean of (0, 0, 1, 1) is 0.5, which rounds down to 0. The strongest counter-example is the NTSEAT comparison, which comes close to level 1 reasoning from comparable practice, but even this falls short of level 2 because no reference or link is attached. To reach level 1 overall the weaker themes would need at least some named evidence; to reach level 2 the document would need proper citations linking each piece of comparator evidence (NTSEAT performance data, deposit-protection compliance statistics) to the specific delivery choices being proposed.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.5,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Transparency register as anti-corruption tool",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Claims of the PSC register's success and the 'very high degree of support' for a beneficial-ownership register are stated but never quantified or cited to a source, so the claim is explained but not properly evidenced."
+    },
+    {
+      "theme": "Extending coverage to existing owners and procurement",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The procurement question gives a partial tally ('Yes 16') and the existing-owners point cites only vague 'a lot of support', so consultation evidence is mentioned but its method (total respondents, full breakdown) is not disclosed."
+    },
+    {
+      "theme": "Balancing transparency with proportionality for investors",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Stakeholder warnings about a 'chilling effect on FDI' and burdensome regulation are reported without numbers, respondent counts or citation, so evidence is used but not properly sourced."
+    },
+    {
+      "theme": "Commissioning evidence to assess costs and benefits",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme only states intent to commission future research and an Impact Assessment, offering no evidence for the current design choice itself."
+    },
+    {
+      "theme": "UK's leading position and regulatory approach",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The EU Fourth Money Laundering Directive and PSC-register experience are named to justify the equivalence exemption, but neither is linked via citation nor assessed for effectiveness."
+    },
+    {
+      "theme": "Compliance mechanisms and enforcement",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The existing Companies House offence is cited as precedent for a possible new criminal offence, but with no reference link or evaluation of its past effectiveness."
+    },
+    {
+      "theme": "Privacy protections and concerns",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Consultation views are summarised ('about half the respondents did not support...') with rough proportions but no full numbers or citation."
+    },
+    {
+      "theme": "Consultation and stakeholder feedback",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The question and 'Yes 24 No 3' tally give a clear consultation result, but the theme does not link this figure to a specific resulting policy decision."
+    }
+  ],
+  "reasoning": "The four core themes score unevenly low. 'Transparency register as anti-corruption tool' (level 1) relies on uncited assertions like 'The UK is a world leader' and a vague 'very high degree of support' for the register, with no numbers or links. 'Extending coverage to existing owners and procurement' (level 1) offers a partial consultation tally ('Yes 16') and the vaguer 'a lot of support' for existing-owner coverage, but never states total respondents or links the figures explicitly to the two-tier reasoning. 'Balancing transparency with proportionality' (level 1) cites stakeholder fears of a 'chilling effect on FDI' without attribution or quantification. 'Commissioning evidence to assess costs and benefits' (level 0) is purely a promise of future research and an Impact Assessment, not evidence supporting the current design. The mean of 1, 1, 1, 0 is 0.75, rounding to a section score of 1. The strongest counter-example is the procurement 'Yes 16' figure, which comes close to level 2 by naming the question and a count, but it lacks total respondent numbers and is not explicitly tied back to the procurement-coverage decision. To reach level 2, the document would need to cite full consultation statistics (total N, breakdowns) directly against each design choice, and to reach level 3 it would also need to assess the reliability or limitations of that consultation evidence.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

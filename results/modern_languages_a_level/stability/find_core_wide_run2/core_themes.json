@@ -1,0 +1,56 @@
+{
+  "diagnosis": {
+    "core_themes": [],
+    "note": "No sentences in the document are labelled Diagnosis; the text moves directly from a statement of what the specification covers to the proposal and implementation detail, without articulating a problem, its causes, effects or scale."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Modern languages as a rigorous interdisciplinary subject",
+        "claim": "The study of a modern language is an interdisciplinary subject offering the same cognitive and academic advantages as other humanities disciplines."
+      },
+      {
+        "name": "Broad transferable benefits",
+        "claim": "Beyond practical language skills, AS/A level modern languages content builds intercultural competence and transferable skills (communication, critical thinking, autonomy, creativity, cognitive flexibility) valuable to individuals, society, higher education and employers."
+      },
+      {
+        "name": "Relevance to all students",
+        "claim": "The content is designed to be of value to students of all disciplines, not only those intending further study in the subject."
+      },
+      {
+        "name": "Foundation for degree-level study",
+        "claim": "The specification provides a robust foundation for students wishing to progress to degree-level or equivalent study of a modern language."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Comprehensive linguistic and cognitive skill development",
+        "claim": "AS and A level specifications must require students to develop a broad range of linguistic, cultural, critical-thinking and transferable skills through structured language learning outcomes."
+      },
+      {
+        "name": "Thematic study using authentic sources",
+        "claim": "Specifications must require study of prescribed themes relating to society and culture through authentic spoken and written sources, including online media."
+      },
+      {
+        "name": "Study of literary works and film",
+        "claim": "Students must study prescribed literary works and/or films and demonstrate critical understanding and response to them in the language of study, with greater depth required at A level."
+      },
+      {
+        "name": "Independent research skills at A level",
+        "claim": "A level specifications must additionally require students to develop and demonstrate independent research skills in the language of study."
+      },
+      {
+        "name": "Detailed grammar specification by language",
+        "claim": "Specifications must include detailed, comparable grammar content lists for French, German and Spanish, with other languages required to develop appendices of comparable challenge and breadth."
+      },
+      {
+        "name": "Chinese-specific adaptations",
+        "claim": "Because Chinese differs structurally from other languages covered, its AS/A level expectations include specific exceptions, such as English-language comprehension questions, that differ from the standard implementation model."
+      }
+    ],
+    "note": "The implementation aspect comprises a package of distinct delivery requirements (skills, themes, literary study, research, grammar, and a language-specific exception for Chinese) rather than a single unified method."
+  }
+}

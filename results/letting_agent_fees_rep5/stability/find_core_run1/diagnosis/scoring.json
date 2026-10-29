@@ -1,0 +1,94 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Weak tenant-side competition",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that tenants cannot negotiate fees and that competitive pressure is weak (e.g. 'Landlords will be motivated to find the agents with the lowest landlord fees but they have little or no incentive to find agents with low fees for tenants') is pure structural reasoning with no statistic, survey or study cited anywhere in the extract to support it."
+    },
+    {
+      "theme": "Opaque and inconsistent fee charging",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "DCLG's own market research of 50 agents is described with method ('randomly chose 50 agents... searched their website'), is tabulated, and is cross-checked against NALS, ARLA, Generation Rent and Shelter (References 3,4,5,6), with the document explicitly contrasting their differing averages (\u00a3172 vs \u00a3200 vs \u00a3400 vs \u00a3500) and noting its own exercise's limitations in finding/comparing fees, and the NLA finding (Reference 11) that a quarter of landlords didn't know what tenants were charged, together amounting to an assessment of a genuinely mixed evidence base."
+    },
+    {
+      "theme": "Fees cause financial harm and reduce mobility",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "EHS 2014-15 stats on moving decisions (35%/34%) and Citizens Advice figures (64%/42%, marked 'Reference: 13') are given with some explanation of what they show, but no reference definition for 13 (or for the EHS claim) appears in this theme's reference list, so a reader cannot trace the source."
+    },
+    {
+      "theme": "Growth and scale of private rental sector",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Figures on sector growth (e.g. 19% up from 11%, nearly doubling to 4.3 million households) are properly linked to the English Housing Survey and other named sources (References 1, 14, 17)."
+    },
+    {
+      "theme": "Role and value of letting agents",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme is purely descriptive of agents' functions with no statistic or study cited to support any claim."
+    },
+    {
+      "theme": "Tenant behaviour and decision-making",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The OFT 2013 market study is named in prose ('as the Office of Fair Trading found in their 2013 market study, tenants focus on the headline advertised price') but carries no reference or link."
+    },
+    {
+      "theme": "Landlord fee structures and incentives",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The Citizens Advice finding that 88% of renters pay fees when a letting agent manages the property is properly linked (Reference 9), though the NLA Q4 survey figures on landlord fees are named without a citation."
+    },
+    {
+      "theme": "Tenancy patterns and fee accumulation",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Claims about typical tenancy length and repeated fee payment are tied to the English Housing Survey 2014/15 via Reference 7."
+    },
+    {
+      "theme": "Letting process stages and services",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This is a procedural description of the letting process with no evidentiary claims or citations."
+    },
+    {
+      "theme": "Regulatory framework and existing protections",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The 2016 Client Money Protection call for evidence is the department's own consultation ('stakeholders were asked whether the requirements have been effective') and reports that most respondents felt transparency rules were insufficient, but no numbers of respondents or methodology are given, so it stays at level 1."
+    },
+    {
+      "theme": "Concerns about agent misconduct and unfair practices",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Shelter's 2013 finding that nearly one in four tenants felt charged unfair fees is marked '(Reference: 12)' in text but no reference entry appears in this theme's reference list, leaving it untraceable."
+    },
+    {
+      "theme": "Discrimination and vulnerable tenants",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "These are unevidenced assertions about landlord behaviour with no data or source."
+    },
+    {
+      "theme": "Fee trends and evidence of increases",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that median fees rose 60% between 2009-10 and 2014-15 is attributed to the English Housing Survey 2014/15 by name but carries no reference number or link in this extract."
+    },
+    {
+      "theme": "Scotland letting agent population",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The figure of around 1,700 letting agents is properly linked to a named Business and Regulatory Impact Assessment (Reference 15)."
+    }
+  ],
+  "reasoning": "The diagnosis rests on three core themes. 'Weak tenant-side competition' is pure market-structure reasoning ('Landlords will be motivated to find the agents with the lowest landlord fees but they have little or no incentive to find agents with low fees for tenants') with no statistic or study behind it anywhere in the extract, so it scores 0. 'Opaque and inconsistent fee charging' is the best-evidenced theme: DCLG's own 50-agent market research is described with its method, cross-checked against NALS, ARLA, Generation Rent and Shelter (References 3-6), and the document itself notes the resulting discrepancies (\u00a3172 to \u00a3500 average fees) and the practical difficulty of comparing fees, together with the NLA finding that a quarter of landlords didn't know what tenants were charged (Reference 11) - this active comparison and acknowledgement of inconsistency reaches level 3. 'Fees cause financial harm and reduce mobility' cites EHS and Citizens Advice statistics (64%/42%, 'Reference: 13') but no reference definitions are shown, leaving the claims traceable only to level 1. The mean of 0, 3 and 1 is 1.33, rounding down to 1. The strongest counter-example to a higher score is the first theme's total absence of evidence despite being central to the diagnosis. To reach level 2 overall, the document would need to properly cite the Citizens Advice and EHS mobility figures and supply at least some empirical support, rather than assertion, for the claim that tenant-side competition is weak.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

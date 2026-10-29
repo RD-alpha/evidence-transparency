@@ -1,0 +1,64 @@
+{
+  "themes": [
+    {
+      "theme": "Policy Objective and Rationale",
+      "reason": "States the core objective (sustainable exploitation at MSY, stock health) and directly explains why the national ban was chosen as the means to achieve it; without this the rationale for the intervention disappears.",
+      "weight": "core"
+    },
+    {
+      "theme": "Policy Options Considered",
+      "reason": "Lays out the do-nothing, IFCA byelaw, seasonal ban and national ban alternatives and explains why each was rejected in favour of the national SI ban; this comparative justification is the backbone of the proposal argument.",
+      "weight": "core"
+    },
+    {
+      "theme": "Voluntary Measures and Existing Legislation",
+      "reason": "Shows that the existing voluntary v-notching scheme has been tried and has failed to achieve sufficient uptake, which is the key evidence justifying why a mandatory ban (rather than continued voluntary action) is needed.",
+      "weight": "core"
+    },
+    {
+      "theme": "Cost Analysis and Financial Impacts",
+      "reason": "Provides detailed quantification of costs to fishers and government, supporting the should-explain point on costs/benefits, but the rationale for choosing the ban does not depend on these specific figures standing.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Benefits and Stock Recovery Modelling",
+      "reason": "Supplies the modelling evidence that the ban will lead to stock recovery and higher landings, which is the key evidence base underpinning the claim that this intervention will solve overfishing.",
+      "weight": "core"
+    },
+    {
+      "theme": "Regulatory Framework and Compliance",
+      "reason": "Details assumptions about existing IFCA bans and compliance used in the cost modelling; background detail that supports but is not essential to the core choice rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Data Limitations and Assumptions",
+      "reason": "Notes data gaps (e.g. North-West functional unit) affecting cost estimates; a minor caveat rather than a pillar of the proposal argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "EU Obligations and International Context",
+      "reason": "Explains why the government proceeded with national legislation rather than waiting for EU-wide measures; relevant context but a secondary justification rather than the central reason for the chosen intervention.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Net Benefit Analysis",
+      "reason": "Presents aggregated net cost/benefit figures that summarise the cost analysis; derivative of other themes rather than an independent support for the choice of intervention.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Non-Monetised Benefits",
+      "reason": "Restates the long-term landing benefits already covered in the stock recovery modelling theme; duplicative rather than a distinct pillar of the argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Implementation and Enforcement",
+      "reason": "Reiterates enforcement advantages of the national ban over IFCA byelaws already covered under Policy Options Considered; useful detail but not a separate core support.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Summary and Conclusion",
+      "reason": "Summarises the preferred option and headline figures already established elsewhere; it restates rather than adds independent support for the proposal.",
+      "weight": "not core"
+    }
+  ]
+}

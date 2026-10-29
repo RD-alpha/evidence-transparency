@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Legal mechanism and scope of the ban",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The claim that foreign vessels are excluded is backed by a specific figure, \"only 206kg in 2014\" (Reference 15, MMO Fisheries Activity Database), linked directly to the conservation-impact reasoning, but the choice to amend the existing SI rather than create a new one rests only on the unevidenced claim that it 'will support the Government's agenda on simplifying the legislative landscape', so the theme reaches level 2 without any assessment of uncertainty."
+    },
+    {
+      "theme": "Enforcement costs and government implementation burden",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The \u00a312,650-\u00a316,650 total is built from a fully itemised internal costing (kit cost \u00a3500, chemicals \u00a350 per Reference 19, 12 MMO offices, 3 vessels, 4 IFCAs, training \u00a3500 per area), and the document itself flags uncertainty, noting the training estimate 'is likely to be the highest estimate' and that related IFCA cost savings 'have not been quantified', satisfying the level 3 requirement for self-assessment of the evidence base."
+    },
+    {
+      "theme": "Consultation to test assumptions and gather evidence",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The theme only describes future plans to test assumptions and hold workshops with MMO, IFCAs, SAGB and NFFO, which is a description of process rather than evidence used to justify any delivery decision, so it reaches level 0."
+    },
+    {
+      "theme": "Implementation and stakeholder engagement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "These lines assert that MMO/IFCAs will continue enforcement and that details will be developed after consultation, with no evidence or data offered to support these statements."
+    }
+  ],
+  "reasoning": "The three core themes score unevenly. 'Legal mechanism and scope' reaches level 2: the exclusion of foreign vessels is backed by a cited, specific figure (\"only 206kg in 2014\", Reference 15) linked to a conservation-impact argument, though the choice of legislative vehicle itself rests only on an unevidenced simplification rationale. 'Enforcement costs' reaches level 3: the \u00a312,650-\u00a316,650 figure is built from a transparent, itemised internal costing (numbers of MMO offices, IFCAs, kit and chemical costs, training frequency), and the document explicitly flags that the training estimate 'is likely to be the highest estimate' and that IFCA cost savings 'have not been quantified', meeting the bar for self-assessed uncertainty. 'Consultation to test assumptions' reaches level 0: it only describes a future process (workshops, engagement with SAGB and NFFO) without presenting any evidence that has actually informed a delivery decision yet. The mean of 2, 3 and 0 is 1.67, which rounds to 2. The strongest counter-example to a higher score is that the central legal-mechanism choice and the consultation design are both asserted without evidence, only reasoning or process description. To reach level 3 overall, the document would need to cite evidence (e.g. precedent from comparable local bans or stakeholder data) for why amending the existing SI is the best route, and show how consultation findings so far have shaped the costing or scope assumptions.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,264 @@
+Modern foreign languages GCE AS and A level subject content
+July 2023
+The content for modern languages AS and A level
+Introduction
+S0001 1.
+S0002 AS and A level subject content sets out the knowledge, understanding and skills common to all AS and A level specifications in modern languages.
+Context
+S0003 2.
+S0004 The study of a modern language is understood to be an interdisciplinary subject offering the same cognitive and academic advantages as other disciplines within the humanities.
+S0005 In addition to high level practical language skills, the content of AS and A level in modern languages provides depth of knowledge, understanding and intercultural competence and fosters a range of transferable skills such as communication skills, critical thinking, autonomy, resourcefulness, creativity, and linguistic, cultural and cognitive flexibility; all of which are of value to the individual, to wider society, to higher education and to employers.
+S0006 The content for AS and A level in a modern language has been designed to be of relevance to students of all disciplines, whether they intend to progress to further study in the subject or not.
+S0007 It will provide a robust foundation for those wishing to study a modern language to degree level or equivalent.
+Aims and objectives
+S0008 3. AS and A level specifications in a modern language must enable students to:
+S0009 • enhance their linguistic skills and promote and develop their capacity for critical thinking on the basis of their knowledge and understanding of the language, culture and society of the country or countries where the language is spoken
+S0010 • develop control of the language system to convey meaning, using spoken and written skills, including an extended range of vocabulary, for both practical and intellectual purposes as increasingly confident, accurate and independent users of the language
+S0011 • develop their ability to interact effectively with users of the language in speech and in writing, including through online media
+S0012 • develop language learning skills and strategies, including communication strategies to sustain communication and build fluency and confidence
+S0013 • engage critically with intellectually stimulating texts, films and other materials in the original language, developing an appreciation of sophisticated and creative uses of the language and understanding them within their cultural and social context
+S0014 • develop knowledge about matters central to the society and culture, past and present, of the country or countries where the language is spoken • mediate between cultures and between speakers of the language and speakers of English
+S0015 • foster their ability to learn other languages
+S0016 • equip themselves with transferable skills such as autonomy, resourcefulness, creativity, critical thinking, and linguistic, cultural and cognitive flexibility that will enable them to proceed to further study or to employment
+S0017 4.
+S0018 In addition, the A level specifications must also enable students to:
+S0019 • develop their capacity for critical and analytical thinking through the language of study
+S0020 • develop as independent researchers through the language of study
+Subject content
+S0021 5.
+S0022 AS and A level specifications in modern languages must build on the knowledge, understanding and skills specified in the GCSE subject content.
+S0023 6.
+S0024 The content for AS and A level is conceived as an integrated study with a focus on language and culture and society.
+S0025 7.
+S0026 AS and A level specifications must require students to:
+S0027 • develop knowledge and understanding, through the language of study, of themes relating to the society and culture, past and present, of the country or countries where the language is spoken.
+S0028 Students must study one theme at AS and two themes at A level, from each of the following areas of interest (i.e. 2 themes at AS; 4 themes at A level):
+S0029 (i) social issues and trends
+S0030 (ii) political and/or intellectual and/or artistic culture
+S0031 With regard to area of interest (ii):
+S0032 at both AS and A level, students must use authentic spoken and written sources • from a variety of different contexts and genres, including online media, as stimulus material for the study of the themes and, concurrently, for language development
+S0033 8.
+S0034 AS and A level specifications must require students to develop their language knowledge, understanding and skills through: ** (Reference: 1)
+S0035 • using language spontaneously to initiate communication; ask and answer questions; express thoughts and feelings; present viewpoints; develop arguments; persuade; and analyse and evaluate in speech and writing, including interaction with speakers of the language
+S0036 • applying knowledge of pronunciation, morphology and syntax, vocabulary and idiom to communicate accurately and coherently, using a range of expression – including the list of grammar at annex A for French, German and Spanish.
+S0037 For other languages, all specifications must include appendices setting out requirements for grammar which represent a level of challenge and breadth comparable to the requirements for French, German and Spanish.
+S0038 • using language learning skills and strategies, including communication strategies such as adjusting the message, circumlocution, self-correction and repair strategies
+S0039 • listening and responding to spoken passages including some extended passages from a range of different contexts and sources, adapted as necessary, covering different registers and types, including authentic communication involving one or more speakers
+S0040 • reading and responding to a variety of texts including some extended texts written for different purposes and audiences drawn from a range of authentic sources, including contemporary, historical and literary, fiction and non-fiction texts, adapted as necessary
+S0041 • understanding the main points, gist and detail from spoken and written material
+S0042 • inferring meaning from complex spoken and written material, including factual and abstract content
+S0043 • assimilating and using information from spoken and written sources, including material from online media
+S0044 • summarising information from spoken and written sources, reporting key points and subject matter in speech and writing
+S0045 • translating an unseen passage or passages from the language of study into English at AS and A level
+S0046 • translating unseen sentences or short texts at AS, and an unseen passage or passages at A level, from English into the language of study
+S0047 9.
+S0048 At AS, specifications must also require students to study one work, either a literary work or a film.
+S0049 They must:
+S0050 • know, understand and be able to respond critically in writing, in the language of study, to the work, taken from the prescribed list provided in the specification.
+S0051 10.
+S0052 At AS, knowledge and understanding of the work must include a critical response to aspects such as the structure of the plot, characterisation, and use of imagery or other stylistic features, as appropriate to the work studied.
+S0053 11.
+S0054 At A level, specifications must require students to study two works, either a literary work and a film, or two literary works They must:
+S0055 • appreciate, analyse and be able to respond critically in writing, in the language of study, to the works, taken from the prescribed list provided in the specification.
+S0056 12.
+S0057 At A level, students must develop a more detailed understanding of the works, showing a critical appreciation of the concepts and issues covered, and a critical
+S0058 and analytical response to features such as the form and the technique of presentation, as appropriate to the work studied (e.g. the effect of narrative voice in a prose text or camera work in a film).
+S0059 13.
+S0060 The works prescribed in the specification must be appropriate authentic sources.
+S0061 • the list of literary works must include a range from at least two of the following genres: novels, series of short stories, plays, selections of poems, life writing (such as autobiography, biography, letters and journals)
+S0062 • the list of films must include feature length films and can include selections of short films organised by theme or director
+S0063 • students are required to study two discrete works at A level i.e., students cannot be assessed on a film adapted from a literary work as well as on the original literary work itself
+S0064 14.
+S0065 In addition, A level specifications in a modern language must require students to:
+S0066 • develop research skills in the language of study, demonstrating the ability to initiate and conduct individual research on a subject of personal interest, relating to the country or countries where the language is spoken
+S0067 • identify a key question or subject of interest and select relevant information in the language of study from a range of authentic sources, including the internet
+S0068 • use information to illustrate knowledge and understanding of the research subject
+S0069 • analyse and summarise research findings, elaborating on key points of interest, as appropriate, through oral presentation and discussion
+Annex: Exceptions to subject content for Chinese
+S0070 The expectations at AS and A level for Chinese are different to other modern foreign languages covered by this document.
+S0071 • There is an exception to the expectation for students to use their language knowledge, skills, and understanding in their response to spoken and written language.
+S0072 Questions and responses in comprehension (listening and reading) tasks must be in English, unless writing skills are also intentionally being assessed.
+S0073 •
+S0074 Questions about the literary works and films will be provided in both Chinese and English.
+S0075 In the literary works and films section, students will still be required to respond in the language of study.
+Annex: grammatical content, appropriate to French, German
+and Spanish
+S0076 AS and A level students will be expected to have studied the grammatical system and structures of the language during their course.
+S0077 Knowledge of the grammar and structures specified for GCSE is assumed.
+S0078 In the examination students will be required to use, actively and accurately, grammar and structures appropriate to the tasks set, drawn from the following lists.
+S0079 The mention of an item in these lists implies knowledge of both its forms and its functions at an appropriate level of accuracy and complexity.
+S0080 The lists below, for French, German and Spanish, are divided into AS and A level.
+S0081 The examples in italics in parentheses are indicative; that is, they serve to illustrate the part of speech or structure that the candidate must know and hence do not represent an exhaustive specification of the required grammatical knowledge.
+S0082 For items marked (R), receptive knowledge only is required.
+S0083 The lists for other languages must be developed by awarding organisations and included as appendices to relevant specifications, to represent a level of challenge and breadth that is comparable to the requirements for French, German and Spanish.
+French: AS level
+S0084 Nouns
+S0085 Gender
+S0086 Singular and plural forms
+S0087 Articles
+S0088 Definite, indefinite and partitive
+S0089 Adjectives
+S0090 Agreement Position Comparative and superlative Use of adjectives as nouns (e.g. le vieux, les Anglais) Demonstrative (ce, cet, cette, ces) Indefinite (including autre, chaque, même, quelque) Possessive (mon, ma, mes, etc.)
+S0091 Interrogative and exclamatory (quel, quelle, quels, quelles)
+S0092 Numerals
+S0093 Cardinal (e.g. un, deux) Ordinal (e.g. premier, deuxième)
+S0094 Expression of time and date Adverbs
+S0095 Formation of adverbs in -ment Comparative and superlative Interrogative (including combien (de), comment, où, pourquoi, quand)
+S0096 Quantifiers/intensifiers
+S0097 (including assez, beaucoup, moins, plus, la plupart, plusieurs, presque, tant, très, l trop)
+S0098 Pronouns
+S0099 Personal: subject, including on Object: direct and indirect Disjunctive/emphatic personal, as subject and object: moi/moi-même, etc.
+S0100 Position and order Reflexive Relative (including qui, que, dont, lequel etc., auquel etc., ce qui, ce que) Demonstrative (celui, celle, ceux, celles; and celui-ci/celui-là etc.)
+S0101 Indefinite (including quelqu’un, quelque chose) Possessive (le mien etc.)
+S0102 Interrogative (including qui, que, quoi) Use of y, en
+S0103 Verbs
+S0104 Conjugation of regular -er, -ir, -re verbs, modal verbs, principal irregular verbs, including reflexive verbs Agreement of verb and subject Use of il y a Modes of address (tu, vous)
+S0105 Impersonal verbs Constructions with verbs
+S0106 Verbs followed by an infinitive (with or without a preposition)
+S0107 Dependent infinitives (faire réparer) (R) Perfect infinitive Negative forms Interrogative forms Use of tenses Present Perfect (including agreement of past participle) Imperfect
+S0108 Future Conditional Future perfect Conditional perfect Pluperfect Past historic (R) Use of the infinitive, present participle (e.g. en arrivant) and past participle Verbal paraphrases and their uses (including aller + infinitive, venir de + infinitive) Passive voice Present tense
+S0109 Other tenses (R)
+S0110 Subjunctive mood: present (common uses, for example, after expressions of possibility, necessity, obligation and after conjunctions such as bien que)
+S0111 Prepositions
+S0112 All prepositions, both simple (e.g. sous) and complex (e.g. au-delà de)
+S0113 Conjunctions
+S0114 Coordinating conjunctions (e.g. et, ou, mais)
+S0115 Subordinating conjunctions
+S0116 Negation
+S0117 Use of negative particles (e.g. ne...pas, ne...personne, ne...que) Use of ne with negative subjects (e.g. Personne n’est venu)
+S0118 Questions
+S0119 Commands
+S0120 Word order
+S0121 Inversion after speech
+S0122 Other constructions
+S0123 Time expressions with depuis and il y a Comparative constructions Indirect speech
+S0124 Discourse markers
+S0125 (e.g. Au contraire, En fait)
+S0126 Fillers
+S0127 (e.g. alors, bon)
+French: A level
+S0128 All grammar and structures listed for AS level, plus:
+S0129 Verbs
+S0130 Dependent infinitives (faire réparer)
+S0131 Passive voice: all tenses Subjunctive mood: perfect tense imperfect tense (R)
+S0132 Word order
+S0133 Inversion after adverbs
+German: AS level
+S0134 Nouns
+S0135 Gender Singular and plural forms Case marking on nouns Weak masculine nouns
+S0136 Determiners
+S0137 Definite article Indefinite article, including kein Demonstratives, including der/die/das Possessives Other determiners (e.g. alle, viel/viele, welcher)
+S0138 Pronouns
+S0139 Personal pronouns Reflexive pronouns Relative pronouns Demonstrative pronouns Possessive pronouns Indefinite pronouns (e.g. jemand)
+S0140 Interrogative pronouns (e.g. wer)
+S0141 Adjectives
+S0142 Adjectival endings Comparative and superlative Adjectives with the dative (e.g. es ist mir klar)
+S0143 Adjectives with prepositions (e.g. stolz auf)
+S0144 Adverbs and adverbials
+S0145 Time Place Direction (e.g. hin, heraus)
+S0146 Manner Degree (e.g. sehr) Interrogative (e.g. wann, warum) Comparative and superlative Numbers and fractions Clock time, days of the week, months
+S0147 Modal Particles / Discourse Markers
+S0148 e.g. ja, doch, wohl
+S0149 Verbs
+S0150 Principal parts of weak, strong and irregular verbs Reflexive verbs Separable/inseparable Auxiliary verbs (haben, sein, werden) Use of haben or sein in the perfect Modal verbs (dürfen, können, mögen, müssen, sollen, wollen): present and imperfect tenses; imperfect subjunctive of mögen and können Infinitive constructions (um… zu, ohne… zu, verbs with zu) Infinitive constructions (lassen and sich lassen with infinitive)
+S0151 Tense, voice and mood
+S0152 Present Past (i.e. simple past/imperfect) Perfect Perfect (modal verbs) (R) Pluperfect Future Future perfect (R) Conditional Conditional perfect (R) Passive with werden Imperative Subjunctive in conditional clauses (past) Subjunctive in conditional clauses (pluperfect) (R) Subjunctive in indirect speech (R)
+S0153 Prepositions
+S0154 Fixed case and dual case Prepositional adverbs (da(r)+preposition, e.g. darauf) Conjunctions
+S0155 Coordinating Subordinating
+S0156 The case system
+S0157 The subject and the finite verb Accusative objects Dative objects Prepositional objects The use of the nominative case with copular verbs (e.g. sein, werden, bleiben)
+S0158 Clause structure and word order
+S0159 Main clause word order Questions and commands Position of pronouns Position of adverbials Position of nicht Word order variation to change emphasis Subordinate clauses introduced by a conjunction (e.g. dass, obwohl)
+S0160 Word formation
+S0161 Compound nouns Forming nouns from verbs Forming nouns from adjectives Forming verbs from nouns Forming verbs from adjectives Separable and inseparable verb prefixes
+German: A level
+S0162 All grammar and structures listed for AS level, plus:
+S0163 Adjectives
+S0164 Use of long adjective phrases (R)
+S0165 Tense, voice and mood
+S0166 Perfect (modal verbs) Future perfect Conditional perfect Conditional sentence with omitted wenn, e.g. Hätte ich mehr Zeit gehabt, wäre das nicht passiert (R) Passive with sein Subjunctive in conditional clauses (pluperfect) All forms of indirect speech Clause structure and word order
+S0167 Use of the prepositional adverb (da(r)+preposition, e.g. darauf) to anticipate dass clauses and dependent infinitive clauses (R)
+Spanish: AS level
+S0168 Nouns
+S0169 Gender Singular and plural forms Plural of male/female pairs (e.g. los Reyes)
+S0170 Affective suffixes (R)
+S0171 Articles
+S0172 Definite and indefinite El with feminine nouns beginning with stressed a (el agua) Lo + adjective
+S0173 Adjectives
+S0174 Agreement Position Apocopation (e.g. gran, buen, mal, primer) Comparative and superlative (e.g. más fuerte; mejor, peor, mayor, menor) Use of adjectives as nouns (e.g. una triste, la roja, las norteamericanas) Demonstrative (e.g. este, ese, aquel)
+S0175 Indefinite (e.g. alguno, cualquiera, otro) Possessive (weak and strong forms) (e.g. mi / mío)
+S0176 Interrogative and exclamatory (e.g. ¿cuánto? /
+S0177 ¡cuánto!, etc., including use of ¿qué? /
+S0178 ¡qué!)
+S0179 Relative (cuyo) (R)
+S0180 Numerals
+S0181 Cardinal (e.g. uno, dos)
+S0182 Ordinal 1-10 (e.g. primero, segundo) Agreement (e.g. cuatrocientas chicas) Expression of time and date
+S0183 Adverbs
+S0184 Formation of adverbs in -mente Comparative and superlative (e.g. más despacio) Use of adjectives as adverbs (e.g. rápido, claro) Adjectives as equivalents of English adverbs (e.g. Salió contenta) Interrogative (e.g. ¿cómo?, ¿cuándo?, ¿dónde?)
+S0185 Quantifiers/intensifiers
+S0186 (e.g. muy, bastante, poco, mucho)
+S0187 Pronouns
+S0188 Subject Object: direct and indirect; use of se for le(s); ‘redundant’ use of indirect object (e.g. Dale un beso a tu papá)
+S0189 Reflexive Unstressed / stressed forms (e.g. me / mí) Position and order Relative (que, quien, el que, el cual) Demonstrative (este, ese, aquel; esto, eso, aquello) Indefinite (e.g. algo, alguien) Possessive (e.g. el mío, la mía).
+S0190 Expression of possession by the use of the indirect object pronoun (Le rompió el brazo) must also be included.
+S0191 Interrogative
+S0192 Verbs
+S0193 Regular conjugations of -ar, -er and -ir verbs, including radical-changing (e.g. recordar / recuerdo, pedir / pido) and orthographic-changing (e.g. abrazar / abracé) verbs, in all tenses and moods, finite and non-finite forms Regular and Irregular verbs, in all tenses and moods, finite and non-finite forms Agreement of verb and subject Use of hay que in all tenses Use of tenses Present Preterite Imperfect Future Conditional
+S0194 Perfect
+S0195 Future perfect
+S0196 Conditional perfect Pluperfect Use of the infinitive, the gerund and the past participle Verbal paraphrases and their uses.
+S0197 These include but are not limited to the following: ir a + infinitive estar + gerund acabar de + infinitive estar para +infinitive llevar + gerund ir + gerund (R) venir + gerund (R) Use of the subjunctive Commands
+S0198 Conditional sentences After conjunctions of time After para que, sin que In relative clauses (R)
+S0199 After other subordinating conjunctions (R) With verbs and verbal expressions of wishing, commanding, influencing, emotional reaction, doubt, denial, possibility, probability (R) Sequence of tense in indirect speech and other subordinate clauses Voice
+S0200 Use of the reflexive as a passive (e.g. El puente se construyó para unir a las comunidades)
+S0201 Use of the reflexive to express an impersonal subject (e.g. ¿Cómo se llega a la estación?)
+S0202 Use of ser + past participle Use of estar + past participle ‘Nuance’ reflexive verbs (e.g. caerse, pararse) Modes of address (tú, usted; vos (R))
+S0203 Constructions with verbs Verbs followed directly by an infinitive (e.g. querer, poder)
+S0204 Verbs followed by a preposition plus an inifnitive or noun phrase (e.g. insistir en, negarse a) Verbs followed by a gerund (e.g. seguir) Verbs of perception (e.g. Vi asfaltar la calle)
+S0205 Uses of ser and estar
+S0206 Prepositions
+S0207 All prepositions, both simple (e.g. bajo) and complex (e.g. encima de) ‘Personal’ a Discrimination of por and para
+S0208 Conjunctions
+S0209 Coordinating conjunctions (e.g. y, o, pero) Subordinating conjunctions.
+S0210 These include but are not limited to the following: Cause (porque) Purpose (para que)
+S0211 Proviso (con tal que) Supposition (a no ser que) Time (cuando) Concession (aunque) Use of que to introduce a clause (e.g. ¡Cuidado, que se va a quemar la tortilla!)
+S0212 (R)
+S0213 Negation
+S0214 Questions
+S0215 Commands
+S0216 Word order
+S0217 Subject following verb (Ha llegado el profesor; Me gustan las patatas) Focalisation (Tú ¿qué opinas?;
+S0218 A Cristiano lo odian) (R)
+S0219 Other constructions
+S0220 Time expressions with hace / hacía and desde hace / hacía Cleft sentences (Fue en Madrid donde nos conocimos) Comparative constructions.
+S0221 These include but are not limited to the following: tan... como..., etc.
+S0222 más... que..., etc.
+S0223 Tiene más dinero de lo que creía (R)
+S0224 Indirect speech
+S0225 Discourse markers
+S0226 (e.g. Es que..., Por ejemplo, Ahora bien...)
+S0227 Fillers
+S0228 (e.g. pues, bueno)
+Spanish: A level
+S0229 All grammar and structures listed for AS level, plus:
+S0230 Adjectives
+S0231 Relative (cuyo)
+S0232 Verbs
+S0233 Use of the subjunctive In relative clauses After other subordinating conjunctions With verbs and verbal expressions of wishing, commanding, influencing, emotional reaction, doubt, denial, possibility, probability
+S0234 Conjunctions
+S0235 Use of que to introduce a clause (¡Cuidado, que se va a quemar la tortilla!)
+S0236 Other constructions
+S0237 Comparative constructions Tiene más dinero de lo que creía
+S0238 Expression of concession other than by aunque (por muy adjective que, por mucho que) (R)
+S0239 © Crown copyright 2023
+S0240 You may re-use this document/publication (not including logos) free of charge in any format or medium, under the terms of the Open Government Licence v3.0.
+S0241 Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+S0242 To view this licence:
+S0243 visit www.nationalarchives.gov.uk/doc/open-government-
+S0244 licence/version/3 email psi@nationalarchives.gsi.gov.uk About this publication: enquiries www.education.gov.uk/contactus download
+S0245 www.gov.uk/government/publications
+S0246 Reference: DFE-00694-2014
+S0247 Follow us on Twitter: @educationgovuk
+S0248 Like us on Facebook: facebook.com/educationgovuk

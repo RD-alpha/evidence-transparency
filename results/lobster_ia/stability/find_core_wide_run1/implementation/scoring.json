@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Delivery via amendment to existing legislation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "References 1,14,9,3 cite legal powers (Sections 5-6 of the 1967 Act) and existing orders to describe the legal mechanism, but no evidence is offered for why amendment (rather than a new SI) eases familiarisation or simplifies the legislative landscape -- these are asserted reasoning only."
+    },
+    {
+      "theme": "Scope of application",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The exclusion of foreign vessels is supported by a specific, cited figure (\"only 206kg in 2014\", Reference 15, MMO Fisheries Activity Database) that is directly linked to the conclusion that conservation benefits are unaffected."
+    },
+    {
+      "theme": "Enforcement arrangements and costs",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Cost figures for testing kits, chemicals and training are built from cited MMO and Seafish data (References 1, 2, 4) and linked clearly to the \u00a316,650/\u00a312,650 totals, with a partial caveat that training costs are 'likely to be the highest estimate', though this falls short of a full assessment of the evidence base."
+    },
+    {
+      "theme": "Consultation to resolve outstanding assumptions",
+      "primary_evidence": true,
+      "score": 0,
+      "justification": "The theme states assumptions on local ban effectiveness and voluntary fisher behaviour 'will be tested during consultation' but presents no evidence itself, only a plan to gather it, with no detail yet on who will be asked or how responses will be analysed."
+    },
+    {
+      "theme": "Cost savings from local ban harmonisation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that harmonisation 'may lead to cost savings' for IFCAs is asserted with explicit acknowledgement that 'these savings have not been quantified', so no evidence is given."
+    },
+    {
+      "theme": "Implementation governance and stakeholder engagement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements about working with MMO/IFCAs and engaging SAGB and NFFO describe planned process but cite no evidence, data or findings to support these governance choices."
+    }
+  ],
+  "reasoning": "Of the four core themes, two reach level 2 and two reach level 0, giving a mean of 1.0, rounded to a score of 1. 'Scope of application' is well supported: the 206kg foreign-vessel landings figure (Reference 15, MMO Fisheries Activity Database) is directly linked to the conclusion that excluding foreign vessels won't harm conservation outcomes. 'Enforcement arrangements and costs' similarly cites MMO and Seafish sources (References 1, 2, 4) for kit, chemical and training costs, with a brief caveat that the training estimate 'is likely to be the highest estimate'. However, 'Delivery via amendment to existing legislation' only cites legislation defining powers and existing orders (References 1, 9, 14, 3) without any evidence for why amendment eases familiarisation or simplifies the legislative landscape -- that reasoning is unsupported. 'Consultation to resolve outstanding assumptions' only flags that key behavioural assumptions (on local bans and voluntary action) are untested and will be examined in a future consultation, offering no evidence itself and no detail of consultation methodology. The strongest counter-example to a higher score is the enforcement theme's detailed, cited cost breakdown, which approaches level 3 but lacks a full assessment of uncertainties across all assumptions. To reach level 2 overall, the document would need to cite evidence for why amending existing legislation (rather than new legislation) was chosen, and to report what the consultation evidence on fisher behaviour and local bans actually showed, rather than only promising to seek it.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

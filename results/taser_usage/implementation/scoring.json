@@ -1,0 +1,16 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rollout timetable and local publication",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The two lines describe the 1 April 2017 start, quarterly local publication and the 2017/18 Annual Data Requirement, but offer no statistic, finding, source or analysis showing why this timetable or route was chosen, and no references or links."
+    }
+  ],
+  "reasoning": "The extract has one theme, \"Rollout timetable and local publication\", which is core, and it consists of two lines. The first says forces have worked to implement the new data collection system \"by 1 April 2017\". The second says forces \"will publish the information locally on a quarterly basis\" and provide an annual snapshot to the Home Office through the Annual Data Requirement for 2017/18. Both lines describe what will happen and when. Neither offers a statistic, research finding, named report, consultation response, costing or comparable policy as grounds for choosing this timetable, the quarterly frequency or the annual snapshot. The references and links blocks are empty. A reader cannot see why quarterly publication was preferred over monthly or annual, why 1 April 2017 was feasible, or what the costs and benefits are. Alternatives are not discussed, and no method for deciding is given. Targets and descriptions of what the policy will do are not evidence in themselves, so the theme reaches level 0. The only core theme is at level 0, so the mean is 0 and the section scores 0. The strongest counter-example is that the reference to a review recommending the system might count as evidence. But the review is not named, cited or explained, and the extract does not show what it found about timing. To reach level 1, the document would need to say what evidence, such as the review's findings, forces' readiness assessments or cost estimates, led to the timetable and publication frequency. For level 2 it would also need a citation a reader could follow.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

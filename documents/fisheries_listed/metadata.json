@@ -1,0 +1,40 @@
+{
+  "title": "Flexibility for fisheries management (listed sources)",
+  "alias": "fisheries_listed",
+  "uploaded_at": "2026-10-08T17:26:40.110711+01:00",
+  "uploaded_date": "2026-10-08",
+  "uploaded_time": "17:26:40 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "fisheries_consultation_listed",
+      "title": "Fisheries concordat consultation (listed source)",
+      "sentence_count": 104,
+      "first_sentence": "S0001",
+      "last_sentence": "S0104",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 9
+    },
+    {
+      "alias": "fisheries_concordat_listed",
+      "title": "Fisheries concordat revision (listed source)",
+      "sentence_count": 125,
+      "first_sentence": "S0105",
+      "last_sentence": "S0229",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 0
+    }
+  ],
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "consultation_invitation",
+    "source_documents": 2,
+    "matches_2018_listed_source": "yes",
+    "basis": "Consultation + concordat revision (both listed, 7 Dec 2016). Ingested from the files Appendix 2 links to (verified by retrieval)."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Recasting national planning policy to explicitly support Build to Rent",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that NPPF revision will 'reduce uncertainty' and help authorities 'plan positively' is asserted through repeated statements of intent (e.g. 'The Government considers... it would be helpful to revise the National Planning Policy Framework') with no data, research or consultation evidence cited to show the current framework causes uncertainty or that this revision will fix it."
+    },
+    {
+      "theme": "Affordable Private Rent as the preferred affordable housing vehicle",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim that single-ownership schemes improve viability is backed by the Ealing/North Acton case study and by Reference 16 (London Mayor's Supplementary Planning Guidance, linked via URL), giving a properly cited external precedent, though no uncertainties or counter-evidence are discussed."
+    },
+    {
+      "theme": "Encouraging family-friendly longer tenancies",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claim is supported by cited English Housing Survey data (Reference 17, linked) on rising shares of families with children in the PRS and by the East Village case study ('At least three-quarters of residents now take up three year tenancies'), linking demand evidence to the proposed expectation."
+    },
+    {
+      "theme": "Rejecting alternative planning mechanisms",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Rejections rest on asserted technical facts (e.g. 'permission in Principle cannot be used to specify tenure', 'already a concept of presumption... embedded within the NPPF') with no citation or source, so they count as mentioned but uncited reasoning/evidence."
+    }
+  ],
+  "reasoning": "The four core themes vary sharply in evidentiary strength. 'Recasting national planning policy' (Theme 1) offers only declarative intent with no supporting data, scoring 0. 'Affordable Private Rent' (Theme 2) and 'family-friendly tenancies' (Theme 3) both reach level 2: Theme 2 cites the Ealing/North Acton case and Reference 16 (London Mayor's SPG, linked), while Theme 3 cites English Housing Survey data via Reference 17 and the East Village case study showing 'three-quarters of residents now take up three year tenancies'. Neither theme's evidence is critically assessed for limitations (e.g. whether these cases generalise), so neither reaches level 3. 'Rejecting alternative planning mechanisms' (Theme 4) relies on uncited assertions about current planning law ('permission in Principle cannot be used to specify tenure'), which counts as reasoning/unnamed evidence at level 1 since no reference is given. The mean of 0, 2, 2 and 1 is 1.25, which rounds down to 1. The strongest counter-example to a higher score is Theme 1's complete absence of evidence despite being the central mechanism of the whole proposal. To reach level 2 overall, the document would need to cite data or consultation findings showing current NPPF ambiguity actually deters Build to Rent schemes, and provide a sourced legal basis for rejecting alternative mechanisms in Theme 4.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.25,
+  "score_consistent": true,
+  "missing_core": []
+}

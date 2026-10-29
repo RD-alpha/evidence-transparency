@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "P scales no longer fit for purpose",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The survey figures (78% not fit for purpose; 32%/21%/25% split; over 60% of parents) are given with no method, respondent numbers or reference, and the other claims are Review conclusions or reasoning without sources."
+    },
+    {
+      "theme": "Pupils working below test standard are a diverse, disadvantaged group needing different assessment",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Tables 1 and 2 give SEND, disadvantaged and EAL percentages for pupils below test standard against the whole population, and the 3% and 6% figure (Reference 27) and EAL references 37, 38, 42-45 are followed by a reader, though References 8 and 9 for the tables are undefined and no weaknesses are assessed."
+    },
+    {
+      "theme": "Non-linear progress of pupils not engaged in subject-specific learning",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Claims such as 'It is widely acknowledged...' and the Review's conclusions are unsourced, and only Reference 33 (Daniels and Porter) supports a general point about diversity while 28 and 31 are just recommendation lists."
+    }
+  ],
+  "reasoning": "The three core themes are weighted equally. In 'P scales no longer fit for purpose' (level 1) the main evidence is the Rochford survey: 'The majority (78%) of respondents felt that P scales are not fit for purpose' and 'Over 60% of parents and carers...'. The document does not say how many responded, who was surveyed or how it was run, and no reference is attached. The remaining argument (no moderation, best-fit, old curriculum) is reasoning, not evidence. 'Pupils working below test standard...' (level 2) is the strongest. The extract gives the SEND, disadvantage and EAL percentages for pupils below test standard against the whole population (for example 83% against 16% for SEND in reading), so the figures and their direction are clear. It also cites the 3% and 6% figure (Reference 27, a gov.uk statistics page) and EAL research (References 37, 38, 42-45), which a reader can find. The table references 8 and 9 are undefined, and no strengths or weaknesses of the data are assessed, so it cannot reach level 3. 'Non-linear progress...' (level 1) relies on assertions such as 'It is widely acknowledged that the attainment and progress of pupils with severe or profound and multiple learning difficulties can be inconsistent', with only Reference 33 behind a general statement. The mean is (1+2+1)/3 = 1.33, which rounds to 1. The strongest counter-example is the diagnosis theme with its tables and citations, which argues for a higher level. To reach level 2, the document would need to cite sources for the non-linear progress claims and explain the survey method and sample, define References 8 and 9, and tie each piece of evidence clearly to its claim.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,104 @@
+S0012 Greater transparency of ownership brings many benefits.
+S0013 Corporate Responsibility We know that market transparency fosters confidence and trust.
+S0014 Transactions are improved and the market has greater confidence when people know who they are doing business with.
+S0015 Transparency also plays a vital role in helping combat corruption and money laundering.
+S0016 The UK is a world leader in corporate transparency.
+S0017 In 2016 we became the first country in the G20 to introduce a register of company ownership, allowing the public to access a central record of information about who really owns and controls UK companies.
+S0018 At the International Anti-Corruption Summit held in London in May 2016, we committed to go further, by creating a new register showing the beneficial owners of overseas companies that own or want to buy property in the UK, and of overseas companies involved in central government contracts.
+S0019 The UK property market attracts a great deal of inward investment to the UK.
+S0020 This investment benefits the UK economy and supports the construction industry and a host of connected trades across the country.
+S0022 Therefore it is important to ensure the integrity and reputation of the UK property market.
+S0023 The UK property market should be seen as fair, transparent and clean in order to attract the right investors and owners.
+S0024 Honest business should not fear that they are supporting criminal enterprise when investing in UK property.
+S0025 A higher level of transparency will boost investor confidence.
+S0026 These requirements will also extend to entities bidding for government contracts.
+S0027 This will ensure that we, as government, know who we are dealing with, and that we meet the standards we expect of others.
+S0028 This register will be the first of its kind in the world.
+S0029 That is good news for the UK, enhancing our already strong reputation as an honest and trusted place to do business.
+S0030 But it also means we need to proceed with care.
+S0031 Our open economy benefits greatly from foreign companies looking to do business in Britain.
+S0032 We need to make sure the new requirements are workable and proportionate, such that the UK remains an attractive place for foreign investment.
+S0060 This call for evidence seeks views on the proposals for a register of beneficial ownership information for overseas companies or other legal entities that own or buy UK property or participate in UK central government procurement.
+S0098 Question 8: Do you have any information that is relevant to our assessment of the cost and benefits of the policy to businesses, society and the economy?
+S0099 Question 9: What, if any, impact do you think that the proposed policy will have on the UK property market (residential and commercial)?
+S0100 Please describe the impacts and provide evidence.
+S0143 The UK is leading the world on improving corporate transparency.
+S0144 In June 2016 we
+S0145 became one of the first countries to introduce a central, publicly accessible, register of beneficial ownership called the people with significant control register (the PSC register).
+S0148 Since the establishment of the PSC register, all companies incorporated in the UK must
+S0149 give information about their people with significant control to Companies House with their annual confirmation statement.
+S0150 Most of the information on the register is publicly available, with some necessary exceptions to protect information about individuals at risk.
+S0152 The PSC register is being populated over the course of a year, as and when UK
+S0153 companies are required to file their annual confirmation statement.
+S0154 By July this year it will be fully populated.
+S0170 Greater transparency of property ownership will make the job of enforcement agencies easier and will discourage criminals and the corrupt from choosing the UK to hide or launder their money.
+S0172 In addition to these benefits, greater transparency should also support a better
+S0173 functioning property market.
+S0178 The PSC register makes it possible to trace the true owners of registered properties
+S0179 owned by companies incorporated in the UK.
+S0180 This can be done by finding out the name of the UK company on the title register to the property (held at the relevant Land Registry) and then looking at that company’s PSC information held by Companies House.
+S0183 For these reasons in March 2016 the government published a discussion paper looking ** (Reference: 4)
+S0184 for views on how to enhance the transparency of beneficial ownership information for overseas companies investing in UK property.
+S0187 Included within that discussion paper were parallel proposals to enhance transparency
+S0188 for overseas companies engaging in UK government procurement.
+S0189 The government is keen to ensure that where it contracts directly with overseas companies, it knows who it is dealing with.
+S0190 Public authorities are accountable for the public money they spend.
+S0191 We cannot allow corrupt individuals to profit from doing business with the UK government.
+S0192 The UK government would also like to use its purchasing power to raise the global level of transparency.
+S0194 Following the discussion paper, the government announced that it intended to introduce
+S0195 a register of the beneficial owners of overseas companies owning UK property or engaging in UK government procurement.
+S0196 This was a key announcement of the International Anti-Corruption Summit in London in May 2016.
+S0197 This policy is an important element of the forthcoming new anti-corruption strategy.
+S0198 It will give assurance that the UK is a hostile environment for hiding the proceeds of corruption or laundering money.
+S0200 The new register will be the first of its kind in the world, and builds upon the UK’s global
+S0201 leadership in tackling corruption.
+S0251 The government is committed to ensuring that the UK is an open and transparent place
+S0252 to do business.
+S0253 In order to achieve this it was announced at the anti-corruption summit in May 2016 that the UK would create a register showing the owners and controllers of overseas companies that own property in the UK or participate in UK government procurement.
+S0361 The European Fourth Money Laundering Directive will require all companies and certain
+S0362 other types of legal entity incorporated in the European Union to provide information about their beneficial owners to a central register by June 2017.
+S0363 We want to avoid double reporting where these entities would have to give information both to Companies House in the UK and to an equivalent organisation in the entity’s country of incorporation.
+S0365 We therefore propose to exempt entities incorporated in countries with equivalent disclosure requirements.
+S0370 To reduce burdens on businesses, under the PSC regime if a legal entity that keeps its own PSC register satisfies one of the conditions in relation to a UK company, it is enough for the UK company to name that legal entity, without having to investigate further up the ownership chain, because that information is already publicly available on the entity’s PSC register. ** (Reference: 8)
+S0372 We propose using the same approach in the new overseas register.
+S0395 In order to better understand these, we intend to commission research looking at how the proposals might influence those planning to invest in the UK and what impact that might have on the UK economy.
+S0396 The findings of this research will inform the Impact Assessment that will be published when these proposals are introduced to Parliament.
+S0437 We believe that these statutory restrictions and notes will act as a considerable incentive to comply with the new requirements.
+S0438 Entities will be unable to realise fully the property’s value as they will not be able to sell it, let it for a long period or use it as security for a loan if they are not compliant.
+S0439 Some entities may have no plans to sell, lease or mortgage their property so the government is considering whether to, in addition, make it a criminal offence to fail to provide information to the new register or, where the entity has provided information, failing to keep it up to date.
+S0629 The requirements of the UK’s register of people with significant control were developed
+S0630 through extensive consultation with stakeholders, including business and legal sectors.
+S0631 The requirements have been well received both in the UK and internationally since its introduction.
+S0632 We therefore believe that the PSC register requirements have been rigorously tested and provide a good balance between providing transparency and the cost to business of compliance.
+S0633 Given this, and the similarities between the new overseas register and the PSC register, it would be appropriate to require the same information about beneficial owners as is required of people with significant control.
+S0653 This will ensure transparency over who owns and controls entities that own UK property or deliver UK central government procurement contracts.
+S0707 Such an offence already applies to information given to Companies House, including PSC information.
+S0711 UK incorporated companies already provide detailed information to Companies House
+S0712 about how they are managed.
+S0713 For example, they are subject to obligations in Part 10 of the Companies Act 2006 to collect and maintain information about their directors.
+S0714 This enables third parties to get a clearer understanding of who is responsible for managing the day to day activities of the company.
+S0715 However equivalent information about an overseas entity is unlikely to be available unless specifically required by the new overseas register.
+S0838 The new overseas register will be publicly accessible to ensure transparency and increase ease of scrutiny by law enforcement bodies and transparency groups.
+S0840 This builds on a principle in the UK PSC register.
+S0841 The PSC register has a protection regime which allows a company or individual to apply to have information about an individual with significant control suppressed if the individual is at risk of violence or intimidation as a result of that information being made public.
+S0921 There was a very high degree of support for the general principle of requiring the information about the beneficial owners of overseas companies that own property.
+S0922 The main reasons given for this were that UK companies already have to provide this information and given the extent of property ownership by overseas companies in the UK it made sense that they should also be required to provide it.
+S0923 About half the respondents did not support making the information publicly accessible given that some beneficial owners may have legitimate reasons for wanting to keep their details private.
+S0924 However, for the register to provide the level of transparency that the people with significant control (PSC) register has achieved, the government believes that it must be publicly accessible.
+S0927 There was a lot of support for the register to cover properties already owned by overseas companies, rather than restricting it to property bought after the requirements come into force.
+S0930 Fewer respondents commented on the proposals covering companies involved in procurement, but of those that did, there was almost unanimous agreement that knowing beneficial ownership information would help contracting authorities operate a fair and straightforward approach towards procurement.
+S0934 Do you agree that foreign companies who want to buy land or property in England and Wales should be required to provide information about people with significant control?
+S0935 Yes 24 No 3 Not Sure
+S0937 Following the introduction of the UK PSC Register, it is now time for overseas companies to be exposed to the same level of scrutiny as UK companies.
+S0940 The proposals would add to the burdensome number of regulations on business; this may lead to a chilling effect Sure on FDI.
+S0942 The proposals would add to the burdensome number of regulations on business; this may lead to a chilling effect on FDI.
+S0944 There are already due-diligence checks in the UK and Crown Dependencies to counter money laundering.
+S0946 If measures are not reciprocated elsewhere this would likely cause a flow of capital out of the UK.
+S0948 Some individuals have legitimate reasons to maintain privacy over their ownership of property (e.g. celebrities, sensitive political figures).
+S0973 A public register may risk the safety of some individuals with legitimate interest in keeping details private; there would need to be a protection regime.
+S0975 Some information (e.g. the address of a beneficial owner) is extremely sensitive and should not be available to the public.
+S0977 The UK PSC Register is publicly accessible; the register of beneficial owners of overseas companies should be too.
+S0979 A public register would reflect the government’s agenda for transparency and allow greater scrutiny to ensure validation.
+S1030 Do you agree that knowing beneficial ownership information of those companies participating in public contracting will help the contracting authorities operate a fair and straightforward approach towards procurement?
+S1031 Yes 16
+S1032 No 1 Not Sure

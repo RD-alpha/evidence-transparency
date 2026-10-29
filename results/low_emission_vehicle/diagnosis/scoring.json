@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Consumer experience and interoperability gaps",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims that 'there is no UK-wide market solution providing interoperable access' and 'no consensus on the best approach' (lines 1.9, 1.10) are asserted descriptively with no data, survey, or cited source behind them."
+    },
+    {
+      "theme": "Electricity system strain and lack of smart functionality",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements such as 'many won't [have communication functionality]' and consumers 'may not be aware of the likely benefits' are unsupported assertions with no statistic, study or citation offered."
+    },
+    {
+      "theme": "Gaps in strategic infrastructure provision",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The UKH2M conclusion that early hydrogen refuelling investment is commercially unviable is cited (Reference 5, linked to rolandberger.com) and explained via a three-phase market model (1.33), though the conditional caveat 'provided that the fleet develops as projected' is not developed into a fuller assessment of uncertainty."
+    },
+    {
+      "theme": "UK ULEV market leadership and government coordination",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Specific figures (94% growth, 1 in 5 EVs, 11,000 chargepoints) are given with some explanatory context but carry no reference or link."
+    },
+    {
+      "theme": "Infrastructure challenges and consumer needs",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Purely descriptive framing of three challenges with no evidence cited."
+    },
+    {
+      "theme": "Bi-directional charging capabilities",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "A single factual/technical statement about discharge capability with no supporting evidence."
+    }
+  ],
+  "reasoning": "The diagnosis rests on three core themes. 'Consumer experience and interoperability gaps' (lines 1.9-1.15) only asserts fragmentation and lack of consensus without any statistic, survey or named source, scoring 0. 'Electricity system strain' similarly asserts that 'many won't' have smart functionality and consumers 'may not be aware' of benefits, with no data or citation, also scoring 0. 'Gaps in strategic infrastructure provision' is stronger: it cites UKH2M's conclusion (Reference 5, linked to the Roland Berger roadmap) that early hydrogen refuelling is commercially unviable due to 'low utilisation and lack of any first mover advantage', and explains a three-phase market model (1.33), reaching level 2 because the evidence is cited, linked, and its implication for the problem is clear. It falls short of level 3 because the only acknowledged uncertainty is the brief caveat 'provided that the fleet develops as projected', not a sustained assessment of the evidence base. The mean of the three core levels (0, 0, 2) is 0.67, rounding down to 1. The strongest counter-example to a higher score is the UKH2M citation itself, which shows the document can and does cite evidence properly when available elsewhere. To reach level 2 overall, the consumer-experience and electricity-system themes would need comparable named, cited evidence (e.g., consumer survey data or grid-impact modelling) linked explicitly to their claims.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

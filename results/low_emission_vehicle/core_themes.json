@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Consumer experience and interoperability gaps",
+        "claim": "Current chargepoint and hydrogen refuelling networks lack consistent open data, interoperable access, and comparable pricing, leaving consumers facing a fragmented and unreliable experience."
+      },
+      {
+        "name": "Electricity system strain and lack of smart functionality",
+        "claim": "Rising EV charging demand will create new pressures on the electricity system, yet most existing and future chargepoints lack the 'smart' communication functionality needed to balance supply and demand."
+      },
+      {
+        "name": "Gaps in strategic infrastructure provision",
+        "claim": "Provision of charging and hydrogen refuelling at motorway service areas and fuel retailers is incomplete or underdeveloped, and early-stage hydrogen refuelling infrastructure is commercially unviable without intervention."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Primary powers for future targeted regulation",
+        "claim": "The Government proposes to take broad primary legislative powers now so that targeted secondary regulation can be introduced if and when needed, rather than fixing detailed requirements immediately."
+      },
+      {
+        "name": "Consumer experience measures package",
+        "claim": "The Government proposes powers to mandate open data, interoperable access, transparent pricing and minimum design standards for chargepoints and refuelling stations, favouring flexible, market-based solutions (e.g. bilateral roaming over mandated platforms) over prescriptive mandates."
+      },
+      {
+        "name": "Smart charging standards",
+        "claim": "The Government proposes to require minimum 'smart' and open-access functionality in charging infrastructure to enable grid balancing and protect consumers' future access to smart tariffs, based on evidence that such functionality is low-cost to add."
+      },
+      {
+        "name": "Strategic provision and hydrogen market support",
+        "claim": "The Government proposes to mandate minimum charging/refuelling provision at motorway service areas and large fuel retailers and to use time-limited franchises to attract private investment in hydrogen refuelling during its commercially unviable growth phase."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Phased approach via secondary legislation informed by consultation",
+        "claim": "Measures will not take effect without further secondary legislation, with consultation responses and a subsequent Impact Assessment shaping the final scope and timing."
+      },
+      {
+        "name": "Principles-led development of smart charging standards",
+        "claim": "Rather than specifying precise technical requirements in primary legislation, Government will set guiding principles (open access, data privacy, security, low energy overhead) and develop detailed standards later through industry engagement."
+      },
+      {
+        "name": "Placing obligations on retailers/installers and site operators",
+        "claim": "Government proposes to place compliance obligations on points of sale/installation (retailers and installers) for smart charging, and on MSA operators and large fuel retailers for infrastructure provision, rather than on manufacturers, to ensure practical enforceability and a level playing field."
+      },
+      {
+        "name": "Staged civil penalty enforcement regime",
+        "claim": "Compliance will be ensured through an escalating enforcement process—warnings, civil penalties scaled to impact, re-checks and appeal rights—administered by a designated DfT agency."
+      }
+    ],
+    "note": ""
+  }
+}

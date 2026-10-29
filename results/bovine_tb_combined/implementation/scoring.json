@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Phased roll-out of interferon-gamma testing",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines under 5.5 give an expected figure of 'perhaps as many as 300' herds in the first year and growth tied to new badger control areas, but this is a projection with no data, analysis or source behind it and no references or links."
+    },
+    {
+      "theme": "Timing of interferon-gamma testing in breakdowns",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The two lines only assert that testing would occur as early as possible, usually before the first SIT, with no evidence for why this timing was chosen."
+    },
+    {
+      "theme": "Testing requirements for moved cattle",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line describes two skin tests at severe interpretation and a 60-day wait after arrival, with no evidence that this will work or why 60 days was chosen."
+    },
+    {
+      "theme": "Implementation timetable",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The line states a mid-2017 implementation date conditional on consultation, with no evidence or reasoning for the timetable."
+    }
+  ],
+  "reasoning": "The extract has one core theme, the phased roll-out of interferon-gamma testing, and I scored it level 0. Its claim is that compulsory testing would grow from about 20-30 herds a year to 'perhaps as many as 300 in the first year', with later growth depending on 'the number of new badger control areas established'. The numbers are expectations and descriptions of what the policy will do. They are not evidence. No data, modelling, past uptake, capacity assessment or costing is offered, and the extract has no references or links. A citizen cannot see why 300 herds was chosen, why a gradual expansion was preferred to a faster or slower one, or what alternatives were considered. The non-core themes fare no better and are also level 0: the timing of testing ('as soon as possible after the onset of the breakdown'), the 60-day wait for moved cattle, and the 'mid-2017' implementation date are all asserted without support. The mean of core themes is 0, so the score is 0. The strongest counter-example is that the 300-herd figure could be read as the department's own estimate, which would make it level 1 if the method were clear. The text does not say how it was derived, and it is hedged by 'perhaps'. To reach level 1 the document would need to show what the estimate rests on, such as past testing volumes or the planned size of badger control areas. For level 2 it would need to cite that source and explain the reasoning behind the phasing.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

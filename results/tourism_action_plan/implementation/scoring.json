@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Phased, competitive Discover England funding with shared learning",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines (phase one launched, criteria for bids over \u00a31 million, alignment of funding streams) only describe how the fund is run, and Reference 5 merely explains what LEADER funding is, so no evidence is offered that this delivery route will work or why it was chosen."
+    },
+    {
+      "theme": "Piloting and industry partnership delivery",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines list named partner companies and a competition for ten people to road-test itineraries, which describe delivery but offer no evidence or findings behind choosing piloting and no references."
+    },
+    {
+      "theme": "Parliamentary and Treasury follow-up",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line says HM Treasury is considering discussion paper responses and will respond in due course, with no findings or method shown."
+    }
+  ],
+  "reasoning": "Both core themes describe how the tourism action plan will be delivered but give no evidence for why these routes were chosen. The phased Discover England funding theme says \"In May, phase one of the fund was launched and the first winners have now been announced\" and \"We have launched the criteria for bigger bids of over \u00a31 million.\" These are statements of what has been done. The only citation, Reference 5, explains what LEADER funding is (small grants through 80 action groups); it defines a funding stream and does not show that competitive, phased or aligned funding will reduce the concentration of tourism spend in London. The claim that shared learning lets successes be replicated is not backed by any finding. The piloting theme names partners (PGL, TUI, Merlin Entertainments and others) and a competition for ten people to road-test itineraries. This describes the pilot but gives no evidence that piloting with industry is the best route, no results, and no alternatives considered. Both core themes score 0, so the mean is 0 and the section scores 0. The strongest counter-example is the reference to the 80 LEADER action groups, which is a concrete, cited fact, but it supports no delivery choice. To reach level 1 the document would need to say what evidence led it to choose competitive phased bidding and piloting, such as earlier pilot results, evaluations of earlier funds, or consultation responses, and how that evidence shaped the design. It would also need to give costs, benefits and alternatives considered.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

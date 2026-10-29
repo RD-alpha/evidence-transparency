@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Scale and exposure of the UK to laundering",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Figures on \u00a324bn cost (Ref 2), NSS/SDSR threat tiers (Ref 1), NCA assessment of overseas proceeds (Ref 3) and the UNODC 2.7% of GDP estimate (Ref 4) are cited and linked to the exposure claim, and the line 'There is no definitive measure of the scale of money laundering' acknowledges uncertainty only for the global estimate, while the 17%/41% banking figures are uncited."
+    },
+    {
+      "theme": "Ineffective SARs regime and private-sector compliance",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The Home Office SARs review call for evidence (lines on 'launched a review...February 2015', Ref 10) yields many respondent views, but the document does not say who or how many responded or how they were asked, so method is unclear; the BBA \u00a35bn estimate and the 350,000 SARs (Ref 9) are only partly linked and there is no assessment of the evidence."
+    },
+    {
+      "theme": "Gaps in law enforcement powers under POCA",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Gaps are supported by NRA findings ('The NRA identified significant intelligence gaps', 'law enforcement response... weak') and law enforcement respondent views, but there is no reference number, no method for the consultation input, and 'Concerns have been raised' is unsourced, though the digital currency line acknowledges evidence of low illicit activity."
+    },
+    {
+      "theme": "Inconsistent supervisory regime",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The NRA finding of inconsistency (Ref 7, in lines 'the NRA found that there were inconsistencies...') is linked to specific claims with detailed explanation, plus Utrecht (Ref 15) and Clementi (Ref 16), and the document assesses evidence, noting 'no evidence that individual supervisors are not sufficiently prioritising' and that the conflict-of-interest evidence 'did not indicate' undermining supervision, but the Cutting Red Tape evidence has no method or reference, so it stops short of a clean level 3."
+    }
+  ],
+  "reasoning": "Four core themes were scored: exposure (2), SARs regime (1), POCA gaps (1) and supervisory inconsistency (2). The mean is 6/4 = 1.5, which rounds down to 1.\n\nThe strongest material is in the exposure and supervision themes. Exposure is backed by cited sources: 'Serious and organised crime costs the UK at least \u00a324 billion annually' (Ref 2), the NCA assessment (Ref 3) and the UNODC estimate (Ref 4), with the caveat 'There is no definitive measure of the scale of money laundering'. Supervision rests on the National Risk Assessment (Ref 7), Utrecht (Ref 15) and Clementi (Ref 16), and it includes some self-assessment: 'no evidence that individual supervisors are not sufficiently prioritising AML/CFT efforts'.\n\nThe SARs theme draws on the Home Office call for evidence (Ref 10), but the document never says who responded, how many, or what they were asked. The POCA theme relies on the NRA and on unsourced 'Concerns have been raised' and law enforcement statements, with no reference numbers.\n\nThe strongest counter-example to a score of 1 is the supervision theme, which comes close to level 3 through its caveats, and the 1.5 mean sits on the rounding boundary. Even so, two core themes are plainly level 1.\n\nTo reach level 2, the SARs and POCA themes would need to describe the consultation method and number of respondents, cite the NRA findings by reference at the claim, and link each figure to the gap it shows. Level 3 would need explicit assessment of the strengths and limits of the consultation evidence.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

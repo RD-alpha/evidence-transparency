@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Shortage of good school places",
+        "claim": "Too many children lack access to a good school because 1.25 million pupils attend schools rated requiring improvement or inadequate, pupil numbers are rising, and many districts offer under half of applicants a good school nearby."
+      },
+      {
+        "name": "Institutions not incentivised to expand good provision",
+        "claim": "Independent schools, universities, selective schools and faith schools with strong expertise are prevented or not incentivised by current rules from creating good places, with universities having little control over school attainment and grammar and faith-school expansion blocked by the ban on new grammars and the 50% faith cap."
+      },
+      {
+        "name": "Faith admissions cap fails to deliver inclusivity",
+        "claim": "The 50% cap on faith admissions has not produced ethnically mixed intakes in minority faith free schools and deters faiths such as Catholics from opening schools, so it neither promotes inclusion nor parental choice."
+      },
+      {
+        "name": "Ordinary families poorly measured and served",
+        "claim": "Free school meals eligibility misses children of just-about-managing families, so there is no reliable picture of how policy affects them and they are not well served, while selective and independent schools remain out of reach for them."
+      }
+    ],
+    "note": "Diagnosis is spread across four institution types plus a general shortage; the measurement gap on 'just about managing' families is partly framed as something to be tested."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Conditional benefits for independent schools",
+        "claim": "Independent schools should keep the benefits of charitable status only if they sponsor state schools, set up free schools or offer funded bursaries, with smaller schools providing lighter support, because they have expertise and privilege that should serve the state sector."
+      },
+      {
+        "name": "Universities sponsoring schools",
+        "claim": "Universities should sponsor academies or open new schools as a condition of charging higher fees, because school-level prior attainment is the main driver of access and they have expertise and a vested interest in raising it."
+      },
+      {
+        "name": "Expanding selective schools with conditions",
+        "claim": "Selective schools should be allowed to expand, open and convert on condition that they admit lower-income pupils and support good non-selective places, because grammars show strong results while the risks to non-selective pupils are to be offset by those conditions."
+      },
+      {
+        "name": "Replacing the faith cap with inclusivity safeguards",
+        "claim": "The 50% faith admissions cap should be replaced by safeguards such as proving demand from other faiths, twinning, mixed-faith trusts and independent governors, since the cap has not promoted diversity and high-performing faith schools could then expand."
+      }
+    ],
+    "note": "The proposal is a package of four parallel measures sharing one logic of making existing benefits or freedoms conditional on creating good places, with many open consultation questions."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Benchmarks and legislation for independent schools",
+        "claim": "Independent schools will be held to size-related benchmarks, with legislation considered to remove charitable benefits and change Charity Commission guidance if they fail."
+      },
+      {
+        "name": "Fair access guidance for universities",
+        "claim": "New guidance to the Director for Fair Access in early 2017 will make school sponsorship a condition of access agreements, enforced through the Director's power to refuse renewal, with legislation considered where that power falls short."
+      },
+      {
+        "name": "Accountability and sanctions for selective and faith schools",
+        "claim": "Selective schools will face information requirements, monitoring and sanctions such as lost funding, selection rights or growth, and faith free schools will be checked through funding agreements, application scrutiny and monitoring, losing the right to faith admissions if they fail."
+      }
+    ],
+    "note": "Implementation is mostly stated as mechanisms and intentions, with little reasoning for why these routes were chosen over alternatives, and details such as thresholds and proportions are left to consultation."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Soft drinks industry levy",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The levy design and its aim are asserted (lines 1, 4, 5) with no evidence that a levy will cut sugar; only the breakfast club line cites Ref 20 (PHE Breakfast and Cognition), which supports the funding use, not the levy's effect."
+    },
+    {
+      "theme": "Industry sugar and calorie reduction programme",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Line 1 claims gradual reformulation and portion changes work and cites Refs 17 and 18 (a DH sodium report and a Cochrane review on portion size), linking them to the universal, no-behaviour-change rationale for the programme, though the 20% target and the sodium report's relevance are not explained and no weaknesses are discussed."
+    },
+    {
+      "theme": "Physical activity and school-based action",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Line 1 cites Refs 11, 12 and 13 (CMO report, PHE pupil health and attainment, Chanfreau et al.) for health and attainment benefits and the 60-minute recommendation links to the CMO guidance, but the school measures themselves (rating scheme, food standards) lack evidence and no limitations are assessed."
+    },
+    {
+      "theme": "Healthier food environment and informed choice",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only Ref 19 (a 2006 NAO report, cited for spend figures) and Ref 24 (a Sugar Smart app webpage, cited for uptake) are cited, while most measures such as labelling, GBSF and health-professional advice are asserted with no evidence they will work."
+    },
+    {
+      "theme": "Long-term change and outcomes",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Ref 26 supplies the 1.6 million obese children baseline but the claims that the plan will significantly reduce obesity by 2026 and save lives are unsupported projections with no modelling shown."
+    }
+  ],
+  "reasoning": "Four core themes were scored: Soft drinks levy (1), Industry sugar and calorie reduction programme (2), Physical activity and school-based action (2), and Healthier food environment and informed choice (1). The mean is 6/4 = 1.5, which rounds down to 1. The strongest evidence is for the reformulation programme: line 1 states that \"slowly changing the balance of ingredients... or making changes to product size, is a successful way of improving diets\" and cites Refs 17 and 18, including a Cochrane review. The physical activity theme similarly cites Refs 11-13 for health and attainment benefits. By contrast, the headline levy has no evidence that it will reduce sugar consumption or obesity; \"the levy will create stronger incentives for action\" is asserted, and the only citation (Ref 20) supports breakfast clubs, not the levy. The food environment theme mostly describes commitments and tools, with citations used only for spend and app uptake. The strongest counter-example to my level is the sugar reduction theme, which would count as level 2 on its own, but the extract never explains why a 20% target was set or why this was chosen over other options, and no uncertainty or contrary evidence is acknowledged anywhere. The Ref 17 sodium report is also an odd fit for a sugar claim. To reach level 2 overall, the document would need to cite evidence for the levy's effect (for example, the experience of comparable taxes elsewhere) and for the food environment measures. To reach level 3, it would need to assess the strength of that evidence and acknowledge uncertainties.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,52 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Partnership delivery with industry, devolved administrations and others",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines such as 'Where possible, these initiatives will be delivered with or through partnerships with industry' and 'industry will be designing and leading implementation' are assertions and commitments with no statistic, finding, source or consultation behind them, and no references are carried."
+    },
+    {
+      "theme": "NCSC as the central delivery body, built in phases",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on the NCSC launch, the 'phased approach to building the NCSC's capabilities' and its adaptation to 'lessons learned' describe the delivery vehicle without any evidence or named lessons, and no references are carried."
+    },
+    {
+      "theme": "Skills, education and the cyber workforce",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The skills advisory group and statements on employer responsibility are reasoning and commitments with no data on the skills gap or any cited source."
+    },
+    {
+      "theme": "Science, technology and horizon scanning",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Commitments to a Cyber Science and Technology Strategy and an 'evidence-based approach' are described but no specific evidence is offered or cited; the 'specific technical evidence' bullet names topics without findings."
+    },
+    {
+      "theme": "Sovereign capability and supply",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The MOD and GCHQ 'working to establish a sound understanding of the long-term cost implications' is an intention with no cost figures or analysis shown."
+    },
+    {
+      "theme": "Public advice and incident response",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on easy-to-act-on advice and the three-element incident management process are descriptions of design with no evidence that they will work."
+    },
+    {
+      "theme": "Timing and scope of implementation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line on implementation timing ('implemented for 2.10') is a commitment with no evidence or rationale."
+    }
+  ],
+  "reasoning": "The two core themes are partnership delivery with industry, devolved administrations and others, and the NCSC as the central delivery body built in phases. Both score 0, so the mean is 0 and the section scores 0. The extract describes how the strategy will be delivered but gives no evidence for why these routes were chosen. The claim that the Government 'alone' cannot secure cyberspace is asserted, and 'For many, industry will be designing and leading implementation' is a design statement with no data, consultation or comparable experience behind it. The NCSC theme says capabilities 'will need to adapt to new challenges and lessons learned', but it names no lessons and no evidence for the phasing. No references or links are carried anywhere in the extract. There is no discussion of alternative delivery models, no costs or benefits, and no assumptions. The strongest counter-example is the line 'We will build on our national cyber exercise plan, using our improved understanding and awareness of the threat'. It gestures at past experience, but it shows nothing about what that experience found or how it supports the delivery approach, so it stays at level 0. To reach level 1, the document would need to offer actual evidence for the delivery choices, such as consultation responses from industry, findings from earlier programmes, or cost estimates, and explain how each informed the approach. To reach level 2, it would also need to cite these so a reader could find them.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,24 @@
+<root>
+<theme sentences="1" weight="core">
+<name>Delivery through existing providers and budget</name>
+<claim>Courses will be delivered by colleges and other adult education providers and funded from the existing Adult Education Budget.</claim>
+<text>
+<line id="S0015">Courses will be delivered by colleges and other adult education providers, and training will be funded from the existing Adult Education Budget.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="core">
+<name>Consultation on details</name>
+<claim>The details of the new offer are not yet settled and the government will consult on them in the coming months.</claim>
+<text>
+<line id="S0016">Government will consult on the details of this new offer in the coming months.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

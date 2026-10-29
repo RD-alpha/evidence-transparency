@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "Commencement from 8 March 2017",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

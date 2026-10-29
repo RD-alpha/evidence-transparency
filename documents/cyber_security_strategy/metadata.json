@@ -1,0 +1,13 @@
+{
+  "title": "National Cyber Security Strategy 2016 to 2021",
+  "alias": "cyber_security_strategy",
+  "uploaded_at": "2026-10-13T12:26:21.655482+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "12:26:21 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "appendix2_date": "1 November 2016",
+  "appendix2_type": "policy paper",
+  "source_file": "008_strengthening_cyber_security_skills_1_national_cyber_security_strategy_2016.pdf",
+  "extraction_note": "PDF table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

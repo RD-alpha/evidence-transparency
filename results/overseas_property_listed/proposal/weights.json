@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Transparency register as anti-corruption tool",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Extending coverage to existing owners and procurement",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Balancing transparency with proportionality for investors",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Commissioning evidence to assess costs and benefits",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "UK's leading position and regulatory approach",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Compliance mechanisms and enforcement",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Privacy protections and concerns",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Consultation and stakeholder feedback",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

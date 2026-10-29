@@ -1,0 +1,41 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Circumvention of POTAS through associated entities",
+        "claim": "Promoters can evade the POTAS regime by reorganising their business to share control of a promoting business or to place a person or persons between themselves and it, so the 2015 associated and successor entity rules do not work as intended."
+      },
+      {
+        "name": "Nature of the POTAS regime and its target",
+        "claim": "POTAS aims to change the behaviour of a small and persistent minority of promoters through conduct notices and monitoring notices, which depend on the threshold conditions being attributed to the right persons and bodies."
+      }
+    ],
+    "note": "The diagnosis is brief and asserted without evidence on the scale of circumvention or on cases where the existing rules failed."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Widening the control definitions to cover significant influence and joint control",
+        "claim": "Amending the control definitions in Schedules 34 and 34A to add 'significant influence' and to cover two or more persons acting together closes the gaps promoters use, so the associated and successor entity rules work as intended."
+      },
+      {
+        "name": "Deterrence of avoidance through promoter behaviour",
+        "claim": "By ensuring HMRC can apply the POTAS regime as intended, the change deters the development and use of avoidance schemes by influencing the behaviour of promoters, their intermediaries and clients."
+      },
+      {
+        "name": "Limited impacts and costs",
+        "claim": "The measure targets only those promoting tax avoidance, so it has no additional Exchequer impact, no significant economic or operational impact, and no effect on businesses doing normal commercial transactions."
+      }
+    ],
+    "note": "No alternative options are discussed, and the consequential amendments to paragraphs 13B to 13D and Schedule 34A are described as changing nothing in how they operate."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Commencement from 8 March 2017",
+        "claim": "The amendments take effect from 8 March 2017 and apply when determining whether a person meets a threshold or section 237A condition in a three-year period ending on or after that date."
+      }
+    ],
+    "note": "Implementation is only a commencement date and application rule, with no argument on method, alternatives, costs or why this timing was chosen."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "High, variable and opaque tenant fees",
+        "claim": "Letting agent fees charged to tenants are high, vary considerably between agents for broadly similar services, and are difficult for tenants to find, understand or compare."
+      },
+      {
+        "name": "Tenants' lack of market power",
+        "claim": "Because landlords, not tenants, choose and pay the headline commission to letting agents, tenants have little or no ability to negotiate, avoid or shop around on agent fees, leaving agents with weak incentive to keep tenant fees low."
+      },
+      {
+        "name": "Financial harm and rising costs to tenants",
+        "claim": "Tenant fees have risen significantly in recent years and impose a real financial burden that deters moving, traps people in poor housing and makes saving for a deposit harder, particularly for vulnerable renters."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Rebalancing the market via a fee ban",
+        "claim": "Because landlords hold the stronger market position, banning letting agent fees to tenants will redirect agents' competitive incentives towards landlords, producing better value and more transparent service for both sides."
+      },
+      {
+        "name": "Insufficiency of existing transparency regulation",
+        "claim": "Evidence that the Consumer Rights Act 2015 transparency requirements have not driven up standards or enabled effective shopping around justifies moving beyond transparency measures to an outright ban."
+      },
+      {
+        "name": "Scottish precedent as evidence for the ban",
+        "claim": "The existing ban on tenant fees in Scotland, and research into its effects, shows that a similar ban in England can be introduced without significant harm to the sector."
+      },
+      {
+        "name": "Likely but acceptable pass-through to rents",
+        "claim": "Although agents may seek to recover costs from landlords and some landlords may raise rents in response, this is an acceptable and more transparent way of allocating costs than hidden tenant fees."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Local authority/Trading Standards enforcement, strengthened by a lead authority and data sharing",
+        "claim": "The ban should be enforced primarily by local authorities and Trading Standards, building on their existing role, with options for a lead enforcement authority (as in the Estate Agent sector) and improved data sharing to make enforcement more consistent and effective."
+      },
+      {
+        "name": "Tenant empowerment and education as an enforcement mechanism",
+        "claim": "Educating and empowering tenants to recognise and challenge unlawful fees, including through redress to the county court, will reduce the burden on local authorities and support compliance, drawing on the precedent of deposit protection enforcement."
+      },
+      {
+        "name": "Penalty regime for non-compliance",
+        "claim": "Non-compliance with the ban should be deterred through civil penalties (potentially up to £30,000, as under the Housing and Planning Act 2016) and/or criminal sanctions such as banning orders, modelled on existing redress and transparency enforcement powers."
+      },
+      {
+        "name": "Defining permitted exceptions to make the ban workable",
+        "claim": "To avoid unreasonable risk to landlords and agents, the ban must allow certain charges to continue—such as capped holding deposits and charges for tenant-caused actions—while exploring ways to ease the separate burden of tenancy deposits."
+      }
+    ],
+    "note": ""
+  }
+}

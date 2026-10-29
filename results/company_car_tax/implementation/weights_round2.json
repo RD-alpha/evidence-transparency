@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Consultation Process and Scope",
+      "reason": "Explains the overall method for deciding how the intervention will be designed and rolled out, clarifying that this is a consultation seeking views before finalising policy design and rates, which is the core implementation mechanism itself.",
+      "weight": "core"
+    },
+    {
+      "theme": "Company Car Tax Band Structure",
+      "reason": "Asks directly about the structure (continuous vs wider bands) that would deliver the new ULEV tax bands, representing one of the main options being decided on for implementation.",
+      "weight": "core"
+    },
+    {
+      "theme": "CO2 Emissions as Tax Basis",
+      "reason": "Probes whether CO2 alone should underpin the new bands and where breakpoints should sit, a key alternative method under consideration for delivering the policy.",
+      "weight": "core"
+    },
+    {
+      "theme": "Alternative Tax Factors and Zero Emission Miles",
+      "reason": "Presents zero emission miles as an alternative or additional factor to CO2, representing another distinct implementation option being weighed against others.",
+      "weight": "core"
+    },
+    {
+      "theme": "Policy Implementation and Budget Process",
+      "reason": "Notes procedural detail that the Chancellor sets rates via the normal Budget process and includes administrative comment fields, which is background procedure rather than a load-bearing argument for the chosen implementation method.",
+      "weight": "not core"
+    }
+  ]
+}

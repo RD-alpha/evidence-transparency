@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Notice and communication of changes",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The ten-year notice commitment and the communications strategy (e.g. 'We will also seek to provide a minimum of ten years\u2019 notice') are commitments and reasoning, with no statistic, finding or source behind them and no references; the line citing John Cridland's recommendation is a named report but only to show agreement, not evidence on why this notice period fits."
+    },
+    {
+      "theme": "Wider support package for saving and working longer",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Box 3 gives Automatic Enrolment figures (8.1 million enrolled, 640,000 employers, \u00a317billion by 2019/20) and an IFS November 2016 finding, but the only reference (2) is the Pensions Act 2014 which does not support those figures, the IFS report is named in prose only, and the DWP figures give no method."
+    },
+    {
+      "theme": "Support for those unable to work and future evaluation",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Reference 42 (DWP benefit expenditure tables) backs the ~\u00a350 billion spend figure, which is a cited statistic, but it is used only to show existing protection and does not show that welfare support will work for people unable to work until 68; the rest is commitment to future evaluation."
+    },
+    {
+      "theme": "Legislative process and timetable",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Government Actuary's report and the 2012- versus 2014-based ONS projections example (5 years earlier, 33.3% of adult life in retirement) explain the timetable but carry no reference or link."
+    }
+  ],
+  "reasoning": "The three core themes show little openly checkable evidence for how the rise to 68 will be rolled out. 'Notice and communication of changes' scores 0: 'We will also seek to provide a minimum of ten years\u2019 notice' and the communications plan are commitments and argument, with no data on why ten years suffices and no references. 'Wider support package' scores 1: Box 3 offers figures such as 'over 8.1 million people automatically enrolled' and an IFS finding, but the only reference (2) is the Pensions Act 2014, which does not support those figures. The IFS report is named only in prose, and DWP's own estimates, such as the \u00a317billion, come with no method. 'Support for those unable to work and future evaluation' scores 1: Reference 42 backs the '\u00a350 billion a year' benefits figure, but it shows existing spending rather than that support will be adequate. The theme mostly promises later evaluation, and nothing assesses uncertainty. The mean of the core levels is (0+1+1)/3 = 0.67, which rounds to 1. The strongest counter-example for a lower score is that the one cited figure, Reference 42, is not linked to any claim about delivery. The strongest case for a higher score is the Automatic Enrolment statistics, which are specific and partly sourced. To reach level 2 the document would need to cite each statistic to a followable source, explain how its own estimates were produced, and link the evidence to why ten years' notice and this support package suit a rise to 68. Level 3 would need it to assess that evidence and acknowledge uncertainty.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

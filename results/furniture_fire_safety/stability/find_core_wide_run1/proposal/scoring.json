@@ -1,0 +1,88 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Choice of 'update the regulations' over alternatives",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Reference 1 (Greenstreet Berman 2009, commissioned by BIS) is cited to show the FFRs 'go beyond the minimum EU requirement' and are 'effective in saving lives', while the document itself flags the gap 'We do not have comparative data which allows us to assess whether the UK regulations actually lead to safer furniture than in the rest of the EU', an explicit acknowledgement of uncertainty underpinning the rejection of the revoke option."
+    },
+    {
+      "theme": "New match test reduces FR use without compromising safety",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The safety case rests mainly on design reasoning ('testing can now include previously unregulated parts of furniture... e.g. the arms') tied only to the vague 'See Annex for links to sample papers' (Reference 2), so it is mentioned but not traceably cited."
+    },
+    {
+      "theme": "Removal of the cigarette test as a redundant requirement",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The \u00a37.5m saving is traced to Reference 5 'Cost savings provided by UK test houses', and the document assesses pushback ('raised the issue of whether all of this cost saving will be passed on') before setting a 50% low-scenario assumption."
+    },
+    {
+      "theme": "Consultation evidence reshaping the proposal's cost-benefit case",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Reference 3 gives the precise split (57 vs 14 respondents) and the document explicitly notes disagreement and resulting revisions ('concerns expressed have led BIS analysts to reduce the cost savings')."
+    },
+    {
+      "theme": "Quantified net benefit case for the policy",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Figures such as \u00a32.3m-\u00a312.7m FR savings and the -\u00a314.17m EANCB are built from cited ONS/test-house data (References 4,5,6,12) with explicit uncertainty ranges ('given the uncertainties identified we have expressed savings to give a range')."
+    },
+    {
+      "theme": "Scope clarification and product categorisation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements are purely descriptive goals with no cited evidence of effect."
+    },
+    {
+      "theme": "Background and development of the proposal",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes process history with only a generic Reference 2 annex pointer and no explanatory evidence."
+    },
+    {
+      "theme": "Transition costs and business compliance",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Detailed, cited cost build-ups (References 5,6,8,9,10,16) with explicit acknowledgment of averaging uncertainty, e.g. 'some businesses are likely to incur greater costs and some less'."
+    },
+    {
+      "theme": "Evidence base and estimation methodologies",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Multiple fabric-use methodologies are compared and their data limitations flagged directly ('due to the uncertainties, however, all methodologies are presented, even those where BEIS currently have no data')."
+    },
+    {
+      "theme": "Small and medium-sized enterprises impacts",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Cites References 1 and 4 for SME counts but relies on unverified 'anecdotal evidence' for the threefold treatment-cost claim, limiting rigour."
+    },
+    {
+      "theme": "Non-monetised benefits and enforcement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The \u00a3140m/year fire-safety figure and enforcement claims appear with no reference marker or source."
+    },
+    {
+      "theme": "Health and environmental considerations",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims about organophosphate safety and future fibre costs are asserted without any cited source."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Residual lines contain no evidence."
+    }
+  ],
+  "reasoning": "The five core themes reach levels of 3, 1, 3, 3 and 3. The strongest is the quantified cost-benefit case and the consultation-revision theme, both of which name sources (References 3,4,5,6,12), describe methods ('the consultation received 113 responses'), and explicitly flag uncertainty ('there still remain a number of key uncertainties'). The cigarette-test removal and the choice-of-option themes similarly cite named sources (Reference 1, Reference 5) and acknowledge gaps ('We do not have comparative data... whether UK regulations actually lead to safer furniture'). The weak link is the match-test safety claim, which relies on mechanistic reasoning ('testing can now include previously unregulated parts... e.g. the arms') tied only to a vague 'See Annex for links to sample papers' (Reference 2) -- a textbook case of a citation that leaves the reader unable to find the actual source, so it stays at level 1. The mean of (3+1+3+3+3)/5 = 2.6, which rounds to 3. The clearest counter-example against a '3' is that the central safety justification for the whole new-test design is argued rather than evidenced. To be unambiguously solid at level 3 throughout, the document would need to replace the generic Annex reference with a specific, named test report or study demonstrating that the redesigned match test maintains safety while reducing flame-retardant use.",
+  "score": 3,
+  "model_score": 3,
+  "core_mean": 2.6,
+  "score_consistent": true,
+  "missing_core": []
+}

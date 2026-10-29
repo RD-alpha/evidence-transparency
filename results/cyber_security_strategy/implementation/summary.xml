@@ -1,0 +1,130 @@
+<root>
+<theme sentences="26" weight="core">
+<name>Partnership delivery with industry, devolved administrations and others</name>
+<claim>Delivery will be shared with industry, the Devolved Administrations, academia and regulators, with industry often designing and leading and Government providing expertise, because the Government alone cannot secure the nation's cyber space.</claim>
+<text>
+<line id="S0027">I will work closely with colleagues across Government and with partners in the Devolved Administrations, the wider public sector, industry and academia to ensure we achieve that ambition.</line>
+<line id="S0117">all parts of the UK, recognising that, to the extent that it touches on devolved matters, we will work closely with the devolved Governments on its application to Scotland, Wales and Northern Ireland (respecting the three separate legal jurisdictions, and four education systems, that exist in the UK).</line>
+<line id="S0118">Where proposals set out in the strategy relate to devolved matters, their implementation will be agreed as appropriate with those Governments in accordance with the devolution settlements.</line>
+<line id="S0353">It will remain the responsibility of government departments to ensure they effectively implement this cyber security advice.</line>
+<line id="S0388">Where possible, these initiatives will be delivered with or through partnerships with industry.</line>
+<line id="S0389">For many, industry will be designing and leading implementation, with the Government’s critical contribution being expert support, advice and thought-leadership.</line>
+<line id="S0457">We will invite Devolved Administrations and local authorities to participate in these exercises, as appropriate.</line>
+<line id="S0477">The CSOC will work closely with the NCSC to confront the MoD’s cyber security challenges and contribute to wider national cyber security.</line>
+<line id="S0499">The NCSC will provide these services for the UK’s most important companies and organisations, including the CNI.</line>
+<line id="S0500">It will do so in partnership with departments and regulators, who will assure whether cyber risk is being managed in their sectors to the level demanded by the national interest.</line>
+<line id="S0526">For the public, the Government will harness ‘trusted voices’ to increase the reach, credibility and relevance of our message.</line>
+<line id="S0528">We will involve the Devolved Administrations and other authorities as appropriate.</line>
+<line id="S0569">We will ensure that the UK Government’s level of support for each sector – taking into account its cyber maturity – is clearly defined and understood.</line>
+<line id="S0588">We will build on our national cyber exercise plan, using our improved understanding and awareness of the threat, to improve our offer of support to public and private sector partners.</line>
+<line id="S0713">However, it must be recognised that to have any profound impact, this effort must be collaborative, with input from a range of participants and influencers across the Devolved Administrations, public sector, education providers, academia bodies and industry.</line>
+<line id="S0743">We will work closely with the Devolved Administrations to encourage a consistent approach across the UK.</line>
+<line id="S0745">We will set out more clearly the respective roles of government and industry, including how these might evolve over time.</line>
+<line id="S0746">The UK Government and Devolved Administrations have a key role in creating the right environment for cyber security skills to be developed and to update the education system to reflect the changing needs of industry and government.</line>
+<line id="S0747">But employers also have a significant responsibility to clearly articulate their needs, as well as train and develop employees and young people entering the profession.</line>
+<line id="S0748">Industry has an important role in building diverse and attractive career and training pathways in partnership with academia, professional bodies and trade associations.</line>
+<line id="S0750">In recognition of the collective challenge we face in closing the skills gap, we will establish a skills advisory group formed of government, employers, professional bodies, skills bodies, education providers and academia, which will strengthen the coherence between these key sectors.</line>
+<line id="S0752">This group will work with similar bodies across the UK.</line>
+<line id="S0758">We will however work with the Devolved Administrations to encourage a consistent approach across the UK education systems.</line>
+<line id="S0782">We will encourage all parts of government, including the Devolved Administrations, to take a similar approach.</line>
+<line id="S0801">This will involve a match-making role for the Government, where we incentivise such collaborations.</line>
+<line id="S0819">The Government will work with bodies, including Innovate UK and the Research Councils to encourage collaboration between industry, the Government and academia.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="10" weight="core">
+<name>NCSC as the central delivery body, built in phases</name>
+<claim>The NCSC, launched in October 2016 under GCHQ, will be the unified vehicle for delivering the strategy, with its capabilities built up in phases and adapted as lessons are learned.</claim>
+<text>
+<line id="S0356">The National Cyber Security Centre (NCSC) launched on 1 October 2016.</line>
+<line id="S0364">We recognise that, as the NCSC grows, its focus and capabilities will need to adapt to new challenges and lessons learned.</line>
+<line id="S0365">There will be a phased approach to building the NCSC’s capabilities over the lifetime of this strategy.</line>
+<line id="S0440">The Government Digital Service (GDS), the Crown Commercial Service (CCS) and the NCSC will ensure that all new digital services built or procured by government are also ‘secure by default’.</line>
+<line id="S0452">The Government will work with health and social care organisations to implement these standards.</line>
+<line id="S0499">The NCSC will provide these services for the UK’s most important companies and organisations, including the CNI.</line>
+<line id="S0581">In the event of a significant incident, the Government incident management process will reflect the three distinct elements of a cyber incident: the precursor causes, the incident itself and the post-incident response.</line>
+<line id="S0583">To deliver incident management that is effective for both government and the private sector, we will work closely to review and define the scope of the Government response to ensure it 5.6.3.</line>
+<line id="S0587">reinforces cooperation.</line>
+<line id="S0588">We will build on our national cyber exercise plan, using our improved understanding and awareness of the threat, to improve our offer of support to public and private sector partners.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="8" weight="not core">
+<name>Skills, education and the cyber workforce</name>
+<text>
+<line id="S0562">specialist support from regular or reserve cyber personnel.</line>
+<line id="S0746">The UK Government and Devolved Administrations have a key role in creating the right environment for cyber security skills to be developed and to update the education system to reflect the changing needs of industry and government.</line>
+<line id="S0747">But employers also have a significant responsibility to clearly articulate their needs, as well as train and develop employees and young people entering the profession.</line>
+<line id="S0748">Industry has an important role in building diverse and attractive career and training pathways in partnership with academia, professional bodies and trade associations.</line>
+<line id="S0750">In recognition of the collective challenge we face in closing the skills gap, we will establish a skills advisory group formed of government, employers, professional bodies, skills bodies, education providers and academia, which will strengthen the coherence between these key sectors.</line>
+<line id="S0751">This group will support the development of a long-term strategy which will take account of developments in the broad field of digital skills, ensuring that cyber security considerations are aligned and incorporated throughout.</line>
+<line id="S0757">As education is a devolved matter, some of these initiatives will apply mainly in England.</line>
+<line id="S0758">We will however work with the Devolved Administrations to encourage a consistent approach across the UK education systems.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="10" weight="not core">
+<name>Science, technology and horizon scanning</name>
+<text>
+<line id="S0795">We will publish a detailed Cyber Science and Technology Strategy after a thorough consultation with partners and stakeholders.</line>
+<line id="S0796">This will include identifying areas of science and technology that the Government, industry and academia consider to be important and identifying gaps in the UK’s current capacity to address them.</line>
+<line id="S0820">To support this collaboration we will review best practice concerning security classifications and identify security-cleared experts, including academics.</line>
+<line id="S0821">This will ensure that work from the unclassified space to beyond secret can be as collaborative as possible.</line>
+<line id="S0823">The Government will ensure that our horizon scanning programmes include a rigorous assessment of cyber risk, and that this is integrated into cyber security and other technology policy development areas, along with all-source assessment and other available evidence.</line>
+<line id="S0824">We will join up horizon scanning between national security and other policy areas to ensure a holistic assessment of emerging challenges and opportunities.</line>
+<line id="S0836">We will ensure that cyber security is considered within the remit of the cross- Government Emerging Technology and Innovation Analysis Cell (ETIAC), which will be established to identify technology threats and opportunities relevant to national security and that cyber is considered by existing horizon-scanning structures, including the Government Futures Group (GFG), and the Cabinet Secretary’s Advisory Group on horizon scanning (CSAG).</line>
+<line id="S0840">Therefore, we will ensure that where we conduct horizon scanning of these other policy areas, we will take into account any cyber security implications.</line>
+<line id="S0844">We will also ensure that cyber policy-making follows an evidence-based approach, taking into account assessments from all available sources.</line>
+<line id="S0847">• specific technical evidence, for example on the Internet of Things, or the future role of advanced materials; and</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="5" weight="not core">
+<name>Sovereign capability and supply</name>
+<text>
+<line id="S0689">This is likely to require work to be done in the UK, by British Nationals with the requisite security clearance, working for companies who are prepared to be completely open with GCHQ in discussing design and implementation details.</line>
+<line id="S0690">The MOD and GCHQ are working to establish a sound understanding of the long-term cost implications of maintaining such sovereign cryptographic capabilities, based on prevailing market conditions and in cooperation with those companies currently able to provide such solutions.</line>
+<line id="S0698">We will select the means that allow us to share information effectively with our allies, and ensure that trusted information and information systems are available, when and where required.</line>
+<line id="S0699">Working closely with other government departments and agencies, GCHQ and MOD will together define sovereign requirements, and how best to meet those requirements when suppliers must be domestic.</line>
+<line id="S0700">This will be delivered through a new joint framework for determining requirements for operational advantage and freedom of action.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="3" weight="not core">
+<name>Public advice and incident response</name>
+<text>
+<line id="S0527">We will provide advice that is easy to act upon and relevant to individuals, at the point they are accessing services and exposing themselves to risk.</line>
+<line id="S0581">In the event of a significant incident, the Government incident management process will reflect the three distinct elements of a cyber incident: the precursor causes, the incident itself and the post-incident response.</line>
+<line id="S0583">To deliver incident management that is effective for both government and the private sector, we will work closely to review and define the scope of the Government response to ensure it 5.6.3.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="not core">
+<name>Timing and scope of implementation</name>
+<text>
+<line id="S0123">The UK Government will seek to ensure the strategy is implemented for 2.10.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

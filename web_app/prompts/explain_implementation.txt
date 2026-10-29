@@ -1,0 +1,7 @@
+- why this method for delivering the intervention has been chosen
+- what evidence, if any, that decision is based on
+- whether there are other methods and, if so, the reasons for not choosing them
+- if the way to deliver the intervention is still being decided, what the method
+  is for deciding
+- what the costs and benefits are estimated to be, and the assumptions behind
+  those calculations

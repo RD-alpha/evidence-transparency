@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Weak tenant-side competition",
+        "claim": "Because landlords, not tenants, choose and pay letting agents, agents and landlords have little incentive to keep tenant fees low, so competitive pressure on tenant fees is very weak and fees have risen as a result."
+      },
+      {
+        "name": "Opaque and inconsistent fee charging",
+        "claim": "Letting agents charge and display fees in highly inconsistent and often unclear ways, making it very difficult for tenants to find, understand or compare fees across agents even where transparency rules exist."
+      },
+      {
+        "name": "Fees cause financial harm and reduce mobility",
+        "claim": "Letting agent fees to tenants are high, have risen significantly in recent years, and create a real financial burden that deters tenants from moving, strains household finances and hinders saving for a home deposit."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Rebalancing market power toward landlords",
+        "claim": "Banning tenant fees shifts the cost of agent services onto landlords, who can shop around and negotiate, sharpening agents' incentive to compete on price and quality for landlords' business while giving tenants a clear, comparable headline rent."
+      },
+      {
+        "name": "Scope of the ban",
+        "claim": "The ban will prohibit all letting fees, premiums or charges to tenants from agents, landlords or third parties that facilitate a tenancy, leaving tenants liable only for rent and a refundable deposit."
+      },
+      {
+        "name": "Scottish precedent as justification",
+        "claim": "Evidence from Scotland's existing ban shows that a similar prohibition can operate without serious harm to the letting sector, supporting the case that a ban is a workable and low-risk intervention."
+      },
+      {
+        "name": "Expected rent effects and net benefit",
+        "claim": "Although some agents may pass costs into rents, this is expected to be only partial, and the resulting more transparent, predictable pricing structure represents a net improvement for tenants over hidden upfront fees."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Enforcement architecture and penalties",
+        "claim": "The ban will be enforced primarily by local authority Trading Standards, potentially supported by a lead enforcement authority, increased data sharing, and civil or criminal penalties up to substantial fines to deter and penalise non-compliant agents."
+      },
+      {
+        "name": "Tenant empowerment and education",
+        "claim": "Educating and empowering tenants to recognise and challenge unlawful fees, including through county court routes, is a necessary complement to formal enforcement in making the ban effective."
+      },
+      {
+        "name": "Permitted exceptions to the ban",
+        "claim": "Certain charges, such as refundable holding deposits and tenant-caused in-tenancy costs, will remain chargeable to tenants, and these exceptions must be carefully designed to prevent abuse while allowing legitimate cost recovery."
+      },
+      {
+        "name": "Addressing residual deposit burden",
+        "claim": "Because deposits remain a significant upfront cost, the government will explore capping deposit levels and alternative models to reduce this financial burden as part of implementing the wider reform."
+      }
+    ],
+    "note": ""
+  }
+}

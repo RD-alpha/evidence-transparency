@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Scope and definition of the ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Phased timetable for manufacture and sale",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Devolved and collaborative legislative approach",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enforcement through civil sanctions",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Geographic exclusions",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Consultation and implementation details",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

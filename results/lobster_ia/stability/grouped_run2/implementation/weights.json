@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Scope and Legal Basis of the Ban",
+      "reason": "This theme explains the chosen implementation method: using existing legal powers (Sections 5 and 6 of the 1967 Act) and amending an existing SI rather than creating a new order, defining exactly which vessels and waters are covered. It directly addresses why this delivery method was chosen and what alternatives (a new separate order) were rejected, making it foundational to the implementation argument.",
+      "weight": "core"
+    },
+    {
+      "theme": "Costs of Implementation and Enforcement",
+      "reason": "This theme provides the detailed cost estimates and assumptions (testing kits, training, enforcement costs) that underpin the should-explain point about what costs and benefits are estimated to be and the assumptions behind those calculations; without it the implementation case would lack its quantified basis.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation Process and Evidence Gathering",
+      "reason": "This theme describes the ongoing process for gathering evidence and stakeholder input to refine the policy, which is relevant to how the method is still being decided, but it is a procedural supplement rather than a core support for the implementation method itself.",
+      "weight": "not core"
+    }
+  ]
+}

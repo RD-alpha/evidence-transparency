@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rising life expectancy",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "ONS data (refs 5, 12, 13, 19, 26) are tied to specific figures such as 13\u00bd to 21 years at 65 and 23% to 32% of adult life, and the document assesses its own evidence with 'projections are uncertain, and more so over longer projection periods' and the Government Actuary's 2012-based versus 2014-based comparison, which shifts the age-68 increase forward by 5 years; the DWP calculation (ref 21) is own analysis with only a brief method (ONS data) given."
+    },
+    {
+      "theme": "Demographic change under pay-as-you-go",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "ONS 2014-based projections (refs 7, 8) are cited and linked to the claim through figures of 12.4m to 16.9m pensioners and an old age dependency ratio of 301 rising to 375 per 1,000, but the document does not assess the strength of the projections here."
+    },
+    {
+      "theme": "Rising fiscal cost of an ageing society",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The Cridland review (refs 9, 30) and OBR Fiscal Sustainability Report (ref 31) are cited for the 1% of GDP rise by 2036/37, \u00a3725 per household, and 7.9% of GDP age-related spending, but the uncertainty of the OBR projections is not discussed."
+    },
+    {
+      "theme": "Past inaction and reactive reform",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The Pensions Commission 2005 finding is cited (ref 20) and the timetable of Acts is set out, with the consequences supported by the DWP/ONS figures (ref 21, from the life expectancy theme), though several lines such as 'almost all of the policy focus has been on the other entitlement rules' are uncited assertion and no weaknesses are assessed."
+    }
+  ],
+  "reasoning": "All four themes are core, and each has cited evidence linked to its claim. The life expectancy theme is the strongest. It cites ONS series (refs 5, 12, 13, 19, 26) for figures such as a 65-year-old's years in receipt rising from 13\u00bd (23% of adult life) in 1948 to 21 (32%) by 2007, with 2 more years projected over twenty years. It also assesses its own evidence: 'life expectancy projections are uncertain, and more so over longer projection periods'. The Government Actuary example shows that using the 2012-based rather than 2014-based projections would bring the rise to 68 forward by 5 years. That reaches level 3. The demographic theme (ONS refs 7, 8: 301 rising to 375 pensioners per 1,000 working-age people) and the fiscal theme (Cridland refs 9, 30; OBR ref 31: 1% of GDP, 7.9% of GDP age-related spending) are cited and clearly reasoned, but neither discusses the weaknesses or uncertainty of its projections, so both stay at level 2. The past inaction theme cites the Pensions Commission (ref 20) and draws on DWP analysis (ref 21), but it relies partly on uncited lines about earlier policy focus, so it sits at level 2 on balance. The mean is (3+2+2+2)/4 = 2.25, which rounds to 2. The strongest counter-example to level 2 is the life expectancy theme, which reaches level 3, and the section could be read upward on that basis. To reach level 3 overall, the demographic, fiscal and reform themes would need to acknowledge the uncertainty in the OBR and ONS projections and in the cost estimates, and say how that affects the case for the rise to 68.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.25,
+  "score_consistent": true,
+  "missing_core": []
+}

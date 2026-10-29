@@ -1,0 +1,154 @@
+{
+  "themes": [
+    {
+      "theme": "Prison Performance Monitoring and Transparency",
+      "reason": "Describes the league tables and performance measures that will accompany devolution, forming the accountability counterpart to governor autonomy central to how the intervention is rolled out.",
+      "weight": "core"
+    },
+    {
+      "theme": "Governor Empowerment and Prison Autonomy",
+      "reason": "This is the central description of the mechanism and timetable (from April 2017) by which authority is devolved to governors; the whole implementation argument rests on it.",
+      "weight": "core"
+    },
+    {
+      "theme": "Prison Officer Recruitment and Training",
+      "reason": "Describes staffing increases and training schemes that support overall reform delivery, but is a parallel workforce initiative rather than the mechanism for devolving governor autonomy itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prisoner Safety and Violence Reduction",
+      "reason": "Details a specific dedicated-officer model and pilot prisons, an operational example of reform rather than the core rollout logic of governor empowerment and accountability.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Drug Control and Substance Misuse",
+      "reason": "A specific policy domain devolved to governors, illustrating application rather than carrying the core implementation argument about autonomy/accountability.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Security and Contraband Prevention",
+      "reason": "Operational security measures and intelligence investment are a specific policy area, not the backbone of how the governor autonomy intervention is implemented.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Crime Prevention and Intelligence",
+      "reason": "Describes specific crime and intelligence initiatives, an instance of implementation detail rather than the core mechanism of governor empowerment rollout.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prisoner Accountability and Discipline",
+      "reason": "Describes a specific devolved policy area (privilege system, adjudications) illustrating governor authority but not the core rollout logic itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prison Education and Skills Development",
+      "reason": "Illustrates one area governors will control, supporting but not constituting the core implementation argument for autonomy and accountability.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prisoner Employment and Work Opportunities",
+      "reason": "A specific domain of devolved responsibility, exemplifying rather than underpinning the core implementation mechanism.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Health Services and Prisoner Wellbeing",
+      "reason": "Describes joint commissioning arrangements as one devolved area, an example rather than the core rollout argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prisoner Resettlement and Release Preparation",
+      "reason": "Details resettlement service design, a specific application area rather than the core governance/accountability rollout mechanism.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Family Support and Community Ties",
+      "reason": "Describes devolved family service budgets, an example of devolved responsibility rather than the core implementation logic.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Housing and Accommodation Support",
+      "reason": "Specific accommodation policy area, illustrative rather than central to the implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Female Offenders and Gender-Specific Policies",
+      "reason": "A distinct policy strand for a specific cohort, not part of the core governor autonomy rollout argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Young Adult Offenders",
+      "reason": "Addresses a specific cohort consideration, not core to the implementation mechanism for governor empowerment.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Prison Estate Transformation and New Facilities",
+      "reason": "Describes parallel infrastructure investment and estate restructuring, an enabling but separate workstream from the governance/accountability rollout mechanism.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Inspection and Accountability Framework",
+      "reason": "Sets out the accountability structures (HMIP, Secretary of State intervention powers, performance agreements) that are essential counterweights to governor autonomy, directly answering how oversight accompanies devolution.",
+      "weight": "core"
+    },
+    {
+      "theme": "Leadership Development and Capability Building",
+      "reason": "Describes how governors and senior managers will be trained and supported to take on new powers, directly explaining how the empowerment rollout will be delivered in practice.",
+      "weight": "core"
+    },
+    {
+      "theme": "Private Prison Management and Adaptation",
+      "reason": "A brief caveat noting adaptation for private prisons, touching on scope of implementation but not a substantial part of the core argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Evidence-Based Policy and Data Use",
+      "reason": "Explains the methodology and evidentiary basis for performance measures and decision-making, addressing the should-explain point about what evidence underpins the implementation approach.",
+      "weight": "core"
+    },
+    {
+      "theme": "Financial Management and Budgeting",
+      "reason": "Describes the specific mechanism of budget devolution and spending flexibility central to how governor autonomy will be operationalised.",
+      "weight": "core"
+    },
+    {
+      "theme": "Release on Temporary Licence (ROTL)",
+      "reason": "Describes a specific operational tool governors can use, an example of devolved authority rather than the core rollout mechanism itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Operational Policy Simplification",
+      "reason": "Describes the method and phased timetable for reviewing and simplifying central policies, directly addressing how the devolution of authority will be implemented.",
+      "weight": "core"
+    },
+    {
+      "theme": "Workforce Planning and Flexibility",
+      "reason": "Describes governors' new authority over staffing and HR processes, a core part of the devolution mechanism for implementation.",
+      "weight": "core"
+    },
+    {
+      "theme": "Devolution and Local Partnerships",
+      "reason": "Describes parallel devolution deals and Welsh arrangements as context/examples, not the core mechanism for governor autonomy rollout.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Risk Management and Serious Offenders",
+      "reason": "Addresses specific risk and ROTL compliance measures, a narrow operational detail rather than core implementation logic.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Extremism and Radicalisation",
+      "reason": "A specific security policy area, not part of the core governor autonomy implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Equality and Compliance",
+      "reason": "A single legal compliance statement, administrative detail not central to the implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Procedural boilerplate statements with no substantive bearing on the implementation argument.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Safer Maternity Care: The National Maternity Safety Strategy - Progress and Next Steps",
+  "alias": "safer_maternity_care",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "note": "Roman endnotes i-xi and arabic footnotes 1-4 merged into one 1-15 sequence by hand-patched one-off ingest",
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "policy_paper",
+    "type_listed_in_2018_appendix": "action plan (17 October 2016)",
+    "matches_2018_listed_source": "no",
+    "basis": "S0070: \"This document reports on progress against that initial action plan\" - the later progress report, not the October 2016 action plan listed in Appendix 2.",
+    "source_check": "Listed document(s) retrieved on 2026-10-08 and compared with the ingested text: 2% found in the listed October 2016 action plan PDF (file 560491)."
+  }
+}

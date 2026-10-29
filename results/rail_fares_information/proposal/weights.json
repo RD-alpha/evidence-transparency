@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Better information and clearer ticket choice",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Simpler, wider ticket buying and retail market",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Fares reform through franchising and pilots",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Passenger protection and trust",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Delivery and governance",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

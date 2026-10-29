@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Notice and communication",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The ten-year notice commitment and the communications strategy are asserted as commitments and reasoning (e.g. 'no legislative requirement... in practical terms individuals need time to prepare'), with no statistic, finding or source and no references."
+    },
+    {
+      "theme": "Wider support package for working longer and those who cannot work",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Box 3 gives Automatic Enrolment figures (8.1 million enrolled, 640,000 employers, \u00a317bn by 2019/20, IFS report Nov 2016) and a \u00a350bn benefit spend figure (Reference: 42), but only Refs 2 and 42 are cited, Ref 2 being merely the Pensions Act, and the DWP's own figures and the IFS report are uncited with no method, so the evidence stays at level 1 and no uncertainties are assessed."
+    },
+    {
+      "theme": "Legislative process and timetable",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Government Actuary's 2012- versus 2014-based projections example (5 years earlier, 33.3% of adult life in retirement) shows how evidence affects the timetable, but it is uncited and the remaining lines are assertion."
+    }
+  ],
+  "reasoning": "The two core themes are weak on evidence for how the rise to 68 will be delivered. 'Notice and communication' rests on commitments and reasoning: 'We will also seek to provide a minimum of ten years' notice' and 'in practical terms individuals need time to prepare'. It offers no statistic, research finding or source for why ten years is the right period or why this communications approach will work, so it scores 0. 'Wider support package' scores 1. Box 3 gives figures such as 'over 8.1 million people automatically enrolled' and 'around \u00a317billion a year more in workplace pension saving by 2019/20', cites an IFS report from November 2016, and quotes \u00a350 billion of benefit spending (Reference: 42). However, only two references appear. Reference 2 is the Pensions Act 2014, which is cited only to describe the current rules, and the IFS report and DWP figures carry no reference or method. Nothing is assessed or caveated, and the policies for older workers are deferred to a later review. The mean of the core themes is (0+1)/2 = 0.5, which rounds to 1. The strongest counter-example to that level is that the document may deserve 0 overall, because the one cited item (Ref 42) only describes current spending and does not show that support will work. To reach level 2, the document would need to cite its sources, show how each figure supports the notice period and support package, and give evidence on whether ten years' notice is adequate. Level 3 would require it to assess that evidence and acknowledge uncertainty.",
+  "score": 0,
+  "model_score": 1,
+  "core_mean": 0.5,
+  "score_consistent": false,
+  "missing_core": []
+}

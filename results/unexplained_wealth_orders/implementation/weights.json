@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "SARs reform programme and delivery",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Action Plan actions, leads and deadlines",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Supervisory review and consultation process",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation questions on SARs and information sharing",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Consultation questions on asset forfeiture and new powers",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

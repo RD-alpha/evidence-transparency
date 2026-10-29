@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "High-profile failures expose multi-causal system breakdowns",
+        "claim": "The document argues that well-known cases (Savile, Daniel Pelka, Rotherham, Rochdale, Oxfordshire) demonstrate serious, recurring failures to report and act on abuse that stem from a variety of interacting causes (failure to recognise abuse, poor risk assessment, failure to share information, deliberate cover-up), meaning no single fix will resolve them."
+      },
+      {
+        "name": "Absence of a general legal duty to report or act",
+        "claim": "The document argues that, despite strong statutory guidance requiring referral when abuse is suspected, there is currently no general legal requirement on practitioners to report or act on child abuse, leaving compliance effectively discretionary."
+      },
+      {
+        "name": "Abuse continues to go undetected despite rising referrals",
+        "claim": "The document argues that, even though referrals, assessments and child protection plans have been rising, a large share of abuse (e.g. only one in eight sexual abuse victims known to police) still goes undetected, showing current reporting/response mechanisms are insufficient."
+      },
+      {
+        "name": "Inherent difficulty of identifying abuse and judging the right response",
+        "claim": "The document argues that signs of abuse are frequently ambiguous and decisions about appropriate action rely on difficult professional judgement, which helps explain why failures occur even among well-intentioned practitioners."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Two alternative statutory duties, with duty to act designed as a bespoke substitute for extending wilful neglect",
+        "claim": "The document argues that the two measures under consideration—mandatory reporting and a duty to act—are the appropriate alternatives to pursue, with the duty to act specifically devised as a bespoke measure because extending the existing wilful neglect offence to cover child abuse was found to be technically unworkable."
+      },
+      {
+        "name": "Mixed and inconclusive international evidence on mandatory reporting",
+        "claim": "The document argues that the academic and international evidence on whether mandatory reporting improves child safety outcomes is inconsistent and inconclusive, so no firm recommendation for or against such a duty can yet be made."
+      },
+      {
+        "name": "Quantifiable costs versus unmonetised benefits",
+        "claim": "The document argues that the costs of introducing either new duty (familiarisation, increased referrals, sanctions) can be estimated and are substantial, whereas the corresponding benefits cannot currently be monetised due to lack of evidence, leaving the net value of intervention uncertain and no option preferred at this stage."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Broad scope covering all abuse types and a wide range of professions/organisations",
+        "claim": "The document argues that any new duty should cover all forms of suspected and known (but not retrospective) abuse against under-18s and should apply broadly to practitioners, senior managers and support staff across education, health, policing, social care and probation who have close or frequent contact with children."
+      },
+      {
+        "name": "Choice of accountability level (individual, organisational, or both)",
+        "claim": "The document argues that a new duty could be imposed at an individual level, an organisational level, or both, and weighs the respective benefits and risks of each approach to decide where responsibility should rest."
+      },
+      {
+        "name": "Tiered sanctions framework combining existing, DBS and criminal routes",
+        "claim": "The document argues that breaches should be addressed through a tiered sanctions system—existing employer/regulatory sanctions, DBS-administered sanctions, and criminal sanctions—each with distinct benefits and risks that justify offering a graduated response."
+      },
+      {
+        "name": "Cost assumptions underpinning implementation estimates",
+        "claim": "The document argues that implementation costs (familiarisation time for ~2.8 million professionals, increased referral volumes, and sanction-related costs) can be estimated using stated assumptions, even though these assumptions are acknowledged as uncertain and subject to refinement through consultation."
+      }
+    ],
+    "note": ""
+  }
+}

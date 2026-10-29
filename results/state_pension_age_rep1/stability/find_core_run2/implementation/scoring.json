@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Ten years' notice and communications",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The ten years' notice commitment and communications plan are asserted as commitments and reasoning (lines on 'no legislative requirement' and 'individuals need time to prepare'), with no statistic, finding or source; the Cridland recommendation is cited only as agreement, and no references exist."
+    },
+    {
+      "theme": "Wider package of support for work and those who cannot work",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only the line on current spending of around \u00a350 billion a year on disability and health benefits carries Reference 42 (DWP benefit expenditure tables), but it is a figure used to say the welfare system already protects people and is not tied to the delivery of the rise, while the rest are commitments to evaluate Universal Credit and the health and work consultation."
+    },
+    {
+      "theme": "Review and legislative process for delivering the rise",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Government Actuary's report (32.0% or 33.3% of adult life) and Cridland's independent report are named and their use explained, but there are no references or links, and the Pensions Act 2014 is cited to describe the review mechanism and not as a constraint on options."
+    }
+  ],
+  "reasoning": "Three core themes were scored: 'Ten years' notice and communications' (0), 'Wider package of support' (1) and 'Review and legislative process' (1). The mean is 0.67, which rounds to 1. The notice theme rests on assertion: 'We will also seek to provide a minimum of ten years' notice' and 'individuals need time to prepare' are commitments and reasoning, not evidence, and the document cites no research on how much notice people need or on how communications change behaviour. The support theme has one cited figure, 'around \u00a350 billion a year' on disability and health benefits (Reference 42, DWP benefit expenditure tables), but it only shows the welfare system's scale and does not show that the package will work or why it was designed as it was. The review theme describes the Government Actuary's analysis, the 32.0% and 33.3% shares of adult life, the 2028 to 2064 timetables and Cridland's report, so the reader can see what evidence informed the review. However, none of these carries a reference or link, so a reader cannot readily trace them, and the Pensions Act is used to describe the process only. The strongest counter-example to level 1 is the Reference 42 line, which is properly cited and might suggest level 2, but it is not linked to the delivery choice. To reach level 2 the document would need to cite the Actuary's and Cridland's reports with references, give evidence on the notice period and communications approach, and tie the benefit data to the package. To reach level 3 it would have to assess the strength of that evidence and acknowledge uncertainties.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Banning tenant fees rather than relying on transparency",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope and design of the ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Costs, benefits and assumptions about rent effects",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Deposit affordability and future options",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Complementary regulation and broader context",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

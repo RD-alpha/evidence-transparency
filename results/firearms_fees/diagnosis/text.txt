@@ -1,0 +1,53 @@
+S0014 Introduction The Government administers a range of firearms licences covering: weapons which are prohibited under section 5 of the Firearms Act 1968; museum collections; and approved rifle clubs and muzzle-loading pistol clubs.
+S0015 This is to ensure that firearms are only possessed subject to stringent controls and the highest standards of public safety are maintained.
+S0016 Licences are issued free of charge, or, in the case of museums and shooting clubs, for a fee well below the cost of providing the service.
+S0017 Currently, the cost to the taxpayer of firearms licences administered by the Government is estimated at around £700,000 per year.
+S0025 Background In England, Wales and Scotland the police are responsible for issuing certificates for civilian firearms such as shotguns used by farmers or those used in recreational shooting.
+S0027 • prohibited weapons licences, authorising trade or possession of non-civilian weapons;
+S0028 • museum licences, for museums with firearms collections which may include prohibited weapons;
+S0029 • approved shooting clubs, allowing members without the relevant personal firearms certificate to shoot using club firearms.
+S0030 The Home Office and Scottish Government administer these licences to provide an extra level of assurance, national consistency in decision-making and national oversight of the licensing regime, to reflect the increased risk associated with prohibited weapons and un-certificated shooters and ensure that the highest standards of public safety are maintained. ** (Reference: 2)
+S0031 Currently there is no power to charge for prohibited firearms licences and, as a result, the cost of those licences is entirely subsidised by the public.
+S0032 Museum and shooting club licences are subject to fees that were last reviewed in 1995 and do not cover the cost of the service.
+S0033 Figure 1: Existing fees Current fee Period of licence Licence type Applications per year (grants and renewals) ** (Reference: 3, 4)
+S0035 current level of taxpayer subsidy Prohibited weapons (s5) 313
+S0036 No charge 3 years 100% Museum 38 £200 5 years 92% Shooting club 61 £84 6 years 93% Prohibited weapon (section 5) authorities Prohibited weapons are those not typically permitted for civilian use, including hand guns, automatic firearms, missiles, rockets, noxious gases and other military weapons, and are listed under section 5 of the Firearms Act 1968.
+S0037 They may be used legitimately by police forces (for example handguns, automatic weapons and CS spray), subject to strict controls about police use of force, and by the military.
+S0038 The police and military do not require a licence.
+S0039 However, a range of organisations that supply them need to be licensed to possess prohibited weapons as part of their business.
+S0040 Such organisations will include manufacturers, dealers, service providers and transport companies (‘carriers’) in the defence and security sector, supplying police or military forces in the UK or abroad.
+S0041 There are a range of other circumstances where a prohibited weapons licence may be required.
+S0042 These include private maritime security companies supplying armed protection from piracy to UK ships in the high-risk area, forensic service providers, gunsmiths that carry out deactivation of prohibited weapons or trade in pistols used for humane slaughter, and Olympic pistol shooters.
+S0043 Applicants are subject to thorough checks by the Home Office or Scottish Government and the police before an authority is issued, including background checks, an assessment of suitability and proof of genuine business need to possess prohibited firearms.
+S0044 These checks are repeated on renewal, which generally takes place every 3 years.
+S0045 Museum licences Museums with firearms collections (which may include prohibited weapons) require a Home Office or Scottish Government licence.
+S0046 Shooting club approvals Shooting clubs need Home Office or Scottish Government approval if they wish to allow members without a personal firearms certificate to shoot using firearms provided by the club.
+S0196 Currently the Home Office and the Scottish Government issue licences for prohibited firearms (under s5 of the Firearms Act 1968) to relevant businesses, such as arms manufacturers, free of charge.
+S0197 Providing this licensing service imposes a cost on the Home Office, the Scottish government and the police.
+S0198 This cost is currently fully subsidised by the taxpayer.
+S0254 Police forces issue licences for non-prohibited firearms such as shotguns used by farmers or for recreational shooting.
+S0256 The Home Office and Scottish Government issue licences for higher risk activities, including activities involving prohibited firearms such as handguns, automatic weapons and missiles.
+S0257 Prohibited firearms are known as ‘section 5’ weapons because they are defined under section 5 of the Firearms Act 1968.
+S0258 Companies that may require a prohibited firearms licence include firearms dealers and transport companies (‘carriers’) supplying the police or military with weapons, components and other equipment and services, and maritime security companies that protect UK ships from piracy.
+S0259 The Home Office and Scottish Government also issue licences to museums with collections of firearms, which may include section 5 weapons, and to shooting clubs to allow members without their own firearms or certificate to shoot with club weapons.
+S0260 The Scottish Government issues licences to those organisations based in Scotland, although it does so under the same legislation as England and Wales as this aspect of firearms is reserved.
+S0261 The Home Office and Scottish Government have responsibility for these aspects of firearms licensing in order to provide an extra level of assurance, national consistency in decision making and national oversight of the licensing regime, to reflect the increased risk to public safety associated with prohibited weapons and with groups of unlicensed shooters.
+S0262 It is a statutory requirement that these licences are granted by the Government, as opposed to the police.
+S0263 The law as it stands provides no power to charge for prohibited firearms licences and as a result the cost of those licences is entirely subsidised by the public.
+S0264 Other Government licences are subject to fees, but these were last reviewed in 1995 and no longer cover the cost of the service.
+S0265 Figure 1 Firearms Applications per Applications Applications Current Period licences* year (average) - per year (total) fee of Applications (total) ** (Reference: 11)
+S0266 Current fee Period of licence Applications per year (average) - grants and renewals Applications per year (average) - variations 7 20 27 No charge 3 years S5 firearms dealer 196 114 310 No charge 3 years S5 firearms carrier 107 42 149 No charge 3 years Private Maritime 7 20 27 No charge 3 years Security Company Museum 27 5 32 £200 5 years Shooting club 61 117 178 £84 6 years TOTAL 409 297 707 The Policing and Crime Bill introduces a new enabling power allowing fees to be charged for s5 prohibited firearms licences. ** (Reference: 11, 12)
+S0274 The police undertake significant work to assess applicants for Home Office firearms licences.
+S0275 The Home Office commissions police checks which may include background checks on named individuals, interviews, site visits and stock checks.
+S0276 The police therefore incur a cost for the work undertaken on the Home Office’s behalf and currently meet this cost from their own budget.
+S0277 Police Scotland carry out the same work on behalf of the Scottish Government for licences issued there, again meeting the cost from their own budget.
+S0322 Museums and shooting clubs (administered by the Home Offic and Scottish Government) also already pay a fee for their licences.
+S0323 Meanwhile the prohibited firearms licensing service is fully subsidised by the public.
+S0324 There are already powers under the Firearms (Amendment) Act 1988 to charge for museum and shooting club licences.
+S0325 Fees are charged as set out in Figure 1 although these were last reviewed in 1995 and do not cover the full cost of the service.
+S0330 The Home Office firearms licensing service, including prohibited firearms, museums and shooting clubs, will cost an estimated £596,000 in 2016-17, plus an estimated £69,000 in cost to the police (for their role in carrying out checks on applicants). ** (Reference: 21, 22)
+S0331 We estimate the respective costs to the Scottish Government and Police Scotland to be an additional 8% each. This creates an overall cost of £712,000. ** (Reference: 23)
+S0337 The lack of the necessary enabling powers has previously prevented this change being made.
+S0370 Total cost of Section 5 prohibited firearm, museum and shooting club licensing The total cost to England & Wales is made up of £596,000 in costs to the Home Office, and £69,000 in costs to the police, equalling an estimated £665,000 per annum.
+S0371 The total cost to Scotland is made up of £42,000 in costs to the Scottish Government, and £5,000 in costs to Police Scotland, equalling an estimated £47,000 per annum.
+S0372 The total cost to both England & Wales and Scotland is therefore estimated to be £712,000.

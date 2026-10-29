@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Microplastic harm to marine life and ecosystems",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Microbeads as a source of microplastic pollution",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Evidence base from research and inquiry",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Definition and sources of marine litter and microplastics",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

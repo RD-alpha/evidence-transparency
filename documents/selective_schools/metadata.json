@@ -1,0 +1,13 @@
+{
+  "title": "Supporting Selective Schools",
+  "alias": "selective_schools",
+  "uploaded_at": "2026-10-13T11:52:07.412910+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "11:52:07 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "appendix2_date": "12 December 2016",
+  "appendix2_type": "consultation",
+  "source_file": "065_supporting_selective_schools_1_SCHOOLS_THAT_WORK_FOR_EVERYONE_FINAL.PDF",
+  "extraction_note": "Table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

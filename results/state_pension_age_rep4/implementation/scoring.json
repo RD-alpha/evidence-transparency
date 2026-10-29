@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Notice period",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The ten-year notice commitment and its rationale (lines 1-2, 8) are reasoning and policy commitment, with only John Cridland's view (line 6) and the statement that there is no legal requirement offered, and no data or finding on why ten years suffices."
+    },
+    {
+      "theme": "Communications strategy",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The strategy lines describe what a communications strategy 'could' do and cite Cridland's recommendation to communicate directly and via partnerships, but give no evidence that these channels work and no reference."
+    },
+    {
+      "theme": "Wider support package",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Line 13 gives a \u00a350 billion benefit spending figure (Reference: 42, DWP benefit expenditure tables) and refers to Cridland's recommendations and the health and work consultation, but the figure is only loosely linked to the claim and the consultation is not described, so it stays at level 1."
+    },
+    {
+      "theme": "Legislative process and timetable",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The statement that primary legislation is needed describes current rules and the Government Actuary's report is mentioned without any explanation of what it shows or any citation."
+    }
+  ],
+  "reasoning": "The three core themes are Notice period, Communications strategy and Wider support package. Notice period scores 0. The ten-year commitment is asserted, and the document says \"There is no legislative requirement\" for notice, but it offers no evidence on how much time people need to plan. The only grounds are agreement with John Cridland (\"individuals should have sufficient warning\"), which is a named view with no finding behind it. Communications strategy also scores 0. It lists what a strategy \"could\" do, such as using \"Check your State Pension\" and the Pensions Dashboard, and notes that Cridland said good communication is central. Nothing shows these channels reach people or change behaviour, and no reference is given. Wider support package scores 1. It offers a spending figure, \"around \u00a350 billion a year\" on disability and health benefits (Reference: 42, DWP expenditure tables). It also mentions the health and work consultation and Cridland's recommendations. The figure is cited, but it is only loosely tied to the claim about supporting people who cannot work. The consultation is not described, so its use cannot be checked. The mean is (0+0+1)/3, about 0.33, which rounds to 0. The strongest counter-example is the cited \u00a350 billion figure, which could argue for level 1 overall. It is a single data point and does not show why the delivery approach was chosen. To reach level 1 the document would need to say what evidence underlies the ten-year notice period and the communications approach, such as research on how long people need to adjust retirement plans or on which channels work. For level 2 it would also need to cite the Cridland review and consultation findings and link them to the choices.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

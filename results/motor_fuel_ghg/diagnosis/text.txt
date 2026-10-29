@@ -1,0 +1,64 @@
+S0037 1 The transport sector contributes significantly to greenhouse gas emissions – in the UK just under a quarter of all greenhouse gas emissions (23%) come from the transport sector.
+S0038 2 The UK has committed to 80% greenhouse gas emission reductions by 2050.
+S0039 This represents a significant challenge and will require real progress to be made across all areas of the economy, including transport.
+S0040 3 Progress towards the 2050 target is measured through a series of five year Carbon Budgets.
+S0041 Taking into account advice from the independent Committee on Climate Change, the Government develops policies aimed at meeting the Carbon Budgets and the 2050 target, as cost effectively as possible.
+S0042 4 Ambitious action will be required across all sectors of the economy to achieve the 2050 target.
+S0043 In transport, measures that will keep us on a cost-effective pathway to meeting the 2050 target include improvements in the efficiency of vehicles as a result of tighter CO2 limits, promotion of sustainable travel such as walking and cycling and supporting the development of ultra-low emission technologies.
+S0045 Since 2009 the fuel efficiency of the average car has increased by 8%, equivalent to saving around 9 pence per litre in fuel costs for the average motorist.
+S0046 6 The EU Fuel Quality Directive also requires suppliers of fuels for use in road transport and non-road mobile machinery to achieve at least a 6% reduction in life cycle greenhouse gas emissions from the transport fuel they supply by 2020, relative to the EU average life cycle greenhouse gas emissions from fossil fuels in 2010.
+S0090 15 The Government has set the fifth Carbon Budget which limits GHG emissions to 57% of 1990 levels over 2028-2032 (as an average annual level).
+S0092 16 Domestic transport is now the largest emitting sector, accounting for nearly a quarter of UK greenhouse gas emissions.
+S0093 Transport emissions increased in both 2014 and 2015.
+S0094 As demand for travel continues to grow, we need to decarbonise transport more rapidly to meet our future Carbon Budgets.
+S0095 Role of low carbon liquid fuels 17 Increasing vehicle efficiency, including the promotion of ultra-low emission vehicles, is a key plank of Government strategy to reduce carbon emissions.
+S0096 Our aim is for every new car and van to be zero emission by 2040.
+S0098 In the meanwhile, liquid fuels will continue to be required, and even in the longer term, areas such as aviation and heavy goods may continue to be reliant on liquid fuels.
+S0099 18 Figure 1 illustrates the extent of our reliance on liquid fuels for transport.
+S0100 It shows the amount of fuels still needed even if we were able to achieve the aim of all new cars and vans to be zero emission in 2020 rather than 2040.
+S0101 With Government support sales are increasing and we expect ultra-low emission vehicles to be 5% of new car sales by 2020.
+S0103 20 With demand for energy remaining high over the long term, reducing the life cycle emissions of both fossil and renewable fuels is essential.
+S0105 The EU Fuel Quality Directive sets out the reporting requirements and also requires suppliers of fuels for use in road transport and non-road mobile machinery to achieve at least a 6% reduction in life cycle greenhouse gas emissions from the transport fuel they supply by 2020, relative to the EU average life cycle greenhouse gas emissions from fossil fuels in 2010.
+S0145 33 The UK has committed to meet a number of targets regarding reductions in the emissions of greenhouse gases and the increased use of renewable energy sources.
+S0147 • The UK Climate Change Act 2008 **(Link: 6) which requires an 80% saving in GHG emissions (compared to the 1990 baseline) by 2050.
+S0149 The Renewable Energy Directive 2009/28/EC **(Link: 7) as amended (RED), which requires 15% of total energy to be derived from renewable sources by 2020, and includes a sub-target to achieve 10% of renewable energy in transport. ** (Reference: 8)
+S0150 The transport aspects of the RED are implemented in the UK through the Renewable Transport Fuel Obligations Order 2007, as amended, (RTFO).
+S0152 Article 7a of the Fuel Quality Directive 98/70/EC, **(Link: 8) as amended (FQD), which requires a 6% saving in greenhouse gas emissions from transport fuel in 2020.
+S0153 • Directive 2015/652, **(Link: 9) known as the FQD 7a implementing measure, sets the calculation methodology for meeting the FQD's 6% GHG reduction target and reporting requirements regarding fuel supply.
+S0155 The recently published Directive 2015/15 **(Link: 10) (referred to in this consultation as the ILUC Directive) amended both the RED and the FQD and is intended to begin the transition from food crop based fuels towards advanced biofuels produced from wastes and residues. ** (Reference: 11)
+S0156 It is due to be transposed into UK legislation by September 2017.
+S0410 1.5 These negotiations have concluded and Article 7a of the amended FQD requires transport sector fuel suppliers in EU Member States to reduce the average GHG intensity of transport fuels by 6% in 2020.
+S0411 This is relative to a 2010 baseline average transport fuel GHG intensity of 94.1 gCO2/MJ (this has been updated by the FQD
+S0413 This equates to a transport sector GHG reduction of 10. MtCO2e in 2020, and is equivalent to an average GHG intensity of 88.45 gCO2e/MJ across all transport fuels to be delivered by each fuel supplier. ** (Reference: 4)
+S0414 (or a reduction in average transport fuel GHG intensity of 5.6 gCO2/MJ).
+S1061 6.4 In the absence of new measures, towards 2050, aviation GHG emissions are likely to grow significantly, both as a proportion of UK emissions and in absolute terms.
+S1329 1.1 Article 7a of the amended Fuel Quality Directive (FQD) requires transport sector fuel suppliers in EU Member States to reduce the average lifecycle greenhouse gas (GHG) intensity of transport fuels by 6% in 2020 relative to 2010 emissions (which equates to a GHG reduction of 10. MtCO2e per year in 2020). ** (Reference: 28, 31)
+S1384 3.1 Article 7a of the amended FQD requires transport sector fuel suppliers in EU Member States to reduce the average GHG intensity of transport fuels by 6% in 2020 (relative to a 2010 baseline average transport fuel GHG intensity of 94.1 gCO2/MJ). ** (Reference: 30)
+S1385 This equates to a transport sector GHG reduction of 10. MtCO2e in 2020 (or a reduction in average transport fuel GHG intensity of 5.6 gCO2/MJ). ** (Reference: 31)
+S1415 We estimate that changes to the RTFO will deliver 7. MtCO2e of the 10. MtCO2e savings required by the FQD 6% GHG target in 2020. ** (Reference: 31, 35)
+S1431 The key input in determining the potential costs and benefits of implementing a GHG obligation for transport fuels is the gap between the GHG savings required by the GHG target (10. MtCO2e in 2020) and baseline GHG savings which are expected to be delivered by the underlying Renewable Transport Fuel Obligations (RTFO) biofuels blending target. ** (Reference: 31)
+S1432 5.2 In 2018, our best estimate of RTFO GHG savings is 6. MtCO2e. ** (Reference: 29)
+S1433 For options 1b, 2b and 3b there is a 2% GHG target in 2018 which equates to 4. MtCO2e of GHG savings, so the GHG target is met comfortably through biofuels supplied under the RTFO. ** (Reference: 28)
+S1434 5.3 In 2019, our best estimate of RTFO GHG savings is 7 MtCO2e.
+S1435 For options 1b, 2b and 3b there is a 4% GHG target in 2019 which equates to 7. MtCO2e of GHG savings, so it is estimated that an additional 0. MtCO2e would be required to meet the GHG target for these options. ** (Reference: 30)
+S1436 5.4 In 2020, our best estimate of RTFO GHG savings is 7. MtCO2e. ** (Reference: 35)
+S1437 For all options there is a 6% GHG target in 2020 which equates to 10. MtCO2e of GHG savings, so an additional 2. MtCO2e is required to meet the GHG target for these options. ** (Reference: 31, 32)
+S1705 Diesel and petrol (baseline): gCO /MJ 2; 94.1.
+S1706 Diesel (reporting): gCO /MJ 2; 95.1.
+S1707 Petrol (reporting): gCO /MJ 2; 93.3.
+S1709 Diesel (million litres): 29,551; 29,731; 29,724; 29,516.
+S1710 Petrol (million litres): 14,875; 14,316; 13,777; 13,334.
+S1711 NRMM (million litres): 5,214; 5,214; 5,214; 5,214.
+S1713 (average) 2: 94.59; 94.61; 94.62; 94.63.
+S1715 (target) 2: 88.45; 88.45; 88.45; 88.45.
+S1716 6% FQD Target (MtCO e) 2: 10.6; 10.6; 10.5; 10.4.
+S1718 Diesel (million litres): 28,202; 28,112; 27,869; 27,401.
+S1719 Petrol (million litres): 14,181; 13,588; 13,024; 12,553.
+S1720 NRMM (million litres): 5,214; 5,214; 5,214; 5,214.
+S1721 Biodiesel (million litres): 1,029; 1,295; 1,550; 1,829.
+S1722 Ethanol (million litres): 768; 819; 869; 920.
+S1723 Methanol (million litres): 38; 38; 38; 38.
+S1724 Biomethane (million kgs): 9; 12; 15; 18.
+S1726 (average) 2: 91.59; 91.02; 90.50; 89.95.
+S1728 (target) 2: 88.45; 88.45; 88.45; 88.45.
+S1729 GHG saving shortfall relative to 6% FQD target (MtCO e) 2: 5.4; 4.4; 3.5; 2.5.

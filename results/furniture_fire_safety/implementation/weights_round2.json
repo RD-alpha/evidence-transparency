@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Testing Routes and Compliance Pathways",
+      "reason": "This theme lays out the actual mechanism by which compliance will be delivered—the different routes manufacturers can follow—which is the core of how the new regime will be rolled out in practice; without it there is no concrete account of the implementation method.",
+      "weight": "core"
+    },
+    {
+      "theme": "Product Scope and Exclusions",
+      "reason": "This addresses which products are covered by the regulations, a scope question that bears on the overall policy but does not itself describe how the chosen intervention is delivered or rolled out.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Cost Analysis and Economic Impact",
+      "reason": "This directly addresses the should-explain point of what costs and benefits are estimated and the assumptions behind them, providing the economic justification for the chosen implementation approach (e.g. transition length, route choices).",
+      "weight": "core"
+    },
+    {
+      "theme": "Transition Period and Implementation Timeline",
+      "reason": "This explains the chosen rollout timeline and the reasoning (based on stakeholder feedback and cost trade-offs) for the 24-month transition, directly answering how the intervention will be phased in.",
+      "weight": "core"
+    },
+    {
+      "theme": "Record Keeping and Traceability Requirements",
+      "reason": "This details specific administrative data requirements that follow from the regulations but is a secondary implementation detail rather than a support the overall rollout argument depends on.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Consultation and Evidence Testing",
+      "reason": "This theme explicitly addresses the should-explain point of what method is used to decide aspects of implementation still unresolved (e.g. protective cover test, scope exclusions), making it a necessary support for the argument that open questions will be settled through a defined process.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enforcement and Legislation",
+      "reason": "This covers legal/administrative mechanics such as prosecution timeframes and revoking/replacing regulations, which are background procedural details rather than core justification for the implementation approach.",
+      "weight": "not core"
+    }
+  ]
+}

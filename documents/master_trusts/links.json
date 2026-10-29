@@ -1,0 +1,82 @@
+[
+  {
+    "number": "1",
+    "url": "http://www.thepensionsregulator.gov.uk/trustees.aspx",
+    "text": "The Pension Regulator",
+    "source_alias": "master_trusts_press_release",
+    "source_title": "Master Trusts Press Release",
+    "source_number": "1"
+  },
+  {
+    "number": "2",
+    "url": "http://www.twitter.com/dwppressoffice",
+    "text": "www.twitter.com/dwppressoffice",
+    "source_alias": "master_trusts_press_release",
+    "source_title": "Master Trusts Press Release",
+    "source_number": "2"
+  },
+  {
+    "number": "3",
+    "url": "http://www.facebook.com/dwp",
+    "text": "www.facebook.com/dwp",
+    "source_alias": "master_trusts_press_release",
+    "source_title": "Master Trusts Press Release",
+    "source_number": "3"
+  },
+  {
+    "number": "4",
+    "url": "http://www.linkedin.com/company/dwp",
+    "text": "www.linkedin.com/company/dwp",
+    "source_alias": "master_trusts_press_release",
+    "source_title": "Master Trusts Press Release",
+    "source_number": "4"
+  },
+  {
+    "number": "5",
+    "url": "http://www.youtube.com/dwp",
+    "text": "www.youtube.com/dwp",
+    "source_alias": "master_trusts_press_release",
+    "source_title": "Master Trusts Press Release",
+    "source_number": "5"
+  },
+  {
+    "number": "6",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/494298/impact-assessment--banning_member-borne_commission-in-ae-schemes.pdf",
+    "text": "Impact Assessment: Banning member borne commission occupational pension ",
+    "source_alias": "master_trusts_notes",
+    "source_title": "Pension Schemes Bill Explanatory Notes",
+    "source_number": "1"
+  },
+  {
+    "number": "7",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/494298/impact-assessment--banning_member-borne_commission-in-ae-schemes.pdf",
+    "text": "schemes used for Automatic Enrolment",
+    "source_alias": "master_trusts_notes",
+    "source_title": "Pension Schemes Bill Explanatory Notes",
+    "source_number": "2"
+  },
+  {
+    "number": "8",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/525859/impact-assessment-cap-on-early-exit-charges-in-trust-based-occupational-pension-schemes.pdf",
+    "text": "Impact Assessment: Cap on early exit charges in trust based occupational ",
+    "source_alias": "master_trusts_notes",
+    "source_title": "Pension Schemes Bill Explanatory Notes",
+    "source_number": "3"
+  },
+  {
+    "number": "9",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/525859/impact-assessment-cap-on-early-exit-charges-in-trust-based-occupational-pension-schemes.pdf",
+    "text": "pension schemes",
+    "source_alias": "master_trusts_notes",
+    "source_title": "Pension Schemes Bill Explanatory Notes",
+    "source_number": "4"
+  },
+  {
+    "number": "10",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/526134/occ-pen-exit-charges-ad-hoc-analysis.pdf",
+    "text": "Additional Analysis on capping occupational pension scheme exit charges",
+    "source_alias": "master_trusts_notes",
+    "source_title": "Pension Schemes Bill Explanatory Notes",
+    "source_number": "5"
+  }
+]

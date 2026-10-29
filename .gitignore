@@ -1,0 +1,13 @@
+web_app/data/sessions
+web_app/data/annotations
+web_app/data/reviews
+web_app/logs/
+__pycache__/
+*.pyc
+# Secrets
+.env
+
+# OS / tooling noise
+.DS_Store
+.pytest_cache/
+.venv/

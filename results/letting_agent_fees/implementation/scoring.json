@@ -1,0 +1,52 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Local authority/Trading Standards enforcement, strengthened by a lead authority and data sharing",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The detailed description of NTSEAT's existing powers and role in the Estate Agent sector is used as a comparable-policy rationale for a lettings lead authority, but it is uncited and its effectiveness is not assessed."
+    },
+    {
+      "theme": "Tenant empowerment and education as an enforcement mechanism",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that 'tenant empowerment and education has helped to improve compliance... for example, deposit protection' is explained with the mechanics of the deposit-protection county court remedy but carries no citation or outcome data."
+    },
+    {
+      "theme": "Penalty regime for non-compliance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The existing \u00a35,000 redress/transparency penalty and the \u00a330,000 Housing and Planning Act 2016 banning-order penalty are used as precedents to justify a higher deterrent fine, but neither is cited nor assessed for actual deterrent effect."
+    },
+    {
+      "theme": "Defining permitted exceptions to make the ban workable",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims about holding deposits preventing discrimination and reducing agent/landlord risk are asserted without any statistic, finding or named source."
+    },
+    {
+      "theme": "Premium market and bespoke services",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Purely descriptive and exploratory statements with no supporting evidence offered."
+    },
+    {
+      "theme": "Tenant choice and protections",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes a policy stance (tenant passports) with no evidence given for its rationale or effect."
+    },
+    {
+      "theme": "Legislative framework and compliance",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Asserts benefits of wider regulation ('would more consistently improve standards') with no data, research or named source behind the claim."
+    }
+  ],
+  "reasoning": "The four core themes on implementation each gesture at evidence but never cite it. The enforcement theme leans on the Estate Agent sector's NTSEAT model, describing its powers in detail as a template for a lead authority, but gives no outcome data and no reference, so it sits at level 1. The tenant empowerment theme similarly points to deposit protection as a precedent ('Tenant empowerment and education has helped to improve compliance in other areas of the sector, for example, deposit protection') and explains the county-court mechanism, again uncited, so level 1. The penalty theme uses the existing \u00a35,000 redress penalty and the \u00a330,000 Housing and Planning Act 2016 banning-order penalty as benchmarks for a new fine level, reasoning by analogy but without citation or assessment of deterrent effectiveness, also level 1. The exceptions theme (holding deposits, tenant-caused charges) offers no evidence at all for its design choices, only assertions about discrimination risk, scoring 0. The mean of 1, 1, 1, 0 is 0.75, which rounds down to 1. The strongest counter-example against a higher score is the NTSEAT comparison, which is the closest thing to a 'comparable policy elsewhere', yet even this lacks a reference number, outcome statistics, or any acknowledgement of its limits. To reach level 2, the document would need to cite sources for these precedents (e.g. link the Housing and Planning Act provisions, reference NTSEAT performance data) and show explicitly how that evidence supports the specific choices made (penalty level, lead authority remit, holding-deposit cap).",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

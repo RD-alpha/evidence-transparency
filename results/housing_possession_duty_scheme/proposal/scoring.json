@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Consolidation into fewer, larger schemes",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only figures are the reduction from 117 schemes in 2015/16 to 48 and the 60% share of 'large' schemes (over 600 acts of assistance), which describe the proposal; the benefit claims (sustainability, economies of scale, value for the taxpayer) are asserted with 'should' and 'we hope', with no source or reference."
+    },
+    {
+      "theme": "Competitive tendering on price and quality",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Every line is reasoning or assertion (e.g. 'introduces an objective element', 'will allow rates to be set closer to the cost', 'In our opinion') with no statistic, finding, citation or primary evidence behind it."
+    },
+    {
+      "theme": "Scope and purpose of the new procurement model",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The line 'Studies have shown that the schemes add significant value...' (Reference: 2) cites a study but the reference text is empty, so the source cannot be found; the other lines only describe the scope."
+    },
+    {
+      "theme": "Impact on service users and businesses",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The Impact Assessment is the department's own analysis and its conclusions are stated ('not likely to be particularly affected', 'unlikely to lead to significant additional costs or savings'), but the method, assumptions and figures are not given and no reference is supplied."
+    }
+  ],
+  "reasoning": "The two core themes are consolidation into fewer, larger schemes and competitive tendering on price and quality. Consolidation reaches level 1. The only evidence is the scheme count, 'from 117 schemes in 2015/16 to 48', and the point that 'large' schemes (over 600 acts of assistance) will make up 60% of proposed schemes. These figures describe the proposal. They are not evidence that larger contracts will be more sustainable or efficient. The benefits are hedged as 'should provide' and 'we hope', and no reference or link is provided. Competitive tendering reaches level 0. Its case is argument throughout, for example 'The inclusion of price in a tender process introduces an objective element' and 'In our opinion, the nature of HPCDS work... lends itself to be competitively tendered'. It names no data, research, consultation responses or experience of comparable tenders. The mean of the core levels is 0.5, which rounds to 0 under the halfway rule. The strongest counter-example is the consolidation theme, where the scheme numbers give some factual basis. The 'Studies have shown' line (Reference: 2) is also an uncited-in-practice pointer: the reference text is blank, and it concerns the value of the schemes, not the chosen model. To reach level 1, the document would need to offer evidence on provider sustainability, the cost of small contracts, or the effects of price competition. To reach level 2, it would need to cite it properly. Level 3 would require assessing weaknesses and uncertainties in that evidence.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.5,
+  "score_consistent": true,
+  "missing_core": []
+}

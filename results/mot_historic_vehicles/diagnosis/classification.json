@@ -1,0 +1,63 @@
+{
+  "themes": [
+    {
+      "name": "EU Directive conflicts with GB exemption",
+      "ids": [
+        "S0021",
+        "S0023",
+        "S0037",
+        "S0043",
+        "S0044",
+        "S0084",
+        "S0085",
+        "S0086",
+        "S0088",
+        "S0171",
+        "S0172",
+        "S0173",
+        "S0174",
+        "S0175",
+        "S0350",
+        "S0358",
+        "S0359",
+        "S0360",
+        "S0372",
+        "S0374"
+      ]
+    },
+    {
+      "name": "Road safety risk of older vehicles",
+      "ids": [
+        "S0019",
+        "S0020",
+        "S0076",
+        "S0078",
+        "S0079",
+        "S0352",
+        "S0353"
+      ]
+    },
+    {
+      "name": "Exemption only for genuinely original vehicles",
+      "ids": [
+        "S0045",
+        "S0046"
+      ]
+    },
+    {
+      "name": "Legal framework for vehicle testing",
+      "ids": [
+        "S0077",
+        "S0351",
+        "S0361",
+        "S0362"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": [
+        "S0373"
+      ]
+    }
+  ]
+}

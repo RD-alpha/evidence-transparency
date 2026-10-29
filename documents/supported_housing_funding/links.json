@@ -1,0 +1,522 @@
+[
+  {
+    "number": "1",
+    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "text": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "source_alias": "sh_src_1",
+    "source_title": "New funding model for supported housing (source 1)",
+    "source_number": "1"
+  },
+  {
+    "number": "2",
+    "url": "mailto:psi@nationalarchives.gsi.gov.uk",
+    "text": "psi@nationalarchives.gsi.gov.uk",
+    "source_alias": "sh_src_1",
+    "source_title": "New funding model for supported housing (source 1)",
+    "source_number": "2"
+  },
+  {
+    "number": "3",
+    "url": "http://www.gov.uk/dclg",
+    "text": "www.gov.uk/dclg",
+    "source_alias": "sh_src_1",
+    "source_title": "New funding model for supported housing (source 1)",
+    "source_number": "3"
+  },
+  {
+    "number": "4",
+    "url": "http://forms.communities.gov.uk/",
+    "text": "http://forms.communities.gov.uk/",
+    "source_alias": "sh_src_1",
+    "source_title": "New funding model for supported housing (source 1)",
+    "source_number": "4"
+  },
+  {
+    "number": "5",
+    "url": "https://twitter.com/CommunitiesUK",
+    "text": "https://twitter.com/CommunitiesUK",
+    "source_alias": "sh_src_1",
+    "source_title": "New funding model for supported housing (source 1)",
+    "source_number": "5"
+  },
+  {
+    "number": "6",
+    "url": "https://www.gov.uk/government/publications/domestic-abuse-fund-prospectus",
+    "text": "https://www.gov.uk/government/publications/domestic-",
+    "source_alias": "sh_src_1",
+    "source_title": "New funding model for supported housing (source 1)",
+    "source_number": "6"
+  },
+  {
+    "number": "7",
+    "url": "https://www.gov.uk/government/publications/domestic-abuse-fund-prospectus",
+    "text": "abuse-fund-prospectus",
+    "source_alias": "sh_src_1",
+    "source_title": "New funding model for supported housing (source 1)",
+    "source_number": "7"
+  },
+  {
+    "number": "8",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299267/a8-2014.pdf",
+    "text": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "1"
+  },
+  {
+    "number": "9",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299267/a8-2014.pdf",
+    "text": "file/299267/a8-2014.pdf",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "2"
+  },
+  {
+    "number": "10",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299267/a8-2014.pdf",
+    "text": "https://www.gov.uk/",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "3"
+  },
+  {
+    "number": "11",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299267/a8-2014.pdf",
+    "text": "government/uploads/system/uploads/attachment_data/file/299267/a8-2014.pdf",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "4"
+  },
+  {
+    "number": "12",
+    "url": "http://webarchive.nationalarchives.gov.uk/20160105160709/",
+    "text": "http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "5"
+  },
+  {
+    "number": "13",
+    "url": "http://www.ons.gov.uk/ons/dcp171766_373513.pdf",
+    "text": "dcp171766_373513.pdf",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "6"
+  },
+  {
+    "number": "14",
+    "url": "http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/dcp171766_373513.pdf",
+    "text": "http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "7"
+  },
+  {
+    "number": "15",
+    "url": "http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/dcp171766_373513.pdf",
+    "text": "ons.gov.uk/ons/dcp171766_373513.pdf",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "8"
+  },
+  {
+    "number": "16",
+    "url": "https://www.jrf.org.uk/report/supported-housing-older-people-uk-evidence-review",
+    "text": "https://www.jrf.org.uk/report/supported-housing-older-people-uk-",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "9"
+  },
+  {
+    "number": "17",
+    "url": "https://www.jrf.org.uk/report/supported-housing-older-people-uk-evidence-review",
+    "text": "evidence-review",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "10"
+  },
+  {
+    "number": "18",
+    "url": "https://core.communities.gov.uk/",
+    "text": "https://core.communities.gov.uk/",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "11"
+  },
+  {
+    "number": "19",
+    "url": "https://www.gov.uk/government/statistics/benefit-expenditure-and-caseload-tables-2015",
+    "text": "https://www.gov.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "12"
+  },
+  {
+    "number": "20",
+    "url": "https://www.gov.uk/government/statistics/benefit-expenditure-and-caseload-tables-2015",
+    "text": "uk/government/statistics/benefit-expenditure-and-caseload-tables-2015",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "13"
+  },
+  {
+    "number": "21",
+    "url": "http://budgetresponsibility.org.uk/docs/dlm_uploads/Welfare_trends_report_2014_dn2B.pdf",
+    "text": "http://budgetresponsibility.org.uk/",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "14"
+  },
+  {
+    "number": "22",
+    "url": "http://budgetresponsibility.org.uk/docs/dlm_uploads/Welfare_trends_report_2014_dn2B.pdf",
+    "text": "docs/dlm_uploads/Welfare_trends_report_2014_dn2B.pdf",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "15"
+  },
+  {
+    "number": "23",
+    "url": "http://www.adass.org.uk/uploadedFiles/adass_content/policy_networks/resources/Key_documents/ADASS%20Budget%20Survey%202015%20Report%20FINAL.pdf",
+    "text": "http://www.adass.org.uk/",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "16"
+  },
+  {
+    "number": "24",
+    "url": "http://www.adass.org.uk/uploadedFiles/adass_content/policy_networks/resources/Key_documents/ADASS%20Budget%20Survey%202015%20Report%20FINAL.pdf",
+    "text": "uploadedFiles/adass_content/policy_networks/resources/Key_documents/ADASS%20",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "17"
+  },
+  {
+    "number": "25",
+    "url": "http://www.adass.org.uk/uploadedFiles/adass_content/policy_networks/resources/Key_documents/ADASS%20Budget%20Survey%202015%20Report%20FINAL.pdf",
+    "text": "Budget%20Survey%202015%20Report%20FINAL.pdf",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "18"
+  },
+  {
+    "number": "26",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/503015/Rough_Sleeping_Autumn_2015_statistical_release.pdf",
+    "text": "https://www.gov.uk/government/uploads/system/",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "19"
+  },
+  {
+    "number": "27",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/503015/Rough_Sleeping_Autumn_2015_statistical_release.pdf",
+    "text": "uploads/attachment_data/file/503015/Rough_Sleeping_Autumn_2015_statistical_",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "20"
+  },
+  {
+    "number": "28",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/503015/Rough_Sleeping_Autumn_2015_statistical_release.pdf",
+    "text": "release.pdf",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "21"
+  },
+  {
+    "number": "29",
+    "url": "http://www.housinglin.org.uk/_library/Resources/Housing/Practice_examples/Housing_LIN_case_studies/HLIN_CaseStudy95_HazelCourt.pdf",
+    "text": "http://www.housinglin.org.uk/_library/Resources/Housing/Practice_examples/",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "22"
+  },
+  {
+    "number": "30",
+    "url": "http://www.housinglin.org.uk/_library/Resources/Housing/Practice_examples/Housing_LIN_case_studies/HLIN_CaseStudy95_HazelCourt.pdf",
+    "text": "Housing_LIN_case_studies/HLIN_CaseStudy95_HazelCourt.pdf",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "23"
+  },
+  {
+    "number": "31",
+    "url": "http://webarchive.nationalarchives.gov.uk/20160105160709/",
+    "text": "http://webarchive.nationalarchives.gov.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "24"
+  },
+  {
+    "number": "32",
+    "url": "http://www.ons.gov.uk/ons/guide-method/geography/products/area-classifications/national-statistics-area-classifications/national-statistics-2011-area-classifications/index.html",
+    "text": "uk/20160105160709/http://www.ons.gov.uk/ons/guide-method/geography/products/",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "25"
+  },
+  {
+    "number": "33",
+    "url": "http://www.ons.gov.uk/ons/guide-method/geography/products/area-classifications/national-statistics-area-classifications/national-statistics-2011-area-classifications/index.html",
+    "text": "area-classifications/national-statistics-area-classifications/national-statistics-2011-area-",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "26"
+  },
+  {
+    "number": "34",
+    "url": "http://www.ons.gov.uk/ons/guide-method/geography/products/area-classifications/national-statistics-area-classifications/national-statistics-2011-area-classifications/index.html",
+    "text": "classifications/index.html",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "27"
+  },
+  {
+    "number": "35",
+    "url": "https://core.communities.gov.uk/public/index.html",
+    "text": "https://core.communities.gov.uk/public/index.html",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "28"
+  },
+  {
+    "number": "36",
+    "url": "https://www.gov.uk/government/collections/statistical-data-return-statistical-releases",
+    "text": "https://www.gov.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "29"
+  },
+  {
+    "number": "37",
+    "url": "https://www.gov.uk/government/collections/statistical-data-return-statistical-releases",
+    "text": "uk/government/collections/statistical-data-return-statistical-releases",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "30"
+  },
+  {
+    "number": "38",
+    "url": "http://www.womensaid.org.uk/page.asp?section=00010001000600090001&sectionTitle=About+UKROL",
+    "text": "http://www.womensaid.org.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "31"
+  },
+  {
+    "number": "39",
+    "url": "http://www.womensaid.org.uk/page.asp?section=00010001000600090001&sectionTitle=About+UKROL",
+    "text": "uk/page.asp?section=00010001000600090001&sectionTitle=About+UKROL",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "32"
+  },
+  {
+    "number": "40",
+    "url": "https://statswales.wales.gov.uk/Catalogue/Housing/Social-Housing-Stock-and-Rents/selfcontainedstockatsocialrent-by-year-providertype-accommodation",
+    "text": "https://statswales.wales.gov.uk/",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "33"
+  },
+  {
+    "number": "41",
+    "url": "https://statswales.wales.gov.uk/Catalogue/Housing/Social-Housing-Stock-and-Rents/selfcontainedstockatsocialrent-by-year-providertype-accommodation",
+    "text": "Catalogue/Housing/Social-Housing-Stock-and-Rents/selfcontainedstockatsocialrent-by-",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "34"
+  },
+  {
+    "number": "42",
+    "url": "https://statswales.wales.gov.uk/Catalogue/Housing/Social-Housing-Stock-and-Rents/selfcontainedstockatsocialrent-by-year-providertype-accommodation",
+    "text": "year-providertype-accommodation",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "35"
+  },
+  {
+    "number": "43",
+    "url": "http://www.gov.scot/Topics/Statistics/Browse/Housing-Regeneration/HSfS/SpecialNeeds",
+    "text": "http://www.gov.scot/Topics/Statistics/",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "36"
+  },
+  {
+    "number": "44",
+    "url": "http://www.gov.scot/Topics/Statistics/Browse/Housing-Regeneration/HSfS/SpecialNeeds",
+    "text": "Browse/Housing-Regeneration/HSfS/SpecialNeeds",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "37"
+  },
+  {
+    "number": "45",
+    "url": "https://statswales.gov.wales/Catalogue/Housing/Social-Housing-Stock-and-Rents/totalstockatsocialrent-by-area-accommodationtype",
+    "text": "(https://statswales.gov.wales/Catalogue/Housing/Social-",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "38"
+  },
+  {
+    "number": "46",
+    "url": "https://statswales.gov.wales/Catalogue/Housing/Social-Housing-Stock-and-Rents/totalstockatsocialrent-by-area-accommodationtype",
+    "text": "Housing-Stock-and-Rents/totalstockatsocialrent-by-area-accommodationtype)",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "39"
+  },
+  {
+    "number": "47",
+    "url": "https://www.scottishhousingregulator.gov.uk/",
+    "text": "https://www.scottishhousingregulator.gov.uk/",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "40"
+  },
+  {
+    "number": "48",
+    "url": "https://www.scottishhousingregulator.gov.uk/",
+    "text": "https://www.scottishhousingregulator.gov.uk/",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "41"
+  },
+  {
+    "number": "49",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/344438/240114_supplementary_information_concerning_housing_provision_for_older_and_vulnerable_people.pdf",
+    "text": "https://www.gov.uk/government/uploads/system/",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "42"
+  },
+  {
+    "number": "50",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/344438/240114_supplementary_information_concerning_housing_provision_for_older_and_vulnerable_people.pdf",
+    "text": "uploads/attachment_data/file/344438/240114_supplementary_information_concerning_",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "43"
+  },
+  {
+    "number": "51",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/344438/240114_supplementary_information_concerning_housing_provision_for_older_and_vulnerable_people.pdf",
+    "text": "housing_provision_for_older_and_vulnerable_people.pdf",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "44"
+  },
+  {
+    "number": "52",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/419271/Rent_Standard_Guidance_2015.pdf",
+    "text": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/419271/",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "45"
+  },
+  {
+    "number": "53",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/419271/Rent_Standard_Guidance_2015.pdf",
+    "text": "Rent_Standard_Guidance_2015.pdf",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "46"
+  },
+  {
+    "number": "54",
+    "url": "http://www.gov.scot/Resource/Doc/349567/0116840.pdf",
+    "text": "http://www.gov.scot/Resource/Doc/349567/0116840.pdf",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "47"
+  },
+  {
+    "number": "55",
+    "url": "http://gov.wales/docs/desh/publications/130607sppgrantguideen.pdf",
+    "text": "http://gov.wales/docs/desh/publications/130607sppgrantguide",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "48"
+  },
+  {
+    "number": "56",
+    "url": "http://gov.wales/docs/desh/publications/130607sppgrantguideen.pdf",
+    "text": "en.pdf",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "49"
+  },
+  {
+    "number": "57",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299267/a8-2014.pdf",
+    "text": "https://www.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "50"
+  },
+  {
+    "number": "58",
+    "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/299267/a8-2014.pdf",
+    "text": "gov.uk/government/uploads/system/uploads/attachment_data/file/299267/a8-2014.pdf",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "51"
+  },
+  {
+    "number": "59",
+    "url": "https://www.gov.uk/government/organisations/department-for-work-pensions/\nabout/research#research-publications",
+    "text": "https://www.gov.uk/government/organisations/department-for-work-pensions/",
+    "source_alias": "sh_src_3",
+    "source_title": "New funding model for supported housing (source 3)",
+    "source_number": "1"
+  },
+  {
+    "number": "60",
+    "url": "https://www.gov.uk/government/organisations/department-for-work-pensions/\nabout/research#research-publications",
+    "text": "about/research#research-publications",
+    "source_alias": "sh_src_3",
+    "source_title": "New funding model for supported housing (source 3)",
+    "source_number": "2"
+  },
+  {
+    "number": "61",
+    "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/",
+    "text": "http://www.nationalarchives.gov.uk/doc/open-government-licence/",
+    "source_alias": "sh_src_3",
+    "source_title": "New funding model for supported housing (source 3)",
+    "source_number": "3"
+  },
+  {
+    "number": "62",
+    "url": "mailto:psi%40nationalarchives.gsi.gov.uk?subject=",
+    "text": "psi@nationalarchives.gsi.gov.uk",
+    "source_alias": "sh_src_3",
+    "source_title": "New funding model for supported housing (source 3)",
+    "source_number": "4"
+  },
+  {
+    "number": "63",
+    "url": "https://www.gov.uk/government/organisations/department-for-work-pensions/about/research#research-publications",
+    "text": "https://www.gov.uk/government/organisations/",
+    "source_alias": "sh_src_3",
+    "source_title": "New funding model for supported housing (source 3)",
+    "source_number": "5"
+  },
+  {
+    "number": "64",
+    "url": "https://www.gov.uk/government/organisations/department-for-work-pensions/about/research#research-publications",
+    "text": "department-for-work-pensions/about/research#research-publications",
+    "source_alias": "sh_src_3",
+    "source_title": "New funding model for supported housing (source 3)",
+    "source_number": "6"
+  },
+  {
+    "number": "65",
+    "url": "mailto:Socialresearch%40dwp.gsi.gov.uk?subject=",
+    "text": "Socialresearch@dwp.gsi.gov.uk",
+    "source_alias": "sh_src_3",
+    "source_title": "New funding model for supported housing (source 3)",
+    "source_number": "7"
+  }
+]

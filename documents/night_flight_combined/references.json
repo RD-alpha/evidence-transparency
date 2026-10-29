@@ -1,0 +1,793 @@
+[
+  {
+    "number": "1",
+    "text": "Night flight restrictions at Heathrow, Gatwick and Stansted: consultation document, https://www.gov.uk/government/consultations/night-flight-restrictions-at-gatwick-heathrow-and-stansted",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "1"
+  },
+  {
+    "number": "2",
+    "text": "As measured down to 45dbB LAeq 6.5hr using the Department for Transport's webTAG methodology. It is not currently possible to robustly value health and annoyance impacts associated with night noise. WebTAG is regularly assessed to ensure the evidence base and methodologies are up to date. We will monitor this area to ensure any changes in webTAG are reflected in this indicator.",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "2"
+  },
+  {
+    "number": "3",
+    "text": "On 2 February 2017 the government launched a consultation on the Draft Airports National Policy Statement which set out the need for additional airport capacity in the south-east of England, why government believes that need is best met by a Northwest runway at Heathrow Airport and the specific requirements that the applicant for a new Northwest runway will need to meet to gain development consent - including the government's expectation of a ban of six and a half hours on scheduled night flights. The consultation closed on 25 May and responses to it are being analysed.",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "3"
+  },
+  {
+    "number": "4",
+    "text": "Airports Commission (2015) Final Report, https://www.gov.uk/government/publications/airports-commission-final-report",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "4"
+  },
+  {
+    "number": "5",
+    "text": "Night Flying Restrictions at. Heathrow, Gatwick and Stansted. Stage 1 of Consultation on Restrictions to apply from 30 October 2005. July 2004.",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "5"
+  },
+  {
+    "number": "6",
+    "text": "Airports Commission final report",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "6"
+  },
+  {
+    "number": "7",
+    "text": "National Noise Incidence Study 2000/2001 randd.defra.gov.uk/Document.aspx?Document=10281_206345f.pdf",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "7"
+  },
+  {
+    "number": "8",
+    "text": "This excluded noise levels below 45dB Lnight because it was deemed ‘the assessment of those noise levels was relatively inaccurate and other sources may be more important in situations with these low levels’",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "8"
+  },
+  {
+    "number": "9",
+    "text": "On 2 February 2017, the government published its UK Airspace Policy consultation which included proposals for the appointment of competent authorities to oversee the process for adopting operating restrictions (such as night flight restrictions). The consultation closed on 25 May and we are analysing the responses received to it.",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "9"
+  },
+  {
+    "number": "10",
+    "text": "The assessment of sleep disturbance will follow webTAG noise appraisal guidance. Whilst it is acknowledged that aviation night noise can affect amenity and health there is currently no approved methodology for valuing these impacts on a consistent basis during the night period. WebTAG is regularly assessed to ensure the evidence base and methodologies are up to date. We will monitor this area and update the performance indicator as appropriate.",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "10"
+  },
+  {
+    "number": "11",
+    "text": "See UK Airspace Policy consultation",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "11"
+  },
+  {
+    "number": "12",
+    "text": "http://www.london-luton.co.uk/CMSPages/GetFile.aspx?guid=e7def248-7bcf-4425-b49c-aaf4e4234f98",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "12"
+  },
+  {
+    "number": "13",
+    "text": "http://mediacentre.stanstedairport.com/london-stansted-announces-local-community-consultation-on-making-best-use-of-existing- capacity/",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "13"
+  },
+  {
+    "number": "14",
+    "text": "Rules on the introduction of operating restrictions are set out under Regulation (EU) 598/2014. The government has committed to preserving EU regulations in domestic law so that people have certainty and stability about the rules that will apply when we leave the EU. Once the UK has left the EU though, the future development of legislation will be a matter for Parliament",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "14"
+  },
+  {
+    "number": "15",
+    "text": "World Health Organisation (1999) WHO Guidelines for Community Noise, http://www.who.int/docstore/peh/noise/guidelines2.html",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "15"
+  },
+  {
+    "number": "16",
+    "text": "For noise certification purposes, a light propeller-driven aircraft is defined as an aircraft with a maximum certificated take-off weight not exceeding 8,618 kg. Examples of light prop aircraft in current use at the London airports include the Beechcraft King Air and Diamond DA42.",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "16"
+  },
+  {
+    "number": "17",
+    "text": "There is no formal process for classifying these types of aircraft. The reason for this is twofold. Firstly, the noise certification levels of these aircraft can differ due to the different test demonstration procedures required by the older ICAO Chapter 6 and current Chapter 10 standards, and this can alter the assigned QC classification. Secondly, the Chapter 6 and Chapter 10 noise levels are Lmax values measured in A-weighted decibels (dBA) whereas the metric used for the QC classification scheme is Effective Perceived Noise Decibels (EPNdB), since it was designed to be compatible with the Chapter 3 noise standard that applies to jet and large propeller-driven aircraft (which is measured in EPNdB). There is no straightforward way of accounting for both of these factors and although the CAA has to date taken a pragmatic approach and based the classifications for light props on their unadjusted dBA levels, this can lead to inconsistent classifications",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "17"
+  },
+  {
+    "number": "18",
+    "text": "Heathrow Noise Action Plan http://www.heathrow.com/noise/making-heathrow-quieter/noise-action-plan Gatwick Noise Action Plan https://www.gatwickairport.com/globalassets/publicationfiles/business_and_community/all_public_publications/aircraft_noise/gatwick- airport-limited-end-noise-action-plan-2013---2018-adopted.pdf Stansted Noise Action Plan http://mag-umbraco-media-live.s3.amazonaws.com/1098/noise-strategy-and-action-plan-2014.pdf",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "18"
+  },
+  {
+    "number": "19",
+    "text": "http://www.heathrow.com/file_source/HeathrowNoise/Static/Heathrow_Noise_Action_Plan_Contours_2015.pdf",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "19"
+  },
+  {
+    "number": "20",
+    "text": "http://www.heathrow.com/noise/making-heathrow-quieter/our-noise-strategy/blueprint-for-noise-reduction",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "20"
+  },
+  {
+    "number": "21",
+    "text": "http://www.gatwickairport.com/globalassets/publicationfiles/business_and_community/all_public_publications/2016/gatwick--- response-document-action-plan-final-31mar2016.pdf",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "21"
+  },
+  {
+    "number": "22",
+    "text": "https://www.gov.uk/government/publications/draft-airports-national-policy-statement",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "22"
+  },
+  {
+    "number": "23",
+    "text": "https://www.gov.uk/government/publications/webtag-tag-unit-a3-environmental-impact-appraisal-december-2015",
+    "source_alias": "night_flight_decision",
+    "source_title": "Night Flight Decision",
+    "source_number": "23"
+  },
+  {
+    "number": "24",
+    "text": "DfT  'Aviation Policy Framework', 2013 https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/153776/aviation-policy-framework.pdf",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "1"
+  },
+  {
+    "number": "25",
+    "text": "Effective Perceived Noise level in decibels",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "2"
+  },
+  {
+    "number": "26",
+    "text": "New Regulations concerning the introduction of operating restrictions (Regulation (EU) 598/2014) apply from 13 June 2016 where consultation on those restrictions began after this date.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "3"
+  },
+  {
+    "number": "27",
+    "text": "Airports Commission. Final Report (2015).",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "4"
+  },
+  {
+    "number": "28",
+    "text": "EPNdB; Effective Perceived Noise Decibels. A specialised noise unit used for aircraft noise certification tests. Figures based on average of flyover and sideline for departures, and after 9 EPNdB subtraction from approach value.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "5"
+  },
+  {
+    "number": "29",
+    "text": "Ollerhead J B et al, Report of a Field Study of Aircraft Noise and Sleep Disturbance, Department of Transport, December 1992.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "6"
+  },
+  {
+    "number": "30",
+    "text": "Lmax; The maximum A-weighted sound level (in dBA) measured during an aircraft flyby",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "7"
+  },
+  {
+    "number": "31",
+    "text": "Survey of attitudes to aviation noise. SONA Analysis completed for Department for Transport, 2017. Available at https://www.gov.uk/government/publications/survey-of-attitudes-to-aviation-noise",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "8"
+  },
+  {
+    "number": "32",
+    "text": "World Health Organisation. WHO Guidelines for Community Noise, 1999. http://www.who.int/docstore/peh/noise/guidelines2.html",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "9"
+  },
+  {
+    "number": "33",
+    "text": "dBA; A-weighted decibels. Unit of sound pressure level measured on the A-weighted scale i.e. as measured on an instrument that applies a weighting to the electrical signal as a way of simulating the way a typical human ear responds to a range of acoustic frequencies.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "10"
+  },
+  {
+    "number": "34",
+    "text": "dB; Unit of relative sound level or changes in sound level",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "11"
+  },
+  {
+    "number": "35",
+    "text": "This is the maximum percentage overrun an airport can use without facing a penalty (losing two movements for every one over this level). Therefore, we assume airports will not exceed a 10% overrun.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "12"
+  },
+  {
+    "number": "36",
+    "text": "Easyjet presentation, available at http://www2.westsussex.gov.uk/ds/cttee/gat/gat260117i12.pdf",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "13"
+  },
+  {
+    "number": "37",
+    "text": "Easyjet. Press Release. 7th November 2015. http://www.airbus.com/presscentre/pressreleases/press-release- detail/detail/easyjet-orders-an-additional-36-a320-family-aircraft/",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "14"
+  },
+  {
+    "number": "38",
+    "text": "Boeing. Press Release. 8th September 2014. http://boeing.mediaroom.com/2014-09-08-Boeing-Launches-737-MAX-200- with-Ryanair",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "15"
+  },
+  {
+    "number": "39",
+    "text": "CAA data",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "16"
+  },
+  {
+    "number": "40",
+    "text": "With carryovers from the previous season.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "17"
+  },
+  {
+    "number": "41",
+    "text": "Based on monthly monitoring data submitted to the Department by airports.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "18"
+  },
+  {
+    "number": "42",
+    "text": "Study on the population trends in the vicinity of ten UK civil airports, 2017. http://publicapps.caa.co.uk/docs/33/CAP%201204%20FEB17.pdf",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "19"
+  },
+  {
+    "number": "43",
+    "text": "Regulatory Policy Committee Case Histories December 2016. Available at http://regulatorypolicycommittee.weebly.com/case-histories.html",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "20"
+  },
+  {
+    "number": "44",
+    "text": "Hatton and Others v. United Kingdom (Application no. 36022/97) European Court of Human Rights http://www.richardbuxton.co.uk/transcripts/hatton-and-others-v-united-kingdom",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "21"
+  },
+  {
+    "number": "45",
+    "text": "DfT (2013) 'Night Flight restrictions at Heathrow, Gatwick and Stansted: Stage 1 Consultation' https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/66837/consultation-document.pdf **(Link: 2)",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "22"
+  },
+  {
+    "number": "46",
+    "text": "Department for Transport (2015) WebTAG: TAG unit A3 environmental impact appraisal, December 2015 https://www.gov.uk/government/publications/webtag-tag-unit-a3-environmental-impact-appraisal-december-2015",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "23"
+  },
+  {
+    "number": "47",
+    "text": "World Health Organization (2009) 'Night Noise Guidelines for Europe' http://www.euro.who.int/__data/assets/pdf_file/0017/43316/E92845.pdf",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "24"
+  },
+  {
+    "number": "48",
+    "text": "LAeq 8 hour: equivalent continuous noise level over the 8 hour night period.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "25"
+  },
+  {
+    "number": "49",
+    "text": "There is the possibility these guidelines will be published before this Impact Assessment is published, but due legal deadlines and the time required for necessary clearances we have not been able to delay the analysis and wait for these.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "26"
+  },
+  {
+    "number": "50",
+    "text": "CAA (2013a) ‘ERCD Report 1208: Aircraft Noise, Sleep Disturbance and Health Effects: A Review’ http://publicapps.caa.co.uk/modalapplication.aspx?appid=11&mode=detail&id=5360",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "27"
+  },
+  {
+    "number": "51",
+    "text": "NORAH Knowledge No. 5 and No. 10, http://www.laermstudie.de/en/",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "28"
+  },
+  {
+    "number": "52",
+    "text": "‘Hypertension and Exposure to Noise near Airports (HYENA) Study’ by Larup et al (2007) & Babisch and van Kamp (2009)",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "29"
+  },
+  {
+    "number": "53",
+    "text": "Aviation Environment Federation (AEF) (2016) ‘Aircraft Noise and Public Health - The evidence is loud and clear’, Commissioned by HACAN and the Aviation Environment Trust",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "30"
+  },
+  {
+    "number": "54",
+    "text": "Department for Transport (2015) WebTAG: TAG unit A3 environmental impact appraisal, December 2015 https://www.gov.uk/government/publications/webtag-tag-unit-a3-environmental-impact-appraisal-december-2015",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "31"
+  },
+  {
+    "number": "55",
+    "text": "Aircraft and road traffic noise and children's cognition and health: a cross-national study. RANCH study team. 2005",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "32"
+  },
+  {
+    "number": "56",
+    "text": "Department for Transport (2015) WebTAG: TAG unit A3 environmental impact appraisal, December 2015 https://www.gov.uk/government/publications/webtag-tag-unit-a3-environmental-impact-appraisal-december-2015",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "33"
+  },
+  {
+    "number": "57",
+    "text": "Dr Charlotte Clark (2015) ‘Aircraft noise effects on health’, Prepared for the Airports Commission https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446311/noise-aircraft-noise-effects-on-health.pdf",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "34"
+  },
+  {
+    "number": "58",
+    "text": "2014/15 is the latest full season for which the Department has full data at this level of detail. Based on DfT analysis of CAA Statistics, 2017.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "35"
+  },
+  {
+    "number": "59",
+    "text": "Airports Commissions: Final Report, July 2015. Available at https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/440316/airports-commission-final-report.pdf",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "36"
+  },
+  {
+    "number": "60",
+    "text": "CAA analysis of OAG data. This data includes flights with more than 10,000 seats annual scheduled capacity only. OAG data includes passenger flights only.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "37"
+  },
+  {
+    "number": "61",
+    "text": "See the various attempts to define the wider economic impacts of night flights in CE Delft (2011), ‘Ban on night flights at Heathrow Airport, http://www.aef.org.uk/downloads/CEDelft_report_Heathrow_nightflights_Jan2011.pdf ; Oxford Economics (2011) ‘The Economic Value of Night Flights at Heathrow’, http://www.oxfordeconomics.com/my-oxford/projects/245739;",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "38"
+  },
+  {
+    "number": "62",
+    "text": "Taken from consultation response to DfT from the Association of International Courier and Express Services (2016)",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "39"
+  },
+  {
+    "number": "63",
+    "text": "‘The Economic Impact of Express Carriers for UK plc’ by The Aviation and Travel Consultancy and Oxford Economic Forecasting, (June 2002)",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "40"
+  },
+  {
+    "number": "64",
+    "text": "DfT analysis of CAA Statistics, 2017",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "41"
+  },
+  {
+    "number": "65",
+    "text": "CAA Data",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "42"
+  },
+  {
+    "number": "66",
+    "text": "ICF. Night Jet Movement Consultation Support, Commissioned by Gatwick Airport Limited. 2016",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "43"
+  },
+  {
+    "number": "67",
+    "text": "Civil Aviation Authority. Aircraft noise and health effects: Recent findings. March 2016 http://publicapps.caa.co.uk/docs/33/CAP%201278%20MAR16.pdf",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "44"
+  },
+  {
+    "number": "68",
+    "text": "Department for Transport (2015) WebTAG: TAG unit A3 environmental impact appraisal, December 2015 https://www.gov.uk/government/publications/webtag-tag-unit-a3-environmental-impact-appraisal-december-2015 **(Link: 4)",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "45"
+  },
+  {
+    "number": "69",
+    "text": "Department for Transport (2015) WebTAG: TAG unit A3 environmental impact appraisal, December 2015 https://www.gov.uk/government/publications/webtag-tag-unit-a3-environmental-impact-appraisal-december-2015",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "46"
+  },
+  {
+    "number": "70",
+    "text": "Department for Transport (2015) WebTAG: TAG unit A3 environmental impact appraisal, December 2015 https://www.gov.uk/government/publications/webtag-tag-unit-a3-environmental-impact-appraisal-december-2015",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "47"
+  },
+  {
+    "number": "71",
+    "text": "European Civil Aviation Conference. Report on Standard Method of Computing Noise Contours around Civil Airports ECAC.CEAC Doc 29, 4th edition, Volumes 1 & 2, December 2016",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "48"
+  },
+  {
+    "number": "72",
+    "text": "International Civil Aviation Organization (ICAO): Recommended Method for Computing Noise Contours Around Airports. ICAO Doc 9911, 1st Edition (2008)",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "49"
+  },
+  {
+    "number": "73",
+    "text": "ERCD Report 1209: Proposed methodology for estimating the cost of sleep disturbance from aircraft noise, January 2013. https://publicapps.caa.co.uk/modalapplication.aspx?catid=1&pagetype=65&appid=11&mode=detail&id=5361",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "50"
+  },
+  {
+    "number": "74",
+    "text": "A dose response function describes, at different noise levels, the proportion of the population affected (for sleep disturbance) or the increased risk of adverse health outcomes (for AMI, stroke and dementia).",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "51"
+  },
+  {
+    "number": "75",
+    "text": "In addition, these estimates do not cover flights that would be granted dispensations (see Section 1.1 for more details on such flights).",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "52"
+  },
+  {
+    "number": "76",
+    "text": "Available at http://www.programmeofficers.co.uk/Cuadrilla/Inquiry/CUA/CUA_INQ14.pdf",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "53"
+  },
+  {
+    "number": "77",
+    "text": "Given that there are changes to the quota count system under our proposals, for the purposes of this interpolation, the change in noise quota usage in each year under our proposals in comparison to the Do Minimum scenario has been calculated on a consistent basis by calculating the change in noise quota usage as a result of the estimated change in the number of flights in the NQP under our proposals based on the QC that aircraft would be assigned under the Do Minimum scenario.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "54"
+  },
+  {
+    "number": "78",
+    "text": "Department for Transport (2015) WebTAG: TAG unit A3 environmental impact appraisal, December 2015 https://www.gov.uk/government/publications/webtag-tag-unit-a3-environmental-impact-appraisal-december-2015",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "55"
+  },
+  {
+    "number": "79",
+    "text": "In particular, RPC (2016) Impact Assessment Case Histories - A practical guide on how to interpret better regulation framework principles and rules.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "56"
+  },
+  {
+    "number": "80",
+    "text": "The direct operating costs include fixed costs, fuel costs, airport charges and crew costs.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "57"
+  },
+  {
+    "number": "81",
+    "text": "The estimates for the 2014/15 base year included in the models developed by SYSTRA as part of the research project are further disaggregated by flight time and length of haul, so in producing these estimates, the Department has aggregated these estimates for the flight groups used in this analysis.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "58"
+  },
+  {
+    "number": "82",
+    "text": "Fixed costs are not included in this.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "59"
+  },
+  {
+    "number": "83",
+    "text": "https://www.gov.uk/guidance/transport-analysis-guidance-webtag",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "60"
+  },
+  {
+    "number": "84",
+    "text": "This is because the simplifying assumptions in our analysis mean that the growth in QC/0 movements is reduced in situations when the number of night flights at an airport (excluding those by QC/0 aircraft) would be constrained by the movement or noise quota limits, but in reality, the growth in QC/0 movements would be unaffected under the Do Minimum scenario.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "61"
+  },
+  {
+    "number": "85",
+    "text": "CAA data on actual flight movements at all three airports.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "62"
+  },
+  {
+    "number": "86",
+    "text": "DfT analysis of fleet mix forecasts 2017",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "63"
+  },
+  {
+    "number": "87",
+    "text": "K. Jones, Environmental Research and consultancy Department, CAA. Aircraft Noise and Sleep Disturbance: A Review (2009) https://publicapps.caa.co.uk/docs/33/ERCD0905.pdf",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "64"
+  },
+  {
+    "number": "88",
+    "text": "CAA Data",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "65"
+  },
+  {
+    "number": "89",
+    "text": "The Present Value Base Year is 2017 and the Price Base Year is 2015.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "66"
+  },
+  {
+    "number": "90",
+    "text": "Figures may not sum due to rounding",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "67"
+  },
+  {
+    "number": "91",
+    "text": "This IA assesses options for the night flights regime that will apply from October 2017. Each year of the regime (comprising a winter season and the following summer season) therefore covers two calendar years. As a simplifying assumption, our monetised analysis values the impacts in each year of the regime as though they occurred in the first of these calendar years (e.g. the impacts in 2017/18 are valued as though they occurred in 2017). Holding all other assumptions constant, this simplifying assumption is expected to result in our estimates slightly overestimating the value of these impacts when they are expressed in present value terms.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "68"
+  },
+  {
+    "number": "92",
+    "text": "The Present Value Base Year is 2017 and the Price Base Year is 2015.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "69"
+  },
+  {
+    "number": "93",
+    "text": "The Price Base Year is 2015.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "70"
+  },
+  {
+    "number": "94",
+    "text": "The Present Value Base Year is 2017 and the Price Base Year is 2015.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "71"
+  },
+  {
+    "number": "95",
+    "text": "The Present Value Base Year is 2017 and the Price Base Year is 2015.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "72"
+  },
+  {
+    "number": "96",
+    "text": "The Price Base Year is 2015.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "73"
+  },
+  {
+    "number": "97",
+    "text": "The Present Value Base Year is 2017 and the Price Base Year is 2015.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "74"
+  },
+  {
+    "number": "98",
+    "text": "The Price Base Year is 2015.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "75"
+  },
+  {
+    "number": "99",
+    "text": "The Present Value Base Year is 2017 and the Price Base Year is 2015.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "76"
+  },
+  {
+    "number": "100",
+    "text": "The Present Value Base Year is 2017 and the Price Base Year is 2015.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "77"
+  },
+  {
+    "number": "101",
+    "text": "The Price Base Year is 2015.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "78"
+  },
+  {
+    "number": "102",
+    "text": "The Present Value Base Year is 2017 and the Price Base Year is 2015.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "79"
+  },
+  {
+    "number": "103",
+    "text": "The Present Value Base Year is 2017 and the Price Base Year is 2015.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "80"
+  },
+  {
+    "number": "104",
+    "text": "The Price Base Year is 2015.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "81"
+  },
+  {
+    "number": "105",
+    "text": "The Present Value Base Year is 2017 and the Price Base Year is 2015.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "82"
+  },
+  {
+    "number": "106",
+    "text": "The Price Base Year is 2015.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "83"
+  },
+  {
+    "number": "107",
+    "text": "The Government considers that all other impacts on business are indirect",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "84"
+  },
+  {
+    "number": "108",
+    "text": "As night flight restrictions are currently in place, the EANDCB should measure the change in the net average direct costs to these businesses under the final policy option compared to the Do Minimum scenario.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "85"
+  },
+  {
+    "number": "109",
+    "text": "Better Regulation Framework",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "86"
+  },
+  {
+    "number": "110",
+    "text": "Dr Charlotte Clark (2015) ‘Aircraft noise effects on health’, Prepared for the Airports Commission https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446311/noise-aircraft-noise-effects-on-health.pdf",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "87"
+  },
+  {
+    "number": "111",
+    "text": "Effective Perceived Noise Decibels, a specialised noise unit used for aircraft noise certification tests. Figures based on average of flyover and sideline for departures, and after 9 EPNdB subtraction from approach value.",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "88"
+  },
+  {
+    "number": "112",
+    "text": "Department for Transport. UK Aviation Forecasts. January 2013. https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/223839/aviation-forecasts.pdf",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "89"
+  },
+  {
+    "number": "113",
+    "text": "CAA Data, 2016",
+    "source_alias": "night_flight_impact_assessment",
+    "source_title": "Night Flight Impact Assessment",
+    "source_number": "90"
+  }
+]

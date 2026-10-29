@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "National ban as the preferred option over alternatives",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Rejection of the voluntary v-notch scheme is backed by Cefas's own portside sampling data ('berried lobsters make up around 14% of total lobster landings', cross-referenced to para 4.3.4) and the 2000 Order (Ref 23), but the rejection of Do Nothing, the IFCA-byelaw-extension and seasonal-ban options rests on unevidenced assertions ('IFCA powers only extend to 6nm', 'lobsters...can carry their eggs for up to 10 months') with no acknowledged uncertainty."
+    },
+    {
+      "theme": "Policy objective of sustainable exploitation",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The objective statements themselves are target-setting, not evidence, but the claim that the ban increases biomass towards sustainable exploitation is supported by the Cefas dynamic population model results reported elsewhere (e.g. '80% greater' biomass, '43% higher' landings), which are linked but not assessed for uncertainty within this theme itself."
+    },
+    {
+      "theme": "Cost-benefit case for the ban",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Detailed, internally-derived cost figures (\u00a32.36m, \u00a32.29m EANCB, \u00a335.9m total) and Cefas modelling (3-43% higher landings) are clearly linked to the ban decision, with explicit acknowledgement of uncertainty ('these could not be monetised', 'difficult to estimate accurately due to uncertainty regarding the response of fishers')."
+    },
+    {
+      "theme": "Impact assessment methodology and assumptions",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Assumptions (full compliance, vessel size/location splits, 2011-2014 landings data) are clearly described as Defra's own analytical choices and flagged as being 'tested during consultation', but limitations are listed rather than critically assessed."
+    },
+    {
+      "theme": "Implementation costs and business impacts",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Costs are built from cited external data (ONS Ref 26, Seafish Ref 27, MMO Refs 31-34) combined with Defra's own calculations, and some overestimation is flagged ('This is likely to be an overestimate'), but no deeper assessment of evidence quality is given."
+    },
+    {
+      "theme": "Enforcement and compliance",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that a national ban reduces enforcement difficulty is attributed to MMO/IFCA experience with no data, citation or assessment of how robust that experience is."
+    },
+    {
+      "theme": "Stock modelling approach and parameters",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The Cefas/Defra R&D model (Ref 36) is described in detail (parameters, peer-review status) and its limitations are explicitly acknowledged ('it is uncertain how well this general lobster population corresponds...', 'has not been peer reviewed')."
+    },
+    {
+      "theme": "Policy consultation and testing",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "These two lines merely state that assumptions will be tested during consultation, offering no evidence itself."
+    }
+  ],
+  "reasoning": "The three core themes reach uneven levels. 'National ban as preferred option' (level 2) links the Cefas 14% sampling statistic and the 2000 v-notch Order (Ref 23) to rejecting the voluntary scheme, but rejects Do Nothing, byelaw-extension and seasonal-ban options with unsupported assertions ('IFCA powers only extend to 6nm'). 'Policy objective of sustainable exploitation' (level 2) borrows the Cefas population-model results ('80% greater' biomass, '3-43% higher' landings) from elsewhere in the document to support its sustainability claim, but these figures are not assessed for uncertainty within that theme. 'Cost-benefit case for the ban' (level 3) is the strongest: it gives specific, traceable figures (\u00a32.29m EANCB, \u00a335.9m total costs, 3-43% landings uplift) and explicitly flags uncertainty ('these could not be monetised', 'difficult to estimate accurately due to uncertainty regarding the response of fishers'). The mean of (2+2+3)/3 = 2.33 rounds down to 2. The strongest counter-example pulling the score down is the Do-Nothing/byelaw rejection reasoning, which offers no citable evidence at all. To reach level 3 overall, the document would need the same explicit assessment of evidence quality and uncertainty shown in the cost-benefit modelling applied consistently to the rejection of the other options and to the sustainability-objective claims.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

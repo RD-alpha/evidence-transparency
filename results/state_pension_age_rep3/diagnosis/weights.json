@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Rising life expectancy",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Demographic ageing and pay-as-you-go pressure",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Past delay and the case for a structured framework",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

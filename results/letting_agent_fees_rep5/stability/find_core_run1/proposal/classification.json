@@ -1,0 +1,133 @@
+{
+  "themes": [
+    {
+      "name": "Rebalancing market power toward landlords",
+      "ids": [
+        "S0019",
+        "S0020",
+        "S0021",
+        "S0240",
+        "S0241",
+        "S0243",
+        "S0244",
+        "S0246",
+        "S0247",
+        "S0326",
+        "S0327",
+        "S0328",
+        "S0329"
+      ]
+    },
+    {
+      "name": "Scope of the ban",
+      "ids": [
+        "S0285",
+        "S0287",
+        "S0288"
+      ]
+    },
+    {
+      "name": "Scottish precedent as justification",
+      "ids": [
+        "S0061",
+        "S0062",
+        "S0440",
+        "S0441",
+        "S0442",
+        "S0443",
+        "S0445",
+        "S0447",
+        "S0448",
+        "S0450",
+        "S0451",
+        "S0453",
+        "S0454"
+      ]
+    },
+    {
+      "name": "Expected rent effects and net benefit",
+      "ids": [
+        "S0023",
+        "S0246",
+        "S0279",
+        "S0281",
+        "S0331",
+        "S0332",
+        "S0334",
+        "S0335",
+        "S0336"
+      ]
+    },
+    {
+      "name": "Clarity and transparency as policy goals",
+      "ids": [
+        "S0023",
+        "S0243",
+        "S0246",
+        "S0298",
+        "S0334",
+        "S0335",
+        "S0336"
+      ]
+    },
+    {
+      "name": "Regulatory framework and sector compliance",
+      "ids": [
+        "S0283",
+        "S0325",
+        "S0390",
+        "S0391",
+        "S0393",
+        "S0394",
+        "S0396",
+        "S0397",
+        "S0398",
+        "S0456",
+        "S0457",
+        "S0459",
+        "S0460",
+        "S0461",
+        "S0464",
+        "S0465",
+        "S0466",
+        "S0467",
+        "S0469",
+        "S0470",
+        "S0472",
+        "S0473"
+      ]
+    },
+    {
+      "name": "Tenant protection and empowerment",
+      "ids": [
+        "S0259",
+        "S0260",
+        "S0279",
+        "S0281",
+        "S0356"
+      ]
+    },
+    {
+      "name": "Definition and clarity of the ban provisions",
+      "ids": [
+        "S0426",
+        "S0427",
+        "S0429",
+        "S0430",
+        "S0432",
+        "S0433",
+        "S0435",
+        "S0436",
+        "S0437",
+        "S0438"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": [
+        "S0531",
+        "S0532"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Upload a policy document</title>
+  {% include '_site_head.jinja' %}
+</head>
+<body class="upload-page">
+  {% set active = 'upload' %}{% include '_site_nav.jinja' %}
+  <main class="upload-shell">
+    <section class="upload-card" aria-labelledby="upload-title">
+      <div class="upload-eyebrow">Document workspace</div>
+      <h1 id="upload-title">Bring a policy document into view</h1>
+      <p class="upload-intro">Name the document, choose a stable alias, and bring in a policy document ready for the evidence review workflow.</p>
+
+      <div class="upload-mode-toggle" role="tablist" aria-label="Document source">
+        <button type="button" id="mode-pdf-btn" class="upload-mode-btn is-active" role="tab" aria-selected="true">PDF upload</button>
+        <button type="button" id="mode-url-btn" class="upload-mode-btn" role="tab" aria-selected="false">GOV.UK URL</button>
+        <button type="button" id="mode-combine-btn" class="upload-mode-btn" role="tab" aria-selected="false">Combine documents</button>
+      </div>
+
+      <form id="upload-form" class="upload-form">
+        <div class="upload-field-grid">
+          <label class="upload-field" for="document-title">
+            <span>Document title</span>
+            <input type="text" id="document-title" name="title" placeholder="e.g. Visitor Levy Consultation" required maxlength="250">
+          </label>
+          <label class="upload-field" for="document-alias">
+            <span>Document alias</span>
+            <input type="text" id="document-alias" name="alias" placeholder="e.g. visitor_levy" required pattern="[A-Za-z0-9_-]+" maxlength="100" aria-describedby="alias-help">
+            <small id="alias-help">Letters, numbers, hyphens, and underscores only.</small>
+          </label>
+        </div>
+
+        <div id="pdf-mode-fields">
+          <input class="upload-file-input" type="file" id="file-input" name="file" accept="application/pdf,.pdf" required>
+          <label class="upload-dropzone" id="upload-dropzone" for="file-input">
+            <span class="upload-icon" aria-hidden="true">↑</span>
+            <span class="upload-dropzone-title">Choose a PDF or drop it here</span>
+            <span class="upload-dropzone-copy">PDF files up to 20 MB</span>
+          </label>
+
+          <div class="upload-file-meta" id="file-meta" hidden>
+            <span class="upload-file-icon" aria-hidden="true">PDF</span>
+            <span id="file-name"></span>
+            <span id="file-size" class="upload-file-size"></span>
+          </div>
+          <small>Text is extracted directly from the PDF when possible. OCR is only used, with your confirmation, for pages that look like scanned images.</small>
+        </div>
+
+        <div id="url-mode-fields" hidden>
+          <label class="upload-field" for="document-url">
+            <span>GOV.UK page URL</span>
+            <input type="url" id="document-url" name="url" placeholder="https://www.gov.uk/government/publications/...">
+            <small>The page will be parsed directly — no OCR needed.</small>
+          </label>
+        </div>
+
+        <div id="combine-mode-fields" hidden>
+          <fieldset class="upload-combine">
+            <legend>Documents to combine</legend>
+            <p class="upload-combine-intro">
+              Pick two or more documents already in the workspace &mdash; a consultation and its impact
+              assessment, say. Their sentences are joined into one numbered document and their
+              references into one shared list, so a claim in one can be traced to evidence cited in the
+              other. The originals are left untouched, and nothing is re-extracted.
+            </p>
+            <div id="combine-list" class="upload-combine-list" role="group" aria-live="polite">
+              <p class="upload-saved-path">Loading documents&hellip;</p>
+            </div>
+            <small>Tick them in the order they should appear in the combined document.</small>
+          </fieldset>
+        </div>
+
+        <button type="submit" id="submit-btn" class="upload-submit">
+          <span class="upload-submit-label" id="submit-btn-label">Extract document text</span>
+          <span class="upload-spinner" aria-hidden="true"></span>
+        </button>
+        <a class="upload-analysis-link" href="{{ url_for('analyse.analyse_page') }}">Go to analysis</a>
+      </form>
+
+      <div id="status" class="upload-status" role="status" aria-live="polite"></div>
+      <div id="result" class="upload-result" aria-live="polite"></div>
+    </section>
+  </main>
+
+  <script src="{{ url_for('static', filename='upload.js') }}"></script>
+</body>
+</html>

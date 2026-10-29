@@ -1,0 +1,38 @@
+{
+  "themes": [
+    {
+      "name": "New care models and pension access",
+      "ids": [
+        "S0038",
+        "S0040",
+        "S0041",
+        "S0043",
+        "S0045"
+      ]
+    },
+    {
+      "name": "Growing sub-contracting and unequal playing field",
+      "ids": [
+        "S0065",
+        "S0093"
+      ]
+    },
+    {
+      "name": "Unintended effects of existing rules",
+      "ids": [
+        "S0100",
+        "S0102",
+        "S0104",
+        "S0105"
+      ]
+    },
+    {
+      "name": "Technical drafting and indexation issues",
+      "ids": [
+        "S0212",
+        "S0218",
+        "S0219"
+      ]
+    }
+  ]
+}

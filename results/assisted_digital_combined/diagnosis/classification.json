@@ -1,0 +1,48 @@
+{
+  "themes": [
+    {
+      "name": "Judicial time spent on routine work",
+      "ids": [
+        "S0060",
+        "S0061",
+        "S0248",
+        "S0249"
+      ]
+    },
+    {
+      "name": "Outdated and burdensome tribunal arrangements",
+      "ids": [
+        "S0164",
+        "S0177",
+        "S0182",
+        "S0183",
+        "S0316",
+        "S0317",
+        "S0318",
+        "S0319",
+        "S0768",
+        "S0769"
+      ]
+    },
+    {
+      "name": "Current system can be faster, easier and better value",
+      "ids": [
+        "S0075",
+        "S0076",
+        "S0084",
+        "S0140",
+        "S0141",
+        "S0162",
+        "S0698",
+        "S0699",
+        "S0700",
+        "S0729",
+        "S0730"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": []
+    }
+  ]
+}

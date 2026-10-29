@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ error_title or "Validation Error" }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        .error-card {
+            max-width: 650px;
+            margin: 120px auto;
+            padding: 30px;
+            background: #ffffff;
+            border-left: 6px solid #d9534f;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+            font-family: system-ui, -apple-system, sans-serif;
+        }
+        .error-card h2 {
+            color: #d9534f;
+            margin-top: 0;
+            font-size: 1.5rem;
+        }
+        .error-card p {
+            color: #333;
+            line-height: 1.6;
+            font-size: 1rem;
+        }
+        .error-details {
+            background-color: #f8f9fa;
+            border: 1px solid #e9ecef;
+            padding: 12px;
+            border-radius: 4px;
+            font-family: monospace;
+            font-size: 0.9rem;
+            color: #495057;
+            margin-top: 15px;
+            word-break: break-all;
+        }
+        .error-actions {
+            margin-top: 25px;
+        }
+        .error-actions a {
+            display: inline-block;
+            background-color: #0066cc;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-size: 0.95rem;
+        }
+        .error-actions a:hover {
+            background-color: #0052a3;
+        }
+    </style>
+</head>
+<body>
+
+<div class="header-bar">
+    <div class="header-bar-text">
+        <h1>State Pension Age Review</h1>
+    </div>
+</div>
+
+<div class="error-card">
+    <h2>{{ error_title or "Validation Error" }}</h2>
+    <p>{{ error_message }}</p>
+    {% if details %}
+    <div class="error-details">
+        <strong>Context:</strong> {{ details }}
+    </div>
+    {% endif %}
+    <div class="error-actions">
+        <a href="{{ url_for('index') }}">&larr; Return to Application</a>
+    </div>
+</div>
+
+</body>
+</html>
+

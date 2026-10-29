@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Hidden ownership enabling corruption and money laundering",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Regulatory gap for overseas entities",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Dysfunction in the property market from opacity",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Risk of harm from public disclosure",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Context: UK company transparency framework",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Context: UK investment attractiveness",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

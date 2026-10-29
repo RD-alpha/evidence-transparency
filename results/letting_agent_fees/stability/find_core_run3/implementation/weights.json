@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Enforcement through local authorities, possibly a lead authority",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Permitted exceptions and deposit arrangements",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Penalties and deterrence for non-compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant empowerment and education to support compliance",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Primary legislation and sector regulation",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

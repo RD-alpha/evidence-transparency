@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Apprenticeship Targets and Goals",
+      "reason": "Sets out the overarching goals and timetable (2015-2020) against which success will be measured, establishing the framework for evaluation that the rest of the aspect depends on.",
+      "weight": "core"
+    },
+    {
+      "theme": "Data Collection and Monitoring",
+      "reason": "Describes the core plan for measuring impact: quarterly data collection, baseline establishment, governance and timetable (through 2017), directly addressing the should-explain points on measurement and evaluation timetable.",
+      "weight": "core"
+    },
+    {
+      "theme": "Long-Term Tracking and Career Outcomes",
+      "reason": "Explains plans to measure a key outcome—career impact and retention of apprentices—addressing the should-explain point on measuring impact and outcomes.",
+      "weight": "core"
+    },
+    {
+      "theme": "Diversity and Inclusion",
+      "reason": "Specifies diversity as a measured outcome directly tied to the stated problem of low diversity/social mobility, making it a core outcome metric.",
+      "weight": "core"
+    },
+    {
+      "theme": "Quality and External Recognition",
+      "reason": "A specific, narrow success measure (external recognition by 2018) that supplements but does not itself carry the overall evaluation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Employee Engagement",
+      "reason": "A specific metric via the People Survey; useful but a secondary indicator rather than central to addressing skills shortages or diversity.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Productivity and Return on Investment",
+      "reason": "Addresses measuring impact on skills shortages (reduced reliance on contingent labour, productivity), a key outcome tied to the stated problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Programme Delivery and Performance",
+      "reason": "Lists various delivery and progress metrics that are largely procedural details supporting but not central to the core evaluation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Levy Management and Spend",
+      "reason": "Covers financial/administrative tracking of levy spend, a background/administrative detail rather than a core outcome measure.",
+      "weight": "not core"
+    }
+  ]
+}

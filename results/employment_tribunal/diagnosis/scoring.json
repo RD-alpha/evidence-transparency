@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Outdated, paper-based processes",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The ~90% online-lodging figure (lines 'Around 90% of Employment Tribunal claims are lodged online') is offered as grounds for the paper-based diagnosis but is uncited in this theme (Reference 8 only describes the EAT), and the rest is assertion about ageing IT and paper.}"
+    },
+    {
+      "theme": "Employment Tribunals out of line with the wider justice system",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The 90% online figure carries Reference 9, a Gov.UK dashboard with access date, but it supports a side point about improvements, while the core claim of divergence rests on descriptions of governance and assertion with no evidence."
+    },
+    {
+      "theme": "Restrictive Employment Tribunals Act 1996",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Sections 4(1), 4(3), 4(4) of the ETA 1996 and the TCEA 2007 are cited to explain why reform cannot be delivered under current powers, which is evidence of a legal constraint, but there is no link to the legislation and no assessment, and Reference 6 only points to a statutory section describing the rules."
+    }
+  ],
+  "reasoning": "All three core themes sit at level 1, giving a mean of 1.0 and a score of 1. In the paper-based theme, the only evidence is the claim that \"Around 90% of Employment Tribunal claims are lodged online\". It is uncited there, and Reference 8 only describes what the EAT is. The rest of the diagnosis (\"Ageing IT systems\", \"Overwhelmed by paper\", buildings \"out-dated and underused\") is assertion. In the out-of-line theme, the same figure carries Reference 9, a dated Gov.UK dashboard extract that a reader could follow. It is used to show improvement, not to support the claim that ETs are uniquely governed and behind other tribunals. That claim is made by describing institutional arrangements and by assertion such as \"have not kept pace with the drive towards simpler justice\". The legislative theme cites ETA 1996 s.4 and the TCEA 2007 to explain why the Act constrains reform, which counts as evidence of a legal constraint, but it is not linked to sources, and Reference 6 only describes current rules. The strongest counter-example to level 1 is the dashboard citation (Reference 9), which is properly sourced. However, it supports a peripheral point, not the core claim. To reach level 2, the document would need to cite the data behind claims of inefficiency, cost and paper handling, such as case processing times, volumes and cost figures, and show how they demonstrate the problem. Level 3 would need an assessment of the strengths and limits of that evidence.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

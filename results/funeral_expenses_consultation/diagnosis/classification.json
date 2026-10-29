@@ -1,0 +1,42 @@
+{
+  "themes": [
+    {
+      "name": "Eligibility rules that wrongly exclude applicants",
+      "ids": [
+        "S0040",
+        "S0041",
+        "S0042",
+        "S0043",
+        "S0059",
+        "S0060"
+      ]
+    },
+    {
+      "name": "Deduction of third-party contributions",
+      "ids": [
+        "S0035",
+        "S0036"
+      ]
+    },
+    {
+      "name": "Burdensome and slow claims process",
+      "ids": [
+        "S0047",
+        "S0048",
+        "S0052",
+        "S0064",
+        "S0065"
+      ]
+    },
+    {
+      "name": "Prospective medical examiner fees",
+      "ids": [
+        "S0068",
+        "S0069",
+        "S0070",
+        "S0071",
+        "S0072"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "Apprenticeship Growth and Targets",
+      "reason": "This theme establishes the core diagnosis that skill shortages and economic growth needs justify a large apprenticeship target, and that public sector lags private sector in apprenticeship uptake—directly addressing the skills shortage aspect of the stated problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Diversity and Inclusion in the Civil Service",
+      "reason": "This theme diagnoses the low diversity/social mobility part of the problem, noting the Civil Service's historical struggles with workforce diversity and specific gaps such as low employment for autistic people, which grounds the inclusion ambition.",
+      "weight": "core"
+    }
+  ]
+}

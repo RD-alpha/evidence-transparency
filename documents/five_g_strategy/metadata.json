@@ -1,0 +1,13 @@
+{
+  "title": "Next Generation Mobile Technologies: A 5G Strategy for the UK",
+  "alias": "five_g_strategy",
+  "uploaded_at": "2026-10-13T14:05:20.954413+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "14:05:20 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "appendix2_date": "8 March 2017",
+  "appendix2_type": "policy paper",
+  "source_file": "038_creating_a_national_5g_innovation_networ_1_07.03.17_5G_strategy_-_for_publication.pdf",
+  "extraction_note": "PDF table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

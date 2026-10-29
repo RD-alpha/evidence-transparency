@@ -1,0 +1,57 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Overfishing of lobster and crawfish stocks",
+        "claim": "Current stock assessments and landing trends show that European lobster and crawfish stocks in English waters are being overfished despite existing conservation measures, putting their future at risk."
+      },
+      {
+        "name": "EU and biodiversity obligations",
+        "claim": "The UK must ensure lobster and crawfish are exploited at Maximum Sustainable Yield under the CFP and MSFD by 2020, and crawfish conservation is a Biodiversity 2020 priority, so continued overfishing jeopardises these commitments."
+      },
+      {
+        "name": "Market failure in a common resource",
+        "claim": "Fishing is a common-pool resource problem in which individual fishers' rational self-interest in landing berried females imposes external costs on others and on future stock viability, creating a market failure that government intervention must correct."
+      },
+      {
+        "name": "Inadequate and inconsistent existing management",
+        "claim": "Existing protections such as Minimum Conservation Reference Sizes, voluntary v-notching, and patchy local IFCA bans on landing berried lobsters/crawfish are insufficient and inconsistently applied, leaving stocks inadequately protected."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "National ban as the preferred option over alternatives",
+        "claim": "A national ban on landing berried lobsters and crawfish is the best option because it provides sufficient spatial coverage and addresses enforcement problems, whereas doing nothing, relying on voluntary v-notching, or extending IFCA byelaws inshore were all rejected as inadequate or impractical."
+      },
+      {
+        "name": "Policy objective of sustainable exploitation",
+        "claim": "The proposal's objective is to increase stock biomass so that lobster and crawfish are exploited sustainably, meeting MSY and Biodiversity 2020 commitments while supporting long-term fishery viability."
+      },
+      {
+        "name": "Cost-benefit case for the ban",
+        "claim": "The Impact Assessment estimates quantifiable short-term costs to business and government (around £2.29m net annual cost to business) that are justified by modelled long-term benefits of higher future landings (3-43% higher after 15 years) from stock recovery, based on stated assumptions about compliance, vessel behaviour and fishing effort."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Choice of legislative mechanism",
+        "claim": "The ban will be implemented by amending the existing Statutory Instrument that prohibits landing v-notched lobsters and crawfish, under powers in the Sea Fish (Conservation) Act 1967, rather than creating a new separate order, to simplify the legislative landscape and aid familiarisation."
+      },
+      {
+        "name": "Scope of vessels and waters covered",
+        "claim": "The ban will apply to British and Scottish vessels fishing in English waters and landing into English ports, but will exclude foreign vessels and waters of Scotland, Northern Ireland, Wales and the Crown Dependencies, on the grounds that these exclusions involve negligible landings and will not undermine conservation benefits."
+      },
+      {
+        "name": "Enforcement costs and mechanisms",
+        "claim": "Implementation will require the MMO and IFCAs to invest in testing kits and inspector training to detect scrubbed eggs, with estimated annual costs, which the document treats as a necessary and justified part of enforcing the ban."
+      }
+    ],
+    "note": ""
+  }
+}

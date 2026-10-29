@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "New care models and pension access",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Growing sub-contracting and unequal playing field",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Unintended effects of existing rules",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Technical drafting and indexation issues",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "themes": [
+    {
+      "name": "Modern languages as a rigorous interdisciplinary subject",
+      "ids": [
+        "S0004"
+      ]
+    },
+    {
+      "name": "Broad transferable benefits",
+      "ids": [
+        "S0005"
+      ]
+    },
+    {
+      "name": "Relevance to all students",
+      "ids": [
+        "S0006"
+      ]
+    },
+    {
+      "name": "Foundation for degree-level study",
+      "ids": [
+        "S0007"
+      ]
+    }
+  ]
+}

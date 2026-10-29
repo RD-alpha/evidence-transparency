@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Rising life expectancy",
+        "claim": "Life expectancy at 65 has risen for decades and is projected to keep rising, so without change people spend a steadily growing share of adult life receiving the State Pension, and past slow adjustment left the UK needing rapid catch-up."
+      },
+      {
+        "name": "Demographic shift and pay-as-you-go pressure",
+        "claim": "The baby-boomer cohort and a rising old age dependency ratio mean fewer workers support more pensioners under a pay-as-you-go system, pushing up the number of pensioners and the cost per working person."
+      },
+      {
+        "name": "Rising fiscal cost of ageing",
+        "claim": "State Pension spending is projected to rise by about 1% of GDP by 2036/37 (about £725 per household), and wider age-related spending on health and care will also rise, making public finances unsustainable if unaddressed."
+      },
+      {
+        "name": "Uncertainty of projections",
+        "claim": "Life expectancy projections are uncertain, especially over longer horizons, and small changes in the underlying data would shift the timing of required State Pension age rises considerably."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Raise State Pension age to 68 in 2037-39",
+        "claim": "The government will follow Cridland and raise the State Pension age from 67 to 68 in 2037-39, seven years earlier than legislated, balancing affordability and generational fairness against the pace of change, and rejecting both an immediate rise after 67 and lower pensions."
+      },
+      {
+        "name": "Linking State Pension age to life expectancy for intergenerational fairness",
+        "claim": "State Pension age should be tied to life expectancy so that each generation spends broadly the same proportion of adult life (up to 32%) in receipt of the pension, which is fair and keeps the pension above the means-test level."
+      },
+      {
+        "name": "Costs, savings and affordability",
+        "claim": "The earlier rise to 68 reduces spending by 0.4% of GDP in 2039/40 and saves £74bn to 2045/46, and the alternatives of lower pensions or higher taxes would increase pensioner poverty or burden workers."
+      },
+      {
+        "name": "Universal State Pension age",
+        "claim": "A single universal State Pension age is retained because it is simple and clear for planning, life expectancy has risen across socio-economic groups, and disadvantaged groups are better helped through the working-age benefit system than through variable pension ages."
+      },
+      {
+        "name": "Further review before legislating",
+        "claim": "The rise to 68 will not be legislated until a further review has considered the latest life expectancy projections and the effects of current rises, and the long-run 32% target and any rises beyond 68 are left for later reviews."
+      }
+    ],
+    "note": "The document rejects Cridland's one-year-in-ten pace cap while adopting his timetable, and leaves the long-term timetable beyond 68 undecided."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Notice period and communications",
+        "claim": "The government will aim to give at least ten years' notice of changes and run a digital-led communications strategy so individuals can plan, because certainty and transparency are needed for retirement planning."
+      },
+      {
+        "name": "Supporting people to save, work and cope with ill health",
+        "claim": "Rises in State Pension age must come as part of a wider package that helps people save, work longer where they can, and supports those who cannot work, with support options to be assessed as the evidence develops."
+      },
+      {
+        "name": "Legislation and review process",
+        "claim": "Changes will be delivered through the review framework in the Pensions Act 2014, with primary legislation and parliamentary scrutiny after the next review, so that rises are well-flagged and based on recent data."
+      }
+    ],
+    "note": "Implementation is largely a set of commitments to future action, with much of the detail on support measures still to be decided; the supporting measures are separate and described only generally."
+  }
+}

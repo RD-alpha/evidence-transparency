@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Defining the scope and permitted exceptions of the ban",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The rationale for holding deposits and in-tenancy charges ('to ensure that there is a commitment from a tenant', 'to mitigate the risk of tenants speculating') is pure assertion with no cited data, survey or consultation finding behind it."
+    },
+    {
+      "theme": "Enforcement architecture and penalties",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Figures like the \u00a35,000 civil penalty and \u00a330,000 banning-order fine, and the NTSEAT lead-authority model, are described as existing rules/analogies but no evidence (data, evaluation, consultation) is cited to show these levels or this model will actually deter non-compliance in the lettings sector."
+    },
+    {
+      "theme": "Tenant empowerment and education as a compliance mechanism",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims that education 'will empower tenants and reduce the burden on local authorities' are asserted with no survey, trial or prior evaluation of tenant awareness or challenge behaviour cited."
+    },
+    {
+      "theme": "Addressing the residual deposit burden",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that deposit levels 'have been increasing' and that capping/instalment models would help is unsupported by any cited statistic, dataset or named study."
+    }
+  ],
+  "reasoning": "All four core themes rest on reasoning rather than cited evidence. The scope-and-exceptions theme justifies holding deposits and in-tenancy charges purely by assertion ('to ensure that there is a commitment from a tenant...', 'to mitigate the risk of tenants speculating') with no data or consultation finding behind it, so it scores 0. The enforcement theme cites existing legal figures (the \u00a35,000 civil penalty under the Consumer Rights Act and the \u00a330,000 banning-order fine under the Housing and Planning Act 2016) and the NTSEAT lead-authority model, but these describe current rules/analogous structures rather than evidence that such penalties or models will deter non-compliance in lettings; there are no references or links attached anywhere in the extract. It also scores 0. The tenant-empowerment theme asserts that education 'will empower tenants and reduce the burden on local authorities' with no cited survey or prior evaluation, scoring 0. The deposit-burden theme claims 'deposit levels have been increasing' without a source or figure, also scoring 0. The mean of 0,0,0,0 is 0, giving a section score of 0. The strongest counter-example is the enforcement theme's use of named legislation and the NTSEAT precedent, which at least points to a real comparator, but since the document never shows data on NTSEAT's effectiveness or links the \u00a330,000 figure to any assessment of deterrence, it cannot rise above 0. To reach level 1, the document would need to explain, even briefly, what evidence (e.g. Trading Standards caseload data, consultation responses, or evaluation of NTSEAT) informed these design and enforcement choices.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

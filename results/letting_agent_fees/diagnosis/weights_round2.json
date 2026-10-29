@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Growth and Scale of Private Rental Sector",
+      "reason": "Provides background scale and context for the private rented sector, but does not itself explain why fees are high or opaque.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Letting Agent Fee Structure and Variation",
+      "reason": "Establishes the core factual basis of the problem: fees vary enormously, are charged for similar services at wildly different rates, and can be significant in amount, directly evidencing the 'high, opaque' fee problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant Control and Fee Impact",
+      "reason": "Explains the causal mechanism of harm: tenants cannot negotiate or avoid fees because agents are appointed by landlords, and high fees have real financial and mobility impacts, which is central to why this is a problem needing a remedy.",
+      "weight": "core"
+    },
+    {
+      "theme": "Transparency and Regulation",
+      "reason": "Shows that existing transparency rules are inadequate or inconsistently followed, directly supporting the 'opaque' part of the diagnosis and why current regulation fails to solve the problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Comparison and Market Competition",
+      "reason": "Explains the underlying market failure (misaligned incentives between landlords and agents) causing high and opaque fees, a key causal diagnosis for the problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Poor Practices and Confusion",
+      "reason": "Illustrates specific unfair or confusing practices but is largely supplementary detail reinforcing points already made about transparency and market failure.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Fee Trends and Rising Costs",
+      "reason": "Provides trend data showing fees have risen, supporting the scale of the problem but overlapping with and dependent on the fee structure theme rather than adding a distinct causal argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Tenant Vulnerability and Barriers",
+      "reason": "Notes additional impacts on vulnerable tenants, but largely restates points already covered under tenant control and impact.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Miscellaneous background facts (agent vs direct letting, tenancy length, discrimination, Northern Ireland) that do not form a sustained part of the core argument.",
+      "weight": "not core"
+    }
+  ]
+}

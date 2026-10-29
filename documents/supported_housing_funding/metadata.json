@@ -1,0 +1,46 @@
+{
+  "title": "New funding model for supported housing",
+  "alias": "supported_housing_funding",
+  "uploaded_at": "2026-10-13T15:53:07.597517+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "15:53:07 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "sh_src_1",
+      "title": "New funding model for supported housing (source 1)",
+      "sentence_count": 338,
+      "first_sentence": "S0001",
+      "last_sentence": "S0338",
+      "reference_count": 6,
+      "first_reference": "1",
+      "last_reference": "6",
+      "link_count": 7
+    },
+    {
+      "alias": "sh_src_2",
+      "title": "New funding model for supported housing (source 2)",
+      "sentence_count": 2315,
+      "first_sentence": "S0339",
+      "last_sentence": "S2653",
+      "reference_count": 85,
+      "first_reference": "7",
+      "last_reference": "91",
+      "link_count": 51
+    },
+    {
+      "alias": "sh_src_3",
+      "title": "New funding model for supported housing (source 3)",
+      "sentence_count": 67,
+      "first_sentence": "S2654",
+      "last_sentence": "S2720",
+      "reference_count": 4,
+      "first_reference": "92",
+      "last_reference": "95",
+      "link_count": 7
+    }
+  ],
+  "appendix2_date": "21 November 2016; 21 November 2016; 21 November 2016",
+  "appendix2_type": "consultation + evidence review + research summary (combined in Appendix order)",
+  "extraction_note": "PDF table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

@@ -1,0 +1,70 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Scale and timing of the apprenticeship target",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 30,000/2.3% target and the claim of leading ahead of the 2017 legislative deadline are asserted as commitments with no statistic, study or data offered to justify why this particular scale or timing was chosen."
+    },
+    {
+      "theme": "Three-fold business case for apprenticeships",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The productivity and earnings claims are backed by cited figures (81% employer survey, 85% apprentice survey, Reference 1,2; \u00a377k-\u00a3150k lifetime earnings gains, Reference 3,4) which are properly linked via reference numbers and URLs, though the evidence is simply presented rather than assessed for strength or limitations."
+    },
+    {
+      "theme": "Quality over quantity",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The NAO's warning that 'the drive to deliver greater numbers is delivered at the expense of delivering maximum value' is properly cited (Reference 6) and linked to the Civil Service's stated response of pursuing both growth and quality, but the Ofsted quote carries no citation and the document does not critically assess the cited evidence itself."
+    },
+    {
+      "theme": "Alignment with the wider Government apprenticeship agenda",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims about the three-million manifesto target, diversity alignment, and the levy mechanism are stated as commitments and facts with no supporting statistic, study or citation offered."
+    },
+    {
+      "theme": "Strategic objectives and implementation approach",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme lists strategic aims and intentions (e.g. 'We will build apprenticeship schemes that achieve the best mix of quality and economic efficiency') with no evidence offered for why these specific aims or mechanisms were chosen."
+    },
+    {
+      "theme": "Workforce capability and skills development",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Aims to address skills gaps and reduce reliance on contingent labour are asserted without any data or finding to support them."
+    },
+    {
+      "theme": "Inclusivity and diversity outcomes",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Aspirational statements about inclusivity and diversity carry no evidence of current gaps or expected impact."
+    },
+    {
+      "theme": "Employment offer and career progression",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "A single unsupported aspirational sentence about providing a modern employment offer, with no evidence attached."
+    },
+    {
+      "theme": "Apprentice experience and engagement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements about apprentice engagement and reputation are asserted with no supporting data or source."
+    },
+    {
+      "theme": "Operational efficiency",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The aim of balancing quality and economic efficiency is stated with no cost data, modelling or evidence behind it."
+    }
+  ],
+  "reasoning": "The four core themes vary but mostly lack robust, cited evidence tied clearly to the policy choices. 'Scale and timing' (level 0) simply asserts the 30,000/2.3% target and the 'ahead of the legislative target' claim with no data justifying the figures. 'Three-fold business case' (level 2) does cite external evidence -- the 2014 employer/apprentice survey (Reference 1,2) and lifetime earnings estimates (Reference 3,4) -- properly linked via reference numbers and URLs, supporting the productivity and earnings strands of the claim, though without any assessment of the evidence's strength or limitations. 'Quality over quantity' (level 2) cites the NAO's explicit warning that 'the drive to deliver greater numbers is delivered at the expense of delivering maximum value' (Reference 6), linking this risk to the strategy's quality focus, but the parallel Ofsted quote is uncited and the document does not critically interrogate the cited evidence itself, so it falls short of level 3. 'Alignment with the wider Government agenda' (level 0) offers no evidence at all for the levy, diversity-target alignment, or three-million manifesto commitment. The strongest counter-example against a higher score is that even where figures are cited (Reference 1-4, 6), the document never acknowledges uncertainty, contradictory findings, or compares alternative training routes. Mean of (0+2+2+0)/4 = 1.0, rounding to a section score of 1. To reach level 2 overall, the weaker themes would need properly cited evidence linking the 30,000 target and wider-agenda alignment directly to data on skills gaps or diversity; to reach level 3, the document would need to critically assess that evidence's strengths and limitations itself.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

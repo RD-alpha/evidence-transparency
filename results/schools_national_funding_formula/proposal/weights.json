@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "A single national formula built on local practice and evidence",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Greater weighting for additional needs and broader disadvantage",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Pupil-led basic funding with a maintained primary-secondary ratio",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "School-led factors: lower lump sum, sparsity, premises and area costs",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Floor for stability alongside fairness",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

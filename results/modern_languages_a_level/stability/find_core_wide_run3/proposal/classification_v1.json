@@ -1,0 +1,23 @@
+{
+  "themes": [
+    {
+      "name": "Interdisciplinary and academic value of language study",
+      "ids": [
+        "S0004"
+      ]
+    },
+    {
+      "name": "Transferable skills and wider benefit",
+      "ids": [
+        "S0005"
+      ]
+    },
+    {
+      "name": "Universal relevance and progression foundation",
+      "ids": [
+        "S0006",
+        "S0007"
+      ]
+    }
+  ]
+}

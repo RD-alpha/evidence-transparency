@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Notice and communication of changes",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The ten-year notice commitment and communications strategy are commitments and descriptions of what the policy will do, with the only support being agreement with Cridland's recommendation (lines 'agrees with John Cridland that individuals should have sufficient warning', 'John Cridland recognised that good communication...') and no reference, data or finding behind them."
+    },
+    {
+      "theme": "Wider support for working longer and those who cannot work",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines such as 'agrees with John Cridland that increases... must form part of a wider system' and 'welfare system already provides protection' are assertions, and the consultation on health and work is only named as something to be taken into account, with no findings or method shown."
+    },
+    {
+      "theme": "Legislation and review process",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The Pensions Act 2014 and the two commissioned reports are described as the process and rules (not as a constraint explaining a choice), and the 'up to one third' principle is described without data or citation, so no evidence supports a delivery choice."
+    }
+  ],
+  "reasoning": "Both core themes rest on assertion and endorsement of an adviser rather than evidence. 'Notice and communication of changes' scores 0: the commitment to 'a minimum of ten years' notice' and the communications strategy are statements of what the Government will do. The only grounding is agreement with John Cridland ('The Government agrees with John Cridland that individuals should have sufficient warning'), which shows who recommended it but gives no finding, data or reasoning for why ten years suffices or why these channels will reach people. The extract carries no references or links. 'Wider support for working longer and those who cannot work' also scores 0: it asserts that rises must sit within a wider system, says the welfare system 'already provides protection', and says the 'recent consultation on health and work' will be 'taken into account'. No consultation findings, number of respondents or analysis are given. The non-core legislation theme also scores 0, since the Pensions Act 2014 is cited only to describe the process. The mean of the core themes is 0, so the section scores 0. The strongest counter-example is the repeated reliance on the Cridland report, a named independent source that a reader could identify, which might justify level 1; but the document never says what that report found to support these specific measures, and it is not referenced. To reach level 1 the document would need to state what evidence (for example evidence on how much notice people need to plan, or on health and work outcomes) supports the ten-year notice and the support package, and to reach level 2 it should cite those sources with references.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

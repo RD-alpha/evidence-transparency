@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Comprehensive linguistic and cognitive skill development",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Thematic study using authentic sources",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Study of literary works and film",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Independent research skills at A level",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Detailed grammar specification by language",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Chinese-specific adaptations",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Foundational knowledge requirements",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Assessment structure and content delivery",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

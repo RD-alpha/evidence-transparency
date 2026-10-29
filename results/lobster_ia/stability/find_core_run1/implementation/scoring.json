@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Legislative vehicle and scope of the ban",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The choice to amend the existing SI rather than create a new one is tied to the existing order itself (Reference 9) and the exclusion of foreign vessels is supported by a specific, cited landings figure of 206kg in 2014 from the MMO's Fisheries Activity Database (Reference 15), giving a clear, traceable link between evidence and the delivery choice, but no uncertainty in that figure or in the legislative choice is acknowledged."
+    },
+    {
+      "theme": "Enforcement mechanism and costs",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The department's own cost modelling is shown in detail (12 MMO offices, 3 vessels, 4 IFCAs, totalling \u00a311,500/\u00a31,150/\u00a34,000, Reference 1,2,19) with method explained, and the document itself flags uncertainty ('this is likely to be the highest estimate\u2026') and an unquantified benefit ('These savings have not been quantified'), meeting the bar for assessment of the evidence base."
+    },
+    {
+      "theme": "Further testing of assumptions through consultation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines only describe that assumptions 'will be tested during consultation' and that workshops will be held, with no evidence offered for why consultation is the right method or what it has found so far."
+    },
+    {
+      "theme": "Implementation approach and stakeholder engagement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States MMO/IFCAs will build on current procedures and develop further post-consultation, with no evidence cited for this approach."
+    }
+  ],
+  "reasoning": "The three core themes score unevenly. 'Legislative vehicle and scope' reaches level 2: the decision to amend the existing SI is grounded in that SI itself (Reference 9) and the exclusion of foreign vessels is backed by a specific cited figure (206kg, Reference 15), but no uncertainty is discussed, so it falls short of level 3. 'Enforcement mechanism and costs' reaches level 3: detailed departmental cost modelling (\u00a311,500 kits, \u00a31,150 chemicals, \u00a34,000 training, Reference 1,2,19) is clearly linked to the delivery mechanism, and the document itself flags that 'this is likely to be the highest estimate' and that savings from reduced IFCA investigation 'have not been quantified', showing genuine self-assessment. 'Further testing of assumptions through consultation' reaches level 0: it only describes that assumptions will be tested via consultation and workshops, without evidence for why this is the right method or what has already been learned. Averaging 2, 3 and 0 gives 1.67, which rounds to 2. The strongest counter-example is the consultation theme, which is purely procedural and evidence-free, pulling the mean down. To reach level 3 overall, the document would need to also assess uncertainties in the legislative-scope evidence (e.g. confidence in the 206kg figure) and ground the consultation theme in some evidence of why stakeholder engagement is an appropriate method.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

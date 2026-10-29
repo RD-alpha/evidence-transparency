@@ -1,0 +1,65 @@
+alias,name_2018,group,results_path
+civil_service_apprenticeship,Civil service apprenticeships,original nine,civil_service_apprenticeship/stability/find_core_run1
+furniture_fire_safety,Furniture and furnishings fire safety regulations,original nine,furniture_listed
+modern_languages_a_level,Modern foreign languages A and AS level content,original nine,mfl_listed
+lobster_ia,Ban on landing egg-bearing lobsters and crawfish,original nine,lobster_listed
+letting_agent_fees,Ban on letting agent fees,original nine,letting_agent_fees/stability/find_core_run1
+prison_reform,Increasing prison officer numbers,original nine,prison_reform/stability/find_core_run1
+overseas_votes,Votes for British citizens overseas,original nine,overseas_votes/stability/find_core_run1
+company_car_tax,Company car tax for ultra-low emission vehicles,original nine,company_car_tax/stability/find_core_run1
+night_flight_combined,Cutting down on noise from night flights,original nine,night_flights_listed
+alcohol_structures,Changes to alcohol duty structures,added eleven,alcohol_structures
+auto_enrolment_changes,Technical changes to automatic enrolment,added eleven,auto_enrolment_changes
+build_to_rent,Supporting Affordable Private Rent housing,added eleven,build_to_rent_listed
+commerical_radio_deregulation,Deregulation of commercial radio,added eleven,radio_listed
+low_emission_vehicle,Electric vehicle infrastructure,added eleven,low_emission_vehicle
+microbead_ban,Ban on microbeads,added eleven,microbead_ban
+overseas_owned_property,Overseas-owned UK property register,added eleven,overseas_property_listed
+postgraduate_student_loans,Postgraduate doctoral loans,added eleven,postgraduate_loans_listed
+reporting_child_abuse,Reporting and acting on child abuse,added eleven,child_abuse_listed
+safer_maternity_care,Improving maternity safety,added eleven,maternity_action_plan_listed
+fisheries_listed,Flexibility for fisheries management,added eleven,fisheries_listed
+taser_usage,Transparency of police Taser usage,batch 1,taser_usage
+local_infrastructure_rate,New Local Infrastructure Rate,batch 1,local_infrastructure_rate
+tax_avoidance_promoters,Further tackling the promoters of tax avoidance schemes,batch 1,tax_avoidance_promoters
+cca_buyout_price,Climate Change Agreement (CCA) target buy-out price changes,batch 1,cca_buyout_price
+anonymous_registration,Reforming anonymous electoral registration,batch 1,anonymous_registration
+digital_skills_training,Digital skills training,batch 2,digital_skills_training
+charities_incubator,Public Services Incubator for small charities,batch 2,charities_incubator
+funeral_expenses_consultation,Reforms to the Funeral Expenses Payment scheme,batch 2,funeral_expenses_consultation
+rail_fares_information,Information on rail fares and ticketing,batch 2,rail_fares_information
+social_work_england,Establishing Social Work England,batch 2,social_work_england
+public_parks_running,Use of public parks for running,batch 3,public_parks_running
+tourism_action_plan,Regulatory changes to boost tourism businesses,batch 3,tourism_action_plan
+housing_possession_duty_scheme,New procurement model for the Housing Possession Court Duty Scheme,batch 3,housing_possession_duty_scheme
+sugar_reduction_programme,Sugar reduction programme,batch 3,sugar_reduction_programme
+museums_tax_relief,Museums and galleries tax relief,batch 3,museums_tax_relief
+welsh_funding_formula,New formula for Welsh Government funding,batch 4,welsh_funding_formula
+assisted_digital_combined,Assisted digital facilities in the justice system,batch 4,assisted_digital_combined
+local_government_finance_settlement,Local government finance settlement,batch 4,local_government_finance_settlement
+bovine_tb_combined,Bovine TB testing in high-risk areas,batch 4,bovine_tb_combined
+midlands_engine,Supporting enterprise and innovation in the Midlands,batch 4,midlands_engine
+selective_schools,Supporting selective schools,batch 5,selective_schools
+mot_historic_vehicles,MOT testing for historic vehicles,batch 5,mot_historic_vehicles
+nhs_pensionability,Pensionability of NHS sub-contracts,batch 5,nhs_pensionability
+legal_aid_eligibility,Changing the legal aid financial eligibility system,batch 5,legal_aid_eligibility
+firearms_fees,New fees for firearms licences,batch 5,firearms_fees
+state_pension_age,New timetable for the State Pension age change,batch 6,state_pension_age
+fixed_penalties_environment,Fixed penalties for environmental offences,batch 6,fixed_penalties_environment
+nics_self_employed,National Insurance Contributions for the self-employed,batch 6,nics_self_employed
+atol_reform,Air Travel Organisers' Licencing (ATOL) reform,batch 6,atol_reform
+cyber_security_strategy,Strengthening cyber security skills,batch 6,cyber_security_strategy
+five_g_strategy,Creating a national 5G Innovation Network,batch 7,five_g_strategy
+master_trusts,Master trust pension scheme regulations,batch 7,master_trusts
+employment_tribunal,Reforming the Employment Tribunal system,batch 7,employment_tribunal
+early_years_funding,Early years national funding formula,batch 7,early_years_funding
+unexplained_wealth_orders,Unexplained wealth orders,batch 7,unexplained_wealth_orders
+primary_assessment_rochford,Inclusive assessment for primary school pupils,batch 8,primary_assessment_rochford
+electoral_fraud,Combating electoral fraud,batch 8,electoral_fraud
+motor_fuel_ghg,Motor fuel GHG emission reporting regulations,batch 8,motor_fuel_ghg
+work_health_green_paper,Support for young people with a limited capability for work,batch 8,work_health_green_paper
+public_service_ombudsman,Establishing a Public Service Ombudsman,batch 8,public_service_ombudsman
+advocates_pay_reform,Criminal defence advocates pay reform,batch 9,advocates_pay_reform
+schools_national_funding_formula,Schools national funding formula,batch 9,schools_national_funding_formula
+supported_housing_funding,New funding model for supported housing,batch 9,supported_housing_funding
+fee_paid_judicial_pension,Establishing a Fee-Paid Judicial Pension Scheme,batch 9,fee_paid_judicial_pension

@@ -1,0 +1,17 @@
+{
+  "title": "Alcohol Structures",
+  "alias": "alcohol_structures",
+  "source_url": "https://www.gov.uk/government/consultations/alcohol-structures/alcohol-structures-consultation",
+  "uploaded_at": "2026-10-06T16:13:48.777830+01:00",
+  "uploaded_date": "2026-10-06",
+  "uploaded_time": "16:13:48 BST",
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "consultation_invitation",
+    "type_listed_in_2018_appendix": "consultation (1 December 2017)",
+    "matches_2018_listed_source": "yes",
+    "basis": "S0013: consultation runs 12 weeks closing 12 June 2017, so it is the invitation; the Appendix 2 date (1 December 2017) differs and is worth checking.",
+    "source_check": "Listed document(s) retrieved on 2026-10-08 and compared with the ingested text: Not retrieved: the listed source is an HTML consultation page; opening text shows the invitation (closing 12 June 2017)."
+  }
+}

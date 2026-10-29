@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Phased Implementation Tied to a Future Digital Switchover",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Delegated Ofcom Rule-Making and Further Consultation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Industry Engagement and Voluntary Adoption",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Legislative Vehicle for Small-Scale DAB Licensing",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "News and Core Information Requirements for Different Station Types",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Licence Renewal and Analogue-to-DAB Transition",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Multiplex Licensing and Capacity Management",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Consequential Changes to Licensing Frameworks",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

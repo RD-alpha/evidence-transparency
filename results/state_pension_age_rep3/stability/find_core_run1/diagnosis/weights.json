@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Rising life expectancy",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Demographic shift and pay-as-you-go burden",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Past delay and the case for a structured framework",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Wider ageing costs and projection uncertainty",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

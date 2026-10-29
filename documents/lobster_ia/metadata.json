@@ -1,0 +1,18 @@
+{
+  "title": "Lobster Impact Assessment",
+  "alias": "lobster_ia",
+  "uploaded_at": "2026-09-29T12:15:00.596021+01:00",
+  "uploaded_date": "2026-09-29",
+  "uploaded_time": "12:15:00 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "impact_assessment",
+    "type_listed_in_2018_appendix": "consultation + impact assessment + IA annex",
+    "matches_2018_listed_source": "partial",
+    "basis": "Impact assessment at \"Stage: Pre-Consultation\" (S0005); the consultation document itself is not ingested.",
+    "source_check": "Listed document(s) retrieved on 2026-10-08 and compared with the ingested text: 82% found in the listed impact assessment PDF; 0% in the listed consultation."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Criminal defence advocates pay reform",
+  "alias": "advocates_pay_reform",
+  "uploaded_at": "2026-10-13T15:52:24.105731+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "15:52:24 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "agfs_src_1",
+      "title": "Advocates pay reform (source 1)",
+      "sentence_count": 815,
+      "first_sentence": "S0001",
+      "last_sentence": "S0815",
+      "reference_count": 14,
+      "first_reference": "1",
+      "last_reference": "14",
+      "link_count": 18
+    },
+    {
+      "alias": "agfs_src_2",
+      "title": "Advocates pay reform (source 2)",
+      "sentence_count": 477,
+      "first_sentence": "S0816",
+      "last_sentence": "S1292",
+      "reference_count": 3,
+      "first_reference": "15",
+      "last_reference": "17",
+      "link_count": 0
+    },
+    {
+      "alias": "agfs_src_3",
+      "title": "Advocates pay reform Annex 4 (placeholder)",
+      "sentence_count": 3,
+      "first_sentence": "S1293",
+      "last_sentence": "S1295",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 0
+    },
+    {
+      "alias": "agfs_src_4",
+      "title": "Advocates pay reform (source 4)",
+      "sentence_count": 199,
+      "first_sentence": "S1296",
+      "last_sentence": "S1494",
+      "reference_count": 22,
+      "first_reference": "18",
+      "last_reference": "39",
+      "link_count": 0
+    }
+  ],
+  "appendix2_date": "5 January 2017; 5 January 2017; 5 January 2017; 5 January 2017",
+  "appendix2_type": "consultation + Impact Assessment + proposed offence list + equality statement (combined in Appendix order)",
+  "extraction_note": "PDF table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged). Annex 4 (source 3) is a placeholder describing the offence list, not the table."
+}

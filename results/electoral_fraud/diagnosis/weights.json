@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Polling station and voting-channel vulnerabilities",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Registration weaknesses",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Weak legal framework, enforcement and oversight",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scale of fraud and public trust",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

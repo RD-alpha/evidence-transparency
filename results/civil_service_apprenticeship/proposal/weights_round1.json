@@ -1,0 +1,59 @@
+{
+  "themes": [
+    {
+      "theme": "Apprenticeship Numbers and Targets",
+      "reason": "States the specific numerical target and timeline chosen for the intervention, which is central to defining what the proposal actually is and why it was set at this level.",
+      "weight": "core"
+    },
+    {
+      "theme": "Skills Development and Workforce Capability",
+      "reason": "Directly explains why apprenticeships are chosen as the intervention to address skills shortages, a core part of the stated problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Social Mobility and Diversity",
+      "reason": "Directly explains why apprenticeships are chosen to address low diversity/social mobility, the other half of the stated problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Business Case and Economic Benefits",
+      "reason": "Provides the rationale and evidence base (productivity gains, returns on investment) for why this intervention was selected, addressing the should-explain point on what evidence the choice is based on.",
+      "weight": "core"
+    },
+    {
+      "theme": "Quality of Apprenticeships",
+      "reason": "Explains how the proposal is shaped to avoid known weaknesses of past approaches (quantity over quality), addressing the should-explain point on assessing strengths/weaknesses of evidence and prior attempts.",
+      "weight": "core"
+    },
+    {
+      "theme": "Leadership and Public Sector Example",
+      "reason": "Reinforces the government's rationale by framing the proposal as leading by example, but this is supporting narrative rather than the core justification for the intervention itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Government Vision and Strategic Alignment",
+      "reason": "Places the proposal within wider government commitments and workforce plans, offering context on alignment rather than the direct case for why this intervention addresses the problem.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Inclusive Employer and Workforce Representation",
+      "reason": "Largely restates aspirational diversity goals already covered under Social Mobility and Diversity, adding color rather than new argumentative weight.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Training Quality and Engagement",
+      "reason": "Repeats points on quality and engagement already carried by the Quality of Apprenticeships theme, functioning as supporting detail rather than a distinct core argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Career Pathways and Employment Offer",
+      "reason": "Describes an intended feature of the apprenticeship offer but is a secondary elaboration rather than core justification for the intervention.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Consists of miscellaneous administrative, financial and procedural details (levy spending, NAO report mention) that provide background rather than carrying the core argument for the proposal.",
+      "weight": "not core"
+    }
+  ]
+}

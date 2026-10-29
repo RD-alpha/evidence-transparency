@@ -1,0 +1,57 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Banding misaligns duty from strength",
+        "claim": "Unlike beer and spirits, cider and wine duty is banded by EU law so drinks of very different alcoholic strengths within the same band pay identical duty, breaking the link between duty and strength."
+      },
+      {
+        "name": "Adverse incentives within bands",
+        "claim": "Because duty does not rise with strength inside a band, producers face an incentive to push alcohol content toward the top of the band, lowering duty per unit of alcohol as strength increases."
+      },
+      {
+        "name": "Harms from high-strength 'white' cider",
+        "claim": "Public health groups and homelessness charities report that cheap, high-strength 'white' ciders are disproportionately linked to dependent, street and underage drinking and to premature deaths among homeless people."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Strength-based duty principle",
+        "claim": "The government's overarching policy is that alcohol duty should correspond more closely to alcoholic strength to incentivise producers and consumers toward lower-strength drinks."
+      },
+      {
+        "name": "Targeted cider band over alternatives",
+        "claim": "The government proposes a new still cider and perry band below 7.5% abv to target 'white' cider specifically, having rejected raising duty on all ciders (unfair to rural cider makers) or simply lowering the 8.5% threshold (which would widen rather than narrow the problematic band)."
+      },
+      {
+        "name": "New lower-strength wine band pending EU reform",
+        "claim": "In the absence of EU rule changes allowing wine duty to vary continuously with strength, the government proposes splitting the main wine band to create a new lower-duty band for still wine and made-wine between 5.5% and 8.5% abv to encourage innovation and consumption of weaker wines."
+      },
+      {
+        "name": "Building on prior targeted interventions",
+        "claim": "The new bands build on, and are justified partly by, previous targeted actions such as the minimum juice rules for cider and the ban on below-duty-plus-VAT pricing, which the government judges insufficient on their own to fully address the problem."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Threshold placement trade-off",
+        "claim": "Where the lower threshold of the new cider band is set matters because a narrow band may encourage producers to reformulate down to avoid higher duty, while a wider band is more likely to result in price rises passed to consumers, and the government has not yet decided where to draw this line."
+      },
+      {
+        "name": "Risk of over-broad targeting",
+        "claim": "Although designed to target 'white' cider, a new duty band would apply to all still ciders and perries falling within it, risking unintended impacts on traditional producers that the government wants to avoid."
+      },
+      {
+        "name": "Consultation as the method for finalising design",
+        "claim": "The government is using a 12-week, stage-1 consultation under the tax consultation framework to gather evidence and views before deciding the detailed design and implementation of any new bands, rather than legislating immediately."
+      }
+    ],
+    "note": "Much implementation-tagged text is procedural detail about how to respond, confidentiality and contacts, which is not treated as a core theme."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Fragmented and confusing ombudsman landscape",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The Which? finding (64% did not take the complaint further; only half had heard of PHSO vs 94% Trading Standards, 86% FOS) carries Reference 9 and is clearly linked to low awareness, with the Gordon Review (Ref 2), Queen Margaret University (Ref 8) and the LGO complaints maze (Ref 22) also cited, but the document never assesses the strength of this evidence or its limits.)"
+    },
+    {
+      "theme": "Access barriers and outdated legislation",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The Law Commission 2011 report, PASC, Gordon, Queen Margaret University 2013 and the PHSO's own 2010 opinion surveys are named with what they showed, but almost none carry a followable reference (only the unresolved Ref 58) and the survey's method is not given."
+    },
+    {
+      "theme": "Weak governance and accountability",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim rests largely on the author's LGO review, the PHSO's 2013/14 governance statement (Ref 54, which has no definition) and reasoning about the combined roles, with 'external observers say' left unsourced and no data or assessment."
+    },
+    {
+      "theme": "Changing public service delivery and budget pressure",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Specific figures such as the LGO's 33% budget cut over five years (Ref 32), the 11,725 of 20,306 LGO complaints and 7,760 of 40,000 PHSO contacts (Ref 34), and PASC 'More Complaints Please!' (Ref 15) are cited and linked to pressure, though 78% NHS share is uncited and nothing is assessed."
+    },
+    {
+      "theme": "Public service ombudsman history and jurisdiction",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme largely describes the current statutory framework and history, which is not evidence for the problem, with only uncited operational figures such as 29,000 PHSO complaints in 2014-15."
+    },
+    {
+      "theme": "Service quality and public perception",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "LGO and PHSO satisfaction figures (60%, 80%, 70%, 66%) and review/complaint counts cite the annual reports (Refs 11, 12) and the document sets them against the campaign groups' dissatisfaction ('mixed views'), but the contrast is not evaluated as evidence quality."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line 'There are times when matters cannot be resolved like this' offers no evidence."
+    }
+  ],
+  "reasoning": "Two of the four core themes reach level 2 and two stay at level 1, giving a mean of 1.5, which rounds down to 1. The strongest material is in 'Fragmented and confusing ombudsman landscape' (level 2): the Which? finding that '64%... did not take the complaint any further' and that 'only half... had heard of the PHSO compared to 94% who had heard of Trading Standards' carries Reference 9 and is tied directly to the claim of low awareness. 'Changing public service delivery and budget pressure' (level 2) cites the LGO's '33% over five years' budget reduction (Ref 32) and complaint volumes (Ref 34). 'Access barriers and outdated legislation' (level 1) names the Law Commission 2011 report, PASC and the PHSO's 2010 opinion surveys, but gives no followable sources and no method for the surveys. 'Weak governance and accountability' (level 1) rests on reasoning and the author's own earlier review, plus a reference (54) with no definition. The strongest counter-example to level 1 is the fragmentation theme, which is well cited, but the document does not weigh the quality or limits of any evidence, so nothing reaches level 3. To reach level 2 overall, the access and governance themes would need followable citations and a clear link from evidence to claim; level 3 would need the document to assess strengths, weaknesses and contradictory evidence.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

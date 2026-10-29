@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Three delivery routes for creating apprenticeships",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Governance and departmental accountability",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Reform of recruitment, pay and selection practices",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Embedding apprenticeships in career pathways",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Targeted outreach to underrepresented groups and all UK nations",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Apprenticeship frameworks, standards and quality assurance",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Strategic direction and national coordination",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Training provision and funding",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Monitoring and progression",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

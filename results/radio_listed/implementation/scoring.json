@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Phased Implementation Tied to a Future Digital Switchover",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines like 'we believe it would be prudent...' and 'we think that this option may result in fewer stations wanting to broadcast on local multiplexes' are unsupported predictions with no statistic, study, or cited consultation evidence behind the switchover-phasing design."
+    },
+    {
+      "theme": "Delegated Ofcom Rule-Making and Further Consultation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The options for Ofcom flexibility (a)/(b) and the proposal to require further consultation are described but no evidence (data, research, or named consultation findings) is offered for why this delegated approach was chosen over alternatives."
+    },
+    {
+      "theme": "Industry Engagement and Voluntary Adoption",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The decision to run roadshows with Radiocentre and leave take-up voluntary is asserted with no evidence (e.g. no prior engagement data or stakeholder feedback) explaining why this method was chosen."
+    },
+    {
+      "theme": "Legislative Vehicle for Small-Scale DAB Licensing",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The choice to support Kevin Foster MP's Private Member's Bill and defer detailed consultation is stated as fact with no evidence (e.g. feasibility assessment or prior consultation results) justifying this legislative route over others."
+    },
+    {
+      "theme": "News and Core Information Requirements for Different Station Types",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims about costs/burdens on smaller stations and the complexity of exemption regimes are reasoning without any cited data or study, e.g. 'could add significant costs and burdens for smaller stations' is unsupported."
+    },
+    {
+      "theme": "Licence Renewal and Analogue-to-DAB Transition",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The uncited statistic 'digital radio already accounts for more than 50% of national radio listening' is used to justify removing the simulcast requirement for larger broadcasters, reaching level 1 as it is mentioned with explanation but lacks a citation."
+    },
+    {
+      "theme": "Multiplex Licensing and Capacity Management",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements about 'excess of demand for local multiplex capacity' in cities like London and Manchester are asserted without any cited data or survey to support the claim."
+    },
+    {
+      "theme": "Consequential Changes to Licensing Frameworks",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that community radio licence expiry in 2020 creates a 'read across' to switchover timing is reasoning with no supporting evidence or data cited."
+    }
+  ],
+  "reasoning": "The four core themes\u2014Phased Implementation Tied to a Future Digital Switchover, Delegated Ofcom Rule-Making and Further Consultation, Industry Engagement and Voluntary Adoption, and Legislative Vehicle for Small-Scale DAB Licensing\u2014all score 0. Each describes a delivery mechanism (switchover-linked timing, Ofcom flexibility, roadshows with Radiocentre, a Private Member's Bill) but offers only reasoning or description, never evidence. Lines such as 'we believe it would be prudent, at this point, to ensure that Ofcom does have the appropriate powers' or 'It will be for commercial radio stations themselves to determine whether to take account of the new flexibilities' are assertions, not grounded claims. No references or links appear in any of these four themes, and no statistics, named studies, or explained consultation data are offered to justify why these particular delivery routes were chosen over alternatives. The strongest counter-example is the uncited figure 'digital radio already accounts for more than 50% of national radio listening,' which appears in the non-core Licence Renewal theme and could arguably support confidence in digital transition timing, but it is not cited and does not directly address the core claims about switchover-phasing design, delegated rule-making, engagement method, or the legislative vehicle. With a mean of 0 across the four core themes (0+0+0+0)/4 = 0, the section scores 0. To reach level 1, the document would need to mention actual evidence\u2014such as industry survey results, modelling of switchover timing, or consultation response data\u2014explaining how these delivery choices were made.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

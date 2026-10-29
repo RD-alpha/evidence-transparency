@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "theme": "Use of existing legal powers under transitional EU/domestic rules",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Timing driven by the sunset clause, separate from Heathrow expansion",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Mechanism for resolving undecided details via consultation and future policy",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Dispensations framework and exceptional circumstances",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Operational flexibility and carryover arrangements",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Environmental objectives and balanced approach framework",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Governance and locally agreed arrangements",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Aircraft performance classification and exemptions",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Business impact and evidence gathering",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Consultation process and stakeholder input",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

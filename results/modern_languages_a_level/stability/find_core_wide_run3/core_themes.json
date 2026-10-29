@@ -1,0 +1,48 @@
+{
+  "diagnosis": {
+    "core_themes": [],
+    "note": "No sentences in the document are classified as Diagnosis; the text moves directly from background framing to the proposal and implementation detail without stating a problem, its causes, scale or an evidence assessment."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Interdisciplinary and academic value of language study",
+        "claim": "The document claims that studying a modern language is an interdisciplinary subject offering the same cognitive and academic advantages as other humanities disciplines."
+      },
+      {
+        "name": "Transferable skills and wider benefit",
+        "claim": "The document claims that the AS/A level content fosters transferable skills (communication, critical thinking, autonomy, creativity, cognitive flexibility) that are valuable to individuals, society, higher education and employers."
+      },
+      {
+        "name": "Universal relevance and progression foundation",
+        "claim": "The document claims the content is designed to be relevant to students of all disciplines while also providing a robust foundation for those progressing to degree-level study of the language."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Integrated skills and competence framework",
+        "claim": "The document claims that specifications must require students to develop an integrated set of linguistic, intercultural and cognitive competences (listening, speaking, reading, writing, translation, mediation) as the basis of AS and A level study."
+      },
+      {
+        "name": "Thematic cultural and societal content",
+        "claim": "The document claims that specifications must require students to study prescribed numbers of themes on society and culture, using authentic spoken and written sources as stimulus for language development."
+      },
+      {
+        "name": "Study of literary works and film",
+        "claim": "The document claims that specifications must require students to study one (AS) or two (A level) literary works or films, with increasing critical and analytical depth at A level, drawn from authentic prescribed sources."
+      },
+      {
+        "name": "Independent research skills at A level",
+        "claim": "The document claims that A level specifications must additionally require students to develop research skills, including identifying a question, gathering authentic sources, and presenting findings orally."
+      },
+      {
+        "name": "Standardised grammar requirements across languages",
+        "claim": "The document claims that specifications must include detailed grammar content (set out for French, German and Spanish, and required to be comparable for other languages, including Chinese with noted exceptions) as the basis for accurate and consistent language use."
+      }
+    ],
+    "note": "The grammar annexes form an extensive but largely enumerative list; they are treated here as one combined theme since their core argumentative role is to establish a standardised benchmark rather than to introduce distinct lines of argument."
+  }
+}

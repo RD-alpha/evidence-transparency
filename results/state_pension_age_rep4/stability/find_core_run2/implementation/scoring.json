@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Notice and communications",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The ten-year notice commitment and communications plans are commitments and reasoning (lines on 'minimum of ten years' notice', 'windows of stability'), with only a reference to John Cridland's views and no data or sources showing the approach will work."
+    },
+    {
+      "theme": "Wider support package",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only evidence is the ~\u00a350 billion annual benefit spend figure (Reference: 42, DWP benefit expenditure tables), which describes current provision rather than showing the package will work, with the rest being commitments and reference to Cridland and the health and work consultation without findings."
+    },
+    {
+      "theme": "Legislative process and timetable",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines on primary legislation and the Government Actuary's report timetables are descriptive, with no cited evidence or explanation of what the actuary's report shows."
+    }
+  ],
+  "reasoning": "Both core themes rest mainly on commitments and assertion. Notice and communications (level 0) promises \"a minimum of ten years' notice\" and a communications strategy that \"could\" use digital tools, but offers no research on how much notice people need, how well past changes were communicated, or whether such channels reach those affected. Cridland's views are cited as agreement, not as evidence with findings, and the document concedes \"There is no legislative requirement\" for notice, which describes current rules rather than justifying the choice. Wider support package (level 1) offers one figure: \"Current spending on benefits to support disabled people and people with health conditions is around \u00a350 billion a year\" (Reference: 42, DWP benefit expenditure tables). It is cited and followable, but it shows the scale of existing spending, not that welfare protection will be adequate for those who cannot work until 68. The health and work consultation and Cridland's recommendations are named without results. The mean of the core themes is 0.5, which rounds to 1. The strongest counter-example to this is that the notice theme could be argued to have no evidence at all, which would hold the score at 0 if the support package were also judged to lack linked evidence. To reach level 2, the document would need to show how the evidence supports the chosen approach: for example data on how much notice people need to adjust, evidence on the effectiveness of communications, and analysis of how many people will be unable to work longer and whether the benefits system covers them.",
+  "score": 0,
+  "model_score": 1,
+  "core_mean": 0.5,
+  "score_consistent": false,
+  "missing_core": []
+}

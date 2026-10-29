@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Apprenticeships as the skills solution",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Numerical growth commitment",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Social mobility and diversity vehicle",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Economic and business case for apprenticeships",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Leading by example and quality over quantity",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Apprenticeship integration into Civil Service workforce strategy",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Quality outcomes and apprentice engagement",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Government apprenticeship agenda alignment",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

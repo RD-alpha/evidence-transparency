@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Flexible routes to compliance balance cost and safety",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Route-use percentages (25%/5%/50%/20%) are explicitly 'based on discussions with stakeholders and BIS estimates' and tied to consultation numbers in Reference 3 (57 vs 14 respondents), giving a cited but only loosely explained methodology for each route."
+    },
+    {
+      "theme": "Extended transition period reduces business disruption",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 24-month choice is linked to consultation responses ('generally indicated a longer transition period of 24 months') and a cost model with a stated 4% maximum cost increase and \u00a30.6m estimate (References 11-13), though the model is admitted to be 'crude' and one citation (11) does not clearly match the claim it supports."
+    },
+    {
+      "theme": "Enhanced traceability and labelling modelled on other product regimes",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The NLF comparison and cost estimate ('Assuming an additional 16 hours of admin time... \u00a31m') draw on named sources (References 8, 9, 14) including BIS's own PRODCOM analysis, with the calculation shown, but no assessment of the evidence's reliability is offered."
+    },
+    {
+      "theme": "Unresolved design details to be settled through further consultation",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The document repeatedly states items like the 'protective cover' test and scope exclusions 'will be tested in consultation' and references 2014 consultation responses on SME cost savings, but gives no detail on how those earlier responses were obtained or will shape the decision."
+    }
+  ],
+  "reasoning": "The core claims rest mostly on BIS's own estimates and consultation feedback, cited but thinly explained. The routes-to-compliance theme ties percentages to 'discussions with stakeholders and BIS estimates' and consultation numbers (Reference 3: 57 vs 14), scoring 2. The transition-period theme links the 24-month choice to consultation preferences and a cost model yielding '4%' and '\u00a30.6m' (References 11-13), but admits 'this is a crude estimate' and cites a mismatched source (Reference 11), also scoring 2. The traceability theme cites BIS's PRODCOM analysis and FIRA data (References 8, 9) to justify a \u00a31m admin cost, scoring 2. The unresolved-details theme mostly just restates intent to 'test in consultation' without evidence of method, apart from a passing reference to 2014 consultation responses, scoring 1. Mean = (2+2+2+1)/4 = 1.75, rounding to 2. The strongest counter-example against a higher score is that none of the themes show the department assessing the quality or limitations of its own stakeholder-derived percentages (e.g. the 25%/5%/50%/20% split is never checked against independent data). To reach level 3, the document would need to critically assess its consultation-derived estimates and cost models, acknowledging where evidence is weak or contested, rather than simply flagging further testing as a future step.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

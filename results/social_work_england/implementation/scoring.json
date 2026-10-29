@@ -1,0 +1,22 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Sector engagement and co-design",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines on the Advisory Group and planned consultation on Regulations describe process and intent, with no evidence, no references and no reasoning from findings for why this route was chosen."
+    },
+    {
+      "theme": "Timetable and phased delivery",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The September 2018 date, the 'challenging, but achievable' assessment and the phasing plan are asserted with no data, analysis or references, and no alternatives are weighed."
+    }
+  ],
+  "reasoning": "Both core themes are scored at level 0. In 'Sector engagement and co-design' the document says \"We are also establishing an Advisory Group to help us as we work through the detail\" and that it \"intend[s] to consult on Regulations\". These lines describe a process for deciding the detail, which the framework values, but they offer no evidence about why this approach was chosen, and no consultation responses, research or comparable regulators are cited. In 'Timetable and phased delivery' the statements \"We believe that this is challenging, but achievable\" and that the body \"will phase in new standards over a period of time\" are assertions of belief and plan. No analysis of delivery risk, no data and no reference supports the September 2018 date or the order of phasing (education and training standards first). The reasoning that a phased approach gives the body \"space to properly establish its core functions\" is plausible but is reasoning, not evidence. Neither theme has any references or links. The mean of the core themes is 0, giving a score of 0. The strongest counter-example is that the document does openly say the timetable detail is \"still being developed\" and is challenging, which is a hint of acknowledged uncertainty, but that is not an assessment of any evidence. To reach level 1 the document would need to offer some evidence for the delivery choices, such as consultation responses on phasing, delivery-risk analysis or the experience of other regulators. Citing sources, and explaining how they were obtained, would be needed for level 2.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

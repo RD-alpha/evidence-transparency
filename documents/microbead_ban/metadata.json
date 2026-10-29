@@ -1,0 +1,19 @@
+{
+  "title": "Microbead Ban",
+  "alias": "microbead_ban",
+  "uploaded_at": "2026-10-06T16:18:17.034217+01:00",
+  "uploaded_date": "2026-10-06",
+  "uploaded_time": "16:18:17 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "notes": "This is a document outlining the scope of a consultation rather than responding to one",
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "consultation_invitation",
+    "type_listed_in_2018_appendix": "consultation (20 December 2016)",
+    "matches_2018_listed_source": "yes",
+    "basis": "Scope-of-consultation document (human note in metadata; \"Topic of this consultation\", \"Scope of this consultation\").",
+    "source_check": "Listed document(s) retrieved on 2026-10-08 and compared with the ingested text: 94% found in the listed consultation PDF."
+  }
+}

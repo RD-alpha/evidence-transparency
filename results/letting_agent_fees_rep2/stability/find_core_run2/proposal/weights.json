@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Rebalancing the market by shifting fee liability to landlords",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scottish precedent as evidence for the chosen approach",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Acceptable trade-off of possible rent increases",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Reducing the deposit burden as a complementary measure",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Policy scope and legislative design",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Affordability and access benefits for tenants",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Regulatory context and position in other jurisdictions",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

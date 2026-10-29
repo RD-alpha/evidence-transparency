@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Phased transition and protections",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 5% annual cap, 10% floor and 2019-20 end date are stated as proposals and balancing arguments (e.g. 'We therefore propose to cap local authorities' reductions in their hourly rates to 5%'), with no statistic, analysis or source showing why these levels were chosen or will work."
+    },
+    {
+      "theme": "Gradual local-level changes",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 93% to 95% pass-through, the 2019-20 base-rate deadline and the \u00a355 million nursery school funding are asserted as reasoned proposals ('We consider that it is reasonable to increase the level of the pass-through over time') with no evidence for the chosen levels or durations."
+    },
+    {
+      "theme": "Timetable and provider planning",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The published indicative hourly rates by local area are the department's own modelling and give a planning basis, but the method behind them is not explained and the document notes they 'cannot show what every early years provider will receive', so the evidence is mentioned and used but not clearly sourced."
+    },
+    {
+      "theme": "Funding formula and allocation mechanics",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The supplement cap of 10% is tied to the stated range of supplement use (nothing to over 50%, median around 10%), which is the department's own data with unexplained method; references 12 and 13 only describe allocation practice and point to a DSG page."
+    },
+    {
+      "theme": "Disability and inclusion support",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The Disability Access Fund and inclusion fund arrangements are described as proposals with no evidence that they will work as intended."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines only restate the transition approach and acknowledge that change will be felt, with no evidence offered."
+    }
+  ],
+  "reasoning": "The three core themes rest almost entirely on reasoning and description, not evidence. 'Phased transition and protections' (level 0) sets a 5% annual cap, a 10% floor and a 2019-20 endpoint. The document justifies them as a balance between 'increase funding to underfunded areas as fast as possible' and keeping 'the transition manageable'. It gives no modelling, distribution of gains and losses, or comparison with alternative caps, so a citizen cannot see why 5% and 10% were chosen. 'Gradual local-level changes' (level 0) is similar: the move from 93% to 95% pass-through and the \u00a355 million for maintained nursery schools are asserted, with 'We consider that it is reasonable'. 'Timetable and provider planning' (level 1) gets credit because the department has published indicative local hourly rates and says why: 'so that providers can make initial plans'. It does not explain how those rates were calculated, which stops it reaching level 2. The mean of the core themes is (0+0+1)/3 = 0.33, which rounds to 0. The strongest counter-example is the indicative-rates theme, which suggests the section deserves a 1 because there is real department data and it admits the rates may differ from final ones. Even so, that covers only one of three core claims. To reach level 1 the document would need to show the evidence behind the cap, floor and pass-through levels, such as modelled impacts on local authorities or providers. To reach level 2 it would also need to explain how the indicative rates were produced and reference them.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,88 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Quantified national ambition",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines only state the 50% (2030) and 20% (2020) targets and their origin in November 2015, with no figures, data or analysis given for why these specific proportions or timeframes were chosen."
+    },
+    {
+      "theme": "Five-driver improvement framework",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The five drivers are described and said to build on 'Spotlight on Maternity', and the uncited claim elsewhere that 'this approach has been linked to improvements in maternity quality and safety outcomes...including Scotland' offers an unsourced comparator finding for the approach, but with no citation it cannot exceed level 1."
+    },
+    {
+      "theme": "National ambition requires local and regional partnership",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The assertion that 'the most effective networks are built on supportive multi-professional relationships and collaborative working' is offered as a known finding to justify the need for local/regional partnership, but no source is named or linked."
+    },
+    {
+      "theme": "Public health and prevention contribution",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that the work targets 'risk factors known to influence poor outcomes, including...smoking during pregnancy, obesity and substance misuse' functions as an unnamed research claim supporting the prevention focus, but no source is cited."
+    },
+    {
+      "theme": "Leadership culture and continuous improvement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "All lines assert the value of leadership and culture change through reasoning alone, with no statistic, study or named source offered."
+    },
+    {
+      "theme": "Learning from investigations and best practice",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Better Births' recommendation for a Rapid Resolution and Redress scheme cites 'evidence of the effectiveness of a similar scheme operating in Sweden' as grounds, but this is named only in prose with no reference or link."
+    },
+    {
+      "theme": "Multi-professional team training and collaboration",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that training together improves teamwork is linked to reference 11 (Better Births) only in a general sense ('identified the importance of...in Better Births'), without a specific citation tying the evidence to the claim."
+    },
+    {
+      "theme": "Data collection and quality measurement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "All statements ('good data drives quality', 'good data also drives prevention') are asserted without any study, figure or source."
+    },
+    {
+      "theme": "Quality improvement initiatives and innovations",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The Saving Babies' Lives care bundle and atain programme are named and described, but no evidence is given that they reduce stillbirths or neonatal deaths."
+    },
+    {
+      "theme": "Perinatal mental health services",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The \u00a3365 million investment figure is given but with no evidence of expected impact or how the figure was derived."
+    },
+    {
+      "theme": "Professional endorsements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "These are statements of support from RCM and RCOG, not evidence for the intervention's design."
+    },
+    {
+      "theme": "Supporting documents and events",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "These lines describe the Spotlight on Maternity publication and a learning event without presenting evidence of their effect."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The Scotland stillbirth-rate comparison is an uncited but specific finding offered as grounds ('substantial progress in reducing the stillbirth rate'), reaching level 1 without a citation."
+    }
+  ],
+  "reasoning": "The four core themes each rest on thin, largely uncited evidence. 'Quantified national ambition' only states the 50%/2030 and 20%/2020 targets with no supporting data or modelling, so it scores 0. 'Five-driver improvement framework' gains a little support from the uncited Scotland comparison ('this approach has been linked to improvements...including Scotland, where there has been substantial progress in reducing the stillbirth rate'), but without a citation it cannot pass level 1. 'National ambition requires local and regional partnership' relies on the unsourced assertion that 'the most effective networks are built on supportive multi-professional relationships', an unnamed-research-style claim, again capping at level 1. 'Public health and prevention contribution' similarly rests on the phrase 'risk factors known to influence poor outcomes', an unnamed finding with no source, also level 1. Mean of (0,1,1,1)=0.75, rounding to 1. The strongest counter-example is the Scotland comparison, which shows the document does gesture towards comparator evidence, but it is not cited, not quantified, and not clearly tied to a specific driver, so it cannot lift any theme past level 1. To reach level 2, the document would need to cite the sources behind these claims (e.g. a reference for the Scotland data, for the 'most effective networks' finding, and for the chosen 20%/50% targets) and show explicitly how each piece of evidence led to the specific design choices made.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

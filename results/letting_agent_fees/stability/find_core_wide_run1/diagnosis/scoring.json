@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Opaque and inconsistent fee practices",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "DCLG's own market research is described with method ('we randomly chose 50 agents...and searched their website') and multiple cited surveys (Reference 3, 6, 10) give specific figures on fee ranges and display practices, linking evidence to the opacity claim, but the document does not assess the reliability or limits of these surveys."
+    },
+    {
+      "theme": "Tenants' lack of bargaining power",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims such as 'renters cannot take time to shop around' and 'tenants have little control' are asserted as reasoning with no statistic, survey or named source attached, and the embedded '12' footnote is not linked via a Reference tag."
+    },
+    {
+      "theme": "Misaligned incentives and weak competition on tenant fees",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that transparency requirements 'demonstrated' double-charging and that agents 'may keep landlord fees down by charging increased fees to tenants' is offered as a finding but with no named source or citation, so it stays at level 1."
+    },
+    {
+      "theme": "Scale, growth and financial harm of fees",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "English Housing Survey 2014/15 figures (40% charged a fee, mean \u00a3223, 60% rise in median fees) and cited NALS/Generation Rent/Citizens Advice data (References 4,5,9,13) are directly linked to claims of scale and financial harm, though no assessment of discrepancies between the differing average fee figures (\u00a3172 vs \u00a3223 vs \u00a3400) is offered."
+    }
+  ],
+  "reasoning": "The diagnosis mixes well-sourced statistical evidence with unsupported assertion. 'Scale, growth and financial harm' (level 2) is strongly grounded in the English Housing Survey 2014/15 and cited surveys (References 4, 5, 9, 13), e.g. 'median fees charged by agents increased by 60% between 2009-10 and 2014-15' and 'Citizens' Advice found that 64% of tenants experienced problems paying letting agents' fees'. 'Opaque and inconsistent fee practices' (level 2) is similarly backed by DCLG's own described market research and cited NALS/Generation Rent data (References 3, 6, 10), e.g. the \u00a320-\u00a3570 reference-fee range. By contrast, 'Tenants' lack of bargaining power' (level 0) rests entirely on unevidenced reasoning such as 'renters cannot take time to shop around', and 'Misaligned incentives and weak competition' (level 1) offers an unnamed finding ('This has demonstrated that tenants are sometimes charged for services that are also considered part of the landlord's fee') without any citation. The mean of the four core levels (2, 0, 1, 2) is 1.25, rounding down to 1. The strongest counter to a higher score is that two of the four core claims lack any citable evidence at all. To reach level 2 overall, the document would need to attach named, linkable sources to the bargaining-power and incentive claims; to reach level 3 it would need to assess the reliability of, or discrepancies between, its various fee surveys.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.25,
+  "score_consistent": true,
+  "missing_core": []
+}

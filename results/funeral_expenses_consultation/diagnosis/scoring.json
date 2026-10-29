@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Eligibility rules that wrongly exclude applicants",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 4.2 describe the rules and assert that 'in a small number of cases' applicants were denied, with no figures, cases, data or sources, and the 'ungrouped' line 4.5 about confusion adds only an unevidenced assertion."
+    },
+    {
+      "theme": "Deduction of third-party contributions",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 4.1 only describe how the current regulations deduct contributions and offer no evidence of the scale or effect of the problem."
+    },
+    {
+      "theme": "Burdensome and slow claims process",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 4.3, 4.4 and 4.6 state the 3-month limit, 22-page form and electronic-evidence ban as descriptions of current rules and assertions of difficulty, with no data on rejected late claims, completion times or complaints."
+    },
+    {
+      "theme": "Prospective medical examiner fees",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The March 2016 Department of Health consultation is named in prose and its proposal for a fee on all deaths is explained as the basis of the gap, but there is no reference or link and the response is unpublished."
+    }
+  ],
+  "reasoning": "All three core themes rest on description of current rules and bare assertion, so none reaches level 1. The eligibility theme says 'in a small number of cases, applicants have been denied a Funeral Payment' but gives no count, no example cases and no source, and the 'ungrouped' line 4.5 ('has led to some confusion') is likewise unevidenced. The deduction theme says only that 'we then deduct the value of these contributions... regardless of the total cost of the funeral'; this describes the rule and shows no harm or scale. The claims-process theme describes the 3-month limit, the 22-page form and the electronic evidence ban, and explains the form length by 'the amount of information we need', but offers no data on rejected late claims, time taken or applicant and funeral director experience. No references or links appear anywhere in the extract. The core themes score 0, 0 and 0, a mean of 0, giving a score of 0. The strongest counter-example is the non-core medical examiner theme, which names the March 2016 Department of Health consultation and what it proposed, reaching level 1; but it is not core and has no citation. To reach level 1, the document would need to give evidence for the problems: how many claims were refused because of care-home relatives or late filing, case examples, or consultation feedback with how it was gathered. To reach level 2 it would also need to cite the sources and show the reasoning from them.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.25,
+  "score_consistent": true,
+  "missing_core": []
+}

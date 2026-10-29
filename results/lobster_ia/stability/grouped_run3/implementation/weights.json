@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Scope, Exemptions and Legal Mechanism of the Ban",
+      "reason": "This theme defines the actual method chosen for delivery - amending an existing SI under specific legal powers, specifying which vessels and waters are covered and why exemptions (e.g. foreign vessels) are justified. It directly addresses why this method was chosen and what the mechanism is, making it foundational to the implementation argument.",
+      "weight": "core"
+    },
+    {
+      "theme": "Evidence Gathering, Consultation and Stakeholder Engagement",
+      "reason": "This theme describes the process for finalising details (consultation, testing assumptions, stakeholder workshops) rather than the implementation method itself; it supports refinement but the core case for how the ban will be rolled out does not depend on it.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Enforcement Costs and Implementation",
+      "reason": "This theme provides the detailed cost estimates and assumptions for enforcement, which is a should-explain point about costs and benefits, but it elaborates on consequences of the chosen mechanism rather than constituting the argument for why that mechanism was selected; removing it would make the case less complete but not collapse the core implementation argument.",
+      "weight": "not core"
+    }
+  ]
+}

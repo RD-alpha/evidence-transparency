@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Strategic Vision and Goals",
+      "reason": "Sets out the overarching goals and timetable (2015-2020) against which success will be measured, establishing the framework for evaluation and the interim goals that structure the rest of the testing/evaluation argument.",
+      "weight": "core"
+    },
+    {
+      "theme": "Data Collection and Tracking Infrastructure",
+      "reason": "Describes the core mechanism (quarterly data collection, long-term tracking, baseline data, governance) by which impact will actually be measured and evaluated over time, directly addressing the should-explain point on measurement and evaluation timetable.",
+      "weight": "core"
+    },
+    {
+      "theme": "Skills, Diversity and Workforce Capability Measures",
+      "reason": "Specifies the concrete outcome measures (apprenticeship levels, diversity data, skill gap reduction) that operationalise what impact will be measured, directly supporting the should-explain point on outcomes to be measured.",
+      "weight": "core"
+    },
+    {
+      "theme": "Employee Engagement and External Reputation",
+      "reason": "Adds additional success indicators (People Survey scores, external recognition) that supplement the measurement framework but are not essential to the core case that impact and outcomes will be tracked.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Retention, Return on Investment and Levy Funding",
+      "reason": "Provides further specific metrics (retention, ROI, levy spend) that add detail to the evaluation plan but are supplementary to the main measurement and tracking argument already carried by other themes.",
+      "weight": "not core"
+    }
+  ]
+}

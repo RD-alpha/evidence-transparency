@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Changing the AE duties trigger date",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that only a legislative trigger date gives TPR certainty is asserted as reasoning (\"Non-legislative approaches... would not provide the definitive AE duties start date that TPR needs\") with no statistic, survey, or cited analysis offered to support it."
+    },
+    {
+      "theme": "Extending the deferral/postponement easement",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim draws on the 2010 Making Automatic Enrolment Work (MAEW) Review and employer concerns it recorded, which is a named source with some explanation of its finding, but it carries no reference or link so cannot pass level 1."
+    },
+    {
+      "theme": "Evolution of Automatic Enrolment framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The theme lists historical legislative changes (postponement, earnings trigger, staging timetable changes) as fact but gives no evidence of their effects or why they were made, so no evidential grounds are offered."
+    },
+    {
+      "theme": "Consultation objectives and scope",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "This theme only describes the consultation's purpose and scope and asks for stakeholder views; it offers no evidence for any claim."
+    }
+  ],
+  "reasoning": "The two core themes score very differently. 'Changing the AE duties trigger date' (level 0) rests entirely on assertion: \"Non-legislative approaches to resolving this issue would not provide the definitive AE duties start date that TPR needs\" is reasoning, not evidence - no data, survey or analysis is cited to show non-legislative options were tried or modelled and failed. 'Extending the deferral/postponement easement' reaches level 1: it names the 2010 MAEW Review and explains what it found (\"many employers expressed concern that the automatic enrolment of new workers could lead to significant costs\", \"independent MAEW reviewers recommended the introduction of a postponement period\"), but this source carries no reference or link in the empty <references>/<links> blocks, so it cannot reach level 2, and no uncertainties are examined, so it cannot reach level 3. The mean of 0 and 1 is 0.5, which rounds down to 0. The strongest counter-example is the MAEW Review material, which does show some evidential grounding for the postponement extension, but it alone cannot lift the section average past 1. To reach level 1 overall, the trigger-date theme would need some named finding or data behind the TPR-certainty argument; to reach level 2, both claims would need properly cited sources linking evidence directly to the specific policy choices made.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.5,
+  "score_consistent": true,
+  "missing_core": []
+}

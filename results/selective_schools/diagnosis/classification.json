@@ -1,0 +1,108 @@
+{
+  "themes": [
+    {
+      "name": "Shortage of good school places",
+      "ids": [
+        "S0038",
+        "S0039",
+        "S0040",
+        "S0041",
+        "S0093",
+        "S0094",
+        "S0095",
+        "S0096",
+        "S0097",
+        "S0098",
+        "S0099",
+        "S0100",
+        "S0101"
+      ]
+    },
+    {
+      "name": "Institutions not incentivised to expand good provision",
+      "ids": [
+        "S0051",
+        "S0060",
+        "S0061",
+        "S0065",
+        "S0070",
+        "S0071",
+        "S0216",
+        "S0217",
+        "S0227",
+        "S0228",
+        "S0229",
+        "S0230",
+        "S0275",
+        "S0276",
+        "S0279",
+        "S0286",
+        "S0299",
+        "S0419",
+        "S0420",
+        "S0423",
+        "S0429",
+        "S0430"
+      ]
+    },
+    {
+      "name": "Faith admissions cap fails to deliver inclusivity",
+      "ids": [
+        "S0070",
+        "S0071",
+        "S0421",
+        "S0425",
+        "S0426",
+        "S0427",
+        "S0428",
+        "S0440",
+        "S0441",
+        "S0449"
+      ]
+    },
+    {
+      "name": "Ordinary families poorly measured and served",
+      "ids": [
+        "S0108",
+        "S0109",
+        "S0110",
+        "S0111",
+        "S0112",
+        "S0115",
+        "S0116",
+        "S0117",
+        "S0118",
+        "S0120",
+        "S0121",
+        "S0122",
+        "S0123",
+        "S0124",
+        "S0146",
+        "S0147",
+        "S0314",
+        "S0315",
+        "S0316"
+      ]
+    },
+    {
+      "name": "Independent and selective school access",
+      "ids": [
+        "S0134",
+        "S0135",
+        "S0136",
+        "S0138",
+        "S0139",
+        "S0398",
+        "S0399"
+      ]
+    },
+    {
+      "name": "Other",
+      "ids": [
+        "S0084",
+        "S0091",
+        "S0422"
+      ]
+    }
+  ]
+}

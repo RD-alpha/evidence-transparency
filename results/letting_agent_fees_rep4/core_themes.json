@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "High and opaque tenant fees",
+        "claim": "Letting agent fees charged to tenants vary enormously, are often hidden or inconsistently itemised, and are frequently duplicated with charges already made to landlords, making them very hard for tenants to find, understand or compare."
+      },
+      {
+        "name": "Tenants' lack of market power",
+        "claim": "Because landlords, not tenants, choose and pay the letting agent, tenants have little or no ability to negotiate, avoid or shop around on fees, so competitive pressure on tenant-side fees is structurally weak and fees have risen as a result."
+      },
+      {
+        "name": "Financial harm to tenants",
+        "claim": "High, repeated up-front letting fees create real financial hardship for tenants, deterring moves, forcing borrowing, and making it harder to save for a deposit or escape poor-quality housing."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Rebalancing market power through a fee ban",
+        "claim": "Banning tenant fees is the right intervention because it exploits landlords' stronger market position, forcing agents to compete on price and quality for landlords' business while giving tenants clear, comparable advertised rents."
+      },
+      {
+        "name": "Scottish precedent as supporting evidence",
+        "claim": "The pre-existing ban on tenant fees in Scotland shows that such a ban can operate without serious negative side-effects for the sector, supporting the case for introducing a similar ban in England."
+      },
+      {
+        "name": "Assessing the rent/cost trade-off",
+        "claim": "Although some agents may pass costs to landlords and some landlords may raise rents in response, the overall effect will still benefit tenants by making costs transparent, predictable and easier to manage than high hidden up-front fees."
+      },
+      {
+        "name": "Reducing the up-front deposit burden",
+        "claim": "Alongside the fee ban, the Government proposes to explore capping deposits and developing alternative models to further reduce the financial burden tenants face when entering a tenancy."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Local enforcement via Trading Standards, strengthened by new mechanisms",
+        "claim": "The ban will be enforced primarily by local authority Trading Standards, building on their existing role, with options such as a lead enforcement authority and increased data sharing explored to make enforcement more consistent and effective."
+      },
+      {
+        "name": "Penalties for non-compliance",
+        "claim": "Non-compliant agents should face meaningful penalties, potentially a civil fine similar to or higher than existing £5,000/£30,000 levels, or criminal/banning-order sanctions, to deter fee-charging."
+      },
+      {
+        "name": "Tenant empowerment and education",
+        "claim": "Educating and empowering tenants to recognise and challenge unlawful fees, including routes to local authorities or the county court, is a key mechanism for making the ban effective without overburdening regulators."
+      },
+      {
+        "name": "Permitted exceptions to the ban",
+        "claim": "Certain charges—holding deposits and in-tenancy charges arising from tenant actions—will continue to be permitted, with specific rules (e.g. refundability, possible caps) designed to prevent abuse while preserving the ban's core effect."
+      }
+    ],
+    "note": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Decision process and timing",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The single line says the Government will consider consultation responses and announce in the autumn whether the buy-out price is revised for TP3 and TP4, which names consultation responses as an input but gives no reference or detail of who was consulted, how many responded or what they were asked."
+    }
+  ],
+  "reasoning": "The extract has one core theme, \"Decision process and timing\", containing one line: \"The Government will consider responses and make an announcement in the autumn on whether or not the buy-out price will be revised for TP3 and TP4.\" It carries no references or links. The line does set out a method for deciding, because the decision will follow consideration of consultation responses, and it gives a timetable of an autumn announcement. That is the kind of explanation expected where the delivery route is still being decided. The consultation responses are the department's own primary evidence. The document gives no indication of who was consulted, how many responded or what they were asked, so the method of obtaining that evidence is unclear. It also does not say how the responses will be weighed against other considerations or what criteria will decide whether the price is revised. Because consultation responses are offered as grounds for the decision, the theme reaches level 1 but not level 2. The mean of the core themes is 1.0, so the score is 1. The strongest counter-example is a level 0 reading: the line only describes a process and a timetable, and no evidence is presented or used. I judge that the explicit link between the responses and the decision is enough for level 1. To reach level 2, the document would need to describe the consultation, including who was consulted, the number of responses and the questions asked. It would also need to show how the responses will feed into the decision and link to where they can be found. It says nothing on costs, benefits or alternatives to the \u00a314 price in this extract.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

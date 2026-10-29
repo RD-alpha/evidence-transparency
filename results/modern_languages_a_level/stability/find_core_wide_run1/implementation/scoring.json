@@ -1,0 +1,52 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Core linguistic and intercultural skill requirements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The list of required skills (e.g. 'enhance their linguistic skills', 'mediate between cultures') is asserted as a requirement with no evidence offered for why these particular skills or this framing were chosen."
+    },
+    {
+      "theme": "Thematic and cultural content structure",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The requirement for one/two themes from two areas of interest is stated as a rule with no data, research or consultation cited to justify the number or choice of themes."
+    },
+    {
+      "theme": "Language skill development mechanisms",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Although one line carries '(Reference: 1)', the <references> and <links> blocks are empty so no source can be traced, and no explanation is given of what evidence underlies choices like translation or summarising tasks."
+    },
+    {
+      "theme": "Literary and film work study requirements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The requirement for one/two works and the genre lists are specified without any evidence (e.g. comparative practice, research on literary study outcomes) given for these specific numbers or genres."
+    },
+    {
+      "theme": "A-level specific enhancements including research skills",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The addition of independent research skills at A level is described as a requirement with no evidence cited for why this enhancement was added at this level."
+    },
+    {
+      "theme": "Grammar specification requirements",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The extensive grammar lists for French, German and Spanish, and the requirement for comparable appendices in other languages, are stated as rules with no evidence (e.g. linguistic research, comparability studies) given for why this content or 'comparable challenge' threshold was chosen."
+    },
+    {
+      "theme": "Chinese-specific adaptations",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The exceptions for Chinese (English-language questions, bilingual literary questions) are stated as rules with no evidence cited for why Chinese needed different treatment from other languages."
+    }
+  ],
+  "reasoning": "Across all seven core themes, the extract only describes what the AS/A level specifications must contain -- skills, themes, grammar lists, literary/film requirements, research components, and Chinese exceptions -- without ever showing why these particular choices were made. There is no consultation data, no comparative analysis of alternative delivery methods, no cited research on language pedagogy, and no cost-benefit reasoning anywhere in the extract. The single reference marker '(Reference: 1)' in the Language skill development mechanisms theme cannot be followed, as the accompanying <references> and <links> blocks are empty, so even this apparent citation fails to reach level 1, let alone level 2. No theme relies on the department's own primary evidence such as consultation responses or internal modelling. Every core theme therefore sits at level 0: claims about how the intervention will be delivered (e.g. 'Students must study one theme at AS and two themes at A level', the detailed grammar inventories, the one/two-work literary requirement) are asserted with no evidential grounding at all. The mean of seven level-0 themes is 0, giving a section score of 0. The strongest counter-example is the '(Reference: 1)' marker, which might suggest an evidence base exists elsewhere in the full document, but within this extract it resolves to nothing. To reach level 1, the document would need to explain, even briefly and without citation, what evidence (e.g. prior specification reviews, teacher or exam board feedback) informed specific choices such as the number of themes, works, or grammar items.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

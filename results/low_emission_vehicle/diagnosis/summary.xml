@@ -1,0 +1,92 @@
+<root>
+<theme sentences="6" weight="core">
+<name>Consumer experience and interoperability gaps</name>
+<claim>Current chargepoint and hydrogen refuelling networks lack consistent open data, interoperable access, and comparable pricing, leaving consumers facing a fragmented and unreliable experience.</claim>
+<text>
+<line id="S0099">new publicly accessible chargepoints and hydrogen refuelling stations and networks 1.8 Data provision of chargepoint and hydrogen refuelling locations: the UK currently has a number of EV chargepoint networks, using different methods for access and payment, and providing varying levels of data informing drivers of their location and live availability.</line>
+<line id="S0102">1.9 Interoperability and accessibility of chargepoint and hydrogen refuelling network: At present, there is no UK-wide market solution providing interoperable access to chargepoint infrastructure and different policy options are available that could improve</line>
+<line id="S0103">interoperability and accessibility for consumers.</line>
+<line id="S0106">1.10 EV charging is a dynamic and fast moving market with high levels of innovation.</line>
+<line id="S0107">To date, industry has been free to determine the “pay as you go” access method for OLEV-funded chargepoints (this has included SMS and mobile applications for example) and there is currently no consensus on the best approach to provide ad hoc access.</line>
+<line id="S0122">1.15 Standards of design for new chargepoints and refuelling stations: Publicly accessible chargepoint infrastructure offers different outlets and connectors to meet the needs of different ULEVs.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="8" weight="core">
+<name>Electricity system strain and lack of smart functionality</name>
+<claim>Rising EV charging demand will create new pressures on the electricity system, yet most existing and future chargepoints lack the 'smart' communication functionality needed to balance supply and demand.</claim>
+<text>
+<line id="S0154">As the take up of EVs grows, so too will the demand for electricity to charge them.</line>
+<line id="S0155">When and where this demand arises will have implications for our energy system.</line>
+<line id="S0156">To date, EV owners tend to charge at home and overnight, or at work and during the day.</line>
+<line id="S0163">1.19 The AFID sets requirements to ensure public charging infrastructure includes communication and intelligent metering functionality.</line>
+<line id="S0164">However, these may not be sufficient to ensure chargepoints are able to “smart” charge, and crucially, do not apply to domestic or work place chargepoints.</line>
+<line id="S0165">Whilst some existing chargepoints will hold some level of communications and control functionalities, many won’t, and will simply draw power when the car is connected, and it is deemed safe to begin charging.</line>
+<line id="S0179">The market for home and public chargepoint infrastructure has grown rapidly, but is still relatively new.</line>
+<line id="S0180">Private consumers and businesses purchasing charging infrastructure may not be aware of the likely benefits of smart charging functionality and risk purchasing hardware without the basic functionality that would allow them to access the smart tariffs, or other grid balancing service opportunities in the future.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="10" weight="core">
+<name>Gaps in strategic infrastructure provision</name>
+<claim>Provision of charging and hydrogen refuelling at motorway service areas and fuel retailers is incomplete or underdeveloped, and early-stage hydrogen refuelling infrastructure is commercially unviable without intervention.</claim>
+<text>
+<line id="S0220">Almost all Motorway Service Areas (MSAs) are currently equipped with at least one EV chargepoint.</line>
+<line id="S0221">As EVs uptake grows, it will be important to ensure that there is sufficient and accessible recharging infrastructure to meet the needs of drivers at MSAs, for use when they are undertaking longer journeys, and to ensure drivers are not stranded.</line>
+<line id="S0223">1.30 The provision of chargepoints at fuel retailers more widely is not so far advanced.</line>
+<line id="S0234">UKH2M concluded that investment in early refuelling infrastructure was not a commercial proposition due to low utilisation and lack of any first mover advantage.</line>
+<line id="S0235">1.33 In line with international studies such as the EU Fuel Cell and Hydrogen Joint Undertaking’s roadmap for financing hydrogen refuelling networks, UKH2M concluded that there were three distinct phases in the development of the market for hydrogen refuelling infrastructure. ** (Reference: 5)</line>
+<line id="S0237">A Market Seeding phase to 2020, where the combination of high capital costs and low utilisation due to the small initial fleet size make commercial investment not viable.</line>
+<line id="S0240">An Investing in Growth phase to 2025, where growth in the network follows increasing demand, but operation of stations remains unprofitable as the fleet size is still small, though developing fleet size.</line>
+<line id="S0241">Over their lifetime, stations built in this period will be profitable over their lifetime provided that the fleet</line>
+<line id="S0242">develops as projected.</line>
+<line id="S0245">The emergence of a Developed Market in the 2025 to 2030 period, where hydrogen demand is high enough and growing strongly enough to make investment in hydrogen refuelling infrastructure a genuine commercial proposition</line>
+</text>
+<references>
+<reference number="5">www.rolandberger.com/publications/publication_pdf/roland_berger_a_roadmap_for_financing_hydrog en_refueling_networks_3.pdf</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="5" weight="not core">
+<name>UK ULEV market leadership and government coordination</name>
+<text>
+<line id="S0013">We are on track to deliver this aim, with the UK consistently amongst the leading global markets for ultra low emission vehicles (ULEV).</line>
+<line id="S0014">In the first half of 2016, we were the largest new ULEV market in the European Union, building upon 94% growth in 2015.</line>
+<line id="S0017">Last year, the UK manufactured 1 in 5 electric vehicles (EVs) sold in the EU.</line>
+<line id="S0018">The Office for Low Emission Vehicles (OLEV) is working across government to position the UK at the forefront of ULEV development, manufacture and use, including targeted funding for the rapidly expanding infrastructure that supports ever increasing numbers of plug- in and hydrogen fuel cell EVs.</line>
+<line id="S0019">Across the UK there are now more than 11,000 chargepoints, including the largest network of rapid chargers in Europe and a growing number of publicly accessible hydrogen refuelling stations.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="not core">
+<name>Infrastructure challenges and consumer needs</name>
+<text>
+<line id="S0052">1.3 The proposed measures address three challenges of the growing ULEV sector: the consumer experience of using the infrastructure, the interaction of charging infrastructure with the electricity system, and the future provision of infrastructure.</line>
+<line id="S0092">Consumer experience of infrastructure 1.6 As ULEV uptake increases, so too does the importance of ensuring consumers can rely on a publicly accessible, affordable network of chargepoint and hydrogen refuelling stations right across the UK.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="1" weight="not core">
+<name>Bi-directional charging capabilities</name>
+<text>
+<line id="S0196">1.25 With a bi-directional chargepoint, some EVs are capable of discharging their battery back into a home, business or the grid.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

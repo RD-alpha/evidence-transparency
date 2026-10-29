@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "P scales no longer fit for purpose",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Pupils working below test standard are a diverse, disadvantaged group needing different assessment",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Non-linear progress of pupils not engaged in subject-specific learning",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

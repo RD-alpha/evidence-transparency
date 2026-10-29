@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Eligibility rules that wrongly exclude applicants",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Deduction of third-party contributions",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Burdensome and slow claims process",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Prospective medical examiner fees",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

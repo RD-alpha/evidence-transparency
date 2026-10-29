@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "theme": "Policy Rationale and Market Position",
+      "reason": "This is the central rationale for why the government chose a ban: it directly explains the mechanism (shifting market power and incentives to landlords) by which the intervention is expected to solve the problem of high, opaque fees. Without this the core justification for choosing a ban over alternatives would collapse.",
+      "weight": "core"
+    },
+    {
+      "theme": "Benefits for Tenants",
+      "reason": "This theme sets out the intended benefits to tenants (transparency, affordability, easier moving) that justify the choice of intervention; it is a main support showing why the ban addresses the stated problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Transparency and Consumer Information",
+      "reason": "This explains why existing transparency measures were reviewed and found wanting, providing part of the evidence base for choosing a stronger intervention rather than relying on information remedies.",
+      "weight": "core"
+    },
+    {
+      "theme": "Limitations of Current Transparency Requirements",
+      "reason": "This overlaps with and reinforces the transparency theme, detailing specific weaknesses (lack of impact, poor enforcement) that justify rejecting a lighter-touch alternative in favour of a ban; it bears on the should-explain point about what has been tried before.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Scottish Precedent and Evidence",
+      "reason": "This provides the empirical evidence base (a prior precedent and research) that the government draws on to assess likely effects of a ban, directly addressing the should-explain point about what evidence the choice is based on.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope and Implementation of the Ban",
+      "reason": "This describes administrative and scope details of how the ban will be framed, which is procedural detail rather than a core support for why the intervention was chosen.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Impact on Agents and Landlords",
+      "reason": "This discusses expected behavioural responses of agents and landlords, elaborating on consequences but not itself the main justification for the policy choice; it is supportive detail rather than a core pillar.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Deposit Regulation",
+      "reason": "A brief mention of a related but separate policy consideration (deposit caps) that is not part of the core argument for banning letting fees.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Longer-term Tenancy Effects",
+      "reason": "A minor secondary effect noted as a possible consequence, not a main pillar of the argument for choosing the ban.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Background/contextual statements about the policy announcement and regulatory status elsewhere, providing context rather than core argument support.",
+      "weight": "not core"
+    }
+  ]
+}

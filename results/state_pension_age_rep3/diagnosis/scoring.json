@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rising life expectancy",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "ONS cohort and projection data (refs 5, 12, 13, 19, 26) are linked to the claim that adult life in receipt of State Pension is growing (the 13\u00bd, 18\u00bd and 21 years figures), and the document acknowledges that 'life expectancy projections are uncertain, and more so over longer projection periods', also stated in an ungrouped line."
+    },
+    {
+      "theme": "Demographic ageing and pay-as-you-go pressure",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "ONS population projections (refs 7, 8), the Cridland review (refs 9, 30) and OBR Fiscal Sustainability figures (ref 31) are cited and tied to the dependency ratio and the 1% of GDP spending rise, but the OBR 7.9% age-related spending lines and the \u00a3725 per household equivalent are uncited and the document does not assess these projections itself."
+    },
+    {
+      "theme": "Past delay and the case for a structured framework",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The Pensions Commission (ref 20) and the DWP calculation from ONS data (ref 21, 41% of adult life for women) support the claim of slow action and rapid rises, but the DWP method is only briefly described and the document does not weigh limits or contrary evidence."
+    }
+  ],
+  "reasoning": "Two of the three core themes are well evidenced. The weakest, past delay, still reaches level 2. The mean is (3+2+2)/3 = 2.33, which rounds to 2.\n\nRising life expectancy is the strongest theme. Its figures, such as 'a 65-year-old could expect to spend 13\u00bd years, or 23%... 18\u00bd years, or 29%... 21 years by 2007, or 32%', are linked to the argument and cited to ONS (refs 5, 6, 12, 13, 19, 26). The document also states that 'life expectancy projections are uncertain, and more so over longer projection periods', and the ungrouped line 'The report also highlights the considerable uncertainty' reinforces this. I scored it 3, though the uncertainty is acknowledged only in general terms and some figures, such as the 2017 values and the centenarian counts, carry no citation.\n\nDemographic ageing is cited to ONS (refs 7, 8), Cridland (refs 9, 30) and OBR (ref 31). It reaches level 2 because the document does not assess the reliability of those projections or their sensitivity. The OBR 7.9% age-related spending increase and the \u00a3725 per household figure are also uncited.\n\nPast delay relies on the Pensions Commission (ref 20) and a DWP calculation (ref 21), whose method is only loosely described. The legislative timeline is largely descriptive. The strongest counter-example to level 2 is the uncited timeline and per-household figures, which would pull the section toward 1.\n\nTo reach level 3 across the section, the document would need to assess the dependency ratio and spending projections, for example by showing how sensitive them to alternative life expectancy or migration assumptions, and to explain the DWP method in full.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Transfer of procedural responsibility and amended primary powers",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Digitisation and flexible modes of hearing",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Delegation to caseworkers and tailored panels",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Estimated costs and benefits",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Three delivery routes for creating apprenticeships",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enabling recruitment, pay and career-path reforms",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Governance via Cabinet Office SRO and departmental/devolved delivery",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Cross-sector collaboration and alignment with national standards agenda",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Diversity, inclusion and social mobility in apprenticeships",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Quality assurance and training standards",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Apprenticeship programme structure and strategic development",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Profession-specific and career pathway integration",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Organisational coordination and resource management",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

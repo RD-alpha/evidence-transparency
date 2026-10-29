@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Linking State Pension age to life expectancy for fairness between generations",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Rise to 68 in 2037-39",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Rejecting the alternatives",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Deferring decisions amid uncertainty",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

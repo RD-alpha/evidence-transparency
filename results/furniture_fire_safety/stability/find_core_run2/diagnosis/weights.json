@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Outdated match test drives excess FR use",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Health and environmental harm from flame retardants",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope ambiguity and weak traceability undermine enforcement",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Existing regime's safety record must be preserved",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Regulatory history and stakeholder feedback",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Enforcement challenges from non-compliant imports",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Modern product design changes",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

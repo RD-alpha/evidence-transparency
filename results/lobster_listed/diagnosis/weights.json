@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Overfishing of lobster and crawfish stocks",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "EU and biodiversity obligations",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Market failure in a common resource",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Inadequate and inconsistent existing management",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Economic value and employment in the shellfish sector",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Governance and management responsibilities",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

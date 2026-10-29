@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Legislative vehicle and statutory machinery",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines (e.g. 'The Bill is to be commenced by regulations...', 'Clause 28 abolishes the offices...') only describe the legislative mechanics and offer no evidence on why this route was chosen or will work."
+    },
+    {
+      "theme": "Phased and flexible expansion of jurisdiction",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 146 and 151-155 describe the phased jurisdiction and affirmative procedure, and line 139 says exclusions 'follow those that already exist' for the PHSO and LGO, but no evidence or assessment is given for the phased approach."
+    },
+    {
+      "theme": "Consultation and open design questions",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The consultation lines (e.g. 'Responses to this consultation will inform...') and the next-steps lines (the 90-day task group to test feasibility, costs and timescales) set out a method for deciding, but do not say who responded or how many, and no evidence or costings are given, with only scattered mentions such as the PHSO/LGO convergence work."
+    },
+    {
+      "theme": "Devolution and UK-wide coordination",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines on the Sewel Convention and devolved competence describe constitutional boundaries and powers without evidence on how rollout will work."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Only a statement of territorial extent and a footnote (Reference 1) defining legislative competence, with no evidence on delivery."
+    }
+  ],
+  "reasoning": "The two core themes that are mainly statutory description score 0, and the one core theme about open design questions scores 1. 'Legislative vehicle and statutory machinery' describes commencement by order, abolition of the three offices and ministerial regulation-making powers ('The Bill is to be commenced by regulations made by the Minister...'). It gives no grounds for choosing legislation over alternatives and no evidence it will work. 'Phased and flexible expansion of jurisdiction' explains how housing could be added later by affirmative regulations, with a consultation list (lines 151-155), but the claim that phasing 'lets the scheme adapt' is unsupported by any finding or assessment. 'Consultation and open design questions' is the strongest. It sets out a method for deciding the unresolved details: a task group of no more than 90 days to test 'feasibility... timescale... financial and other resource implications', wider public consultation, and draft legislation. It also acknowledges uncertainty ('there has not been time to consider in detail the programming of the implementation'). This is a method rather than evidence, and the document does not say who was consulted or what they said, so it reaches level 1 at most. Mean (0+0+1)/3 = 0.33, which rounds to 0. The strongest counter-example is that the consultation theme openly admits uncertainty and sets out a decision method, which could suggest a higher level. However, no costs, benefits, assumptions or cited sources are given. To reach level 1 or above overall, the document would need to give evidence for the chosen delivery route, such as costings, convergence results from the PHSO/LGO joint work, or consultation responses with their method, and to link them to the rollout plan.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

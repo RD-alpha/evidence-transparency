@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Rising life expectancy and time spent in retirement",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Demographic change and the pay-as-you-go burden",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Past slow adjustment of State Pension age",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Uncertainty of life expectancy projections",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "diagnosis": {
+    "core_themes": [],
+    "note": "No sentences are classified as Diagnosis; the document never sets out the causes, scale or evidence of small charities' exclusion from commissioning, only asserting that their expertise is valuable (S0017, classed as Proposal)."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Public Service Incubator",
+        "claim": "A place-based incubator that supports high-potential voluntary organisations to build relationships with commissioners, collaborate with local providers and design person-centred services will get small charities commissioned and record the barriers and solutions."
+      },
+      {
+        "name": "Commissioning Kitemark",
+        "claim": "A best-practice kitemark of charity-friendly commissioning behaviours achievable under current procurement rules, which commissioners can pledge to, will drive long-term change in commissioning and give small charities fair access."
+      },
+      {
+        "name": "VCSE Crown Representative",
+        "claim": "A central crown representative will champion charity-friendly commissioning and act as an intermediary maintaining dialogue between government and the voluntary sector."
+      },
+      {
+        "name": "Voluntary sector expertise improves public services",
+        "claim": "Government sees harnessing the expertise of small voluntary organisations as a key route to better public services that meet local needs, which justifies this package of three measures."
+      }
+    ],
+    "note": "The proposal is a package of three separate measures; the document gives no alternatives, costs or evidence for the choice, and some design elements (measuring outcomes, recording barriers) are classed as Testing."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Voluntary sector-led implementation group",
+        "claim": "A voluntary sector-led implementation group chaired by Sir Martyn Lewis will put the proposals into practice."
+      },
+      {
+        "name": "Crown Representative priorities",
+        "claim": "Government is still identifying the key priorities for the Crown Representative so that the role complements the public services programme."
+      }
+    ],
+    "note": "Implementation content is very thin, with no reasons given for the delivery method, no alternatives, and no costs."
+  }
+}

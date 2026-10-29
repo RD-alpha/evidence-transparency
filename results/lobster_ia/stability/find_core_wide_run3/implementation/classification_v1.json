@@ -1,0 +1,61 @@
+{
+  "themes": [
+    {
+      "name": "Legal mechanism for the ban",
+      "ids": [
+        "S0196",
+        "S0197",
+        "S0198",
+        "S0199",
+        "S0200",
+        "S0201",
+        "S0203",
+        "S0204",
+        "S0391",
+        "S0392"
+      ]
+    },
+    {
+      "name": "Enforcement costs and responsibilities",
+      "ids": [
+        "S0299",
+        "S0300",
+        "S0301",
+        "S0302",
+        "S0303",
+        "S0304",
+        "S0305",
+        "S0306",
+        "S0307",
+        "S0308",
+        "S0309",
+        "S0311",
+        "S0312",
+        "S0314",
+        "S0315",
+        "S0316"
+      ]
+    },
+    {
+      "name": "Consultation to test assumptions and gather evidence",
+      "ids": [
+        "S0122",
+        "S0175",
+        "S0234",
+        "S0345",
+        "S0390",
+        "S0395",
+        "S0396",
+        "S0397",
+        "S0398"
+      ]
+    },
+    {
+      "name": "Implementation planning and stakeholder engagement",
+      "ids": [
+        "S0393",
+        "S0394"
+      ]
+    }
+  ]
+}

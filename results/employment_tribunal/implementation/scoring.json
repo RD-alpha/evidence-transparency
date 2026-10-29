@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Phased rollout preserving strengths of the ET system",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The rollout order and the plan to learn from SSCS (lines on 'starting with the Social Security and Child Support (SSCS) tribunal') are asserted with no findings or data, and the lines admitting it is 'not currently possible to be precise' show the detail is unsettled, not evidenced."
+    },
+    {
+      "theme": "Legislative route, consultation and safeguards",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The route via the Employment Tribunals Act 1996 amendment, TPC rules and the Prisons and Courts Reform Bill is described as procedure and commitment with no evidence that it will work or why it was chosen over alternatives."
+    },
+    {
+      "theme": "Support for digitally excluded users and equality impacts",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Reference 4 and Reference 23 point to the 'Transforming our justice system' consultation, and the lines say users' views were sought, but they do not say who responded or what was found, so the method is unclear and the support measures rest on expectation."
+    },
+    {
+      "theme": "Interaction with transfer to Scotland",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The Smith Commission Agreement and section 39 of the Scotland Act 2016 are cited only to describe a commitment and a process, not as a constraint on the delivery method, and the lines note timing is 'not yet agreed'."
+    }
+  ],
+  "reasoning": "All four themes are core. The extract mostly describes the planned delivery route and gives little evidence for it. Phased rollout (0): the lines claim ETs will be 'amongst the last major tribunals to be fully reformed' and will 'benefit from improvements identified' elsewhere, but no SSCS findings or other data are offered. The lines 'it is not currently possible to be precise' and 'has yet to be decided' do acknowledge uncertainty, but acknowledgement is not evidence. The ungrouped lines on costs and benefits, 'in line with MoJ projections' and 'costs would be refined', give no figures or assumptions. Legislative route (0): the legislative steps and consultation commitments describe procedure, with no evidence that they will work or comparison of alternatives. Digital support (1): References 4 and 23 link to the 'Transforming our justice system' consultation, and the text says users' views were sought. However, it does not say how many responded or what they said, and the measures (face-to-face help, telephone, web chat, paper) are stated as expectations. This is the strongest theme but stays at level 1 because the method and findings are not explained. Scotland transfer (0): the Scotland Act 2016 is cited only to describe a commitment. The mean is 0.25, so the score is 0. The strongest counter-example is the digital support theme, which at least points to a consultation. To reach level 1 overall, the document would need to give actual evidence, such as SSCS rollout results or the costed benefits, and explain how it shaped the chosen route and timetable. To reach level 2, it would also need to cite sources and set out the reasoning from them.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.25,
+  "score_consistent": true,
+  "missing_core": []
+}

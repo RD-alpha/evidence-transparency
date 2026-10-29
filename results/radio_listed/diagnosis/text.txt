@@ -1,0 +1,213 @@
+S0011 It has also shown an ability to adapt and change but is not and cannot be immune to the forces of transition wrought by the Internet and the explosion of digital platforms which continues to fragment media markets.
+S0019 With around 300 licensed stations available the choice for listeners has never been greater.
+S0020 However, commercial radio is and always has been a supplier of public service broadcasting though it is not always described as such.
+S0021 Commercial radio stations each broadcast on average around 13 hours of public service-related content each week including news, sport, travel, weather and local information.
+S0022 It remains a vital source of local news, reaching around 51% of the population every week for more than any other source of local media.
+S0023 The UK commercial radio sector faces a number of important challenges over the coming decade, from the growth and proliferations of new ways of consuming audio content and not least the challenge from online services, along with the need to
+S0024 invest in new content services and in accessing new platforms to maintain its audiences.
+S0025 But UK commercial radio is still subject to a regulatory structure designed for AM and FM radio services in the late 1980s.
+S0026 Although Ofcom have simplified many of the arrangements, these requirements are clearly limiting the ability of commercial radio stations to innovate and to make the changes needed.
+S0027 The growth of choice for listeners means that many of the requirements that were suitable for an analogue age may become increasingly obsolete as digital radio listening starts to overtake analogue listening.
+S0080 The UK has a strong and thriving commercial radio sector providing an extensive and increasingly diverse range of music, news and sports services that easily rival the best in the world.
+S0081 Each and every week, 35 million of us listen to our favourite national and local commercial stations.
+S0082 There are currently around 300 commercial stations across the UK, which provide a variety of music, speech and sports content and national, international and local news to listeners 24 hours a day whilst we are at home or on the move.
+S0083 Commercial radio remains a significant part of the UK's creative industries, generating around £700m of gross value added to the economy and helping to drive UK music sales with an industry estimate of around £100m of music sales driven directly by commercial radio. ** (Reference: 1)
+S0084 Despite a greater level of competition from other media audio platforms, live radio still dominates audio listening and accounts for 77% of all listening hours. ** (Reference: 2)
+S0085 Commercial radio, which accounts for around half of this listening, is the most used means of accessing local news with around 50% of listeners getting news from their local commercial radio station compared with around 16% for BBC local radio. According to Radiocentre, the industry body, commercial radio broadcast over 13 hours of public service-related content each week including news, sport, travel, weather and local information in 2015. ** (Reference: 3)
+S0086 The UK's commercial radio sector was hit badly by the recession in 2008-09 and the resulting impact of a severe downturn in advertising revenues.
+S0087 Total sector revenues fell by nearly 20% between 2007 and 2009. However, commercial radio has recovered well since 2012 and over the past four years it has invested in developing new national and local digital radio (DAB) services, offering listeners a greater level of choice and targeting new audiences. ** (Reference: 4)
+S0088 Thirteen new local DAB multiplexes have launched including the most recent one in Suffolk in October 2016.
+S0089 Commercial radio, with support from the BBC and government, have also invested in local digital radio network expansion and this, combined with the investment made by the car industry in installing DAB radios as standard in new cars, has led to continued growth in digital radio and 45.5% (Rajar Q3 2016) of all radio listening is now to
+S0090 digital.
+S0091 On current trends, the radio industry expects that digital's share of listening will reach 50% by the end of 2017 or early in 2018.
+S0095 Nevertheless the whole commercial radio sector faces a number of important challenges in the next 5-10 years:
+S0096 Whilst digital radio's share of listening continues to steadily increase, as noted in the BBC Charter Review consultation a switchover before the early 2020s is not likely; as a result commercial radio will have to manage a period of simulcasting services on analogue and digital that will be longer than expected before a full transition can take place. ** (Reference: 5)
+S0097 The emergence of unregulated online music and audio services such as Spotify, Deezer and Apple Radio or stations available via apps from services such on TuneIn, XiiLive or Last FM as well as increasing competition from the BBC's radio services, means that commercial radio will need to work harder to attract and retain listeners as they migrate their listening to new types of device.
+S0098 The noticeable drift of younger people away from broadcast radio has accelerated over the past three years and is a key challenge for commercial radio; according to RAJAR audience figures, since 2006 the numbers of 16-24s reached by radio has fallen by 4.9%, while the total time spent listening to live radio for this age group is 70% of what it was ten years ago.
+S0099 To remain attractive to younger listeners, commercial radio will need to continue to invest in developing strong brands, new content and the means of accessing new music with greater use of video and social media.
+S0100 The significant changes in the market for audio services and in listener behaviour since the late 2000s have only been partially reflected in the existing and very complex regulatory framework for commercial radio as set out in the Broadcasting Act 1990, the Broadcasting Act 1996 and the Communications Act 2003.
+S0101 Ofcom has, since 2003, made use of the flexibilities granted by Parliament to enable it to streamline the regulatory burdens on commercial radio; for example by standardising
+S0102 formats, relaxing requirements on music formats and by quickly implementing the changes provided under the Digital Economy Act 2010 to allow local stations more flexibility to share premises and network content.
+S0103 These particular changes were introduced to support the viability of local commercial radio stations by allowing local commercial radio groups to co-locate production facilities, network more content and reduce their fixed costs.
+S0104 However, the 2010 changes left in place the majority of the regulatory requirements on commercial radio particularly in terms of music formats and local production.
+S0105 As a result the regulation of analogue radio services remains complex and burdensome compared to the lighter touch requirements for digital-only stations.
+S0107 The analogue radio licensing regime is characterised by very specific requirements around a prescriptive programme format which sets out what music a station can play and when, what proportion of programming can be networked and where services can be broadcast from.
+S0108 The regime for digital radio, by contrast, places no requirements at all on individual stations (though there is a requirement to tell Ofcom what kind of service they are providing); though there are obligations on national and local digital radio (DAB) networks (known as multiplexes) to ensure a range of radio services are carried, but without any clarity on how multiplex operators should go about this or how Ofcom should enforce these requirements.
+S0157 The UK was initially slow to embrace the idea of commercial radio.
+S0158 It was not until 1972, that the Sound Broadcasting Act was passed giving the Independent Broadcasting Authority (IBA) powers to license independent radio for the first time.
+S0159 The first commercial stations LBC, Capital and Clyde were launched at the end of 1973 and over the next three years, contracts (as they were then known) for the broadcast local commercial radio were awarded to a further 15 major cities across the UK.
+S0160 The early stations were highly regulated and were conceived of as a complement to existing BBC local radio, providing public service radio with an expectation that all stations will be 'all things to all people'.
+S0161 Plans to issue further local commercial radio licences were postponed by the incoming administration.
+S0162 In 1978, following negotiations on international frequency allocations, there was a reorganization of frequencies used by the BBC and independent local radio (ILR) and this opened the way for the IBA to expand the sector and it resumed licensing local commercial stations in 1980.
+S0163 By 1987, the number of commercial stations on air had risen to 49.
+S0164 The 1980s also saw some major developments; in 1983 Leicester's Centre Radio became the first ever commercial station to close and in 1985 Radio West would join with neighbouring Radio Wiltshire to form GWR in commercial radio's first merger.
+S0165 In 1989, the then government announced plans to maximise the use of limited radio spectrum, with all stations expected to provide different services on AM and FM, and to open the way for new stations licensed on FM only.
+S0166 The Broadcasting Act 1990 enacted major reforms in commercial radio.
+S0167 The IBA was dissolved with the newly-created Radio Authority (which replaced the IBA in 1991) pursuing a lighter-touch regime - removing many of the technical, programming and local ownership restrictions on ILR stations.
+S0168 From 1995, commercial radio saw both a major acceleration in the licensing of new stations to fill the remaining coverage gaps and an increasing number of take-overs and mergers, leading to the emergence of major radio groups holding a large portfolio of local licences throughout the UK.
+S0169 The 1990 Broadcasting Act opened the way for the creation of quasi-national brands such as 'Classic Gold' and the Magic AM network and allowed the Radio Authority to advertise one national commercial FM licence and two national commercial AM licences for the first time - these would be won by Classic FM, Virgin Radio and Talk Radio (later talkSport).
+S0170 As a result of these reforms, and the creation of the Radio
+S0171 Advertising Bureau, radio advertising was established by the mid-1990s as an important medium for national businesses to advertise their products and services.
+S0172 The Broadcasting Act 1996 paved the way for the licensing of digital radio (using the Digital Audio Broadcasting or DAB standard) by creating the structure for digital radio multiplex and station licensing, and further deregulated commercial radio ownership rules to stimulate growth.
+S0173 Digital One, the first national commercial digital radio multiplex, was launched in November 1999.
+S0174 By 2003 national commercial digital radio was accessible to 85% of Great Britain's population.
+S0175 There were further significant changes to the commercial radio broadcasting regime under the Communications Act 2003.
+S0176 This allowed foreign ownership of UK radio stations for the first time but tightened up arrangements for the local production of programming.
+S0177 The Communications Act also gave Ofcom - who had taken over responsibility for the regulation of radio from the Radio Authority in 2003 - the power to place specific requirements on licence-holders for locally relevant content, and moving away from the licence based arrangements set when the original licence award was made.
+S0178 Commercial radio revenues continued to grow strongly into the mid 2000s.
+S0179 But the whole sector was hit hard by the rapid downturn of advertising spend in the last recession leading to a 17% fall in sector revenues between 2007 and 2009.
+S0180 In response, the then government commissioned John Myers to consider the future of local commercial radio.
+S0181 This review followed two earlier reviews carried out by Ofcom (November 2006 and November 2007).
+S0182 Following the publication of John Myers's report, the then government brought forward changes in the Digital Economy Act 2010 that allowed stations to share premises and make it easier to network content within permitted geographical areas defined by Ofcom. ** (Reference: 6)
+S0183 These changes, along with the recovery in advertising spend from 2011 helped to stabilize the commercial radio industry and the sector's revenues have since recovered in nominal terms to pre 2007 levels.
+S0184 Agreements reached between commercial radio, the BBC and government in 2012 and 2014 opened the way for new investment to extend national and local digital radio network capacity and coverage.
+S0185 The second national commercial DAB multiplex launched in March 2016 with 18 national stations broadening the choice of services available to listeners on digital.
+S0186 The collaborative work between the radio industry and other sectors and government under the Digital Radio Action Plan ** (Reference: 7)
+S0187 resulted in a number of key developments, including major investment by UK car manufacturers in fitting DAB radios as standard in new cars and radio equipment manufacturers' agreement to the adoption of minimum technical standards for digital radios. ** (Reference: 8)
+S0188 Thanks to the efforts of commercial broadcasters supported by the wider radio industry there has been steady growth in digital radio's share of listening and 45.5% of all UK radio listening is now (Q3 2016) to a digital platform.
+S0189 More than 50% of national radio listening is now via a digital platform.
+S0190 There are currently 286 analogue local commercial radio stations broadcasting; more than 80% are for FM radio broadcasting. ** (Reference: 9)
+S0191 There are three national commercial radio licences - two AM licences held by Absolute Radio and talkSport and one national FM licence held by Classic FM.
+S0192 There are also 244 licensed community radio stations broadcasting. ** (Reference: 10)
+S0195 According to the commercial radio industry's own figures, the sector contributes £683m in gross value added to the economy and provides a return of £7.70 for every £1 invested by radio advertisers.
+S0196 Commercial radio works closely with the UK's music business to provide a showcase for new talent and music on local and national stations. Commercial radio has helped to drive over £103m in music sales and paid a further £50m to artists in music rights payments in 2015. ** (Reference: 11)
+S0197 In terms of public service content, commercial radio stations broadcast each week, on average, - 13 hours 15 minutes (news & sport, travel information, weather, charity appeals, what's on/local events); of this content about half is news & sport.
+S0198 Commercial radio also has a strong tradition of supporting local communities and social action and raised £25m directly for various charities in 2015.
+S0199 Since the 2003 Communications Act, the commercial radio sector has consolidated as individual radio service licences were acquired first by regional groups, and these were later taken over by larger UK commercial radio broadcasters able to rationalise costs and drive greater investment in brands.
+S0205 Since 2007 Global and Bauer have emerged as the two largest commercial radio groups accounting for around three-quarters of all commercial radio listening and around 80% of commercial radio revenues.
+S0206 Their growth is due, in part, to a wider shift in the pattern of listening from local to national stations.
+S0207 National commercial services now account for around a third of all commercial radio listening up from a quarter in 2007.
+S0209 In spite of the consolidation in ownership and the shift in listening to national services, local commercial radio still remains very popular with listeners and is valued by them as well as by local advertisers.
+S0210 Local commercial radio continues to be an important source of local news, reaching around 51% of all listeners.
+S0211 By comparison BBC local radio reaches only 17% of listeners (BBC's national services reach around 60% of listeners).
+S0213 The importance of local news and local information to listeners is also reflected in the qualitative research commissioned by Ofcom from Kantar Media. ** (Reference: 12)
+S0214 This research looked in detail at the views of listeners to assess what they valued most and least about local commercial radio content.
+S0216 **Radio is a highly valued and accessible medium** offering important personal and social benefits including serving as a companion and allowing effortless consumption of local information.
+S0217 **Listeners can readily differentiate between local radio stations** according to music and content or perceived target audience rather than delivering a high level of detail.
+S0218 **Listeners are familiar with the concept of networked stations** and welcome the continued provision of local news and travel updates, regardless of where the output originates.
+S0219 Radio is seen to play an **important role in meeting local content needs** in relation to other media sources especially in its immediacy and effortless consumption.
+S0220 Most participants associate local radio with **helping them learn about breaking news and providing short updates rather than delivering a high level of detail**.
+S0221 Although BBC local radio stations were also high valued, they were seen to provide **content focused on a wider regional** or - in relation to Scotland, Wales and Northern Ireland, on a more national level.
+S0222 Music is a key driver for listening but participants in the research also highlighted, without prompting, **local news and traffic updates as important content** for them on local radio.
+S0223 **Local news and local information updates are perceived as being more important that local presenters**.
+S0224 Few participants expressed concerns about where local content was made so long as it was relevant and accurate.
+S0225 These findings link with other research commissioned by Ofcom which suggests that 45% of local commercial radio listeners particularly value local news on it and 35% value it for local travel and weather information.
+S0226 Only 20% of local commercial radio listeners particularly value having local presenters. ** (Reference: 13)
+S0227 Commercial radio performed strongly in 2015 and in Q4, for the first time since 2000, the sector had more listeners than the BBC, though less overall listening hours.
+S0228 Commercial radio took just under £600m in revenue (up 3% on 2014), driven mainly
+S0229 by a strong national advertising market which was up 5.6% on 2014 and 21% compared to 2013.
+S0230 Overall, revenues for commercial radio are expected to grow steadily in the short-medium term, reflecting a better understanding from advertisers about how radio can be used as part of multi-platform campaigns.
+S0231 This has been supported by Radiocentre initiatives to strengthen the evidence base on the effectiveness of radio as an advertising medium and communicate the benefits to advertisers.
+S0232 However, in the medium to long-term, UK commercial radio faces a range of challenges to maintain its audiences and revenues:
+S0233 Whilst digital radio's share of listening continues to steadily increase, it is clear, as we said in the BBC White Paper, that a switchover before the early 2020s is not likely; as a result commercial radio will still have to manage a period of simulcasting its services on analogue and digital that will be longer than expected before a full transition can take place.
+S0234 The growth of online music services such as Spotify, Deezer and online radio stations such as Apple Radio or stations facilitated by TuneIn in addition to the existing competition from the BBC's radio services means that commercial radio will need to work harder to attract and retain listeners as they migrate their listening to new types of device. ** (Reference: 14)
+S0235 The drift of younger people away from broadcast radio is a key challenge for commercial radio.
+S0236 The average weekly listening hours for those aged 15-24 was 14.5 hours, falling below the overall average for all adults at 21.4 hours.
+S0237 This age group listens to five hours less of radio per week in 2016 than in 2005. How to continue to attract interest amongst younger listeners means commercial broadcasters will have to make further investment in brands, in developing new content and accessing new music, in different distribution solutions for programme content and in making the most of strategies for using social media (such as making more use of informal videos to attract younger audiences who connect via YouTube or social media). ** (Reference: 15)
+S0238 These market shifts are now well established.
+S0239 Unlike commercial radio in most other European countries, UK commercial radio continues to demonstrate the ability to adapt and innovate to attract and secure new audiences on the growing number of platforms that are currently available.
+S0240 As well as developing the capacity to build compelling offerings by using social media to connect with listeners who value the ability to participate and interact with stations and their presenters.
+S0241 The radio industry was farsighted in having the Radio Joint Audience Research (RAJAR) measure the
+S0242 amount of online listening from its inception (online now accounts for 8% of all radio listening) and this has allowed commercial broadcasters to find ways to monetise their online services.
+S0243 However, the regulatory structure for commercial radio has not kept up with the rapid shifts in the market and the response by commercial radio to reach listeners in an increasingly fragmented market.
+S0245 Under the current statutory framework for licensing commercial radio, Ofcom is required to ensure that listeners have access a range and choice of music and speech content on radio.
+S0247 In s85(2) of the Broadcasting Act 1990 - this requires Ofcom to do all that they can to secure the provision within the United Kingdom of a diversity of national analogue services each catering for different tastes and interests and a range and diversity of local analogue services, which is achieved under powers in section 314 of the Communications Act 2003.
+S0248 As part of Ofcom's general duties in section 3 of the Communications Act 2003 - this requires Ofcom to ensure the availability throughout the United Kingdom of a wide range of television and radio services which (taken as a whole) are both of high quality and calculated to appeal to a variety of tastes and interests.
+S0249 The current statutory framework for analogue radio was established more than 25 years ago when listeners had far less choice of music and audio services.
+S0250 Since then, improved digital radio coverage and substantial increase in the choice of national and local stations available on DAB and the emergence of online radio stations and other audio services has revolutionised listening.
+S0256 One of the requirements of the current structures is that radio stations have to be based in the UK to secure a licence.
+S0257 This contrasts with the position on television
+S0258 where audio visual services can be licensed in any EU or EEA country under the provisions contained in the AudioVisual Media Services Directive (AVMSD).
+S0259 This approach for radio services clearly made sense when spectrum was limited in order to allow for the development of commercial national and local FM services.
+S0260 However, the restriction also applies to digital sound programme (DSP) licences carried on DAB.
+S0261 This restriction has had a direct impact on RTE radio, the Irish National broadcaster.
+S0262 Although their services have been carried in the UK since the 1930s on Long Wave, they are not able to offer services in DAB.
+S0267 The three national commercial analogue licences, first awarded in 1991, are subject to a specific legal requirement that one service must be non-pop (currently Classic FM) and one must be speech-based (currently talkSport).
+S0268 These are set out in s85(2) of the Broadcasting Act 1990.
+S0269 The legislation also requires that the third licence (currently held by Absolute Radio) should be distinctive from the other two services.
+S0270 There is a power which allows these requirements to be amended by secondary legislation.
+S0271 Following changes made in 2015, the holders of each national licence are able to opt for a further 5 year renewal which can be taken from 2018 onwards up to 2023; all three licensees have indicated to Ofcom that they will apply for a renewal. ** (Reference: 16)
+S0272 The launch of the second national digital radio multiplex in March 2016 brings the total number of national commercial radio services, including the three national analogue services, to 31.
+S0273 This is in addition to the 11 national digital services operated by the BBC.
+S0274 Although this expansion of national services has increased the range and choice of commercial stations that are available to listeners, the stations holding national licences account for 8.5% share of all radio listening ** (Reference: 17)
+S0275 and there is
+S0276 still considerable commercial value in holding the national analogue licences (as set in the table below shows).
+S0289 Unlike national services, where the framework for format requirements are underpinned by specific provisions set out in the Broadcasting Act 1990, local analogue station format requirements have evolved from the original prescriptive statements about performance requirements set out in independent local radio (ILR) licences issued in the 1970s and 1980s.
+S0290 The changes introduced in the Broadcasting Act 1990 and later in the Communications Act 2003, allowed for a simplification in how a station's local content requirements are set out for stations.
+S0291 Ofcom includes conditions in each station's licence about its output - known as a station's format - that encapsulates the 'character of the service' the station is committed to deliver based on what the licensee proposed to provide in their original application for the licence.
+S0292 Since 2003, Ofcom has used the flexibilities it has within the current legislation to reduce the detail and number of format requirements in local analogue station licences.
+S0293 The most recent change made by Ofcom followed its review of the role of music in radio formats in 2015. This allowed certain synonymous descriptions to be simplified into 'mainstream popular music' without the need to consider any such changes in accordance with the statutory format change process. ** (Reference: 18)
+S0294 The changes in Ofcom's policy still require local commercial stations to report their format to Ofcom and seek permission from the regulator to change the format to simplify their music description in line with the above.
+S0295 Ofcom has indicated it will not consider this type of change as representing a change to the character of the service and therefore it will be approved without the need for it to be considered in accordance with the statutory format change process.
+S0296 However, for a specialist commercial station this is - in theory at least - more difficult to achieve if the changes it is seeking to make to its format are considered by Ofcom to relate to the overall character of the service rather than a specific music genre or music for a particular ethnic audience.
+S0297 Music formats ensure that consumers are given access to stations which vary in their interests.
+S0300 Analysis conducted by Ofcom shows that 77% of local analogue stations currently have an obligation in their licence to play 'mainstream popular music' but around a quarter still have requirements which are more prescriptive about the output and more difficult to change. ** (Reference: 20)
+S0308 Amongst the most important contribution commercial radio makes to listeners in the communities it serves is the provision of high quality accurate and reliable national, international and local news.
+S0309 According to research commissioned by Ofcom, this content is highly valued by listeners: 51% of the UK adult population listens to local commercial radio news.
+S0310 To put this in context only 16% of adults in England listen to BBC local radio. ** (Reference: 21)
+S0311 Commercial radio also provides two dedicated national news services in LBC (which went national in 2014) and talkRadio (launched on the second national commercial digital multiplex in March 2016) and a national business news service (Share Radio - which also started broadcasting nationally in March 2016) as well as local news services including those targeting Asian and other ethnic communities.
+S0312 This rich mix contributes to the plurality of local news sources as well as providing communities
+S0313 with information about local events and helping to promote engagement within communities.
+S0314 Drawing from this research, Ofcom identified three particular characteristics relating to the provision of local news on local commercial radio which could be said to have a wider public value:
+S0315 **Reach** - commercial radio remains an effective means of reaching large numbers of people with 51% of adults tuning in each week.
+S0316 Local commercial radio listeners tend to be younger, of lower socio-economic classification (C2DE) and more ethnically diverse than listeners to any other type of radio service.
+S0317 **Accessibility** - local radio news is more accessible than other sources, such as press and on-line where content must be sought out.
+S0318 **Plurality** - Ofcom's research suggests that commercial radio also contributes to a plurality of local news sources across the UK - with commercial radio accounting for 5% of news references nationally.
+S0319 Commercial radio also plays an important and sometimes vital role during disasters or civil emergencies, providing essential information including from the emergency services.
+S0320 During the floods caused by Storm Desmond in December 2015, CFM in Carlisle, Lakeland FM in Cumbria and The Bay in Lancaster all went the extra mile to connect with their communities even though The Bay was temporarily off air.
+S0321 Presenters from The Bay also appeared on Sky News updating viewers on the local situation.
+S0322 CFM made major changes to its schedule to give extended local news and travel bulletins outside its normal core period until the situation had stabilised.
+S0339 Commercial radio plays a different and arguably more important role in Scotland, Wales and Northern Ireland where the BBC operates services at the level of each nation rather than the mainly county sized local radio services in England.
+S0340 As a result, the importance of local commercial radio in terms of local media plurality is
+S0341 even greater as Ofcom have highlighted.
+S0355 Currently, the requirements to provide news and other core information services only apply to stations holding national or local commercial analogue licences and are secured under conditions in their licences.
+S0356 These requirements do not apply to stations broadcasting only on DAB (or on DAB online), though they do apply for analogue stations that also simulcast on DAB.
+S0357 Currently there are 20 national DAB-only stations and 54 DAB-only stations carried on local multiplexes of which 9 are multi-mux services (services carried on more one local multiplex).
+S0370 All local multiplex licensed areas have at least one heritage commercial radio service that provides news and core information on their networks.
+S0379 Local analogue commercial stations must produce a significant proportion of locally made content.
+S0380 Section 314 of the Communications Act 2003 places a duty on Ofcom to ensure that each local analogue service broadcasts local material, to the extent (if any) that Ofcom consider appropriate in that case, and ensure there is a suitable proportion of locally-made programmes.
+S0381 Under the legislation Ofcom is also required to draft, publish and maintain guidance setting out how local analogue services can satisfy the requirements. ** (Reference: 23)
+S0382 This guidance sets out Ofcom's general policy in relation to the localness requirements and how Ofcom are likely in most cases to apply them to local stations.
+S0383 Ofcom's guidance includes descriptions in relation to local material and locally-made programmes.
+S0384 Ofcom's current guidance suggests that local FM stations should produce 7 hours or more of locally made programming per day, including during breakfast peak period for stations providing enhanced news services - as defined by Ofcom in their localness guidance. ** (Reference: 24)
+S0385 Otherwise the locally produced content requirement for local FM stations is 10 hours during weekday daytime, including breakfast.
+S0386 In addition each station should produce a minimum of 4 hours a day of locally-made programmes at weekends (in daytime).
+S0387 The guidance for AM local stations differs, although they should also provide a certain number of hours of locally made output.
+S0388 There are no such requirements on DAB-only stations carried on local DAB multiplexes.
+S0389 Ofcom's guidelines also explain that local content can be delivered in a number of ways with the balance for each station to determine.
+S0390 Locally-made programmes are those made within a station's licensed area or a wider area approved by Ofcom under the Digital Economy Act 2010.
+S0391 The extent to which local material and locally made programmes must be included in the radio service provided by a licensee is specified in the station's format and may vary by station.
+S0392 The Digital Economy Act 2010 introduced significant amendments to the localness rules including changing the definition of “local” to an expanded approved area (by Ofcom).
+S0393 These changes gave local FM stations the ability to share services within expanded editorial areas defined by Ofcom and reduce the duplication of fixed production costs to some extent.
+S0394 However, local commercial radio is still not able to fully benefit from the flexibility of new technologies which allow for high quality local content to be produced in different settings to meet the business needs of stations.
+S0395 The requirement on local stations to maintain such a large local presence adds to the fixed costs of running local commercial radio services and runs the risk, in the longer term, of forcing the larger groups away from continuing to support the production of high quality local news and other content. ** (Reference: 25)
+S0409 Commercial stations operating in the Nations play an important role in the respective local media landscapes.
+S0421 Since 2003 national and local analogue licence holders have been able to renew FM or AM licences for further periods in return for the commitment to simulcast services on an appropriate DAB multiplex. ** (Reference: 26)
+S0422 These arrangements were subsequently extended by the Digital Economy Act 2010 and in 2015 by amendments made to sections 103B and 104AA of the Broadcasting Act 1990 by the Further Renewal of Radio Licences Order 2015/2052.
+S0423 In 2004, Ofcom announced that it would give priority when allocating available spectrum in the Medium Wave (MW) and Very High Frequency Range (VHF) bands to the launch new community radio services.
+S0424 Ofcom completed the last major round of analogue commercial radio station licensing in 2007.
+S0425 The result of both policies has been to support the development of digital radio services and DAB coverage and the emergence of a vibrant community radio sector with around 244 community radio services currently on air.
+S0426 As a result one of the wider effects of the long-term strategy of supporting the development of DAB and community radio has been that the majority of analogue licences in issue have renewed by the existing licence holders in return for support for DAB and all existing commercial radio analogue licences can, in theory, be renewed until at least 2023. The majority of local analogue commercial licences that have come up for competition since 2003 were for stations that chose not to broadcast on DAB (either because they couldn't afford to be on DAB or for whom DAB was not suitable due to a mismatch in coverage areas). ** (Reference: 27)
+S0427 In the vast majority of
+S0428 these cases the incumbents were able to go through the fast track renewal approach because no other bidders expressed an interest in the licence and even in the instances where there was competition for the licence the vast majority of existing licence holders were successful in their bid.
+S0434 All analogue radio licences are currently subject to the power in s105A of the Broadcasting Act 1990 which allows the Secretary of State to direct that Ofcom terminate analogue licences with a minimum of two years notice in order to facilitate a radio switchover.
+S0435 This power is designed to facilitate an orderly transition to digital by allowing for a common cut off date for licences.
+S0438 In July 2013, the government said that small commercial radio stations - whose coverage was defined as below 40% of the measured coverage area (MCA) of the overlapping local DAB multiplex - could choose to continue broadcasting on analogue post a switchover. ** (Reference: 28)
+S0462 Commercial radio stations that hold analogue licences still draw substantial audiences.
+S0463 However, the market is changing and overall analogue radio's share of listening is declining steadily.
+S0464 This shift is more marked in some areas and analogue now accounts for less than 50% of all listening to national radio stations as a whole.
+S0465 For some national commercial stations, analogue accounts for a much smaller proportion of listening - see examples in the table below:
+S0467 In the next couple of years the continuing decline in analogue listening and concurrent shift to digital will encourage some stations to make the move to reduce analogue coverage or close down analogue services in order to rationalise distribution costs.
+S0468 This is particularly likely for stations that broadcast on AM, whose usage by listeners is declining faster than FM.
+S0480 Under s.54(6A) of the Broadcasting Act 1996, Ofcom may not vary a national radio multiplex licence where it appears that, if the requested amendment were made, the capacity of the digital sound programme services broadcast under the licence to appeal to a variety of tastes and interests would be unacceptably diminished.
+S0481 For local radio multiplexes, Ofcom may vary a licence only where they are satisfied that the variation would not unacceptably narrow the range of programmes available to people living in the areas where the multiplex service is provided; or if the variation is in the interests of competition; or there is user demand for the changes to the services.
+S0482 The retention of this duty adds to the costs and complexities of managing national and local multiplexes and is difficult to enforce.
+S0486 New developments in technology have supported the development of innovative techniques for broadcasting digital audio broadcasting services (DAB) using software-enabled radio.
+S0487 This approach allows for coding and multiplexing of audio services to be done in software using no more than a laptop computer with the right software.
+S0488 This approach greatly simplifies the delivery of services and makes it possible for smaller stations to broadcast on DAB at a lower cost.
+S0493 In terms of ensuring fair competition and treatment, Ofcom has a wide range of powers to ensure that multiplex operators act properly and do not unfairly
+S0494 discriminate against a station.
+S0499 Community radio stations differ from commercial broadcasters in two main respects: they are not for profit entities and through local engagement and volunteering, offer social gain to the communities they serve.
+S0500 Community radio is subject to a different regulatory regime as set out in the Community Radio Order 2004.
+S0501 The government reviewed the financial regulations which limit the amount of revenue that community radio stations can raise from advertising and sponsorship and the licensing regime in 2015 (The Community Radio (Amendment) Order 2015 (S.I. 2015/1000).
+S0502 These changes came into effect on 27 March 2015.

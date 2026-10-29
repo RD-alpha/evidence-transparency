@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Industry-led delivery with named owners and deadlines",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines only list timescales and owners (e.g. 'Timescale: May 2017; Owner: RDG & DfT') and give no evidence for why this delivery route or timetable was chosen, and no references are cited."
+    },
+    {
+      "theme": "Collaborative development and consultation",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines such as 'We will engage with passenger groups / focus groups' only describe planned engagement, with no consultation results, numbers or method to show what was found or how it shaped the delivery."
+    },
+    {
+      "theme": "Longer-term reform via franchising",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "'we will seek to deliver any reforms through the franchising programme' and the balance statement are argument and commitment with no statistic, source or finding, and no references."
+    },
+    {
+      "theme": "Ticket availability and advance sales management",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line describes what industry will do with Advance tickets and offers no evidence that it will work."
+    },
+    {
+      "theme": "Refunds and proof of railcard entitlement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line describes the refund procedure by analogy to Season Tickets, with no evidence or citation that it will work as intended."
+    }
+  ],
+  "reasoning": "All three core themes sit at level 0, so the mean is 0 and the section scores 0. The extract shows how the Rail fares and ticketing action plan will be delivered, but not why delivery was designed this way. 'Industry-led delivery with named owners and deadlines' is a list of lines such as '(Timescale: May 2017; Owner: RDG & DfT.)'. These are commitments and descriptions of what will happen, not evidence, and no reference or link is given. 'Collaborative development and consultation' claims the plan was developed with ORR, train companies, consumer groups and others. The lines shown only promise future engagement ('We will engage with passenger groups / focus groups'). They give no consultation responses, number of respondents or questions asked, so no primary evidence is visible. 'Longer-term reform via franchising' says reforms 'will take time' and will go through franchising, with a statement about balancing passenger protection, operator innovation and taxpayer cost. This is reasoning without a statistic or source. The strongest counter-example is that the named owners and dates are specific and checkable later, which makes the plan accountable. Accountability is not evidence for the choice of route, though. The non-core themes also describe procedures without support. To reach level 1, the document would need to offer some evidence for the delivery route and timetable, such as consultation findings, cost estimates or the experience of earlier rollouts, and explain how it shaped the plan. Level 2 would need citations or a described method for it.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

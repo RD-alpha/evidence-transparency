@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Transport emissions and climate targets",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Lines 1 and 16 give the 23% share and say emissions rose in 2014 and 2015, and the 8% fuel-efficiency figure is given, but none of these carries a reference or link, so the evidence is uncited and unassessed."
+    },
+    {
+      "theme": "Continued reliance on liquid fuels",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Line 18 refers to Figure 1 and the 5% ultra-low emission vehicle sales expectation for 2020, but no source or method is cited and the aviation growth claim (6.4) is unsupported, so it stays at level 1."
+    },
+    {
+      "theme": "EU Fuel Quality Directive 6% obligation and the gap",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 6% target, 94.1 gCO2/MJ baseline and 10 MtCO2e figure carry References 4, 28, 30 and 31, and the shortfall table (5.4 to 2.5 MtCO2e) is the department's own modelling with the biofuel volumes shown, but the modelling method is only partly explained, some references are mismatched (for example 35 is the Green Book, 29 is EU ETS costs) and uncertainties are not assessed, so it does not reach level 3."
+    },
+    {
+      "theme": "Legislative framework for emissions and renewable fuels",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Lines 33 onward describe the Climate Change Act, RED and FQD with links 6-10, but this describes the current rules and targets rather than evidencing a constraint on the option, so it is only weak level 1 and not core."
+    }
+  ],
+  "reasoning": "Three core themes were scored. Transport emissions and climate targets reaches level 1: line 1 says \"23%\" of UK greenhouse gas emissions come from transport and line 16 says emissions \"increased in both 2014 and 2015\", but neither line carries a reference or link, so a citizen cannot trace the figures. Continued reliance on liquid fuels reaches level 1: line 18 points to Figure 1 and says ultra-low emission vehicles will be \"5% of new car sales by 2020\", but the source and method are not given and the aviation growth claim at 6.4 is unsupported. The FQD 6% obligation and gap theme reaches level 2: the 94.1 gCO2/MJ baseline and the 10 MtCO2e requirement carry References 4, 28, 30 and 31, and the department's own modelling table shows the shortfall narrowing from 5.4 to 2.5 MtCO2e, with the biofuel volumes by year as inputs. The mean is (1+1+2)/3 = 1.33, which rounds to 1. The strongest counter-example is the FQD theme, which is well linked and could justify a higher score; however, several references do not match their claims (Reference 35 is the Green Book, Reference 29 is about EU ETS costs), the modelling assumptions are not explained, and nothing assesses uncertainty. To reach level 2 overall, the document would need to cite the emissions statistics and the liquid-fuel projections to named, followable sources. To reach level 3 it would need to assess the strength of that evidence and its uncertainties.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

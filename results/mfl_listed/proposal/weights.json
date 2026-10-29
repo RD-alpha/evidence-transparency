@@ -1,0 +1,29 @@
+{
+  "themes": [
+    {
+      "theme": "Dropping the speaking assessment, compensated by combined skills",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Content aligned with, but adapted from, the 2015 main MFL content",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Distinct qualification title",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Policy development and scope",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Qualification purpose and progression",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

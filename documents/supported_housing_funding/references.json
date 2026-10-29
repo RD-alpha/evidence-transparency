@@ -1,0 +1,749 @@
+[
+  {
+    "number": "1",
+    "text": "Written Ministerial Statement (15 September 2016): http://www.parliament.uk/business/publications/written-questions- answers-statements/written-statement/Commons/2016-09-15/HCWS154/",
+    "source_alias": "sh_src_1",
+    "source_title": "New funding model for supported housing (source 1)",
+    "source_number": "1"
+  },
+  {
+    "number": "2",
+    "text": "Supported Accommodation Review: the scale, scope and cost of the supported housing sector (2016), see: https://www.gov.uk/government/publications/supported-accommodation-review",
+    "source_alias": "sh_src_1",
+    "source_title": "New funding model for supported housing (source 1)",
+    "source_number": "2"
+  },
+  {
+    "number": "3",
+    "text": "Supported Exempt Accommodation is defined as being either: a resettlement place; or accommodation which is provided by a county council, housing association, registered charity or voluntary organisation where that body, or person acting on their behalf, provides the claimant with care, support or supervision.",
+    "source_alias": "sh_src_1",
+    "source_title": "New funding model for supported housing (source 1)",
+    "source_number": "3"
+  },
+  {
+    "number": "4",
+    "text": "Specified Accommodation includes supported exempt accommodation, and adds three more categories: (i) Managed properties, which includes supported housing which would meet the definition of supported exempt accommodation but for the care support or supervision being provided by someone other than the landlord; (ii) Refuges provided for someone who has left their home as a result of domestic violence; and (iii) Hostels, including hostels provided by local authorities where care, support of supervision is provided. People living in specified accommodation are eligible to continue to receive Housing Benefit in respect of their housing costs, even where they claim Universal Credit, and the housing support paid through Housing Benefit does not count towards the Benefit Cap.",
+    "source_alias": "sh_src_1",
+    "source_title": "New funding model for supported housing (source 1)",
+    "source_number": "4"
+  },
+  {
+    "number": "5",
+    "text": "Frontier Economics (2010) Financial benefits of investment in specialist housing for vulnerable and older people, see: https://www.frontier-economics.com/documents/2014/06/financial-benefits-of-investment-frontier-report.pdf",
+    "source_alias": "sh_src_1",
+    "source_title": "New funding model for supported housing (source 1)",
+    "source_number": "5"
+  },
+  {
+    "number": "6",
+    "text": "Reference #6 in 'New funding model for supported housing (source 1)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_1",
+    "source_title": "New funding model for supported housing (source 1)",
+    "source_number": "6",
+    "missing": true
+  },
+  {
+    "number": "7",
+    "text": "Total of 380 local authorities includes all except English County Councils (27).",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "1"
+  },
+  {
+    "number": "8",
+    "text": "Total of 207 local authorities includes all except English Districts (200).",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "2"
+  },
+  {
+    "number": "9",
+    "text": "Total of 407 local authorities is all authority types across Great Britain.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "3"
+  },
+  {
+    "number": "10",
+    "text": "Available from StatsWales (https://statswales.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "4"
+  },
+  {
+    "number": "11",
+    "text": "Reference #5 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "5",
+    "missing": true
+  },
+  {
+    "number": "12",
+    "text": "Reference #6 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "6",
+    "missing": true
+  },
+  {
+    "number": "13",
+    "text": "Reference #7 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "7",
+    "missing": true
+  },
+  {
+    "number": "14",
+    "text": "Reference #8 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "8",
+    "missing": true
+  },
+  {
+    "number": "15",
+    "text": "Reference #9 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "9",
+    "missing": true
+  },
+  {
+    "number": "16",
+    "text": "Reference #10 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "10",
+    "missing": true
+  },
+  {
+    "number": "17",
+    "text": "Reference #11 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "11",
+    "missing": true
+  },
+  {
+    "number": "18",
+    "text": "Reference #12 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "12",
+    "missing": true
+  },
+  {
+    "number": "19",
+    "text": "Reference #13 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "13",
+    "missing": true
+  },
+  {
+    "number": "20",
+    "text": "Reference #14 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "14",
+    "missing": true
+  },
+  {
+    "number": "21",
+    "text": "Reference #15 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "15",
+    "missing": true
+  },
+  {
+    "number": "22",
+    "text": "Reference #16 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "16",
+    "missing": true
+  },
+  {
+    "number": "23",
+    "text": "Reference #17 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "17",
+    "missing": true
+  },
+  {
+    "number": "24",
+    "text": "Reference #18 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "18",
+    "missing": true
+  },
+  {
+    "number": "25",
+    "text": "Reference #19 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "19",
+    "missing": true
+  },
+  {
+    "number": "26",
+    "text": "Reference #20 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "20",
+    "missing": true
+  },
+  {
+    "number": "27",
+    "text": "Reference #21 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "21",
+    "missing": true
+  },
+  {
+    "number": "28",
+    "text": "Reference #22 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "22",
+    "missing": true
+  },
+  {
+    "number": "29",
+    "text": "Reference #23 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "23",
+    "missing": true
+  },
+  {
+    "number": "30",
+    "text": "Reference #24 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "24",
+    "missing": true
+  },
+  {
+    "number": "31",
+    "text": "Reference #25 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "25",
+    "missing": true
+  },
+  {
+    "number": "32",
+    "text": "Reference #26 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "26",
+    "missing": true
+  },
+  {
+    "number": "33",
+    "text": "Reference #27 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "27",
+    "missing": true
+  },
+  {
+    "number": "34",
+    "text": "Reference #28 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "28",
+    "missing": true
+  },
+  {
+    "number": "35",
+    "text": "Reference #29 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "29",
+    "missing": true
+  },
+  {
+    "number": "36",
+    "text": "Reference #30 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "30",
+    "missing": true
+  },
+  {
+    "number": "37",
+    "text": "Reference #31 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "31",
+    "missing": true
+  },
+  {
+    "number": "38",
+    "text": "Reference #32 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "32",
+    "missing": true
+  },
+  {
+    "number": "39",
+    "text": "Reference #33 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "33",
+    "missing": true
+  },
+  {
+    "number": "40",
+    "text": "Reference #34 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "34",
+    "missing": true
+  },
+  {
+    "number": "41",
+    "text": "Reference #35 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "35",
+    "missing": true
+  },
+  {
+    "number": "42",
+    "text": "Reference #36 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "36",
+    "missing": true
+  },
+  {
+    "number": "43",
+    "text": "Reference #37 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "37",
+    "missing": true
+  },
+  {
+    "number": "44",
+    "text": "Reference #38 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "38",
+    "missing": true
+  },
+  {
+    "number": "45",
+    "text": "Reference #39 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "39",
+    "missing": true
+  },
+  {
+    "number": "46",
+    "text": "Reference #40 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "40",
+    "missing": true
+  },
+  {
+    "number": "47",
+    "text": "Reference #41 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "41",
+    "missing": true
+  },
+  {
+    "number": "48",
+    "text": "Reference #42 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "42",
+    "missing": true
+  },
+  {
+    "number": "49",
+    "text": "Reference #44 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "44",
+    "missing": true
+  },
+  {
+    "number": "50",
+    "text": "Reference #45 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "45",
+    "missing": true
+  },
+  {
+    "number": "51",
+    "text": "Reference #46 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "46",
+    "missing": true
+  },
+  {
+    "number": "52",
+    "text": "Reference #47 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "47",
+    "missing": true
+  },
+  {
+    "number": "53",
+    "text": "Reference #48 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "48",
+    "missing": true
+  },
+  {
+    "number": "54",
+    "text": "Reference #49 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "49",
+    "missing": true
+  },
+  {
+    "number": "55",
+    "text": "Reference #50 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "50",
+    "missing": true
+  },
+  {
+    "number": "56",
+    "text": "Reference #51 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "51",
+    "missing": true
+  },
+  {
+    "number": "57",
+    "text": "Reference #52 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "52",
+    "missing": true
+  },
+  {
+    "number": "58",
+    "text": "Reference #53 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "53",
+    "missing": true
+  },
+  {
+    "number": "59",
+    "text": "Reference #54 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "54",
+    "missing": true
+  },
+  {
+    "number": "60",
+    "text": "Reference #55 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "55",
+    "missing": true
+  },
+  {
+    "number": "61",
+    "text": "Reference #56 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "56",
+    "missing": true
+  },
+  {
+    "number": "62",
+    "text": "Reference #57 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "57",
+    "missing": true
+  },
+  {
+    "number": "63",
+    "text": "Reference #58 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "58",
+    "missing": true
+  },
+  {
+    "number": "64",
+    "text": "Reference #59 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "59",
+    "missing": true
+  },
+  {
+    "number": "65",
+    "text": "Reference #60 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "60",
+    "missing": true
+  },
+  {
+    "number": "66",
+    "text": "Reference #61 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "61",
+    "missing": true
+  },
+  {
+    "number": "67",
+    "text": "Reference #62 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "62",
+    "missing": true
+  },
+  {
+    "number": "68",
+    "text": "Reference #63 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "63",
+    "missing": true
+  },
+  {
+    "number": "69",
+    "text": "Reference #64 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "64",
+    "missing": true
+  },
+  {
+    "number": "70",
+    "text": "Reference #65 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "65",
+    "missing": true
+  },
+  {
+    "number": "71",
+    "text": "Reference #66 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "66",
+    "missing": true
+  },
+  {
+    "number": "72",
+    "text": "Reference #67 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "67",
+    "missing": true
+  },
+  {
+    "number": "73",
+    "text": "Reference #68 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "68",
+    "missing": true
+  },
+  {
+    "number": "74",
+    "text": "Reference #69 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "69",
+    "missing": true
+  },
+  {
+    "number": "75",
+    "text": "Reference #70 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "70",
+    "missing": true
+  },
+  {
+    "number": "76",
+    "text": "Reference #71 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "71",
+    "missing": true
+  },
+  {
+    "number": "77",
+    "text": "Reference #72 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "72",
+    "missing": true
+  },
+  {
+    "number": "78",
+    "text": "Reference #73 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "73",
+    "missing": true
+  },
+  {
+    "number": "79",
+    "text": "Reference #74 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "74",
+    "missing": true
+  },
+  {
+    "number": "80",
+    "text": "Reference #75 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "75",
+    "missing": true
+  },
+  {
+    "number": "81",
+    "text": "Reference #76 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "76",
+    "missing": true
+  },
+  {
+    "number": "82",
+    "text": "Reference #77 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "77",
+    "missing": true
+  },
+  {
+    "number": "83",
+    "text": "Reference #78 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "78",
+    "missing": true
+  },
+  {
+    "number": "84",
+    "text": "Reference #79 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "79",
+    "missing": true
+  },
+  {
+    "number": "85",
+    "text": "Reference #80 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "80",
+    "missing": true
+  },
+  {
+    "number": "86",
+    "text": "Reference #81 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "81",
+    "missing": true
+  },
+  {
+    "number": "87",
+    "text": "Reference #82 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "82",
+    "missing": true
+  },
+  {
+    "number": "88",
+    "text": "Reference #83 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "83",
+    "missing": true
+  },
+  {
+    "number": "89",
+    "text": "Reference #84 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "84",
+    "missing": true
+  },
+  {
+    "number": "90",
+    "text": "Reference #85 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "85",
+    "missing": true
+  },
+  {
+    "number": "91",
+    "text": "Reference #86 in 'New funding model for supported housing (source 2)' was cited in the text but has no definition in that document.",
+    "source_alias": "sh_src_2",
+    "source_title": "New funding model for supported housing (source 2)",
+    "source_number": "86",
+    "missing": true
+  },
+  {
+    "number": "92",
+    "text": "‘What is supported housing?’ at http://www.sitra.org/about-us/what-is-supported- housing/",
+    "source_alias": "sh_src_3",
+    "source_title": "New funding model for supported housing (source 3)",
+    "source_number": "1"
+  },
+  {
+    "number": "93",
+    "text": "For the purpose of this review, a unit refers to either a room or bedspace in shared supported housing or a self-contained supported housing unit.",
+    "source_alias": "sh_src_3",
+    "source_title": "New funding model for supported housing (source 3)",
+    "source_number": "2"
+  },
+  {
+    "number": "94",
+    "text": "Homes and Communities Agency (2016) Delivering Better Value for Money: Understanding Differences in Unit Costs, Summary Report, HCA, June 2016.",
+    "source_alias": "sh_src_3",
+    "source_title": "New funding model for supported housing (source 3)",
+    "source_number": "3"
+  },
+  {
+    "number": "95",
+    "text": "Impact of funding reductions on local authorities published by the National Audit Office (2014).",
+    "source_alias": "sh_src_3",
+    "source_title": "New funding model for supported housing (source 3)",
+    "source_number": "4"
+  }
+]

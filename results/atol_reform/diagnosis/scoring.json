@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Consumer risk from travel company insolvency",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines such as 'barriers to entry can be low' and 'real risk that consumers could lose money or be stranded' are reasoning; the only reference (2) defines when an ATOL licence is required, and the Commission's belief is asserted without a source.'"
+    },
+    {
+      "theme": "Market change and gaps in protection",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The statistic that ATOL share of leisure flights fell from over 90% in 1998 to just under 50% in 2009 and the named failures (XL, Goldtrail, Sun4U, Kiss flights, Travel Republic) are evidence with explained use, but the figure has no source, and references 16 and 17 only define terms."
+    },
+    {
+      "theme": "New EU obligation to transpose PTD 2015",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The PTD 2015 obligation to transpose by January 2018 is a legal constraint explained in lines like 'obligation to transpose PTD 2015 into UK law by January 2018, remains', and references 1 and 13 give the Directive's full title, but there is no assessment of uncertainty, so it stops at a clear but only partly linked level 1 (the Directive itself is citable, yet the claim about scope changes is described without article references)."
+    },
+    {
+      "theme": "Inconsistent protection for flight-only sales and overlapping protections",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims such as 'overlapping protection between the ATOL scheme and Section 75... can lead to increased costs' rest on unspecified 'stakeholders' and the flat \u00a32.50 levy critique is argument, with no references or data behind it, plus the Commission non-proposal noted without a source."
+    },
+    {
+      "theme": "Scheme funding and historical development",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "It gives data such as 23.7 million passengers protected in 2014/15 (Reference 19, Air Travel Trust report), 60,000 repatriated and 230,000 refunded, and ONS spending (Reference 15), but most of the theme is history and description, and the unprotected market is admitted unquantifiable."
+    }
+  ],
+  "reasoning": "The four core themes score 0, 1, 1 and 0, a mean of 0.5, which rounds to 1. The strongest material is the market-change theme: 'ATOL sales as a share of all leisure flights fall from over 90% in 1998 to just under 50% in 2009', with named failures (XL, Goldtrail, Sun4U, Kiss flights) tied to the claim that unprotected mix-and-match sales caused detriment. That is evidence with explained use, but the figure has no source, and references 16 and 17 only define dynamic packaging and Flight-Plus. The PTD 2015 theme rests on a legal obligation ('the obligation to transpose PTD 2015 into UK law by January 2018, remains'), with references 1 and 13 giving the Directive, which is evidence of a constraint, though how the Directive's provisions create the gap is only summarised. The consumer risk and flight-only themes are asserted reasoning: 'barriers to entry can be low', 'We understand from stakeholders that overlapping protection... can lead to increased costs' with no consultation numbers or data. The strongest counter-example to level 1 is the PTD 2015 theme, which could arguably reach 2 because the Directive is citable. Non-core data (23.7 million passengers, reference 19) sits in another theme and is not about the gaps. To reach level 2 the document would need to cite the source of the 1998-2009 share figures, give data on losses or numbers affected in the named failures, and describe the stakeholder evidence on Section 75; level 3 requires assessing that evidence's limits, such as its admission that the unprotected market cannot be quantified.",
+  "score": 0,
+  "model_score": 1,
+  "core_mean": 0.5,
+  "score_consistent": false,
+  "missing_core": []
+}

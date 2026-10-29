@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Offence categories and bands replacing proxies",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The claim that categories and bands capture complexity better rests mainly on reasoning (witness numbers can mislead), with only the LAA 2014-15 'quarter of cases' figure (Reference 12) and Bar Council proposal (Reference 1) as thin support, and the ungrouped 94% categorisation and case-file review lines do not show that the bands work."
+    },
+    {
+      "theme": "Unbundling and paying for work done",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 96% of cases with six or fewer standard hearings figure is cited to LAA administrative data 2014-15 (Reference 11) and linked directly to the decision to pay hearings separately, with the ungrouped HMCTS matching method description clarifying how hearings were estimated."
+    },
+    {
+      "theme": "Guilty plea and cracked trial fees",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 85% and 50% fee levels and the certificate of trial readiness trigger are asserted as fair and consistent with Better Case Management with no cited data or findings behind them, and no references are attached."
+    },
+    {
+      "theme": "Cost neutrality and expected distributional effects",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The LAA 2014-15 modelling (Tables 4-8, \u00a3163m vs \u00a3163m) is explained in method, and the document itself assesses it through assumptions, \u00b125% sensitivity (lines on 4% lower/3% higher), 2015-16 re-estimation, and acknowledged behavioural risks, drawing on ungrouped assumptions and risks lines."
+    },
+    {
+      "theme": "Reduced special preparation and fairness to groups",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The special preparation narrowing is asserted by reasoning only (the 50% saving is an assumption), and the equalities claim cites 'no evidence the scheme favours some groups' from the Impact Assessment analysis, with only reference 11 and 6 as supports and the supporting method sitting elsewhere."
+    }
+  ],
+  "reasoning": "Four of the five themes are core in the extract (offence categories, unbundling, plea and crack fees, cost neutrality, special preparation/equalities are all core; five core themes). Their levels are 1, 2, 0, 3 and 1, a mean of 1.4, which rounds to 1. The strongest part is cost neutrality: the document explains its LAA 2014-15 modelling, states the assumptions ('assumes constant volumes and case mix'), and tests them ('Reducing all the assumptions by 25% led to an overall cost ... around \u00a36m lower'), and it acknowledges risks such as case-mix and behaviour change. Unbundling is also linked to a cited figure: 'Around 96% of cases feature six or fewer standard hearings' (Reference 11). By contrast, the design choices for the offence bands rest mostly on reasoning that witness numbers are a poor proxy, and the 85% crack fee and 50% plea fee are stated with no evidence that they reflect work done. The strongest counter-example to a score of 1 is the cost-neutrality theme, which reaches level 3 and could argue for a higher score. However, the evidence for why the chosen design works is thin across most core themes. To reach level 2, the document would need to cite data showing that offence bands, crack and plea fee levels and the narrowed special preparation actually reflect work done, linking that evidence to each design choice rather than relying on assertion.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.4,
+  "score_consistent": true,
+  "missing_core": []
+}

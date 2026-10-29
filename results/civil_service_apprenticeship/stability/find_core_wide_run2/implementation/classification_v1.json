@@ -1,0 +1,119 @@
+{
+  "themes": [
+    {
+      "name": "Three Delivery Routes for Creating Apprenticeships",
+      "ids": [
+        "S0060",
+        "S0061",
+        "S0062",
+        "S0063",
+        "S0064",
+        "S0065",
+        "S0066"
+      ]
+    },
+    {
+      "name": "Recruitment, Pay and Career Path Reform",
+      "ids": [
+        "S0067",
+        "S0068",
+        "S0069",
+        "S0070",
+        "S0071",
+        "S0072",
+        "S0073",
+        "S0075",
+        "S0076"
+      ]
+    },
+    {
+      "name": "Governance and Departmental Accountability",
+      "ids": [
+        "S0081",
+        "S0082",
+        "S0083",
+        "S0084",
+        "S0085"
+      ]
+    },
+    {
+      "name": "UK-Wide Extension via Devolved Administrations",
+      "ids": [
+        "S0008",
+        "S0040",
+        "S0089",
+        "S0090",
+        "S0091",
+        "S0092"
+      ]
+    },
+    {
+      "name": "Targeted Outreach for Diversity and Social Mobility",
+      "ids": [
+        "S0079",
+        "S0080",
+        "S0108",
+        "S0143",
+        "S0144",
+        "S0181",
+        "S0189",
+        "S0190",
+        "S0192",
+        "S0193"
+      ]
+    },
+    {
+      "name": "Strategic Planning and Integration",
+      "ids": [
+        "S0029",
+        "S0039",
+        "S0111",
+        "S0117",
+        "S0118",
+        "S0159",
+        "S0200",
+        "S0202",
+        "S0206"
+      ]
+    },
+    {
+      "name": "Apprenticeship Standards and Quality",
+      "ids": [
+        "S0105",
+        "S0114",
+        "S0139",
+        "S0140",
+        "S0141",
+        "S0166",
+        "S0169",
+        "S0221",
+        "S0222",
+        "S0223"
+      ]
+    },
+    {
+      "name": "Cross-Sector and Economy-Wide Support",
+      "ids": [
+        "S0086",
+        "S0087",
+        "S0088",
+        "S0134",
+        "S0135",
+        "S0136"
+      ]
+    },
+    {
+      "name": "Career Progression and Talent Development",
+      "ids": [
+        "S0205"
+      ]
+    },
+    {
+      "name": "Funding and Resources",
+      "ids": [
+        "S0243",
+        "S0252"
+      ]
+    }
+  ]
+}

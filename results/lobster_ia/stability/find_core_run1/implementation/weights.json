@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Legislative vehicle and scope of the ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enforcement mechanism and costs",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Further testing of assumptions through consultation",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Implementation approach and stakeholder engagement",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+Technical Changes to Automatic Enrolment
+Consultation on draft regulations
+S0001 10 February 2017
+About this consultation
+Purpose of the consultation
+S0002 This consultation is seeking views on a small package of regulations to make two changes to the Automatic Enrolment (AE) process for new employers that are due to become subject to the AE duties during 2017:
+S0003 • a change to the AE duties trigger set out in legislation for these new employers (known as post-staging employers);
+S0004 • extending to these employers the option to defer AE for their workers (currently this compliance easement is available only to employers within the AE staging profile).
+S0005 This document is available in the list of DWP consultations on GOV.UK.
+S0006 **(Link: 1)
+Who this consultation is aimed at
+S0007 The consultation is aimed at employers, trades unions, employee representatives and pension industry professionals, including scheme administrators, payroll administrators, accountants, payroll bureaux, independent financial advisers and employee benefit consultants.
+Scope of consultation
+S0008 This consultation applies to England, Wales and Scotland.
+S0009 Northern Ireland will make corresponding regulations.
+Duration of the consultation
+S0010 The consultation begins on 10 February 2017 and runs until 3 March 2017.
+How to respond to this consultation
+S0011 Please send your response, preferably by e-mail to:
+S0012 automaticenrolment.consultation@dwp.gsi.gov.uk **(Link: 2)
+S0013 Or by post to:
+S0014 James Newman Department for Work and Pensions Automatic Enrolment Policy Team Zone C, 1st
+S0015 Floor Caxton House London SW1H 9NA
+S0016 3 of 14
+S0017 Please ensure your response reaches us by 4pm, Friday 3 March 2017.
+S0018 When responding, please state whether you are doing so as an individual or representing the views of an organisation.
+S0019 If you are responding on behalf of an organisation, please make it clear who the organisation represents, and where applicable, how the views of members were assembled.
+S0020 Any queries about the subject matter of this consultation should be addressed to James Newman at automaticenrolment.consultation@dwp.gsi.gov.uk.
+S0021 **(Link: 3)
+Freedom of information
+S0022 The information you send us may need to be passed to colleagues within the Department for Work and Pensions, published in a summary of responses received and referred to in the published consultation report.
+S0023 All information contained in your response, including personal information, may be subject to publication or disclosure if requested under the Freedom of Information Act 2000.
+S0024 By providing personal information for the purposes of the public consultation exercise, it is understood that you consent to its disclosure and publication.
+S0025 If this is not the case, you should limit any personal information provided, or remove it completely.
+S0026 If you want the information in your response to the consultation to be kept confidential, you should explain why as part of your response, although we cannot guarantee to do this.
+S0027 To find out more about the general principles of Freedom of Information and how it is applied within DWP, please contact:
+S0028 Central Freedom of Information Team 4
+S0029 th Central Freedom of Information Team 4 Floor, Caxton House, Tothill Street, London, SW1H 9NA.
+S0030 Freedom-of-information-request@dwp.gsi.gov.uk
+S0031 The Central FoI team cannot advise on specific consultation exercises, only on Freedom of Information issues.
+S0032 More information about the Freedom of Information Act can be found at https://www.gov.uk/make-a-freedom-of-information-request **(Link: 4)
+Consultation principles
+S0033 This consultation is being conducted in line with the revised Cabinet Office **(Link: 5) consultation principles **(Link: 6) published in January 2016.
+S0034 These principles give clear guidance to government departments on conducting consultations.
+S0035 4 of 14
+Feedback on the consultation process
+S0036 We value your feedback on how well we consult.
+S0037 If you have any comments about the consultation process (as opposed to comments about the issues which are the subject of the consultation), including if you feel that the consultation does not adhere to the values expressed in the consultation principles or that the process could be improved, please address them to:
+S0038 DWP Consultation Coordinator Zone F, 1st
+S0039 Floor Caxton House Tothill Street London SW1H 9NA
+S0040 CAXTONHOUSE.LEGISLATION@DWP.GSI.GOV.UK **(Link: 7)
+S0041 5 of 14
+Executive summary
+S0042 Since October 2012, employers are obliged to enrol all workers who satisfy age and earnings criteria into a workplace pension arrangement and pay at least a minimum level of contributions.
+S0043 AE is designed to target non-savers and under-savers.
+S0044 It obliges every employer, irrespective of size or industry, both public and private sectors, to provide a workplace pension and pay into it.
+S0045 AE has already evolved.
+S0046 There have been changes to the legislation to make AE easier to operate since the original framework was laid down in the Pensions Act 2008.
+S0047 Following an independent review in 2010, the then government introduced postponement, the AE earnings trigger and gave employers more flexibility to choose their re-enrolment dates.
+S0048 The staging timetable was also changed to give small and micro employers until at least 2015 to prepare for automatic enrolment.
+S0049 Changes introduced from November 2013 simplified enrolment processes to align better with payroll processes and amended the legislation on Test Scheme Standards to deliver greater consistency across the various pension schemes.
+S0050 In November 2014, government introduced measures in secondary legislation that came into effect from 1 April 2015 to further simplify AE and reduce burdens on employers.
+S0051 These measures introduced an alternative quality requirement for defined benefits (DB) schemes; simplified the information requirements on employers; and created exceptions to the employer duties in certain circumstances.
+S0052 In April 2016, government again simplified the AE framework to ease the burden on employers, particularly having regard to the small and micro businesses enrolling their workers into a workplace pension scheme.
+S0053 The regulations package on which we are now consulting is being made in advance of the outcome of the 2017 Review of AE, which will look at whether AE continues to meet the needs of individuals saving for their retirement in the future.
+S0054 We are doing this because the measures need to be in place before the existing provisions in the Employers’ Duties (Implementation) Regulations 2010 start to apply to new employers in April 2017.
+S0055 We are seeking views on draft regulations (Annex A to this consultation document) which set out to:
+S0056 • provide certainty about when the AE duties apply to new employers (i.e. those outside the AE staging profile);
+S0057 6 of 14
+S0058 • extend an existing compliance easement to new employers, who would otherwise face an increased regulatory burden when automatically enrolling workers for the first time.
+S0059 The Department is seeking views on the operation of the draft Statutory Instrument at Annex A.
+S0060 We would welcome stakeholder comments on whether these regulations will work in practice to achieve the policy intent of providing a clear and straightforward compliance framework for newly created employers so that they understand when the AE duties will apply to them.
+S0061 We also want to ensure that pensions industry professionals, including: scheme administrators; payroll administrators; accountants; payroll bureaux; independent financial advisers and employee benefit consultants can scrutinise the proposed changes and advise us of any concerns they might have about the draft regulations; and whether they foresee any unintended consequences for employers or individual savers.
+S0062 We intend to publish a response to the consultation in March 2017 with the regulations due to come force on 1 April 2017.
+S0063 Our regulations amend the existing Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations 2010 and the Employers’ Duties (Implementation) Regulations 2010.
+S0064 7 of 14
+Changing the AE duties trigger date for employers
+Background
+S0065 Since October 2012, employers have been brought into workplace pensions gradually with each employer knowing in advance when their AE duties will start.
+S0066 This is set out in the AE Employers’ Duties (Implementation) Regulations 2010.
+S0067 The AE staging profile ceases to apply to some newly created employers from April 2017, as more than four years after the reforms were introduced, the expectation is that complying with AE duties is now part of the normal process of setting up a business in the same way that new employers are expected to deal with tax and national insurance from the outset.
+S0068 Therefore during this year new employers will become subject to near immediate AE duties on the day on which PAYE income is first payable in respect of any worker – known as the AE duties trigger date.
+S0069 The AE duties trigger date described above was designed over six years ago without the benefit of our subsequent operational experience with AE.
+S0070 It is clear now that the current, post-staging, compliance mechanism does not allow The Pensions Regulator (TPR) to identify the prescribed AE duties trigger date set out in legislation using the employer data available to them via HMRC systems.
+S0071 This undermines TPR’s ability to support and enable employers to meet their AE duties, before deciding whether they need to enforce compliance.
+S0072 In addition, the current AE duties trigger date, for new employers, differs from that which will be commonly understood by those from whom an employer might seek assistance when complying with their AE duties, e.g. payroll software providers, accountants and pension providers.
+S0073 These groups will only have experience of dealing with employers who are within the AE staging profile, and whose duties dates were set as the beginning of a calendar month determined by their PAYE reference.
+S0074 In these circumstances, it will be difficult to explain clearly, to both employers and their advisers, when the AE duties will apply to a new employer who will be outside the staging profile and who will therefore be subject to near immediate AE duties.
+S0075 Even where the AE duties trigger date can be accurately identified, most new employers would need to carry out a complex manual calculation of their workers’ first pension deduction, as most commercially available payroll software does not currently support the post-staging employer AE duties trigger.
+S0076 Furthermore, the current AE duties trigger date works against the intention of the AE reforms which aim to bring workers into pensions saving at the earliest opportunity after they take up employment.
+S0077 The date of first PAYE income trigger means that an
+S0078 8 of 14
+S0079 individual may not be automatically enrolled into pensions saving scheme until up to a month after starting work with their employer.
+S0080 Non-legislative approaches to resolving this issue would not provide the definitive AE duties start date that TPR needs in order to have confidence in whether, and when, to take enforcement action against an employer who fails to comply with the law.
+S0081 We have therefore concluded that changing the legislative definition for the AE duties trigger date is the correct approach to enable TPR to operate the compliance regime correctly for AE; enable employers to easily know when their duties commence; and make calculations of contributions easier for employers and payroll providers.
+Proposed changes
+S0082 Our draft regulations change the date of the AE duties trigger, for post-staging employers, to the day on which the first worker begins to be employed by the employer.
+S0083 These changes are set out in the draft regulations at Annex A.
+S0084 9 of 14
+Deferring automatic enrolment for new workers
+Background
+S0085 Existing employers brought into the AE duties via the staging profile have the ability to pause automatic enrolment of new workers by up to three months (this is known as ‘postponement’ for employers within the AE staging profile).
+S0086 We propose to extend this administrative easement to new employers.
+S0087 At the time of the Making Automatic Enrolment Work (MAEW) Review in 2010 many employers expressed concern that the automatic enrolment of new workers could lead to significant costs associated with enrolling large numbers of employees who might remain with an employer for only short periods of time.
+S0088 The independent MAEW reviewers recommended the introduction of a postponement period to help alleviate these problems, particularly for those business sectors with large numbers of short term, seasonal workers.
+S0089 The approach was also intended to ease the administrative burden generally by allowing employers more time to complete all the processes involved in complying with AE.
+S0090 After consultation, the government determined a three month postponement period to be a proportionate balance between employers being able to manage the administrative burdens of enrolling staff who might only be with them for a short time; without unfairly disadvantaging individuals who should be able to start saving at the earliest opportunity after starting work.
+S0091 Experience has shown the benefit of this compliance easement.
+S0092 We believe it is sensible and proportionate to extend it to new employers.
+S0093 For these newly created employers, outside the AE staging profile, the compliance easement will be described as the ‘deferral’ period.
+Proposed change
+S0094 A new legislative power is necessary to extend the easement to new employers, including small and micro businesses.
+S0095 These employers are likely to benefit most from the ability to have more to time to deal with the official administrative requirements around automatically enrolling a new worker.
+S0096 10 of 14
+S0097 It is the employer’s choice as to whether they use the easement, and for how long they choose to defer enrolment within the three month window.
+S0098 We have therefore taken a permissive legislative approach.
+S0099 Please review the deferral provisions in the draft Statutory Instrument at Annex A.
+Consultation Questions
+S0100 We welcome your comments on both the measures described above which have been set out in the draft Statutory Instrument at Annex A.
+S0101 1.
+S0102 Do you agree with the proposed changes set out in the draft Statutory Instrument?
+S0103 2.
+S0104 Do you have any concerns about the description of the new proposed AE duties trigger date set out in the draft Statutory Instrument, and whether this date will be easily understood by employers?
+S0105 If so, please provide details, or propose an alternative description of the duties trigger date.
+S0106 3.
+S0107 Do you have any other comments on the content of the draft Statutory Instrument?
+S0108 11 of 14
+Annex A: Draft Statutory Instrument
+S0109 S T A T U T O R Y
+S0110 I N S T R U M E N T S
+2017 No.
+PENSIONS
+The Employers’ Duties (Implementation) (Amendment) Regulations
+2017
+S0111 () 2008 c. 30. () S.I. 2010/4. ** (Reference: 1,2)
+S0112 12 of 14
+S0113 () S.I. 2010/772. ** (Reference: 3)
+S0114 13 of 14
+S0115 14 of 14
+S0116 15 of 14

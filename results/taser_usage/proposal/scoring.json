@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Mandatory use-of-force data recording and publication",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The lines name the 2014 Shaw review and say its recommendations were adopted, but give no findings, no reference or link, and no explanation of why the review recommended these data items."
+    },
+    {
+      "theme": "Comparison of techniques and tactics",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Both lines assert that the data will allow comparison and improve training, tactics and procurement, with no statistic, finding or source behind the claim."
+    },
+    {
+      "theme": "Safeguards for the new Taser X2",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The single line asserts that the rules provide safeguards for the Taser X2, with no evidence of any kind."
+    }
+  ],
+  "reasoning": "The extract supports little of the case for mandatory publication of use-of-force data. Three core themes were scored. For the first, \"Mandatory use-of-force data recording and publication\", the only evidence is the Shaw review: \"Adopting the recommendations of the David Shaw review into police use of force\" and \"asked ... Chief Constable David Shaw, to lead a review into what data should be recorded and published\". This names a review and the role it played, so it reaches level 1. It carries no reference or link, and it gives none of the review's findings or reasoning for the chosen data items (location, outcome, ethnicity, age). So it stays at level 1. The second core theme, \"Comparison of techniques and tactics\", is level 0. The lines \"will allow meaningful comparison of the effectiveness of different techniques and tactics for the first time\" are assertions about future benefits, with no evidence. The third, \"Safeguards for the new Taser X2\", is also level 0, since it is a single assertion that the rules will allow \"increased safeguards and transparency\". The mean of the core levels is (1+0+0)/3 = 0.33, which rounds to 0. The strongest counter-example is that the Shaw review is a real named source, which might justify a 1. That level only applies to one theme, however. To reach level 1 overall, the document would need to give the review's findings and how they led to the data items. It would also need to show evidence that publication enables comparison of techniques and that it provides safeguards for the Taser X2. Reaching level 2 would additionally require references or links, and level 3 would require an assessment of the evidence and its uncertainties.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

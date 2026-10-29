@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Growth of master trusts under automatic enrolment",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Line 5 (\"over 4 million members and \u00a38.5bn assets in 84 schemes (as at January 2016)\" and the ten million estimate) carries Reference 1, a DWP analysis with a followable URL, and is clearly linked to the claim that more savers depend on master trusts; the \u00a317bn figure in line 2 is uncited but adds to it, and there is no assessment of the evidence's limits.)"
+    },
+    {
+      "theme": "Master trust-specific risks to savers",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines 1 and 10 assert that savings are at risk and that master trusts have distinctive risks (employer engagement, profit motive, volume of savers) with no statistic, finding or source; the Reference 1 scale figures in line 7 show size, not risk, so they do not support the claim."
+    },
+    {
+      "theme": "Pension freedoms and exit charges",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Line 2 gives \"over \u00a33.5 billion flexibly accessed through nearly 400,000 payments\" without a source, and lines 1 and 3 describe the freedoms; nothing is shown on exit charges, and no reference is carried."
+    }
+  ],
+  "reasoning": "The two core themes diverge sharply. For \"Growth of master trusts under automatic enrolment\" the document gives figures with a followable source: \"over 4 million members and \u00a38.5bn assets in 84 schemes (as at January 2016)\" and the estimate that ten million people will be newly saving or saving more, both carrying Reference 1 (DWP 2016 analysis, with a URL). The link to the claim that many more savers depend on these schemes is clear, so this reaches level 2. It does not reach level 3, because the document does not discuss the limits or uncertainty of the estimates, and the \u00a317bn figure is uncited. For \"Master trust-specific risks to savers\", the central issue is that savers are inadequately protected. The document only asserts that \"there could be some members whose savings are at risk\" and that master trusts have distinctive \"structures and dynamics\" such as the profit motive and limited employer engagement. No data, research, failure cases or consultation findings are offered, so this is reasoning without evidence and sits at level 0. The Reference 1 scale figures show how big the market is, not that savers are exposed to harm. The non-core pension freedoms theme gets level 1 for an uncited \u00a33.5bn figure. Mean of the core themes is (2+0)/2 = 1.0, so the score is 1. The strongest counter-example is that the scale evidence is well sourced and could be read as supporting the whole diagnosis, which would justify 2. To reach level 2 overall, the document would need to evidence the risk itself, such as past master trust failures, governance audits, or the regulator's data on schemes failing minimum standards, with citations, and then assess the strengths and weaknesses of that evidence to reach level 3.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

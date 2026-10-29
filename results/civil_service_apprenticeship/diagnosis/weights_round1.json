@@ -1,0 +1,14 @@
+{
+  "themes": [
+    {
+      "theme": "Apprenticeship Policy and Economic Growth",
+      "reason": "Explains the scale and driver of the policy ambition (three million apprenticeship starts, skill shortages, economic growth) and identifies the public sector gap compared to private sector, directly addressing the diagnosis of skills shortages and the scale of the problem.",
+      "weight": "core"
+    },
+    {
+      "theme": "Diversity and Inclusion in the Workforce",
+      "reason": "Establishes the diversity/inclusion dimension of the problem, citing specific evidence such as low employment rates for disabled groups like those with autism, directly supporting the diagnosis of low diversity and social mobility.",
+      "weight": "core"
+    }
+  ]
+}

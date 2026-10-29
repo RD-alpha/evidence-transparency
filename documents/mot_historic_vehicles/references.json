@@ -1,0 +1,17 @@
+[
+  {
+    "number": "1",
+    "text": "Cuerden et all (2011) Effect of Vehicle Defects in Road Accidents, Transport Research Laboratory, March 2011",
+    "source_alias": "mot_historic_ia",
+    "source_title": "MOT Historic Vehicles Impact Assessment",
+    "source_number": "1"
+  },
+  {
+    "number": "2",
+    "text": "Reference #2 in 'MOT Historic Vehicles Impact Assessment' was cited in the text but has no definition in that document.",
+    "source_alias": "mot_historic_ia",
+    "source_title": "MOT Historic Vehicles Impact Assessment",
+    "source_number": "2",
+    "missing": true
+  }
+]

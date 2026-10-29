@@ -1,0 +1,57 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Judicial time spent on routine work",
+        "claim": "Judges spend too much time on uncontroversial, routine matters that court staff could handle, and many low-level cases (around 890,000 summary-only non-imprisonable cases a year) are simple enough to be dealt with more proportionately."
+      },
+      {
+        "name": "Outdated and burdensome tribunal arrangements",
+        "claim": "Tribunals have become complicated, slow and paper-burdened, and their panels reflect historic precedents rather than the expertise each case needs, so many cases are heard by multi-member panels regardless of circumstances."
+      },
+      {
+        "name": "Current system can be faster, easier and better value",
+        "claim": "The current justice system works but is slower, harder to use and costlier than it should be, and the distress of bereavement, divorce and similar processes is made worse by cumbersome administration."
+      }
+    ],
+    "note": "Diagnosis is mostly asserted at a general level and is scattered across the summary, chapters and impact assessments; it is not set out as a single problem analysis."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Proportionate, digital-first processing of cases",
+        "claim": "Moving routine cases online, using written decisions, virtual hearings, case officers and out-of-court resolution will make justice faster, more convenient and proportionate, keeping physical hearings for serious and complex cases."
+      },
+      {
+        "name": "Online conviction and fixed fine for minor offences",
+        "claim": "Defendants in simple, victimless, non-imprisonable cases should be able to plead guilty, accept a fixed penalty and pay entirely online without a magistrate, with opt-in and other safeguards, starting with a few offences."
+      },
+      {
+        "name": "Flexible tribunal panel composition",
+        "claim": "Amending the 2008 Composition Order so panels default to a single member unless the Senior President decides otherwise will tailor expertise to cases, save about £21m a year in fees and not harm outcomes, as earlier changes showed."
+      },
+      {
+        "name": "Assisted digital support to preserve access to justice",
+        "claim": "Because about 70% of government digital service users need some help and 18% are digitally excluded, a package of face-to-face, telephone, webchat and paper channels costing an estimated £5m-£9m a year is needed so digitisation does not exclude anyone and delivers savings."
+      }
+    ],
+    "note": "The proposal is a package of separate measures, with the three consulted measures (assisted digital, online conviction, panel composition) argued in most detail and weighed against a do-nothing base case."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Tailored, iterative delivery of assisted digital",
+        "claim": "Assisted digital support will be built alongside each digital service, tailored to each jurisdiction's users rather than one-size-fits-all, and developed through piloting, user research and testing, with a dedicated HMCTS team and Government Digital Service assessment."
+      },
+      {
+        "name": "Phased roll-out of online conviction",
+        "claim": "The online conviction scheme will be rolled out in stages, building on the Single Justice Procedure completed by end 2016, starting from 2018 with three offences and extending to others, such as road traffic offences, only if the first phase succeeds."
+      },
+      {
+        "name": "Open justice and legislation for reform",
+        "claim": "Reforms will be put in place with legislation where needed and with the principle of open justice upheld, with senior judiciary and a new Rules Committee shaping detailed design."
+      }
+    ],
+    "note": "Implementation is argued separately for each measure and rests mainly on stated plans and intentions rather than on explicit reasons for choosing the delivery method over alternatives."
+  }
+}

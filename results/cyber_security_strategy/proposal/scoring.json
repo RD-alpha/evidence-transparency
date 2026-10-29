@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Government-led intervention beyond the market",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that the 2011 market-based approach 'has not been sufficient' (lines on 'Much has been achieved. But the combination of market forces...') offers a judgement on past performance and mentions \u00a31.9bn, but gives no data, citation or assessment of why it failed, so it reaches level 1 at best with no references."
+    },
+    {
+      "theme": "Defend: active cyber defence and a National Cyber Security Centre",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Some evidence is used, such as 'Properly implementing the Cyber Essentials scheme will protect against the vast majority of common internet threats' and 'Cyber Aware is currently supported by 128 cross-sector partners', but nothing is cited and most measures (ACD, NCSC, secure by default) are asserted without evidence they will work; the 2011-strategy judgement from the Develop theme is counted as shared and thin."
+    },
+    {
+      "theme": "Deter: disrupting and prosecuting adversaries",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Offensive capability, disruption, law enforcement and cryptography commitments are asserted ('The principles of deterrence are as applicable in cyberspace as they are in the physical sphere') with no statistic, finding or cited source, and references are empty."
+    },
+    {
+      "theme": "Develop: skills, innovation and research",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only grounds offered are the claim that the 2011 programme 'has delivered substantial improvements' with its \u00a3860m figure and a stated 'gap between demand and supply for key cyber security roles', both uncited and without data, so the theme reaches level 1 at most."
+    }
+  ],
+  "reasoning": "The section's core themes are Government-led intervention (level 1), Defend (level 1), Deter (level 0) and Develop (level 1); the mean is 0.75, which rounds to 1. The document does give some grounds for acting. It states that 'a market based approach to the promotion of cyber hygiene has not produced the required pace and scale of change', recalls the \u00a3860m spent in 2011-16, and sets aside \u00a31.9bn. For defence it says 'Properly implementing the Cyber Essentials scheme will protect against the vast majority of common internet threats' and that Cyber Aware has '128 cross-sector partners'. But the extract carries no references or links at all, and none of these claims says how the conclusion was reached. We are told the 2011 approach failed to deliver but not what was measured, what outcomes fell short, or why direct intervention would do better. The Deter theme is almost entirely commitments and assertions, with no evidence that offensive capability or disruption will reduce attacks. Nothing weighs alternatives or acknowledges uncertainty. The strongest counter-example to level 1 is the Deter theme at 0, which suggests the true mean is lower; the Develop theme's stated skills 'gap' and 'substantial improvements' claims keep those themes marginally at 1. To reach level 2, the document would need to cite the evaluation of the 2011 programme, cite threat statistics or surveys, and explicitly link them to each chosen measure; level 3 would additionally require it to assess the strength and limits of that evidence.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

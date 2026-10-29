@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Targets and Scale of Apprenticeship Growth",
+      "reason": "This defines the actual chosen intervention—a concrete numerical target and timeline for apprenticeship starts—which is the core content of the proposal being justified.",
+      "weight": "core"
+    },
+    {
+      "theme": "Workforce Planning and Skills Development",
+      "reason": "This explains why the intervention addresses the skills shortage problem by embedding apprenticeships into workforce strategy to close current and future capability gaps, a central rationale for the choice.",
+      "weight": "core"
+    },
+    {
+      "theme": "Diversity, Inclusion and Social Mobility",
+      "reason": "This explains how the intervention addresses the second half of the stated problem (low diversity/social mobility), making it a necessary support for the proposal's justification.",
+      "weight": "core"
+    },
+    {
+      "theme": "Business Case, Funding and Economic Benefits",
+      "reason": "While it provides economic rationale and some costing detail, the choice of intervention does not rest on this alone; it supplements rather than carries the core justification already established by targets and skills/diversity themes.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Quality, Training and Apprentice Engagement",
+      "reason": "This addresses implementation and assessment considerations about quality versus numbers, which is a should-explain point on strengths/weaknesses but not the central support for why this intervention was chosen.",
+      "weight": "not core"
+    },
+    {
+      "theme": "National Leadership and Government Agenda Alignment",
+      "reason": "This situates the policy within wider government strategy and reputation but is contextual framing rather than a load-bearing justification for the specific proposal.",
+      "weight": "not core"
+    }
+  ]
+}

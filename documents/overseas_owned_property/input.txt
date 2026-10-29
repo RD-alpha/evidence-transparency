@@ -1,0 +1,270 @@
+S0001 © Crown copyright 2018
+S0002 You may re-use this information (not including logos) free of charge in any format or medium, under the terms of the Open Government Licence.
+S0003 To view this licence, visit www.nationalarchives.gov.uk/doc/open-government- licence/version/3/ or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.
+S0004 Any enquiries regarding this publication should be sent to us at enquiries@beis.gov.uk.
+S0005 This publication is available for download at www.gov.uk/government/publications.
+S0006 Introduction __________________________________________________________ 2
+S0007 Summary of responses _______________________________________________ 2
+S0008 Responses to the call for evidence ________________________________________ 4
+S0009 The scope of the new register _________________________________________ 4
+S0010 Leasehold _________________________________________________________ 4
+S0011 Defining a beneficial owner ____________________________________________ 5
+S0012 Adaptations to definition of people with significant control ____________________ 5
+S0013 Raising awareness about the register ___________________________________ 6
+S0014 Economic impacts __________________________________________________ 6
+S0015 Entities that already own property ______________________________________ 7
+S0016 Entities that wish to buy property _______________________________________ 7
+S0017 Overseas entities buying property after the law comes into force _______________ 8
+S0018 Registration for overseas entities wishing to bid on UK government contracts _____ 8
+S0019 Information required about beneficial owners ______________________________ 9
+S0020 When entities cannot get information about their beneficial owners _____________ 9
+S0021 Keeping the information on the register up-to-date __________________________ 10
+S0022 Compliance ________________________________________________________ 11
+S0023 Protection regime ___________________________________________________ 12
+S0024 Third party protections _______________________________________________ 12
+S0025 Annex 1: List of Respondents ____________________________________________ 14
+S0026 Introduction
+S0027 1.
+S0028 The Department for Business, Energy and Industrial Strategy (BEIS) published a call for evidence on 5 April 2017 on proposals for a register showing who owns and controls overseas companies and other legal entities that own UK property or participate in UK government procurement.
+S0029 This follows the discussion paper of March 2016 and the announcement of the register at the International Anti-Corruption Summit in May 2016.
+S0030 2.
+S0031 This response sets out how the Government plans to implement the register in the light of the responses to the call for evidence and other views gained through the wider consultation process.
+S0032 It outlines how the policy proposals have developed since April 2017.
+S0033 3.
+S0034 Following publication of this response, the Government will develop legislation to create the new register and intends to publish a draft Bill for scrutiny this summer.
+S0035 The Government intends to introduce the Bill to Parliament early in the second session.
+S0036 Following Royal Assent and the making of secondary legislation, the Government intends that the register will be operational in 2021.
+S0037 4.
+S0038 The new register will be the first of its kind in the world, and builds upon the UK’s global leadership in tackling corruption.
+S0039 As stated in the call for evidence, the downside of demonstrating such leadership is that the Government does not have an existing model to work from.
+S0040 The Government will therefore proceed cautiously, striking the right balance between improving transparency and minimising burdens on legitimate commercial activity.
+S0041 5.
+S0042 The call for evidence received 56 responses from a wide range of stakeholders.
+S0043 21 responses were from representative bodies; 19 were from businesses; 6 were from non-governmental organisations; 8 were from individuals; 1 was from a local government body, 1 was from a Crown Dependency government body.
+S0044 6. Where the response refers to proportions of respondents, it is with reference to the total number who responded to each question (not the total who responded to any part of the discussion paper; many respondents answered only the portion of the questions of interest to them).
+S0045 Introduction
+S0046 7.
+S0047 In addition to the call for evidence, the Government engaged businesses, representative bodies and non-governmental organisations through a series of meetings to discuss the proposals in detail and gather a wide range of views.
+S0048 Since the period for receiving views formally closed, we have continued to engage with interested parties and to take their views into consideration.
+S0049 8.
+S0050 A full list of respondents to the call for evidence in included in Annex 1.
+S0051 Question 1: Do you agree that all legal forms that can hold properties should be in the scope of the new register’s requirements?
+S0052 If not, what legal forms should we consider an exemption for and why?
+S0053 9.
+S0054 The vast majority of responses to this question agreed that all legal forms that can hold property should be in the scope of the new register’s requirements.
+S0055 10.
+S0056 Several responses suggested that trusts should also be included.
+S0057 Unlike companies, trusts are typically used by private individuals for managing family owned assets including for minors and vulnerable family members.
+S0058 HMRC have recently set up the Trust Registration Service and the data is shared with law enforcement which should allow them to identify who owns and benefits from trusts.
+S0059 Publishing these persons’ details would not be proportionate and effective especially as disclosure would undermine family confidentiality.
+S0060 11.
+S0061 The Government intends that all legal forms which can hold properties will be within the scope of the new register’s requirements, while ensuring that there is flexibility in the regime to permit exemptions for types of entity if this seems appropriate (e.g. to reduce burden where there is already transparency of beneficial ownership information).
+S0062 Question 2: Is the suggested definition of leasehold appropriate?
+S0063 Question 3: Will setting the leasehold definition at leases over 21 years create any unintended consequences?
+S0064 12.
+S0065 The majority of respondents to question two did not support the suggested definition of leasehold, with several feeling that the definition was not analogous to freeholds.
+S0066 Having explored the issue further, the Government has come to the view that, in order to ensure that the policy works effectively with land registration processes, the definition needs to be based on whether a lease requires registration.
+S0067 13.
+S0068 The Government intends to include all leases of registrable duration in the scope of the new register’s requirements.
+S0069 Question 4: Do you agree that the definition of beneficial owner for the new overseas register should be aligned to the definition of people with significant control (PSC) in the PSC regime?
+S0070 14.
+S0071 The vast majority of respondents agreed that the definition of beneficial owner for the new register should be aligned with the definition of PSC in the PSC regime.
+S0072 Some respondents wanted the thresholds of ownership and control to be lowered to capture more individuals, while some felt the definition should not be aligned because of the differences between the two registers.
+S0073 15.
+S0074 As set out in the call for evidence, this definition is based on international best practice developed by the Financial Action Task Force and subsequently adopted in EU anti - money laundering legislation.
+S0075 Using the same definition will avoid mismatches with information on UK companies and prevent manipulation of holding structures.
+S0076 16.
+S0077 The Government intends that the definition of beneficial owner for the new overseas register will be aligned to the definition of PSC in the PSC regime.
+S0078 Question 5: Do you agree that entities that are not similar to UK companies limited by shares should use these adaptations to identify their beneficial owners?
+S0079 Question 6: Do these adaptations provide sufficient flexibility in the beneficial owner conditions to apply to most legal entities?
+S0080 If not, what additional adaptations should there be?
+S0081 17.
+S0082 The vast majority of respondents to question 5 agreed that entities which are not similar to UK companies limited by shares should use the adaptations listed in the call for evidence to identify their beneficial owners.
+S0083 The majority of respondents to question 6 did not raise concerns about the flexibility in the beneficial owner conditions to apply to most legal entities.
+S0084 18.
+S0085 The Government intends that entities that are not similar to UK companies limited by shares should use the adaptations listed in the call for evidence to identify their beneficial owners.
+S0086 Question 7: What methods of raising awareness would be most effective?
+S0087 19.
+S0088 Respondents provided a wide range of suggestions, including the involvement of government organisations, professional bodies and other stakeholders.
+S0089 20.
+S0090 The Government will take account of these suggestions as it develops a communications strategy in the run-up to implementing the new register.
+S0091 Question 8: Do you have any information that is relevant to our assessment of the cost and benefits of the policy to businesses, society and the economy?
+S0092 Question 9: What, if any, impact do you think that the proposed policy will have on the UK property market (residential and commercial)?
+S0093 Please describe the impacts and provide evidence.
+S0094 21.
+S0095 The Government received a wide range of information in response to question 8, including assessments of the benefits of overseas investment in the UK property market and the negative impact of illicit finance.
+S0096 The Government will consider the information provided as part of the impact assessment that will be completed ahead of the implementation of the new register.
+S0097 22.
+S0098 A majority of respondents to question 9 thought the new register could have a negative impact on the UK property market by deterring overseas investors and making the UK property market less competitive on a global level.
+S0099 Some respondents thought the proposed policy would have a positive impact by improving the reputation of the UK property market.
+S0100 23.
+S0101 The Government will take account of the impacts described by respondents in the further development of the policy and has commissioned research on the impact of the new register on overseas investment in the UK property market.
+S0102 Question 10: Do you agree that the duration of the period given to overseas entities to comply with the new requirements should be one year?
+S0103 24.
+S0104 Respondents were roughly evenly split between those who agreed that the duration of the period given to overseas entities to comply with the new requirements should be one year and those who felt that one year was not long enough for overseas entities to comply.
+S0105 Having explored the issue further, the Government has come to the view that it is appropriate for overseas entities to have a longer period of time to comply and will consider the extent to which the one year period should be extended.
+S0106 The Government intends to strike a balance which ensures overseas entities have sufficient time to comply or sell the property while ensuring that the policy’s underlying objective is achieved in a reasonable timeframe.
+S0107 Question 11: Is a system of statutory restrictions and putting notes on the register, backed up by criminal offences, a comprehensive way to ensure compliance?
+S0108 25.
+S0109 The majority of respondents thought that a system of statutory restrictions and putting notes on the relevant land register, backed up by criminal offences would be a comprehensive way to ensure compliance.
+S0110 Several respondents raised concerns about whether criminal offences were proportionate.
+S0111 As outlined in the call for evidence, there is a need to provide an effective sanction for those entities which may have no plans to sell, lease or mortgage their property to ensure that they provide the information and keep it up-to-date.
+S0112 26.
+S0113 The Government intends to introduce a system of statutory restrictions and of putting notes on the relevant land register, backed up by criminal offences.
+S0114 Question 12: Do you agree that we should prevent any beneficial interest in the property passing to an overseas legal entity that does not have a valid registration number at completion or settlement?
+S0115 Question 13: Do you agree that the most appropriate way to do this would be to void the transfer document?
+S0116 Question 14: Is there another way that we could achieve this result?
+S0117 27.
+S0118 Respondents to question 12 were roughly evenly split on whether beneficial interest in the property should pass to an overseas legal entity that does not have a valid registration number.
+S0119 28.
+S0120 A clear majority of respondents to question 13 thought that voiding the transfer document was not the most appropriate way to ensure compliance and that the registration should instead be restricted.
+S0121 A significant number of respondents felt that preventing legal title from passing would be a sufficient deterrent.
+S0122 29.
+S0123 Having explored the issues further, the Government has come to the view that preventing the transfer of beneficial interest and voiding the transfer document would not be workable within the broader framework of land law and could have damaging consequences for innocent third parties.
+S0124 30.
+S0125 The Government therefore intends to allow beneficial interest but not legal title to pass to an overseas legal entity that does not have a valid registration number at completion or settlement.
+S0126 Question 15: Which is your preferred option for procurement and why?
+S0127 31.
+S0128 Only 14 of the 56 respondents to the call for evidence responded specifically to the procurement questions.
+S0129 Of those that did, most preferred the option of treating bids without specified beneficial ownership information as incomplete or non- compliant and rejecting them on these grounds.
+S0130 Respondents suggested capturing beneficial ownership for all bidders, and not just for the successful bidder.
+S0131 32.
+S0132 The Government is not seeking to adopt this approach as it remains concerned that requiring the information from all bidders may be disproportionate to achieving the policy aim of knowing more about the suppliers Government is doing business with.
+S0133 In the absence of evidence presented as to why it would be necessary for all bidders to provide beneficial ownership information in order to meet the policy aim, the Government intends to require the preferred supplier to provide its beneficial ownership information as a condition of being awarded the contract.
+S0134 Question 16: Do you agree that the information on the new register for overseas entities should be the same as the information required under the PSC regime?
+S0135 33.
+S0136 The great majority of respondents agreed that the information on the new register for overseas entities should be the same as the information required under the PSC regime.
+S0137 There were also suggestions for additional information (including political exposed person (PEP) status, exact percentages of ownership, Legal Entity Identifier code and citizenships held) that could be required.
+S0138 34.
+S0139 The Government intends to require the same information for the new register as the information required under the PSC regime.
+S0140 Question 17: Do you agree that entities unable to give information about beneficial owners should be asked to provide information about their managing officers?
+S0141 35.
+S0142 The clear majority of respondents agreed that entities unable to give information about their beneficial owners should be asked to provide information about their managing officers.
+S0143 Some respondents disagreed, questioning the usefulness of the information and raising concerns over the effort required to comply.
+S0144 36.
+S0145 As outlined in the call for evidence, the Government considers it important to ensure that there will always be at least some additional information on the control of overseas entities that are subject to the new register.
+S0146 37.
+S0147 The Government intends to require that entities unable to give information about their beneficial owners will be asked to provide information about their managing officers.
+S0148 Question 18: Is there any additional information that we should ask for from entities that are unable to give information about their beneficial owners?
+S0149 38.
+S0150 Respondents were roughly evenly split on whether there is any additional information that we should ask for from entities that are unable to give information about their beneficial owners.
+S0151 There was a range of suggestions for additional information (including shareholder register, individual who appointed the managing officers and ultimate parent company).
+S0152 39.
+S0153 The Government intends to request the information set out in the call for evidence and will consider the benefits of additional requirements.
+S0154 Question 19: Is a requirement for an update every two years appropriate?
+S0155 40.
+S0156 The clear majority of respondents felt that two years was too long as a period to require an update.
+S0157 41.
+S0158 Several respondents suggested that event-driven updates would be the best approach.
+S0159 The Government is not seeking to adopt this approach as it is important that there is an element of predictability in the update process due to the interaction of the overseas registration number with the conveyancing process.
+S0160 By having a regular update requirement, it will be clear to the overseas entity and any third party doing business with the overseas entity when the next update is due.
+S0161 42.
+S0162 Having explored the issue further, the Government is considering increasing the frequency of the update in order to achieve the right balance between maintaining an accurate register without creating undue costs and burdens.
+S0163 We will set out our preferred approach when publishing draft legislation.
+S0164 Question 20: Would a criminal offence be an appropriate way of enforcing the requirement to update information?
+S0165 43.
+S0166 Respondents were roughly evenly split on whether a criminal offence would be an appropriate way of enforcing the requirements to update information.
+S0167 44.
+S0168 While several respondents questioned whether criminal offences were proportionate, others felt that there should be additional measures.
+S0169 As outlined in the call for evidence, there is a need to provide an effective sanction for those entities which may have no plans to sell, lease or mortgage their property
+S0170 45.
+S0171 The Government intends to establish a criminal offence to enforce the requirement to update information.
+S0172 For entities that own property
+S0173 Question 21: Do our proposals achieve the right balance between ensuring compliance and enabling overseas entities to maintain existing assets?
+S0174 46.
+S0175 Respondents were roughly evenly split on whether the proposals achieve the right balance between ensuring compliance and enabling overseas entities to maintain existing assets.
+S0176 47.
+S0177 Some respondents felt the proposals achieved the right balance in respect of new property transactions but not for existing property owners.
+S0178 The Government’s view, as set out in the call for evidence, is that it is important for the effectiveness of the policy that the mechanisms for ensuring compliance are effective for both scenarios.
+S0179 For entities participating in procurement
+S0180 Question 22: Are these mechanisms enough to deal with situations where bidders provide false beneficial ownership information or do not keep their information up- to-date?
+S0181 48.
+S0182 The majority of respondents agreed the mechanisms were appropriate and noted a termination clause would be beneficial.
+S0183 49.
+S0184 Some respondents suggested making bidders for contracts subject to penalties if found to have provided misinformation or failed to update beneficial ownership information.
+S0185 The Government is not seeking to adopt this approach.
+S0186 Its view is that because of the comparatively short duration of contracts compared to periods of property ownership, contractual mechanisms provide a more proportionate means through which to address the provision of false information.
+S0187 Question 23: Do you think that this provides the correct balance between protecting individuals from harm and ensuring transparency of how properties are owned?
+S0188 Question 24: Are there additional situations we should consider where protections should be granted?
+S0189 50.
+S0190 The clear majority of respondents to question 23 believed that the protection regime measures set out in the call for evidence provide the correct balance between protecting individuals from harm and ensuring transparency of how properties are owned.
+S0191 51.
+S0192 Several respondents objected to the register being public on the grounds that it was not proportionate to the aims of the policy.
+S0193 The Government’s view, as set out in the call for evidence, is that it is one of the essential aspects of the register that it is publicly and easily accessible in order to improve the transparency and accountability of overseas legal entities operating in the UK.
+S0194 52.
+S0195 Respondents were roughly evenly split on whether there are any additional situations the Government should consider where protections should be granted.
+S0196 Several respondents suggested that further protection should be considered for residential addresses of the named individuals; the Government will consider options in this area.
+S0197 53.
+S0198 The Government will take account of the suggestions made in the further development of the protection regime.
+S0199 Question 25: Are there other situations where exemption from putting information on the register should be permitted for entities participating in procurement?
+S0200 54.
+S0201 The majority of respondents who answered this question agreed there were no other situations where exemption, from putting information on the register, should be permitted for entities participating in procurement.
+S0202 Question 26: How can we best ensure that only legitimate lenders are able to repossess and dispose of a property with a restriction against it?
+S0203 55.
+S0204 A clear majority of respondents did not consider defining legitimate lenders to be workable.
+S0205 Having explored the issue further, the Government has come to the view that such a distinction would be impractical to create and implement.
+S0206 Question 27: We are interested in views and evidence of other commercial transactions that could be disrupted by the proposed restrictions regime.
+S0207 Question 28: Are there additional third party impacts that should also be addressed?
+S0208 56.
+S0209 Respondents set out a range of commercial transactions and third party impacts (including land options, statutory rights, pre-emption rights, co-ownership, off-plan purchases, rights of collective enfranchisement, joint ventures) that they thought could be disrupted by the proposed restrictions regime.
+S0210 57.
+S0211 After exploring this range of scenarios, the Government is confident that pre-existing contractual and statutory rights will be protected.
+S0212 58.
+S0213 Several respondents were concerned that minority stakeholders in a joint venture could be unfairly penalised as a result of the restrictions.
+S0214 As stated in the call for evidence, the Government does not believe that the register’s requirements will alter the position and rights of overseas entities in these arrangements.
+S0215 59.
+S0216 Several respondents were concerned that the policy could prevent the appointment of insolvency practitioners.
+S0217 The Government is developing the policy to ensure that it is compatible with insolvency procedures.
+S0218 Annex 1: List of Respondents
+S0219 BDO LLP
+S0220 Berwin Leighton Paisner LLP
+S0221 Bond Anti-Corruption Group
+S0222 Bond Dickinson
+S0223 Boodle Hatfield LLP
+S0224 British Bankers Association
+S0225 British Property Federation
+S0226 Burges Salmon LLP
+S0227 Cifas
+S0228 City of London Law Society
+S0229 City of London Law Society Financial Law Committee
+S0230 Clifford Chance
+S0231 CMS Cameron McKenna Nabarro Olswang LLP
+S0232 Council for Licensed Conveyancers (CLC)
+S0233 Council of Mortgage Lenders
+S0234 Deloitte LLP
+S0235 Family Office Real Estate Advisers (FORA)
+S0236 Financial Transparency Coalition
+S0237 Forsters LLP
+S0238 Freshfields Bruckhaus Deringer LLP
+S0239 Global Witness
+S0240 Annex 1: List of Respondents
+S0241 International Financial Centres Forum
+S0242 Investment Property Forum
+S0243 Isle of Man Government
+S0244 Jersey Finance
+S0245 Katten Muchin Rosenman LLP
+S0246 Loan Market Association
+S0247 London Mayor
+S0248 Rt Hon Dame Margaret Hodge
+S0249 Maurice Turner Gardner
+S0250 McDermott Will & Emery UK LLP
+S0251 Open Corporates
+S0252 Open Ownership
+S0253 PricewaterhouseCoopers
+S0254 Property Mark – National Association of Estate Agents
+S0255 Scottish Land & Estates
+S0256 Scottish Property Federation
+S0257 Shelter
+S0258 Shepherd and Wedderburn LLP
+S0259 Standard Life Investments
+S0260 Stephenson Harwood LLP
+S0261 Taylor Wessing
+S0262 The Association of Investment Companies
+S0263 The Committee for Legislation Against Money-laundering in Properties by Kleptocrats (ClampK)
+S0264 Annex 1: List of Respondents
+S0265 The Institute of Chartered Accountants in England and Wales (ICAEW)
+S0266 The Law Society of England and Wales
+S0267 The Law Society of Scotland
+S0268 Transparency International UK
+S0269 Withers LLP
+S0270 We received seven further responses from individuals.

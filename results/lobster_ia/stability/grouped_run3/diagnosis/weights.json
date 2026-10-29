@@ -1,0 +1,24 @@
+{
+  "themes": [
+    {
+      "theme": "Overfishing Problem and Market Failure Rationale",
+      "reason": "This theme directly establishes the diagnosis: it explains the causal mechanism (common good market failure) by which stocks become overfished, cites current evidence that lobster and crawfish stocks in English waters are overfished, and specifically explains why berried lobster/crawfish removal is especially damaging. Without this theme there is no stated problem or causal explanation for the policy.",
+      "weight": "core"
+    },
+    {
+      "theme": "Economic Value and Employment of the Shellfish Fishery",
+      "reason": "This theme establishes the scale/importance of the fishery (value and jobs) which motivates why overfishing matters, but it is background/context on stakes rather than the explanation of the problem or its causes; the diagnosis could stand without these figures.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Legal Obligations and Conservation Policy Framework",
+      "reason": "This largely covers legal and administrative obligations (CFP, MSFD, UK BAP) that frame why action is required, but it is procedural/legal detail rather than the core causal diagnosis of overfishing itself.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Berried Lobster and Crawfish Protection Measures",
+      "reason": "This describes current measures and anecdotal support for berried bans, which is relevant background on existing policy responses but is description of measures rather than the core diagnosis of why overfishing occurs or its scale.",
+      "weight": "not core"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Testing Routes and Compliance Pathways",
+      "reason": "This details the actual delivery mechanism (multiple compliance routes with match tests, interliners, protective classifications) chosen to implement the new regulations, directly explaining why this method was chosen and how it works in practice.",
+      "weight": "core"
+    },
+    {
+      "theme": "Product Scope and Exclusions",
+      "reason": "Determines which products the intervention applies to, which is a key implementation decision still being tested, bearing on how the rollout will be delivered and what alternatives (exclusions) were considered.",
+      "weight": "core"
+    },
+    {
+      "theme": "Cost Analysis and Economic Impact",
+      "reason": "Provides the cost/benefit estimates and assumptions behind the implementation choices (transition periods, testing routes, record-keeping), directly addressing the should-explain point on costs and benefits.",
+      "weight": "core"
+    },
+    {
+      "theme": "Transition Period and Implementation Timeline",
+      "reason": "Explains the specific rollout timeline decision (24 months) and reasoning behind extending it based on stakeholder feedback, core to how the intervention will be implemented.",
+      "weight": "core"
+    },
+    {
+      "theme": "Record Keeping and Traceability Requirements",
+      "reason": "Describes administrative implementation details for compliance monitoring; while part of the regulation, it is more procedural detail supporting enforcement rather than the central rollout mechanism.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Consultation and Evidence Testing",
+      "reason": "Describes the method for deciding still-undetermined implementation details (e.g., protective cover test) through consultation, directly addressing the should-explain point on how decisions are being made.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enforcement and Legislation",
+      "reason": "Covers legal/administrative mechanics like prosecution timeframes and regulation replacement, which are background procedural details rather than the core argument for the implementation method.",
+      "weight": "not core"
+    }
+  ]
+}

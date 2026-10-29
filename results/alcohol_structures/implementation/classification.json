@@ -1,0 +1,41 @@
+{
+  "themes": [
+    {
+      "name": "Threshold placement trade-off",
+      "ids": [
+        "S0051",
+        "S0052",
+        "S0053",
+        "S0054",
+        "S0055",
+        "S0056",
+        "S0056"
+      ]
+    },
+    {
+      "name": "Risk of over-broad targeting",
+      "ids": [
+        "S0062"
+      ]
+    },
+    {
+      "name": "Consultation as the method for finalising design",
+      "ids": [
+        "S0013",
+        "S0014",
+        "S0119",
+        "S0120",
+        "S0121"
+      ]
+    },
+    {
+      "name": "Consultation administration",
+      "ids": [
+        "S0123",
+        "S0124",
+        "S0125",
+        "S0133"
+      ]
+    }
+  ]
+}

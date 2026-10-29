@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Overfishing of lobster and crawfish stocks",
+        "claim": "Current stock assessments and landing trends show European lobster and crawfish stocks in English waters are being overfished and not exploited at Maximum Sustainable Yield levels."
+      },
+      {
+        "name": "Risk to future viability and EU/biodiversity obligations",
+        "claim": "If overfishing is not addressed, the future availability of the fisheries is at risk and the UK will fail to meet its EU MSY obligations by 2020 and its Biodiversity 2020 commitments for crawfish."
+      },
+      {
+        "name": "Market failure from common-pool resource exploitation",
+        "claim": "Fishing is a common-good problem where private incentives to exploit stocks diverge from the social cost, causing over-exploitation, and landing berried (egg-bearing) individuals imposes a particularly large external cost by removing future reproductive capacity."
+      },
+      {
+        "name": "Inadequacy and inconsistency of existing local measures",
+        "claim": "Current protections such as Minimum Conservation Reference Sizes and patchy IFCA local bans on landing berried lobsters/crawfish are insufficient and inconsistently applied, leaving stocks exposed to continued overfishing."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Choice of a national landing ban over alternatives",
+        "claim": "A national ban on landing berried lobsters and crawfish is preferred over doing nothing, relying on voluntary v-notching schemes, or extending IFCA byelaws, because only a national ban provides sufficient spatial coverage and resolves cross-boundary enforcement problems while the alternatives have proven or are expected to be insufficient."
+      },
+      {
+        "name": "Expected conservation and economic benefits from stock recovery",
+        "claim": "The ban is expected to increase stock biomass and, modelling suggests, deliver long-term increases in lobster (and likely crawfish) landings of 3-43% after fifteen years, generating benefits to fishers and the wider supply chain that justify the policy despite being unmonetised."
+      },
+      {
+        "name": "Costs to business and government under stated assumptions",
+        "claim": "The policy's quantified costs (around £28.55m net present value, £2.29m EANCB) rest on explicit assumptions about compliance, vessel fishing locations, uniform berried catch rates, and static landings data, which will be tested at consultation."
+      },
+      {
+        "name": "Unresolved design choice on ban scope/timing",
+        "claim": "A seasonal ban was considered but rejected as impractical given variable and lengthy egg-carrying periods, supporting the case for a full, year-round ban as the only option expected to deliver the intended conservation benefits."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Legal mechanism and scope of the ban",
+        "claim": "The ban will be implemented by amending the existing Statutory Instrument on v-notched lobsters under the Sea Fish (Conservation) Act 1967, applying to UK and Scottish vessels fishing in English waters while excluding foreign vessels due to their negligible landings."
+      },
+      {
+        "name": "Enforcement costs and government implementation burden",
+        "claim": "Government implementation relies on MMO and IFCAs investing in testing kits and training, with estimated annual costs of around £12,650-£16,650, assumed to be absorbed largely within routine inspection activity."
+      },
+      {
+        "name": "Consultation to test assumptions and gather evidence",
+        "claim": "Key assumptions underlying the policy's design and costings, including compliance behaviour, fisher responses, and modelling inputs, remain undecided and will be tested and refined through formal consultation and stakeholder workshops before final implementation."
+      }
+    ],
+    "note": ""
+  }
+}

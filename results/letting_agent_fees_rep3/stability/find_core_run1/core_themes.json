@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Opaque and highly variable tenant fees",
+        "claim": "Letting agent fees charged to tenants vary considerably and are difficult to understand or compare, even though the underlying services are broadly similar."
+      },
+      {
+        "name": "Tenants' lack of market power over agent selection",
+        "claim": "Because landlords, not tenants, appoint and pay letting agents, tenants have little or no ability to negotiate, opt out of, or exert competitive pressure on the fees agents charge them."
+      },
+      {
+        "name": "Perverse incentives from short tenancies",
+        "claim": "The predominance of short initial tenancies means tenants pay letting fees repeatedly, and the churn this creates gives agents a financial incentive to favour short-term lets over stability."
+      },
+      {
+        "name": "Financial harm to tenants",
+        "claim": "High, unpredictable upfront fees cause real financial hardship, deter tenants from moving or leaving poor housing, and make it harder to save for a home deposit."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Rebalancing market incentives toward landlords",
+        "claim": "Banning tenant fees shifts the cost of agent services onto landlords, who can shop around and negotiate, sharpening agents' incentive to compete on price and quality for landlords' business while giving tenants a single, transparent headline cost."
+      },
+      {
+        "name": "Insufficiency of existing transparency regulation",
+        "claim": "The transparency requirements introduced by the Consumer Rights Act 2015 have proven insufficient to curb high or opaque fees, justifying a stronger ban rather than continued reliance on disclosure alone."
+      },
+      {
+        "name": "Scope and permitted exceptions of the ban",
+        "claim": "The ban will cover fees charged by agents, landlords and third parties alike so that tenants pay only rent and a (potentially capped) refundable deposit, while allowing limited exceptions such as refundable holding deposits and charges for tenant-caused services."
+      },
+      {
+        "name": "Scottish precedent as evidence base",
+        "claim": "Evidence from Scotland's long-standing ban shows the sector remained healthy with only minimal, inconclusive rent effects, supporting confidence that a similar ban in England will not unduly harm the market."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Local enforcement by Trading Standards, possibly strengthened",
+        "claim": "The ban will be enforced primarily by local authority Trading Standards, building on their existing role, with options such as a lead enforcement authority and increased data sharing explored to strengthen effectiveness."
+      },
+      {
+        "name": "Penalty regime to deter non-compliance",
+        "claim": "Non-compliance will be deterred through civil penalties, potentially at a higher level than existing redress/transparency fines, with criminal prosecution and banning-order status considered as a stronger alternative."
+      },
+      {
+        "name": "Tenant empowerment and education as a compliance mechanism",
+        "claim": "Educating and empowering tenants to challenge unlawful fees, drawing on the precedent of deposit-protection enforcement, will reduce the burden on authorities and support effective enforcement of the ban."
+      },
+      {
+        "name": "Operational design of permitted exceptions",
+        "claim": "Specific rules are needed to define and safeguard permitted charges, such as refunding or forfeiting holding deposits and allowing charges only for tenant-requested or tenant-caused services, to prevent circumvention of the ban."
+      }
+    ],
+    "note": ""
+  }
+}

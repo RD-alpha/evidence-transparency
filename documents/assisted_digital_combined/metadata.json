@@ -1,0 +1,45 @@
+{
+  "title": "Assisted digital facilities in the justice system",
+  "alias": "assisted_digital_combined",
+  "uploaded_at": "2026-10-13T10:39:34.241609+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "10:39:34 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "assisted_digital_consultation",
+      "title": "Assisted Digital Consultation",
+      "sentence_count": 424,
+      "first_sentence": "S0001",
+      "last_sentence": "S0424",
+      "reference_count": 10,
+      "first_reference": "1",
+      "last_reference": "10",
+      "link_count": 10
+    },
+    {
+      "alias": "assisted_digital_ia",
+      "title": "Assisted Digital Court Reform IA",
+      "sentence_count": 270,
+      "first_sentence": "S0425",
+      "last_sentence": "S0694",
+      "reference_count": 19,
+      "first_reference": "11",
+      "last_reference": "29",
+      "link_count": 0
+    },
+    {
+      "alias": "assisted_digital_overarching_ia",
+      "title": "Transforming Our Justice System Overarching IA",
+      "sentence_count": 91,
+      "first_sentence": "S0695",
+      "last_sentence": "S0785",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 0
+    }
+  ],
+  "appendix2_date": "15 September 2016",
+  "appendix2_type": "consultation + IA + overarching IA (combined in Appendix order)"
+}

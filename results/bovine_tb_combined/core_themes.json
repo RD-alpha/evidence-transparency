@@ -1,0 +1,53 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Residual infection and recurrence in the High Risk Area",
+        "claim": "More than 20% of HRA breakdown herds retain infected animals after restrictions are lifted, driving high recurrence (nearly 60% within three years), although badger contact also triggers many new breakdowns."
+      },
+      {
+        "name": "Skin test insensitivity and inconsistent severe interpretation",
+        "claim": "The standard skin test misses 20-25% of infected cattle, and applying it to traced cattle while breakdown herds are read at severe interpretation is an inconsistency that leaves infection undetected."
+      },
+      {
+        "name": "Inconclusive reactors as an undetected infection risk",
+        "claim": "Animals that pass an inconclusive-reactor re-test are still at significantly higher risk of later becoming reactors, so they may carry undisclosed infection."
+      },
+      {
+        "name": "Gaps in controls on movements and testing schedules",
+        "claim": "Movements between two restricted herds and inconsistently timed short interval tests create risks that infected cattle are released onto the open market or restrictions are lifted prematurely."
+      }
+    ],
+    "note": "Diagnosis sentences are spread across several separate control weaknesses, mostly in the cattle-testing section, with little on the Edge Area or other measures."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Compulsory interferon-gamma testing in the HRA",
+        "claim": "Making parallel interferon-gamma blood testing compulsory in HRA breakdown herds meeting three criteria, rather than blanket testing, would find infection earlier, shorten breakdowns and cut recurrence, at the price of a temporary rise in reactors."
+      },
+      {
+        "name": "Closing gaps in skin testing and movement controls",
+        "claim": "Severe interpretation for traced cattle, lifelong restriction of inconclusive reactors, limits on movements between restricted herds and SITs scheduled from reactor removal would reduce the chance of missing infected animals, with immediate slaughter of all inconclusive reactors rejected as disproportionate."
+      },
+      {
+        "name": "Stronger surveillance and boundary change in the Edge Area",
+        "claim": "Redefining the Edge Area to include whole counties and extending six-monthly or radial testing would bring Edge counties to OTF status sooner, with a cost-benefit analysis showing a net benefit under stated assumptions such as reverting to annual testing after five years."
+      },
+      {
+        "name": "Overall strategy of balanced cattle controls alongside badger control",
+        "claim": "Further cattle controls are needed to reach OTF status by 2038 and complement badger culling, balancing robust disease control against a sustainable industry, building on measures introduced in 2016 and the 2014 Strategy."
+      }
+    ],
+    "note": "The proposal is a package of separate measures, with some left open for views (VRNs, red market restriction, ibTB, simplified HRA testing call for views)."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Phased roll-out of interferon-gamma testing",
+        "claim": "Compulsory interferon-gamma testing would be expanded gradually from about 20-30 herds a year to perhaps 300 in the first year, with later growth depending on how many new badger control areas are established."
+      }
+    ],
+    "note": "Very little implementation argument; the only substantive material is the scale of the interferon-gamma roll-out, the Edge Area timing (mid-2017) and the timing of the movement-test rule."
+  }
+}

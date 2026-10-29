@@ -1,0 +1,49 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Growth of master trusts under automatic enrolment",
+        "claim": "Automatic enrolment has compelled employers to enrol workers and created a large, fast-growing master trust market (over 4 million members, £8.5bn assets, 84 schemes) with ten million more people saving, so many more savers depend on these schemes."
+      },
+      {
+        "name": "Master trust-specific risks to savers",
+        "claim": "Master trusts differ from other occupational schemes in their structure and dynamics (limited employer engagement, profit motive, large numbers of savers), so some members' savings are at risk from schemes below minimum governance standards and a failed scheme without managed exit could damage confidence in pension saving."
+      },
+      {
+        "name": "Pension freedoms and exit charges",
+        "claim": "Since the April 2015 freedoms, many people aged 55 and over access savings flexibly (over £3.5bn in the first year), but occupational scheme members lack the protection from excessive exit fees that others have."
+      }
+    ],
+    "note": "The diagnosis is thin and mostly asserted through scale figures and the assertion of risk; the exit-charge problem is a separate secondary issue from the master trust problem."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Master trust authorisation and supervision regime",
+        "claim": "Master trusts must be authorised by the Pensions Regulator against five criteria (fit and proper persons, financial sustainability, scheme funder requirements, systems and processes, continuity strategy), with existing trusts brought in and ongoing supervision and enforcement powers, to raise standards and protect members."
+      },
+      {
+        "name": "Orderly exit and continuity protections",
+        "claim": "When a triggering event signals a scheme may fail, trustees must pursue a continuity option (transfer out and wind up, or resolve the event), backed by regulator pause orders and restrictions on new employers and charge increases, so members' savings and employers' automatic enrolment duties are protected."
+      },
+      {
+        "name": "Cap on early exit charges and commission ban",
+        "claim": "Enabling regulations to override conflicting contract terms supports capping early exit charges and banning member-borne commission in existing occupational schemes, giving them protection equivalent to personal pension schemes."
+      }
+    ],
+    "note": "The proposal is a package of separate measures, mostly set out as legal provisions with little explicit reasoning about alternatives or costs and benefits."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Regulator-led delivery and phased transition",
+        "claim": "The Pensions Regulator will run the authorisation regime, funded by application fees and levy, with existing master trusts given a transitional period to apply or wind up and the regime commenced only once regulations are in force."
+      },
+      {
+        "name": "Detail set by regulations with parliamentary scrutiny",
+        "claim": "Much of the detail (criteria, notification, charges, penalties, continuity procedures) is left to Secretary of State regulations subject to negative or affirmative parliamentary procedure, rather than fixed in the Bill."
+      }
+    ],
+    "note": "Implementation content is largely procedural and legal; costs are only briefly addressed, with the regulator's costs and fee income mentioned but no estimates."
+  }
+}

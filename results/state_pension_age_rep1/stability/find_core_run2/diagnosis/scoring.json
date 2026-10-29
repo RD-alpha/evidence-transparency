@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Rising life expectancy and time spent in retirement",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Figures such as 13\u00bd years/23% in 1948 and 21 years/32% in 2007 carry ONS references 5, 13, 19, 26 and DWP analysis (ref 28), and the document links them to the rising share of adult life on pension, but the DWP analysis method is not described and uncertainty is only noted in the line 'life expectancy projections are uncertain' without being applied to these figures."
+    },
+    {
+      "theme": "Ageing population and pay-as-you-go cost pressure",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Figures such as 12.4m to 16.9m pensioners, 301 to 375 dependency ratio, 1% of GDP and \u00a3725 per household are cited to ONS (refs 7, 8, 29), the Cridland review (refs 9, 30) and OBR (refs 31, 32) and reasoned through to pay-as-you-go cost pressure, with the uncertainty in projections (from the uncertainty theme) not applied to these cost figures, so no assessment of the evidence base."
+    },
+    {
+      "theme": "Past failure to adjust State Pension age",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The Pensions Commission (ref 20) and DWP calculation (ref 21, 41% of adult life for women in 2009) support the claim of slow adjustment, but the DWP calculation method is unexplained and most legislative-history lines are uncited, and no assessment of the evidence is made."
+    },
+    {
+      "theme": "Uncertainty in life expectancy projections",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The lines acknowledge uncertainty and cite the Government Actuary's 2012- versus 2014-based projection difference (5 years earlier to 68), but this carries no reference or link, so it stays at level 1 as a mention without a citable source."
+    },
+    {
+      "theme": "Demographic and Pension System Purpose",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only ref 12 (ONS cohort life expectancy) supports the long-run rise in life expectancy; the other lines are narrative, reasoning, or description of the 1995 Act."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The two lines are general assertion about societal questions and a repeated uncited claim with no evidence offered."
+    }
+  ],
+  "reasoning": "The diagnosis rests on four core themes. Rising life expectancy (level 2) is well evidenced and linked: 'In 1948... a 65-year-old could expect to spend 13\u00bd years, or 23%... of their adult life' carries ONS references 5, 13, 19 and 26, and the 2007 figure of 32% is used to show the growing share of adult life on the State Pension. The ageing population theme (level 2) cites ONS for the rise from 12.4m to 16.9m pensioners and the dependency ratio from 301 to 375 per 1,000, with the Cridland review and OBR for the 1% of GDP and \u00a3725 per household cost. Past failure to adjust (level 2) uses the Pensions Commission (ref 20) and DWP calculation (ref 21), though the DWP method is not explained. Uncertainty (level 1) acknowledges that projections are uncertain and gives the Government Actuary's 2012- versus 2014-based example, but this has no citation. The mean is (2+2+2+1)/4 = 1.75, which rounds to 2. The strongest counter-example is the uncertainty theme: the document says projections are uncertain but never applies that caveat to its headline figures, and it does not weigh contradictory evidence. To reach level 3 it would need to assess the strengths and limits of the ONS, OBR and DWP projections, show how the figures vary under alternative assumptions, and cite the Government Actuary's report directly.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

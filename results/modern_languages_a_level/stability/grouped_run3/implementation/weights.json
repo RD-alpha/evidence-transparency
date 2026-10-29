@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Aims and Learning Outcomes",
+      "reason": "Establishes the overarching goals that the standardized specification must achieve, forming the foundation on which the detailed implementation requirements are built; without these stated aims the rest of the specification would lack its justifying purpose.",
+      "weight": "core"
+    },
+    {
+      "theme": "Curriculum Content - Themes, Culture and Authentic Sources",
+      "reason": "Defines the mandatory content areas (themes, authentic sources) that constitute the substance of the standardized curriculum, a core mechanism by which standardization is delivered.",
+      "weight": "core"
+    },
+    {
+      "theme": "Language Skills Development and Assessment Tasks",
+      "reason": "Specifies the concrete skills and task types students must master, which is the operational core of how the standardized language curriculum is implemented and assessed.",
+      "weight": "core"
+    },
+    {
+      "theme": "Literary Works and Film Study Requirements",
+      "reason": "Adds a specific mandatory component (study of literary works/films) but is a particular elaboration of curriculum content rather than a foundational pillar the whole implementation argument depends on.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Research Skills at A Level",
+      "reason": "Describes an additional A-level-only requirement for research skills, a supplementary element rather than a load-bearing part of the standardization implementation case.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Chinese Language Specific Requirements",
+      "reason": "Details an exception for one language's assessment format, an administrative carve-out rather than a central support for the overall implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Grammar and Structural Content Requirements",
+      "reason": "Provides the extensive, language-specific grammar lists that operationalize consistent, comparable standards across specifications, forming a core backbone of how standardization is enforced in practice.",
+      "weight": "core"
+    }
+  ]
+}

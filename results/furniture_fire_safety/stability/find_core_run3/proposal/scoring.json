@@ -1,0 +1,70 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Choice of 'update the regulations' over alternatives",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Reference 1 (Greenstreet Berman 2009) is cited for 'FFRs go beyond the minimum EU requirement' and 'the preferred option is Option 1', but the pivotal safety claim 'We do have evidence that the FFRs are effective in saving lives' carries no citation marker, and the admission 'we do not have comparative data' shows some uncertainty acknowledgment without a full assessment of the cited evidence's robustness."
+    },
+    {
+      "theme": "Consultation-driven revision of the evidence base",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The method is clear (113 responses, '57 respondents did not agree... compared to 14 who agreed' Reference 3) and the document itself flags contradictions and gaps, e.g. 'the majority of respondents believed that the original range of \u00a319m-55m was highly unrealistic' and 'there still remain a number of key uncertainties'."
+    },
+    {
+      "theme": "Monetised cost-benefit case for the package",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Figures are tied to named sources (ONS ABS Reference 4, PRODCOM Reference 9, ONS households Reference 10, test-house data Reference 5/6) and the document explicitly assesses limitations, e.g. 'due to data limitations used a bottom up approach' and 'the original IA assumed a reduction of 20-50% of FRs... but this was felt to be overstated'."
+    },
+    {
+      "theme": "Scope and traceability reform as part of the proposed package",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The \u00a32.7m baby-products figure is attributed only loosely ('based on BIS analysis of evidence submitted by the Baby Products trade association') with no method detail, and the claim 'We should see greater levels of compliance as a result of improved traceability requirements' carries no evidence at all."
+    },
+    {
+      "theme": "The new match test design",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The causal claim that the old test 'led to...large amounts of flame retardant chemicals' carries Reference 5 ('Cost savings provided by UK test houses'), a citation that does not actually explain or support that causal mechanism."
+    },
+    {
+      "theme": "Policy objectives and fire safety outcomes",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The \u00a3140m/year fire safety benefit figure and Reference 2 ('See Annex for links to sample papers') are only a generic pointer, leaving the reader to infer which source supports which claim."
+    },
+    {
+      "theme": "Industry context and affected businesses",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Employment, GVA and SME figures are properly sourced to Reference 1 and Reference 4 (ONS ABS), directly supporting the description of who is affected."
+    },
+    {
+      "theme": "Regulatory background and prior engagement",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only citation is the generic Reference 2 ('See Annex for links to sample papers'), so the history of the review is asserted rather than evidenced."
+    },
+    {
+      "theme": "Unquantified benefits and impacts",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims such as 'we should see greater levels of compliance' and the discussion of organophosphate safety carry no citations or named sources at all."
+    },
+    {
+      "theme": "Uncertainty and data limitations",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Specific figures are traced to Reference 8 (FIRA submission), Reference 9 (PRODCOM) and Reference 10 (ONS households), and the text explicitly flags 'This is the major uncertainty in estimating demand, therefore a range is used.'"
+    }
+  ],
+  "reasoning": "The four core themes vary widely. 'Choice of update over alternatives' (level 2) cites Reference 1 for the preferred option but leaves the key lifesaving claim uncited, with only a brief uncertainty note ('we do not have comparative data'). 'Consultation-driven revision' (level 3) is strongly evidenced: '57 respondents did not agree with BIS...compared to 14 who agreed' (Reference 3) and explicit acknowledgment that 'the original range of \u00a319m-55m was highly unrealistic'. 'Monetised cost-benefit case' (level 3) cites ONS, PRODCOM and test-house data for its \u00a315-18m central estimate and repeatedly flags assumptions as uncertain, e.g. 'felt to be overstated by respondents to the earlier consultation'. 'Scope and traceability reform' (level 1) is the weakest: the \u00a32.7m baby-products saving is attributed only loosely to 'BIS analysis of evidence submitted by the Baby Products trade association' with no method given, and the traceability-improves-compliance claim has no evidence at all. The mean of (2+3+3+1)/4 = 2.25, rounding to 2. The strongest counter-example to a higher score is the traceability theme's bare assertion of compliance improvement with zero evidence. To reach level 3 overall, the document would need to cite and assess the evidence behind the scope/traceability claims as rigorously as it does the consultation and cost-benefit figures, and explicitly source the 'we have evidence FFRs save lives' claim.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.25,
+  "score_consistent": true,
+  "missing_core": []
+}

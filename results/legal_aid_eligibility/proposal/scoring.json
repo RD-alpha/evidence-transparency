@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Passport only zero-earnings Universal Credit recipients",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The rejection of the \u00a3500 option rests on an uncited \u00a31-1.5m a year cost estimate with no method given, and the other objections are argument only; the ungrouped modelling description and the worked examples (Annette, Raymond, Paul, Saira) show some method but are not linked to the choice of the zero threshold, and Ref 4 only defines earnings."
+    },
+    {
+      "theme": "Costs and modelled impacts are small",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The \u00a3400,000 net cost (range \u00a3200,000-\u00a3600,000), the 650 and 500 affected claimants and the \u00a3900,000 and \u00a3500,000 components are linked to the policy and carry a sensitivity range, with Refs 5 and 8 sourcing the workload statistics, while the ungrouped lines describe the matching method (Ref 9), though the document does not assess the weakness of the evidence base strongly enough for level 3."
+    },
+    {
+      "theme": "No disproportionate equalities impact",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The theme uses cited data (Refs 14, 18, 19, 20 on LAA client data, Census, DWP statistics and the FRS) and the modelling matching limits (Ref 12, line 6) and gaps (no data on 5 characteristics) are acknowledged, but the conclusion that no particular disadvantage is likely rests partly on assertion, and Ref 14 and Ref 20 give some method but the Annex tables are not shown."
+    }
+  ],
+  "reasoning": "The two themes carrying the strongest evidence are the costs/impacts theme and the equalities theme, while the core theme on the choice of intervention is weaker. For the choice of a zero-earnings threshold (level 1), the document offers evidence for rejecting the \u00a3500 alternative: 'it is estimated that it would cost the fund an additional \u00a31-1.5m per annum'. However, no method or source is given for that figure in this theme. The rejection of the no-passporting option ('would increase administrative costs') is pure assertion. Ref 4 only defines earnings, and the worked examples illustrate rather than justify the threshold. For costs and impacts (level 2), the document gives 'around \u00a3400,000 per year', a sensitivity range of '\u00a3200,000 to \u00a3600,000', and numbers of cases moving by category. It describes the matching of case data to survey data, with Refs 5, 8 and 9 supporting this. Uncertainty is acknowledged ('we do not have the information to quantify this cost'), but this stops short of a full assessment of the evidence base. The equalities theme (level 2) cites DWP, ONS and FRS data and admits data gaps (Ref 12, 'cannot provide an accurate profile'), but concludes 'no particular disadvantage' with limited quantified results shown. Mean of core levels is (1+2+2)/3 = 1.67, which rounds to 2. The strongest counter-example is that the key justification for the proposal, the rejection of the alternatives, is level 1 and the \u00a31-1.5m cost is unexplained. To reach level 3 the document would need to explain how the alternatives were costed and assess the weaknesses of its modelling and the contradictory evidence.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

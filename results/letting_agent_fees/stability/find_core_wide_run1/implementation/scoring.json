@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Primary enforcement by local authorities",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that Trading Standards 'builds on existing work' enforcing redress scheme and Consumer Rights Act requirements is asserted with no data on past enforcement performance or outcomes to justify the choice."
+    },
+    {
+      "theme": "Additional enforcement mechanisms under consideration",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The detailed description of NTSEAT's role and powers in the Estate Agent sector is used as a comparable-policy analogy for why a lead authority 'could make enforcement more consistent and effective', but it carries no reference or link to a source."
+    },
+    {
+      "theme": "Tenant empowerment and education as enforcement tool",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that 'tenant empowerment and education has helped to improve compliance in other areas...for example, deposit protection' offers a comparable mechanism with some explanation (court powers, treble deposit order) but no citation or data showing actual compliance improvement."
+    },
+    {
+      "theme": "Penalty regime for non-compliance",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Existing penalty figures (\u00a35,000 redress fine, \u00a330,000 banning order penalty) are described to justify setting a 'similar' deterrent fine, but this is reasoning by analogy with no evidence that such fines actually deter non-compliance."
+    },
+    {
+      "theme": "Defining permitted charges and mitigating financial burden",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Proposals on holding deposits, capping, instalments and service charges are set out and justified only by reasoning ('the Government does however suggest...may need to be capped') with no data, consultation finding or study cited."
+    },
+    {
+      "theme": "Legislative framework and complementary measures",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Purely descriptive statements about introducing primary legislation, with no evidence offered for the approach."
+    }
+  ],
+  "reasoning": "Across the five core themes, the document mostly reasons from first principles rather than evidence. 'Primary enforcement by local authorities' only describes continuity with existing Trading Standards duties, with no data on past effectiveness (level 0). 'Additional enforcement mechanisms' draws on the Estate Agent sector's NTSEAT as a comparable model, explaining its powers and functions, but no reference or link is given, keeping it at level 1. 'Tenant empowerment and education' cites the deposit-protection analogy ('has helped to improve compliance in other areas...for example, deposit protection') with some mechanism detail but no figures or citation, also level 1. 'Penalty regime' reasons from existing \u00a35,000 and \u00a330,000 penalty levels to suggest a deterrent fine, but this is analogy not evidence of deterrent effect (level 0). 'Defining permitted charges' sets out proposed rules (holding deposits, capping, instalments) purely through assertion, with no supporting evidence (level 0). The mean of (0,1,1,0,0)=0.4, rounding to 0. The strongest counter-case is the NTSEAT comparison, which comes closest to real evidence of a working model, but it is uncited and lacks performance data. To reach level 1 overall, the document would need to show evidence behind the Trading Standards and penalty-level choices; to reach level 2, it would need proper citations linking that evidence to the specific implementation choices.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.4,
+  "score_consistent": true,
+  "missing_core": []
+}

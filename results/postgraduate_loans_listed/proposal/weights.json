@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Objectives and design rationale for an income-contingent loan",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Eligibility restrictions to protect value for money and avoid duplication",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Repayment and interest terms",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Maximum course length as a balance between flexibility and incentivising completion",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation and development process",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Loan amount and coverage of costs",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Portability and institution access",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Government duty to manage public resources",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Equality considerations",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

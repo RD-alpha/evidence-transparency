@@ -1,0 +1,65 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Growth and significance of the private rented sector",
+        "claim": "The private rented sector has grown substantially, making the scale and impact of letting agent fees on tenants a matter of national housing policy importance."
+      },
+      {
+        "name": "High, variable and opaque tenant fees",
+        "claim": "Letting agents charge tenants fees that vary considerably in amount, structure and transparency, making them hard to understand, itemise or compare across agents."
+      },
+      {
+        "name": "Asymmetric market power between landlords and tenants",
+        "claim": "Because landlords, not tenants, choose and can negotiate with letting agents, there is little competitive pressure to keep tenant-facing fees low, even where transparency rules are followed."
+      },
+      {
+        "name": "Financial and behavioural harm to tenants",
+        "claim": "Repeated, high upfront fees create real financial hardship for tenants, deterring moves, exacerbating vulnerability, and potentially encouraging discriminatory practices."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Ban chosen over continued transparency regulation",
+        "claim": "Because existing transparency requirements have not fixed the underlying market failure of weak tenant-side competition, the government has chosen an outright ban on tenant-paid letting fees rather than further transparency measures."
+      },
+      {
+        "name": "Scope and design of the ban",
+        "claim": "The ban will cover all letting agent fees to tenants from agents, landlords or third parties, leaving only rent and a refundable deposit chargeable, in order to be clear and simple while protecting landlords and agents from undue risk."
+      },
+      {
+        "name": "Scottish precedent as supporting evidence",
+        "claim": "Evidence from Scotland's long-standing ban on letting fees shows that similar bans can operate with minimal negative effects on the sector and only limited impact on rents, supporting the case for introducing a comparable ban in England."
+      },
+      {
+        "name": "Expected market effects of the ban",
+        "claim": "The ban is expected to sharpen competition among agents for landlords' business, lower overall fee levels, and may lead to some pass-through into rents, but with net benefits for tenants' ability to compare and afford properties."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Enforcement through local authorities, possibly a lead authority",
+        "claim": "The ban will be enforced primarily by local authority Trading Standards, building on their existing role, with the possible addition of a lead enforcement authority modelled on the Estate Agent sector to improve consistency."
+      },
+      {
+        "name": "Permitted exceptions and deposit arrangements",
+        "claim": "To make the ban workable, certain charges—holding deposits and in-tenancy charges arising from tenant actions—will remain permitted, alongside measures to ease the burden of upfront deposits on tenants."
+      },
+      {
+        "name": "Penalties and deterrence for non-compliance",
+        "claim": "Non-compliance with the ban will be deterred through civil penalties, potentially at a higher level than existing fines, with the option of criminal prosecution and banning orders for persistent offenders."
+      },
+      {
+        "name": "Tenant empowerment and education to support compliance",
+        "claim": "Educating and empowering tenants to recognise and challenge unlawful fees, alongside improved data sharing across regulators, will reduce the enforcement burden on local authorities and improve compliance with the ban."
+      }
+    ],
+    "note": ""
+  }
+}

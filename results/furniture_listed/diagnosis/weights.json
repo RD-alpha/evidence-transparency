@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Outdated match test",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Flame retardant health and environmental harms",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope ambiguity",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Traceability and enforcement gaps",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Regulatory background and historical context",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Regulation effectiveness and safety benefits",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

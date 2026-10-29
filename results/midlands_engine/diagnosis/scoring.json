@@ -1,0 +1,40 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Productivity gap",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The gap claim (about 10% in 1997 to 15% in 2015) cites ONS time series (refs 8,9), GVA per employee cites refs 5,41,42, and business creation cites ref 43 (plus ungrouped ref 12), each with figures and comparators, but no assessment of data quality."
+    },
+    {
+      "theme": "Skills shortage",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Qualification, no-qualification, school and graduate retention figures carry refs 10,11,24-26,30-34 to Nomis, Ofsted, DfE and HESA with clear comparators, although the causal link to productivity rests on ref 1 and unsupported reasoning, and no evidence limitations are discussed."
+    },
+    {
+      "theme": "Fragmented transport and connectivity",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Only the delay-hours and Leicester-Hereford journey time lines carry ref 20 (Midlands Connect), while the fragmentation and dispersed-population claims are uncited and the productivity and wage effects are asserted without evidence."
+    },
+    {
+      "theme": "Existing strengths to build on",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Most strength claims carry specific figures and references (refs 3,4,13-16,21,22,35-40,44-56) to ONS, HMRC, CAA and others, but some lines such as the university and clusters descriptions are uncited and no uncertainty is acknowledged."
+    },
+    {
+      "theme": "Digital infrastructure",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The claim that superfast broadband raises productivity carries ref 17 only as a coverage dataset that does not show that effect, so the evidence is not linked to the claim."
+    }
+  ],
+  "reasoning": "The four core themes are Productivity gap, Skills shortage, Fragmented transport and connectivity, and Existing strengths to build on. Productivity gap reaches level 2: the line \"In 1997, the productivity gap... about 10%. By 2015... about 15%\" cites ONS time series (refs 8,9), and \"GVA per employee in the Midlands is \u00a344,447 compared to the UK average of \u00a350,830\" cites refs 5,41,42. The business-creation figures (ref 43, and ref 12 in the ungrouped lines) give the size and direction of the gap. Skills shortage also reaches level 2: it gives figures with Nomis, Ofsted, DfE and HESA references, for example 31.8% and 31.2% against 36.8% holding degree-level qualifications. Transport is level 1: only the delay-hours and train-journey line carries ref 20, while \"the region's economy is fragmented\" and the claim that dispersal \"lowers productivity, and wages\" have no evidence behind them. Existing strengths is level 2, with many cited figures. The mean is (2+2+1+2)/4 = 1.75, which rounds to 2. The strongest counter-example is that the causal chain from skills and transport to productivity is asserted, not evidenced, and nowhere does the document discuss data limitations, which would argue for a lower score. To reach level 3, the document would need to assess the quality and limits of this evidence (for example, how robust the regional GVA and productivity measures are), acknowledge contradictory findings, and support the causal claims linking skills and connectivity to productivity.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

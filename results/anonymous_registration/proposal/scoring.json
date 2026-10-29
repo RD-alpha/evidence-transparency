@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Widening the list of attestors",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines offer only reasoning (survivors are likely to disclose to health professionals, advocates are well informed) and the unsourced claim of 'roughly seven times' more police attestors and 'over 280 MARACs', with no cited source or explanation of how the figures were obtained."
+    },
+    {
+      "theme": "Widening documentary evidence",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "References 4-7 cite the statutes creating DVPNs, DVPOs and FGM orders and give usage figures (3,337 DVPNs, 3,072 DVPOs, 79 FGM orders) that link to the choice of adding these orders, though the wider list rests only on alignment with other regimes and no weaknesses are assessed."
+    },
+    {
+      "theme": "Relaxing the live-order requirement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The lines weigh options through reasoning alone (abuse 'does not necessarily fit within a time limit', risk of continued registration 'may be low'), with no statistic, finding or source behind them."
+    },
+    {
+      "theme": "Balancing access, clarity and burden",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Lines set out aims and mention working with domestic abuse organisations, with no evidence on what they said or how the review was done, and the annual renewal burden is merely 'under investigation'."
+    }
+  ],
+  "reasoning": "The core themes mostly rest on argument rather than evidence. Widening the list of attestors (level 0) relies on assertions such as 'Health professionals are one of the groups of people to whom survivors of abuse may actually disclose what has happened to them' and 'should be in a very well-informed position to judge the risk'. The only figures, 'roughly seven times the number' of police attestors and 'over 280 MARACs', are uncited and unexplained. Relaxing the live-order requirement (level 0) weighs options on reasoning alone, such as 'the risk of this may be low but it is still present', with no data on how many survivors are excluded or how often registrations continue after need has ended. Balancing access, clarity and burden (level 0) says 'I have worked closely with domestic abuse organisations' but gives no method, findings or numbers, and is about aims rather than evidence. Widening documentary evidence is the strongest at level 2. References 4-7 cite statutes and give usage figures for DVPNs, DVPOs and FGM orders, and the document links the wider list to other evidence regimes. It stops short of level 3 because it does not assess the strength of this evidence or any contradictory information. Mean of core themes is (0+2+0+0)/4 = 0.5, which rounds to 1. The strongest counter-example to this score is that three of four core themes contain no evidence, which would argue for 0. To reach level 2, the document would need to cite the consultation or review with domestic abuse organisations, and give sourced data on survivors excluded and on attestor numbers.",
+  "score": 0,
+  "model_score": 1,
+  "core_mean": 0.5,
+  "score_consistent": false,
+  "missing_core": []
+}

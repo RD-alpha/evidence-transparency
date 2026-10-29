@@ -1,0 +1,44 @@
+{
+  "diagnosis": {
+    "core_themes": [],
+    "note": "No sentences in the document are labelled Diagnosis, so no causes, effects, scale or evidence assessment of a problem are argued anywhere in the text."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Modern languages as academically rigorous and interdisciplinary",
+        "claim": "The document claims that studying a modern language is an interdisciplinary subject offering the same cognitive and academic advantages as other humanities disciplines."
+      },
+      {
+        "name": "Transferable skills and wider value",
+        "claim": "The document claims that the AS/A level content fosters transferable skills (critical thinking, autonomy, creativity, cultural and cognitive flexibility) that are valuable to individuals, society, higher education and employers."
+      },
+      {
+        "name": "Universal relevance and progression route",
+        "claim": "The document claims the content is designed to be relevant to students of all disciplines while also providing a robust foundation for those who wish to progress to degree-level study of the language."
+      }
+    ],
+    "note": ""
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Core language skills and communicative competence",
+        "claim": "The document claims specifications must require students to develop practical and intellectual language skills—speaking, listening, reading, writing, translation, and independent research strategies—to become accurate, confident and independent users of the language."
+      },
+      {
+        "name": "Cultural and thematic content study",
+        "claim": "The document claims specifications must require students to study themes relating to the society and culture of the target language country using authentic spoken and written sources across defined areas of interest."
+      },
+      {
+        "name": "Literary and film works study",
+        "claim": "The document claims specifications must require students to study and critically analyse one work at AS and two works at A level, drawn from literature and/or film, with increasing depth and critical sophistication at A level."
+      },
+      {
+        "name": "Grammar specification and cross-language comparability",
+        "claim": "The document claims specifications must build on GCSE grammar knowledge and set out detailed grammar requirements (as exemplified for French, German and Spanish, with Chinese treated differently) that other languages must match in challenge and breadth."
+      }
+    ],
+    "note": ""
+  }
+}

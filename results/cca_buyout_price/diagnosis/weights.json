@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "High buy-out use in Target Period 1",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Original buy-out price rationale",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Limits of the TP1 evidence",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

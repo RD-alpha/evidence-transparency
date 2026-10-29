@@ -1,0 +1,35 @@
+{
+  "title": "National Insurance Contributions for the self-employed",
+  "alias": "nics_self_employed",
+  "uploaded_at": "2026-10-13T12:26:21.671666+01:00",
+  "uploaded_date": "2026-10-13",
+  "uploaded_time": "12:26:21 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "nics_fact_sheet",
+      "title": "National Insurance and the Self-Employed",
+      "sentence_count": 114,
+      "first_sentence": "S0001",
+      "last_sentence": "S0114",
+      "reference_count": 8,
+      "first_reference": "1",
+      "last_reference": "8",
+      "link_count": 0
+    },
+    {
+      "alias": "spring_budget_2017",
+      "title": "Spring Budget 2017",
+      "sentence_count": 731,
+      "first_sentence": "S0115",
+      "last_sentence": "S0845",
+      "reference_count": 55,
+      "first_reference": "9",
+      "last_reference": "63",
+      "link_count": 20
+    }
+  ],
+  "appendix2_date": "8 March 2017",
+  "appendix2_type": "policy paper + Spring Budget 2017 (combined in Appendix order)",
+  "extraction_note": "PDF table rows converted to header: value sentences and line-level fragments merged into paragraphs (wrapper around the extractor; shared code unchanged)."
+}

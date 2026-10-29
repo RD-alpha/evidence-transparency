@@ -1,0 +1,62 @@
+{
+  "title": "Furniture and furnishings fire safety regulations (listed sources)",
+  "alias": "furniture_listed",
+  "uploaded_at": "2026-10-08T17:53:17.033959+01:00",
+  "uploaded_date": "2026-10-08",
+  "uploaded_time": "17:53:17 BST",
+  "extraction_method": "combined",
+  "combined_from": [
+    {
+      "alias": "furniture_consultation_listed",
+      "title": "Furniture fire safety consultation (listed source)",
+      "sentence_count": 1008,
+      "first_sentence": "S0001",
+      "last_sentence": "S1008",
+      "reference_count": 3,
+      "first_reference": "1",
+      "last_reference": "3",
+      "link_count": 25
+    },
+    {
+      "alias": "furniture_ia_listed",
+      "title": "Furniture fire safety impact assessment (listed source)",
+      "sentence_count": 659,
+      "first_sentence": "S1009",
+      "last_sentence": "S1667",
+      "reference_count": 17,
+      "first_reference": "4",
+      "last_reference": "20",
+      "link_count": 8
+    },
+    {
+      "alias": "furniture_regs_listed",
+      "title": "Furniture fire safety draft regulations (listed source)",
+      "sentence_count": 478,
+      "first_sentence": "S1668",
+      "last_sentence": "S2145",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 0
+    },
+    {
+      "alias": "furniture_panel_listed",
+      "title": "Furniture fire safety technical panel review (listed source)",
+      "sentence_count": 194,
+      "first_sentence": "S2146",
+      "last_sentence": "S2339",
+      "reference_count": 0,
+      "first_reference": null,
+      "last_reference": null,
+      "link_count": 0
+    }
+  ],
+  "llm_annotation_document_type": {
+    "annotated_by": "Claude (LLM) - not a human annotation; check before relying on it",
+    "annotated_on": "2026-10-08",
+    "document_type": "consultation_invitation",
+    "source_documents": 4,
+    "matches_2018_listed_source": "yes",
+    "basis": "Consultation + impact assessment + draft regulations + technical panel review (all listed). Ingested from the files Appendix 2 links to (verified by retrieval)."
+  }
+}

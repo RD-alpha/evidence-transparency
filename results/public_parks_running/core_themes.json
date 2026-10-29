@@ -1,0 +1,45 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Stoke Gifford charge as the trigger",
+        "claim": "Stoke Gifford Parish Council's vote to charge parkrun for Little Stoke Park is the concrete problem, and other authorities must be prevented from following its example."
+      },
+      {
+        "name": "Nature of parkrun",
+        "claim": "Parkrun and junior parkrun are free, volunteer-organised, not-for-profit weekly events held in local parks that depend on donations and sponsors."
+      },
+      {
+        "name": "Legal basis for charging",
+        "claim": "Councils can charge under specific statutory powers (the 1976 Act, which lists facilities but not parks) and the General Power of Competence, so charging parkrun is currently legally possible."
+      }
+    ],
+    "note": "The diagnosis rests on a single local incident and legal description; no data on scale, prevalence or effects of such charging is given."
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Free everyday use versus legitimate charging",
+        "claim": "Parkrun involves shared, non-exclusive use of the park, unlike exclusive facilities such as tennis courts or ticketed events, so it should be protected from charges while reasonable charges for exclusive facilities remain legitimate."
+      },
+      {
+        "name": "Why parkrun is singled out",
+        "claim": "Parkrun and junior parkrun are specifically protected because they form a national community embodying supported principles of health and volunteering, and because a council actually chose to charge them."
+      },
+      {
+        "name": "Extension to other users",
+        "claim": "Other community groups, businesses and events may or may not be covered, with local agreement expected for local or irregular events, and views are sought on extending protection."
+      }
+    ],
+    "note": "The proposal is argued from principle and government objectives, with no costs, benefits or alternatives assessed, and extension to other groups is left open for consultation."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Secretary of State's regulation-making powers",
+        "claim": "The prohibition can be delivered through regulations under section 151 of the 1989 Act (extended to parish councils via section 152(4)) and later through section 5(3) of the Localism Act 2011, which has been used before in a narrow, specific way on tips."
+      }
+    ],
+    "note": "Implementation is only legal-mechanism description; no alternative delivery methods, evidence or costs are discussed."
+  }
+}

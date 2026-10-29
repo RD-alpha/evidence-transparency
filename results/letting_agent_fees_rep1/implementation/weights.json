@@ -1,0 +1,39 @@
+{
+  "themes": [
+    {
+      "theme": "Local authority (Trading Standards) enforcement",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Tenant empowerment and education",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Additional enforcement mechanisms under consideration",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Civil versus criminal penalties",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Scope and coverage of the fee ban",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Holding deposits and alternative deposit models",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Fee provisions in other jurisdictions",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

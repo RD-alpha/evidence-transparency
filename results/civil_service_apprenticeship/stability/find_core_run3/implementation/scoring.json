@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Three Delivery Routes",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The three routes are only described (converting external recruitment, retraining staff, enhancing schemes like the Fast Track) with no evidence offered for why these routes were chosen or that they work."
+    },
+    {
+      "theme": "Governance and Multi-Level Delivery",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The governance structure (Cabinet Office as SRO, 2.3% target, DA engagement) is asserted and described with no cited evidence or data explaining why this structure was chosen; Reference 5 only defines NI Civil Service status, not supporting evidence."
+    },
+    {
+      "theme": "Enabling Reforms and Targeted Outreach",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Claims about needing new pay models and 'piloting alternative approaches' under the Talent Action Plan 2016 are asserted with no data, findings or citation showing why these reforms are the right ones."
+    },
+    {
+      "theme": "Apprenticeship Content and Career Pathways",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes intended apprenticeship levels and career ladders with no supporting evidence for these design choices."
+    },
+    {
+      "theme": "Quality Assurance and Standards",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "States intention to use Ofsted-rated 'outstanding' or 'good' providers as a quality criterion but gives no evidence that this criterion improves apprenticeship quality."
+    },
+    {
+      "theme": "Cross-Sector Collaboration and Best Practice",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Argues collaboration will help 'further the agenda at pace' purely through reasoning, with no cited evidence."
+    },
+    {
+      "theme": "Diversity, Inclusion and Socio-Economic Measurement",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes intended diversity data collection and targets with no evidence of how these will achieve inclusion goals."
+    },
+    {
+      "theme": "Workforce Planning and Departmental Delivery",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Describes expectation for departmental delivery plans with no evidence behind this requirement."
+    }
+  ],
+  "reasoning": "All three core themes score 0. 'Three Delivery Routes' simply lists the routes (e.g. 'converting planned external recruitment', 'offering our current workforce increased opportunities to retrain') without evidence they will work or were chosen over alternatives. 'Governance and Multi-Level Delivery' asserts the Cabinet Office SRO role and the 2.3% target but gives no data or precedent justifying this structure, and Reference 5 is purely definitional (explaining NI Civil Service status), not evidentiary. 'Enabling Reforms and Targeted Outreach' claims pay and recruitment reform is needed and mentions 'piloting alternative approaches to competency based recruitment' under the Talent Action Plan 2016, but offers no findings, statistics or methodology to show these reforms are effective or how the pilot was run. The strongest counter-example is this Talent Action Plan reference, which comes closest to naming a primary-evidence activity (a pilot), but it stops short of level 1 because no result or method is given -- it reads as an intention rather than a finding. No links are present anywhere in the extract, and no named report, statistic or consultation result is linked to any delivery choice. The mean of the three core theme levels (0, 0, 0) is 0, giving a section score of 0. To reach level 1, the document would need to explain, for at least one core theme, what evidence (a pilot result, workforce data, or comparable policy experience) supports the chosen delivery route, structure, or reform.",
+  "score": 0,
+  "model_score": 0,
+  "core_mean": 0.0,
+  "score_consistent": true,
+  "missing_core": []
+}

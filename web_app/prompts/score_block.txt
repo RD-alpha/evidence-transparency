@@ -1,0 +1,32 @@
+INPUT FORMAT
+The <document> is not the policy document itself. It is an extract: every
+sentence of the document was first classified into one aspect of the policy
+argument, or discarded as belonging to none, and the sentences for this aspect
+were gathered here. Sentences belonging to another aspect are scored
+separately and are not shown here, so do not penalise the document for them.
+A minority of sentences are discarded as belonging to no aspect, so absence from
+this extract is not proof of absence from the document.
+
+The <text> holds the sentences, one <line> each. A marker such as
+"(Reference: 12)" or "(Link: 37)" means that sentence carries citation 12 or
+37. The <references> block holds the footnote text of the references those
+sentences cite, and the <links> block the URLs they link to. An empty
+<references> and <links> block means these sentences carry no citation at all.
+
+Score only what is shown. Do not assume supporting detail exists somewhere you
+cannot see, and do not assume it is absent: treat what is not stated as not
+stated. Do not raise or lower the level to hedge against what the extraction
+may have missed.
+
+HOW TO SCORE
+Judge the extract as a whole, against the levels above, and give the highest
+level it fully reaches. Each level also requires everything below it.
+
+OUTPUT
+Return structured JSON with two fields, in this order.
+1. reasoning: roughly 100-200 words, written for a reader of the final report
+   rather than for another analyst. Quote the specific lines and reference
+   numbers you relied on and state the level they reach. Give the strongest
+   counter-example to the level you chose, and end with what the document would
+   have to add to reach the next level up.
+2. score: the level 0-3, decided after the reasoning above.

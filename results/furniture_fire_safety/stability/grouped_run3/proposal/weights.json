@@ -1,0 +1,49 @@
+{
+  "themes": [
+    {
+      "theme": "Rationale and Objectives for Regulatory Intervention",
+      "reason": "States why government intervention is needed and what it aims to achieve (safety, cost reduction, FR reduction, certainty, traceability), forming the foundational justification for the proposal; without it there is no stated purpose for the chosen intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Policy Options and Preferred Approach",
+      "reason": "Lays out the alternatives considered (do nothing, revoke regulations) and explains why Option 1 was selected, directly addressing why this intervention was chosen over others; removing it leaves no explicit justification for selecting the preferred option.",
+      "weight": "core"
+    },
+    {
+      "theme": "Consultation Process and Stakeholder Views",
+      "reason": "Shows what evidence the proposal is based on, how prior attempts (2014 test proposal) fared, and how stakeholder disagreement led BIS to revise the design and cost estimates, which is central to explaining the evidential basis and evolution of the chosen intervention.",
+      "weight": "core"
+    },
+    {
+      "theme": "Design of the New Testing Regime",
+      "reason": "Specifies the actual technical content of the chosen intervention (the new match test, removal of cigarette test, foam/fibre changes), which is the substance of the proposal itself and cannot be removed without losing the core of what is being proposed.",
+      "weight": "core"
+    },
+    {
+      "theme": "Costs to Business of Compliance",
+      "reason": "Provides detailed cost breakdowns supporting the cost-benefit case for the proposal, but this is elaborative quantification rather than the structural justification for choosing the intervention.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Benefits from Reduced Flame Retardant Use and Cost Savings",
+      "reason": "Gives detailed quantified benefit estimates supporting the rationale already established elsewhere; it enriches but is not essential to the basic case for the chosen option.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Overall Cost-Benefit Appraisal",
+      "reason": "Summarises net monetised figures (EANCB, totals) as a bottom-line calculation, which supports but does not itself constitute the argument for why this intervention was chosen.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Industry Structure and Business Impact, Including SMEs",
+      "reason": "Provides contextual background on industry size and SME exposure to costs, informing but not underpinning the core justification for the proposed intervention.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Methodology for Estimating Fabric and Chemical Usage",
+      "reason": "Details technical methods for estimating fabric/chemical quantities used in cost-benefit calculations; this is background calculation detail rather than a pillar of the proposal's justification.",
+      "weight": "not core"
+    }
+  ]
+}

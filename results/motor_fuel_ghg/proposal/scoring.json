@@ -1,0 +1,34 @@
+{
+  "theme_scores": [
+    {
+      "theme": "GHG obligation with tradeable credits",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The case for the 6% phased obligation rests on reasoning and the department's modelling summary (1.9 'three quarters (7. MtCO2e)', ref 9; 'Analysis suggests a 2% target can be met', ref 12) plus the single-scheme risk claim 'significant risks of being unsuccessful', which is asserted without evidence, so the modelling method is only partly shown and cited."
+    },
+    {
+      "theme": "Upstream emission reductions as cost-effective savings",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The ICCT/European Commission report (ref 5) is cited for the 400 MtCO2e and the \u20ac0-200 cost range, and the department openly assesses additionality uncertainty ('may be open to debate', 'high additionality' and 'low additionality' scenarios in 5.7), but the document does not assess the ICCT evidence itself, so it stays at 2."
+    },
+    {
+      "theme": "Buy-out price and cost-benefit case",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The six-option CBA table with costs, pump price impacts and NPVs is linked to the \u00a374/tCO2 choice via the BEIS non-traded carbon value (refs 14, 27, 33, 34) and Green Book discounting (ref 35), with ranges acknowledged, though the assumptions (e.g. \u00a30.12/tCO2 admin cost, ref 29 and 36) are only partly assessed and ref 27 is a broken reference."
+    },
+    {
+      "theme": "Wider eligible fuels and industrial opportunity",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "Claims such as 'over \u00a31 billion of private investment', '\u00a315 billion in 2030' and the 125,000 tCO2e EV saving (refs 7, 8, 17, 18) are mostly uncited or unsourced, with some own calculation shown for the EV figure (ref 18), so evidence is mentioned but largely not traceable."
+    }
+  ],
+  "reasoning": "Four core themes were scored at 1, 2, 2 and 1, giving a mean of 1.5, which rounds down to 1. The strongest themes are upstream emission reductions and the buy-out price. The upstream theme cites the ICCT report to the European Commission (ref 5) for '400 MtCO2e per year' and the marginal cost range. It also admits that additionality 'may be open to debate' and models 'high additionality' and 'low additionality' scenarios (5.7). The buy-out theme sets out six options with costs, pump price impacts and NPVs. It ties \u00a374/tCO2 to the BEIS non-traded carbon value (refs 14, 33, 34) and discounts using the Green Book (ref 35). The weaker themes are the obligation design and the wider fuels theme. The design theme rests on reasoning and on modelling whose method is thin, and its rejection of a single scheme is asserted: 'significant risks of being unsuccessful'. The wider fuels theme leans on uncited figures such as '\u00a31 billion of private investment' and '\u00a315 billion in 2030', and ref 27 is a broken reference. The strongest counter-example to a score of 1 is the buy-out and UER material, which is close to level 3 in places because uncertainty is acknowledged. But the department does not assess the quality of its own sources or modelling inputs, and the other core themes pull the mean down. To reach level 2 overall, the obligation and fuels themes would need cited, explained evidence (modelling method, source for the 6% savings split, sources for industry claims). Level 3 would need the document to assess the reliability of the evidence itself.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.5,
+  "score_consistent": true,
+  "missing_core": []
+}

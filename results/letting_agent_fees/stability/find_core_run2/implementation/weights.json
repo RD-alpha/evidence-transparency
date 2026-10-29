@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Permitted exceptions within the ban",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Deposit burden reduction",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enforcement architecture built on local authorities, with possible lead authority and data sharing",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Penalties and tenant empowerment as compliance drivers",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Risk mitigation and policy safeguards",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Complementary legislative and regulatory framework",
+      "reason": "Not a core theme.",
+      "weight": "not core"
+    }
+  ]
+}

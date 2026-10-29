@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Linking State Pension age to life expectancy for intergenerational fairness",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 32% target is tied to the 25-year historical average with Reference 1/18/38/39 (31.3% vs 1992\u20132016) and the Government Actuary report (Refs 3, 35), and the \u00a374bn saving and alternatives are explained, but the document gives little assessment of the evidence's weaknesses within this theme."
+    },
+    {
+      "theme": "Raising State Pension age to 68 in 2037\u201339",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Savings (\u00a374bn, Table A, Refs 37, 43, 44) are modelled with stated assumptions and linked to the 2037\u201339 choice, and the document itself assesses uncertainty in life expectancy projections (2012 vs 2014 ONS bringing 68 forward by 5 years, no formal timetable beyond 2037\u201339, further review before legislation, Ref 17) and acknowledges that savings omit tax and benefit effects."
+    },
+    {
+      "theme": "Keeping a universal pension age and not committing beyond 68",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Relies on ONS life expectancy data (Ref 40) and PPI analysis via Cridland, but the PPI analysis is not cited and many claims (e.g. 'no evidence of regional options being fairer', complexity of the pre-2016 system) are asserted without sources."
+    }
+  ],
+  "reasoning": "Two core themes decide the score. The life-expectancy-link theme reaches level 2: the 32% target is explicitly tied to historical experience, with references 1/18/38/39 showing 31.3% for 2028\u20132060 against the 1992\u20132016 average, plus Government Actuary reports (Refs 3, 35) and a stated alternative of lower pensions. The reasoning from evidence to the intervention is clear and followable, but this theme itself does little to assess the weaknesses of the evidence, so I did not give it level 3. The 68-in-2037\u201339 theme reaches level 3: Table A and the line 'would save \u00a374bn by 2045/46' are backed by references 37, 43 and 44 that explain how the figures were modelled, and the document assesses its own evidence. It says 'life expectancy projections are uncertain', notes that using 2012-based rather than 2014-based projections would bring the rise to 68 forward by 5 years, says tax, National Insurance and working-age benefit impacts 'have not been produced at this time', and commits to a further review before legislating. The non-core universal-age theme is level 1 and does not affect the score. The mean of the core themes is (2+3)/2 = 2.5, which rounds down to 2. The strongest counter-example is that the 68 theme's level 3 is arguably generous, because the choice of 2037\u201339 rests largely on Cridland's judgement rather than modelled evidence. To reach level 3 overall, the life-expectancy-link theme would need to assess the 32% benchmark's limitations, for example the sensitivity of the 25-year average to the period chosen and the uncertainty of the Government Actuary's projections.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.0,
+  "score_consistent": true,
+  "missing_core": []
+}

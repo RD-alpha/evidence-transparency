@@ -1,0 +1,52 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Raising State Pension age to 68 in 2037-39",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The \u00a374bn saving, 0.4% of GDP and \u00a3400 per household figures are tied to the DWP model (Ref 43, Ref 37, Ref 17) and the 31.3% figure to Ref 1, but the \"see Annex\" pointer is generic and the model assumptions are thin; the document concedes spending still rises substantially, yet it never assesses the reliability of the modelling."
+    },
+    {
+      "theme": "Fairness between generations via a longevity link",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 32% benchmark is linked to the 25-year average by Refs 1, 18, 38 and 39, with the White Paper and Autumn Statement 2013 background note cited at Refs 22 and 24, but the choice of 32% rather than 33.3% and the \"classic view of a generation\" are argued rather than assessed."
+    },
+    {
+      "theme": "Pace of change and spacing of rises",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Most reasoning rests on assertions about cohorts and 'windows of stability' with only the uncited 'baby boomers' three rises point and Ref 36 as a methodological note, though it acknowledges uncertainty in life expectancy projections and notes ONS 2012 and 2014 projections."
+    },
+    {
+      "theme": "A universal State Pension age",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "It cites PPI analysis and ONS life expectancy data (Ref 40 only), but the PPI and Cridland findings are mentioned in prose without references, and the claims about no workable alternatives are reasoning."
+    },
+    {
+      "theme": "Further review before legislating",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "It acknowledges that life expectancy projections are uncertain and cites the 2012 and 2014 ONS projections, but with only a generic Ref 17 'See Annex' and no sources for the uncertainty claims, and it describes a commitment rather than evidence."
+    },
+    {
+      "theme": "Employment, costs and wider economic benefits",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "The claims on 0.3% of GDP, the 1% GDP gain and the 6.3 point employment rise carry Refs 15, 16 and 33, and the document admits that tax, NI and working age benefit impacts were not estimated."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "It mostly describes background, legislation and timetables, with some cited items (Refs 3, 4, 35) and the Government Actuary's report named, but little evidence is used to support claims."
+    }
+  ],
+  "reasoning": "The five core themes split between a stronger group and a weaker group. 'Raising State Pension age to 68' reaches level 2: the headline claims (\u00a374bn saving to 2045/46, 0.4% of GDP, ~\u00a3400 per household) are tied to DWP modelling described in Ref 43 and Ref 37 (the \u00a311bn 2039/40 difference divided by ONS household numbers), and Table A shows year-by-year figures. The 'longevity link' theme also reaches 2, since the 32% benchmark is linked via Refs 1, 18, 38 and 39 to the 25-year average (31.3% under the scenario) and to the White Paper at Ref 22. Even there, neither theme assesses the evidence: Ref 17 is a generic 'See Annex' pointer, the model's assumptions are barely described, and the document concedes spending still rises substantially without testing the model. 'Pace of change', 'A universal State Pension age' and 'Further review before legislating' reach only level 1: they rely on reasoning (back-to-back rises for baby boomers, 'no practical or workable ways'), with PPI and Cridland findings named in prose without a reference. The mean is (2+2+1+1+1)/5 = 1.4, which rounds to 1. The strongest counter-example is the costing theme, which could justify level 2 overall. To reach level 2 the document would need to cite sources for the pace and universality arguments, and to reach level 3 it would need to assess the modelling's strengths and weaknesses.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.4,
+  "score_consistent": true,
+  "missing_core": []
+}

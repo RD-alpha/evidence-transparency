@@ -1,0 +1,270 @@
+[
+  {
+    "number": "1",
+    "text": "An agreement within the United Nations Framework Convention on Climate Change. It seeks to limit global temperature rises to less than 2 degrees Celsius. It seeks to mitigate greenhouse gas emissions, improve climate change adaptation, and finance initiatives to achieve these goals.",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "1"
+  },
+  {
+    "number": "2",
+    "text": "This is a total gross value estimate based on anticipated biodiesel production for 2016-7, sourced from UK biodiesel producers, and recent biodiesel prices, sourced from Bloomberg New Energy Finance.",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "2"
+  },
+  {
+    "number": "3",
+    "text": "Medium scenario estimation of global advanced biofuel industry turnover over in 2030, based on estimated deployment figures and technology costs, E4Tech/Ricardo-AEA Advanced Biofuel Demonstration Competition Feasibility Study",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "3"
+  },
+  {
+    "number": "4",
+    "text": "Consultation on the Renewable Transport Fuel Obligations - Proposed Amendments.",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "4"
+  },
+  {
+    "number": "5",
+    "text": "'The Reduction of Upstream Greenhouse Gas Emissions from Flaring and Venting Report', International Council on Clean Transportation to the European Commission Directorate-General for Climate Action (2014) p. xix",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "5"
+  },
+  {
+    "number": "6",
+    "text": "Commission Staff Working Document Impact Assessment on the calculation methods and reporting requirements pursuant to Article 7a of Directive 98/70/EC of the European Parliament and of the Council relating to the quality of petrol and diesel fuels, available at http://ec.europa.eu/clima/policies/transport/fuel/docs/swd_2014_296_en.pdf",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "6"
+  },
+  {
+    "number": "7",
+    "text": "Digest of UK Energy Statistics 2016 (DUKES) p167.",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "7"
+  },
+  {
+    "number": "8",
+    "text": "Includes multiple counting for energy from electricity and waste based biofuels.",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "8"
+  },
+  {
+    "number": "9",
+    "text": "Consultation on the Renewable Transport Fuel Obligations - Proposed Amendments.",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "9"
+  },
+  {
+    "number": "10",
+    "text": "As defined in the FQD Article 7a implementing measure (Directive 2015/652).",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "12"
+  },
+  {
+    "number": "11",
+    "text": "The values are 11.0 gCO2e/MJ for petrol, 11.3 gCO2e/MJ for diesel, 9.1 gCO2e/MJ for compressed natural gas, 15.0gCO2e/MJ for liquefied natural gas, and 6.2gCO2e/MJ for LPG. This means that there is a maximum number of UERs it is possible to redeem against a given quantity of fuel from a particular source.",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "13"
+  },
+  {
+    "number": "12",
+    "text": "UERs can only be claimed during the calendar year during which they were created. They cannot be aggregated over the full period of UER project eligibility (1 Jan 2011 - 31 Dec 2020).",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "14"
+  },
+  {
+    "number": "13",
+    "text": "The non-reusable certificate number refers to the unique UER identifier code which will be applied to each batch of UERs. This will reduce the risk of over-claiming on any single project. The unique identifier should include identification of the first and the last unit of emission reduction in a batch, and also locational data for the project. Member States will need to agree a single common method to generate and apply certificate numbers to batches of UERs.",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "15"
+  },
+  {
+    "number": "14",
+    "text": "The non-traded sector refers to UK CO2 emissions which are not covered under the EU ETS carbon trading system (e.g. transport sector and household emissions)",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "16"
+  },
+  {
+    "number": "15",
+    "text": "Source: non-legislative guidance on UERs",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "17"
+  },
+  {
+    "number": "16",
+    "text": "Source: non-legislative guidance on UERs",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "18"
+  },
+  {
+    "number": "17",
+    "text": "https://www.gov.uk/government/publications/valuation-of-energy-use-and-greenhouse-gas-emissions-for-appraisal, data table 1",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "19"
+  },
+  {
+    "number": "18",
+    "text": "Using BEIS data, 0.265 kgCO2e/kWh converts to 73.61 gCO2e/MJ. Using the efficiency multiplier, 73.61 x 0.4 = 29.4gCO2e/MJ. The FQD target value is 88.45gCO2e/MJ, so the value for electricity is predicted to be below the target in 2020. This represents a GHG saving of 69%.",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "20"
+  },
+  {
+    "number": "19",
+    "text": "Electricity suppliers have an obligation to offer smart meters to all domestic consumers in GB by the end of 2020. A variant “twin element” smart meter with the capability to separately meter EV charging is available.",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "21"
+  },
+  {
+    "number": "20",
+    "text": "International Standard on Assurance Engagements (ISAE) 3000 Revised, deals with assurance engagements other than audits or reviews of historical financial information",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "22"
+  },
+  {
+    "number": "21",
+    "text": "See Section 16 of Excise Notice 554 for a definition: https://www.gov.uk/government/publications/excise-notice-554-fuel-used-in- private-pleasure-craft-and-for-private-pleasure-flying/excise-notice-554-fuel-used-in-private-pleasure-craft-and-for-private-pleasure- flying",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "24"
+  },
+  {
+    "number": "22",
+    "text": "Article 2(a) defines 'energy from renewable sources' as 'energy from renewable non-fossil sources, namely wind, solar, aerothermal, geothermal, hydrothermal and ocean energy, hydropower, biomass, landfill gas, sewage treatment plant gas and biogases'. RFNBOs cannot be derived from biomass energy and therefore would not be able to be derived from biomass, landfill gas, sewage treatment plant gas and biogases.",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "25"
+  },
+  {
+    "number": "23",
+    "text": "Well-to-wheel greenhouse gas emissions take into account the production and distribution of a fuel over the entire life cycle: from the sourcing of the energy and materials used to power a vehicle, to the direct tailpipe emissions.",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "26"
+  },
+  {
+    "number": "24",
+    "text": "The Government response to the Consultation on proposals to implement Articles 7(a) to 7(e) of the Fuel Quality Directive was published  on 11 September 2011 and is available at: https://www.gov.uk/government/consultations/new-regulations-for-transport- related-greenhouse-gases",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "27"
+  },
+  {
+    "number": "25",
+    "text": "'Options for Transport Energy Policy to 2030' was published by the Transport Energy Taskforce in March 2015 at: http://www.lowcvp.org.uk/projects/transport-energy-task-force.htm",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "28"
+  },
+  {
+    "number": "26",
+    "text": "Reference #11 in 'Motor fuel GHG emission reporting regulations (source 1)' was cited in the text but has no definition in that document.",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "11",
+    "missing": true
+  },
+  {
+    "number": "27",
+    "text": "Reference #23 in 'Motor fuel GHG emission reporting regulations (source 1)' was cited in the text but has no definition in that document.",
+    "source_alias": "motor_fuel_src_1",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 1)",
+    "source_number": "23",
+    "missing": true
+  },
+  {
+    "number": "28",
+    "text": "Fuels used to propel road vehicles, non-road mobile machinery (including inland waterway vessels when not at sea), agricultural and forestry tractors, recreational craft when not at sea and electricity for use in road vehicles are included in the scope of the FQD.",
+    "source_alias": "motor_fuel_src_2",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 2)",
+    "source_number": "1"
+  },
+  {
+    "number": "29",
+    "text": "Estimate derived from research assessing administrative costs of the EU Emissions Trading System, see https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/47953/895-cost-euets-uk-operators-compliance.PDF",
+    "source_alias": "motor_fuel_src_2",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 2)",
+    "source_number": "2"
+  },
+  {
+    "number": "30",
+    "text": "Fuels used to propel road vehicles, non-road mobile machinery (including inland waterway vessels when not at sea), agricultural and forestry tractors, recreational craft when not at sea and electricity for use in road vehicles are included in the scope of the FQD.",
+    "source_alias": "motor_fuel_src_2",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 2)",
+    "source_number": "3"
+  },
+  {
+    "number": "31",
+    "text": "'Renewable Transport Fuel Obligations - Proposed Amendments'",
+    "source_alias": "motor_fuel_src_2",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 2)",
+    "source_number": "4"
+  },
+  {
+    "number": "32",
+    "text": "Note that the buy-out prices for each option do not increase with inflation.  In other words, they are fixed in nominal prices but decline in real terms through time.",
+    "source_alias": "motor_fuel_src_2",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 2)",
+    "source_number": "5"
+  },
+  {
+    "number": "33",
+    "text": "https://www.gov.uk/government/collections/carbon-valuation--2",
+    "source_alias": "motor_fuel_src_2",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 2)",
+    "source_number": "6"
+  },
+  {
+    "number": "34",
+    "text": "https://www.gov.uk/government/publications/valuation-of-energy-use-and-greenhouse-gas-emissions-for-appraisal",
+    "source_alias": "motor_fuel_src_2",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 2)",
+    "source_number": "8"
+  },
+  {
+    "number": "35",
+    "text": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/220541/green_book_complete.pdf",
+    "source_alias": "motor_fuel_src_2",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 2)",
+    "source_number": "9"
+  },
+  {
+    "number": "36",
+    "text": "Estimate derived from research assessing administrative costs of the EU Emissions Trading System, see https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/47953/895-cost-euets-uk-operators-compliance.PDF",
+    "source_alias": "motor_fuel_src_2",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 2)",
+    "source_number": "10"
+  },
+  {
+    "number": "37",
+    "text": "Fuels used to propel road vehicles, non-road mobile machinery (including inland waterway vessels when not at sea), agricultural and forestry tractors, recreational craft when not at sea and electricity for use in road vehicles are included in the scope of the FQD.",
+    "source_alias": "motor_fuel_src_2",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 2)",
+    "source_number": "11"
+  },
+  {
+    "number": "38",
+    "text": "More information can be found on proposals to meet the requirements of the Renewable Energy Directive in the Consultation document and cost benefit analysis which are being published alongside this document.",
+    "source_alias": "motor_fuel_src_2",
+    "source_title": "Motor fuel GHG emission reporting regulations (source 2)",
+    "source_number": "12"
+  }
+]

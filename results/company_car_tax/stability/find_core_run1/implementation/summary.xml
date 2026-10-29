@@ -1,0 +1,56 @@
+<root>
+<theme sentences="31" weight="core">
+<name>Open consultation to decide unresolved design questions</name>
+<claim>The precise design of the new ULEV bands (whether to use zero emission miles, how many bands, and where breakpoints fall) has not been decided and will be determined through a public consultation inviting views from stakeholders before finalising policy in the autumn.</claim>
+<text>
+<line id="S0011">Views on these options are invited from a wide range of stakeholders including individuals, companies, and representative and professional bodies.</line>
+<line id="S0013">While views are welcomed on specific tax bands and rates, this consultation is principally seeking views on the general approach of how company car tax should be levied for ULEVs into the 2020s.</line>
+<line id="S0016">Therefore it must be emphasised that the consultation does not provide a signal of possible future tax rates, but simply asks whether the structure of the company car tax system is effective for encouraging the take up of ULEVs, and will remain effective given changes in car technology over this period.</line>
+<line id="S0017">1.5 The government will consider all responses before finalising the policy design and publishing the new bands in the autumn, ahead of setting any tax rates from 2020-21 onwards.</line>
+<line id="S0022">1.7 The options set out in this document are at stage 1 (setting out objectives and identifying options) and stage 2 (determining the best option and developing a framework for implementation including detailed policy design) of the government’s framework for tax consultation (https://www.gov.uk/government/publications/tax-consultation-framework).</line>
+<line id="S0114">Question 1: Do you agree that company car tax bands should be refined from 2020-21 onwards in order to provide stronger incentives for ULEVs?</line>
+<line id="S0147">Question 2: Should CO2 emissions only be used as the basis for new ULEV bands in the company car tax structure from 2020-21 onwards?</line>
+<line id="S0148">Question 3: If the new ULEV bands should not be based solely on CO2 emissions what additional factor should new ULEV bands in company car tax be based on?</line>
+<line id="S0149">A3a zero emission miles</line>
+<line id="S0150">A3b other (specify).</line>
+<line id="S0166">Question 4: If new ULEV bands were introduced, should these be charged on the basis of continuous narrower bands (e.g. X appropriate percentage per 5 grams of CO2 per km), or should there be fewer wider emission rate bands?</line>
+<line id="S0167">A4a continuous, narrower</line>
+<line id="S0168">A4b wider, banded</line>
+<line id="S0169">A4c comment, if you wish.</line>
+<line id="S0170">Question 5: If there should be fewer wider bands, how many should there be and where should the breakpoints between the bands be?</line>
+<line id="S0171">A5a There should be ….</line>
+<line id="S0172">bands</line>
+<line id="S0173">A5b</line>
+<line id="S0174">The first breakpoint should be at…..grams of CO2 per km</line>
+<line id="S0175">A5c Second breakpoint (if any) should be at…..grams of CO2 per km</line>
+<line id="S0176">A5d Third breakpoint (if any) should be at…..grams of CO2 per km</line>
+<line id="S0177">A5e other breakpoint (if any) at…..grams of CO2 per km</line>
+<line id="S0178">A5f comment, if you wish</line>
+<line id="S0180">Question 6: If zero emission miles should be used as well as CO2 emissions as the basis for new ULEV bands, how many zero emission miles bands should there be and where should the breakpoints between the bands be?</line>
+<line id="S0181">A6a There should be…..zero emission bands?</line>
+<line id="S0182">A6b</line>
+<line id="S0183">The first breakpoint should be at…..zero emission miles and….. CO2/km</line>
+<line id="S0184">A6c Second breakpoint (if any) should be at…..zero emission miles and…..CO2/km</line>
+<line id="S0185">A6d Third breakpoint (if any) should be at…..zero emission miles and…..CO2/km</line>
+<line id="S0186">A6e other breakpoints (if any) at….. and…..and….CO2/km</line>
+<line id="S0187">A6f comment, if you wish</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="3" weight="core">
+<name>Separation of structural design from rate-setting</name>
+<claim>This consultation is about the structural design of ULEV bands only, not specific tax rates, which the Chancellor will continue to set separately through the normal Budget process.</claim>
+<text>
+<line id="S0013">While views are welcomed on specific tax bands and rates, this consultation is principally seeking views on the general approach of how company car tax should be levied for ULEVs into the 2020s.</line>
+<line id="S0014">The Chancellor will continue to set specific tax rates as part of the normal Budget process.</line>
+<line id="S0016">Therefore it must be emphasised that the consultation does not provide a signal of possible future tax rates, but simply asks whether the structure of the company car tax system is effective for encouraging the take up of ULEVs, and will remain effective given changes in car technology over this period.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

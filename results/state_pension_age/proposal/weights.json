@@ -1,0 +1,19 @@
+{
+  "themes": [
+    {
+      "theme": "Linking State Pension age to life expectancy for intergenerational fairness",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Raising State Pension age to 68 in 2037–39",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    },
+    {
+      "theme": "Keeping a universal pension age and not committing beyond 68",
+      "reason": "Core theme named by find_core.",
+      "weight": "core"
+    }
+  ]
+}

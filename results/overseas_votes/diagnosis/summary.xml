@@ -1,0 +1,26 @@
+<root>
+<theme sentences="1" weight="core">
+<name>The 15-year rule</name>
+<claim>British citizens who have lived abroad for more than 15 years are currently barred from registering as overseas electors, even if previously registered or resident in the UK.</claim>
+<text>
+<line id="S0014">3. British citizens who have previously lived in the UK and who have moved abroad and wish to vote in parliamentary elections can apply to register as an overseas elector in the constituency in which they were last entered in a register of parliamentary electors (before leaving the UK) provided that that entry was in force within 15 years of making an application to register as an overseas elector. ** (Reference: 1)</line>
+</text>
+<references>
+<reference number="1">An overseas elector who is entitled to vote in a parliamentary election in pursuance of an overseas elector's declaration is also entitled to vote as an overseas elector in a European Parliamentary election.</reference>
+</references>
+<links>
+</links>
+</theme>
+<theme sentences="2" weight="core">
+<name>Exclusion of the never-previously-registered</name>
+<claim>Citizens who were never previously registered or resident in the UK (other than those too young to register before leaving) are currently unable to register as overseas electors at all.</claim>
+<text>
+<line id="S0016">Currently, anyone not previously registered is not entitled to register as an overseas elector.</line>
+<line id="S0017">An exception to this is for those who were too young to register to vote when they left the UK, who are entitled to register using their parents’ former registration address if they were also resident at that address.</line>
+</text>
+<references>
+</references>
+<links>
+</links>
+</theme>
+</root>

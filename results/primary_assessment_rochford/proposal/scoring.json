@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Pre-key stage standards replace P scales for pupils engaged in subject-specific learning",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "Consultation percentages (55%/40% on P scales loss, 65%/30% clarity, 54%/38% progression) are given with method detail (594 responses, respondent breakdown in ungrouped), linked to the decision (\"We agree... P scales are no longer fit for purpose\", \"Sixty-five per cent... We have therefore accepted\"), Reference 1 and 29 cited, and contrary views and concerns (small steps, objectivity, subjectivity) are acknowledged and answered."
+    },
+    {
+      "theme": "Seven areas of engagement for pupils not engaged in subject-specific learning",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The CLDD research (References 5, 32, Links 16/17/26) and consultation figures (64%/30%, 54%/40%, 53%/35%) are linked to the recommendation, and the document openly acknowledges the model \"was not originally designed as a statutory assessment tool, and it is relatively untested\" and so will pilot it."
+    },
+    {
+      "theme": "Accountability without national data submission, subject to piloting",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Consultation result (72% agree vs 22% disagree) and counter-concerns are reported with the 594-response method from ungrouped lines, and the government acknowledges it cannot collect nationally consistent data and will pilot, but the accountability-through-dialogue mechanism is argued rather than evidenced and Reference 34 only restates recommendation 9."
+    }
+  ],
+  "reasoning": "Three core themes were scored. The P scales replacement theme reaches level 3. It uses consultation figures (\"Fifty-five per cent... said that the removal of P scales would not result in... important information\", \"Sixty-five per cent... clear and easy to understand\"), and the ungrouped lines give the method (\"594 submissions\", with a breakdown by respondent type). The government links these to its decision (\"We have therefore accepted\") and cites Ndaji and Tymms (Ref 29). It also weighs the contrary evidence on small steps and objectivity. The seven areas theme also reaches level 3. It rests on the CLDD project (Refs 5, 32) and on consultation splits (64%/30%). The document itself concedes the model \"was not originally designed as a statutory assessment tool, and it is relatively untested\", and it commits to pilot it. The accountability theme reaches level 2. It reports 72% vs 22% agreement and the objection that accountability could fall. It then admits that \"we would not be able to collect nationally-consistent data\" and defers the decision to the pilot. The reasoning that dialogue with inspectors and parents can replace data is asserted, with no evidence it works, and Ref 34 only restates the recommendation. The mean is (3+3+2)/3 = 2.67, which rounds to 3. The strongest counter-example is the accountability theme, where the substitute for data has no supporting evidence. Moving that theme up would need evidence that dialogue-based accountability works for this group, or a stated way of testing it in the pilot.",
+  "score": 3,
+  "model_score": 3,
+  "core_mean": 2.666667,
+  "score_consistent": true,
+  "missing_core": []
+}

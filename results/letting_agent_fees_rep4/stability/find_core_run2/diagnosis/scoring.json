@@ -1,0 +1,28 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Opaque and inconsistent fee structures",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "DCLG's own market research of 50 agents is described with method ('randomly chose 50 agents... searched their website'), multiple cited surveys (References 3,4,5,6,10) on fee levels and variation are compared and their differing averages (\u00a3172 NALS vs \u00a3223 EHS vs \u00a3400 Generation Rent) explicitly contrasted, and Generation Rent's range data (\u00a320-\u00a3570 for reference checks, Reference 6) is used to demonstrate inconsistency, amounting to the document assessing and reconciling divergent evidence."
+    },
+    {
+      "theme": "Tenants' lack of market power over agent fees",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "Citizens Advice's 60% vs 88% figures (Reference 9) and the NLA Q4 2016 survey finding a quarter of landlords unaware of fees (Reference 11) are clearly cited and linked to the claim, but the surrounding argument about landlord/agent incentives is largely unevidenced reasoning and the OFT 2013 study is named only in prose without a reference marker, so no assessment of the evidence base is offered."
+    },
+    {
+      "theme": "Financial harm and barriers caused by fees",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Citizens' Advice's finding that 64% had problems paying and 42% borrowed money (Reference 13) is clearly linked to the harm claim, but the EHS 2014/15 figures on fee increases and moving decisions in this theme carry no reference marker, leaving part of the claim only at level 1."
+    }
+  ],
+  "reasoning": "The diagnosis rests on three core themes. 'Opaque and inconsistent fee structures' reaches level 3: it combines cited surveys (References 3,4,5,6,10) with DCLG's own described market research of 50 agents, explicitly contrasting divergent averages ('By contrast, the National Approved Letting Scheme found... \u00a3172... Generation Rent found... \u00a3400') and citing Generation Rent's wide ranges for itemised costs (Reference 6), which together amount to the document assessing and triangulating its evidence. 'Tenants' lack of market power' reaches level 2: Citizens Advice's 60%/88% comparison (Reference 9) and the NLA survey (Reference 11) are clearly linked to the claim, though much of the surrounding incentive argument is unevidenced reasoning and the OFT 2013 study lacks a reference marker. 'Financial harm and barriers' also reaches level 2: Citizens' Advice's 64%/42% figures (Reference 13) are well linked, but the EHS 2014/15 statistics on fee rises and moving decisions in this theme carry no reference marker, so part of the claim sits only at level 1. The mean of 3, 2 and 2 is 2.33, rounding to 2. The strongest counter-example against a higher score is the uncited EHS 'would stop them moving' statistic sitting beside the cited Citizens Advice figures. To reach level 3 overall, themes 2 and 3 would need the document itself to weigh the strength or limits of its cited surveys, as theme 1 does.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 2.333333,
+  "score_consistent": true,
+  "missing_core": []
+}

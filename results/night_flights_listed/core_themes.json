@@ -1,0 +1,57 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Night noise harms health and sleep",
+        "claim": "The document argues that aircraft noise at night causes sleep disturbance and related health effects on communities near airports, and that this harm is well-evidenced and growing in scientific understanding (e.g. WHO guidelines)."
+      },
+      {
+        "name": "Balancing noise harm against economic benefit of night flights",
+        "claim": "The document argues that night flights generate real economic benefits (for airlines' business models, passengers, and time-sensitive freight) that must be weighed against the noise harm to communities, creating a legal and policy obligation to strike a balance rather than ban or permit flights unconditionally."
+      },
+      {
+        "name": "Growing exempt-aircraft loophole undermines the regime",
+        "claim": "The document argues that the existing exemption for the quietest aircraft (QC/0) is being increasingly exploited, especially at Stansted and prospectively at Gatwick, to the point where it could allow effectively unlimited night flights, undermining the restrictions' purpose and the transparency/certainty they are meant to provide to communities."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "Environmental objective under the Balanced Approach",
+        "claim": "The document argues that the proposed objective—to encourage quieter aircraft to limit or reduce people significantly affected by night noise while maintaining the existing benefits of night flights—is the correct one because it follows ICAO's Balanced Approach and the legal requirement that restrictions be no more onerous than necessary."
+      },
+      {
+        "name": "Closing the exempt-aircraft loophole via a new QC/0.125 category",
+        "claim": "The document argues that creating a new QC/0.125 category and requiring all currently exempt aircraft to count towards movement limits (while remaining exempt from noise quotas) is necessary to restore transparency and certainty and prevent unchecked growth in exempt flights."
+      },
+      {
+        "name": "Movement limits held stable, with a compensating Stansted uplift",
+        "claim": "The document argues that movement limits should remain unchanged at Heathrow and Gatwick (reflecting their own stated intentions and the need to preserve existing benefits), while Stansted's limits should be uplifted by the number of previously exempt flights so that the QC reform does not disproportionately reduce its existing level of night flight activity."
+      },
+      {
+        "name": "Noise quota reductions to incentivise quieter aircraft",
+        "claim": "The document argues that noise quota limits at all three airports should be reduced to reflect current usage (and potentially reduced further over the five years), because current quotas are not constraining and so fail to incentivise airlines to use quieter aircraft or to prevent replacement with noisier ones."
+      }
+    ],
+    "note": "The proposal is a package of linked but distinct measures (objective, QC/exemption reform, movement limits, noise quotas) applied with airport-specific variations, rather than a single uniform intervention."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Use of existing legal powers under transitional EU/domestic rules",
+        "claim": "The document argues that the regime must be implemented using the existing Section 78 Civil Aviation Act 1982 powers and the 2003 Regulations implementing Directive 2002/30/EC, relying on transitional arrangements, because the stricter notice requirements of the newer EU Regulation 598/2014 could not be met in the available time."
+      },
+      {
+        "name": "Timing driven by the sunset clause, separate from Heathrow expansion",
+        "claim": "The document argues that this consultation and the new regime must be finalised now because the current regime expires in October 2017 under a sunset clause, and that this process is deliberately kept separate from the later, distinct consultation on night flight restrictions tied to Heathrow expansion."
+      },
+      {
+        "name": "Mechanism for resolving undecided details via consultation and future policy",
+        "claim": "The document argues that final decisions on matters not yet settled—such as the precise noise quota reduction levels and the possibility of replacing the Government regime with locally agreed bespoke arrangements—will be made based on evidence gathered through this consultation and the forthcoming airspace policy review."
+      }
+    ],
+    "note": "Much of the material tagged as implementation (e.g. the detailed dispensations guidance in Annex C) describes unchanged administrative mechanics rather than argued choices about how the new regime will be rolled out, so it is not treated as core."
+  }
+}

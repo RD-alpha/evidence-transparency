@@ -1,0 +1,44 @@
+{
+  "themes": [
+    {
+      "theme": "Identity Verification and Documentation Requirements",
+      "reason": "Describes the core mechanism by which the new implementation verifies identity for overseas electors, central to explaining how the intervention will actually be rolled out and why this method was chosen over the old system.",
+      "weight": "core"
+    },
+    {
+      "theme": "Attestation Process and Limits",
+      "reason": "Explains the fallback verification method and new limits designed to prevent fraud, a key design choice in how the system will be implemented and why changes were made to the existing method.",
+      "weight": "core"
+    },
+    {
+      "theme": "Address Registration and Residence Verification",
+      "reason": "Details the practical process for verifying address eligibility, a core operational mechanism explaining how the intervention determines registration eligibility in practice.",
+      "weight": "core"
+    },
+    {
+      "theme": "Registration Renewal and Duration",
+      "reason": "Describes the renewal mechanism and its simplification, a core implementation feature explaining how continued eligibility will be maintained and why reminders/renewal processes are structured this way.",
+      "weight": "core"
+    },
+    {
+      "theme": "Overseas Elector Eligibility and Categories",
+      "reason": "Mostly restates eligibility categories and exclusions already established by the policy rather than explaining the implementation method itself; background detail rather than a load-bearing support for how the rollout works.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Application Process and Submission Methods",
+      "reason": "Briefly notes existing channels for applications but does not provide substantive justification or detail for why this delivery method was chosen over alternatives.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Franchise and Election Types",
+      "reason": "Clarifies scope of elections covered, which is a boundary condition rather than part of the implementation mechanism's rationale.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Other",
+      "reason": "Generic caveats about complexity and funding that are background remarks, not part of the substantive implementation argument.",
+      "weight": "not core"
+    }
+  ]
+}

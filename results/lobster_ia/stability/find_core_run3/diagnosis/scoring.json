@@ -1,0 +1,58 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Overfishing of lobster and crawfish stocks",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The claim in para 5.1 that 'both European lobster and crawfish stocks in English waters are overfished' is explicitly tied to Reference 1 (MMO UK Sea Fisheries Annual Statistics 2014, with a working URL), and landing-value figures (\u00a317.7m, \u00a3218,115) back this, but no assessment of the stock-assessment method's strengths/weaknesses is offered."
+    },
+    {
+      "theme": "Risk of inaction",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that inaction risks future availability and the 2020 MSY/CFP obligation is pure forward-looking argument with no statistic, study or citation attached to it."
+    },
+    {
+      "theme": "Market failure in a common resource",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The 'common good problem' claim cites Reference 1 (generic landings stats, not tied to the externality argument) and Reference 12 (a definitional footnote), so it is economic reasoning rather than evidence about lobster/crawfish fishing behaviour."
+    },
+    {
+      "theme": "Inadequacy of existing local measures",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The theme candidly notes 'there haven't been any assessments on the effectiveness of these local bans' and relies only on unsourced 'anecdotal reports' from IFCAs, so evidence is mentioned and its weakness flagged, but nothing is cited or linkable."
+    },
+    {
+      "theme": "Economic and employment significance of shellfish fisheries",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "Employment figures (4000+4000 jobs) are tied to References 3 and 4 with working links, and the document itself flags a limitation ('however it's difficult to quantify employment from this')."
+    },
+    {
+      "theme": "EU obligations and regulatory framework",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "References 3 and 4 here are used only to define MSY and describe the shared EU regulatory framework, not as evidence of the diagnosis."
+    },
+    {
+      "theme": "Biological and conservation context",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that recruitment 'is likely' coming from residual, over-exploited populations is asserted without a citation, and Reference 6 is used only to quote the Biodiversity 2020 objective."
+    },
+    {
+      "theme": "Biological characteristics of berried lobsters and crawfish",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "These lines are uncited descriptive biology with no reference or link at all."
+    }
+  ],
+  "reasoning": "The four core themes vary widely in evidentiary strength. 'Overfishing of lobster and crawfish stocks' reaches level 2: paragraph 5.1 explicitly attributes the overfishing finding to Reference 1 (MMO Sea Fisheries Statistics 2014, with a working URL), supported by landing-value figures, though no weaknesses of the stock assessment itself are discussed. 'Risk of inaction' (level 0) is pure forward projection about 2020 CFP/MSFD obligations with no data behind it. 'Market failure in a common resource' (level 0) is textbook economic reasoning; its citations (Ref 1, a generic landings statistic, and Ref 12, a glossary definition of 'common good') do not actually evidence the externality claim for these species. 'Inadequacy of existing local measures' (level 1) is notable for explicitly admitting 'there haven't been any assessments on the effectiveness of these local bans' and relying only on unsourced 'anecdotal reports' of population increase \u2014 evidence is used and its weakness honestly flagged, but nothing is cited or linkable, so it cannot exceed level 1. The mean of (2, 0, 0, 1) is 0.75, which rounds to 1. The strongest counter-case for a higher score is the clearly cited Reference 1 data in the overfishing theme; the weakest is the unsupported reasoning in 'Risk of inaction' and 'Market failure'. To reach level 2 overall, the document would need to cite actual lobster/crawfish stock assessments (not just landings statistics) and provide some sourced evidence for the inaction-risk and market-failure claims.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 0.75,
+  "score_consistent": true,
+  "missing_core": []
+}

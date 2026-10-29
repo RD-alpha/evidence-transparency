@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "National 5G testbeds and trials programme",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The programme rests on the FCCG's 'hub and spoke' recommendation (\"Our approach has been informed by the FCCG\") and the existing 5G activity in the UK, but there are no references or links, no explanation of what the FCCG found, and no assessment of the evidence, so it reaches level 1 at most; lines from the 'Other' and trial-site themes on the 2012 \u00a312m 5GIC investment add context only."
+    },
+    {
+      "theme": "Government as facilitator and coordinator, not subsidiser",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The FCCG's finding that the UK could lead by focusing on strengths like systems integration and cyber security (\"It suggested that other countries may have an inbuilt advantage...\") is a named report with an explained use, but it carries no reference or link; the role of industry and the purchasing-power claims are asserted reasoning."
+    },
+    {
+      "theme": "Supporting fibre, infrastructure sharing and regulation",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The agreement with the NIC on infrastructure sharing (\"The Government agrees with the NIC that infrastructure sharing...\") is a named report with an explained use, but it has no citation, and the funding figures are commitments rather than evidence that they will work."
+    },
+    {
+      "theme": "Trial sites and use cases in practice",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Examples of existing UK projects and the \u00a312 million 5GIC investment that 'leveraged significant co-investment' are offered as context, but they are uncited and no result is assessed."
+    },
+    {
+      "theme": "International comparison and early 5G trials abroad",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Early trials in Japan, the US, China and elsewhere are described as experience of comparable activity (\"We will be looking carefully at early trials...\"), but there are no citations and no explanation of what they show for the UK programme."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The NIC (December 2016) and FCCG (January 2017) reports are named with dates and a brief summary of the NIC's central finding, but there are no references or links and the findings are only partly explained."
+    }
+  ],
+  "reasoning": "The three core themes (testbeds programme, government as facilitator, and fibre/infrastructure sharing) each reach level 1, giving a mean of 1.0 and a score of 1. The document does name the evidence behind its choices: the FCCG's recommendation of a 'hub and spoke' model (\"Our approach has been informed by the FCCG\"), its suggestion that the UK could lead by focusing on 'systems integration and cyber security', and the NIC's view that infrastructure sharing is efficient (\"The Government agrees with the NIC...\"). The 'Other' theme adds the NIC's central finding that mobile connectivity is a necessity. However, none of these reports carries a reference or link, so a motivated citizen could not follow them to a source. Several reasoning steps are asserted without evidence, such as \"industry is best placed\" and the idea that public purchasing power will create demand. There is no assessment of the evidence base, no discussion of what earlier testbeds such as the 5GIC achieved, and no discussion of alternatives. The strongest counter-example to level 1 is the unusually clear link between the FCCG and the hub-and-spoke design, which might suggest level 2. But with no citation and no explanation of what the FCCG's evidence was, that link cannot be followed. To reach level 2 the document would need to give footnotes or links to the NIC and FCCG reports and explain how their findings lead to each measure. To reach level 3 it would also have to weigh the strength of that evidence and acknowledge uncertainties.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

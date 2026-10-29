@@ -1,0 +1,52 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Transition period design",
+      "primary_evidence": true,
+      "score": 2,
+      "justification": "The 24-month choice is backed by BIS's own cost modelling ('compared two streams of hypothetical costs over 10 years... applying the social discount factor, would give a maximum cost increase of 4%') which explains its method, though the parallel claim that 'Consultation responses...generally indicated a longer transition period of 24 months' gives no numbers or question wording."
+    },
+    {
+      "theme": "Statutory mechanism for delivery",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The revoke-and-replace approach and seven-year sunset clause are only described and tied to legal powers (Consumer Protection Act 1987 s.11) rather than justified with any evidence that this delivery method is preferable to alternatives."
+    },
+    {
+      "theme": "Technical file and labelling specification",
+      "primary_evidence": true,
+      "score": 1,
+      "justification": "The 10-year record-keeping period is said to 'bring requirements into line with... product safety Directives' and the label/technical file design is said to 'build on a combination of stakeholder feedback and the approach used elsewhere', but neither comparator nor feedback is named, quantified or cited."
+    },
+    {
+      "theme": "Business guidance and support for compliance",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "Statements such as 'BEIS will draft guidance... in conjunction with key stakeholders' describe planned actions with no evidence of need or effectiveness."
+    },
+    {
+      "theme": "SME support and equity considerations",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The claim that costs 'may be disproportionately larger for SMEs' is asserted without data, and the document says 'We plan to test this in consultation', i.e. evidence is yet to be gathered."
+    },
+    {
+      "theme": "Consultation and evidence-gathering approach",
+      "primary_evidence": true,
+      "score": 3,
+      "justification": "The claim that industry disagreed with BIS's cost-benefit estimates is linked to Reference 6 ('57 respondents did not agree... compared to 14 who agreed') and the document itself flags contradictory views ('a mixed opinion on whether the regulations would be safer')."
+    },
+    {
+      "theme": "Enforcement timelines and authority powers",
+      "primary_evidence": false,
+      "score": 0,
+      "justification": "The extension of the prosecution window to 12 months is only justified by the unevidenced assertion 'in line with other consumer safety legislation', with no comparator cited."
+    }
+  ],
+  "reasoning": "Of the three core themes, only Transition period design reaches level 2: BIS's own modelling ('compared two streams of hypothetical costs over 10 years... a maximum cost increase of 4%') explains how the 24-month figure's cost implications were derived, even though the companion claim that 'Consultation responses...generally indicated a longer transition period' lacks numbers. Statutory mechanism for delivery scores 0 because the revoke-and-replace approach and five-year review clause are only described and tied to legal authority (Consumer Protection Act 1987 s.11), with no evidence offered for why this delivery route, rather than amendment or a longer/shorter sunset period, was chosen. Technical file and labelling specification scores 1: it gestures at alignment with 'new requirements in product safety Directives' and 'stakeholder feedback', but never names the directives, the stakeholders, or how many were consulted, so it cannot be verified. The mean of 2, 0 and 1 is 1.0, rounding to 1. The strongest counter-example to a higher score is that the entire Statutory mechanism theme carries no references or links at all, and the labelling theme's claims of building on 'good practice' are never substantiated. To reach level 2 overall, the document would need to cite the specific consultation data or precedent (e.g. which Directives, how many stakeholders, what they said) behind the SI design and the labelling/technical file specification, with proper references.",
+  "score": 1,
+  "model_score": 1,
+  "core_mean": 1.0,
+  "score_consistent": true,
+  "missing_core": []
+}

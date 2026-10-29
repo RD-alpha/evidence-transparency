@@ -1,0 +1,61 @@
+{
+  "diagnosis": {
+    "core_themes": [
+      {
+        "name": "Court findings of less favourable treatment",
+        "claim": "UK courts and tribunals, notably in O'Brien and Miller, found that the historic lack of pension benefits for fee-paid judicial office holders was less favourable treatment than salaried judges doing similar work, on grounds of part-time status, entitling eligible holders to benefits no less favourable than JUPRA."
+      },
+      {
+        "name": "Scope of entitlement still contested",
+        "claim": "Entitlement is established for most fee-paid offices through tribunal decisions and MoJ-accepted lists, but litigation continues over pre-2000 service and over office holders the MoJ considers entitled to a different form of pension."
+      },
+      {
+        "name": "Gaps in access to ancillary schemes and tax treatment",
+        "claim": "Fee-paid judges lacked the rights salaried judges had to JAVCS, added years and pension transfers, and exercising them now under FPJPS may leave some individuals worse off for tax purposes than their salaried comparators."
+      }
+    ],
+    "note": ""
+  },
+  "proposal": {
+    "core_themes": [
+      {
+        "name": "A retrospective fee-paid scheme mirroring JUPRA",
+        "claim": "The government proposes a new Fee-Paid Judicial Pension Scheme providing retrospective benefits from 7 April 2000, mirroring JUPRA as far as possible and no less favourable than salaried judges' terms, to remedy the court-found discrimination."
+      },
+      {
+        "name": "Eligibility, transitional protection and scope boundaries",
+        "claim": "Membership is limited to eligible current and former office holders (closed to new members, subject to the moratorium and time-limit rules, with transitional or tapering protection after 2015), while those entitled to other remedies are handled separately and some tribunals' arrangements mirror salaried counterparts' non-JUPRA pensions."
+      },
+      {
+        "name": "Justified departures from JUPRA to suit fee-paid working",
+        "claim": "Where fee-paid working patterns make exact mirroring impossible, the design departs from JUPRA (daily-fee-based pay, divisors, service credit, partial retirement, contributions, extra options such as sitting in retirement) in ways intended to remain no less favourable, with differences explained."
+      },
+      {
+        "name": "Parity amendments to the 2015 scheme",
+        "claim": "Consequential amendments to the Judicial Pensions Regulations 2015 are needed so that service and entitlements under FPJPS are treated equally to those under JUPRA."
+      }
+    ],
+    "note": "The proposal is a package of a main scheme plus ancillary benefits, consequential amendments, and an open consultation question on trivial pensions; the design is largely argued by mirroring rather than by cost or alternatives, and no costs are given."
+  },
+  "implementation": {
+    "core_themes": [
+      {
+        "name": "Legislative route and timetable",
+        "claim": "The scheme will be created through regulations under a new power in JUPRA inserted by the Pension Schemes Act 2015, approved by Parliament after consultation, aiming to commence by 1 April 2017 without waiting for outstanding litigation."
+      },
+      {
+        "name": "Interim and retrospective payments to retired members",
+        "claim": "Interim payments to retired office holders mitigate detriment before commencement, with additional payments or repayments reconciled once the scheme starts and interest calculated using the Preston formula."
+      },
+      {
+        "name": "Recovery of historic contributions and ancillary scheme windows",
+        "claim": "Arrears of contributions will be recovered by lump sum, fee deductions or deduction from the retirement lump sum, and eligible members get time-limited windows to exercise added-years, AVC and transfer rights, backed by an MoJ undertaking to compensate for tax disadvantage."
+      },
+      {
+        "name": "Handling unresolved cases",
+        "claim": "The MoJ will deal with pre-2000 service, other-remedy claimants and the HMLR, AST, RPTS and CIC tribunals through the Employment Tribunal process and further updates, rather than delaying the scheme."
+      }
+    ],
+    "note": "No costs or alternative delivery methods are discussed; much of this aspect is regulatory administrative detail."
+  }
+}

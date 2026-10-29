@@ -1,0 +1,34 @@
+{
+  "themes": [
+    {
+      "theme": "Legislative Implementation of the Fee Ban",
+      "reason": "States the core delivery mechanism (primary legislation) for implementing the ban, which is the foundational method of rollout that the rest of the implementation argument builds upon.",
+      "weight": "core"
+    },
+    {
+      "theme": "Deposits and Reducing Tenant Financial Burden",
+      "reason": "Addresses a related but separate policy question (deposit reform) rather than the mechanics of implementing the fee ban itself; it elaborates on scope but is not essential to the implementation argument.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Permitted Charges and Exceptions to the Ban",
+      "reason": "Defines what falls outside the ban and how edge cases are handled, which is detail refining implementation scope rather than the core method of delivery or enforcement.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Discrimination Risk and Mitigation",
+      "reason": "Addresses a potential side-effect and mitigation but is a secondary consideration, not a support the implementation case rests on.",
+      "weight": "not core"
+    },
+    {
+      "theme": "Tenant Empowerment and Awareness",
+      "reason": "Explains a key mechanism for implementation success—educating and empowering tenants to self-enforce and reduce reliance on authorities—making it a core support for how the ban will be rolled out effectively.",
+      "weight": "core"
+    },
+    {
+      "theme": "Enforcement Mechanisms and Regulatory Options",
+      "reason": "Lays out the central implementation strategy: who enforces the ban (local authorities/Trading Standards), what additional tools (lead authority, data sharing, regulation, penalties) are being considered, and the rationale for these choices, making it the backbone of the implementation argument.",
+      "weight": "core"
+    }
+  ]
+}

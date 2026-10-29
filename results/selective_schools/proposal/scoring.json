@@ -1,0 +1,46 @@
+{
+  "theme_scores": [
+    {
+      "theme": "Conditional benefits for independent schools",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Statistics on school numbers, partnerships and sponsors (\"1,112 of the 1,157 Independent Schools Council schools\", \"8 independent schools already sponsor 11 academies\") are used to motivate the conditions, but only the pupil-count line carries Reference 2 and no evidence is offered that the chosen conditions (sponsorship, bursaries) will work."
+    },
+    {
+      "theme": "Universities sponsoring schools",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Uncited figures (\u00a3745 million Access Agreement spend, KCLMS 100% A*/A results) and assertions about universities' expertise are used, but there are no references and no evidence that university sponsorship raises school attainment."
+    },
+    {
+      "theme": "Expanding selective schools with conditions",
+      "primary_evidence": false,
+      "score": 3,
+      "justification": "Cited research (References 10-14, e.g. Atkinson et al. and the Sutton Trust/Durham 2008 review) and Ofsted/GCSE figures are linked to the proposal, and the document itself weighs contradictory findings (\"from zero up to around three quarters of a GCSE grade\", poorer outcomes for non-selective pupils vs \"no adverse effects\"), plus the ungrouped line \"The evidence on grammar schools is based on the selective system as it currently operates\"."
+    },
+    {
+      "theme": "Replacing the faith cap with inclusivity safeguards",
+      "primary_evidence": false,
+      "score": 2,
+      "justification": "Ofsted figures (Reference 15) and ethnicity data are linked to the decision to remove the 50% cap (\"Given the evidence that the 50% rule does not promote diversity\"), but the ethnicity tables carry no reference, the proxy limitation is noted only briefly, and no evidence is given that the proposed safeguards will work."
+    },
+    {
+      "theme": "Education reform record and school improvement",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "Statistics such as \"86% of schools were rated good or outstanding... an increase of 17 percentage points since 2010\" and \"1.4 million more children\" are given without any citations."
+    },
+    {
+      "theme": "Other",
+      "primary_evidence": false,
+      "score": 1,
+      "justification": "The only evidence is the uncited statistic that there are 163 grammar schools educating around 166,000 students; the other line is a description of policy."
+    }
+  ],
+  "reasoning": "The four core themes are scored separately: independent schools (1), universities (1), selective schools (3) and the faith cap (2), giving a mean of 1.75, which rounds to 2. The selective schools theme is the strongest. It cites Sutton Trust and Durham research (References 10-14), explains how prior attainment was controlled for (\"when prior attainment is taken into account the advantage still lies with selective schools\"), and acknowledges contradictory findings (\"from zero up to around three quarters of a GCSE grade\"; \"Sutton Trust found no adverse effects\"). The faith theme links cited Ofsted data (Reference 15) to its decision, and says the 50% rule \"does not promote diversity\" with ethnicity data, though that table is uncited and only partly assessed. The independent school and university themes rest on uncited statistics and assertions of expertise, such as \"1,112 of the 1,157\" partnerships and the KCLMS results. They give no evidence that sponsorship or bursary conditions will raise the supply of good places. The strongest counter-example to a score of 2 is that two of the four core themes sit at level 1 and the extract shows no costs, benefits or alternatives. A citizen could not see why conditionality was preferred to other options. To reach level 3, the document would need to cite sources and assess the evidence for the independent school and university conditions, acknowledge uncertainty about whether sponsorship works, and explain the choice over alternatives.",
+  "score": 2,
+  "model_score": 2,
+  "core_mean": 1.75,
+  "score_consistent": true,
+  "missing_core": []
+}

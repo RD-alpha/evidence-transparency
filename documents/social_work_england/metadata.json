@@ -1,0 +1,13 @@
+{
+  "title": "Establishing Social Work England",
+  "alias": "social_work_england",
+  "uploaded_at": "2026-10-12T18:02:56.855927+01:00",
+  "uploaded_date": "2026-10-12",
+  "uploaded_time": "18:02:56 BST",
+  "extraction_method": "text_layer",
+  "pages_via_ocr": [],
+  "appendix2_date": "2 November 2016",
+  "appendix2_type": "supplementary policy statement",
+  "source_file": "051_establishing_social_work_england_1_Social_Work_Regulatory_Reform.pdf",
+  "extraction_note": "Source PDF yields one block per printed line; consecutive fragments not ending in terminal punctuation were merged into paragraphs before sentence splitting."
+}
