@@ -74,6 +74,8 @@ The viewer at `/` browses existing results. Use `/upload-page` to ingest a new
 document and `/analyse` to run the pipeline on it. Before using OCR on any
 scanned pages, the upload asks you to approve them.
 
+All document processing code has been written using Claude Code and handles many document formats common on gov.uk but is not guaranteed to correctly extract text and references from any document.
+
 Run the tests with `pytest`. Development used Python 3.14.
 
 **Known failure:** `TestNoReferenceGapsAcrossDocuments` currently fails. For
