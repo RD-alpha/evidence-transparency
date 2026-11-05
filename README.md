@@ -65,11 +65,6 @@ All document processing code has been written using Claude Code and handles many
 
 Run the tests with `pytest`. Development used Python 3.14.
 
-**Known failure:** `TestNoReferenceGapsAcrossDocuments` currently fails. For
-some of the included PDFs, reference extraction misses a footnote number or
-reads one twice. Most of these are 2018 documents with irregular
-footnote layouts.
-
 ## Licence
 
 Code: MIT (see [LICENSE](LICENSE)).
