@@ -1,28 +1,26 @@
-#!/usr/bin/env python3
-"""Repeat runs that measure how stable the choice of core themes is, for two
-designs, without touching the live results:
+"""Repeat runs of the core-theme steps on a fixed set of sentences, without
+touching the live results.  Three steps, run in this order:
 
-    grouped  theme grouping with claude-sonnet-5-5 (prompts/classify.txt), then
-             the current weighting call (prompts/weight_themes.txt)
-    core     one evidence-blind call that names the core lines of argument
-             directly (prompts/weight_core.txt), with no grouping step
     find_core  one call per document that reads the whole text and names each
-             aspect's core themes (prompts/find_core.txt); no sentence codes
+               aspect's core themes (prompts/find_core.txt)
+    group      groups each aspect's sentences under those themes
+               (prompts/classify_with_core.txt)
+    score      scores each aspect
 
-Each run writes to results/<doc>/stability/<design>_run<N>/, laid out like a
+Each run writes to results/<doc>/stability/find_core_run<N>/, laid out like a
 results directory (it holds copies of intervention.txt, problem.txt and each
 aspect's text.txt), so the usual analyse functions can be pointed at it.
-Nothing is scored.  Compare the runs with scripts/stability_compare.py.
+Compare the runs with scripts/stability_compare.py.
 
-    python scripts/stability_runs.py grouped --runs 1 2 3 --dry-run
-    python scripts/stability_runs.py core --runs 1 2 3
+    python scripts/stability_runs.py find_core --runs 1 2 3 --dry-run
+    python scripts/stability_runs.py find_core --runs 1 2 3
 
-Every call goes to the Anthropic API (claude-sonnet-5-5) and costs credits;
---dry-run prints a token estimate without calling anything.  An aspect whose
-output already exists in a run is skipped, so a failed run can be restarted
-without paying twice.
+Every call goes to the Anthropic API and costs credits; --dry-run prints a
+token estimate without calling anything.  Work already done in a run is
+skipped, so a failed run can be restarted without paying twice.
 """
 
+#!/usr/bin/env python3
 import argparse
 import json
 import shutil
@@ -35,19 +33,21 @@ sys.path.insert(0, str(PROJECT_ROOT / "web_app"))
 import analyse  # noqa: E402
 from llm_monitor import write_run_summary  # noqa: E402
 from preprocess import construct_xml  # noqa: E402
-from rescore_weighted import COMPARISON_DOCS  # noqa: E402
 
-GROUPING_MODEL = "claude-sonnet-5-5"
-
-
-def run_dir(doc: str, design: str, run: int) -> Path:
-    return PROJECT_ROOT / "results" / doc / "stability" / f"{design}_run{run}"
+COMPARISON_DOCS = [
+    "civil_service_apprenticeship", "furniture_fire_safety", "modern_languages_a_level",
+    "lobster_ia", "letting_agent_fees", "prison_reform", "overseas_votes", "company_car_tax",
+]
 
 
-def prepare(doc: str, design: str, run: int) -> Path:
+def run_dir(doc: str, run: int) -> Path:
+    return PROJECT_ROOT / "results" / doc / "stability" / f"find_core_run{run}"
+
+
+def prepare(doc: str, run: int) -> Path:
     """Create the run directory and point analyse at it."""
     live = PROJECT_ROOT / "results" / doc
-    root = run_dir(doc, design, run)
+    root = run_dir(doc, run)
     for name in ("intervention.txt", "problem.txt"):
         if (live / name).exists() and not (root / name).exists():
             root.mkdir(parents=True, exist_ok=True)
@@ -64,49 +64,17 @@ def has_sentences(aspect: str) -> bool:
     return analyse.result_file(aspect, "text.txt").read_text().strip() != ""
 
 
-def estimate(design: str, aspect: str) -> int:
-    """Rough input tokens for the calls this aspect would need (chars / 4)."""
-    text = analyse.result_file(aspect, "text.txt").read_text()
-    if design == "core":
-        return (len(text) + len(analyse._get_prompt("weight_core"))) // 4
-    # Grouping reads the text; weighting reads it again, regrouped.
-    return (2 * len(text) + len(analyse._get_prompt("classify")) + len(analyse._get_prompt("weight_themes"))) // 4
-
-
-def run_grouped(aspect: str, dry_run: bool):
-    if analyse.result_file(aspect, "weights.json").exists():
-        return "skipped (done)", []
-    if dry_run:
-        return f"would call twice, ~{estimate('grouped', aspect) // 1000}k input tokens", []
-    records = []
-    # A grouping kept from a run that failed at weighting is reused, not paid
-    # for again.
-    if not analyse.result_file(aspect, "classification.json").exists():
-        records.append(analyse.call_llm_classify_themes(aspect, model=GROUPING_MODEL))
-    construct_xml(analyse.DOCUMENTS_DIR, analyse.RESULTS_DIR, aspect)
-    records.append(analyse.call_llm_weight_themes(aspect))
-    return "grouped and weighted", records
-
-
-def run_core(aspect: str, dry_run: bool):
-    if analyse.result_file(aspect, "core.json").exists():
-        return "skipped (done)", []
-    if dry_run:
-        return f"would call, ~{estimate('core', aspect) // 1000}k input tokens", []
-    return "core lines chosen", [analyse.call_llm_core_lines(aspect)]
-
-
 def run_find_core(doc: str, dry_run: bool):
     """Whole-document call: done once per document, not per aspect."""
     if (analyse.RESULTS_DIR / "core_themes.json").exists():
-        return "skipped (done)", [], 0
-    tokens = (len(analyse._labelled_document()) + len(analyse._get_prompt("find_core")) + 3000) // 4
+        return ["skipped (done)"], []
     if dry_run:
-        return f"would call, ~{tokens // 1000}k input tokens", [], tokens
-    return "core themes named", [analyse.call_llm_find_core()], tokens
+        tokens = (len(analyse._labelled_document()) + len(analyse._get_prompt("find_core")) + 3000) // 4
+        return [f"would call, ~{tokens // 1000}k input tokens"], []
+    return ["core themes named"], [analyse.call_llm_find_core()]
 
 
-def run_find_core_grouping(doc: str, dry_run: bool):
+def run_group(doc: str, dry_run: bool):
     """Group each core aspect on Haiku with this run's find_core themes."""
     core = json.loads((analyse.RESULTS_DIR / "core_themes.json").read_text())
     records, lines = [], []
@@ -130,9 +98,9 @@ def run_find_core_grouping(doc: str, dry_run: bool):
     return lines, records
 
 
-def run_find_core_score(doc: str, dry_run: bool):
-    """Score each core aspect grouped by find_core_grouping, with the core
-    claims folded into summary.xml."""
+def run_score(doc: str, dry_run: bool):
+    """Score each core aspect grouped by the group step, with the core claims
+    folded into summary.xml."""
     records, lines = [], []
     for aspect in analyse.CORE_ASPECTS:
         if not analyse.result_file(aspect, "weights.json").exists():
@@ -159,7 +127,7 @@ def run_find_core_score(doc: str, dry_run: bool):
             size = (len(block) if block else 0) + len(analyse._get_prompt(f"score_{aspect}")) + len(analyse._get_prompt("score_block"))
             lines.append(f"{aspect}: " + (f"would call, ~{size // 4 // 1000}k input tokens" if block else "would score 0 (no sentences), no call"))
             continue
-        record = analyse.call_llm_score(aspect)
+        record = analyse.call_llm_score_block(aspect)
         if record is not None:
             records.append(record)
         result = json.loads(analyse.result_file(aspect, "scoring.json").read_text())
@@ -167,9 +135,12 @@ def run_find_core_score(doc: str, dry_run: bool):
     return lines, records
 
 
+STEPS = {"find_core": run_find_core, "group": run_group, "score": run_score}
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("design", choices=["grouped", "core", "find_core", "find_core_grouping", "find_core_score"])
+    parser.add_argument("step", choices=list(STEPS))
     parser.add_argument("--runs", nargs="+", type=int, default=[1, 2, 3])
     parser.add_argument("--docs", nargs="+", default=COMPARISON_DOCS)
     parser.add_argument("--dry-run", action="store_true", help="estimate size; no API calls")
@@ -179,43 +150,15 @@ def main() -> int:
         analyse.get_client()
         analyse._set_system_prompt()
 
-    step = run_grouped if args.design == "grouped" else run_core
-    calls = tokens = 0
     for run in args.runs:
         for doc in args.docs:
             analyse.set_policy_name(doc)
-            prepare(doc, "find_core" if args.design.startswith("find_core") else args.design, run)
-            records = []
-            if args.design in ("find_core_grouping", "find_core_score"):
-                step_fn = run_find_core_grouping if args.design == "find_core_grouping" else run_find_core_score
-                lines, records = step_fn(doc, args.dry_run)
-                for line in lines:
-                    print(f"run {run} {doc}/{line}", flush=True)
-                if records:
-                    write_run_summary(doc, records)
-                continue
-            if args.design == "find_core":
-                outcome, records, size = run_find_core(doc, args.dry_run)
-                print(f"run {run} {doc}: {outcome}", flush=True)
-                if outcome.startswith("would call"):
-                    calls += 1
-                    tokens += size
-                if records:
-                    write_run_summary(doc, records)
-                continue
-            for aspect in analyse.ASPECTS:
-                if not has_sentences(aspect):
-                    continue
-                outcome, recs = step(aspect, args.dry_run)
-                print(f"run {run} {doc}/{aspect}: {outcome}", flush=True)
-                if outcome.startswith("would call"):
-                    calls += 2 if args.design == "grouped" else 1
-                    tokens += estimate(args.design, aspect)
-                records.extend(recs)
+            prepare(doc, run)
+            lines, records = STEPS[args.step](doc, args.dry_run)
+            for line in lines:
+                print(f"run {run} {doc}: {line}", flush=True)
             if records:
                 write_run_summary(doc, records)
-    if args.dry_run:
-        print(f"\n{calls} calls would be made, ~{tokens // 1000}k input tokens in total.")
     return 0
 
 

@@ -2,52 +2,7 @@ import re
 import unittest
 from string import Template
 
-from web_app.analyse import ASPECTS, _get_prompt, _weighting_input, section_score
-
-
-SUMMARY = """<root>
-<theme sentences="2" weight="core">
-<name>Costs to tenants</name>
-<text>
-<line>Rents are high. ** (Reference: 1)</line>
-<line>Fees rose.**(Link: 4) **(Link: 5)</line>
-</text>
-<references>
-<reference number="1">Housing Survey</reference>
-</references>
-<links>
-<link number="4" url="https://example.org">Example</link>
-</links>
-</theme>
-<ungrouped sentences="1">
-<text>
-<line>The consultation closed in June.</line>
-</text>
-<references>
-</references>
-<links>
-</links>
-</ungrouped>
-</root>
-"""
-
-
-class TestWeightingInput(unittest.TestCase):
-    """The weighting call must see the argument but none of the evidence."""
-
-    def setUp(self):
-        self.reduced = _weighting_input(SUMMARY)
-
-    def test_keeps_theme_names_sentences_and_counts(self):
-        self.assertIn("<name>Costs to tenants</name>", self.reduced)
-        self.assertIn("<line>Rents are high.</line>", self.reduced)
-        self.assertIn("<line>Fees rose.</line>", self.reduced)
-        self.assertIn('<theme sentences="2">', self.reduced)
-
-    def test_drops_citations_ungrouped_and_old_weights(self):
-        for absent in ("Reference", "Link", "<references>", "<links>", "Housing Survey",
-                       "example.org", "<ungrouped", "consultation", "weight="):
-            self.assertNotIn(absent, self.reduced)
+from web_app.analyse import ASPECTS, CORE_ASPECTS, _get_prompt, section_score
 
 
 class TestPromptPlaceholders(unittest.TestCase):
@@ -61,13 +16,16 @@ class TestPromptPlaceholders(unittest.TestCase):
                                          should_explain=_get_prompt(f"explain_{aspect}"))
             self.assertNotIn("$", prompt)
 
-    def test_weighting_prompt_substitutes(self):
-        for aspect in ASPECTS:
-            prompt = Template(_get_prompt("weight_themes")).substitute(
-                intervention="X", problem="Y", aspect="Z",
-                should_explain=_get_prompt(f"explain_{aspect}"))
-            self.assertNotIn("$", prompt)
+    def test_find_core_prompt_substitutes(self):
+        prompt = Template(_get_prompt("find_core")).substitute(
+            intervention="X", problem="Y", aspects="Z")
+        self.assertNotIn("$", prompt)
 
+    def test_grouping_prompt_substitutes(self):
+        for aspect in CORE_ASPECTS:
+            prompt = Template(_get_prompt("classify_with_core")).substitute(
+                intervention="X", aspect=aspect, core_themes="- A: B")
+            self.assertNotIn("$", prompt)
 
 
 class TestSectionScore(unittest.TestCase):

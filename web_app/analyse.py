@@ -60,52 +60,6 @@ class Themes(BaseModel):
     model_config = ConfigDict(extra="forbid")
     themes: list[Theme]
 
-class Reference(BaseModel):
-    model_config = ConfigDict(extra="forbid")
-    number: str
-
-class Claim(BaseModel):
-    model_config = ConfigDict(extra="forbid")
-    summary: str
-    data: list[str]
-    reasoning: str
-    references: list[Reference]
-
-class SummaryTheme(BaseModel):
-    model_config = ConfigDict(extra="forbid")
-    name: str
-    claims: list[Claim]
-
-class SummaryThemes(BaseModel):
-    model_config = ConfigDict(extra="forbid")
-    themes: list[Theme]
-
-class ThemeWeight(str, Enum):
-    core = "core"
-    not_core = "not core"
-
-class WeightedTheme(BaseModel):
-    model_config = ConfigDict(extra="forbid")
-    theme: str = Field(description="Name of the theme, exactly as given in the document extract")
-    # The reason comes before the weight so the label follows from it.
-    reason: str = Field(description="What part of the argument the theme carries, and which problem or should-explain point it bears on")
-    weight: ThemeWeight
-
-class ThemeWeights(BaseModel):
-    model_config = ConfigDict(extra="forbid")
-    themes: list[WeightedTheme]
-
-class CoreLine(BaseModel):
-    model_config = ConfigDict(extra="forbid")
-    name: str = Field(description="A short name for this line of argument")
-    # The reason comes before the ids so the selection follows from it.
-    reason: str = Field(description="Why the case for this aspect rests on this line of argument")
-    ids: list[str] = Field(description="Sentence codes that make up this line of argument, copied exactly from the input")
-
-class CoreLines(BaseModel):
-    model_config = ConfigDict(extra="forbid")
-    core_lines: list[CoreLine]
-
 class CoreTheme(BaseModel):
     model_config = ConfigDict(extra="forbid")
     name: str = Field(description="A short name, of the kind that could head a section")
@@ -153,7 +107,7 @@ POLICY_NAME = "visitor_levy"
 DOCUMENTS_DIR = PROJECT_ROOT / "documents" / POLICY_NAME
 RESULTS_DIR = PROJECT_ROOT / "results" / POLICY_NAME
 ASPECTS = ("diagnosis", "proposal", "implementation", "testing")
-# How the weighting prompt names each aspect; worded as in the opening line of
+# How the prompts name each aspect; worded as in the opening line of
 # the matching score_<aspect>.txt.
 ASPECT_DESCRIPTIONS = {
     "diagnosis": "the DIAGNOSIS: why something is proposed, that is, what the issue is that will be addressed",
@@ -241,10 +195,6 @@ def _set_system_prompt() -> list[dict]:
     return _system_prompt
 
 
-# LLM call boundary ---------------------------------------------------------
-# Replace these implementations with the live Anthropic calls when enabled.
-# Their return values are always persisted by run_analysis before the viewer
-# reads them, so no API response is ever rendered directly.
 def _chunk_document_lines(document_text: str) -> list[str]:
     """Split document_text into as many equal-sized chunks as it takes to
     keep each one at or under CHUNK_SIZE sentence lines.
@@ -379,68 +329,9 @@ def call_llm_extract_lines():
     return records
 
 
-def call_llm_classify_themes(aspect_name: str, model: str = "claude-haiku-5-5"):
-    schema = Themes.model_json_schema()
-    prompt = _get_prompt("classify")
-    with open(result_file(aspect_name, "text.txt"), "r") as f:
-        aspect_text = f.read()
-    # Streamed so the larger max_tokens (room for Sonnet's thinking on long
-    # aspects) does not hit the SDK's non-streaming timeout.
-    with track_llm_call(f"classify_themes:{aspect_name}", POLICY_NAME, "anthropic", model) as call:
-        with _client.messages.stream(
-            max_tokens=64000,
-            model=model,
-            system=_system_prompt,
-            messages=[{"role": "user", "content": "<document>"+ aspect_text +"</document>" + "<task>" + prompt + "</task>"}],
-            output_config={
-                    "effort": "low",  # mechanical grouping; Haiku 5.5 thinks by default
-                    "format": {
-                        "type": "json_schema",
-                        "schema": schema,
-                    }
-                },
-            ) as stream:
-            response = stream.get_final_message()
-        call.set_usage_from_response(response)
-    _raise_if_refused(response, f"classify_themes:{aspect_name}")
-    if response.stop_reason == "max_tokens":
-        raise RuntimeError(
-            f"classify_themes:{aspect_name}: response truncated (stop_reason=max_tokens, "
-            f"output_tokens={call.record.output_tokens}); raise max_tokens or split the aspect further"
-        )
-    with open(result_file(aspect_name, "classification.json"), "w") as f:
-        f.write(next(b.text for b in reversed(response.content) if b.type == "text"))
-    return call.record
-
-
-
-# def call_llm_summarise_claims(classified_themes_text: str, document_text: str, references_data: dict | None = None) -> dict:
-#     schema = SummaryThemes.model_json_schema()
-#     prompt = _get_prompt("summarise")
-#     response = _client.messages.create(
-#     max_tokens=5000,
-#     model="claude-haiku-5-5",
-#     system="You are an employee at a policy institute who is concerned that the public can see the evidence behind policy decisions and that a motivated citizen can understand why a policy decision has been made.",
-#     messages=[{"role": "user", "content": "<document>"+ total_text + "</document>" + "<prompt>" + prompt + "</prompt>"}],
-#     output_config={
-#                 "format": {
-#                     "type": "json_schema",
-#                     "schema": schema,
-#                 }
-#             },
-#     )
-#     data = json.loads(response.content[0].text)
-#     return {}
-
-
 def _anchor_texts() -> tuple[str, str]:
-    """The intervention and problem anchors recorded at extraction.  Results
-    extracted before problem.txt existed (e.g. emissions_trading) get a
-    placeholder rather than failing the substitution."""
-    intervention_text = (RESULTS_DIR / "intervention.txt").read_text()
-    problem_path = RESULTS_DIR / "problem.txt"
-    problem_text = problem_path.read_text().strip() if problem_path.exists() else ""
-    return intervention_text, problem_text or "not recorded for this document"
+    """The intervention and problem anchors recorded at extraction."""
+    return (RESULTS_DIR / "intervention.txt").read_text(), (RESULTS_DIR / "problem.txt").read_text().strip()
 
 
 def _read_summary_xml(aspect_name: str) -> str:
@@ -454,73 +345,8 @@ def _read_summary_xml(aspect_name: str) -> str:
     return re.sub(r'<line id="[^"]*">', "<line>", xml)
 
 
-def _weighting_input(xml: str) -> str:
-    """Reduce summary.xml to theme names and sentence text, so the weighting
-    call cannot see which themes are cited or how well.  The <ungrouped>
-    bucket is not a theme and gets no weight, so it is dropped too, as is any
-    weight attribute left over from an earlier run."""
-    xml = re.sub(r"<references>.*?</references>\n?", "", xml, flags=re.S)
-    xml = re.sub(r"<links>.*?</links>\n?", "", xml, flags=re.S)
-    xml = re.sub(r"<ungrouped[^>]*>.*?</ungrouped>\n?", "", xml, flags=re.S)
-    xml = re.sub(r"\s*\*\*\s*\((?:Reference|Link):[^)]*\)", "", xml)
-    return re.sub(r' weight="[^"]*"', "", xml)
-
-
-def call_llm_weight_themes(aspect_name: str):
-    """Mark each theme core or not core before scoring, in a call that sees
-    the argument but not the evidence, so a theme's weight cannot follow from
-    how well it is evidenced.  Writes weights.json, which construct_xml then
-    folds into summary.xml for the scorer; it can be corrected by hand before
-    scoring, and must be regenerated whenever classification.json is."""
-    schema = ThemeWeights.model_json_schema()
-    xml = _weighting_input(_read_summary_xml(aspect_name))
-    intervention_text, problem_text = _anchor_texts()
-    prompt = Template(_get_prompt("weight_themes")).substitute(
-        intervention=intervention_text,
-        problem=problem_text,
-        aspect=ASPECT_DESCRIPTIONS[aspect_name],
-        should_explain=_get_prompt(f"explain_{aspect_name}").rstrip("\n"),
-    )
-    with track_llm_call(f"weight_themes:{aspect_name}", POLICY_NAME, "anthropic", "claude-sonnet-5-5") as call:
-        response = _client.messages.create(
-            model="claude-sonnet-5-5",
-            max_tokens=16000,
-            thinking={"type": "adaptive", "display": "summarized"},
-            system=_system_prompt,
-            messages=[{"role": "user", "content": "<document>" + xml + "</document>" + "<task>" + prompt + "</task>"}],
-            output_config={
-                "format": {
-                "type": "json_schema",
-                "schema": schema,
-            }}
-            )
-        call.set_usage_from_response(response)
-    if response.stop_reason == "max_tokens":
-        raise RuntimeError(
-            f"weight_themes:{aspect_name}: response truncated (stop_reason=max_tokens, "
-            f"output_tokens={call.record.output_tokens}); raise max_tokens"
-        )
-    data = json.loads(response.content[-1].text)
-
-    # construct_xml matches weights to themes by name, so a renamed, dropped
-    # or invented theme would silently lose its weight: fail loudly instead.
-    # The yardstick is the themes the call was shown: construct_xml leaves out
-    # a theme with no sentences from this aspect, so classification.json can
-    # hold names that summary.xml does not.
-    expected = re.findall(r"<theme[^>]*>\s*<name>(.*?)</name>", xml, flags=re.S)
-    returned = [entry["theme"] for entry in data["themes"]]
-    if sorted(returned) != sorted(expected):
-        raise RuntimeError(
-            f"weight_themes:{aspect_name}: themes returned {returned} do not match "
-            f"the themes in classification.json {expected}"
-        )
-    with open(result_file(aspect_name, "weights.json"), "w") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-    return call.record
-
-
 def _strip_citations(text: str) -> str:
-    """Remove in-text citation markers, as _weighting_input does for themes."""
+    """Remove in-text citation markers."""
     return re.sub(r"\s*\*\*\s*\((?:Reference|Link):[^)]*\)", "", text)
 
 
@@ -645,54 +471,6 @@ def call_llm_classify_with_core(aspect_name: str, core_themes: list[dict], model
     return call.record, problems
 
 
-def call_llm_core_lines(aspect_name: str):
-    """Experimental alternative to grouping then weighting: name the one to
-    three lines of argument the aspect rests on, straight from its sentences,
-    with citations removed so the choice cannot follow the evidence.  Writes
-    core.json; ids outside the aspect are dropped and counted."""
-    schema = CoreLines.model_json_schema()
-    with open(result_file(aspect_name, "text.txt"), "r") as f:
-        aspect_text = _strip_citations(f.read())
-    aspect_ids = set(re.findall(r"^(S\d{4,})", aspect_text, flags=re.M))
-    intervention_text, problem_text = _anchor_texts()
-    prompt = Template(_get_prompt("weight_core")).substitute(
-        intervention=intervention_text,
-        problem=problem_text,
-        aspect=ASPECT_DESCRIPTIONS[aspect_name],
-        should_explain=_get_prompt(f"explain_{aspect_name}").rstrip("\n"),
-    )
-    with track_llm_call(f"core_lines:{aspect_name}", POLICY_NAME, "anthropic", "claude-sonnet-5-5") as call:
-        with _client.messages.stream(
-            model="claude-sonnet-5-5",
-            max_tokens=32000,
-            thinking={"type": "adaptive", "display": "summarized"},
-            system=_system_prompt,
-            messages=[{"role": "user", "content": "<document>" + aspect_text + "</document>" + "<task>" + prompt + "</task>"}],
-            output_config={
-                "format": {
-                "type": "json_schema",
-                "schema": schema,
-            }}
-            ) as stream:
-            response = stream.get_final_message()
-        call.set_usage_from_response(response)
-    if response.stop_reason == "max_tokens":
-        raise RuntimeError(
-            f"core_lines:{aspect_name}: response truncated (stop_reason=max_tokens, "
-            f"output_tokens={call.record.output_tokens}); raise max_tokens"
-        )
-    data = json.loads(next(b.text for b in reversed(response.content) if b.type == "text"))
-    outside = 0
-    for line in data["core_lines"]:
-        kept = [sid for sid in line["ids"] if sid in aspect_ids]
-        outside += len(line["ids"]) - len(kept)
-        line["ids"] = kept
-    data["ids_outside_aspect"] = outside
-    with open(result_file(aspect_name, "core.json"), "w") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-    return call.record
-
-
 def _load_weights(aspect_name: str) -> dict[str, str]:
     path = result_file(aspect_name, "weights.json")
     if not path.exists():
@@ -709,7 +487,7 @@ def section_score(theme_scores: list[dict], weights: dict[str, str]) -> dict:
     With no core theme the mean is over all themes.  A core theme the scorer
     gave no level is reported in missing_core and left out of the mean."""
     scores = {t["theme"]: int(t["score"]) for t in theme_scores}
-    core = [name for name, weight in weights.items() if weight == ThemeWeight.core.value]
+    core = [name for name, weight in weights.items() if weight == "core"]
     missing_core = [name for name in core if name not in scores]
     used = [name for name in core if name in scores] or list(scores)
     if not used:
@@ -802,8 +580,6 @@ def call_llm_score_block(aspect_name: str):
 
 
 def call_llm_score(aspect_name: str):
-    if aspect_name in BLOCK_ASPECTS:
-        return call_llm_score_block(aspect_name)
     schema = Score.model_json_schema()
     xml = _read_summary_xml(aspect_name)
     weights = _load_weights(aspect_name)
@@ -855,16 +631,6 @@ def call_llm_score(aspect_name: str):
     with open(result_file(aspect_name, "scoring.json"), "w") as f:
         json.dump(result, f, indent=2)
     return call.record
-
-
-
-# def _load_lines(aspect: str) -> list[str]:
-#     for filename in ("lines_2.txt", "lines.txt"):
-#         path = result_file(aspect, filename)
-#         if path.exists():
-#             return [line.strip() for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
-#     return []
-
 
 
 def _step_event(label: str, record) -> dict:

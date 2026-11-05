@@ -100,18 +100,6 @@ def resolve_existing_path(primary: Path, fallback: Path = None) -> Path:
     return primary
 
 
-# Directory containing modular LLM prompt files
-PROMPTS_DIR = BASE_DIR / "prompts"
-
-
-def load_prompt_file(filename: str, fallback_text: str = "") -> str:
-    """Loads prompt text from the web_app/prompts directory."""
-    path = PROMPTS_DIR / filename
-    if path.exists():
-        return path.read_text(encoding="utf-8").strip()
-    return fallback_text
-
-
 def load_document_title() -> str:
     """Load the selected document's display title from metadata.json."""
     metadata_file = PROJECT_ROOT / "documents" / analyse.POLICY_NAME / "metadata.json"
@@ -356,76 +344,7 @@ def validate_assessment_report(report_data: dict, aspect: str = "diagnosis") -> 
 
 
 # =============================================================================
-# SECTION 3: LLM CALL PLACEHOLDERS
-# =============================================================================
-
-def call_llm_extract_diagnosis_lines(document_text: str) -> list[str]:
-    """
-    LLM Call 1: Extract sentences relevant to policy diagnosis.
-
-    Prompt file: web_app/prompts/extract_diagnosis.txt
-    Model: claude-sonnet-5-5  |  max_tokens: 20000
-    Schema: Sentence(id: str)  →  structured JSON list of sentence codes
-
-    Returns:
-        A list of sentence codes: e.g. ['S002', 'S003', 'S010', ...]
-    """
-    # ---------------------------------------------------------------------------
-    # LLM BOOSTER — uncomment when ready to use live Anthropic API
-    # ---------------------------------------------------------------------------
-    # import anthropic
-    # from pydantic import BaseModel
-    #
-    # class Sentence(BaseModel):
-    #     id: str
-    #
-    # task_prompt = load_prompt_file("extract_diagnosis.txt",
-    #     fallback_text=(
-    #         "Your task is to identify all sentences that contain claims or evidence "
-    #         "for the diagnosis of the problem this policy aims to address. "
-    #         "These should be factual not value statements. Do not consider claims "
-    #         "regarding the proposed intervention, implementation or testing and "
-    #         "evaluation of the intervention. Provide the outcome of your search as "
-    #         "a list of sentence codes encoded in a structured json output"
-    #     )
-    # )
-    # system_prompt = load_prompt_file("system.txt",
-    #     fallback_text="You are an employee at a policy institute who is concerned "
-    #     "that the public can see the evidence behind policy decisions and that a "
-    #     "motivated citizen can understand why a policy decision has been made."
-    # )
-    # schema = Sentence.model_json_schema()
-    # schema["additionalProperties"] = False
-    #
-    # client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
-    # response = client.messages.create(
-    #     model="claude-sonnet-5-5",
-    #     max_tokens=20000,
-    #     system=system_prompt,
-    #     messages=[{
-    #         "role": "user",
-    #         "content": f"<document>{document_text}</document><task>{task_prompt}</task>"
-    #     }],
-    #     output_config={
-    #         "format": {
-    #             "type": "json_schema",
-    #             "schema": schema,
-    #         }
-    #     },
-    # )
-    # result = json.loads(response.content[0].text)
-    # # result is a list of {"id": "S001"} objects; extract just the codes
-    # return [item["id"] for item in result if isinstance(item, dict) and "id" in item]
-    # ---------------------------------------------------------------------------
-    logger.info("[LLM Placeholder] Calling call_llm_extract_diagnosis_lines...")
-
-    # The route consumes the persisted artefact, never a response object.
-    return load_result_lines("diagnosis")
-
-
-
-# =============================================================================
-# SECTION 4: SESSION CACHING & DATA MANAGEMENT
+# SECTION 3: SESSION CACHING & DATA MANAGEMENT
 # =============================================================================
 
 def get_or_create_session_id() -> str:

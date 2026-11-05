@@ -178,7 +178,7 @@ def track_llm_call(step: str, policy_name: str, provider: str, model: str):
 
     Usage::
 
-        with track_llm_call("classify_themes:proposal", policy_name, "anthropic", model) as call:
+        with track_llm_call("classify_with_core:proposal", policy_name, "anthropic", model) as call:
             response = client.messages.create(...)
             call.set_usage_from_response(response)
     """
