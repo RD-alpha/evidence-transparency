@@ -5,9 +5,6 @@ An LLM pipeline that scores UK government policy documents against the
 and the data behind our report comparing it with the 2018 Evidence
 Transparency Spot Check.
 
-The report is in
-[`annotations/spot_check_report/`](annotations/spot_check_report/Report%20on%20spot%20check%20(5).pdf).
-
 ## What the pipeline does
 
 The pipeline takes a GOV.UK page or PDF and gives it four scores, one per
@@ -39,7 +36,7 @@ The prompts are in [`web_app/prompts/`](web_app/prompts/).
 | `documents/<doc>/` | Each policy document as it was ingested: the source text, `input.txt` (one sentence per line, with ids) and `references.json` |
 | `results/<doc>/` | Pipeline output for each document: the sentences assigned to each aspect, themes, scores and reasoning |
 | `results/<doc>_rep1` … `_rep5` | Five complete reruns of the same document, used for the reliability figures |
-| `annotations/spot_check_report/` | The report, its figures and `make_figures.py` |
+| `annotations/spot_check_report/` | The report's figures |
 | `annotations/spa_human_comparison/` | The State Pension age comparison against two human annotators |
 
 Documents included: the 64 documents from the 2018 spot check that are still
@@ -47,25 +44,15 @@ available (listed in `annotations/scored_documents.csv`, with sources in
 `annotations/2018_report_sources.csv`), plus the documents used for the
 reliability runs.
 
-## Reproducing the figures
-
-Reproducing the figures doesn't need an API key: the scripts only read the
-saved results.
-
-```bash
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-
-cd annotations/spot_check_report && python make_figures.py      # report figures
-cd ../spa_human_comparison && python compare.py                # human comparison
-```
-
 ## Running the pipeline
 
 Running the pipeline calls the Anthropic API, which costs money. OCR of
 scanned PDF pages uses Mistral.
 
 ```bash
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+
 cp .env.example .env          # then add your API keys
 cd web_app && python app.py   # http://localhost:5001
 ```
